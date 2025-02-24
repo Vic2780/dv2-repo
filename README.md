@@ -1,5 +1,5 @@
 # dv2-repo
-a public repository for distribution of Dragon Village 2 assets. for other Dragon Village repositories, see my user profile.
+a public repository for distribution of Dragon Village 2 assets. for other Dragon Village repositories, see my <a href="https://github.com/Vic2780">user profile</a>.
 <br>
 <div>
 i do <i>not</i> own these assets. Dragon Village 2 is no longer in operation, but its assets are still copyrighted property of highbrow, and are <i>not</i> for commercial use.
