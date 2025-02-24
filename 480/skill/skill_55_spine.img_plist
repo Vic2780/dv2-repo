@@ -1,0 +1,60 @@
+skill_55_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skill_kamikaze3
+  rotate: true
+  xy: 251, 1564
+  size: 173, 165
+  orig: 429, 419
+  offset: 142, 126
+  index: -1
+skill_kamikaze1
+  rotate: true
+  xy: 345, 1233
+  size: 63, 75
+  orig: 429, 419
+  offset: 192, 164
+  index: -1
+skill_kamikaze8
+  rotate: false
+  xy: 2, 429
+  size: 417, 391
+  orig: 429, 419
+  offset: 12, 12
+  index: -1
+skill_kamikaze6
+  rotate: false
+  xy: 2, 822
+  size: 413, 409
+  orig: 429, 419
+  offset: 13, 1
+  index: -1
+skill_kamikaze4
+  rotate: true
+  xy: 2, 1564
+  size: 305, 247
+  orig: 429, 419
+  offset: 52, 88
+  index: -1
+skill_kamikaze7
+  rotate: true
+  xy: 2, 2
+  size: 425, 419
+  orig: 429, 419
+  offset: 4, 0
+  index: -1
+skill_kamikaze2
+  rotate: false
+  xy: 251, 1739
+  size: 91, 91
+  orig: 429, 419
+  offset: 178, 163
+  index: -1
+skill_kamikaze5
+  rotate: true
+  xy: 2, 1233
+  size: 329, 341
+  orig: 429, 419
+  offset: 52, 55
+  index: -1

@@ -1,0 +1,18 @@
+134_effect_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_predator_effectlayer1
+  rotate: false
+  xy: 2, 213
+  size: 90, 155
+  orig: 98, 167
+  offset: 3, 7
+  index: -1
+m_predator_effectlayer2
+  rotate: false
+  xy: 2, 2
+  size: 113, 209
+  orig: 123, 221
+  offset: 5, 6
+  index: -1

@@ -1,0 +1,305 @@
+109_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_minogre_head1
+  rotate: false
+  xy: 225, 2
+  size: 155, 143
+  orig: 155, 143
+  offset: 0, 0
+  index: -1
+m_minogre_gro_arm1
+  rotate: true
+  xy: 1102, 75
+  size: 62, 38
+  orig: 72, 74
+  offset: 9, 7
+  index: -1
+m_minogre_gro_head2
+  rotate: false
+  xy: 382, 93
+  size: 172, 49
+  orig: 172, 53
+  offset: 0, 2
+  index: -1
+m_minogre_fin1
+  rotate: true
+  xy: 1008, 153
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+m_minogre_back
+  rotate: true
+  xy: 114, 138
+  size: 114, 83
+  orig: 114, 83
+  offset: 0, 0
+  index: -1
+m_minogre_gro_hand22
+  rotate: true
+  xy: 788, 108
+  size: 75, 47
+  orig: 83, 69
+  offset: 2, 16
+  index: -1
+m_minogre_sm2
+  rotate: false
+  xy: 1177, 183
+  size: 51, 60
+  orig: 57, 62
+  offset: 6, 2
+  index: -1
+m_minogre_gro_arm3
+  rotate: true
+  xy: 873, 185
+  size: 68, 38
+  orig: 122, 64
+  offset: 22, 12
+  index: -1
+m_minogre_fin2
+  rotate: true
+  xy: 1014, 75
+  size: 76, 86
+  orig: 76, 86
+  offset: 0, 0
+  index: -1
+m_minogre_gro_fin11
+  rotate: true
+  xy: 962, 151
+  size: 32, 44
+  orig: 48, 92
+  offset: 10, 18
+  index: -1
+m_minogre_sm
+  rotate: true
+  xy: 326, 147
+  size: 101, 55
+  orig: 105, 57
+  offset: 0, 0
+  index: -1
+m_minogre_gro_st1
+  rotate: true
+  xy: 1105, 139
+  size: 42, 34
+  orig: 74, 86
+  offset: 12, 51
+  index: -1
+m_minogre_nasa22
+  rotate: false
+  xy: 642, 207
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+m_minogre_gro_fin2
+  rotate: true
+  xy: 1006, 208
+  size: 34, 54
+  orig: 76, 86
+  offset: 38, 7
+  index: -1
+m_minogre_leg1
+  rotate: false
+  xy: 1142, 125
+  size: 83, 56
+  orig: 83, 56
+  offset: 0, 0
+  index: -1
+m_minogre_body1
+  rotate: false
+  xy: 382, 2
+  size: 173, 89
+  orig: 173, 89
+  offset: 0, 0
+  index: -1
+m_minogre_hand22
+  rotate: false
+  xy: 788, 185
+  size: 83, 69
+  orig: 83, 69
+  offset: 0, 0
+  index: -1
+m_minogre_gro_fin1
+  rotate: false
+  xy: 971, 185
+  size: 33, 56
+  orig: 53, 72
+  offset: 12, 16
+  index: -1
+m_minogre_gro_arm22
+  rotate: false
+  xy: 499, 218
+  size: 59, 35
+  orig: 89, 83
+  offset: 11, 25
+  index: -1
+m_minogre_arm1
+  rotate: true
+  xy: 496, 144
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+m_minogre_line
+  rotate: true
+  xy: 444, 218
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+m_minogre_st1
+  rotate: false
+  xy: 712, 108
+  size: 74, 86
+  orig: 74, 86
+  offset: 0, 0
+  index: -1
+m_minogre_leg2
+  rotate: false
+  xy: 913, 188
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+m_minogre_arm2
+  rotate: true
+  xy: 663, 117
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+m_minogre_arm22
+  rotate: false
+  xy: 572, 117
+  size: 89, 83
+  orig: 89, 83
+  offset: 0, 0
+  index: -1
+m_minogre_gro_arm11
+  rotate: false
+  xy: 712, 196
+  size: 72, 58
+  orig: 116, 110
+  offset: 16, 42
+  index: -1
+m_minogre_st2
+  rotate: false
+  xy: 1143, 2
+  size: 99, 121
+  orig: 101, 121
+  offset: 1, 0
+  index: -1
+m_minogre_head2
+  rotate: false
+  xy: 840, 2
+  size: 172, 53
+  orig: 172, 53
+  offset: 0, 0
+  index: -1
+m_minogre_pad1
+  rotate: false
+  xy: 700, 2
+  size: 138, 104
+  orig: 138, 104
+  offset: 0, 0
+  index: -1
+m_minogre_arm11
+  rotate: true
+  xy: 2, 138
+  size: 116, 110
+  orig: 116, 110
+  offset: 0, 0
+  index: -1
+m_minogre_gro_body1
+  rotate: false
+  xy: 1014, 2
+  size: 127, 71
+  orig: 173, 89
+  offset: 14, 1
+  index: -1
+m_minogre_gro_head1
+  rotate: false
+  xy: 557, 2
+  size: 141, 113
+  orig: 155, 143
+  offset: 6, 28
+  index: -1
+m_minogre_ear
+  rotate: false
+  xy: 383, 218
+  size: 59, 36
+  orig: 59, 36
+  offset: 0, 0
+  index: -1
+m_minogre_arm3
+  rotate: false
+  xy: 840, 57
+  size: 122, 64
+  orig: 122, 64
+  offset: 0, 0
+  index: -1
+m_minogre_gro_pad2
+  rotate: false
+  xy: 383, 144
+  size: 111, 72
+  orig: 125, 100
+  offset: 12, 3
+  index: -1
+m_minogre_foot
+  rotate: true
+  xy: 1082, 153
+  size: 54, 21
+  orig: 54, 21
+  offset: 0, 0
+  index: -1
+m_minogre_eyetw
+  rotate: false
+  xy: 1105, 183
+  size: 70, 61
+  orig: 72, 61
+  offset: 0, 0
+  index: -1
+m_minogre_pad2
+  rotate: false
+  xy: 199, 147
+  size: 125, 100
+  orig: 125, 100
+  offset: 0, 0
+  index: -1
+m_minogre_gro_pad1
+  rotate: true
+  xy: 837, 123
+  size: 60, 74
+  orig: 138, 104
+  offset: 5, 21
+  index: -1
+m_minogre_fin22
+  rotate: true
+  xy: 913, 123
+  size: 63, 47
+  orig: 71, 47
+  offset: 0, 0
+  index: -1
+m_minogre_body2
+  rotate: false
+  xy: 2, 2
+  size: 221, 134
+  orig: 221, 134
+  offset: 0, 0
+  index: -1
+m_minogre_fin11
+  rotate: false
+  xy: 964, 57
+  size: 48, 92
+  orig: 48, 92
+  offset: 0, 0
+  index: -1
+m_minogre_gro_arm2
+  rotate: false
+  xy: 572, 202
+  size: 68, 45
+  orig: 88, 47
+  offset: 14, 0
+  index: -1

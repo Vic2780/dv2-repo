@@ -1,0 +1,326 @@
+138_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_griffar_arm4_fire1
+  rotate: false
+  xy: 592, 1111
+  size: 159, 188
+  orig: 165, 188
+  offset: 0, 0
+  index: -1
+m_griffar_body1_w
+  rotate: false
+  xy: 922, 699
+  size: 109, 110
+  orig: 109, 110
+  offset: 0, 0
+  index: -1
+m_griffar_gro_arm2
+  rotate: false
+  xy: 770, 1430
+  size: 158, 165
+  orig: 168, 261
+  offset: 4, 6
+  index: -1
+m_griffar_eye_eff
+  rotate: true
+  xy: 951, 1851
+  size: 97, 86
+  orig: 121, 110
+  offset: 12, 11
+  index: -1
+m_griffar_body1
+  rotate: false
+  xy: 2, 1440
+  size: 243, 341
+  orig: 243, 341
+  offset: 0, 0
+  index: -1
+m_griffar_arm2_w2
+  rotate: false
+  xy: 401, 1361
+  size: 203, 64
+  orig: 203, 64
+  offset: 0, 0
+  index: -1
+m_griffar_arm3
+  rotate: false
+  xy: 896, 1597
+  size: 95, 137
+  orig: 95, 137
+  offset: 0, 0
+  index: -1
+m_griffar_gro_head2
+  rotate: true
+  xy: 931, 1426
+  size: 67, 105
+  orig: 77, 113
+  offset: 4, 6
+  index: -1
+m_griffar_arm3_w
+  rotate: true
+  xy: 931, 1293
+  size: 131, 107
+  orig: 131, 107
+  offset: 0, 0
+  index: -1
+m_griffar_wing11
+  rotate: true
+  xy: 669, 2
+  size: 583, 356
+  orig: 583, 356
+  offset: 0, 0
+  index: -1
+m_griffar_wing111
+  rotate: true
+  xy: 401, 682
+  size: 333, 221
+  orig: 333, 221
+  offset: 0, 0
+  index: -1
+m_griffar_tail
+  rotate: true
+  xy: 401, 1017
+  size: 342, 189
+  orig: 342, 189
+  offset: 0, 0
+  index: -1
+m_griffar_arm1_w
+  rotate: false
+  xy: 770, 1296
+  size: 159, 132
+  orig: 159, 132
+  offset: 0, 0
+  index: -1
+m_griffar_foot
+  rotate: false
+  xy: 873, 1749
+  size: 76, 137
+  orig: 76, 137
+  offset: 0, 0
+  index: -1
+m_griffar_gro_arm4
+  rotate: true
+  xy: 606, 1301
+  size: 122, 148
+  orig: 136, 156
+  offset: 5, 2
+  index: -1
+m_griffar_arm4
+  rotate: false
+  xy: 922, 587
+  size: 116, 110
+  orig: 116, 110
+  offset: 0, 0
+  index: -1
+m_griffar_body2_w2
+  rotate: false
+  xy: 930, 1495
+  size: 93, 91
+  orig: 93, 91
+  offset: 0, 0
+  index: -1
+m_griffar_gro_neck
+  rotate: false
+  xy: 624, 682
+  size: 37, 56
+  orig: 165, 242
+  offset: 81, 176
+  index: -1
+m_griffar_arm4_w2
+  rotate: true
+  xy: 621, 1909
+  size: 115, 74
+  orig: 115, 74
+  offset: 0, 0
+  index: -1
+m_griffar_tailfire1
+  rotate: false
+  xy: 820, 987
+  size: 182, 154
+  orig: 192, 166
+  offset: 0, 4
+  index: -1
+m_griffar_arm4_fire2
+  rotate: false
+  xy: 731, 1597
+  size: 163, 150
+  orig: 165, 188
+  offset: 0, 0
+  index: -1
+m_griffar_arm1
+  rotate: false
+  xy: 931, 1143
+  size: 107, 148
+  orig: 107, 148
+  offset: 0, 0
+  index: -1
+m_griffar_arm2_w1
+  rotate: false
+  xy: 868, 818
+  size: 170, 167
+  orig: 170, 167
+  offset: 0, 0
+  index: -1
+m_griffar_wing1
+  rotate: false
+  xy: 452, 1621
+  size: 165, 156
+  orig: 165, 156
+  offset: 0, 0
+  index: -1
+m_griffar_gro_body1
+  rotate: true
+  xy: 621, 1776
+  size: 131, 117
+  orig: 243, 341
+  offset: 88, 30
+  index: -1
+m_griffar_head2
+  rotate: false
+  xy: 753, 1143
+  size: 176, 151
+  orig: 176, 151
+  offset: 0, 0
+  index: -1
+m_griffar_gro_head
+  rotate: false
+  xy: 740, 1749
+  size: 131, 119
+  orig: 251, 229
+  offset: 24, 41
+  index: -1
+m_griffar_neck_w2
+  rotate: true
+  xy: 873, 1888
+  size: 136, 73
+  orig: 194, 187
+  offset: 9, 111
+  index: -1
+m_griffar_body2_w1
+  rotate: false
+  xy: 740, 1870
+  size: 131, 92
+  orig: 131, 92
+  offset: 0, 0
+  index: -1
+m_griffar_tailfire2
+  rotate: true
+  xy: 452, 1427
+  size: 192, 160
+  orig: 192, 166
+  offset: 0, 0
+  index: -1
+m_griffar_neck
+  rotate: true
+  xy: 624, 818
+  size: 165, 242
+  orig: 165, 242
+  offset: 0, 0
+  index: -1
+m_griffar_smoke
+  rotate: true
+  xy: 951, 1736
+  size: 113, 73
+  orig: 113, 73
+  offset: 0, 0
+  index: -1
+m_griffar_gro_eff1
+  rotate: true
+  xy: 2, 682
+  size: 756, 397
+  orig: 762, 399
+  offset: 3, 2
+  index: -1
+m_griffar_arm2
+  rotate: true
+  xy: 624, 985
+  size: 124, 194
+  orig: 124, 194
+  offset: 0, 0
+  index: -1
+m_griffar_tailfire3
+  rotate: true
+  xy: 465, 1779
+  size: 192, 154
+  orig: 192, 166
+  offset: 0, 0
+  index: -1
+m_griffar_arm4_w1
+  rotate: true
+  xy: 619, 1592
+  size: 182, 110
+  orig: 182, 110
+  offset: 0, 0
+  index: -1
+m_griffar_eye
+  rotate: true
+  xy: 592, 1017
+  size: 35, 25
+  orig: 251, 229
+  offset: 69, 56
+  index: -1
+m_griffar_head1
+  rotate: false
+  xy: 669, 587
+  size: 251, 229
+  orig: 251, 229
+  offset: 0, 0
+  index: -1
+m_griffar_gro_eff2
+  rotate: true
+  xy: 948, 1950
+  size: 70, 80
+  orig: 78, 82
+  offset: 2, 2
+  index: -1
+m_griffar_body2
+  rotate: true
+  xy: 2, 1783
+  size: 233, 272
+  orig: 233, 272
+  offset: 0, 0
+  index: -1
+m_griffar_arm4_fire3
+  rotate: true
+  xy: 614, 1425
+  size: 165, 154
+  orig: 165, 188
+  offset: 0, 0
+  index: -1
+m_griffar_neck_w1
+  rotate: true
+  xy: 276, 1779
+  size: 194, 187
+  orig: 194, 187
+  offset: 0, 0
+  index: -1
+m_griffar_gro_eff
+  rotate: false
+  xy: 2, 2
+  size: 665, 678
+  orig: 665, 678
+  offset: 0, 0
+  index: -1
+m_griffar_leg1
+  rotate: true
+  xy: 247, 1693
+  size: 84, 197
+  orig: 84, 197
+  offset: 0, 0
+  index: -1
+m_griffar_gro_eff3
+  rotate: false
+  xy: 276, 1975
+  size: 70, 49
+  orig: 78, 87
+  offset: 3, 5
+  index: -1
+m_griffar_body3
+  rotate: true
+  xy: 247, 1440
+  size: 251, 203
+  orig: 251, 203
+  offset: 0, 0
+  index: -1

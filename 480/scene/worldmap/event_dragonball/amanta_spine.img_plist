@@ -1,0 +1,228 @@
+amanta_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+w_god_0007_flamelll3
+  rotate: false
+  xy: 2, 703
+  size: 245, 152
+  orig: 245, 152
+  offset: 0, 0
+  index: -1
+w_god_0010_jjjjj_light2
+  rotate: true
+  xy: 249, 703
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+w_god_0031_tale3
+  rotate: true
+  xy: 248, 889
+  size: 118, 71
+  orig: 118, 73
+  offset: 0, 0
+  index: -1
+w_god_0021_neck
+  rotate: true
+  xy: 218, 1820
+  size: 77, 79
+  orig: 77, 79
+  offset: 0, 0
+  index: -1
+w_god_0019_arm_lll3
+  rotate: false
+  xy: 202, 1028
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+w_god_0013_eye2
+  rotate: false
+  xy: 294, 433
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+w_god_0023_arm_lll2-copy
+  rotate: true
+  xy: 77, 1890
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+w_god_0008_flamelll2
+  rotate: false
+  xy: 2, 857
+  size: 244, 169
+  orig: 244, 169
+  offset: 0, 0
+  index: -1
+w_god_0030_tale2
+  rotate: true
+  xy: 184, 1682
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+w_god_0001_ball_lightwww
+  rotate: false
+  xy: 2, 411
+  size: 290, 290
+  orig: 290, 290
+  offset: 0, 0
+  index: -1
+w_god_0012_eyebrow_lll
+  rotate: true
+  xy: 236, 1899
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+w_god_0002_ball_light8
+  rotate: true
+  xy: 2, 2
+  size: 407, 317
+  orig: 407, 317
+  offset: 0, 0
+  index: -1
+w_god_0004_flamerrr3
+  rotate: false
+  xy: 2, 1504
+  size: 182, 148
+  orig: 182, 148
+  offset: 0, 0
+  index: -1
+w_god_0015_head
+  rotate: false
+  xy: 77, 1799
+  size: 92, 89
+  orig: 92, 89
+  offset: 0, 0
+  index: -1
+w_god_0026_wing_lll
+  rotate: true
+  xy: 186, 1520
+  size: 160, 131
+  orig: 162, 137
+  offset: 0, 0
+  index: -1
+w_god_0016_eyebrow_rrr
+  rotate: false
+  xy: 294, 455
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+w_god_0022_body
+  rotate: true
+  xy: 202, 1073
+  size: 107, 112
+  orig: 107, 120
+  offset: 0, 0
+  index: -1
+w_god_0009_flamelll1
+  rotate: true
+  xy: 2, 1028
+  size: 329, 198
+  orig: 329, 198
+  offset: 0, 0
+  index: -1
+w_god_0005_flamerrr2
+  rotate: false
+  xy: 2, 1359
+  size: 187, 143
+  orig: 189, 143
+  offset: 1, 0
+  index: -1
+w_god_0018_arm_lll2
+  rotate: false
+  xy: 112, 1890
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+w_god_0027_wing_rrr
+  rotate: false
+  xy: 191, 1374
+  size: 118, 144
+  orig: 118, 148
+  offset: 0, 0
+  index: -1
+w_god_0017_mouth
+  rotate: false
+  xy: 171, 1820
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+w_god_0003_ball_lightyyy
+  rotate: false
+  xy: 202, 1182
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+w_god_0011_jjjjj_light
+  rotate: false
+  xy: 208, 1899
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+w_god_0028_body2
+  rotate: false
+  xy: 2, 1820
+  size: 73, 108
+  orig: 73, 108
+  offset: 0, 0
+  index: -1
+w_god_0014_eye1
+  rotate: false
+  xy: 294, 411
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+w_god_0024_arm_lll3-copy
+  rotate: false
+  xy: 167, 1890
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+w_god_0025_arm_lll1-copy
+  rotate: true
+  xy: 249, 849
+  size: 38, 65
+  orig: 38, 65
+  offset: 0, 0
+  index: -1
+w_god_0020_arm_lll1
+  rotate: true
+  xy: 248, 1009
+  size: 42, 62
+  orig: 42, 62
+  offset: 0, 0
+  index: -1
+w_god_0029_tale
+  rotate: false
+  xy: 202, 1294
+  size: 110, 78
+  orig: 110, 78
+  offset: 0, 0
+  index: -1
+w_god_0006_flamerrr1
+  rotate: false
+  xy: 2, 1654
+  size: 180, 143
+  orig: 180, 143
+  offset: 0, 0
+  index: -1
+w_god_add
+  rotate: false
+  xy: 249, 776
+  size: 69, 71
+  orig: 71, 75
+  offset: 0, 3
+  index: -1

@@ -1,0 +1,277 @@
+73_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_dcristalmachine_arm1
+  rotate: false
+  xy: 85, 1479
+  size: 66, 42
+  orig: 68, 42
+  offset: 2, 0
+  index: -1
+m_dcristalmachine_groggyleg11
+  rotate: true
+  xy: 234, 106
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+m_dcristalmachine_machinearm4
+  rotate: false
+  xy: 147, 1565
+  size: 98, 77
+  orig: 98, 79
+  offset: 0, 2
+  index: -1
+m_dcristalmachine_groggyhead21
+  rotate: true
+  xy: 2, 1458
+  size: 281, 81
+  orig: 281, 81
+  offset: 0, 0
+  index: -1
+m_dcristalmachine_machinehand6
+  rotate: true
+  xy: 85, 1620
+  size: 37, 59
+  orig: 39, 65
+  offset: 1, 5
+  index: -1
+m_dcristalmachine_machineeye
+  rotate: false
+  xy: 178, 816
+  size: 66, 64
+  orig: 68, 66
+  offset: 2, 1
+  index: -1
+m_dcristalmachine_groggyteeth
+  rotate: false
+  xy: 217, 409
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+m_dcristalmachine_head21
+  rotate: true
+  xy: 154, 1221
+  size: 342, 93
+  orig: 342, 93
+  offset: 0, 0
+  index: -1
+m_dcristalmachine_machinehead1
+  rotate: false
+  xy: 2, 106
+  size: 230, 114
+  orig: 232, 116
+  offset: 1, 2
+  index: -1
+m_dcristalmachine_groggyhead22
+  rotate: false
+  xy: 2, 744
+  size: 174, 74
+  orig: 184, 74
+  offset: 9, 0
+  index: -1
+m_dcristalmachine_machinehand5
+  rotate: false
+  xy: 217, 307
+  size: 31, 76
+  orig: 33, 76
+  offset: 1, 0
+  index: -1
+m_dcristalmachine_groggyhead1
+  rotate: false
+  xy: 2, 598
+  size: 190, 144
+  orig: 196, 144
+  offset: 1, 0
+  index: -1
+m_dcristalmachine_body2
+  rotate: false
+  xy: 2, 1180
+  size: 150, 73
+  orig: 150, 73
+  offset: 0, 0
+  index: -1
+m_dcristalmachine_leg12
+  rotate: false
+  xy: 156, 1103
+  size: 89, 116
+  orig: 89, 116
+  offset: 0, 0
+  index: -1
+m_dcristalmachine_body1
+  rotate: false
+  xy: 2, 222
+  size: 213, 211
+  orig: 213, 211
+  offset: 0, 0
+  index: -1
+m_dcristalmachine_teeth
+  rotate: false
+  xy: 125, 1385
+  size: 24, 56
+  orig: 24, 56
+  offset: 0, 0
+  index: -1
+m_dcristalmachine_groggymachinearm4
+  rotate: true
+  xy: 2, 1344
+  size: 39, 129
+  orig: 51, 135
+  offset: 3, 4
+  index: -1
+m_dcristalmachine_leg11
+  rotate: false
+  xy: 125, 1443
+  size: 24, 34
+  orig: 26, 34
+  offset: 2, 0
+  index: -1
+m_dcristalmachine_groggyeye
+  rotate: true
+  xy: 162, 882
+  size: 94, 85
+  orig: 94, 85
+  offset: 0, 0
+  index: -1
+m_dcristalmachine_machinehand2
+  rotate: false
+  xy: 217, 222
+  size: 31, 83
+  orig: 35, 83
+  offset: 2, 0
+  index: -1
+m_dcristamachinel_flower
+  rotate: false
+  xy: 2, 1255
+  size: 131, 87
+  orig: 131, 89
+  offset: 0, 0
+  index: -1
+m_dcristalmachine_groggybody2
+  rotate: true
+  xy: 194, 737
+  size: 77, 47
+  orig: 77, 47
+  offset: 0, 0
+  index: -1
+m_dcristalmachine_tongue2
+  rotate: false
+  xy: 134, 1719
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+m_dcristalmachine_machinehand1
+  rotate: false
+  xy: 203, 443
+  size: 45, 87
+  orig: 47, 89
+  offset: 0, 2
+  index: -1
+m_dcristalmachine_machineleg2
+  rotate: true
+  xy: 2, 1071
+  size: 107, 152
+  orig: 107, 152
+  offset: 0, 0
+  index: -1
+m_dcristalmachine_head22
+  rotate: true
+  xy: 2, 820
+  size: 249, 158
+  orig: 249, 158
+  offset: 0, 0
+  index: -1
+m_dcristalmachine_groggyleg12
+  rotate: true
+  xy: 194, 678
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+m_dcristalmachine_head1
+  rotate: false
+  xy: 2, 2
+  size: 243, 102
+  orig: 245, 102
+  offset: 2, 0
+  index: -1
+m_dcristalmachine_groggyarm2
+  rotate: false
+  xy: 135, 1255
+  size: 15, 47
+  orig: 17, 47
+  offset: 2, 0
+  index: -1
+m_dcristalmachine_groggytongue1
+  rotate: false
+  xy: 134, 1659
+  size: 34, 58
+  orig: 34, 58
+  offset: 0, 0
+  index: -1
+m_dcristalmachine_tongue1
+  rotate: true
+  xy: 194, 607
+  size: 69, 53
+  orig: 69, 53
+  offset: 0, 0
+  index: -1
+m_dcristalmachine_machinehand4
+  rotate: false
+  xy: 170, 1644
+  size: 57, 55
+  orig: 59, 55
+  offset: 2, 0
+  index: -1
+m_dcristalmachine_groggymachineleg2
+  rotate: true
+  xy: 2, 1385
+  size: 71, 121
+  orig: 95, 143
+  offset: 16, 15
+  index: -1
+m_dcristalmachine_groggyarm1
+  rotate: false
+  xy: 217, 385
+  size: 27, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+m_dcristalmachine_arm2
+  rotate: false
+  xy: 85, 1659
+  size: 47, 71
+  orig: 47, 71
+  offset: 0, 0
+  index: -1
+m_dcristalmachine_machinearm3
+  rotate: false
+  xy: 85, 1523
+  size: 60, 95
+  orig: 64, 97
+  offset: 1, 2
+  index: -1
+m_dcristalmachine_machinehand3
+  rotate: false
+  xy: 203, 532
+  size: 45, 73
+  orig: 47, 77
+  offset: 0, 2
+  index: -1
+m_dcristalmachine_groggybody1
+  rotate: false
+  xy: 2, 435
+  size: 199, 161
+  orig: 199, 161
+  offset: 0, 0
+  index: -1
+m_dcristalmachine_groggyflower
+  rotate: true
+  xy: 162, 978
+  size: 123, 83
+  orig: 123, 83
+  offset: 0, 0
+  index: -1

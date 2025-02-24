@@ -1,0 +1,333 @@
+dragon_42_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_slime_critical02
+  rotate: true
+  xy: 705, 2
+  size: 201, 47
+  orig: 275, 93
+  offset: 37, 22
+  index: -1
+dragon_slime_baby_effect
+  rotate: false
+  xy: 1930, 140
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_slime_adult_arm2
+  rotate: false
+  xy: 500, 225
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_slime_adult_neck
+  rotate: true
+  xy: 1890, 93
+  size: 45, 88
+  orig: 45, 88
+  offset: 0, 0
+  index: -1
+dragon_slime_adult_attack
+  rotate: true
+  xy: 1866, 175
+  size: 71, 44
+  orig: 71, 44
+  offset: 0, 0
+  index: -1
+dragon_slime_critical07
+  rotate: true
+  xy: 754, 2
+  size: 189, 281
+  orig: 275, 317
+  offset: 22, 36
+  index: -1
+dragon_slime_critical10
+  rotate: false
+  xy: 1568, 2
+  size: 320, 110
+  orig: 332, 158
+  offset: 6, 48
+  index: -1
+dragon_slime_adult_bodydown
+  rotate: false
+  xy: 1103, 175
+  size: 155, 74
+  orig: 155, 74
+  offset: 0, 0
+  index: -1
+dragon_slime_baby_mouth
+  rotate: false
+  xy: 1223, 154
+  size: 44, 14
+  orig: 44, 14
+  offset: 0, 0
+  index: -1
+dragon_slime_child_body
+  rotate: true
+  xy: 1890, 2
+  size: 89, 110
+  orig: 89, 110
+  offset: 0, 0
+  index: -1
+dragon_slime_critical05
+  rotate: false
+  xy: 259, 2
+  size: 157, 245
+  orig: 275, 317
+  offset: 88, 33
+  index: -1
+dragon_slime_child_mouth
+  rotate: true
+  xy: 2002, 2
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+dragon_slime_adult_arm1
+  rotate: false
+  xy: 674, 225
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+dragon_slime_adult_wing
+  rotate: true
+  xy: 1428, 2
+  size: 128, 105
+  orig: 128, 105
+  offset: 0, 0
+  index: -1
+dragon_slime_child_love
+  rotate: false
+  xy: 718, 205
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+dragon_slime_baby_body
+  rotate: true
+  xy: 1980, 93
+  size: 73, 42
+  orig: 73, 42
+  offset: 0, 0
+  index: -1
+dragon_slime_baby_tail
+  rotate: false
+  xy: 453, 225
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+dragon_slime_critical08
+  rotate: true
+  xy: 2, 2
+  size: 251, 255
+  orig: 275, 317
+  offset: 5, 19
+  index: -1
+dragon_slime_baby_eye
+  rotate: true
+  xy: 697, 225
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+dragon_slime_child_wing
+  rotate: false
+  xy: 1269, 154
+  size: 66, 91
+  orig: 66, 91
+  offset: 0, 0
+  index: -1
+dragon_slime_adult_damaged
+  rotate: true
+  xy: 1820, 175
+  size: 71, 44
+  orig: 71, 44
+  offset: 0, 0
+  index: -1
+dragon_slime_adult_head
+  rotate: true
+  xy: 1774, 168
+  size: 71, 44
+  orig: 71, 44
+  offset: 0, 0
+  index: -1
+dragon_slime_critical03
+  rotate: false
+  xy: 785, 193
+  size: 257, 61
+  orig: 275, 93
+  offset: 8, 16
+  index: -1
+dragon_slime_adult_love
+  rotate: true
+  xy: 1728, 168
+  size: 71, 44
+  orig: 71, 44
+  offset: 0, 0
+  index: -1
+dragon_slime_adult_arm3
+  rotate: false
+  xy: 653, 225
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+dragon_slime_baby_wing
+  rotate: false
+  xy: 418, 225
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+dragon_slime_adult_eye
+  rotate: true
+  xy: 754, 193
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+dragon_slime_adult_tail2
+  rotate: false
+  xy: 634, 225
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+dragon_slime_critical01
+  rotate: true
+  xy: 1535, 2
+  size: 113, 31
+  orig: 275, 93
+  offset: 63, 33
+  index: -1
+dragon_slime_child_eye
+  rotate: true
+  xy: 1184, 154
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+dragon_slime_baby_arm
+  rotate: false
+  xy: 1201, 154
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+dragon_slime_critical06
+  rotate: true
+  xy: 418, 2
+  size: 221, 285
+  orig: 275, 317
+  offset: 21, 32
+  index: -1
+dragon_slime_child_effect
+  rotate: true
+  xy: 1890, 140
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_slime_child_headdrop
+  rotate: false
+  xy: 705, 205
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+dragon_slime_adult_leg
+  rotate: true
+  xy: 1284, 2
+  size: 148, 39
+  orig: 148, 39
+  offset: 0, 0
+  index: -1
+dragon_slime_adult_tail1
+  rotate: false
+  xy: 1184, 2
+  size: 98, 150
+  orig: 98, 150
+  offset: 0, 0
+  index: -1
+dragon_slime_child_leg
+  rotate: false
+  xy: 528, 225
+  size: 104, 25
+  orig: 104, 25
+  offset: 0, 0
+  index: -1
+dragon_slime_critical04
+  rotate: false
+  xy: 1037, 2
+  size: 145, 171
+  orig: 275, 317
+  offset: 88, 33
+  index: -1
+dragon_slime_adult_mouth
+  rotate: true
+  xy: 2002, 51
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+dragon_slime_adult_body
+  rotate: true
+  xy: 1325, 2
+  size: 142, 101
+  orig: 142, 101
+  offset: 0, 0
+  index: -1
+dragon_slime_critical09
+  rotate: false
+  xy: 1440, 132
+  size: 286, 118
+  orig: 332, 158
+  offset: 12, 18
+  index: -1
+dragon_slime_baby_love
+  rotate: false
+  xy: 1820, 114
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+dragon_slime_adult_body2
+  rotate: true
+  xy: 1337, 146
+  size: 107, 101
+  orig: 107, 101
+  offset: 0, 0
+  index: -1
+dragon_slime_adult_heart
+  rotate: false
+  xy: 1930, 140
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_slime_baby_head
+  rotate: true
+  xy: 1912, 181
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+dragon_slime_child_tail
+  rotate: true
+  xy: 1044, 175
+  size: 79, 57
+  orig: 79, 57
+  offset: 0, 0
+  index: -1
+dragon_slime_child_head
+  rotate: false
+  xy: 1728, 114
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1

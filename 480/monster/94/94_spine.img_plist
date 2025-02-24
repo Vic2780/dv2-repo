@@ -1,0 +1,179 @@
+94_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_slurveromo_head
+  rotate: false
+  xy: 217, 2
+  size: 257, 181
+  orig: 257, 181
+  offset: 0, 0
+  index: -1
+m_slurveromo_eye1
+  rotate: false
+  xy: 1249, 30
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+m_slurveromo_effect1
+  rotate: false
+  xy: 1039, 2
+  size: 127, 130
+  orig: 135, 132
+  offset: 5, 1
+  index: -1
+m_slurveromo_groggy_ear
+  rotate: false
+  xy: 1209, 106
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+m_slurveromo_jelly3
+  rotate: false
+  xy: 1168, 140
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+m_slurveromo_arm1
+  rotate: true
+  xy: 1168, 30
+  size: 74, 79
+  orig: 74, 79
+  offset: 0, 0
+  index: -1
+m_slurveromo_ear
+  rotate: true
+  xy: 1068, 134
+  size: 89, 98
+  orig: 89, 98
+  offset: 0, 0
+  index: -1
+m_slurveromo_jelly00
+  rotate: true
+  xy: 1249, 56
+  size: 120, 34
+  orig: 120, 34
+  offset: 0, 0
+  index: -1
+m_slurveromo_hand1
+  rotate: true
+  xy: 739, 162
+  size: 57, 83
+  orig: 57, 83
+  offset: 0, 0
+  index: -1
+m_slurveromo_groggy_head
+  rotate: true
+  xy: 2, 2
+  size: 219, 148
+  orig: 219, 148
+  offset: 0, 0
+  index: -1
+m_slurveromo_groggy_hand1
+  rotate: false
+  xy: 481, 175
+  size: 39, 56
+  orig: 39, 56
+  offset: 0, 0
+  index: -1
+m_slurveromo_mou
+  rotate: false
+  xy: 302, 185
+  size: 177, 41
+  orig: 177, 41
+  offset: 0, 0
+  index: -1
+m_slurveromo_leg1
+  rotate: true
+  xy: 217, 185
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+m_slurveromo_effect3
+  rotate: false
+  xy: 618, 2
+  size: 134, 158
+  orig: 136, 176
+  offset: 2, 15
+  index: -1
+m_slurveromo_groggy_head2
+  rotate: true
+  xy: 152, 2
+  size: 213, 63
+  orig: 213, 63
+  offset: 0, 0
+  index: -1
+m_slurveromo_jelly1
+  rotate: false
+  xy: 1168, 178
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+m_slurveromo_ston
+  rotate: true
+  xy: 584, 175
+  size: 51, 85
+  orig: 51, 85
+  offset: 0, 0
+  index: -1
+m_slurveromo_groggy_body
+  rotate: true
+  xy: 907, 2
+  size: 137, 130
+  orig: 137, 130
+  offset: 0, 0
+  index: -1
+m_slurveromo_jelly
+  rotate: false
+  xy: 671, 162
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+m_slurveromo_groggy_mou
+  rotate: false
+  xy: 1168, 2
+  size: 98, 26
+  orig: 98, 26
+  offset: 0, 0
+  index: -1
+m_slurveromo_body
+  rotate: false
+  xy: 476, 2
+  size: 140, 171
+  orig: 140, 171
+  offset: 0, 0
+  index: -1
+m_slurveromo_effect0
+  rotate: true
+  xy: 754, 2
+  size: 152, 151
+  orig: 158, 155
+  offset: 4, 3
+  index: -1
+m_slurveromo_head2
+  rotate: false
+  xy: 824, 156
+  size: 242, 75
+  orig: 242, 75
+  offset: 0, 0
+  index: -1
+m_slurveromo_jelly2
+  rotate: false
+  xy: 277, 185
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+m_slurveromo_arm2
+  rotate: true
+  xy: 522, 175
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1

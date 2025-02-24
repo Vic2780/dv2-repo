@@ -1,0 +1,95 @@
+67_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_alight_groggywing2
+  rotate: false
+  xy: 1083, 65
+  size: 128, 111
+  orig: 152, 137
+  offset: 23, 14
+  index: -1
+m_alight_body
+  rotate: true
+  xy: 878, 2
+  size: 174, 203
+  orig: 212, 217
+  offset: 22, 10
+  index: -1
+m_alight_groggybody
+  rotate: false
+  xy: 1360, 66
+  size: 87, 97
+  orig: 119, 129
+  offset: 17, 17
+  index: -1
+m_alight_leg1
+  rotate: true
+  xy: 1634, 2
+  size: 134, 93
+  orig: 170, 119
+  offset: 16, 15
+  index: -1
+m_alight_groggyleg2
+  rotate: false
+  xy: 1083, 2
+  size: 197, 61
+  orig: 233, 83
+  offset: 14, 10
+  index: -1
+m_alight_leg2
+  rotate: false
+  xy: 1282, 2
+  size: 196, 62
+  orig: 228, 86
+  offset: 22, 9
+  index: -1
+m_alight_eye
+  rotate: false
+  xy: 1449, 89
+  size: 70, 62
+  orig: 78, 68
+  offset: 8, 3
+  index: -1
+m_alight_wing1
+  rotate: false
+  xy: 446, 2
+  size: 222, 155
+  orig: 236, 191
+  offset: 5, 24
+  index: -1
+m_alight_groggyleg1
+  rotate: false
+  xy: 1480, 2
+  size: 152, 85
+  orig: 170, 119
+  offset: 15, 15
+  index: -1
+m_alight_head
+  rotate: false
+  xy: 2, 2
+  size: 228, 173
+  orig: 260, 183
+  offset: 25, 8
+  index: -1
+m_alight_groggywing1
+  rotate: false
+  xy: 670, 2
+  size: 206, 156
+  orig: 212, 176
+  offset: 4, 10
+  index: -1
+m_alight_groggyhead
+  rotate: false
+  xy: 232, 2
+  size: 212, 173
+  orig: 230, 179
+  offset: 15, 4
+  index: -1
+m_alight_wing2
+  rotate: false
+  xy: 1213, 66
+  size: 145, 110
+  orig: 169, 134
+  offset: 21, 9
+  index: -1

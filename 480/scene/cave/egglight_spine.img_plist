@@ -1,0 +1,95 @@
+egglight_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+7line
+  rotate: false
+  xy: 2, 449
+  size: 107, 84
+  orig: 197, 166
+  offset: 43, 33
+  index: -1
+light2eggg
+  rotate: false
+  xy: 2, 2
+  size: 136, 209
+  orig: 136, 209
+  offset: 0, 0
+  index: -1
+6line
+  rotate: false
+  xy: 140, 2
+  size: 105, 58
+  orig: 197, 166
+  offset: 45, 38
+  index: -1
+9line
+  rotate: false
+  xy: 114, 213
+  size: 131, 128
+  orig: 197, 166
+  offset: 32, 15
+  index: -1
+5line
+  rotate: false
+  xy: 140, 62
+  size: 105, 56
+  orig: 197, 166
+  offset: 44, 38
+  index: -1
+4line
+  rotate: false
+  xy: 140, 120
+  size: 105, 30
+  orig: 197, 166
+  offset: 44, 54
+  index: -1
+3line
+  rotate: false
+  xy: 140, 178
+  size: 103, 28
+  orig: 197, 166
+  offset: 45, 55
+  index: -1
+light
+  rotate: false
+  xy: 2, 213
+  size: 110, 234
+  orig: 110, 234
+  offset: 0, 0
+  index: -1
+2line
+  rotate: false
+  xy: 140, 152
+  size: 105, 24
+  orig: 197, 166
+  offset: 45, 58
+  index: -1
+dot
+  rotate: false
+  xy: 184, 467
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+1line
+  rotate: false
+  xy: 114, 441
+  size: 99, 24
+  orig: 197, 166
+  offset: 47, 59
+  index: -1
+dot2
+  rotate: false
+  xy: 111, 467
+  size: 71, 48
+  orig: 71, 48
+  offset: 0, 0
+  index: -1
+8line
+  rotate: false
+  xy: 114, 343
+  size: 113, 96
+  orig: 197, 166
+  offset: 41, 30
+  index: -1

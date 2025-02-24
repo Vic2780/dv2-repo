@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>dragon/dragon_9012/box_adult.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{73,70}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{73,70}}</string>
+                <key>sourceSize</key>
+                <string>{73,70}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>dragon_9012.pvr.ccz</string>
+            <key>size</key>
+            <string>{77,74}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:f4e2b3de7d8c04bdef8e3b36842b7802:7abf604e2eb0e6c5c9d33b6a1e2d976e:af6b11a0c96ab79e8178d99a6ddd7b90$</string>
+            <key>textureFileName</key>
+            <string>dragon_9012.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

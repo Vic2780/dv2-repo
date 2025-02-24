@@ -1,0 +1,501 @@
+dragon_4011_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_applecheek_adult_chin
+  rotate: true
+  xy: 838, 198
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_r_leg1d
+  rotate: false
+  xy: 374, 220
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_eye5
+  rotate: false
+  xy: 1301, 207
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_fur
+  rotate: false
+  xy: 692, 214
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+dragon_applecheek_child_tail
+  rotate: false
+  xy: 1341, 2
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+dragon_applecheek_child_heart
+  rotate: false
+  xy: 615, 214
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_applecheek_baby_head
+  rotate: false
+  xy: 1380, 192
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+dragon_applecheek_baby_apple
+  rotate: false
+  xy: 948, 211
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_r_leg2a
+  rotate: true
+  xy: 313, 233
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+dragon_applecheek_baby_wing1
+  rotate: true
+  xy: 351, 233
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+dragon_applecheek_child_sample
+  rotate: false
+  xy: 694, 2
+  size: 146, 194
+  orig: 146, 194
+  offset: 0, 0
+  index: -1
+dragon_applecheek_baby_eye
+  rotate: false
+  xy: 984, 187
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_il3
+  rotate: false
+  xy: 2, 2
+  size: 196, 245
+  orig: 202, 251
+  offset: 0, 3
+  index: -1
+dragon_applecheek_adult_tail1
+  rotate: false
+  xy: 274, 233
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_r_leg1a
+  rotate: false
+  xy: 1192, 150
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_eye4
+  rotate: false
+  xy: 1323, 172
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+dragon_applecheek_baby_smile
+  rotate: false
+  xy: 1380, 130
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_applecheek_baby_leg4
+  rotate: true
+  xy: 1159, 150
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_l_leg2a
+  rotate: true
+  xy: 230, 233
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_l_wing2
+  rotate: false
+  xy: 1159, 2
+  size: 89, 146
+  orig: 89, 146
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_body
+  rotate: false
+  xy: 1157, 186
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1
+dragon_applecheek_child_leg2b
+  rotate: true
+  xy: 1417, 102
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_l_leg1a
+  rotate: true
+  xy: 694, 198
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1
+dragon_applecheek_baby_chin
+  rotate: true
+  xy: 1426, 192
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+dragon_applecheek_child_leg1a
+  rotate: false
+  xy: 720, 214
+  size: 17, 38
+  orig: 17, 38
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_r_wing2
+  rotate: true
+  xy: 739, 214
+  size: 37, 139
+  orig: 37, 139
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_il2
+  rotate: true
+  xy: 544, 2
+  size: 210, 148
+  orig: 224, 150
+  offset: 2, 1
+  index: -1
+dragon_applecheek_baby_leg1
+  rotate: false
+  xy: 856, 187
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_heart
+  rotate: false
+  xy: 615, 214
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_r_leg2c
+  rotate: false
+  xy: 425, 220
+  size: 14, 34
+  orig: 14, 34
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_l_leg2b
+  rotate: false
+  xy: 726, 198
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+dragon_applecheek_baby_leg1b
+  rotate: true
+  xy: 1423, 2
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+dragon_applecheek_child_eye3
+  rotate: false
+  xy: 1301, 150
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+dragon_applecheek_baby_wing2
+  rotate: true
+  xy: 663, 214
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_il6
+  rotate: true
+  xy: 374, 2
+  size: 216, 168
+  orig: 234, 194
+  offset: 13, 24
+  index: -1
+dragon_applecheek_adult_l_leg1b
+  rotate: false
+  xy: 1301, 172
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+dragon_applecheek_child_neck
+  rotate: false
+  xy: 526, 220
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_eye3
+  rotate: true
+  xy: 776, 198
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_r_leg2b
+  rotate: true
+  xy: 1423, 24
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_il1
+  rotate: true
+  xy: 200, 2
+  size: 229, 172
+  orig: 229, 174
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_head
+  rotate: true
+  xy: 385, 220
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+dragon_applecheek_child_eye
+  rotate: false
+  xy: 1301, 190
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+dragon_applecheek_child_body
+  rotate: true
+  xy: 1341, 64
+  size: 44, 74
+  orig: 44, 74
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_r_leg1b
+  rotate: false
+  xy: 754, 198
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_eye
+  rotate: true
+  xy: 810, 198
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+dragon_applecheek_child_eye2
+  rotate: true
+  xy: 1323, 189
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_il5
+  rotate: false
+  xy: 842, 2
+  size: 156, 183
+  orig: 246, 235
+  offset: 89, 49
+  index: -1
+dragon_applecheek_baby_eye2
+  rotate: false
+  xy: 962, 187
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_eye2
+  rotate: true
+  xy: 795, 198
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+dragon_applecheek_baby_leg2
+  rotate: false
+  xy: 200, 233
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+dragon_applecheek_baby_body
+  rotate: false
+  xy: 880, 212
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_l_leg2c
+  rotate: false
+  xy: 929, 211
+  size: 17, 43
+  orig: 17, 43
+  offset: 0, 0
+  index: -1
+dragon_applecheek_child_chin
+  rotate: true
+  xy: 825, 198
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_tail2
+  rotate: true
+  xy: 1211, 150
+  size: 100, 88
+  orig: 100, 88
+  offset: 0, 0
+  index: -1
+dragon_applecheek_child_head
+  rotate: false
+  xy: 560, 214
+  size: 53, 39
+  orig: 53, 39
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_l_leg1c
+  rotate: false
+  xy: 1380, 110
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+dragon_applecheek_child_leg2a
+  rotate: true
+  xy: 923, 187
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+dragon_applecheek_baby_tail
+  rotate: false
+  xy: 850, 197
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_l_wing
+  rotate: false
+  xy: 1250, 2
+  size: 89, 146
+  orig: 89, 146
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_neck
+  rotate: false
+  xy: 441, 220
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+dragon_applecheek_child_leg3
+  rotate: false
+  xy: 1006, 186
+  size: 32, 68
+  orig: 32, 68
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_il4
+  rotate: false
+  xy: 1000, 2
+  size: 157, 182
+  orig: 167, 188
+  offset: 10, 3
+  index: -1
+dragon_applecheek_child_fur
+  rotate: false
+  xy: 487, 220
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_r_leg1c
+  rotate: false
+  xy: 1423, 53
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_r_wing
+  rotate: false
+  xy: 1341, 110
+  size: 37, 139
+  orig: 37, 139
+  offset: 0, 0
+  index: -1
+dragon_applecheek_child_leg1b
+  rotate: true
+  xy: 902, 187
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_l_leg2d
+  rotate: true
+  xy: 1393, 110
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+dragon_applecheek_child_wing1
+  rotate: true
+  xy: 1040, 186
+  size: 63, 115
+  orig: 63, 115
+  offset: 0, 0
+  index: -1
+dragon_applecheek_baby_eye3
+  rotate: false
+  xy: 1417, 70
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+dragon_applecheek_adult_r_leg2d
+  rotate: false
+  xy: 842, 187
+  size: 12, 8
+  orig: 14, 8
+  offset: 2, 0
+  index: -1
+dragon_applecheek_child_apple
+  rotate: true
+  xy: 878, 187
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,11 @@
+133_effect_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_figer_eff_f
+  rotate: false
+  xy: 2, 2
+  size: 337, 210
+  orig: 375, 254
+  offset: 23, 36
+  index: -1

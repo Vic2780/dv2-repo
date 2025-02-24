@@ -1,0 +1,466 @@
+175_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_blackwicked_hat2_p
+  rotate: false
+  xy: 891, 1232
+  size: 91, 58
+  orig: 387, 176
+  offset: 5, 0
+  index: -1
+m_blackwicked_monleg1
+  rotate: false
+  xy: 878, 1271
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+m_blackwicked_goust2
+  rotate: false
+  xy: 2, 476
+  size: 318, 472
+  orig: 330, 484
+  offset: 8, 9
+  index: -1
+m_blackwicked_string2
+  rotate: false
+  xy: 1000, 409
+  size: 14, 101
+  orig: 14, 101
+  offset: 0, 0
+  index: -1
+m_blackwicked_hair7
+  rotate: true
+  xy: 587, 1377
+  size: 125, 99
+  orig: 125, 99
+  offset: 0, 0
+  index: -1
+m_blackwicked_arm1
+  rotate: true
+  xy: 907, 1545
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+m_blackwicked_ribon1
+  rotate: false
+  xy: 587, 1253
+  size: 92, 122
+  orig: 92, 122
+  offset: 0, 0
+  index: -1
+m_blackwicked_foot2
+  rotate: false
+  xy: 827, 1162
+  size: 62, 107
+  orig: 62, 107
+  offset: 0, 0
+  index: -1
+m_blackwicked_hair4
+  rotate: false
+  xy: 511, 1192
+  size: 77, 59
+  orig: 77, 59
+  offset: 0, 0
+  index: -1
+m_blackwicked_hat_p
+  rotate: false
+  xy: 100, 1567
+  size: 85, 38
+  orig: 389, 206
+  offset: 191, 118
+  index: -1
+m_blackwicked_eff03
+  rotate: true
+  xy: 646, 1504
+  size: 100, 98
+  orig: 104, 104
+  offset: 1, 3
+  index: -1
+m_blackwicked_hair1
+  rotate: false
+  xy: 871, 1300
+  size: 63, 80
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+m_blackwicked_star
+  rotate: true
+  xy: 322, 476
+  size: 520, 132
+  orig: 524, 134
+  offset: 1, 2
+  index: -1
+m_blackwicked_gro_arm44
+  rotate: false
+  xy: 1000, 340
+  size: 18, 67
+  orig: 18, 67
+  offset: 0, 0
+  index: -1
+m_blackwicked_moneye
+  rotate: false
+  xy: 827, 1271
+  size: 49, 27
+  orig: 65, 61
+  offset: 7, 27
+  index: -1
+m_blackwicked_ear
+  rotate: false
+  xy: 238, 1567
+  size: 53, 31
+  orig: 53, 31
+  offset: 0, 0
+  index: -1
+m_blackwicked_monleg2
+  rotate: true
+  xy: 788, 1465
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+m_blackwicked_gro_hat
+  rotate: true
+  xy: 842, 340
+  size: 311, 156
+  orig: 389, 206
+  offset: 49, 46
+  index: -1
+m_blackwicked_gro_hand1
+  rotate: false
+  xy: 970, 1591
+  size: 21, 18
+  orig: 35, 48
+  offset: 9, 29
+  index: -1
+m_blackwicked_eye
+  rotate: false
+  xy: 2, 1567
+  size: 96, 40
+  orig: 174, 136
+  offset: 11, 27
+  index: -1
+m_blackwicked_hair3
+  rotate: false
+  xy: 785, 1300
+  size: 84, 75
+  orig: 84, 75
+  offset: 0, 0
+  index: -1
+m_blackwicked_gro_band
+  rotate: true
+  xy: 952, 1502
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+m_blackwicked_string1
+  rotate: true
+  xy: 321, 1253
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+m_blackwicked_gro_stick
+  rotate: false
+  xy: 321, 998
+  size: 188, 253
+  orig: 266, 357
+  offset: 77, 102
+  index: -1
+m_blackwicked_gro_stickbrush
+  rotate: false
+  xy: 456, 863
+  size: 210, 106
+  orig: 210, 154
+  offset: 0, 5
+  index: -1
+m_blackwicked_arm4
+  rotate: true
+  xy: 681, 1300
+  size: 75, 102
+  orig: 75, 102
+  offset: 0, 0
+  index: -1
+m_blackwicked_hair9
+  rotate: true
+  xy: 810, 821
+  size: 135, 190
+  orig: 135, 190
+  offset: 0, 0
+  index: -1
+m_blackwicked_gro_hair11
+  rotate: false
+  xy: 590, 1192
+  size: 89, 54
+  orig: 251, 252
+  offset: 117, 0
+  index: -1
+m_blackwicked_acc2
+  rotate: true
+  xy: 936, 1292
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+m_blackwicked_head
+  rotate: false
+  xy: 681, 1162
+  size: 144, 136
+  orig: 174, 136
+  offset: 0, 0
+  index: -1
+m_blackwicked_gro_sc2
+  rotate: true
+  xy: 985, 1327
+  size: 38, 28
+  orig: 50, 48
+  offset: 8, 18
+  index: -1
+m_blackwicked_goust3
+  rotate: false
+  xy: 326, 2
+  size: 322, 468
+  orig: 330, 484
+  offset: 4, 14
+  index: -1
+m_blackwicked_foot1
+  rotate: true
+  xy: 361, 1506
+  size: 93, 140
+  orig: 93, 140
+  offset: 0, 0
+  index: -1
+m_blackwicked_body2
+  rotate: false
+  xy: 891, 1156
+  size: 93, 74
+  orig: 93, 74
+  offset: 0, 0
+  index: -1
+m_blackwicked_sc2
+  rotate: true
+  xy: 936, 1400
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+m_blackwicked_sk
+  rotate: false
+  xy: 681, 958
+  size: 159, 202
+  orig: 169, 202
+  offset: 0, 0
+  index: -1
+m_blackwicked_goust
+  rotate: false
+  xy: 2, 2
+  size: 322, 472
+  orig: 330, 484
+  offset: 4, 9
+  index: -1
+m_blackwicked_hat2
+  rotate: true
+  xy: 664, 340
+  size: 387, 176
+  orig: 387, 176
+  offset: 0, 0
+  index: -1
+m_blackwicked_hair00
+  rotate: true
+  xy: 361, 1253
+  size: 251, 224
+  orig: 251, 252
+  offset: 0, 28
+  index: -1
+m_blackwicked_gro_te
+  rotate: false
+  xy: 456, 971
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+m_blackwicked_hand1
+  rotate: false
+  xy: 952, 1452
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+m_blackwicked_hat
+  rotate: true
+  xy: 456, 472
+  size: 389, 206
+  orig: 389, 206
+  offset: 0, 0
+  index: -1
+m_blackwicked_hair5
+  rotate: false
+  xy: 688, 1377
+  size: 98, 114
+  orig: 98, 114
+  offset: 0, 0
+  index: -1
+m_blackwicked_cr2
+  rotate: false
+  xy: 2, 950
+  size: 317, 347
+  orig: 317, 347
+  offset: 0, 0
+  index: -1
+m_blackwicked_hair6
+  rotate: true
+  xy: 890, 1464
+  size: 79, 60
+  orig: 79, 60
+  offset: 0, 0
+  index: -1
+m_blackwicked_stickbrush
+  rotate: true
+  xy: 842, 958
+  size: 196, 154
+  orig: 210, 154
+  offset: 11, 0
+  index: -1
+m_blackwicked_arm2
+  rotate: true
+  xy: 810, 729
+  size: 65, 23
+  orig: 65, 23
+  offset: 0, 0
+  index: -1
+m_blackwicked_ribon2
+  rotate: false
+  xy: 597, 1504
+  size: 47, 105
+  orig: 47, 105
+  offset: 0, 0
+  index: -1
+m_blackwicked_gro_head
+  rotate: false
+  xy: 664, 729
+  size: 144, 112
+  orig: 174, 136
+  offset: 30, 14
+  index: -1
+m_blackwicked_hair0
+  rotate: true
+  xy: 970, 1542
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+m_blackwicked_gro_sc1
+  rotate: true
+  xy: 187, 1567
+  size: 37, 49
+  orig: 47, 51
+  offset: 3, 2
+  index: -1
+m_blackwicked_gro_body1
+  rotate: true
+  xy: 840, 1465
+  size: 81, 48
+  orig: 99, 92
+  offset: 11, 6
+  index: -1
+m_blackwicked_hair11
+  rotate: true
+  xy: 511, 971
+  size: 219, 168
+  orig: 221, 170
+  offset: 2, 0
+  index: -1
+m_blackwicked_sk_p
+  rotate: false
+  xy: 842, 653
+  size: 169, 166
+  orig: 169, 202
+  offset: 0, 0
+  index: -1
+m_blackwicked_arm3
+  rotate: true
+  xy: 788, 1377
+  size: 86, 80
+  orig: 86, 80
+  offset: 0, 0
+  index: -1
+m_blackwicked_acc
+  rotate: false
+  xy: 985, 1289
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+m_blackwicked_body1
+  rotate: true
+  xy: 503, 1506
+  size: 99, 92
+  orig: 99, 92
+  offset: 0, 0
+  index: -1
+m_blackwicked_hair2
+  rotate: false
+  xy: 870, 1382
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+m_blackwicked_sc1
+  rotate: false
+  xy: 936, 1347
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+m_blackwicked_stick
+  rotate: true
+  xy: 2, 1299
+  size: 266, 357
+  orig: 266, 357
+  offset: 0, 0
+  index: -1
+m_blackwicked_gro_body2
+  rotate: true
+  xy: 984, 1232
+  size: 55, 34
+  orig: 93, 74
+  offset: 17, 6
+  index: -1
+m_blackwicked_hair8
+  rotate: true
+  xy: 668, 843
+  size: 113, 140
+  orig: 113, 140
+  offset: 0, 0
+  index: -1
+m_blackwicked_monbody
+  rotate: false
+  xy: 840, 1548
+  size: 65, 61
+  orig: 65, 61
+  offset: 0, 0
+  index: -1
+m_blackwicked_cr1
+  rotate: false
+  xy: 650, 2
+  size: 358, 336
+  orig: 358, 336
+  offset: 0, 0
+  index: -1
+m_blackwicked_body3
+  rotate: true
+  xy: 746, 1493
+  size: 110, 92
+  orig: 110, 92
+  offset: 0, 0
+  index: -1
+m_blackwicked_gro_arm4
+  rotate: true
+  xy: 293, 1567
+  size: 31, 52
+  orig: 75, 102
+  offset: 44, 12
+  index: -1

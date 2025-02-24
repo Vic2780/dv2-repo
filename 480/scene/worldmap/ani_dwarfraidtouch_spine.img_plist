@@ -1,0 +1,25 @@
+ani_dwarfraidtouch_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+w_dwarf_raid_touch00
+  rotate: true
+  xy: 2, 2
+  size: 285, 400
+  orig: 317, 418
+  offset: 8, 1
+  index: -1
+w_dwarf_raid_touch_book
+  rotate: false
+  xy: 2, 289
+  size: 317, 242
+  orig: 317, 418
+  offset: 0, 121
+  index: -1
+w_dwarf_raid_touch_shadow
+  rotate: true
+  xy: 321, 289
+  size: 154, 84
+  orig: 182, 146
+  offset: 22, 17
+  index: -1

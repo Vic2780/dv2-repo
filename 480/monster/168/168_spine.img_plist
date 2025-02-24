@@ -1,0 +1,305 @@
+168_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_toratos_leftshell_a
+  rotate: true
+  xy: 543, 336
+  size: 174, 205
+  orig: 174, 205
+  offset: 0, 0
+  index: -1
+m_toratos_rightwing_a
+  rotate: false
+  xy: 1505, 272
+  size: 155, 200
+  orig: 155, 204
+  offset: 0, 0
+  index: -1
+m_toratos_leftleg1_b2
+  rotate: false
+  xy: 278, 2
+  size: 102, 362
+  orig: 210, 362
+  offset: 27, 0
+  index: -1
+m_toratos_leftleg1_a
+  rotate: false
+  xy: 1881, 357
+  size: 107, 113
+  orig: 107, 113
+  offset: 0, 0
+  index: -1
+m_toratos_leftleg2_b
+  rotate: true
+  xy: 750, 328
+  size: 175, 291
+  orig: 219, 291
+  offset: 0, 0
+  index: -1
+m_toratos_s_feeler2
+  rotate: false
+  xy: 1944, 71
+  size: 44, 43
+  orig: 44, 61
+  offset: 0, 0
+  index: -1
+m_toratos_face_b
+  rotate: false
+  xy: 473, 362
+  size: 68, 145
+  orig: 242, 313
+  offset: 82, 168
+  index: -1
+m_toratos_face_eye
+  rotate: false
+  xy: 161, 447
+  size: 164, 57
+  orig: 242, 313
+  offset: 39, 39
+  index: -1
+m_toratos_leftleg2_a
+  rotate: true
+  xy: 1754, 323
+  size: 99, 125
+  orig: 219, 291
+  offset: 120, 114
+  index: -1
+m_toratos_face_a
+  rotate: false
+  xy: 1091, 2
+  size: 242, 283
+  orig: 242, 313
+  offset: 0, 0
+  index: -1
+m_toratos_lefthorn_a1
+  rotate: true
+  xy: 1789, 2
+  size: 128, 153
+  orig: 128, 197
+  offset: 0, 0
+  index: -1
+m_toratos_rightwing_gro
+  rotate: false
+  xy: 1119, 287
+  size: 53, 28
+  orig: 155, 204
+  offset: 91, 171
+  index: -1
+m_toratos_big_leftmouth_b_gro
+  rotate: false
+  xy: 83, 447
+  size: 76, 61
+  orig: 128, 123
+  offset: 4, 0
+  index: -1
+m_toratos_lefthorn_a2
+  rotate: false
+  xy: 1754, 254
+  size: 70, 67
+  orig: 128, 197
+  offset: 29, 130
+  index: -1
+m_toratos_big_leftmouth_a_gro
+  rotate: true
+  xy: 1130, 350
+  size: 26, 37
+  orig: 128, 123
+  offset: 43, 81
+  index: -1
+m_toratos_lefthorn_a1_gro
+  rotate: true
+  xy: 278, 366
+  size: 78, 123
+  orig: 128, 197
+  offset: 0, 30
+  index: -1
+m_toratos_big_rightmouth_b2
+  rotate: false
+  xy: 1662, 426
+  size: 125, 73
+  orig: 127, 123
+  offset: 0, 0
+  index: -1
+m_toratos_rightfeeler1_a1
+  rotate: false
+  xy: 1130, 378
+  size: 34, 122
+  orig: 106, 266
+  offset: 0, 0
+  index: -1
+m_toratos_leftleg1_b1_gro
+  rotate: false
+  xy: 707, 2
+  size: 170, 324
+  orig: 210, 362
+  offset: 20, 9
+  index: -1
+m_toratos_leftleg1_b1
+  rotate: false
+  xy: 879, 2
+  size: 210, 314
+  orig: 210, 362
+  offset: 0, 11
+  index: -1
+m_toratos_leftleg3
+  rotate: false
+  xy: 1373, 272
+  size: 130, 230
+  orig: 130, 230
+  offset: 0, 0
+  index: -1
+m_toratos_face_a_gro
+  rotate: true
+  xy: 1174, 287
+  size: 200, 197
+  orig: 242, 313
+  offset: 36, 42
+  index: -1
+m_toratos_big_rightmouth_a
+  rotate: true
+  xy: 1702, 2
+  size: 109, 73
+  orig: 127, 123
+  offset: 12, 50
+  index: -1
+m_toratos_leftleg1_a_gro
+  rotate: true
+  xy: 327, 446
+  size: 53, 67
+  orig: 107, 113
+  offset: 47, 6
+  index: -1
+m_toratos_shell_b
+  rotate: false
+  xy: 1832, 132
+  size: 152, 98
+  orig: 244, 278
+  offset: 75, 180
+  index: -1
+m_toratos_body
+  rotate: true
+  xy: 2, 2
+  size: 443, 274
+  orig: 443, 274
+  offset: 0, 0
+  index: -1
+m_toratos_righthorn_a1_gro
+  rotate: false
+  xy: 403, 362
+  size: 68, 147
+  orig: 128, 197
+  offset: 50, 12
+  index: -1
+m_toratos_leftshell_b
+  rotate: false
+  xy: 1130, 317
+  size: 38, 31
+  orig: 174, 205
+  offset: 54, 160
+  index: -1
+m_toratos_big_rightmouth_b1_gro
+  rotate: false
+  xy: 1789, 424
+  size: 55, 57
+  orig: 127, 123
+  offset: 65, 28
+  index: -1
+m_toratos_leftfeeler2_a1_gro
+  rotate: false
+  xy: 1581, 2
+  size: 119, 254
+  orig: 165, 408
+  offset: 5, 50
+  index: -1
+m_toratos_big_rightmouth_b1
+  rotate: true
+  xy: 2, 447
+  size: 63, 79
+  orig: 127, 123
+  offset: 64, 28
+  index: -1
+m_toratos_shell_a_gro
+  rotate: false
+  xy: 1702, 132
+  size: 128, 120
+  orig: 244, 278
+  offset: 81, 147
+  index: -1
+m_toratos_leftshell_a_gro
+  rotate: true
+  xy: 1832, 232
+  size: 66, 137
+  orig: 174, 205
+  offset: 17, 54
+  index: -1
+m_toratos_rightfeeler1_a2
+  rotate: false
+  xy: 1662, 258
+  size: 90, 166
+  orig: 106, 266
+  offset: 16, 100
+  index: -1
+m_toratos_face_eye_eff
+  rotate: true
+  xy: 1043, 318
+  size: 192, 85
+  orig: 242, 313
+  offset: 24, 26
+  index: -1
+m_toratos_s_feeler1
+  rotate: true
+  xy: 1556, 474
+  size: 32, 31
+  orig: 44, 61
+  offset: 0, 30
+  index: -1
+m_toratos_rightleg1_b1_gro
+  rotate: false
+  xy: 543, 2
+  size: 162, 332
+  orig: 210, 362
+  offset: 16, 4
+  index: -1
+m_toratos_leftfeeler2_a2
+  rotate: true
+  xy: 1881, 300
+  size: 55, 108
+  orig: 165, 408
+  offset: 0, 0
+  index: -1
+m_toratos_rightwing_b
+  rotate: false
+  xy: 1505, 474
+  size: 49, 32
+  orig: 155, 204
+  offset: 94, 172
+  index: -1
+m_toratos_rightshell_a_gro
+  rotate: false
+  xy: 1944, 2
+  size: 45, 67
+  orig: 173, 205
+  offset: 106, 51
+  index: -1
+m_toratos_leftmouth
+  rotate: false
+  xy: 1091, 287
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+m_toratos_shell_a
+  rotate: false
+  xy: 1335, 2
+  size: 244, 268
+  orig: 244, 278
+  offset: 0, 0
+  index: -1
+m_toratos_leftfeeler2_a1
+  rotate: false
+  xy: 382, 2
+  size: 159, 358
+  orig: 165, 408
+  offset: 6, 50
+  index: -1

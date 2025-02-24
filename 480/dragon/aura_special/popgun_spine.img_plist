@@ -1,0 +1,32 @@
+popgun_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+star2
+  rotate: true
+  xy: 421, 2
+  size: 79, 64
+  orig: 95, 80
+  offset: 8, 8
+  index: -1
+star3
+  rotate: true
+  xy: 306, 2
+  size: 114, 113
+  orig: 124, 123
+  offset: 4, 5
+  index: -1
+popgun1
+  rotate: false
+  xy: 2, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+popgun
+  rotate: false
+  xy: 154, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

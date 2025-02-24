@@ -1,0 +1,207 @@
+98_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_cmachine_ear2
+  rotate: true
+  xy: 262, 360
+  size: 62, 112
+  orig: 122, 140
+  offset: 26, 16
+  index: -1
+m_cmachine_body1
+  rotate: true
+  xy: 1436, 243
+  size: 192, 239
+  orig: 236, 269
+  offset: 16, 12
+  index: -1
+m_cmachine_groggybody1
+  rotate: false
+  xy: 1396, 2
+  size: 192, 239
+  orig: 236, 269
+  offset: 16, 12
+  index: -1
+m_cmachine_groggyear1
+  rotate: true
+  xy: 1786, 342
+  size: 78, 125
+  orig: 138, 143
+  offset: 33, 4
+  index: -1
+m_cmachine_arm6
+  rotate: true
+  xy: 1590, 2
+  size: 237, 146
+  orig: 281, 170
+  offset: 23, 10
+  index: -1
+m_cmachine_arm2
+  rotate: false
+  xy: 1331, 247
+  size: 103, 181
+  orig: 129, 209
+  offset: 8, 15
+  index: -1
+m_cmachine_groggyarm4
+  rotate: true
+  xy: 1884, 2
+  size: 107, 150
+  orig: 133, 168
+  offset: 12, 7
+  index: -1
+m_cmachine_ear1
+  rotate: true
+  xy: 1913, 341
+  size: 78, 125
+  orig: 138, 143
+  offset: 33, 4
+  index: -1
+m_cmachine_groggyear2
+  rotate: false
+  xy: 845, 333
+  size: 62, 100
+  orig: 122, 140
+  offset: 26, 16
+  index: -1
+m_cmachine_arm5
+  rotate: true
+  xy: 560, 333
+  size: 101, 182
+  orig: 161, 200
+  offset: 28, 12
+  index: -1
+m_cmachine_arm1
+  rotate: true
+  xy: 1884, 226
+  size: 113, 141
+  orig: 137, 163
+  offset: 15, 7
+  index: -1
+m_cmachine_groggyarm5
+  rotate: true
+  xy: 376, 333
+  size: 101, 182
+  orig: 161, 200
+  offset: 28, 12
+  index: -1
+m_cmachine_groggyarm1
+  rotate: true
+  xy: 1884, 111
+  size: 113, 141
+  orig: 137, 163
+  offset: 15, 7
+  index: -1
+m_cmachine_leg
+  rotate: true
+  xy: 879, 2
+  size: 315, 113
+  orig: 357, 139
+  offset: 13, 17
+  index: -1
+m_cmachine_body3
+  rotate: true
+  xy: 592, 2
+  size: 329, 285
+  orig: 357, 317
+  offset: 19, 23
+  index: -1
+m_cmachine_groggybody3
+  rotate: true
+  xy: 305, 2
+  size: 329, 285
+  orig: 357, 317
+  offset: 19, 23
+  index: -1
+m_cmachine_light2
+  rotate: true
+  xy: 2, 2
+  size: 359, 156
+  orig: 363, 156
+  offset: 0, 0
+  index: -1
+m_cmachine_arm8
+  rotate: false
+  xy: 2, 363
+  size: 129, 64
+  orig: 149, 86
+  offset: 11, 10
+  index: -1
+m_cmachine_arm4
+  rotate: false
+  xy: 1677, 241
+  size: 107, 156
+  orig: 133, 168
+  offset: 12, 7
+  index: -1
+m_cmachine_groggyarm2
+  rotate: false
+  xy: 1226, 247
+  size: 103, 181
+  orig: 129, 209
+  offset: 8, 15
+  index: -1
+m_cmachine_smoke
+  rotate: false
+  xy: 994, 251
+  size: 33, 37
+  orig: 105, 75
+  offset: 35, 20
+  index: -1
+m_cmachine_groggyarm6
+  rotate: true
+  xy: 1738, 2
+  size: 237, 144
+  orig: 281, 170
+  offset: 23, 10
+  index: -1
+m_cmachine_body2
+  rotate: false
+  xy: 1195, 2
+  size: 199, 243
+  orig: 243, 267
+  offset: 19, 15
+  index: -1
+m_cmachine_light1
+  rotate: true
+  xy: 160, 2
+  size: 356, 143
+  orig: 356, 143
+  offset: 0, 0
+  index: -1
+m_cmachine_groggybody2
+  rotate: false
+  xy: 994, 2
+  size: 199, 247
+  orig: 243, 267
+  offset: 20, 9
+  index: -1
+m_cmachine_arm7
+  rotate: false
+  xy: 133, 363
+  size: 127, 64
+  orig: 145, 90
+  offset: 9, 9
+  index: -1
+m_cmachine_arm3
+  rotate: true
+  xy: 744, 333
+  size: 100, 99
+  orig: 116, 123
+  offset: 6, 5
+  index: -1
+m_cmachine_groggyleg
+  rotate: false
+  xy: 909, 319
+  size: 315, 113
+  orig: 357, 139
+  offset: 13, 17
+  index: -1
+m_cmachine_groggyarm3
+  rotate: false
+  xy: 1786, 241
+  size: 96, 99
+  orig: 116, 123
+  offset: 10, 5
+  index: -1

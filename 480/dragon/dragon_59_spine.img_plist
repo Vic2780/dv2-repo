@@ -1,0 +1,389 @@
+dragon_59_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_guardian_adult_leg4
+  rotate: true
+  xy: 49, 908
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+dragon_guardian_baby_wing
+  rotate: false
+  xy: 202, 709
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+dragon_guardian_baby_body
+  rotate: true
+  xy: 70, 774
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+dragon_guardian_baby_tail
+  rotate: true
+  xy: 204, 228
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+dragon_guardian_child_leg3
+  rotate: true
+  xy: 158, 911
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+dragon_guardian_adult_wing2
+  rotate: true
+  xy: 129, 324
+  size: 68, 93
+  orig: 68, 93
+  offset: 0, 0
+  index: -1
+dragon_guardian_adult_tail
+  rotate: true
+  xy: 2, 613
+  size: 98, 99
+  orig: 98, 99
+  offset: 0, 0
+  index: -1
+dragon_guardian_adult_leg5
+  rotate: true
+  xy: 2, 866
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+dragon_guardian_child_eye1
+  rotate: true
+  xy: 21, 887
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+dragon_guardian_baby_eye1
+  rotate: false
+  xy: 99, 875
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_guardian_child_heart
+  rotate: false
+  xy: 179, 878
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_guardian_adult_eye2
+  rotate: true
+  xy: 165, 311
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+dragon_guardian_baby_eye2
+  rotate: true
+  xy: 21, 866
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+dragon_guardian_adult_eye1
+  rotate: true
+  xy: 175, 311
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+dragon_guardian_child_leg1
+  rotate: false
+  xy: 202, 735
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+dragon_guardian_baby_leg1
+  rotate: false
+  xy: 99, 897
+  size: 17, 39
+  orig: 17, 39
+  offset: 0, 0
+  index: -1
+dragon_guardian_adult_twinkling2
+  rotate: true
+  xy: 123, 450
+  size: 99, 100
+  orig: 225, 224
+  offset: 63, 64
+  index: -1
+dragon_guardian_adult_eye3
+  rotate: true
+  xy: 155, 311
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+dragon_guardian_baby_eye3
+  rotate: true
+  xy: 67, 891
+  size: 15, 14
+  orig: 19, 20
+  offset: 1, 3
+  index: -1
+dragon_guardian_adult_neck
+  rotate: true
+  xy: 123, 761
+  size: 50, 67
+  orig: 50, 67
+  offset: 0, 0
+  index: -1
+dragon_guardian_child_wing1
+  rotate: true
+  xy: 123, 643
+  size: 64, 89
+  orig: 64, 89
+  offset: 0, 0
+  index: -1
+dragon_guardian_baby_mouse
+  rotate: false
+  xy: 192, 773
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+dragon_guardian_adult_leg6
+  rotate: false
+  xy: 49, 866
+  size: 16, 40
+  orig: 16, 40
+  offset: 0, 0
+  index: -1
+dragon_guardian_child_neck
+  rotate: true
+  xy: 2, 766
+  size: 40, 66
+  orig: 40, 66
+  offset: 0, 0
+  index: -1
+dragon_guardian_adult_mouse
+  rotate: true
+  xy: 204, 298
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+dragon_guardian_baby_note2
+  rotate: true
+  xy: 182, 841
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_guardian_adult_wing3
+  rotate: false
+  xy: 2, 311
+  size: 125, 124
+  orig: 125, 124
+  offset: 0, 0
+  index: -1
+dragon_guardial_adult_atk2
+  rotate: true
+  xy: 2, 228
+  size: 81, 200
+  orig: 81, 200
+  offset: 0, 0
+  index: -1
+dragon_guardian_baby_leg2
+  rotate: true
+  xy: 67, 875
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+dragon_guardian_adult_body
+  rotate: false
+  xy: 129, 394
+  size: 93, 54
+  orig: 93, 54
+  offset: 0, 0
+  index: -1
+dragon_guardian_child_mouse
+  rotate: true
+  xy: 204, 268
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+dragon_guardian_adult_eye4
+  rotate: false
+  xy: 129, 311
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+dragon_guardian_child_leg4
+  rotate: true
+  xy: 2, 911
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+dragon_guardian_adult_leg7
+  rotate: false
+  xy: 93, 759
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+dragon_guardian_baby_head
+  rotate: false
+  xy: 122, 859
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+dragon_guardian_adult_leg2
+  rotate: false
+  xy: 103, 613
+  size: 18, 41
+  orig: 18, 41
+  offset: 0, 0
+  index: -1
+dragon_guardian_child_eye2
+  rotate: false
+  xy: 2, 895
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+dragon_guardian_child_leg6
+  rotate: true
+  xy: 93, 724
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+dragon_guardian_child_tail
+  rotate: false
+  xy: 2, 808
+  size: 63, 56
+  orig: 63, 56
+  offset: 0, 0
+  index: -1
+dragon_guardian_child_wing2
+  rotate: true
+  xy: 2, 713
+  size: 51, 89
+  orig: 51, 89
+  offset: 0, 0
+  index: -1
+dragon_guardian_adult_leg1
+  rotate: true
+  xy: 118, 911
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+dragon_guardian_adult_eye5
+  rotate: true
+  xy: 145, 311
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+dragon_guardian_adult_head
+  rotate: false
+  xy: 67, 833
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+dragon_guardian_child_leg5
+  rotate: true
+  xy: 103, 696
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+dragon_guardian_child_head
+  rotate: false
+  xy: 122, 813
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+dragon_guardian_adult_wing4
+  rotate: false
+  xy: 2, 437
+  size: 119, 114
+  orig: 119, 114
+  offset: 0, 0
+  index: -1
+dragon_guardian_adult_leg3
+  rotate: false
+  xy: 93, 743
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+dragon_guardian_adult_wing1
+  rotate: false
+  xy: 123, 551
+  size: 100, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1
+dragon_guardian_child_eye3
+  rotate: true
+  xy: 203, 919
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+dragon_guardian_child_leg7
+  rotate: false
+  xy: 179, 919
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+dragon_guardian_baby_note1
+  rotate: false
+  xy: 192, 801
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_guardial_adult_atk1
+  rotate: true
+  xy: 2, 553
+  size: 58, 107
+  orig: 58, 107
+  offset: 0, 0
+  index: -1
+dragon_guardian_child_body
+  rotate: false
+  xy: 123, 709
+  size: 77, 50
+  orig: 77, 50
+  offset: 0, 0
+  index: -1
+dragon_guardian_child_leg2
+  rotate: false
+  xy: 103, 656
+  size: 18, 38
+  orig: 18, 38
+  offset: 0, 0
+  index: -1
+dragon_guardian_adult_twinkling1
+  rotate: false
+  xy: 2, 2
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1

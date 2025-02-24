@@ -1,0 +1,179 @@
+dragon_9002_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_mrboomber_adult_leg1
+  rotate: false
+  xy: 994, 2
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+dragon_mrboomber_adult_body
+  rotate: true
+  xy: 901, 857
+  size: 91, 110
+  orig: 91, 110
+  offset: 0, 0
+  index: -1
+dragon_mrboomber_adult_body2
+  rotate: true
+  xy: 901, 764
+  size: 91, 110
+  orig: 91, 110
+  offset: 0, 0
+  index: -1
+dragon_mrboomber_adult_eye2
+  rotate: true
+  xy: 461, 852
+  size: 51, 30
+  orig: 65, 38
+  offset: 7, 6
+  index: -1
+dragon_mrboomber_adult_f4
+  rotate: true
+  xy: 461, 459
+  size: 391, 361
+  orig: 551, 489
+  offset: 61, 24
+  index: -1
+dragon_mrboomber_adult_b6
+  rotate: true
+  xy: 317, 910
+  size: 200, 188
+  orig: 200, 188
+  offset: 0, 0
+  index: -1
+dragon_mrboomber_adult_b2
+  rotate: false
+  xy: 901, 950
+  size: 90, 88
+  orig: 200, 188
+  offset: 42, 47
+  index: -1
+dragon_mrboomber_adult_fire1
+  rotate: false
+  xy: 824, 764
+  size: 39, 40
+  orig: 65, 66
+  offset: 11, 15
+  index: -1
+dragon_mrboomber_adult_f7
+  rotate: false
+  xy: 2, 459
+  size: 457, 449
+  orig: 551, 489
+  offset: 0, 40
+  index: -1
+dragon_mrboomber_adult_f3
+  rotate: false
+  xy: 2, 910
+  size: 313, 299
+  orig: 551, 489
+  offset: 133, 66
+  index: -1
+dragon_mrboomber_adult_eye
+  rotate: false
+  xy: 685, 1157
+  size: 50, 29
+  orig: 56, 33
+  offset: 3, 2
+  index: -1
+dragon_mrboomber_adult_b5
+  rotate: false
+  xy: 507, 852
+  size: 196, 188
+  orig: 200, 188
+  offset: 0, 0
+  index: -1
+dragon_mrboomber_adult_b1
+  rotate: false
+  xy: 523, 397
+  size: 58, 54
+  orig: 200, 188
+  offset: 55, 60
+  index: -1
+dragon_mrboomber_adult_leg3
+  rotate: true
+  xy: 1001, 589
+  size: 37, 8
+  orig: 37, 8
+  offset: 0, 0
+  index: -1
+dragon_mrboomber_adult_f6
+  rotate: false
+  xy: 2, 2
+  size: 519, 455
+  orig: 551, 489
+  offset: 32, 0
+  index: -1
+dragon_mrboomber_adult_body4
+  rotate: true
+  xy: 317, 1112
+  size: 91, 110
+  orig: 91, 110
+  offset: 0, 0
+  index: -1
+dragon_mrboomber_adult_f2
+  rotate: false
+  xy: 824, 589
+  size: 175, 173
+  orig: 551, 489
+  offset: 184, 126
+  index: -1
+dragon_mrboomber_adult_b4
+  rotate: false
+  xy: 705, 852
+  size: 194, 188
+  orig: 200, 188
+  offset: 0, 0
+  index: -1
+dragon_mrboomber_adult_leg2
+  rotate: false
+  xy: 994, 24
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+dragon_mrboomber_adult_body3
+  rotate: false
+  xy: 808, 1042
+  size: 91, 110
+  orig: 91, 110
+  offset: 0, 0
+  index: -1
+dragon_mrboomber_adult_f5
+  rotate: false
+  xy: 523, 2
+  size: 469, 393
+  orig: 551, 489
+  offset: 3, 9
+  index: -1
+dragon_mrboomber_adult_f1
+  rotate: false
+  xy: 685, 1042
+  size: 121, 113
+  orig: 551, 489
+  offset: 204, 147
+  index: -1
+dragon_mrboomber_adult_b7
+  rotate: true
+  xy: 824, 397
+  size: 190, 186
+  orig: 200, 188
+  offset: 0, 0
+  index: -1
+dragon_mrboomber_adult_b3
+  rotate: false
+  xy: 507, 1042
+  size: 176, 172
+  orig: 200, 188
+  offset: 5, 6
+  index: -1
+dragon_mrboomber_adult_fire2
+  rotate: false
+  xy: 429, 1112
+  size: 65, 66
+  orig: 65, 66
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,613 @@
+dragon_4006_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_luceferon_baby_lamp
+  rotate: true
+  xy: 1223, 191
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_l_wing2
+  rotate: false
+  xy: 134, 483
+  size: 104, 26
+  orig: 104, 26
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_lamplight
+  rotate: false
+  xy: 1021, 63
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+dragon_luceferon_baby_leg2
+  rotate: false
+  xy: 1189, 283
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+dragon_luceferon_child_sample
+  rotate: true
+  xy: 268, 371
+  size: 138, 148
+  orig: 138, 148
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_eye
+  rotate: true
+  xy: 1224, 344
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+dragon_luceferon_child_leg4
+  rotate: false
+  xy: 933, 487
+  size: 41, 22
+  orig: 41, 22
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_r_leg1a
+  rotate: true
+  xy: 1140, 244
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+dragon_luceferon_baby_wing2
+  rotate: true
+  xy: 1170, 92
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+dragon_luceferon_child_ear1
+  rotate: false
+  xy: 1004, 141
+  size: 12, 38
+  orig: 12, 38
+  offset: 0, 0
+  index: -1
+dragon_luceferon_baby_body
+  rotate: true
+  xy: 467, 438
+  size: 71, 76
+  orig: 71, 76
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_bodylihgts
+  rotate: true
+  xy: 740, 426
+  size: 80, 65
+  orig: 80, 65
+  offset: 0, 0
+  index: -1
+dragon_luceferon_cri5b
+  rotate: true
+  xy: 578, 367
+  size: 50, 96
+  orig: 50, 96
+  offset: 0, 0
+  index: -1
+dragon_luceferon_child_neck
+  rotate: true
+  xy: 937, 141
+  size: 55, 65
+  orig: 55, 65
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_l_leg1c
+  rotate: false
+  xy: 1170, 123
+  size: 80, 26
+  orig: 80, 26
+  offset: 0, 0
+  index: -1
+dragon_luceferon_child_necklight
+  rotate: true
+  xy: 1172, 362
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_r_winglight1
+  rotate: false
+  xy: 1005, 183
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_nlights
+  rotate: true
+  xy: 1053, 362
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+dragon_luceferon_cri1a
+  rotate: false
+  xy: 525, 2
+  size: 511, 59
+  orig: 511, 59
+  offset: 0, 0
+  index: -1
+dragon_luceferon_cri2a
+  rotate: false
+  xy: 449, 141
+  size: 486, 58
+  orig: 486, 58
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_l_ear
+  rotate: false
+  xy: 1183, 437
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_heart
+  rotate: false
+  xy: 1005, 388
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_luceferon_child_body2
+  rotate: false
+  xy: 933, 424
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_l_wing1
+  rotate: true
+  xy: 418, 371
+  size: 115, 47
+  orig: 115, 47
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_l_leg1b
+  rotate: true
+  xy: 1139, 92
+  size: 86, 29
+  orig: 86, 29
+  offset: 0, 0
+  index: -1
+dragon_luceferon_baby_eye
+  rotate: true
+  xy: 1223, 219
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+dragon_luceferon_cri3aac
+  rotate: true
+  xy: 610, 426
+  size: 83, 56
+  orig: 83, 56
+  offset: 0, 0
+  index: -1
+dragon_luceferon_baby_leg3
+  rotate: false
+  xy: 499, 127
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+dragon_luceferon_cri3b
+  rotate: false
+  xy: 1038, 2
+  size: 143, 88
+  orig: 143, 88
+  offset: 0, 0
+  index: -1
+dragon_luceferon_child_lamp
+  rotate: true
+  xy: 1165, 397
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_head
+  rotate: false
+  xy: 1123, 397
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+dragon_luceferon_cri4c
+  rotate: false
+  xy: 1064, 183
+  size: 74, 82
+  orig: 74, 82
+  offset: 0, 0
+  index: -1
+dragon_luceferon_baby_note1
+  rotate: true
+  xy: 1205, 405
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_luceferon_child_l_wing1
+  rotate: false
+  xy: 1053, 312
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_neck
+  rotate: false
+  xy: 668, 426
+  size: 70, 79
+  orig: 70, 79
+  offset: 0, 0
+  index: -1
+dragon_luceferon_baby_tail
+  rotate: false
+  xy: 1147, 434
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_l_leg2
+  rotate: false
+  xy: 788, 385
+  size: 77, 35
+  orig: 77, 35
+  offset: 0, 0
+  index: -1
+dragon_luceferon_child_chinb
+  rotate: true
+  xy: 868, 489
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_r_leg1c
+  rotate: true
+  xy: 1227, 283
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_r_earlight
+  rotate: false
+  xy: 1148, 472
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_r_winglight2
+  rotate: true
+  xy: 807, 422
+  size: 71, 59
+  orig: 71, 59
+  offset: 0, 0
+  index: -1
+dragon_luceferon_child_r_wing1
+  rotate: true
+  xy: 999, 429
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+dragon_luceferon_child_lamplihgt
+  rotate: false
+  xy: 1224, 437
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_l_winglight1
+  rotate: true
+  xy: 1183, 2
+  size: 119, 64
+  orig: 119, 64
+  offset: 0, 0
+  index: -1
+dragon_luceferon_cri4b
+  rotate: false
+  xy: 881, 201
+  size: 122, 221
+  orig: 122, 221
+  offset: 0, 0
+  index: -1
+dragon_luceferon_baby_chin
+  rotate: false
+  xy: 1134, 280
+  size: 53, 43
+  orig: 53, 43
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_l_earlight
+  rotate: false
+  xy: 1175, 326
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+dragon_luceferon_baby_sample
+  rotate: true
+  xy: 2, 395
+  size: 106, 130
+  orig: 106, 130
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_r_wing2
+  rotate: false
+  xy: 1053, 402
+  size: 64, 46
+  orig: 64, 46
+  offset: 0, 0
+  index: -1
+dragon_luceferon_child_r_wing2
+  rotate: false
+  xy: 807, 495
+  size: 53, 11
+  orig: 53, 11
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_l_leg1a
+  rotate: true
+  xy: 1064, 267
+  size: 43, 68
+  orig: 43, 68
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_lamp
+  rotate: false
+  xy: 1183, 463
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+dragon_luceferon_cri5a
+  rotate: false
+  xy: 467, 367
+  size: 109, 69
+  orig: 109, 69
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_r_leg1b
+  rotate: true
+  xy: 499, 70
+  size: 55, 24
+  orig: 55, 24
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_r_leg2
+  rotate: true
+  xy: 1140, 180
+  size: 62, 26
+  orig: 62, 26
+  offset: 0, 0
+  index: -1
+dragon_luceferon_child_leg2
+  rotate: false
+  xy: 449, 70
+  size: 48, 69
+  orig: 48, 69
+  offset: 0, 0
+  index: -1
+dragon_luceferon_child_eye
+  rotate: true
+  xy: 976, 487
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_tail
+  rotate: false
+  xy: 1170, 151
+  size: 71, 38
+  orig: 71, 38
+  offset: 0, 0
+  index: -1
+dragon_luceferon_child_tail
+  rotate: false
+  xy: 1168, 191
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+dragon_luceferon_child_l_wing2
+  rotate: true
+  xy: 1101, 450
+  size: 59, 11
+  orig: 59, 11
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_r_ear
+  rotate: false
+  xy: 240, 483
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_luceferon_child_body1
+  rotate: false
+  xy: 545, 438
+  size: 63, 71
+  orig: 63, 71
+  offset: 0, 0
+  index: -1
+dragon_luceferon_baby_chinb
+  rotate: true
+  xy: 1221, 362
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+dragon_luceferon_child_ear2
+  rotate: true
+  xy: 904, 489
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+dragon_luceferon_cri1b
+  rotate: false
+  xy: 2, 2
+  size: 521, 66
+  orig: 521, 66
+  offset: 0, 0
+  index: -1
+dragon_luceferon_baby_bodylights
+  rotate: false
+  xy: 868, 424
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+dragon_luceferon_cri2b
+  rotate: false
+  xy: 525, 63
+  size: 494, 76
+  orig: 494, 76
+  offset: 0, 0
+  index: -1
+dragon_luceferon_cri3aa
+  rotate: false
+  xy: 134, 395
+  size: 125, 86
+  orig: 125, 86
+  offset: 0, 0
+  index: -1
+dragon_luceferon_child_head
+  rotate: false
+  xy: 1114, 450
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+dragon_luceferon_baby_lamplight
+  rotate: false
+  xy: 1217, 463
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+dragon_luceferon_child_chin
+  rotate: true
+  xy: 1120, 325
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+dragon_luceferon_child_eyelight
+  rotate: true
+  xy: 1227, 314
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+dragon_luceferon_cri3a
+  rotate: true
+  xy: 268, 70
+  size: 299, 179
+  orig: 299, 179
+  offset: 0, 0
+  index: -1
+dragon_luceferon_cri3ab
+  rotate: false
+  xy: 449, 201
+  size: 228, 164
+  orig: 228, 164
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_sample
+  rotate: false
+  xy: 679, 201
+  size: 200, 182
+  orig: 200, 182
+  offset: 0, 0
+  index: -1
+dragon_luceferon_child_heart
+  rotate: false
+  xy: 1005, 388
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_l_winglight2
+  rotate: false
+  xy: 676, 385
+  size: 110, 39
+  orig: 110, 39
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_chin
+  rotate: false
+  xy: 1195, 244
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_body
+  rotate: false
+  xy: 1021, 92
+  size: 116, 89
+  orig: 116, 89
+  offset: 0, 0
+  index: -1
+dragon_luceferon_baby_eyelight
+  rotate: false
+  xy: 578, 419
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+dragon_luceferon_baby_head
+  rotate: false
+  xy: 997, 490
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+dragon_luceferon_baby_ear
+  rotate: false
+  xy: 1114, 493
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+dragon_luceferon_baby_leg1
+  rotate: true
+  xy: 1123, 360
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+dragon_luceferon_child_leg1
+  rotate: false
+  xy: 1052, 450
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+dragon_luceferon_cri4a
+  rotate: false
+  xy: 2, 70
+  size: 264, 323
+  orig: 264, 323
+  offset: 0, 0
+  index: -1
+dragon_luceferon_baby_wing1
+  rotate: false
+  xy: 418, 488
+  size: 44, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1
+dragon_luceferon_adult_r_wing1
+  rotate: false
+  xy: 1005, 291
+  size: 46, 95
+  orig: 46, 95
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,452 @@
+dragon_120_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_typhoon_baby_leg2
+  rotate: false
+  xy: 1639, 260
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+dragon_typhoon_child_wing2
+  rotate: true
+  xy: 1641, 186
+  size: 58, 77
+  orig: 58, 77
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_head
+  rotate: true
+  xy: 1567, 291
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_l_legc
+  rotate: true
+  xy: 1593, 149
+  size: 22, 47
+  orig: 22, 47
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_heart
+  rotate: false
+  xy: 1593, 219
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_l_arma
+  rotate: true
+  xy: 1593, 121
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_tailc
+  rotate: false
+  xy: 1447, 255
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+dragon_typhoon_critical3
+  rotate: true
+  xy: 1437, 69
+  size: 50, 203
+  orig: 50, 203
+  offset: 0, 0
+  index: -1
+dragon_typhoon_child_heart
+  rotate: false
+  xy: 1593, 219
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_bodyfur
+  rotate: true
+  xy: 1447, 215
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_body1
+  rotate: true
+  xy: 1657, 2
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1
+dragon_typhoon_child_chin
+  rotate: true
+  xy: 1665, 371
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+dragon_typhoon_child_leg2
+  rotate: false
+  xy: 1410, 87
+  size: 24, 65
+  orig: 24, 65
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_l_armc
+  rotate: true
+  xy: 1261, 384
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+dragon_typhoon_baby_eye
+  rotate: true
+  xy: 1570, 216
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_r_legb
+  rotate: true
+  xy: 1483, 138
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+dragon_typhoon_child_eye
+  rotate: false
+  xy: 1502, 291
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_taila
+  rotate: true
+  xy: 1604, 291
+  size: 59, 44
+  orig: 59, 44
+  offset: 0, 0
+  index: -1
+dragon_typhoon_critical1
+  rotate: true
+  xy: 1283, 384
+  size: 24, 152
+  orig: 24, 152
+  offset: 0, 0
+  index: -1
+dragon_typhoon_baby_body
+  rotate: false
+  xy: 1447, 314
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_l_wing
+  rotate: false
+  xy: 1304, 215
+  size: 141, 154
+  orig: 141, 154
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_r_lega
+  rotate: true
+  xy: 1593, 173
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+dragon_typhoon_baby_eye3
+  rotate: true
+  xy: 1504, 369
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+dragon_typhoon_child_wing1
+  rotate: true
+  xy: 1504, 121
+  size: 68, 87
+  orig: 68, 87
+  offset: 0, 0
+  index: -1
+dragon_typhoon_critical6
+  rotate: false
+  xy: 432, 2
+  size: 367, 407
+  orig: 367, 407
+  offset: 0, 0
+  index: -1
+dragon_typhoon_baby_leg4
+  rotate: true
+  xy: 1583, 353
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+dragon_typhoon_child_leg3
+  rotate: true
+  xy: 1504, 191
+  size: 53, 64
+  orig: 53, 64
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_eye2
+  rotate: false
+  xy: 1426, 18
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_body
+  rotate: false
+  xy: 1533, 368
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_r_legc
+  rotate: true
+  xy: 1568, 260
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_r_armb
+  rotate: true
+  xy: 1614, 260
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+dragon_typhoon_baby_head
+  rotate: false
+  xy: 1409, 154
+  size: 71, 59
+  orig: 71, 59
+  offset: 0, 0
+  index: -1
+dragon_typhoon_child_head
+  rotate: false
+  xy: 1657, 60
+  size: 66, 53
+  orig: 66, 53
+  offset: 0, 0
+  index: -1
+dragon_typhoon_critical4
+  rotate: false
+  xy: 1207, 2
+  size: 95, 380
+  orig: 95, 380
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_r_arma
+  rotate: true
+  xy: 1665, 343
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_neck
+  rotate: true
+  xy: 1642, 115
+  size: 69, 81
+  orig: 69, 81
+  offset: 0, 0
+  index: -1
+dragon_typhoon_child_leg1
+  rotate: true
+  xy: 1437, 371
+  size: 38, 65
+  orig: 38, 65
+  offset: 0, 0
+  index: -1
+dragon_typhoon_baby_leg3
+  rotate: true
+  xy: 1663, 246
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_eye3
+  rotate: true
+  xy: 1642, 98
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_r_armc
+  rotate: false
+  xy: 1483, 121
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_r_legd
+  rotate: true
+  xy: 1642, 69
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+dragon_typhoon_baby_tail
+  rotate: false
+  xy: 1207, 384
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+dragon_typhoon_baby_chin
+  rotate: true
+  xy: 1436, 121
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_r_wing
+  rotate: true
+  xy: 1304, 2
+  size: 83, 120
+  orig: 83, 120
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_l_legb
+  rotate: true
+  xy: 1700, 246
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_eye4
+  rotate: true
+  xy: 1426, 2
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+dragon_typhoon_child_neck
+  rotate: false
+  xy: 1505, 310
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+dragon_typhoon_baby_wing2
+  rotate: false
+  xy: 1650, 291
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+dragon_typhoon_child_tail
+  rotate: false
+  xy: 1304, 87
+  size: 104, 50
+  orig: 104, 50
+  offset: 0, 0
+  index: -1
+dragon_typhoon_critical2
+  rotate: true
+  xy: 1437, 2
+  size: 65, 218
+  orig: 65, 218
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_eye
+  rotate: false
+  xy: 1426, 26
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+dragon_typhoon_critical7
+  rotate: true
+  xy: 2, 2
+  size: 407, 428
+  orig: 407, 428
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_l_armb
+  rotate: true
+  xy: 1697, 371
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+dragon_typhoon_child_body
+  rotate: false
+  xy: 1304, 139
+  size: 91, 74
+  orig: 91, 74
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_eye5
+  rotate: true
+  xy: 1426, 34
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+dragon_typhoon_baby_eye2
+  rotate: true
+  xy: 1570, 191
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+dragon_typhoon_child_eye2
+  rotate: false
+  xy: 1570, 241
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_typhoon_critical5
+  rotate: true
+  xy: 801, 2
+  size: 406, 404
+  orig: 406, 404
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_l_legd
+  rotate: true
+  xy: 1397, 139
+  size: 36, 10
+  orig: 36, 10
+  offset: 0, 0
+  index: -1
+dragon_typhoon_baby_heart
+  rotate: false
+  xy: 1593, 219
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_chin
+  rotate: true
+  xy: 1482, 175
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_l_lega
+  rotate: false
+  xy: 1619, 352
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+dragon_typhoon_adult_tailb
+  rotate: false
+  xy: 1504, 246
+  size: 62, 43
+  orig: 62, 43
+  offset: 0, 0
+  index: -1
+dragon_typhoon_child_eye3
+  rotate: true
+  xy: 1461, 121
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1

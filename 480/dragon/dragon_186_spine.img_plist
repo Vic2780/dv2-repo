@@ -1,0 +1,725 @@
+dragon_186_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_boomba_baby_arm
+  rotate: false
+  xy: 413, 1618
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+dragon_boomba_baby_bodyeff2
+  rotate: false
+  xy: 359, 1805
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+dragon_boomba_adult_critical01
+  rotate: false
+  xy: 194, 1436
+  size: 119, 116
+  orig: 119, 116
+  offset: 0, 0
+  index: -1
+dragon_boomba_baby_hair2
+  rotate: true
+  xy: 368, 2007
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+dragon_boomba_baby_body
+  rotate: false
+  xy: 267, 844
+  size: 66, 54
+  orig: 66, 54
+  offset: 0, 0
+  index: -1
+dragon_boomba_e_e_fire1
+  rotate: true
+  xy: 400, 957
+  size: 67, 62
+  orig: 83, 72
+  offset: 8, 6
+  index: -1
+dragon_boomba_adult_taileff2
+  rotate: false
+  xy: 336, 2011
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+dragon_boomba_ecri_pa2
+  rotate: true
+  xy: 2, 613
+  size: 288, 263
+  orig: 288, 263
+  offset: 0, 0
+  index: -1
+dragon_boomba_baby_wing
+  rotate: false
+  xy: 325, 1798
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+dragon_boomba_adult_critical06
+  rotate: false
+  xy: 2, 336
+  size: 287, 275
+  orig: 287, 275
+  offset: 0, 0
+  index: -1
+dragon_boomba_child_leg1
+  rotate: true
+  xy: 205, 2014
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+dragon_boomba_child_taileff1
+  rotate: true
+  xy: 403, 1929
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+dragon_boomba_ecri_cc3
+  rotate: false
+  xy: 181, 1640
+  size: 104, 103
+  orig: 164, 161
+  offset: 30, 30
+  index: -1
+dragon_boomba_child_hand3
+  rotate: true
+  xy: 194, 1390
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+dragon_boomba_adult_critical05
+  rotate: false
+  xy: 2, 903
+  size: 233, 237
+  orig: 233, 237
+  offset: 0, 0
+  index: -1
+dragon_boomba_adult_taileff
+  rotate: false
+  xy: 406, 1895
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+dragon_boomba_baby_taileff3
+  rotate: true
+  xy: 194, 1409
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+dragon_boomba_child_head
+  rotate: true
+  xy: 335, 844
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+dragon_boomba_e_e_taileff3
+  rotate: false
+  xy: 418, 1489
+  size: 45, 52
+  orig: 53, 54
+  offset: 4, 0
+  index: -1
+dragon_boomba_adult_head
+  rotate: true
+  xy: 436, 1637
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+dragon_boomba_baby_tail
+  rotate: true
+  xy: 435, 1733
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+dragon_boomba_baby_bodyeff
+  rotate: true
+  xy: 296, 1897
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+dragon_boomba_adult_mouth
+  rotate: true
+  xy: 448, 1109
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+dragon_boomba_adult_bodyeff4
+  rotate: false
+  xy: 356, 1204
+  size: 101, 126
+  orig: 101, 126
+  offset: 0, 0
+  index: -1
+dragon_boomba_e_wing_eff2
+  rotate: false
+  xy: 205, 1897
+  size: 89, 115
+  orig: 93, 115
+  offset: 0, 0
+  index: -1
+dragon_boomba_child_bodyeff1
+  rotate: false
+  xy: 368, 1724
+  size: 65, 79
+  orig: 65, 79
+  offset: 0, 0
+  index: -1
+dragon_boomba_adult_leg3
+  rotate: true
+  xy: 234, 1745
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+dragon_boomba_adult_wing
+  rotate: true
+  xy: 194, 1554
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: -1
+dragon_boomba_child_hand2
+  rotate: true
+  xy: 413, 1597
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+dragon_boomba_e_e_fire2
+  rotate: true
+  xy: 362, 1639
+  size: 83, 72
+  orig: 83, 72
+  offset: 0, 0
+  index: -1
+dragon_boomba_baby_taileff2
+  rotate: false
+  xy: 401, 1961
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+dragon_boomba_adult_arm3
+  rotate: false
+  xy: 308, 1853
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+dragon_boomba_e_e_taileff0
+  rotate: false
+  xy: 296, 2011
+  size: 38, 31
+  orig: 76, 83
+  offset: 17, 28
+  index: -1
+dragon_boomba_e_cri_p
+  rotate: false
+  xy: 2, 2
+  size: 339, 332
+  orig: 339, 332
+  offset: 0, 0
+  index: -1
+dragon_boomba_e_arm_p
+  rotate: true
+  xy: 416, 1805
+  size: 52, 45
+  orig: 52, 45
+  offset: 0, 0
+  index: -1
+dragon_boomba_baby_mouth
+  rotate: true
+  xy: 454, 1135
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+dragon_boomba_adult_critical07
+  rotate: true
+  xy: 343, 141
+  size: 164, 72
+  orig: 164, 72
+  offset: 0, 0
+  index: -1
+dragon_boomba_child_hair1
+  rotate: false
+  xy: 395, 1595
+  size: 16, 41
+  orig: 16, 41
+  offset: 0, 0
+  index: -1
+dragon_boomba_e_e_taileff00
+  rotate: false
+  xy: 400, 1026
+  size: 62, 51
+  orig: 76, 83
+  offset: 0, 16
+  index: -1
+dragon_boomba_child_bodyeff2
+  rotate: true
+  xy: 287, 1731
+  size: 65, 79
+  orig: 65, 79
+  offset: 0, 0
+  index: -1
+dragon_boomba_adult_critical02
+  rotate: false
+  xy: 2, 1769
+  size: 161, 174
+  orig: 161, 174
+  offset: 0, 0
+  index: -1
+dragon_boomba_child_love
+  rotate: false
+  xy: 435, 1786
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+dragon_boomba_adult_leg2
+  rotate: false
+  xy: 448, 1079
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+dragon_boomba_baby_eye
+  rotate: false
+  xy: 181, 1745
+  size: 51, 20
+  orig: 51, 20
+  offset: 0, 0
+  index: -1
+dragon_boomba_adult_hair
+  rotate: false
+  xy: 351, 1916
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+dragon_boomba_adult_arm
+  rotate: false
+  xy: 436, 1677
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+dragon_boomba_child_mouth
+  rotate: false
+  xy: 350, 1422
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+dragon_boomba_baby_bodyeff4
+  rotate: true
+  xy: 399, 1146
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+dragon_boomba_child_eye2
+  rotate: false
+  xy: 436, 1711
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+dragon_boomba_child_taileff2
+  rotate: false
+  xy: 401, 1961
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+dragon_boomba_e_wing_eff3
+  rotate: true
+  xy: 90, 1945
+  size: 93, 113
+  orig: 93, 115
+  offset: 0, 2
+  index: -1
+dragon_boomba_adult_arm2
+  rotate: false
+  xy: 436, 1951
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+dragon_boomba_baby_taileff1
+  rotate: true
+  xy: 403, 1929
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+dragon_boomba_baby_love
+  rotate: false
+  xy: 243, 2014
+  size: 51, 20
+  orig: 51, 20
+  offset: 0, 0
+  index: -1
+dragon_boomba_adult_leg
+  rotate: true
+  xy: 350, 1961
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+dragon_boomba_e_e_fire3
+  rotate: true
+  xy: 397, 804
+  size: 73, 66
+  orig: 83, 72
+  offset: 3, 3
+  index: -1
+dragon_boomba_adult_bodyeff3
+  rotate: true
+  xy: 222, 1333
+  size: 101, 126
+  orig: 101, 126
+  offset: 0, 0
+  index: -1
+dragon_boomba_e_e_taileff1
+  rotate: false
+  xy: 418, 1543
+  size: 45, 52
+  orig: 53, 54
+  offset: 4, 0
+  index: -1
+dragon_boomba_adult_body
+  rotate: false
+  xy: 343, 2
+  size: 113, 137
+  orig: 113, 137
+  offset: 0, 0
+  index: -1
+dragon_boomba_child_tail
+  rotate: false
+  xy: 423, 301
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+dragon_boomba_e_body_p
+  rotate: true
+  xy: 301, 1564
+  size: 73, 92
+  orig: 73, 92
+  offset: 0, 0
+  index: -1
+dragon_boomba_child_leg2
+  rotate: false
+  xy: 165, 1897
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+dragon_boomba_e_smo1
+  rotate: true
+  xy: 267, 642
+  size: 200, 126
+  orig: 200, 128
+  offset: 0, 2
+  index: -1
+dragon_boomba_ecri_cc1
+  rotate: true
+  xy: 237, 903
+  size: 162, 161
+  orig: 164, 161
+  offset: 2, 0
+  index: -1
+dragon_boomba_child_bodyeff3
+  rotate: false
+  xy: 395, 723
+  size: 65, 79
+  orig: 65, 79
+  offset: 0, 0
+  index: -1
+dragon_boomba_adult_critical03
+  rotate: false
+  xy: 2, 1363
+  size: 190, 203
+  orig: 190, 203
+  offset: 0, 0
+  index: -1
+dragon_boomba_adult_love
+  rotate: false
+  xy: 343, 307
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+dragon_boomba_e_smo2
+  rotate: true
+  xy: 2, 1568
+  size: 199, 177
+  orig: 239, 191
+  offset: 40, 14
+  index: -1
+dragon_boomba_adult_speed
+  rotate: false
+  xy: 291, 336
+  size: 172, 304
+  orig: 196, 304
+  offset: 14, 0
+  index: -1
+dragon_boomba_adult_bodyeff2
+  rotate: false
+  xy: 315, 1436
+  size: 101, 126
+  orig: 101, 126
+  offset: 0, 0
+  index: -1
+dragon_boomba_child_taileff3
+  rotate: true
+  xy: 194, 1409
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+dragon_boomba_e_wing_eff4
+  rotate: false
+  xy: 287, 1640
+  size: 73, 89
+  orig: 93, 115
+  offset: 2, 15
+  index: -1
+dragon_boomba_child_hand1
+  rotate: false
+  xy: 406, 1860
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+dragon_boomba_baby_heart
+  rotate: false
+  xy: 417, 196
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_boomba_adult_tail
+  rotate: true
+  xy: 417, 237
+  size: 62, 36
+  orig: 62, 36
+  offset: 0, 0
+  index: -1
+dragon_boomba_baby_bodyeff3
+  rotate: false
+  xy: 268, 1798
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+dragon_boomba_ecri_cc2
+  rotate: false
+  xy: 222, 1204
+  size: 132, 127
+  orig: 164, 161
+  offset: 12, 19
+  index: -1
+dragon_boomba_child_bodyeff4
+  rotate: false
+  xy: 395, 642
+  size: 65, 79
+  orig: 65, 79
+  offset: 0, 0
+  index: -1
+dragon_boomba_adult_critical04
+  rotate: false
+  xy: 2, 1142
+  size: 218, 219
+  orig: 218, 219
+  offset: 0, 0
+  index: -1
+dragon_boomba_child_hand4
+  rotate: false
+  xy: 395, 1564
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+dragon_boomba_baby_mouth2
+  rotate: true
+  xy: 181, 1568
+  size: 31, 11
+  orig: 31, 11
+  offset: 0, 0
+  index: -1
+dragon_boomba_adult_leg4
+  rotate: true
+  xy: 438, 1890
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+dragon_boomba_baby_leg2
+  rotate: false
+  xy: 437, 1859
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+dragon_boomba_e_e_taileff2
+  rotate: false
+  xy: 351, 1860
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+dragon_boomba_adult_taileff3
+  rotate: true
+  xy: 267, 613
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+dragon_boomba_baby_loveeff
+  rotate: true
+  xy: 418, 1422
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+dragon_boomba_ecri_pa1
+  rotate: false
+  xy: 237, 1067
+  size: 160, 135
+  orig: 164, 161
+  offset: 0, 13
+  index: -1
+dragon_boomba_adult_hit
+  rotate: false
+  xy: 383, 307
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+dragon_boomba_child_hair2
+  rotate: false
+  xy: 417, 141
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+dragon_boomba_baby_hair
+  rotate: false
+  xy: 222, 1142
+  size: 13, 33
+  orig: 13, 33
+  offset: 0, 0
+  index: -1
+dragon_boomba_adult_head2
+  rotate: true
+  xy: 436, 1597
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+dragon_boomba_baby_love2
+  rotate: true
+  xy: 268, 1745
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+dragon_boomba_baby_head
+  rotate: true
+  xy: 296, 1954
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+dragon_boomba_adult_bodyeff1
+  rotate: false
+  xy: 165, 1769
+  size: 101, 126
+  orig: 101, 126
+  offset: 0, 0
+  index: -1
+dragon_boomba_baby_leg
+  rotate: true
+  xy: 194, 1363
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+dragon_boomba_e_wing_eff1
+  rotate: true
+  xy: 350, 1333
+  size: 87, 113
+  orig: 93, 115
+  offset: 0, 2
+  index: -1
+dragon_boomba_adult_arm4
+  rotate: false
+  xy: 435, 1754
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+dragon_boomba_e_head_p
+  rotate: true
+  xy: 268, 1853
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+dragon_boomba_child_eye
+  rotate: false
+  xy: 436, 1929
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+dragon_boomba_child_neck
+  rotate: false
+  xy: 399, 1079
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+dragon_love_effect_heart
+  rotate: false
+  xy: 417, 196
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_boomba_child_body
+  rotate: true
+  xy: 2, 1945
+  size: 97, 86
+  orig: 97, 86
+  offset: 0, 0
+  index: -1
+dragon_boomba_child_wing
+  rotate: false
+  xy: 400, 879
+  size: 60, 76
+  orig: 60, 76
+  offset: 0, 0
+  index: -1

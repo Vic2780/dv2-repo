@@ -1,0 +1,592 @@
+dragon_195_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_nox_adult_tail3
+  rotate: false
+  xy: 221, 2
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+dragon_nox_baby_smile
+  rotate: false
+  xy: 58, 1519
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_nox_child_chin
+  rotate: false
+  xy: 155, 1575
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+dragon_nox_cristoneb
+  rotate: false
+  xy: 2, 1373
+  size: 87, 48
+  orig: 87, 48
+  offset: 0, 0
+  index: -1
+dragon_nox_cristone3
+  rotate: false
+  xy: 123, 1284
+  size: 119, 68
+  orig: 119, 68
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_neckd
+  rotate: true
+  xy: 214, 326
+  size: 36, 40
+  orig: 38, 40
+  offset: 2, 0
+  index: -1
+dragon_nox_adult_head
+  rotate: true
+  xy: 119, 1436
+  size: 36, 67
+  orig: 36, 67
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_tail8
+  rotate: false
+  xy: 91, 1444
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+dragon_nox_baby_chin
+  rotate: true
+  xy: 136, 1077
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_tail12
+  rotate: true
+  xy: 69, 1581
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_eye4
+  rotate: false
+  xy: 242, 763
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+dragon_nox_baby_head
+  rotate: false
+  xy: 119, 1474
+  size: 60, 56
+  orig: 60, 60
+  offset: 0, 4
+  index: -1
+dragon_nox_adult_tail4
+  rotate: true
+  xy: 198, 1557
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+dragon_nox_baby_tail
+  rotate: true
+  xy: 221, 270
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+dragon_nox_child_fang1
+  rotate: true
+  xy: 248, 1209
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+dragon_nox_crimain1
+  rotate: true
+  xy: 153, 1017
+  size: 120, 101
+  orig: 126, 119
+  offset: 6, 15
+  index: -1
+dragon_nox_adult_tail16
+  rotate: true
+  xy: 201, 1393
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+dragon_nox_cristone2
+  rotate: true
+  xy: 214, 648
+  size: 101, 38
+  orig: 101, 38
+  offset: 0, 0
+  index: -1
+dragon_nox_mainb3
+  rotate: false
+  xy: 2, 959
+  size: 149, 60
+  orig: 155, 74
+  offset: 6, 3
+  index: -1
+dragon_nox_child_body
+  rotate: false
+  xy: 151, 1209
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_l_legd
+  rotate: true
+  xy: 123, 1183
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_r_legc
+  rotate: false
+  xy: 123, 1108
+  size: 28, 26
+  orig: 52, 26
+  offset: 24, 0
+  index: -1
+dragon_nox_cricrack3
+  rotate: false
+  xy: 2, 1021
+  size: 143, 54
+  orig: 143, 54
+  offset: 0, 0
+  index: -1
+dragon_nox_crimain2
+  rotate: true
+  xy: 2, 735
+  size: 147, 174
+  orig: 149, 176
+  offset: 2, 0
+  index: -1
+dragon_nox_adult_eye
+  rotate: false
+  xy: 244, 1351
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+dragon_nox_baby_eye2
+  rotate: false
+  xy: 123, 1161
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_necke
+  rotate: false
+  xy: 221, 84
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_tail9
+  rotate: false
+  xy: 2, 1581
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+dragon_nox_child_neck
+  rotate: false
+  xy: 178, 864
+  size: 74, 70
+  orig: 74, 70
+  offset: 0, 0
+  index: -1
+dragon_nox_child_chest1
+  rotate: true
+  xy: 54, 1474
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+dragon_nox_child_fang2
+  rotate: true
+  xy: 244, 1315
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_tail13
+  rotate: true
+  xy: 87, 1581
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+dragon_nox_cristonea
+  rotate: true
+  xy: 230, 1517
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_r_legb
+  rotate: false
+  xy: 214, 461
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_necka
+  rotate: true
+  xy: 91, 1400
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+dragon_nox_cricrack2
+  rotate: false
+  xy: 2, 1077
+  size: 132, 26
+  orig: 132, 26
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_fang1
+  rotate: true
+  xy: 248, 1218
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_tail5
+  rotate: true
+  xy: 221, 199
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_tail17
+  rotate: true
+  xy: 244, 1298
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_neckf
+  rotate: false
+  xy: 178, 735
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_eye3
+  rotate: false
+  xy: 188, 1464
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+dragon_nox_child_headb
+  rotate: false
+  xy: 214, 506
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_l_legc
+  rotate: false
+  xy: 221, 297
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_tail1
+  rotate: true
+  xy: 201, 1474
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+dragon_nox_crimain3
+  rotate: false
+  xy: 2, 2
+  size: 217, 317
+  orig: 221, 323
+  offset: 4, 0
+  index: -1
+dragon_nox_adult_tail10
+  rotate: false
+  xy: 47, 1581
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_nox_cristone1
+  rotate: false
+  xy: 123, 1354
+  size: 89, 37
+  orig: 89, 37
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_neckb
+  rotate: true
+  xy: 192, 1517
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_fang2
+  rotate: true
+  xy: 242, 751
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+dragon_nox_baby_eye
+  rotate: true
+  xy: 25, 1581
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_tail6
+  rotate: false
+  xy: 214, 751
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+dragon_nox_baby_leg2
+  rotate: true
+  xy: 91, 1373
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+dragon_nox_child_head
+  rotate: false
+  xy: 122, 1393
+  size: 77, 41
+  orig: 77, 41
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_tail14
+  rotate: false
+  xy: 153, 981
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_nox_mainb1
+  rotate: true
+  xy: 2, 1105
+  size: 266, 119
+  orig: 268, 121
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_eye2
+  rotate: false
+  xy: 244, 1334
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_l_legb
+  rotate: true
+  xy: 2, 1474
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_r_lega
+  rotate: true
+  xy: 117, 1532
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_sample
+  rotate: true
+  xy: 2, 321
+  size: 412, 210
+  orig: 412, 210
+  offset: 0, 0
+  index: -1
+dragon_nox_cricrack1
+  rotate: true
+  xy: 214, 527
+  size: 119, 38
+  orig: 119, 38
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_tail2
+  rotate: false
+  xy: 214, 1368
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+dragon_nox_child_heart
+  rotate: true
+  xy: 214, 413
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_note1
+  rotate: false
+  xy: 221, 230
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_nox_child_eye
+  rotate: true
+  xy: 188, 1436
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_tail18
+  rotate: true
+  xy: 92, 1471
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+dragon_nox_child_tail
+  rotate: false
+  xy: 173, 936
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_neckg
+  rotate: false
+  xy: 221, 125
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_body
+  rotate: false
+  xy: 152, 1139
+  size: 101, 68
+  orig: 101, 68
+  offset: 0, 0
+  index: -1
+dragon_nox_baby_body
+  rotate: true
+  xy: 201, 1415
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+dragon_nox_child_eye2
+  rotate: false
+  xy: 214, 1354
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_tail11
+  rotate: true
+  xy: 153, 959
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+dragon_nox_cristonec
+  rotate: false
+  xy: 178, 781
+  size: 74, 81
+  orig: 74, 81
+  offset: 0, 0
+  index: -1
+dragon_nox_child_leg1
+  rotate: true
+  xy: 2, 1517
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_neckc
+  rotate: false
+  xy: 221, 43
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_tail7
+  rotate: true
+  xy: 123, 1136
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_note2
+  rotate: false
+  xy: 155, 1532
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_nox_child_chest2
+  rotate: true
+  xy: 214, 364
+  size: 47, 39
+  orig: 47, 45
+  offset: 0, 6
+  index: -1
+dragon_nox_adult_chin
+  rotate: false
+  xy: 221, 165
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_tail15
+  rotate: false
+  xy: 153, 997
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+dragon_nox_mainb2
+  rotate: false
+  xy: 2, 884
+  size: 169, 73
+  orig: 169, 77
+  offset: 0, 2
+  index: -1
+dragon_nox_adult_neckh
+  rotate: true
+  xy: 45, 1423
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_eye5
+  rotate: false
+  xy: 244, 1281
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_l_lega
+  rotate: true
+  xy: 2, 1423
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+dragon_nox_adult_r_legd
+  rotate: true
+  xy: 123, 1235
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1

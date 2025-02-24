@@ -1,0 +1,158 @@
+125_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_purplelips_arm1
+  rotate: true
+  xy: 517, 2
+  size: 192, 87
+  orig: 192, 89
+  offset: 0, 2
+  index: -1
+m_purplelips_groggy_neck
+  rotate: false
+  xy: 517, 196
+  size: 21, 15
+  orig: 127, 223
+  offset: 39, 53
+  index: -1
+m_purplelips_tail2
+  rotate: false
+  xy: 1135, 2
+  size: 144, 172
+  orig: 146, 172
+  offset: 1, 0
+  index: -1
+m_purplelips_tears
+  rotate: false
+  xy: 937, 189
+  size: 18, 18
+  orig: 40, 32
+  offset: 11, 9
+  index: -1
+m_purplelips_ear1
+  rotate: false
+  xy: 1021, 2
+  size: 112, 185
+  orig: 112, 185
+  offset: 0, 0
+  index: -1
+m_purplelips_eye
+  rotate: false
+  xy: 1531, 139
+  size: 43, 61
+  orig: 101, 125
+  offset: 37, 28
+  index: -1
+m_purplelips_groggy_arm2
+  rotate: true
+  xy: 907, 189
+  size: 23, 28
+  orig: 149, 44
+  offset: 51, 15
+  index: -1
+m_purplelips_head
+  rotate: true
+  xy: 1829, 2
+  size: 101, 123
+  orig: 101, 125
+  offset: 0, 2
+  index: -1
+m_purplelips_groggy_tail
+  rotate: false
+  xy: 1135, 176
+  size: 67, 33
+  orig: 305, 191
+  offset: 111, 28
+  index: -1
+m_purplelips_groggy_head
+  rotate: true
+  xy: 1829, 105
+  size: 101, 123
+  orig: 101, 125
+  offset: 0, 2
+  index: -1
+m_purplelips_groggy_eye
+  rotate: true
+  xy: 1468, 153
+  size: 47, 61
+  orig: 101, 125
+  offset: 33, 28
+  index: -1
+m_purplelips_groggy_ear1
+  rotate: false
+  xy: 907, 2
+  size: 112, 185
+  orig: 112, 185
+  offset: 0, 0
+  index: -1
+m_purplelips_groggy_tail2
+  rotate: false
+  xy: 1281, 2
+  size: 144, 172
+  orig: 146, 172
+  offset: 1, 0
+  index: -1
+m_purplelips_groggy_body
+  rotate: true
+  xy: 357, 2
+  size: 207, 158
+  orig: 353, 212
+  offset: 93, 44
+  index: -1
+m_purplelips_mouse1
+  rotate: false
+  xy: 1427, 153
+  size: 39, 58
+  orig: 83, 98
+  offset: 44, 31
+  index: -1
+m_purplelips_tail
+  rotate: false
+  xy: 606, 2
+  size: 299, 191
+  orig: 305, 191
+  offset: 3, 0
+  index: -1
+m_purplelips_body
+  rotate: false
+  xy: 2, 2
+  size: 353, 210
+  orig: 353, 212
+  offset: 0, 0
+  index: -1
+m_purplelips_arm2
+  rotate: true
+  xy: 1427, 2
+  size: 149, 44
+  orig: 149, 44
+  offset: 0, 0
+  index: -1
+m_purplelips_ear2
+  rotate: false
+  xy: 1473, 2
+  size: 129, 135
+  orig: 131, 135
+  offset: 0, 0
+  index: -1
+m_purplelips_mouse2
+  rotate: true
+  xy: 1604, 129
+  size: 83, 98
+  orig: 83, 98
+  offset: 0, 0
+  index: -1
+m_purplelips_groggy_arm1
+  rotate: true
+  xy: 540, 196
+  size: 12, 31
+  orig: 192, 89
+  offset: 59, 35
+  index: -1
+m_purplelips_neck
+  rotate: true
+  xy: 1604, 2
+  size: 125, 223
+  orig: 127, 223
+  offset: 2, 0
+  index: -1

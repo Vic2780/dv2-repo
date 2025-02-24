@@ -1,0 +1,186 @@
+108_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_machineogre_eye
+  rotate: true
+  xy: 2, 1067
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+m_machineogre_head1
+  rotate: true
+  xy: 2, 463
+  size: 201, 83
+  orig: 201, 83
+  offset: 0, 0
+  index: -1
+m_machineogre_hand4
+  rotate: false
+  xy: 165, 637
+  size: 85, 94
+  orig: 85, 94
+  offset: 0, 0
+  index: -1
+m_machineogre_string
+  rotate: false
+  xy: 63, 806
+  size: 89, 139
+  orig: 89, 139
+  offset: 0, 0
+  index: -1
+m_machineogre_arm2
+  rotate: false
+  xy: 2, 947
+  size: 134, 118
+  orig: 134, 118
+  offset: 0, 0
+  index: -1
+m_machineogre_leg2
+  rotate: true
+  xy: 2, 877
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+m_machineogre_foot
+  rotate: false
+  xy: 37, 1067
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+m_machineogre_groggy_head1
+  rotate: true
+  xy: 87, 463
+  size: 164, 77
+  orig: 164, 77
+  offset: 0, 0
+  index: -1
+m_machineogre_groggy_arm2
+  rotate: false
+  xy: 138, 999
+  size: 107, 95
+  orig: 107, 95
+  offset: 0, 0
+  index: -1
+m_machineogre_hand1
+  rotate: false
+  xy: 87, 629
+  size: 76, 62
+  orig: 76, 62
+  offset: 0, 0
+  index: -1
+m_machineogre_head2
+  rotate: false
+  xy: 2, 172
+  size: 195, 155
+  orig: 195, 155
+  offset: 0, 0
+  index: -1
+m_machineogre_arm1
+  rotate: true
+  xy: 2, 666
+  size: 86, 83
+  orig: 86, 83
+  offset: 0, 0
+  index: -1
+m_machineogre_leg1
+  rotate: true
+  xy: 87, 750
+  size: 54, 64
+  orig: 54, 64
+  offset: 0, 0
+  index: -1
+m_machineogre_groggy_head2
+  rotate: true
+  xy: 157, 733
+  size: 153, 89
+  orig: 153, 89
+  offset: 0, 0
+  index: -1
+m_machineogre_eye0
+  rotate: false
+  xy: 222, 2
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+m_machineogre_hand2
+  rotate: false
+  xy: 154, 888
+  size: 95, 109
+  orig: 95, 109
+  offset: 0, 0
+  index: -1
+m_machineogre_arm4
+  rotate: false
+  xy: 166, 540
+  size: 82, 95
+  orig: 82, 95
+  offset: 0, 0
+  index: -1
+m_machineogre_string2
+  rotate: true
+  xy: 2, 754
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+m_machineogre_groggy_hand2
+  rotate: false
+  xy: 174, 438
+  size: 59, 100
+  orig: 59, 100
+  offset: 0, 0
+  index: -1
+m_machineogre_groggy_body
+  rotate: false
+  xy: 2, 329
+  size: 170, 132
+  orig: 170, 132
+  offset: 0, 0
+  index: -1
+m_machineogre_arm3
+  rotate: false
+  xy: 2, 814
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+m_machineogre_hand3
+  rotate: false
+  xy: 174, 329
+  size: 71, 107
+  orig: 71, 107
+  offset: 0, 0
+  index: -1
+m_machineogre_groggy_arm1
+  rotate: false
+  xy: 87, 693
+  size: 68, 55
+  orig: 68, 55
+  offset: 0, 0
+  index: -1
+m_machineogre_eye2
+  rotate: true
+  xy: 199, 275
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+m_machineogre_body
+  rotate: false
+  xy: 2, 2
+  size: 218, 168
+  orig: 218, 168
+  offset: 0, 0
+  index: -1
+m_machineogre_groggy_hand3
+  rotate: false
+  xy: 199, 172
+  size: 41, 101
+  orig: 41, 101
+  offset: 0, 0
+  index: -1

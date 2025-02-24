@@ -1,0 +1,802 @@
+dragon_23_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_23_e_critical12
+  rotate: false
+  xy: 2, 964
+  size: 210, 193
+  orig: 210, 193
+  offset: 0, 0
+  index: -1
+dragon_mini_baby_eye2
+  rotate: false
+  xy: 266, 406
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+dragon_23_e_critical7
+  rotate: false
+  xy: 2, 406
+  size: 262, 152
+  orig: 262, 152
+  offset: 0, 0
+  index: -1
+dragon_mini_adult_tail2
+  rotate: false
+  xy: 160, 1671
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1
+dragon_mini_child_leg1
+  rotate: false
+  xy: 266, 206
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+dragon_mini_child_wing1
+  rotate: true
+  xy: 263, 1718
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+dragon_mini_adult_l_leg1c
+  rotate: true
+  xy: 218, 791
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+sample
+  rotate: false
+  xy: 2, 1630
+  size: 156, 146
+  orig: 156, 146
+  offset: 0, 0
+  index: -1
+dragon_mini_e_r_leg1a
+  rotate: false
+  xy: 150, 2000
+  size: 23, 34
+  orig: 23, 38
+  offset: 0, 4
+  index: -1
+dragon_mini_e_tail4
+  rotate: true
+  xy: 261, 1799
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+dragon_mini_adult_r_leg1b
+  rotate: true
+  xy: 254, 1990
+  size: 27, 36
+  orig: 31, 38
+  offset: 4, 2
+  index: -1
+dragon_mini_child_leg4
+  rotate: false
+  xy: 266, 487
+  size: 24, 46
+  orig: 24, 46
+  offset: 0, 0
+  index: -1
+dragon_mini_e_note1
+  rotate: true
+  xy: 214, 2000
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_mini_adult_l_leg2a
+  rotate: true
+  xy: 80, 2000
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+dragon_mini_child_tail
+  rotate: true
+  xy: 39, 1924
+  size: 51, 23
+  orig: 51, 23
+  offset: 0, 0
+  index: -1
+dragon_mini_adult_eye4
+  rotate: true
+  xy: 43, 1977
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+dragon_mini_adult_cri
+  rotate: false
+  xy: 218, 952
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+dragon_mini_baby_tail
+  rotate: false
+  xy: 254, 2019
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+dragon_mini_e_l_leg1b
+  rotate: true
+  xy: 266, 249
+  size: 27, 26
+  orig: 31, 26
+  offset: 4, 0
+  index: -1
+dragon_mini_adult_body
+  rotate: false
+  xy: 212, 1186
+  size: 80, 41
+  orig: 80, 41
+  offset: 0, 0
+  index: -1
+dragon_mini_child_fur
+  rotate: true
+  xy: 2, 1924
+  size: 55, 35
+  orig: 55, 35
+  offset: 0, 0
+  index: -1
+dragon_mini_e_eye5
+  rotate: false
+  xy: 272, 74
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+dragon_mini_adult_l_leg2b
+  rotate: true
+  xy: 119, 1893
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+dragon_23_e_critical6
+  rotate: true
+  xy: 212, 1229
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+dragon_mini_critical5
+  rotate: false
+  xy: 158, 1796
+  size: 101, 88
+  orig: 165, 170
+  offset: 44, 30
+  index: -1
+dragon_mini_e_fur
+  rotate: false
+  xy: 212, 1288
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+dragon_mini_e_l_leg2c
+  rotate: false
+  xy: 266, 475
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+dragon_mini_e_r_leg1b
+  rotate: false
+  xy: 265, 1638
+  size: 27, 38
+  orig: 31, 38
+  offset: 4, 0
+  index: -1
+dragon_mini_e_tail1
+  rotate: false
+  xy: 231, 560
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+dragon_23_e_critical13
+  rotate: false
+  xy: 2, 560
+  size: 227, 203
+  orig: 227, 203
+  offset: 0, 0
+  index: -1
+dragon_mini_adult_tail1
+  rotate: false
+  xy: 231, 560
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+dragon_mini_critical1
+  rotate: true
+  xy: 231, 716
+  size: 119, 59
+  orig: 125, 77
+  offset: 6, 9
+  index: -1
+dragon_mini_adult_chin
+  rotate: false
+  xy: 266, 444
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+dragon_23_e_critical3
+  rotate: false
+  xy: 218, 928
+  size: 69, 22
+  orig: 69, 22
+  offset: 0, 0
+  index: -1
+dragon_23_e_critical9a
+  rotate: false
+  xy: 2, 202
+  size: 262, 202
+  orig: 262, 204
+  offset: 0, 2
+  index: -1
+dragon_mini_adult_r_leg1c
+  rotate: false
+  xy: 119, 1924
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+dragon_mini_child_leg3
+  rotate: false
+  xy: 272, 2
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+dragon_mini_critical4
+  rotate: true
+  xy: 2, 1778
+  size: 113, 154
+  orig: 165, 170
+  offset: 30, 9
+  index: -1
+dragon_mini_adult_r_leg2a
+  rotate: true
+  xy: 41, 2000
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+dragon_mini_adult_head
+  rotate: true
+  xy: 68, 1893
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+dragon_mini_e_l_leg1c
+  rotate: true
+  xy: 218, 791
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+dragon_mini_baby_leg1
+  rotate: false
+  xy: 199, 2000
+  size: 13, 32
+  orig: 13, 32
+  offset: 0, 0
+  index: -1
+dragon_mini_e_eye2
+  rotate: true
+  xy: 273, 1329
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+dragon_mini_child_head
+  rotate: false
+  xy: 212, 1346
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+dragon_mini_e_r_wing
+  rotate: true
+  xy: 218, 837
+  size: 89, 74
+  orig: 89, 74
+  offset: 0, 0
+  index: -1
+dragon_23_e_critical10
+  rotate: false
+  xy: 2, 1350
+  size: 205, 189
+  orig: 205, 189
+  offset: 0, 0
+  index: -1
+dragon_mini_child_body
+  rotate: true
+  xy: 254, 1938
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+dragon_mini_adult_l_leg2c
+  rotate: false
+  xy: 266, 475
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+dragon_23_e_critical9
+  rotate: false
+  xy: 2, 2
+  size: 268, 198
+  orig: 270, 200
+  offset: 0, 2
+  index: -1
+dragon_mini_e_eye
+  rotate: false
+  xy: 272, 98
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+dragon_mini_e_note2
+  rotate: true
+  xy: 249, 1901
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_mini_e_r_leg2a
+  rotate: true
+  xy: 41, 2000
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+dragon_23_e_critical2
+  rotate: false
+  xy: 119, 2000
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+dragon_mini_e_chin
+  rotate: false
+  xy: 266, 444
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+dragon_mini_e_cri
+  rotate: false
+  xy: 218, 952
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+dragon_mini_baby_leg4
+  rotate: false
+  xy: 273, 1272
+  size: 19, 24
+  orig: 31, 26
+  offset: 9, 0
+  index: -1
+dragon_mini_adult_eye3
+  rotate: false
+  xy: 266, 425
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+dragon_mini_e_r_leg1c
+  rotate: false
+  xy: 119, 1924
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+dragon_mini_e_heada
+  rotate: true
+  xy: 273, 1229
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+dragon_23_e_critical14
+  rotate: false
+  xy: 2, 765
+  size: 214, 197
+  orig: 214, 197
+  offset: 0, 0
+  index: -1
+dragon_mini_child_leg2
+  rotate: false
+  xy: 266, 535
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+dragon_mini_child_note1
+  rotate: true
+  xy: 214, 2000
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_mini_baby_chin
+  rotate: false
+  xy: 266, 460
+  size: 25, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+dragon_mini_adult_tail4
+  rotate: true
+  xy: 2, 1893
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+dragon_mini_e_l_wing
+  rotate: true
+  xy: 218, 837
+  size: 89, 74
+  orig: 89, 74
+  offset: 0, 0
+  index: -1
+dragon_mini_e_l_leg2a
+  rotate: true
+  xy: 2, 2000
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+dragon_mini_child_eye
+  rotate: true
+  xy: 272, 161
+  size: 43, 19
+  orig: 43, 19
+  offset: 0, 0
+  index: -1
+dragon_mini_e_tail2
+  rotate: false
+  xy: 160, 1671
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1
+dragon_23_e_critical8
+  rotate: false
+  xy: 2, 1541
+  size: 202, 87
+  orig: 206, 91
+  offset: 0, 3
+  index: -1
+dragon_mini_e_r_leg2b
+  rotate: false
+  xy: 265, 1598
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+dragon_23_e_critical1
+  rotate: true
+  xy: 266, 345
+  size: 59, 25
+  orig: 59, 25
+  offset: 0, 0
+  index: -1
+dragon_mini_baby_head
+  rotate: true
+  xy: 206, 1598
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+dragon_mini_adult_r_leg2b
+  rotate: false
+  xy: 264, 1678
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+dragon_mini_adult_eye2
+  rotate: true
+  xy: 273, 1329
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+dragon_mini_adult_l_leg1a
+  rotate: true
+  xy: 31, 1893
+  size: 23, 35
+  orig: 23, 37
+  offset: 0, 2
+  index: -1
+dragon_mini_adult_note2
+  rotate: true
+  xy: 249, 1901
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_mini_e_eye3
+  rotate: false
+  xy: 266, 425
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+dragon_23_e_critical11
+  rotate: false
+  xy: 2, 1159
+  size: 208, 189
+  orig: 208, 189
+  offset: 0, 0
+  index: -1
+dragon_mini_adult_eye
+  rotate: false
+  xy: 272, 98
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+dragon_mini_critical3
+  rotate: false
+  xy: 158, 1886
+  size: 89, 112
+  orig: 165, 170
+  offset: 36, 28
+  index: -1
+dragon_23_e_critical8a
+  rotate: true
+  xy: 209, 1400
+  size: 196, 83
+  orig: 202, 91
+  offset: 2, 7
+  index: -1
+dragon_mini_child_wing2
+  rotate: true
+  xy: 261, 1858
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+dragon_mini_e_l_leg1a
+  rotate: true
+  xy: 261, 1833
+  size: 23, 31
+  orig: 23, 37
+  offset: 0, 2
+  index: -1
+dragon_23_e_critical5
+  rotate: true
+  xy: 272, 39
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+dragon_mini_adult_l_leg1b
+  rotate: true
+  xy: 266, 278
+  size: 27, 26
+  orig: 31, 26
+  offset: 4, 0
+  index: -1
+dragon_mini_baby_leg3
+  rotate: true
+  xy: 175, 2000
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+dragon_mini_child_eye3
+  rotate: true
+  xy: 68, 1943
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+dragon_mini_baby_body
+  rotate: false
+  xy: 160, 1630
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+dragon_mini_adult_r_leg1a
+  rotate: false
+  xy: 150, 2000
+  size: 23, 34
+  orig: 23, 38
+  offset: 0, 4
+  index: -1
+dragon_mini_baby_eye3
+  rotate: true
+  xy: 273, 1298
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+dragon_23_e_critical15
+  rotate: true
+  xy: 281, 1104
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+dragon_mini_critical6
+  rotate: false
+  xy: 160, 1706
+  size: 101, 88
+  orig: 165, 170
+  offset: 44, 30
+  index: -1
+dragon_mini_e_eye4b
+  rotate: false
+  xy: 266, 572
+  size: 19, 17
+  orig: 21, 23
+  offset: 2, 6
+  index: -1
+dragon_mini_adult_l_wing
+  rotate: true
+  xy: 214, 1104
+  size: 80, 65
+  orig: 80, 65
+  offset: 0, 0
+  index: -1
+dragon_mini_adult_fur
+  rotate: false
+  xy: 206, 1656
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+dragon_mini_adult_tail3
+  rotate: false
+  xy: 134, 1938
+  size: 12, 39
+  orig: 12, 39
+  offset: 0, 0
+  index: -1
+dragon_mini_baby_heart
+  rotate: true
+  xy: 93, 1943
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_mini_e_body
+  rotate: false
+  xy: 212, 1186
+  size: 80, 41
+  orig: 80, 41
+  offset: 0, 0
+  index: -1
+dragon_mini_e_eye4
+  rotate: true
+  xy: 43, 1977
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+dragon_mini_e_bodya
+  rotate: false
+  xy: 214, 1081
+  size: 67, 21
+  orig: 67, 21
+  offset: 0, 0
+  index: -1
+dragon_mini_e_tail3
+  rotate: true
+  xy: 2, 1981
+  size: 14, 39
+  orig: 14, 39
+  offset: 0, 0
+  index: -1
+dragon_mini_critical2
+  rotate: true
+  xy: 231, 591
+  size: 123, 59
+  orig: 125, 77
+  offset: 2, 10
+  index: -1
+dragon_mini_e_r_leg2c
+  rotate: true
+  xy: 218, 765
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+dragon_mini_adult_eye4b
+  rotate: false
+  xy: 266, 572
+  size: 19, 17
+  orig: 21, 23
+  offset: 2, 6
+  index: -1
+dragon_23_e_critical4
+  rotate: true
+  xy: 272, 1352
+  size: 35, 15
+  orig: 35, 17
+  offset: 0, 1
+  index: -1
+dragon_mini_adult_r_leg2c
+  rotate: true
+  xy: 218, 765
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+dragon_mini_baby_leg2
+  rotate: true
+  xy: 266, 327
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+dragon_mini_adult_eye5
+  rotate: false
+  xy: 272, 74
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+dragon_mini_adult_r_wing
+  rotate: true
+  xy: 214, 1020
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+dragon_mini_adult_note1
+  rotate: true
+  xy: 214, 2000
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_mini_child_eye2
+  rotate: true
+  xy: 272, 116
+  size: 43, 19
+  orig: 43, 19
+  offset: 0, 0
+  index: -1
+dragon_mini_e_head
+  rotate: true
+  xy: 68, 1893
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+dragon_mini_e_l_leg2b
+  rotate: false
+  xy: 263, 1760
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+dragon_mini_baby_eye
+  rotate: false
+  xy: 266, 307
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1

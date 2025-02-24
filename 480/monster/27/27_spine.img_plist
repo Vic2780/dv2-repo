@@ -1,0 +1,193 @@
+27_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_bcastle_body1
+  rotate: false
+  xy: 1134, 128
+  size: 216, 119
+  orig: 218, 119
+  offset: 0, 0
+  index: -1
+m_bcastle_arm2
+  rotate: true
+  xy: 926, 168
+  size: 85, 181
+  orig: 87, 183
+  offset: 2, 0
+  index: -1
+m_bcastle_groggyeye
+  rotate: false
+  xy: 846, 128
+  size: 104, 38
+  orig: 104, 38
+  offset: 0, 0
+  index: -1
+m_bcastle_sword11
+  rotate: true
+  xy: 1459, 193
+  size: 57, 73
+  orig: 59, 75
+  offset: 2, 1
+  index: -1
+m_bcastle_body2
+  rotate: false
+  xy: 611, 2
+  size: 233, 164
+  orig: 233, 164
+  offset: 0, 0
+  index: -1
+m_bcastle_arm1
+  rotate: true
+  xy: 735, 168
+  size: 85, 189
+  orig: 85, 191
+  offset: 0, 0
+  index: -1
+m_bcastle_sword21
+  rotate: true
+  xy: 1534, 193
+  size: 60, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+m_bcastle_groggyleg1
+  rotate: false
+  xy: 2, 198
+  size: 212, 55
+  orig: 212, 57
+  offset: 0, 2
+  index: -1
+m_bcastle_groggybody1
+  rotate: true
+  xy: 1391, 72
+  size: 83, 95
+  orig: 83, 97
+  offset: 0, 1
+  index: -1
+m_bcastle_groggysword22
+  rotate: true
+  xy: 1232, 79
+  size: 40, 82
+  orig: 40, 82
+  offset: 0, 0
+  index: -1
+m_bcastle_groggyarm2
+  rotate: true
+  xy: 216, 198
+  size: 47, 101
+  orig: 47, 101
+  offset: 0, 0
+  index: -1
+m_bcastle_sword12
+  rotate: false
+  xy: 1138, 2
+  size: 92, 113
+  orig: 92, 113
+  offset: 0, 0
+  index: -1
+m_bcastle_groggysword12
+  rotate: false
+  xy: 1389, 157
+  size: 68, 82
+  orig: 68, 86
+  offset: 0, 2
+  index: -1
+m_bcastle_groggyhair
+  rotate: false
+  xy: 846, 2
+  size: 290, 124
+  orig: 296, 124
+  offset: 6, 0
+  index: -1
+m_bcastle_mause
+  rotate: false
+  xy: 952, 128
+  size: 86, 37
+  orig: 86, 37
+  offset: 0, 0
+  index: -1
+m_bcastle_sword22
+  rotate: true
+  xy: 1488, 106
+  size: 85, 92
+  orig: 87, 92
+  offset: 2, 0
+  index: -1
+m_bcastle_leg2
+  rotate: false
+  xy: 545, 173
+  size: 188, 66
+  orig: 188, 66
+  offset: 0, 0
+  index: -1
+m_bcastle_groggyhead
+  rotate: false
+  xy: 1360, 2
+  size: 130, 68
+  orig: 130, 68
+  offset: 0, 0
+  index: -1
+m_bcastle_groggysword21
+  rotate: false
+  xy: 1352, 120
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+m_bcastle_groggyarm1
+  rotate: true
+  xy: 1232, 2
+  size: 75, 126
+  orig: 75, 126
+  offset: 0, 0
+  index: -1
+m_bcastle_head
+  rotate: false
+  xy: 302, 2
+  size: 307, 169
+  orig: 307, 173
+  offset: 0, 0
+  index: -1
+m_bcastle_groggybody2
+  rotate: false
+  xy: 1492, 2
+  size: 83, 102
+  orig: 89, 104
+  offset: 3, 2
+  index: -1
+m_bcastle_groggymause
+  rotate: false
+  xy: 1040, 128
+  size: 92, 30
+  orig: 92, 36
+  offset: 0, 5
+  index: -1
+m_bcastle_groggysword11
+  rotate: true
+  xy: 1316, 79
+  size: 39, 73
+  orig: 41, 75
+  offset: 2, 1
+  index: -1
+m_bcastle_eye
+  rotate: false
+  xy: 302, 173
+  size: 92, 15
+  orig: 92, 15
+  offset: 0, 0
+  index: -1
+m_bcastle_hair
+  rotate: false
+  xy: 2, 2
+  size: 298, 194
+  orig: 298, 194
+  offset: 0, 0
+  index: -1
+m_bcastle_leg1
+  rotate: false
+  xy: 319, 190
+  size: 224, 57
+  orig: 224, 65
+  offset: 0, 2
+  index: -1

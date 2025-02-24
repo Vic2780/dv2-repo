@@ -1,0 +1,46 @@
+skill_1_hit_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skill_hit6
+  rotate: false
+  xy: 2, 2
+  size: 127, 127
+  orig: 133, 133
+  offset: 3, 4
+  index: -1
+skill_hit4
+  rotate: false
+  xy: 260, 2
+  size: 127, 127
+  orig: 133, 133
+  offset: 3, 4
+  index: -1
+skill_hit5
+  rotate: false
+  xy: 131, 2
+  size: 127, 127
+  orig: 133, 133
+  offset: 3, 4
+  index: -1
+skill_hit2
+  rotate: true
+  xy: 107, 131
+  size: 91, 103
+  orig: 133, 133
+  offset: 21, 18
+  index: -1
+skill_hit3
+  rotate: false
+  xy: 2, 131
+  size: 103, 101
+  orig: 133, 133
+  offset: 15, 14
+  index: -1
+skill_hit1
+  rotate: false
+  xy: 212, 131
+  size: 67, 71
+  orig: 133, 133
+  offset: 32, 30
+  index: -1

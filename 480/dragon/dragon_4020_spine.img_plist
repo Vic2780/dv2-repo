@@ -1,0 +1,550 @@
+dragon_4020_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_granos_adult_tail4
+  rotate: true
+  xy: 696, 358
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+dragon_granos_adult_eye
+  rotate: false
+  xy: 1793, 379
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+dragon_granos_adult_necklace1
+  rotate: false
+  xy: 607, 358
+  size: 87, 38
+  orig: 87, 38
+  offset: 0, 0
+  index: -1
+dragon_granos_critical_c03
+  rotate: true
+  xy: 1047, 231
+  size: 103, 100
+  orig: 299, 268
+  offset: 82, 75
+  index: -1
+dragon_granos_child_body
+  rotate: true
+  xy: 1793, 303
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+dragon_granos_child_necklace2
+  rotate: true
+  xy: 1583, 228
+  size: 74, 29
+  orig: 74, 29
+  offset: 0, 0
+  index: -1
+dragon_granos_adult_neck
+  rotate: false
+  xy: 1509, 228
+  size: 72, 83
+  orig: 84, 83
+  offset: 12, 0
+  index: -1
+dragon_granos_adult_arm4
+  rotate: true
+  xy: 1586, 360
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+dragon_granos_adult_head
+  rotate: true
+  xy: 1491, 316
+  size: 78, 47
+  orig: 78, 47
+  offset: 0, 0
+  index: -1
+dragon_granos_adult_critical05
+  rotate: true
+  xy: 1860, 303
+  size: 71, 65
+  orig: 71, 65
+  offset: 0, 0
+  index: -1
+dragon_granos_child_arm3
+  rotate: false
+  xy: 1586, 332
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_granos_baby_necklace
+  rotate: false
+  xy: 1008, 346
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+dragon_granos_adult_necklace2
+  rotate: true
+  xy: 159, 303
+  size: 93, 36
+  orig: 93, 36
+  offset: 0, 0
+  index: -1
+dragon_granos_adult_headjem
+  rotate: false
+  xy: 1047, 336
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+dragon_granos_adult_wing1light
+  rotate: false
+  xy: 482, 231
+  size: 224, 125
+  orig: 224, 125
+  offset: 0, 0
+  index: -1
+dragon_granos_critical_a05
+  rotate: false
+  xy: 1803, 198
+  size: 188, 73
+  orig: 198, 75
+  offset: 0, 2
+  index: -1
+dragon_granos_adult_critical01
+  rotate: false
+  xy: 708, 231
+  size: 123, 124
+  orig: 123, 124
+  offset: 0, 0
+  index: -1
+dragon_granos_baby_tail
+  rotate: true
+  xy: 2003, 97
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+dragon_granos_critical_c02
+  rotate: true
+  xy: 959, 2
+  size: 227, 174
+  orig: 299, 268
+  offset: 45, 46
+  index: -1
+dragon_granos_baby_mouth
+  rotate: false
+  xy: 1716, 198
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+dragon_granos_adult_twinkling2
+  rotate: false
+  xy: 1149, 229
+  size: 99, 100
+  orig: 225, 224
+  offset: 63, 64
+  index: -1
+dragon_granos_child_smile
+  rotate: true
+  xy: 310, 231
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_granos_adult_critical04
+  rotate: false
+  xy: 1860, 376
+  size: 25, 22
+  orig: 123, 124
+  offset: 51, 44
+  index: -1
+dragon_granos_child_neck
+  rotate: false
+  xy: 1540, 313
+  size: 44, 76
+  orig: 44, 76
+  offset: 0, 0
+  index: -1
+dragon_granos_child_arm4
+  rotate: false
+  xy: 1586, 304
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_granos_adult_tail5
+  rotate: true
+  xy: 913, 346
+  size: 51, 47
+  orig: 51, 47
+  offset: 0, 0
+  index: -1
+dragon_granos_critical_a01
+  rotate: true
+  xy: 1665, 198
+  size: 194, 49
+  orig: 198, 75
+  offset: 0, 0
+  index: -1
+dragon_granos_child_tail1
+  rotate: true
+  xy: 1993, 245
+  size: 56, 46
+  orig: 56, 46
+  offset: 0, 0
+  index: -1
+dragon_granos_child_wing1
+  rotate: false
+  xy: 197, 303
+  size: 173, 92
+  orig: 173, 92
+  offset: 0, 0
+  index: -1
+dragon_granos_baby_heart
+  rotate: false
+  xy: 559, 358
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_granos_adult_wing1
+  rotate: false
+  xy: 833, 231
+  size: 212, 113
+  orig: 212, 113
+  offset: 0, 0
+  index: -1
+dragon_granos_baby_body
+  rotate: true
+  xy: 962, 346
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+dragon_granos_critical_a04
+  rotate: true
+  xy: 1716, 218
+  size: 180, 75
+  orig: 198, 75
+  offset: 18, 0
+  index: -1
+dragon_granos_adult_tail1
+  rotate: false
+  xy: 1424, 330
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+dragon_granos_baby_tailjem
+  rotate: true
+  xy: 1816, 379
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+dragon_granos_critical_d03
+  rotate: false
+  xy: 272, 2
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+dragon_granos_baby_headjem
+  rotate: true
+  xy: 1262, 321
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+dragon_granos_child_eye
+  rotate: true
+  xy: 1422, 316
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+dragon_granos_adult_twinkling1
+  rotate: false
+  xy: 1353, 2
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+dragon_granos_child_necklace1
+  rotate: true
+  xy: 272, 231
+  size: 69, 36
+  orig: 69, 36
+  offset: 0, 0
+  index: -1
+dragon_granos_adult_arm1
+  rotate: true
+  xy: 774, 357
+  size: 37, 72
+  orig: 37, 72
+  offset: 0, 0
+  index: -1
+dragon_granos_child_tail2
+  rotate: true
+  xy: 1973, 341
+  size: 30, 66
+  orig: 30, 66
+  offset: 0, 0
+  index: -1
+dragon_granos_adult_tailjem1
+  rotate: false
+  xy: 1824, 273
+  size: 65, 27
+  orig: 65, 27
+  offset: 0, 0
+  index: -1
+dragon_granos_baby_eye
+  rotate: false
+  xy: 2003, 128
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+dragon_granos_adult_wing2
+  rotate: false
+  xy: 2, 303
+  size: 155, 95
+  orig: 155, 95
+  offset: 0, 0
+  index: -1
+dragon_granos_adult_arm2
+  rotate: false
+  xy: 1992, 303
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+dragon_granos_child_headjem
+  rotate: true
+  xy: 1250, 321
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+dragon_granos_adult_critical03
+  rotate: true
+  xy: 1927, 341
+  size: 53, 44
+  orig: 123, 124
+  offset: 37, 37
+  index: -1
+dragon_granos_adult_tailjem2
+  rotate: true
+  xy: 1887, 376
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+dragon_granos_adult_tail2
+  rotate: false
+  xy: 848, 346
+  size: 63, 51
+  orig: 63, 51
+  offset: 0, 0
+  index: -1
+dragon_granos_critical_d02
+  rotate: false
+  xy: 501, 2
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+dragon_granos_adult_wing2light
+  rotate: true
+  xy: 372, 231
+  size: 167, 108
+  orig: 167, 108
+  offset: 0, 0
+  index: -1
+dragon_granos_critical_c01
+  rotate: true
+  xy: 2, 2
+  size: 299, 268
+  orig: 299, 268
+  offset: 0, 0
+  index: -1
+dragon_granos_child_mouth
+  rotate: false
+  xy: 1973, 373
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+dragon_granos_child_bodyjem
+  rotate: true
+  xy: 353, 290
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+dragon_granos_critical_b01
+  rotate: true
+  xy: 1578, 2
+  size: 194, 423
+  orig: 194, 423
+  offset: 0, 0
+  index: -1
+dragon_granos_child_arm1
+  rotate: false
+  xy: 2003, 148
+  size: 31, 68
+  orig: 31, 68
+  offset: 0, 0
+  index: -1
+dragon_granos_critical_c04
+  rotate: true
+  xy: 1135, 2
+  size: 225, 216
+  orig: 299, 268
+  offset: 31, 0
+  index: -1
+dragon_granos_baby_arm1
+  rotate: true
+  xy: 1993, 218
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+dragon_granos_adult_mouth
+  rotate: false
+  xy: 1793, 273
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+dragon_granos_baby_tailring
+  rotate: false
+  xy: 1441, 316
+  size: 27, 10
+  orig: 27, 10
+  offset: 0, 0
+  index: -1
+dragon_granos_adult_critical02
+  rotate: false
+  xy: 1422, 228
+  size: 85, 86
+  orig: 123, 124
+  offset: 23, 19
+  index: -1
+dragon_granos_adult_bodyjem
+  rotate: true
+  xy: 833, 346
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+dragon_granos_critical_a03
+  rotate: false
+  xy: 1224, 331
+  size: 198, 67
+  orig: 198, 75
+  offset: 0, 0
+  index: -1
+dragon_granos_child_wing
+  rotate: false
+  xy: 1250, 229
+  size: 170, 90
+  orig: 170, 90
+  offset: 0, 0
+  index: -1
+dragon_granos_adult_arm3
+  rotate: false
+  xy: 1891, 273
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+dragon_granos_child_arm2
+  rotate: false
+  xy: 1578, 198
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+dragon_granos_adult_tail3
+  rotate: false
+  xy: 2003, 37
+  size: 35, 58
+  orig: 35, 58
+  offset: 0, 0
+  index: -1
+dragon_granos_baby_arm2
+  rotate: false
+  xy: 743, 357
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+dragon_granos_baby_head
+  rotate: true
+  xy: 1065, 336
+  size: 61, 67
+  orig: 61, 67
+  offset: 0, 0
+  index: -1
+dragon_granos_adult_taillight
+  rotate: false
+  xy: 482, 358
+  size: 75, 39
+  orig: 75, 39
+  offset: 0, 0
+  index: -1
+dragon_granos_child_tailring
+  rotate: false
+  xy: 310, 290
+  size: 41, 11
+  orig: 41, 11
+  offset: 0, 0
+  index: -1
+dragon_granos_critical_a02
+  rotate: true
+  xy: 1614, 198
+  size: 194, 49
+  orig: 198, 75
+  offset: 0, 0
+  index: -1
+dragon_granos_child_tailjem
+  rotate: true
+  xy: 2003, 2
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+dragon_granos_adult_body
+  rotate: false
+  xy: 1134, 336
+  size: 88, 59
+  orig: 88, 59
+  offset: 0, 0
+  index: -1
+dragon_granos_child_head
+  rotate: false
+  xy: 1927, 273
+  size: 63, 66
+  orig: 63, 66
+  offset: 0, 0
+  index: -1
+dragon_granos_critical_d01
+  rotate: false
+  xy: 730, 2
+  size: 227, 227
+  orig: 227, 227
+  offset: 0, 0
+  index: -1
+dragon_granos_adult_tailring
+  rotate: false
+  xy: 1745, 198
+  size: 56, 15
+  orig: 56, 15
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,88 @@
+cave_flag_v2_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+cave_flag3
+  rotate: false
+  xy: 2, 330
+  size: 50, 43
+  orig: 64, 77
+  offset: 5, 27
+  index: -1
+50p_flag
+  rotate: false
+  xy: 2, 646
+  size: 34, 108
+  orig: 34, 116
+  offset: 0, 4
+  index: -1
+cave_flag1
+  rotate: false
+  xy: 2, 155
+  size: 54, 43
+  orig: 64, 77
+  offset: 5, 29
+  index: -1
+cave_flag1l
+  rotate: true
+  xy: 2, 264
+  size: 64, 51
+  orig: 64, 77
+  offset: 0, 25
+  index: -1
+cave_flag_wait
+  rotate: false
+  xy: 40, 536
+  size: 18, 67
+  orig: 64, 77
+  offset: 5, 0
+  index: -1
+cave_flag3l
+  rotate: false
+  xy: 2, 55
+  size: 58, 51
+  orig: 64, 77
+  offset: 1, 23
+  index: -1
+cave_flag2l
+  rotate: true
+  xy: 2, 200
+  size: 62, 53
+  orig: 64, 77
+  offset: 0, 24
+  index: -1
+cave_flag_pillar
+  rotate: false
+  xy: 2, 536
+  size: 36, 108
+  orig: 44, 116
+  offset: 3, 4
+  index: -1
+cave_flag4l
+  rotate: false
+  xy: 2, 2
+  size: 60, 51
+  orig: 64, 77
+  offset: 0, 22
+  index: -1
+cave_flag4
+  rotate: false
+  xy: 2, 375
+  size: 50, 41
+  orig: 64, 77
+  offset: 5, 27
+  index: -1
+cave_flag2
+  rotate: false
+  xy: 2, 108
+  size: 54, 45
+  orig: 64, 77
+  offset: 4, 28
+  index: -1
+cave_flag_pillar_light
+  rotate: false
+  xy: 2, 418
+  size: 44, 116
+  orig: 44, 116
+  offset: 0, 0
+  index: -1

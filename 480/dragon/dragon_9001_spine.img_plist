@@ -1,0 +1,193 @@
+dragon_9001_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_dummy_adult_head2
+  rotate: true
+  xy: 701, 2
+  size: 38, 69
+  orig: 38, 69
+  offset: 0, 0
+  index: -1
+dragon_dummy_adult_wing3
+  rotate: true
+  xy: 308, 2
+  size: 53, 74
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+dragon_dummy_adult_shield
+  rotate: false
+  xy: 277, 2
+  size: 29, 55
+  orig: 29, 55
+  offset: 0, 0
+  index: -1
+dragon_dummy_adult_head
+  rotate: true
+  xy: 772, 2
+  size: 38, 69
+  orig: 38, 69
+  offset: 0, 0
+  index: -1
+dragon_dummy_adult_leg4
+  rotate: false
+  xy: 80, 2
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+dragon_dummy_adult_neck5
+  rotate: true
+  xy: 971, 2
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+dragon_dummy_adult_neck1
+  rotate: false
+  xy: 538, 44
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+dragon_dummy_adult_mouth2
+  rotate: true
+  xy: 843, 40
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+dragon_dummy_adult_wing4
+  rotate: true
+  xy: 384, 2
+  size: 51, 84
+  orig: 51, 84
+  offset: 0, 0
+  index: -1
+dragon_dummy_adult_eye
+  rotate: false
+  xy: 610, 43
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+dragon_dummy_adult_leg1
+  rotate: false
+  xy: 252, 2
+  size: 23, 56
+  orig: 23, 56
+  offset: 0, 0
+  index: -1
+dragon_dummy_adult_leg5
+  rotate: false
+  xy: 2, 2
+  size: 25, 59
+  orig: 25, 59
+  offset: 0, 0
+  index: -1
+dragon_dummy_adult_body
+  rotate: false
+  xy: 605, 2
+  size: 94, 39
+  orig: 94, 39
+  offset: 0, 0
+  index: -1
+dragon_dummy_adult_neck2
+  rotate: true
+  xy: 971, 31
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+dragon_dummy_adult_eye2
+  rotate: false
+  xy: 598, 44
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+dragon_dummy_adult_neck6
+  rotate: false
+  xy: 843, 2
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+dragon_dummy_adult_tail
+  rotate: true
+  xy: 179, 2
+  size: 56, 45
+  orig: 56, 45
+  offset: 0, 0
+  index: -1
+dragon_dummy_adult_wing1
+  rotate: true
+  xy: 470, 2
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+dragon_dummy_adult_tail2
+  rotate: false
+  xy: 538, 2
+  size: 65, 40
+  orig: 65, 40
+  offset: 0, 0
+  index: -1
+dragon_dummy_adult_leg2
+  rotate: false
+  xy: 226, 2
+  size: 24, 56
+  orig: 24, 56
+  offset: 0, 0
+  index: -1
+dragon_dummy_adult_neck3
+  rotate: false
+  xy: 872, 2
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+dragon_dummy_adult_leg6
+  rotate: false
+  xy: 55, 2
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+dragon_dummy_adult_mouth
+  rotate: true
+  xy: 570, 44
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+dragon_dummy_adult_wing2
+  rotate: true
+  xy: 105, 2
+  size: 56, 72
+  orig: 56, 72
+  offset: 0, 0
+  index: -1
+dragon_dummy_adult_body2
+  rotate: false
+  xy: 898, 2
+  size: 71, 34
+  orig: 71, 34
+  offset: 0, 0
+  index: -1
+dragon_dummy_adult_leg3
+  rotate: false
+  xy: 29, 2
+  size: 24, 59
+  orig: 24, 59
+  offset: 0, 0
+  index: -1
+dragon_dummy_adult_neck4
+  rotate: false
+  xy: 898, 38
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1

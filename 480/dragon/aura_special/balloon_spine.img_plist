@@ -1,0 +1,46 @@
+balloon_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+balloon6
+  rotate: false
+  xy: 2, 2
+  size: 86, 94
+  orig: 86, 94
+  offset: 0, 0
+  index: -1
+balloon1
+  rotate: false
+  xy: 341, 2
+  size: 82, 92
+  orig: 82, 92
+  offset: 0, 0
+  index: -1
+balloon2
+  rotate: false
+  xy: 172, 2
+  size: 83, 92
+  orig: 83, 92
+  offset: 0, 0
+  index: -1
+balloon3
+  rotate: true
+  xy: 90, 2
+  size: 94, 80
+  orig: 94, 80
+  offset: 0, 0
+  index: -1
+balloon4
+  rotate: false
+  xy: 257, 2
+  size: 82, 92
+  orig: 82, 92
+  offset: 0, 0
+  index: -1
+balloon5
+  rotate: true
+  xy: 425, 2
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1

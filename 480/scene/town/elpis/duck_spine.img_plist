@@ -1,0 +1,88 @@
+duck_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+u_village_duck_body
+  rotate: false
+  xy: 2, 55
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+u_village_duck_leaf
+  rotate: false
+  xy: 2, 39
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+u_village_duck_worm
+  rotate: true
+  xy: 21, 45
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+u_village_duck_flower
+  rotate: false
+  xy: 2, 2
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+u_village_duck_shadow
+  rotate: true
+  xy: 23, 2
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+u_village_duck_foot
+  rotate: false
+  xy: 21, 37
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+u_village_duck_head
+  rotate: false
+  xy: 2, 21
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+u_village_duck_wing
+  rotate: false
+  xy: 21, 27
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+u_village_duck_body2
+  rotate: true
+  xy: 18, 59
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+u_village_duck_foot2
+  rotate: true
+  xy: 23, 16
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+u_village_duck_eye
+  rotate: true
+  xy: 2, 68
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+u_village_duck_mouth
+  rotate: false
+  xy: 21, 52
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1

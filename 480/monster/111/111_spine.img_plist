@@ -1,0 +1,298 @@
+111_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_afiredragon_head22
+  rotate: false
+  xy: 2, 776
+  size: 151, 135
+  orig: 151, 135
+  offset: 0, 0
+  index: -1
+m_afiredragon_hammer
+  rotate: false
+  xy: 132, 1101
+  size: 119, 81
+  orig: 119, 81
+  offset: 0, 0
+  index: -1
+m_afiredragon_head11
+  rotate: false
+  xy: 214, 1433
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+m_afiredragon_cloth1
+  rotate: false
+  xy: 132, 1184
+  size: 114, 125
+  orig: 114, 125
+  offset: 0, 0
+  index: -1
+m_afiredragon_leg4
+  rotate: true
+  xy: 98, 1384
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+m_afiredragon_winkeye
+  rotate: false
+  xy: 214, 1384
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+m_afiredragon_groggyhammer
+  rotate: true
+  xy: 177, 518
+  size: 29, 74
+  orig: 29, 74
+  offset: 0, 0
+  index: -1
+m_afiredragon_leg1
+  rotate: true
+  xy: 2, 1433
+  size: 91, 48
+  orig: 91, 48
+  offset: 0, 0
+  index: -1
+m_afiredragon_groggyfoot2
+  rotate: true
+  xy: 230, 86
+  size: 44, 17
+  orig: 44, 17
+  offset: 0, 0
+  index: -1
+m_afiredragon_groggyspanner
+  rotate: false
+  xy: 2, 661
+  size: 159, 113
+  orig: 159, 113
+  offset: 0, 0
+  index: -1
+m_afiredragon_groggyfoot1
+  rotate: false
+  xy: 230, 132
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+m_afiredragon_groggyear2
+  rotate: false
+  xy: 198, 363
+  size: 54, 85
+  orig: 58, 87
+  offset: 1, 0
+  index: -1
+m_afiredragon_arm3
+  rotate: true
+  xy: 2, 1198
+  size: 89, 108
+  orig: 89, 108
+  offset: 0, 0
+  index: -1
+m_afiredragon_ear1
+  rotate: false
+  xy: 2, 162
+  size: 204, 119
+  orig: 204, 119
+  offset: 0, 0
+  index: -1
+m_afiredragon_foot2
+  rotate: true
+  xy: 214, 1311
+  size: 71, 35
+  orig: 71, 35
+  offset: 0, 0
+  index: -1
+m_afiredragon_groggyleg3
+  rotate: false
+  xy: 230, 70
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+m_afiredragon_spanner
+  rotate: false
+  xy: 2, 913
+  size: 146, 131
+  orig: 146, 131
+  offset: 0, 0
+  index: -1
+m_afiredragon_foot1
+  rotate: true
+  xy: 208, 202
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+m_afiredragon_eye
+  rotate: true
+  xy: 177, 549
+  size: 113, 73
+  orig: 113, 73
+  offset: 0, 0
+  index: -1
+m_afiredragon_star
+  rotate: false
+  xy: 208, 162
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+m_afiredragon_body2
+  rotate: false
+  xy: 150, 922
+  size: 101, 82
+  orig: 101, 82
+  offset: 0, 0
+  index: -1
+m_afiredragon_leg2
+  rotate: false
+  xy: 177, 450
+  size: 75, 66
+  orig: 75, 66
+  offset: 0, 0
+  index: -1
+m_afiredragon_groggyarm2
+  rotate: true
+  xy: 109, 1311
+  size: 61, 103
+  orig: 61, 103
+  offset: 0, 0
+  index: -1
+m_afiredragon_body1
+  rotate: false
+  xy: 155, 801
+  size: 96, 119
+  orig: 96, 119
+  offset: 0, 0
+  index: -1
+m_afiredragon_cloth21
+  rotate: true
+  xy: 165, 1374
+  size: 58, 47
+  orig: 58, 47
+  offset: 0, 0
+  index: -1
+m_afiredragon_head21
+  rotate: false
+  xy: 230, 2
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+m_afiredragon_groggybody1
+  rotate: true
+  xy: 133, 1433
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+m_afiredragon_arm4
+  rotate: true
+  xy: 52, 1433
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+m_afiredragon_arm1
+  rotate: true
+  xy: 2, 1046
+  size: 53, 141
+  orig: 53, 141
+  offset: 0, 0
+  index: -1
+m_afiredragon_groggyhead11
+  rotate: true
+  xy: 163, 664
+  size: 135, 89
+  orig: 135, 89
+  offset: 0, 0
+  index: -1
+m_afiredragon_groggycloth21
+  rotate: true
+  xy: 184, 1470
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+m_afiredragon_ear2
+  rotate: true
+  xy: 2, 2
+  size: 158, 226
+  orig: 158, 226
+  offset: 0, 0
+  index: -1
+m_afiredragon_groggyear1
+  rotate: false
+  xy: 2, 604
+  size: 167, 55
+  orig: 167, 55
+  offset: 0, 0
+  index: -1
+m_afiredragon_head12
+  rotate: false
+  xy: 2, 283
+  size: 194, 164
+  orig: 194, 164
+  offset: 0, 0
+  index: -1
+m_afiredragon_groggycloth22
+  rotate: true
+  xy: 133, 1470
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+m_afiredragon_groggyarm1
+  rotate: true
+  xy: 2, 1368
+  size: 63, 94
+  orig: 63, 94
+  offset: 0, 0
+  index: -1
+m_afiredragon_arm2
+  rotate: false
+  xy: 2, 1289
+  size: 105, 77
+  orig: 105, 77
+  offset: 0, 0
+  index: -1
+m_afiredragon_leg3
+  rotate: true
+  xy: 208, 278
+  size: 83, 37
+  orig: 83, 37
+  offset: 0, 0
+  index: -1
+m_afiredragon_cloth22
+  rotate: true
+  xy: 150, 1006
+  size: 93, 99
+  orig: 93, 99
+  offset: 0, 0
+  index: -1
+m_afiredragon_mouth
+  rotate: false
+  xy: 2, 1101
+  size: 128, 95
+  orig: 128, 95
+  offset: 0, 0
+  index: -1
+m_afiredragon_groggyhead21
+  rotate: false
+  xy: 230, 39
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+m_afiredragon_groggyhead12
+  rotate: false
+  xy: 2, 449
+  size: 173, 153
+  orig: 175, 153
+  offset: 1, 0
+  index: -1

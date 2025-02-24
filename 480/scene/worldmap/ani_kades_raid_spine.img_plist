@@ -1,0 +1,88 @@
+ani_kades_raid_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+back_effect01
+  rotate: true
+  xy: 118, 365
+  size: 132, 131
+  orig: 132, 131
+  offset: 0, 0
+  index: -1
+light_effect04
+  rotate: false
+  xy: 209, 626
+  size: 26, 58
+  orig: 26, 58
+  offset: 0, 0
+  index: -1
+back_effect02
+  rotate: false
+  xy: 2, 2
+  size: 184, 227
+  orig: 184, 227
+  offset: 0, 0
+  index: -1
+light_effect02
+  rotate: true
+  xy: 188, 204
+  size: 19, 59
+  orig: 19, 59
+  offset: 0, 0
+  index: -1
+light_effect03
+  rotate: true
+  xy: 67, 712
+  size: 24, 145
+  orig: 24, 145
+  offset: 0, 0
+  index: -1
+round_effect01
+  rotate: false
+  xy: 2, 691
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+light_effect01
+  rotate: true
+  xy: 118, 626
+  size: 84, 89
+  orig: 84, 89
+  offset: 0, 0
+  index: -1
+tower_effect01
+  rotate: false
+  xy: 2, 231
+  size: 114, 229
+  orig: 114, 229
+  offset: 0, 0
+  index: -1
+round_effect04
+  rotate: false
+  xy: 118, 499
+  size: 126, 125
+  orig: 126, 125
+  offset: 0, 0
+  index: -1
+round_effect02
+  rotate: true
+  xy: 118, 231
+  size: 132, 131
+  orig: 132, 131
+  offset: 0, 0
+  index: -1
+round_effect03
+  rotate: true
+  xy: 188, 2
+  size: 200, 52
+  orig: 200, 52
+  offset: 0, 0
+  index: -1
+tower_effect02
+  rotate: false
+  xy: 2, 462
+  size: 114, 227
+  orig: 114, 227
+  offset: 0, 0
+  index: -1

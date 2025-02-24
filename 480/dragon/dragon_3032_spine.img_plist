@@ -1,0 +1,809 @@
+dragon_3032_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_sitael_adult_l_ama
+  rotate: true
+  xy: 198, 541
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+dragon_sitael_cri_tw2
+  rotate: true
+  xy: 155, 634
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_r_armc
+  rotate: false
+  xy: 172, 1542
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_r_wing1
+  rotate: true
+  xy: 204, 1599
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_taila
+  rotate: true
+  xy: 172, 1495
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_bodyac2
+  rotate: true
+  xy: 218, 898
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_eye
+  rotate: false
+  xy: 210, 853
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+dragon_sitael_child_body
+  rotate: false
+  xy: 99, 1351
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+dragon_sitael_cri_eff_a2
+  rotate: false
+  xy: 2, 695
+  size: 165, 167
+  orig: 173, 173
+  offset: 2, 6
+  index: -1
+dragon_sitael_child_wing1a
+  rotate: true
+  xy: 2, 1562
+  size: 103, 74
+  orig: 103, 74
+  offset: 0, 0
+  index: -1
+dragon_sitael_e_tail_p1
+  rotate: false
+  xy: 210, 751
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_l_armc
+  rotate: true
+  xy: 228, 1234
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+dragon_sitael_baby_leg3
+  rotate: false
+  xy: 123, 1513
+  size: 22, 47
+  orig: 22, 47
+  offset: 0, 0
+  index: -1
+dragon_sitael_child_wing2a
+  rotate: false
+  xy: 189, 2
+  size: 64, 102
+  orig: 64, 102
+  offset: 0, 0
+  index: -1
+dragon_sitael_cri_p2
+  rotate: false
+  xy: 2, 2
+  size: 185, 165
+  orig: 187, 167
+  offset: 2, 2
+  index: -1
+dragon_sitael_child_tail1
+  rotate: true
+  xy: 2, 1449
+  size: 111, 77
+  orig: 111, 77
+  offset: 0, 0
+  index: -1
+dragon_sitael_child_eye
+  rotate: true
+  xy: 220, 1672
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_l_wing1a
+  rotate: true
+  xy: 234, 191
+  size: 104, 20
+  orig: 110, 26
+  offset: 3, 3
+  index: -1
+dragon_sitael_child_wing1b
+  rotate: false
+  xy: 99, 1413
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_eye2
+  rotate: false
+  xy: 192, 680
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_r_wing1b
+  rotate: true
+  xy: 156, 1351
+  size: 61, 12
+  orig: 67, 18
+  offset: 3, 3
+  index: -1
+dragon_sitael_child_note1
+  rotate: false
+  xy: 89, 1659
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_sitael_child_wing2b
+  rotate: false
+  xy: 225, 591
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+dragon_sitael_cri_st1
+  rotate: true
+  xy: 78, 1562
+  size: 91, 7
+  orig: 111, 7
+  offset: 0, 0
+  index: -1
+dragon_sitael_baby_tail2
+  rotate: false
+  xy: 206, 1503
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_r_lega
+  rotate: true
+  xy: 206, 1533
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+dragon_sitael_baby_wing2
+  rotate: true
+  xy: 121, 1150
+  size: 70, 37
+  orig: 70, 37
+  offset: 0, 0
+  index: -1
+dragon_sitael_child_head
+  rotate: true
+  xy: 189, 106
+  size: 83, 64
+  orig: 83, 64
+  offset: 0, 0
+  index: -1
+dragon_sitael_cri_eff
+  rotate: true
+  xy: 2, 340
+  size: 184, 151
+  orig: 184, 161
+  offset: 0, 0
+  index: -1
+dragon_sitael_e_bodyac2
+  rotate: true
+  xy: 121, 1659
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_neck
+  rotate: false
+  xy: 101, 1222
+  size: 56, 75
+  orig: 56, 75
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_l_lega
+  rotate: false
+  xy: 218, 844
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+dragon_sitael_baby_chin
+  rotate: false
+  xy: 188, 1654
+  size: 26, 17
+  orig: 32, 17
+  offset: 6, 0
+  index: -1
+dragon_sitael_baby_leg2
+  rotate: false
+  xy: 234, 297
+  size: 20, 43
+  orig: 20, 43
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_l_amb
+  rotate: false
+  xy: 223, 1458
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_chin
+  rotate: true
+  xy: 235, 1599
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+dragon_sitael_cri_tw3
+  rotate: false
+  xy: 160, 1121
+  size: 92, 81
+  orig: 92, 81
+  offset: 0, 0
+  index: -1
+dragon_sitael_e_r_wing2
+  rotate: false
+  xy: 2, 1337
+  size: 95, 110
+  orig: 95, 110
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_tailb
+  rotate: false
+  xy: 159, 1234
+  size: 67, 57
+  orig: 67, 57
+  offset: 0, 0
+  index: -1
+dragon_sitael_cri_eff_a3
+  rotate: false
+  xy: 2, 169
+  size: 171, 169
+  orig: 173, 173
+  offset: 2, 0
+  index: -1
+dragon_sitael_adult_head
+  rotate: true
+  xy: 200, 680
+  size: 69, 47
+  orig: 69, 47
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_r_wing1a2
+  rotate: true
+  xy: 155, 452
+  size: 89, 32
+  orig: 89, 32
+  offset: 0, 0
+  index: -1
+dragon_sitael_e_head_p
+  rotate: false
+  xy: 60, 1150
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_l_wing1b2
+  rotate: true
+  xy: 189, 452
+  size: 80, 22
+  orig: 80, 22
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_heart
+  rotate: false
+  xy: 183, 411
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_sitael_cri_spark01
+  rotate: true
+  xy: 183, 333
+  size: 76, 49
+  orig: 86, 61
+  offset: 9, 5
+  index: -1
+dragon_sitael_e_acc1
+  rotate: false
+  xy: 140, 1616
+  size: 15, 40
+  orig: 15, 40
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_r_legb
+  rotate: true
+  xy: 238, 1640
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+dragon_sitael_baby_eye3
+  rotate: false
+  xy: 157, 1622
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+dragon_sitael_e_l_wing2
+  rotate: true
+  xy: 60, 1009
+  size: 139, 98
+  orig: 139, 98
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_bodyac1
+  rotate: false
+  xy: 81, 1534
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_body1
+  rotate: false
+  xy: 101, 1299
+  size: 61, 50
+  orig: 61, 50
+  offset: 0, 0
+  index: -1
+dragon_sitael_e_chest
+  rotate: false
+  xy: 167, 865
+  size: 49, 74
+  orig: 49, 74
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_eye3
+  rotate: true
+  xy: 200, 751
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+dragon_sitael_e_l_legacc
+  rotate: true
+  xy: 225, 1385
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+dragon_sitael_e_tail_p2
+  rotate: true
+  xy: 225, 1348
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_l_legb
+  rotate: false
+  xy: 235, 1621
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+dragon_sitael_baby_bodyac
+  rotate: false
+  xy: 210, 1621
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_r_amb
+  rotate: false
+  xy: 227, 937
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_tailfur
+  rotate: true
+  xy: 164, 1293
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_r_wing1a
+  rotate: false
+  xy: 160, 1204
+  size: 83, 28
+  orig: 89, 32
+  offset: 3, 2
+  index: -1
+dragon_sitael_adult_r_wing2
+  rotate: false
+  xy: 160, 1009
+  size: 94, 110
+  orig: 94, 110
+  offset: 0, 0
+  index: -1
+dragon_sitael_baby_eye2
+  rotate: false
+  xy: 154, 1673
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_l_tooth
+  rotate: false
+  xy: 248, 1559
+  size: 6, 21
+  orig: 6, 21
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_l_wing1c
+  rotate: true
+  xy: 200, 941
+  size: 60, 25
+  orig: 66, 31
+  offset: 3, 3
+  index: -1
+dragon_sitael_adult_r_wing1c2
+  rotate: true
+  xy: 231, 481
+  size: 58, 23
+  orig: 58, 23
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_r_arma
+  rotate: true
+  xy: 87, 1619
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_tailc
+  rotate: false
+  xy: 192, 634
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1
+dragon_sitael_baby_tail1
+  rotate: false
+  xy: 168, 1566
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+dragon_sitael_e_arm_p
+  rotate: false
+  xy: 170, 1410
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+dragon_sitael_e_head
+  rotate: true
+  xy: 87, 1562
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+dragon_sitael_child_tooth
+  rotate: false
+  xy: 101, 1197
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_eye4
+  rotate: false
+  xy: 213, 1460
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+dragon_sitael_child_eye2
+  rotate: true
+  xy: 204, 1673
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+dragon_sitael_baby_wing1
+  rotate: true
+  xy: 155, 543
+  size: 89, 41
+  orig: 89, 41
+  offset: 0, 0
+  index: -1
+dragon_sitael_child_neck
+  rotate: true
+  xy: 210, 801
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+dragon_sitael_child_chest
+  rotate: false
+  xy: 111, 1449
+  size: 33, 62
+  orig: 33, 62
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_l_wing2
+  rotate: true
+  xy: 2, 1197
+  size: 138, 97
+  orig: 138, 97
+  offset: 0, 0
+  index: -1
+dragon_sitael_e_acc2
+  rotate: false
+  xy: 78, 1655
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+dragon_sitael_baby_head
+  rotate: true
+  xy: 175, 191
+  size: 86, 57
+  orig: 86, 57
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_r_legc
+  rotate: true
+  xy: 202, 1582
+  size: 15, 40
+  orig: 15, 40
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_r_tooth
+  rotate: false
+  xy: 175, 169
+  size: 7, 17
+  orig: 7, 17
+  offset: 0, 0
+  index: -1
+dragon_sitael_baby_eye
+  rotate: false
+  xy: 179, 1673
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+dragon_sitael_cri_cbasic2
+  rotate: true
+  xy: 2, 1009
+  size: 186, 56
+  orig: 186, 56
+  offset: 0, 0
+  index: -1
+dragon_sitael_cri_eff_a1
+  rotate: true
+  xy: 2, 526
+  size: 167, 151
+  orig: 173, 173
+  offset: 0, 4
+  index: -1
+dragon_sitael_adult_body2
+  rotate: false
+  xy: 165, 1460
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_chest
+  rotate: false
+  xy: 231, 411
+  size: 23, 68
+  orig: 23, 68
+  offset: 0, 0
+  index: -1
+dragon_sitael_child_chin
+  rotate: true
+  xy: 145, 1414
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_l_legc
+  rotate: false
+  xy: 150, 1556
+  size: 16, 49
+  orig: 16, 49
+  offset: 0, 0
+  index: -1
+dragon_sitael_cri_tw1
+  rotate: true
+  xy: 170, 1348
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+dragon_sitael_child_leg1
+  rotate: false
+  xy: 169, 695
+  size: 29, 88
+  orig: 29, 88
+  offset: 0, 0
+  index: -1
+dragon_sitael_baby_leg1
+  rotate: false
+  xy: 227, 1293
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_l_wing1b
+  rotate: true
+  xy: 213, 452
+  size: 74, 16
+  orig: 80, 22
+  offset: 3, 3
+  index: -1
+dragon_sitael_adult_l_wing1a2
+  rotate: true
+  xy: 155, 340
+  size: 110, 26
+  orig: 110, 26
+  offset: 0, 0
+  index: -1
+dragon_sitael_e_r_tooth
+  rotate: false
+  xy: 245, 1204
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+dragon_sitael_child_arm1
+  rotate: false
+  xy: 169, 785
+  size: 39, 78
+  orig: 39, 78
+  offset: 0, 0
+  index: -1
+dragon_sitael_baby_note1
+  rotate: false
+  xy: 89, 1659
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_sitael_child_leg2
+  rotate: true
+  xy: 2, 1667
+  size: 30, 85
+  orig: 30, 85
+  offset: 0, 0
+  index: -1
+dragon_sitael_baby_leg4
+  rotate: true
+  xy: 206, 1559
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+dragon_sitael_cri_p1
+  rotate: false
+  xy: 2, 864
+  size: 163, 143
+  orig: 187, 167
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_r_legd
+  rotate: false
+  xy: 157, 1654
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_taild
+  rotate: false
+  xy: 146, 1444
+  size: 17, 58
+  orig: 17, 58
+  offset: 0, 0
+  index: -1
+dragon_sitael_baby_chest
+  rotate: false
+  xy: 198, 591
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+dragon_sitael_child_arm2
+  rotate: false
+  xy: 81, 1449
+  size: 28, 83
+  orig: 28, 83
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_eye5
+  rotate: true
+  xy: 210, 844
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+dragon_sitael_child_eye3
+  rotate: false
+  xy: 216, 1649
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_l_legd
+  rotate: true
+  xy: 190, 1622
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_l_legacc
+  rotate: false
+  xy: 227, 974
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_l_wing1
+  rotate: true
+  xy: 168, 1602
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+dragon_sitael_e_leg_p
+  rotate: false
+  xy: 147, 1504
+  size: 23, 50
+  orig: 23, 50
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_r_wing1b2
+  rotate: true
+  xy: 234, 342
+  size: 67, 18
+  orig: 67, 18
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_l_wing1c2
+  rotate: true
+  xy: 167, 941
+  size: 66, 31
+  orig: 66, 31
+  offset: 0, 0
+  index: -1
+dragon_sitael_adult_r_wing1c
+  rotate: true
+  xy: 131, 1562
+  size: 52, 17
+  orig: 58, 23
+  offset: 3, 3
+  index: -1
+dragon_sitael_e_hair
+  rotate: false
+  xy: 223, 1413
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+dragon_sitael_baby_body
+  rotate: false
+  xy: 175, 279
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1

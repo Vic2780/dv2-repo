@@ -1,0 +1,452 @@
+191_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_ewaterfall2_hair
+  rotate: true
+  xy: 2, 755
+  size: 118, 356
+  orig: 118, 356
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_eye3_eff
+  rotate: false
+  xy: 232, 1757
+  size: 133, 74
+  orig: 133, 90
+  offset: 0, 4
+  index: -1
+m_ewaterfall2_groggybody2
+  rotate: false
+  xy: 2, 1771
+  size: 175, 63
+  orig: 175, 63
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_eye1_eff
+  rotate: false
+  xy: 360, 835
+  size: 295, 218
+  orig: 299, 218
+  offset: 1, 0
+  index: -1
+m_ewaterfall2_finger2
+  rotate: false
+  xy: 235, 1545
+  size: 80, 50
+  orig: 80, 50
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_groggyhair
+  rotate: true
+  xy: 2, 1001
+  size: 197, 320
+  orig: 197, 320
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_groggyfishbody2
+  rotate: false
+  xy: 232, 1694
+  size: 77, 61
+  orig: 77, 61
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_wing2
+  rotate: false
+  xy: 324, 1177
+  size: 311, 217
+  orig: 311, 217
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_groggybody21
+  rotate: false
+  xy: 316, 1969
+  size: 91, 74
+  orig: 91, 74
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_groggyfinger1
+  rotate: false
+  xy: 451, 1985
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_fisharm4
+  rotate: false
+  xy: 185, 1624
+  size: 45, 171
+  orig: 45, 171
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_body41
+  rotate: false
+  xy: 235, 1597
+  size: 77, 95
+  orig: 77, 95
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_head1
+  rotate: false
+  xy: 2, 1200
+  size: 234, 182
+  orig: 234, 182
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_groggyhead1
+  rotate: true
+  xy: 183, 1834
+  size: 138, 98
+  orig: 138, 98
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_mause3
+  rotate: true
+  xy: 326, 875
+  size: 70, 32
+  orig: 70, 32
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_wing11
+  rotate: true
+  xy: 543, 1396
+  size: 59, 110
+  orig: 59, 110
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_fisharm1
+  rotate: false
+  xy: 486, 1832
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_groggyarm4
+  rotate: true
+  xy: 378, 1833
+  size: 115, 106
+  orig: 115, 106
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_eye2
+  rotate: true
+  xy: 409, 1950
+  size: 74, 40
+  orig: 74, 40
+  offset: 0, 0
+  index: -1
+smog1
+  rotate: false
+  xy: 324, 1396
+  size: 217, 80
+  orig: 217, 80
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_eye1
+  rotate: false
+  xy: 523, 2
+  size: 132, 43
+  orig: 132, 43
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_groggyeye2
+  rotate: false
+  xy: 360, 795
+  size: 81, 37
+  orig: 81, 37
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_groggyfisharm2
+  rotate: false
+  xy: 326, 947
+  size: 31, 108
+  orig: 31, 108
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_fisharm3
+  rotate: false
+  xy: 486, 1939
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_head2
+  rotate: true
+  xy: 465, 214
+  size: 228, 189
+  orig: 228, 189
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_body51
+  rotate: false
+  xy: 517, 1884
+  size: 113, 106
+  orig: 113, 106
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_wing12
+  rotate: true
+  xy: 465, 586
+  size: 247, 182
+  orig: 249, 182
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_groggymause2
+  rotate: false
+  xy: 179, 1797
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_eye3
+  rotate: true
+  xy: 486, 1887
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_body21
+  rotate: true
+  xy: 387, 702
+  size: 91, 75
+  orig: 91, 75
+  offset: 0, 0
+  index: -1
+smog2
+  rotate: false
+  xy: 2, 875
+  size: 322, 124
+  orig: 322, 124
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_groggyeye3
+  rotate: false
+  xy: 600, 1992
+  size: 39, 40
+  orig: 41, 42
+  offset: 1, 1
+  index: -1
+m_ewaterfall2_finger1
+  rotate: true
+  xy: 523, 99
+  size: 93, 126
+  orig: 93, 126
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_arm2
+  rotate: true
+  xy: 48, 1836
+  size: 163, 133
+  orig: 163, 133
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_eye2_eff
+  rotate: true
+  xy: 387, 507
+  size: 193, 76
+  orig: 193, 78
+  offset: 0, 1
+  index: -1
+m_ewaterfall2_arm1
+  rotate: true
+  xy: 528, 1518
+  size: 99, 124
+  orig: 99, 124
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_body1
+  rotate: true
+  xy: 238, 1200
+  size: 216, 84
+  orig: 216, 84
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_groggyeye1
+  rotate: false
+  xy: 523, 47
+  size: 128, 50
+  orig: 128, 50
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_groggyspear
+  rotate: true
+  xy: 324, 1057
+  size: 118, 314
+  orig: 118, 314
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_groggyfisharm4
+  rotate: false
+  xy: 2, 1836
+  size: 44, 169
+  orig: 44, 169
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_spear
+  rotate: true
+  xy: 2, 2
+  size: 160, 519
+  orig: 160, 519
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_arm3
+  rotate: true
+  xy: 465, 444
+  size: 140, 189
+  orig: 140, 189
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_fishbody2
+  rotate: false
+  xy: 235, 1418
+  size: 80, 125
+  orig: 80, 125
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_groggywing2
+  rotate: false
+  xy: 465, 164
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_groggyarm3
+  rotate: false
+  xy: 367, 1731
+  size: 104, 100
+  orig: 104, 100
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_groggybody52
+  rotate: false
+  xy: 216, 1974
+  size: 98, 64
+  orig: 98, 64
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_groggymause1
+  rotate: true
+  xy: 546, 1992
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_body42
+  rotate: false
+  xy: 2, 507
+  size: 383, 246
+  orig: 383, 252
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_fin2
+  rotate: false
+  xy: 360, 755
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_mause2
+  rotate: false
+  xy: 516, 1992
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_arm4
+  rotate: false
+  xy: 2, 1601
+  size: 181, 168
+  orig: 181, 168
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_fin1
+  rotate: true
+  xy: 185, 1601
+  size: 21, 46
+  orig: 21, 46
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_groggyfishbody1
+  rotate: false
+  xy: 283, 1833
+  size: 93, 134
+  orig: 95, 134
+  offset: 1, 0
+  index: -1
+m_ewaterfall2_body3
+  rotate: true
+  xy: 317, 1478
+  size: 198, 209
+  orig: 198, 209
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_groggywing12
+  rotate: false
+  xy: 473, 1731
+  size: 53, 43
+  orig: 53, 43
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_groggyhead2
+  rotate: true
+  xy: 79, 2001
+  size: 41, 135
+  orig: 41, 135
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_groggywing11
+  rotate: true
+  xy: 543, 1457
+  size: 59, 110
+  orig: 59, 110
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_groggybody41
+  rotate: false
+  xy: 2, 2007
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_fisharm2
+  rotate: true
+  xy: 314, 1678
+  size: 51, 198
+  orig: 51, 198
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_mause1
+  rotate: false
+  xy: 473, 1776
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_body52
+  rotate: true
+  xy: 2, 164
+  size: 341, 461
+  orig: 341, 461
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_fishbody1
+  rotate: false
+  xy: 528, 1619
+  size: 115, 155
+  orig: 117, 155
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_groggybody51
+  rotate: false
+  xy: 520, 1776
+  size: 114, 106
+  orig: 114, 134
+  offset: 0, 0
+  index: -1
+m_ewaterfall2_body22
+  rotate: true
+  xy: 2, 1384
+  size: 215, 231
+  orig: 215, 231
+  offset: 0, 0
+  index: -1

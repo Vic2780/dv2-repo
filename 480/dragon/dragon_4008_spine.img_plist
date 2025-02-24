@@ -1,0 +1,795 @@
+dragon_4008_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_desperatio_adult_anger
+  rotate: false
+  xy: 2008, 946
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_desperatio_child_head
+  rotate: false
+  xy: 1801, 903
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+dragon_desperatio_adult_head2
+  rotate: false
+  xy: 1930, 899
+  size: 43, 44
+  orig: 43, 46
+  offset: 0, 2
+  index: -1
+dragon_desperatio_adult_headflame
+  rotate: false
+  xy: 1195, 965
+  size: 43, 44
+  orig: 43, 46
+  offset: 0, 2
+  index: -1
+dragon_desperatio_critical_flame2
+  rotate: false
+  xy: 336, 2
+  size: 240, 444
+  orig: 332, 444
+  offset: 26, 0
+  index: -1
+dragon_desperatio_e_critical_e_ston01
+  rotate: false
+  xy: 1283, 316
+  size: 301, 185
+  orig: 301, 185
+  offset: 0, 0
+  index: -1
+dragon_desperatio_e_critical_e_boom2
+  rotate: true
+  xy: 794, 479
+  size: 357, 192
+  orig: 357, 192
+  offset: 0, 0
+  index: -1
+dragon_desperatio_baby_z
+  rotate: false
+  xy: 956, 986
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+dragon_desperatio_baby_body
+  rotate: true
+  xy: 1977, 838
+  size: 61, 48
+  orig: 61, 48
+  offset: 0, 0
+  index: -1
+dragon_desperatio_adult_neck3flame
+  rotate: false
+  xy: 709, 932
+  size: 51, 59
+  orig: 55, 59
+  offset: 4, 0
+  index: -1
+dragon_desperatio_child_headflame
+  rotate: true
+  xy: 1694, 938
+  size: 65, 42
+  orig: 65, 44
+  offset: 0, 2
+  index: -1
+dragon_desperatio_baby_head1
+  rotate: false
+  xy: 1800, 949
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+dragon_desperatio_adult_leg3
+  rotate: false
+  xy: 539, 448
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+dragon_desperatio_e_critical_e_e03
+  rotate: true
+  xy: 1397, 2
+  size: 158, 397
+  orig: 158, 397
+  offset: 0, 0
+  index: -1
+dragon_desperatio_e_critical_e_smo3
+  rotate: false
+  xy: 1397, 162
+  size: 342, 152
+  orig: 342, 158
+  offset: 0, 6
+  index: -1
+dragon_desperatio_adult_neck3
+  rotate: false
+  xy: 1920, 838
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+dragon_desperatio_adult_arm4
+  rotate: false
+  xy: 1868, 903
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+dragon_desperatio_baby_leg3
+  rotate: true
+  xy: 1900, 992
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+dragon_desperatio_baby_tail
+  rotate: true
+  xy: 709, 993
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+dragon_desperatio_child_neck2flame
+  rotate: false
+  xy: 1439, 806
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+dragon_desperatio_e_critical_e_fire1
+  rotate: true
+  xy: 1796, 2
+  size: 227, 248
+  orig: 227, 248
+  offset: 0, 0
+  index: -1
+dragon_desperatio_child_leg1
+  rotate: false
+  xy: 2019, 552
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+dragon_desperatio_child_arm4
+  rotate: true
+  xy: 1694, 1005
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+dragon_desperatio_critical_flame1
+  rotate: true
+  xy: 951, 2
+  size: 168, 444
+  orig: 332, 444
+  offset: 69, 0
+  index: -1
+dragon_desperatio_baby_mouth
+  rotate: true
+  xy: 762, 932
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+dragon_desperatio_adult_tailflame
+  rotate: true
+  xy: 1924, 675
+  size: 161, 82
+  orig: 163, 82
+  offset: 0, 0
+  index: -1
+dragon_desperatio_e_wing_p
+  rotate: true
+  xy: 694, 802
+  size: 128, 93
+  orig: 128, 93
+  offset: 0, 0
+  index: -1
+dragon_desperatio_baby_wing2
+  rotate: true
+  xy: 641, 1006
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+dragon_desperatio_critical_rock3
+  rotate: true
+  xy: 1312, 172
+  size: 130, 68
+  orig: 182, 176
+  offset: 37, 14
+  index: -1
+dragon_desperatio_effect_e_smo1
+  rotate: true
+  xy: 1881, 231
+  size: 267, 142
+  orig: 275, 186
+  offset: 8, 7
+  index: -1
+dragon_desperatio_e_critical_e_fire4
+  rotate: false
+  xy: 539, 479
+  size: 253, 321
+  orig: 253, 321
+  offset: 0, 0
+  index: -1
+dragon_desperatio_e_critical_e_smo000
+  rotate: true
+  xy: 1797, 701
+  size: 132, 125
+  orig: 132, 125
+  offset: 0, 0
+  index: -1
+dragon_desperatio_e_tail_p
+  rotate: false
+  xy: 1795, 231
+  size: 80, 55
+  orig: 80, 55
+  offset: 0, 0
+  index: -1
+dragon_desperatio_adult_wing1
+  rotate: true
+  xy: 1903, 500
+  size: 173, 114
+  orig: 173, 114
+  offset: 0, 0
+  index: -1
+dragon_desperatio_e_body_p
+  rotate: false
+  xy: 565, 937
+  size: 74, 90
+  orig: 74, 90
+  offset: 0, 0
+  index: -1
+dragon_desperatio_adult_leg4
+  rotate: true
+  xy: 2019, 604
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+dragon_desperatio_child_arm1flame
+  rotate: false
+  xy: 1477, 806
+  size: 22, 31
+  orig: 22, 41
+  offset: 0, 10
+  index: -1
+dragon_desperatio_e_critical_e_smo2
+  rotate: false
+  xy: 939, 316
+  size: 342, 157
+  orig: 350, 173
+  offset: 2, 16
+  index: -1
+dragon_desperatio_child_eye
+  rotate: true
+  xy: 1240, 965
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+dragon_desperatio_adult_arm1
+  rotate: false
+  xy: 1899, 902
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+dragon_desperatio_baby_leg4
+  rotate: false
+  xy: 1970, 1010
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+dragon_desperatio_child_arm1
+  rotate: true
+  xy: 1741, 292
+  size: 22, 41
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+dragon_desperatio_child_neck1flame
+  rotate: true
+  xy: 2008, 798
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+dragon_desperatio_e_critical_e_ston03
+  rotate: false
+  xy: 1501, 526
+  size: 284, 205
+  orig: 284, 205
+  offset: 0, 0
+  index: -1
+dragon_desperatio_baby_wing1
+  rotate: true
+  xy: 1501, 503
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+dragon_desperatio_child_leg1flame
+  rotate: false
+  xy: 2019, 500
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+dragon_desperatio_adult_arm5
+  rotate: false
+  xy: 2008, 675
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+dragon_desperatio_adult_tail
+  rotate: false
+  xy: 789, 838
+  size: 163, 82
+  orig: 163, 82
+  offset: 0, 0
+  index: -1
+dragon_desperatio_child_arm5
+  rotate: true
+  xy: 1938, 980
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+dragon_desperatio_child_leg2
+  rotate: false
+  xy: 2025, 231
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+dragon_desperatio_adult_wing2
+  rotate: true
+  xy: 1787, 526
+  size: 173, 114
+  orig: 173, 114
+  offset: 0, 0
+  index: -1
+dragon_desperatio_child_bodyflame
+  rotate: false
+  xy: 1801, 835
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+dragon_desperatio_baby_leg1flame
+  rotate: true
+  xy: 2025, 288
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+dragon_desperatio_adult_leg1
+  rotate: false
+  xy: 1045, 965
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+dragon_desperatio_e_critical_e_e01
+  rotate: false
+  xy: 299, 448
+  size: 238, 401
+  orig: 238, 401
+  offset: 0, 0
+  index: -1
+dragon_desperatio_e_critical_e_boom1
+  rotate: false
+  xy: 578, 2
+  size: 371, 245
+  orig: 371, 245
+  offset: 0, 0
+  index: -1
+dragon_desperatio_baby_eye
+  rotate: false
+  xy: 1470, 1012
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+dragon_desperatio_baby_leg1
+  rotate: true
+  xy: 2025, 304
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+dragon_desperatio_e_critical_e_smo00
+  rotate: true
+  xy: 789, 922
+  size: 105, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+dragon_desperatio_baby_headflame
+  rotate: false
+  xy: 1439, 756
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+dragon_desperatio_adult_mouth
+  rotate: true
+  xy: 1246, 475
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+dragon_desperatio_e_critical_e_fire3
+  rotate: false
+  xy: 988, 475
+  size: 256, 314
+  orig: 256, 314
+  offset: 0, 0
+  index: -1
+dragon_desperatio_baby_leg3flame
+  rotate: true
+  xy: 1862, 996
+  size: 31, 36
+  orig: 35, 36
+  offset: 1, 0
+  index: -1
+dragon_desperatio_e_critical_e_ston02
+  rotate: false
+  xy: 1586, 316
+  size: 293, 208
+  orig: 293, 208
+  offset: 0, 0
+  index: -1
+dragon_desperatio_e_critical_eff_p01
+  rotate: true
+  xy: 2, 448
+  size: 402, 295
+  orig: 404, 295
+  offset: 0, 0
+  index: -1
+dragon_desperatio_e_head_p
+  rotate: false
+  xy: 1870, 835
+  size: 48, 65
+  orig: 48, 65
+  offset: 0, 0
+  index: -1
+dragon_desperatio_child_wing1
+  rotate: false
+  xy: 1606, 841
+  size: 107, 95
+  orig: 107, 95
+  offset: 0, 0
+  index: -1
+dragon_desperatio_adult_neck2flame
+  rotate: false
+  xy: 1091, 965
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+dragon_desperatio_child_neck1
+  rotate: false
+  xy: 1968, 946
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+dragon_desperatio_effect_e_smo2
+  rotate: false
+  xy: 988, 791
+  size: 263, 172
+  orig: 275, 186
+  offset: 2, 6
+  index: -1
+dragon_desperatio_baby_tailflame
+  rotate: false
+  xy: 2008, 749
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+dragon_desperatio_e_critical_eff_p02
+  rotate: false
+  xy: 565, 802
+  size: 127, 133
+  orig: 127, 133
+  offset: 0, 0
+  index: -1
+dragon_desperatio_child_arm2
+  rotate: false
+  xy: 1970, 978
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+dragon_desperatio_adult_bodyflame
+  rotate: false
+  xy: 1606, 938
+  size: 86, 84
+  orig: 86, 84
+  offset: 0, 0
+  index: -1
+dragon_desperatio_child_note1
+  rotate: false
+  xy: 956, 946
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_desperatio_adult_arm2
+  rotate: false
+  xy: 2008, 712
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+dragon_desperatio_adult_neck1
+  rotate: true
+  xy: 956, 892
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+dragon_desperatio_e_critical_e_fire2
+  rotate: false
+  xy: 1246, 503
+  size: 253, 251
+  orig: 253, 251
+  offset: 0, 0
+  index: -1
+dragon_desperatio_child_arm6
+  rotate: false
+  xy: 1881, 500
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+dragon_desperatio_child_leg3
+  rotate: true
+  xy: 2025, 263
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+dragon_desperatio_child_mouth
+  rotate: true
+  xy: 2027, 838
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+dragon_desperatio_child_wing2
+  rotate: false
+  xy: 1439, 915
+  size: 107, 95
+  orig: 107, 95
+  offset: 0, 0
+  index: -1
+dragon_desperatio_adult_neck1flame
+  rotate: true
+  xy: 954, 838
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+dragon_desperatio_adult_arm1flame
+  rotate: false
+  xy: 1862, 949
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+dragon_desperatio_adult_eye
+  rotate: false
+  xy: 1787, 701
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+dragon_desperatio_baby_head3
+  rotate: false
+  xy: 1738, 929
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+dragon_desperatio_child_body
+  rotate: true
+  xy: 641, 937
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+dragon_desperatio_adult_body
+  rotate: true
+  xy: 1715, 841
+  size: 86, 84
+  orig: 86, 84
+  offset: 0, 0
+  index: -1
+dragon_desperatio_child_neck2
+  rotate: false
+  xy: 1930, 945
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+dragon_desperatio_critical_rock1
+  rotate: true
+  xy: 1741, 162
+  size: 128, 52
+  orig: 182, 176
+  offset: 39, 29
+  index: -1
+dragon_desperatio_e_critical_e_smo1
+  rotate: false
+  xy: 1501, 733
+  size: 294, 106
+  orig: 298, 116
+  offset: 4, 4
+  index: -1
+dragon_desperatio_adult_arm6
+  rotate: false
+  xy: 1853, 288
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_desperatio_adult_head1
+  rotate: true
+  xy: 1975, 901
+  size: 43, 44
+  orig: 43, 46
+  offset: 0, 2
+  index: -1
+dragon_desperatio_critical_flame3
+  rotate: false
+  xy: 2, 2
+  size: 332, 444
+  orig: 332, 444
+  offset: 0, 0
+  index: -1
+dragon_desperatio_child_tail
+  rotate: true
+  xy: 898, 922
+  size: 104, 56
+  orig: 104, 56
+  offset: 0, 0
+  index: -1
+dragon_desperatio_adult_leg2
+  rotate: true
+  xy: 539, 802
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+dragon_desperatio_child_note2
+  rotate: false
+  xy: 1893, 949
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_desperatio_e_critical_e_boom3
+  rotate: false
+  xy: 578, 249
+  size: 359, 228
+  orig: 359, 228
+  offset: 0, 0
+  index: -1
+dragon_desperatio_e_critical_e_e02
+  rotate: true
+  xy: 2, 852
+  size: 166, 377
+  orig: 166, 377
+  offset: 0, 0
+  index: -1
+dragon_desperatio_e_critical_e_smo4
+  rotate: false
+  xy: 951, 172
+  size: 359, 142
+  orig: 359, 170
+  offset: 0, 28
+  index: -1
+dragon_desperatio_child_tailflame
+  rotate: true
+  xy: 1548, 915
+  size: 104, 56
+  orig: 104, 56
+  offset: 0, 0
+  index: -1
+dragon_desperatio_adult_neck2
+  rotate: false
+  xy: 1143, 965
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+dragon_desperatio_e_arm_p
+  rotate: false
+  xy: 1795, 288
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+dragon_desperatio_baby_leg2
+  rotate: false
+  xy: 1439, 1012
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+dragon_desperatio_effect_e_smo3
+  rotate: true
+  xy: 1253, 756
+  size: 267, 184
+  orig: 275, 186
+  offset: 0, 2
+  index: -1
+dragon_desperatio_child_arm3
+  rotate: true
+  xy: 1536, 503
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+dragon_desperatio_baby_head2
+  rotate: false
+  xy: 1738, 979
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+dragon_desperatio_adult_tooth
+  rotate: false
+  xy: 2, 1020
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+dragon_desperatio_adult_leg1flame
+  rotate: false
+  xy: 999, 965
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+dragon_desperatio_e_neck_p
+  rotate: true
+  xy: 1800, 999
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+dragon_desperatio_critical_rock2
+  rotate: false
+  xy: 381, 851
+  size: 182, 176
+  orig: 182, 176
+  offset: 0, 0
+  index: -1
+dragon_desperatio_e_critical_e_smo0
+  rotate: false
+  xy: 1439, 841
+  size: 165, 72
+  orig: 165, 72
+  offset: 0, 0
+  index: -1
+dragon_desperatio_adult_arm3
+  rotate: true
+  xy: 1824, 288
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1

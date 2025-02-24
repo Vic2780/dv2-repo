@@ -1,0 +1,389 @@
+dragon_15_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_rock_critical7
+  rotate: false
+  xy: 2, 2
+  size: 306, 154
+  orig: 314, 200
+  offset: 0, 27
+  index: -1
+dragon_rock_adult_eye
+  rotate: false
+  xy: 654, 123
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+dragon_rock_adult_r_leg2c
+  rotate: true
+  xy: 996, 219
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+dragon_rock_baby_leg2
+  rotate: true
+  xy: 599, 227
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+dragon_rock_child_leg4
+  rotate: false
+  xy: 507, 134
+  size: 41, 65
+  orig: 41, 65
+  offset: 0, 0
+  index: -1
+dragon_rock_adult_r_leg1c
+  rotate: false
+  xy: 1113, 235
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+dragon_rock_child_mouth
+  rotate: false
+  xy: 1222, 215
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+dragon_rock_critical5
+  rotate: true
+  xy: 2, 158
+  size: 91, 215
+  orig: 115, 235
+  offset: 15, 8
+  index: -1
+dragon_rock_adult_body
+  rotate: true
+  xy: 310, 81
+  size: 127, 143
+  orig: 127, 143
+  offset: 0, 0
+  index: -1
+dragon_rock_child_leg1
+  rotate: true
+  xy: 523, 81
+  size: 44, 68
+  orig: 44, 68
+  offset: 0, 0
+  index: -1
+dragon_rock_adult_r_leg2a
+  rotate: true
+  xy: 956, 219
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+dragon_rock_child_tail
+  rotate: true
+  xy: 654, 203
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+dragon_rock_critical8
+  rotate: false
+  xy: 1344, 189
+  size: 29, 31
+  orig: 51, 43
+  offset: 12, 6
+  index: -1
+dragon_rock_adult_mouth
+  rotate: false
+  xy: 1301, 210
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+dragon_rock_adult_r_leg1a
+  rotate: true
+  xy: 520, 201
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+dragon_rock_baby_mouth
+  rotate: false
+  xy: 419, 210
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+dragon_rock_adult_l_leg2d
+  rotate: false
+  xy: 219, 237
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+dragon_rock_baby_leg3
+  rotate: true
+  xy: 912, 219
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+dragon_rock_adult_eye2
+  rotate: false
+  xy: 419, 238
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+dragon_rock_adult_tail2
+  rotate: true
+  xy: 455, 203
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1
+dragon_rock_adult_l_leg2a
+  rotate: true
+  xy: 812, 203
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+dragon_rock_adult_l_leg1a
+  rotate: false
+  xy: 455, 81
+  size: 66, 51
+  orig: 66, 51
+  offset: 0, 0
+  index: -1
+dragon_rock_adult_r_leg2d
+  rotate: true
+  xy: 639, 227
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+dragon_rock_critical9
+  rotate: false
+  xy: 1150, 215
+  size: 37, 32
+  orig: 51, 44
+  offset: 8, 7
+  index: -1
+dragon_rock_baby_leg1
+  rotate: true
+  xy: 1036, 219
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+dragon_rock_child_eye
+  rotate: false
+  xy: 1076, 219
+  size: 35, 15
+  orig: 35, 15
+  offset: 0, 0
+  index: -1
+dragon_rock_child_leg2
+  rotate: true
+  xy: 593, 81
+  size: 40, 72
+  orig: 40, 72
+  offset: 0, 0
+  index: -1
+dragon_rock_adult_tail1
+  rotate: true
+  xy: 593, 181
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+dragon_rock_child_head
+  rotate: false
+  xy: 1267, 152
+  size: 75, 56
+  orig: 75, 56
+  offset: 0, 0
+  index: -1
+dragon_rock_child_eye2
+  rotate: false
+  xy: 1113, 219
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+dragon_rock_baby_head
+  rotate: true
+  xy: 455, 134
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+dragon_rock_baby_tail
+  rotate: true
+  xy: 863, 203
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+dragon_rock_adult_l_leg2b
+  rotate: false
+  xy: 1323, 210
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_rock_critical1
+  rotate: false
+  xy: 1267, 2
+  size: 106, 148
+  orig: 132, 170
+  offset: 10, 9
+  index: -1
+dragon_rock_adult_eye4
+  rotate: true
+  xy: 246, 237
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+dragon_rock_adult_l_leg1b
+  rotate: true
+  xy: 355, 210
+  size: 33, 62
+  orig: 33, 62
+  offset: 0, 0
+  index: -1
+dragon_rock_baby_body
+  rotate: false
+  xy: 712, 203
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1
+dragon_rock_adult_head
+  rotate: true
+  xy: 550, 127
+  size: 65, 41
+  orig: 65, 41
+  offset: 0, 0
+  index: -1
+dragon_rock_adult_r_leg2b
+  rotate: false
+  xy: 1279, 210
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+dragon_rock_adult_r_leg1b
+  rotate: true
+  xy: 766, 203
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+dragon_rock_critical2
+  rotate: false
+  xy: 1148, 2
+  size: 117, 211
+  orig: 153, 231
+  offset: 17, 9
+  index: -1
+dragon_rock_adult_eye3
+  rotate: false
+  xy: 434, 238
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_rock_adult_tail3
+  rotate: false
+  xy: 593, 123
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+dragon_rock_baby_leg4
+  rotate: false
+  xy: 495, 203
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+dragon_rock_critical3
+  rotate: true
+  xy: 920, 2
+  size: 215, 226
+  orig: 243, 246
+  offset: 10, 6
+  index: -1
+dragon_rock_baby_heart
+  rotate: false
+  xy: 307, 210
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_rock_adult_heart
+  rotate: false
+  xy: 307, 210
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_rock_critical10
+  rotate: false
+  xy: 1189, 215
+  size: 31, 32
+  orig: 43, 44
+  offset: 6, 7
+  index: -1
+dragon_rock_critical6
+  rotate: false
+  xy: 310, 2
+  size: 360, 77
+  orig: 362, 107
+  offset: 0, 17
+  index: -1
+dragon_rock_child_body
+  rotate: false
+  xy: 219, 158
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+dragon_rock_baby_eye
+  rotate: true
+  xy: 573, 227
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+dragon_rock_baby_eye2
+  rotate: true
+  xy: 1252, 215
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+dragon_rock_adult_l_leg2c
+  rotate: false
+  xy: 1344, 152
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+dragon_rock_critical4
+  rotate: true
+  xy: 672, 2
+  size: 199, 246
+  orig: 217, 260
+  offset: 13, 0
+  index: -1
+dragon_rock_adult_l_leg1c
+  rotate: true
+  xy: 573, 194
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1

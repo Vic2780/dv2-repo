@@ -1,0 +1,74 @@
+mix_perfectbook_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+eggmix4
+  rotate: false
+  xy: 606, 2
+  size: 292, 318
+  orig: 350, 350
+  offset: 27, 18
+  index: -1
+eggmix2
+  rotate: false
+  xy: 1194, 2
+  size: 292, 318
+  orig: 350, 350
+  offset: 27, 18
+  index: -1
+eggmix5
+  rotate: false
+  xy: 312, 2
+  size: 292, 318
+  orig: 350, 350
+  offset: 27, 18
+  index: -1
+light1
+  rotate: true
+  xy: 125, 338
+  size: 110, 234
+  orig: 110, 234
+  offset: 0, 0
+  index: -1
+mark
+  rotate: false
+  xy: 2, 338
+  size: 121, 139
+  orig: 263, 275
+  offset: 73, 88
+  index: -1
+book1
+  rotate: false
+  xy: 1782, 2
+  size: 263, 275
+  orig: 263, 275
+  offset: 0, 0
+  index: -1
+eggmix3
+  rotate: false
+  xy: 900, 2
+  size: 292, 318
+  orig: 350, 350
+  offset: 27, 18
+  index: -1
+book2
+  rotate: true
+  xy: 1782, 279
+  size: 211, 223
+  orig: 263, 275
+  offset: 26, 26
+  index: -1
+eggmix_white
+  rotate: false
+  xy: 2, 2
+  size: 308, 334
+  orig: 350, 350
+  offset: 20, 10
+  index: -1
+eggmix1
+  rotate: false
+  xy: 1488, 2
+  size: 292, 318
+  orig: 350, 350
+  offset: 27, 18
+  index: -1

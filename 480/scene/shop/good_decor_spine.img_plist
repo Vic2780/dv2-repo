@@ -1,0 +1,95 @@
+good_decor_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+gooddeco04
+  rotate: true
+  xy: 924, 602
+  size: 156, 181
+  orig: 624, 499
+  offset: 253, 93
+  index: -1
+gooddeco11
+  rotate: false
+  xy: 574, 2
+  size: 546, 415
+  orig: 624, 499
+  offset: 24, 30
+  index: -1
+gooddeco03
+  rotate: true
+  xy: 906, 760
+  size: 156, 181
+  orig: 624, 499
+  offset: 253, 93
+  index: -1
+gooddeco05
+  rotate: false
+  xy: 748, 736
+  size: 156, 181
+  orig: 624, 499
+  offset: 253, 93
+  index: -1
+gooddeco01
+  rotate: false
+  xy: 924, 419
+  size: 158, 181
+  orig: 624, 499
+  offset: 253, 93
+  index: -1
+gooddeco12
+  rotate: false
+  xy: 2, 471
+  size: 570, 467
+  orig: 624, 499
+  offset: 21, 11
+  index: -1
+gooddeco06
+  rotate: false
+  xy: 1122, 368
+  size: 156, 181
+  orig: 624, 499
+  offset: 253, 93
+  index: -1
+gooddeco13
+  rotate: false
+  xy: 2, 2
+  size: 570, 467
+  orig: 624, 499
+  offset: 21, 11
+  index: -1
+gooddeco08
+  rotate: false
+  xy: 1122, 2
+  size: 156, 181
+  orig: 624, 499
+  offset: 253, 93
+  index: -1
+gooddeco07
+  rotate: false
+  xy: 1122, 185
+  size: 156, 181
+  orig: 624, 499
+  offset: 253, 93
+  index: -1
+gooddeco10
+  rotate: false
+  xy: 574, 419
+  size: 348, 315
+  orig: 624, 499
+  offset: 147, 64
+  index: -1
+gooddeco02
+  rotate: false
+  xy: 1107, 551
+  size: 156, 181
+  orig: 624, 499
+  offset: 253, 93
+  index: -1
+gooddeco09
+  rotate: false
+  xy: 574, 736
+  size: 172, 199
+  orig: 624, 499
+  offset: 248, 93
+  index: -1

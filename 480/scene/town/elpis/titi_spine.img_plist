@@ -1,0 +1,179 @@
+titi_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+sd_titi_tail
+  rotate: false
+  xy: 108, 2
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+sd_titi_leg3
+  rotate: true
+  xy: 170, 2
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+sd_titi_acc1
+  rotate: false
+  xy: 164, 37
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+sd_titi_tongue3
+  rotate: false
+  xy: 177, 54
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+sd_titi_body2
+  rotate: false
+  xy: 79, 2
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+sd_titi_emo3
+  rotate: true
+  xy: 113, 37
+  size: 24, 27
+  orig: 24, 29
+  offset: 0, 1
+  index: -1
+sd_titi_arm3
+  rotate: false
+  xy: 190, 16
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+sd_titi_mouth1
+  rotate: false
+  xy: 164, 51
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+sd_titi_leg2
+  rotate: true
+  xy: 37, 48
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+sd_titi_emo2
+  rotate: false
+  xy: 142, 33
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+sd_titi_arm2
+  rotate: false
+  xy: 157, 2
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+sd_titi_saliva
+  rotate: false
+  xy: 143, 25
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+sd_titi_head
+  rotate: true
+  xy: 36, 2
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+sd_titi_eye2
+  rotate: true
+  xy: 133, 2
+  size: 29, 8
+  orig: 29, 8
+  offset: 0, 0
+  index: -1
+sd_titi_mouth2
+  rotate: false
+  xy: 187, 27
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+sd_titi_tongue1
+  rotate: false
+  xy: 187, 54
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+sd_titi_leg1
+  rotate: false
+  xy: 170, 21
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+sd_titi_emo1
+  rotate: true
+  xy: 59, 48
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+sd_titi_arm1
+  rotate: false
+  xy: 143, 2
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+sd_titi_eye1
+  rotate: false
+  xy: 81, 46
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+sd_titi_acc2
+  rotate: false
+  xy: 190, 2
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+sd_titi_leg4
+  rotate: true
+  xy: 181, 40
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+sd_titi_tongue2
+  rotate: false
+  xy: 156, 25
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+sd_titi_body1
+  rotate: true
+  xy: 2, 2
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+sd_titi_mustache
+  rotate: false
+  xy: 2, 52
+  size: 33, 9
+  orig: 33, 9
+  offset: 0, 0
+  index: -1

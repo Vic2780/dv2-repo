@@ -1,0 +1,67 @@
+pocket_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+event_crystal1
+  rotate: false
+  xy: 189, 2
+  size: 173, 165
+  orig: 175, 175
+  offset: 1, 5
+  index: -1
+event_potion1
+  rotate: true
+  xy: 189, 169
+  size: 131, 165
+  orig: 175, 175
+  offset: 20, 5
+  index: -1
+event_right
+  rotate: false
+  xy: 2, 424
+  size: 66, 66
+  orig: 68, 68
+  offset: 0, 2
+  index: -1
+event_pocket1
+  rotate: false
+  xy: 2, 213
+  size: 183, 209
+  orig: 203, 225
+  offset: 9, 9
+  index: -1
+event_stonespirit1
+  rotate: false
+  xy: 356, 171
+  size: 119, 155
+  orig: 175, 175
+  offset: 27, 10
+  index: -1
+event_skill1
+  rotate: false
+  xy: 364, 2
+  size: 133, 167
+  orig: 175, 175
+  offset: 20, 8
+  index: -1
+event_crystal2
+  rotate: false
+  xy: 354, 328
+  size: 151, 161
+  orig: 175, 175
+  offset: 12, 7
+  index: -1
+event_pocket2
+  rotate: false
+  xy: 2, 2
+  size: 185, 209
+  orig: 203, 225
+  offset: 8, 9
+  index: -1
+event_stoneheart1
+  rotate: true
+  xy: 187, 302
+  size: 153, 165
+  orig: 175, 175
+  offset: 9, 3
+  index: -1

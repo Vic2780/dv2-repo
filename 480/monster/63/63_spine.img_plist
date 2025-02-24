@@ -1,0 +1,214 @@
+63_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_ice_marten_body2
+  rotate: true
+  xy: 1667, 2
+  size: 199, 100
+  orig: 199, 100
+  offset: 0, 0
+  index: -1
+m_ice_marten_groggy_body2
+  rotate: false
+  xy: 1306, 252
+  size: 199, 93
+  orig: 203, 93
+  offset: 4, 0
+  index: -1
+m_ice_marten_groggy_mouth
+  rotate: false
+  xy: 1057, 332
+  size: 58, 13
+  orig: 62, 17
+  offset: 1, 3
+  index: -1
+m_ice_marten_tail
+  rotate: true
+  xy: 986, 2
+  size: 309, 128
+  orig: 313, 128
+  offset: 2, 0
+  index: -1
+m_ice_marten_groggy_eye
+  rotate: true
+  xy: 1731, 203
+  size: 131, 56
+  orig: 131, 56
+  offset: 0, 0
+  index: -1
+m_ice_marten_arm22
+  rotate: true
+  xy: 1927, 255
+  size: 71, 52
+  orig: 73, 52
+  offset: 2, 0
+  index: -1
+m_ice_marten_ear2
+  rotate: false
+  xy: 1642, 224
+  size: 87, 105
+  orig: 89, 105
+  offset: 0, 0
+  index: -1
+m_ice_marten_groggy_ear2
+  rotate: false
+  xy: 1553, 224
+  size: 87, 105
+  orig: 89, 105
+  offset: 0, 0
+  index: -1
+m_ice_marten_arm11
+  rotate: false
+  xy: 1789, 202
+  size: 73, 51
+  orig: 73, 53
+  offset: 0, 1
+  index: -1
+m_ice_marten_body1
+  rotate: false
+  xy: 1769, 2
+  size: 188, 198
+  orig: 188, 200
+  offset: 0, 2
+  index: -1
+m_ice_marten_hatbelt2
+  rotate: true
+  xy: 1057, 313
+  size: 17, 91
+  orig: 17, 91
+  offset: 0, 0
+  index: -1
+m_ice_marten_ear1
+  rotate: true
+  xy: 1199, 260
+  size: 85, 105
+  orig: 89, 107
+  offset: 3, 2
+  index: -1
+m_ice_marten_beard
+  rotate: true
+  xy: 1184, 2
+  size: 256, 65
+  orig: 302, 123
+  offset: 19, 25
+  index: -1
+m_ice_marten_board2
+  rotate: true
+  xy: 321, 2
+  size: 329, 344
+  orig: 329, 344
+  offset: 0, 0
+  index: -1
+m_ice_marten_mouth
+  rotate: false
+  xy: 1307, 232
+  size: 59, 16
+  orig: 65, 30
+  offset: 3, 6
+  index: -1
+m_ice_marten_groggy_board1
+  rotate: true
+  xy: 667, 2
+  size: 329, 317
+  orig: 343, 317
+  offset: 14, 0
+  index: -1
+m_ice_marten_eye
+  rotate: true
+  xy: 1507, 224
+  size: 115, 44
+  orig: 115, 44
+  offset: 0, 0
+  index: -1
+m_ice_marten_hatbelt1
+  rotate: true
+  xy: 986, 313
+  size: 18, 69
+  orig: 20, 69
+  offset: 2, 0
+  index: -1
+m_ice_marten_arm2
+  rotate: true
+  xy: 1959, 191
+  size: 62, 74
+  orig: 62, 74
+  offset: 0, 0
+  index: -1
+m_ice_marten_board1
+  rotate: true
+  xy: 2, 2
+  size: 331, 317
+  orig: 343, 317
+  offset: 12, 0
+  index: -1
+m_ice_marten_leg1
+  rotate: true
+  xy: 1251, 2
+  size: 248, 54
+  orig: 252, 56
+  offset: 2, 1
+  index: -1
+m_ice_marten_hand2
+  rotate: false
+  xy: 1864, 202
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+m_ice_marten_groggy_beard
+  rotate: true
+  xy: 1116, 2
+  size: 264, 66
+  orig: 270, 80
+  offset: 2, 7
+  index: -1
+m_ice_marten_groggy_body1
+  rotate: true
+  xy: 1959, 2
+  size: 187, 75
+  orig: 191, 79
+  offset: 1, 3
+  index: -1
+m_ice_marten_arm1
+  rotate: false
+  xy: 1863, 255
+  size: 62, 74
+  orig: 62, 74
+  offset: 0, 0
+  index: -1
+m_ice_marten_groggy_tail
+  rotate: true
+  xy: 1789, 255
+  size: 89, 72
+  orig: 89, 76
+  offset: 0, 3
+  index: -1
+m_ice_marten_head
+  rotate: true
+  xy: 1478, 2
+  size: 220, 187
+  orig: 222, 191
+  offset: 0, 3
+  index: -1
+m_ice_marten_groggy_head
+  rotate: true
+  xy: 1307, 2
+  size: 228, 169
+  orig: 234, 175
+  offset: 0, 4
+  index: -1
+m_ice_marten_groggy_ear1
+  rotate: false
+  xy: 1150, 268
+  size: 47, 77
+  orig: 53, 81
+  offset: 2, 2
+  index: -1
+m_ice_marten_hand1
+  rotate: true
+  xy: 1981, 255
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,39 @@
+ani_dwarfraidfire_new_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+w_dwarf_raidadd_red
+  rotate: true
+  xy: 2, 2
+  size: 323, 234
+  orig: 323, 234
+  offset: 0, 0
+  index: -1
+w_dwarf_raidadd_ffff01
+  rotate: false
+  xy: 2, 1043
+  size: 149, 307
+  orig: 149, 347
+  offset: 0, 40
+  index: -1
+w_dwarf_raidadd_ffff02
+  rotate: false
+  xy: 2, 647
+  size: 149, 394
+  orig: 149, 404
+  offset: 0, 10
+  index: -1
+w_dwarf_raidadd_ffff03
+  rotate: false
+  xy: 2, 327
+  size: 151, 318
+  orig: 165, 332
+  offset: 0, 6
+  index: -1
+w_dwarf_raidadd_ffff04
+  rotate: false
+  xy: 2, 1352
+  size: 133, 336
+  orig: 133, 342
+  offset: 0, 6
+  index: -1

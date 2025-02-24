@@ -1,0 +1,46 @@
+skill_1_bite_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skill_bite2
+  rotate: false
+  xy: 2, 594
+  size: 180, 297
+  orig: 382, 427
+  offset: 99, 97
+  index: -1
+skill_bite4
+  rotate: false
+  xy: 2, 277
+  size: 226, 315
+  orig: 382, 427
+  offset: 70, 112
+  index: -1
+skill_bite3
+  rotate: false
+  xy: 230, 303
+  size: 178, 331
+  orig: 382, 427
+  offset: 98, 96
+  index: -1
+skill_bite5
+  rotate: false
+  xy: 184, 636
+  size: 254, 183
+  orig: 382, 427
+  offset: 48, 117
+  index: -1
+skill_bite1
+  rotate: false
+  xy: 274, 2
+  size: 164, 299
+  orig: 382, 427
+  offset: 105, 105
+  index: -1
+skill_bite6
+  rotate: false
+  xy: 2, 2
+  size: 270, 273
+  orig: 382, 427
+  offset: 49, 43
+  index: -1

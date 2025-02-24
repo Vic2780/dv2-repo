@@ -1,0 +1,438 @@
+dragon_57_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_goldenhorn_baby_wing
+  rotate: true
+  xy: 173, 824
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_adult_tail
+  rotate: false
+  xy: 2, 625
+  size: 96, 95
+  orig: 96, 95
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_adult_eye2
+  rotate: true
+  xy: 120, 614
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_baby_head
+  rotate: false
+  xy: 192, 393
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_baby_eye2
+  rotate: false
+  xy: 232, 733
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_critical5
+  rotate: true
+  xy: 2, 291
+  size: 211, 102
+  orig: 211, 102
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_adult_leg2
+  rotate: false
+  xy: 204, 747
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_adult_neck2
+  rotate: true
+  xy: 106, 441
+  size: 50, 77
+  orig: 50, 85
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_baby_mouse
+  rotate: false
+  xy: 200, 785
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_adult_eye3
+  rotate: true
+  xy: 241, 802
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_baby_eye3
+  rotate: false
+  xy: 234, 783
+  size: 18, 17
+  orig: 20, 23
+  offset: 0, 3
+  index: -1
+dragon_goldenhorn_adult_neck
+  rotate: false
+  xy: 100, 625
+  size: 50, 85
+  orig: 50, 85
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_baby_effect2
+  rotate: false
+  xy: 2, 844
+  size: 50, 19
+  orig: 60, 53
+  offset: 7, 34
+  index: -1
+dragon_goldenhorn_adult_leg3
+  rotate: true
+  xy: 200, 688
+  size: 15, 38
+  orig: 15, 38
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_child_arm6
+  rotate: true
+  xy: 230, 144
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_adult_arm1
+  rotate: false
+  xy: 170, 762
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_baby_leg2
+  rotate: false
+  xy: 230, 52
+  size: 19, 44
+  orig: 19, 44
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_adult_eye4
+  rotate: false
+  xy: 100, 712
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_adult_body
+  rotate: true
+  xy: 137, 291
+  size: 98, 53
+  orig: 98, 53
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_child_heart
+  rotate: false
+  xy: 72, 824
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_child_arm4
+  rotate: true
+  xy: 200, 766
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_baby_effect1
+  rotate: true
+  xy: 230, 2
+  size: 48, 19
+  orig: 60, 53
+  offset: 8, 34
+  index: -1
+dragon_goldenhorn_baby_body
+  rotate: false
+  xy: 137, 391
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_adult_leg4
+  rotate: false
+  xy: 204, 804
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_child_eye2
+  rotate: true
+  xy: 147, 273
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_child_mouse
+  rotate: true
+  xy: 232, 705
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_child_wing1
+  rotate: false
+  xy: 192, 248
+  size: 60, 84
+  orig: 60, 84
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_child_body
+  rotate: true
+  xy: 190, 175
+  size: 71, 62
+  orig: 71, 62
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_critical6
+  rotate: true
+  xy: 2, 2
+  size: 287, 143
+  orig: 287, 143
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_adult_arm2
+  rotate: true
+  xy: 152, 688
+  size: 20, 46
+  orig: 20, 46
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_adult_tail2
+  rotate: false
+  xy: 120, 493
+  size: 77, 83
+  orig: 77, 83
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_baby_leg3
+  rotate: false
+  xy: 223, 615
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_adult_eye5
+  rotate: true
+  xy: 106, 493
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_baby_eye1
+  rotate: false
+  xy: 232, 758
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_child_arm5
+  rotate: true
+  xy: 54, 844
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_adult_mouse
+  rotate: true
+  xy: 197, 590
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_child_wing2
+  rotate: false
+  xy: 124, 712
+  size: 44, 85
+  orig: 44, 85
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_adult_arm3
+  rotate: false
+  xy: 165, 808
+  size: 37, 14
+  orig: 37, 14
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_critical2
+  rotate: false
+  xy: 190, 2
+  size: 38, 171
+  orig: 38, 171
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_child_leg2
+  rotate: true
+  xy: 199, 561
+  size: 27, 53
+  orig: 27, 53
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_child_eye1
+  rotate: true
+  xy: 169, 273
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_child_arm2
+  rotate: true
+  xy: 124, 799
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_critical1
+  rotate: false
+  xy: 106, 291
+  size: 29, 143
+  orig: 29, 143
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_adult_gold
+  rotate: true
+  xy: 147, 224
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_baby_leg1
+  rotate: false
+  xy: 230, 98
+  size: 18, 44
+  orig: 18, 44
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_child_head2
+  rotate: true
+  xy: 199, 445
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_critical3
+  rotate: false
+  xy: 147, 2
+  size: 41, 220
+  orig: 41, 222
+  offset: 0, 1
+  index: -1
+dragon_goldenhorn_adult_wing
+  rotate: true
+  xy: 2, 504
+  size: 119, 116
+  orig: 119, 116
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_child_arm3
+  rotate: false
+  xy: 153, 824
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_child_head
+  rotate: true
+  xy: 199, 503
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_adult_gold2
+  rotate: false
+  xy: 251, 2
+  size: 1, 1
+  orig: 47, 40
+  offset: 0, 39
+  index: -1
+dragon_goldenhorn_adult_head
+  rotate: true
+  xy: 120, 824
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_baby_tail
+  rotate: false
+  xy: 223, 590
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_adult_eye1
+  rotate: false
+  xy: 212, 590
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_child_leg1
+  rotate: true
+  xy: 120, 578
+  size: 34, 75
+  orig: 34, 75
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_child_arm1
+  rotate: false
+  xy: 204, 705
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_critical4
+  rotate: true
+  xy: 2, 722
+  size: 120, 68
+  orig: 120, 68
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_adult_leg1
+  rotate: false
+  xy: 170, 710
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_child_neck
+  rotate: false
+  xy: 223, 659
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_adult_downbody
+  rotate: true
+  xy: 72, 722
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_adult_smile
+  rotate: true
+  xy: 192, 334
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_goldenhorn_child_tail
+  rotate: true
+  xy: 152, 614
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,788 @@
+dragon_4062_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_flamma_adult_fire2_c
+  rotate: false
+  xy: 375, 1343
+  size: 54, 85
+  orig: 58, 99
+  offset: 2, 2
+  index: -1
+dragon_flamma_adult_ring2
+  rotate: false
+  xy: 180, 1397
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+dragon_flamma_child_arm1
+  rotate: false
+  xy: 468, 733
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+dragon_flamma_adult_fire4_b
+  rotate: false
+  xy: 431, 1343
+  size: 25, 70
+  orig: 35, 74
+  offset: 7, 2
+  index: -1
+dragon_flamma_adult_mouth
+  rotate: false
+  xy: 242, 237
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+dragon_flamma_child_fire3_b
+  rotate: false
+  xy: 446, 842
+  size: 33, 33
+  orig: 35, 37
+  offset: 0, 1
+  index: -1
+dragon_flamma_adult_leg10
+  rotate: false
+  xy: 441, 1712
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+dragon_flamma_child_ring1
+  rotate: false
+  xy: 448, 1279
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+dragon_flamma_adult_leg3
+  rotate: true
+  xy: 426, 526
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+dragon_flamma_child_eye
+  rotate: false
+  xy: 481, 827
+  size: 27, 35
+  orig: 29, 37
+  offset: 1, 1
+  index: -1
+dragon_flamma_child_tail2
+  rotate: false
+  xy: 425, 1523
+  size: 61, 53
+  orig: 61, 53
+  offset: 0, 0
+  index: -1
+dragon_flamma_adult_hair1
+  rotate: true
+  xy: 345, 819
+  size: 119, 71
+  orig: 119, 71
+  offset: 0, 0
+  index: -1
+dragon_flamma_child_fire4_b
+  rotate: true
+  xy: 365, 1279
+  size: 62, 81
+  orig: 80, 95
+  offset: 2, 1
+  index: -1
+dragon_flamma_baby_fire3_a
+  rotate: false
+  xy: 418, 819
+  size: 26, 57
+  orig: 36, 61
+  offset: 7, 2
+  index: -1
+dragon_flamma_child_mouth
+  rotate: true
+  xy: 423, 429
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+dragon_flamma_critical_eff9
+  rotate: true
+  xy: 2, 1173
+  size: 222, 193
+  orig: 270, 251
+  offset: 24, 36
+  index: -1
+dragon_love_effect_smile
+  rotate: false
+  xy: 451, 1421
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_flamma_baby_eye
+  rotate: false
+  xy: 468, 515
+  size: 40, 50
+  orig: 44, 56
+  offset: 2, 5
+  index: -1
+dragon_flamma_adult_head
+  rotate: true
+  xy: 285, 1178
+  size: 125, 76
+  orig: 125, 76
+  offset: 0, 0
+  index: -1
+dragon_flamma_adult_leg7
+  rotate: true
+  xy: 442, 1018
+  size: 42, 48
+  orig: 44, 50
+  offset: 1, 1
+  index: -1
+dragon_flamma_baby_flre1_a
+  rotate: true
+  xy: 450, 671
+  size: 33, 58
+  orig: 39, 60
+  offset: 5, 1
+  index: -1
+dragon_flamma_baby_flre2_c
+  rotate: false
+  xy: 303, 1600
+  size: 38, 76
+  orig: 48, 80
+  offset: 1, 2
+  index: -1
+dragon_flamma_adult_fire7_a
+  rotate: true
+  xy: 366, 1430
+  size: 69, 54
+  orig: 79, 56
+  offset: 0, 1
+  index: -1
+dragon_flamma_adult_eye2
+  rotate: false
+  xy: 425, 1578
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+dragon_flamma_adult_body2
+  rotate: false
+  xy: 200, 939
+  size: 134, 137
+  orig: 134, 137
+  offset: 0, 0
+  index: -1
+dragon_flamma_child_leg2
+  rotate: false
+  xy: 441, 1645
+  size: 31, 65
+  orig: 31, 65
+  offset: 0, 0
+  index: -1
+dragon_flamma_child_hari
+  rotate: false
+  xy: 379, 702
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+dragon_flamma_adult_rin4
+  rotate: true
+  xy: 488, 1523
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+dragon_flamma_child_fire3_a
+  rotate: false
+  xy: 478, 935
+  size: 27, 29
+  orig: 35, 37
+  offset: 5, 3
+  index: -1
+dragon_flamma_critical_eff5
+  rotate: false
+  xy: 2, 1397
+  size: 176, 199
+  orig: 270, 251
+  offset: 61, 32
+  index: -1
+dragon_love_effect_twinkling2
+  rotate: false
+  xy: 363, 1177
+  size: 99, 100
+  orig: 225, 224
+  offset: 63, 64
+  index: -1
+dragon_flamma_adult_fire3_c
+  rotate: true
+  xy: 401, 1665
+  size: 76, 38
+  orig: 88, 46
+  offset: 2, 2
+  index: -1
+dragon_flamma_adult_leg2
+  rotate: false
+  xy: 458, 1386
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1
+dragon_flamma_baby_tail
+  rotate: true
+  xy: 265, 1685
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+dragon_flamma_child_amr4
+  rotate: true
+  xy: 301, 387
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+dragon_flamma_child_fire4_a
+  rotate: false
+  xy: 283, 1505
+  size: 50, 93
+  orig: 80, 95
+  offset: 1, 1
+  index: -1
+dragon_flamma_baby_leg3
+  rotate: false
+  xy: 414, 1018
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+dragon_flamma_adult_fire1_a
+  rotate: false
+  xy: 290, 1347
+  size: 83, 77
+  orig: 89, 83
+  offset: 4, 2
+  index: -1
+dragon_flamma_adult_fire4_c
+  rotate: false
+  xy: 320, 1678
+  size: 27, 70
+  orig: 35, 74
+  offset: 6, 2
+  index: -1
+dragon_flamma_child_body2
+  rotate: false
+  xy: 383, 1588
+  size: 50, 75
+  orig: 50, 75
+  offset: 0, 0
+  index: -1
+dragon_flamma_adult_tail3
+  rotate: true
+  xy: 357, 1065
+  size: 110, 109
+  orig: 110, 109
+  offset: 0, 0
+  index: -1
+dragon_flamma_critical_eff6
+  rotate: false
+  xy: 2, 237
+  size: 238, 235
+  orig: 270, 251
+  offset: 29, 13
+  index: -1
+dragon_flamma_adult_fire6_b
+  rotate: false
+  xy: 468, 417
+  size: 40, 96
+  orig: 42, 98
+  offset: 1, 1
+  index: -1
+dragon_flamma_critical_eff1
+  rotate: true
+  xy: 202, 671
+  size: 146, 175
+  orig: 270, 251
+  offset: 73, 6
+  index: -1
+dragon_flamma_adult_fire2_a
+  rotate: false
+  xy: 382, 474
+  size: 42, 95
+  orig: 58, 99
+  offset: 2, 2
+  index: -1
+dragon_flamma_adult_leg6
+  rotate: false
+  xy: 435, 1578
+  size: 36, 65
+  orig: 36, 65
+  offset: 0, 0
+  index: -1
+dragon_flamma_child_hari2
+  rotate: true
+  xy: 439, 611
+  size: 58, 63
+  orig: 58, 63
+  offset: 0, 0
+  index: -1
+dragon_flamma_critical_eff2
+  rotate: true
+  xy: 194, 819
+  size: 118, 149
+  orig: 270, 251
+  offset: 86, 21
+  index: -1
+dragon_flamma_adult_leg1
+  rotate: false
+  xy: 446, 790
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+dragon_flamma_critical_eff12
+  rotate: false
+  xy: 202, 474
+  size: 178, 195
+  orig: 270, 251
+  offset: 68, 34
+  index: -1
+dragon_flamma_baby_hari1
+  rotate: false
+  xy: 242, 266
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+dragon_flamma_adult_su
+  rotate: false
+  xy: 451, 1483
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+dragon_flamma_child_tail1
+  rotate: true
+  xy: 382, 571
+  size: 95, 55
+  orig: 95, 55
+  offset: 0, 0
+  index: -1
+dragon_flamma_baby_eye2
+  rotate: false
+  xy: 426, 472
+  size: 40, 52
+  orig: 44, 56
+  offset: 2, 2
+  index: -1
+dragon_flamma_adult_fire5_B
+  rotate: true
+  xy: 197, 1347
+  size: 71, 91
+  orig: 89, 107
+  offset: 3, 3
+  index: -1
+dragon_flamma_baby_leg2
+  rotate: true
+  xy: 410, 396
+  size: 31, 56
+  orig: 31, 56
+  offset: 0, 0
+  index: -1
+dragon_flamma_child_eye2
+  rotate: false
+  xy: 481, 790
+  size: 27, 35
+  orig: 29, 37
+  offset: 1, 1
+  index: -1
+dragon_flamma_child_leg1
+  rotate: true
+  xy: 439, 567
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+dragon_flamma_adult_tail2
+  rotate: true
+  xy: 336, 940
+  size: 123, 76
+  orig: 123, 76
+  offset: 0, 0
+  index: -1
+dragon_flamma_baby_head2
+  rotate: false
+  xy: 450, 986
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+dragon_flamma_baby_fire3_b
+  rotate: true
+  xy: 382, 668
+  size: 32, 55
+  orig: 36, 61
+  offset: 2, 2
+  index: -1
+dragon_flamma_adult_leg5
+  rotate: false
+  xy: 464, 1177
+  size: 44, 93
+  orig: 44, 93
+  offset: 0, 0
+  index: -1
+dragon_flamma_baby_flre2_a
+  rotate: false
+  xy: 464, 1272
+  size: 44, 74
+  orig: 48, 80
+  offset: 2, 2
+  index: -1
+dragon_flamma_adult_hair3
+  rotate: false
+  xy: 418, 878
+  size: 29, 56
+  orig: 29, 56
+  offset: 0, 0
+  index: -1
+dragon_flamma_adult_fire5_c
+  rotate: true
+  xy: 180, 1520
+  size: 85, 101
+  orig: 89, 107
+  offset: 2, 3
+  index: -1
+dragon_flamma_baby_flre1_b
+  rotate: false
+  xy: 473, 1578
+  size: 35, 54
+  orig: 39, 60
+  offset: 3, 1
+  index: -1
+dragon_flamma_child_arm3
+  rotate: false
+  xy: 468, 1062
+  size: 29, 55
+  orig: 29, 55
+  offset: 0, 0
+  index: -1
+dragon_flamma_adult_fire7_b
+  rotate: true
+  xy: 349, 1675
+  size: 71, 50
+  orig: 79, 56
+  offset: 2, 2
+  index: -1
+dragon_flamma_child_fire1_c
+  rotate: false
+  xy: 474, 1634
+  size: 34, 49
+  orig: 38, 57
+  offset: 1, 2
+  index: -1
+dragon_flamma_adult_body1
+  rotate: false
+  xy: 197, 1178
+  size: 86, 167
+  orig: 86, 167
+  offset: 0, 0
+  index: -1
+dragon_flamma_critical_eff7
+  rotate: false
+  xy: 2, 2
+  size: 264, 233
+  orig: 270, 251
+  offset: 3, 14
+  index: -1
+dragon_flamma_adult_fire3_a
+  rotate: false
+  xy: 285, 1305
+  size: 78, 40
+  orig: 88, 46
+  offset: 1, 4
+  index: -1
+dragon_flamma_adult_fire6_c
+  rotate: false
+  xy: 468, 319
+  size: 40, 96
+  orig: 42, 98
+  offset: 1, 1
+  index: -1
+dragon_flamma_baby_mouth
+  rotate: false
+  xy: 379, 751
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+dragon_flamma_baby_head
+  rotate: false
+  xy: 180, 1420
+  size: 97, 98
+  orig: 97, 98
+  offset: 0, 0
+  index: -1
+dragon_flamma_adult_leg9
+  rotate: false
+  xy: 468, 706
+  size: 40, 25
+  orig: 48, 25
+  offset: 8, 0
+  index: -1
+dragon_flamma_child_fire2_c
+  rotate: true
+  xy: 179, 1702
+  size: 46, 84
+  orig: 50, 88
+  offset: 2, 2
+  index: -1
+dragon_flamma_baby_leg1
+  rotate: false
+  xy: 449, 877
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+dragon_flamma_adult_fire4_a
+  rotate: false
+  xy: 422, 1430
+  size: 27, 66
+  orig: 35, 74
+  offset: 4, 2
+  index: -1
+dragon_flamma_adult_fire1_b
+  rotate: true
+  xy: 268, 228
+  size: 85, 79
+  orig: 89, 83
+  offset: 2, 2
+  index: -1
+dragon_flamma_child_body1
+  rotate: true
+  xy: 200, 1078
+  size: 98, 155
+  orig: 98, 155
+  offset: 0, 0
+  index: -1
+dragon_flamma_critical_eff3
+  rotate: true
+  xy: 2, 1598
+  size: 150, 175
+  orig: 270, 251
+  offset: 71, 4
+  index: -1
+dragon_flamma_adult_leg4
+  rotate: false
+  xy: 435, 706
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+dragon_flamma_adult_hair2
+  rotate: false
+  xy: 242, 417
+  size: 105, 55
+  orig: 109, 59
+  offset: 2, 2
+  index: -1
+dragon_flamma_adult_fire2_b
+  rotate: false
+  xy: 373, 1501
+  size: 50, 85
+  orig: 58, 99
+  offset: 1, 2
+  index: -1
+dragon_flamma_child_arm2
+  rotate: true
+  xy: 480, 899
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+dragon_flamma_baby_body
+  rotate: true
+  xy: 242, 315
+  size: 70, 105
+  orig: 70, 105
+  offset: 0, 0
+  index: -1
+dragon_flamma_child_fire1_b
+  rotate: false
+  xy: 474, 1685
+  size: 34, 49
+  orig: 38, 57
+  offset: 2, 3
+  index: -1
+dragon_flamma_baby_fire3_c
+  rotate: true
+  xy: 242, 387
+  size: 28, 57
+  orig: 36, 61
+  offset: 2, 2
+  index: -1
+dragon_flamma_adult_leg8
+  rotate: false
+  xy: 450, 932
+  size: 26, 52
+  orig: 26, 52
+  offset: 0, 0
+  index: -1
+dragon_flamma_child_fire2_b
+  rotate: true
+  xy: 349, 442
+  size: 30, 72
+  orig: 50, 88
+  offset: 7, 2
+  index: -1
+dragon_flamma_critical_eff11
+  rotate: false
+  xy: 2, 711
+  size: 190, 235
+  orig: 270, 251
+  offset: 56, 13
+  index: -1
+dragon_flamma_baby_flre1_c
+  rotate: false
+  xy: 468, 1119
+  size: 37, 54
+  orig: 39, 60
+  offset: 1, 1
+  index: -1
+dragon_flamma_adult_ring3
+  rotate: false
+  xy: 493, 2
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+dragon_flamma_adult_fire7_c
+  rotate: true
+  xy: 418, 319
+  size: 75, 48
+  orig: 79, 56
+  offset: 2, 5
+  index: -1
+dragon_flamma_child_fire3_c
+  rotate: false
+  xy: 481, 864
+  size: 27, 33
+  orig: 35, 37
+  offset: 7, 3
+  index: -1
+dragon_flamma_adult_ring
+  rotate: false
+  xy: 433, 790
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+dragon_flamma_adult_fire5_a
+  rotate: false
+  xy: 349, 337
+  size: 59, 103
+  orig: 89, 107
+  offset: 2, 2
+  index: -1
+dragon_flamma_child_head
+  rotate: false
+  xy: 418, 228
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1
+dragon_flamma_baby_flre2_b
+  rotate: false
+  xy: 343, 1597
+  size: 38, 76
+  orig: 48, 80
+  offset: 1, 2
+  index: -1
+dragon_flamma_child_tail3
+  rotate: true
+  xy: 379, 794
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+dragon_flamma_child_fire1_a
+  rotate: true
+  xy: 433, 756
+  size: 32, 53
+  orig: 38, 57
+  offset: 4, 3
+  index: -1
+dragon_flamma_child_fire4_c
+  rotate: false
+  xy: 179, 1607
+  size: 78, 93
+  orig: 80, 95
+  offset: 1, 1
+  index: -1
+dragon_flamma_adult_tail4
+  rotate: false
+  xy: 349, 228
+  size: 67, 107
+  orig: 77, 115
+  offset: 10, 8
+  index: -1
+dragon_flamma_adult_fire6_a
+  rotate: false
+  xy: 335, 1505
+  size: 36, 90
+  orig: 42, 98
+  offset: 0, 1
+  index: -1
+dragon_flamma_adult_fire1_c
+  rotate: false
+  xy: 279, 1426
+  size: 85, 77
+  orig: 89, 83
+  offset: 2, 2
+  index: -1
+dragon_flamma_baby_mouth2
+  rotate: false
+  xy: 458, 1348
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+dragon_flamma_critical_eff4
+  rotate: false
+  xy: 2, 948
+  size: 196, 223
+  orig: 270, 251
+  offset: 49, 12
+  index: -1
+dragon_love_effect_twinkling1
+  rotate: false
+  xy: 268, 2
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+dragon_flamma_adult_fire3_b
+  rotate: true
+  xy: 259, 1607
+  size: 76, 42
+  orig: 88, 46
+  offset: 3, 2
+  index: -1
+dragon_flamma_child_fire2_a
+  rotate: false
+  xy: 414, 940
+  size: 34, 76
+  orig: 50, 88
+  offset: 8, 2
+  index: -1
+dragon_flamma_critical_eff10
+  rotate: false
+  xy: 2, 474
+  size: 198, 235
+  orig: 270, 251
+  offset: 69, 13
+  index: -1

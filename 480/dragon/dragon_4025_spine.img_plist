@@ -1,0 +1,529 @@
+dragon_4025_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_woods_child_leg1
+  rotate: true
+  xy: 1188, 192
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+dragon_woods_child_tail
+  rotate: true
+  xy: 971, 301
+  size: 86, 41
+  orig: 86, 41
+  offset: 0, 0
+  index: -1
+dragon_woods_adult_bodylight
+  rotate: true
+  xy: 1212, 324
+  size: 16, 22
+  orig: 50, 68
+  offset: 0, 25
+  index: -1
+dragon_woods_adult_arm2
+  rotate: false
+  xy: 1195, 238
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+dragon_woods_child_wing1
+  rotate: false
+  xy: 1014, 302
+  size: 49, 59
+  orig: 49, 59
+  offset: 0, 0
+  index: -1
+dragon_woods_baby_arm2
+  rotate: false
+  xy: 905, 395
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+dragon_woods_adult_leg1
+  rotate: true
+  xy: 1014, 363
+  size: 23, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+dragon_woods_child_leg2
+  rotate: true
+  xy: 1135, 394
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+dragon_woods_adult_wing1
+  rotate: false
+  xy: 1129, 113
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+dragon_woods_baby_head2
+  rotate: false
+  xy: 466, 375
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+dragon_woods_adult_atk1
+  rotate: true
+  xy: 737, 228
+  size: 165, 197
+  orig: 213, 263
+  offset: 34, 38
+  index: -1
+dragon_woods_child_bodylight
+  rotate: false
+  xy: 1211, 342
+  size: 17, 19
+  orig: 53, 77
+  offset: 36, 29
+  index: -1
+dragon_woods_baby_anger
+  rotate: false
+  xy: 1163, 393
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_woods_adult_arm6
+  rotate: false
+  xy: 1226, 2
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+dragon_woods_adult_taillight
+  rotate: true
+  xy: 936, 321
+  size: 79, 33
+  orig: 113, 43
+  offset: 3, 10
+  index: -1
+dragon_woods_adult_leg5
+  rotate: false
+  xy: 971, 389
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+dragon_woods_adult_a2
+  rotate: true
+  xy: 2, 2
+  size: 420, 462
+  orig: 422, 464
+  offset: 0, 2
+  index: -1
+dragon_woods_baby_head1light
+  rotate: false
+  xy: 1216, 389
+  size: 14, 15
+  orig: 60, 47
+  offset: 45, 18
+  index: -1
+dragon_woods_adult_wing3light
+  rotate: true
+  xy: 1208, 113
+  size: 51, 11
+  orig: 91, 23
+  offset: 23, 12
+  index: -1
+dragon_woods_adult_neck
+  rotate: true
+  xy: 1139, 270
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+dragon_love_effect_twinkling2
+  rotate: false
+  xy: 466, 273
+  size: 99, 100
+  orig: 225, 224
+  offset: 63, 64
+  index: -1
+dragon_woods_baby_tail
+  rotate: true
+  xy: 1191, 393
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+dragon_woods_adult_body
+  rotate: false
+  xy: 1077, 201
+  size: 50, 68
+  orig: 50, 68
+  offset: 0, 0
+  index: -1
+dragon_woods_child_wing3light
+  rotate: true
+  xy: 926, 395
+  size: 23, 8
+  orig: 45, 14
+  offset: 10, 6
+  index: -1
+dragon_woods_adult_wing1light
+  rotate: false
+  xy: 1065, 353
+  size: 43, 37
+  orig: 77, 77
+  offset: 18, 24
+  index: -1
+dragon_woods_adult_arm3
+  rotate: false
+  xy: 1222, 192
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+dragon_woods_child_body
+  rotate: true
+  xy: 961, 246
+  size: 53, 77
+  orig: 53, 77
+  offset: 0, 0
+  index: -1
+dragon_woods_child_smile
+  rotate: false
+  xy: 1129, 192
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_woods_child_arm1light
+  rotate: false
+  xy: 1226, 40
+  size: 20, 23
+  orig: 32, 41
+  offset: 2, 16
+  index: -1
+dragon_woods_child_eye
+  rotate: false
+  xy: 1230, 342
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+dragon_woods_child_wing1light
+  rotate: false
+  xy: 878, 395
+  size: 25, 27
+  orig: 49, 59
+  offset: 14, 14
+  index: -1
+dragon_woods_child_leg3
+  rotate: true
+  xy: 1212, 300
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+dragon_woods_adult_wing4
+  rotate: false
+  xy: 769, 395
+  size: 74, 22
+  orig: 74, 22
+  offset: 0, 0
+  index: -1
+dragon_woods_adult_arm1light
+  rotate: true
+  xy: 1221, 113
+  size: 24, 25
+  orig: 28, 41
+  offset: 4, 13
+  index: -1
+dragon_woods_child_taillight
+  rotate: false
+  xy: 1077, 271
+  size: 60, 37
+  orig: 86, 41
+  offset: 20, 0
+  index: -1
+dragon_woods_child_head1light
+  rotate: false
+  xy: 1176, 300
+  size: 34, 32
+  orig: 62, 56
+  offset: 0, 19
+  index: -1
+dragon_woods_adult_leg2
+  rotate: true
+  xy: 1226, 65
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+dragon_woods_child_arm1
+  rotate: true
+  xy: 1226, 271
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+dragon_woods_adult_atk2
+  rotate: true
+  xy: 567, 273
+  size: 91, 103
+  orig: 213, 263
+  offset: 38, 43
+  index: -1
+dragon_woods_adult_arm4
+  rotate: true
+  xy: 1091, 394
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+dragon_woods_adult_a1
+  rotate: false
+  xy: 466, 2
+  size: 269, 269
+  orig: 269, 269
+  offset: 0, 0
+  index: -1
+dragon_woods_child_arm2
+  rotate: false
+  xy: 1221, 139
+  size: 25, 19
+  orig: 25, 23
+  offset: 0, 4
+  index: -1
+dragon_woods_adult_head
+  rotate: false
+  xy: 1110, 353
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+dragon_woods_baby_bodylight
+  rotate: false
+  xy: 1236, 324
+  size: 10, 13
+  orig: 44, 41
+  offset: 34, 15
+  index: -1
+dragon_woods_adult_mouth
+  rotate: false
+  xy: 1208, 368
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+dragon_woods_child_wing3
+  rotate: false
+  xy: 1129, 254
+  size: 45, 14
+  orig: 45, 14
+  offset: 0, 0
+  index: -1
+dragon_woods_adult_headlight
+  rotate: false
+  xy: 845, 395
+  size: 31, 27
+  orig: 37, 39
+  offset: 6, 12
+  index: -1
+dragon_woods_adult_wing3
+  rotate: true
+  xy: 936, 228
+  size: 91, 23
+  orig: 91, 23
+  offset: 0, 0
+  index: -1
+dragon_woods_adult_arm1
+  rotate: false
+  xy: 1111, 310
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+dragon_woods_baby_eye
+  rotate: false
+  xy: 1226, 88
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_woods_baby_taillight
+  rotate: true
+  xy: 1208, 166
+  size: 24, 19
+  orig: 26, 23
+  offset: 1, 0
+  index: -1
+dragon_woods_adult_wing4light
+  rotate: true
+  xy: 1226, 231
+  size: 38, 16
+  orig: 74, 22
+  offset: 22, 5
+  index: -1
+dragon_woods_baby_leg1
+  rotate: true
+  xy: 1177, 368
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+dragon_woods_child_head2
+  rotate: false
+  xy: 590, 366
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+dragon_woods_adult_leg3
+  rotate: false
+  xy: 1176, 254
+  size: 17, 44
+  orig: 17, 44
+  offset: 0, 0
+  index: -1
+dragon_woods_adult_atk3
+  rotate: false
+  xy: 962, 2
+  size: 165, 197
+  orig: 213, 263
+  offset: 17, 26
+  index: -1
+dragon_woods_adult_tail
+  rotate: false
+  xy: 962, 201
+  size: 113, 43
+  orig: 113, 43
+  offset: 0, 0
+  index: -1
+dragon_woods_baby_body
+  rotate: false
+  xy: 1065, 310
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+dragon_woods_adult_arm5
+  rotate: false
+  xy: 1195, 275
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+dragon_woods_adult_wing2light
+  rotate: false
+  xy: 718, 395
+  size: 49, 27
+  orig: 91, 57
+  offset: 25, 21
+  index: -1
+dragon_woods_child_wing2
+  rotate: true
+  xy: 1040, 246
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+dragon_woods_child_mouth
+  rotate: true
+  xy: 1063, 392
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+dragon_woods_child_arm3
+  rotate: false
+  xy: 1141, 309
+  size: 32, 39
+  orig: 32, 41
+  offset: 0, 2
+  index: -1
+dragon_woods_adult_wing2
+  rotate: true
+  xy: 672, 273
+  size: 91, 57
+  orig: 91, 57
+  offset: 0, 0
+  index: -1
+dragon_woods_child_wing2light
+  rotate: true
+  xy: 1229, 160
+  size: 30, 17
+  orig: 54, 35
+  offset: 14, 9
+  index: -1
+dragon_woods_baby_head1
+  rotate: false
+  xy: 528, 375
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+dragon_woods_child_neck
+  rotate: true
+  xy: 1014, 388
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+dragon_woods_baby_mouth
+  rotate: true
+  xy: 1149, 350
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+dragon_woods_baby_arm1
+  rotate: true
+  xy: 936, 402
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+dragon_woods_adult_eye
+  rotate: false
+  xy: 1226, 287
+  size: 10, 11
+  orig: 20, 19
+  offset: 5, 4
+  index: -1
+dragon_woods_baby_leg2
+  rotate: false
+  xy: 718, 366
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+dragon_woods_adult_leg4
+  rotate: false
+  xy: 1177, 334
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dragon_woods_adult_atk4
+  rotate: false
+  xy: 1129, 2
+  size: 95, 109
+  orig: 213, 263
+  offset: 82, 31
+  index: -1
+dragon_love_effect_twinkling1
+  rotate: false
+  xy: 737, 2
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+dragon_woods_child_head1
+  rotate: false
+  xy: 654, 366
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1

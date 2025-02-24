@@ -1,0 +1,186 @@
+124_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_bluelightning_arm1
+  rotate: false
+  xy: 389, 2
+  size: 100, 263
+  orig: 102, 263
+  offset: 1, 0
+  index: -1
+m_bluelightning_groggy_arm2
+  rotate: true
+  xy: 433, 784
+  size: 41, 18
+  orig: 101, 248
+  offset: 50, 182
+  index: -1
+m_bluelightning_tail
+  rotate: false
+  xy: 2, 880
+  size: 333, 189
+  orig: 335, 189
+  offset: 2, 0
+  index: -1
+m_bluelightning_wing1
+  rotate: true
+  xy: 2, 2
+  size: 225, 385
+  orig: 233, 391
+  offset: 6, 2
+  index: -1
+m_bluelightning_arm1_light
+  rotate: true
+  xy: 359, 837
+  size: 62, 83
+  orig: 102, 263
+  offset: 33, 18
+  index: -1
+m_bluelightning_body
+  rotate: true
+  xy: 337, 901
+  size: 189, 162
+  orig: 191, 162
+  offset: 2, 0
+  index: -1
+m_bluelightning_eye
+  rotate: false
+  xy: 315, 800
+  size: 48, 31
+  orig: 146, 155
+  offset: 56, 41
+  index: -1
+m_bluelightning_arm2
+  rotate: false
+  xy: 389, 267
+  size: 97, 248
+  orig: 101, 248
+  offset: 3, 0
+  index: -1
+m_bluelightning_tail_light
+  rotate: true
+  xy: 463, 663
+  size: 81, 37
+  orig: 335, 189
+  offset: 201, 39
+  index: -1
+m_bluelightning_groggy_neck
+  rotate: false
+  xy: 2, 1266
+  size: 197, 186
+  orig: 197, 186
+  offset: 0, 0
+  index: -1
+m_bluelightning_neck
+  rotate: true
+  xy: 316, 1092
+  size: 197, 186
+  orig: 197, 186
+  offset: 0, 0
+  index: -1
+m_bluelightning_wing2
+  rotate: false
+  xy: 2, 456
+  size: 311, 211
+  orig: 311, 213
+  offset: 0, 0
+  index: -1
+m_bluelightning_leg_light
+  rotate: true
+  xy: 315, 456
+  size: 250, 67
+  orig: 314, 193
+  offset: 39, 13
+  index: -1
+m_bluelightning_groggy_head
+  rotate: false
+  xy: 339, 1291
+  size: 136, 141
+  orig: 146, 155
+  offset: 10, 12
+  index: -1
+m_bluelightning_body2
+  rotate: true
+  xy: 384, 517
+  size: 144, 116
+  orig: 144, 116
+  offset: 0, 0
+  index: -1
+m_bluelightning_groggy_leg
+  rotate: false
+  xy: 453, 807
+  size: 46, 69
+  orig: 314, 193
+  offset: 224, 64
+  index: -1
+m_bluelightning_mouse
+  rotate: true
+  xy: 384, 663
+  size: 76, 77
+  orig: 146, 155
+  offset: 52, 0
+  index: -1
+m_bluelightning_arm2_light
+  rotate: false
+  xy: 376, 741
+  size: 55, 94
+  orig: 101, 248
+  offset: 28, 21
+  index: -1
+m_bluelightning_groggy_wing2
+  rotate: false
+  xy: 2, 669
+  size: 311, 209
+  orig: 311, 213
+  offset: 0, 1
+  index: -1
+m_bluelightning_groggy_arm1
+  rotate: false
+  xy: 433, 741
+  size: 26, 41
+  orig: 102, 263
+  offset: 45, 119
+  index: -1
+m_bluelightning_leg
+  rotate: false
+  xy: 2, 1071
+  size: 312, 193
+  orig: 314, 193
+  offset: 2, 0
+  index: -1
+m_bluelightning_groggy_eye
+  rotate: false
+  xy: 315, 833
+  size: 42, 29
+  orig: 146, 155
+  offset: 66, 39
+  index: -1
+m_bluelightning_groggy_wing1
+  rotate: true
+  xy: 2, 229
+  size: 225, 385
+  orig: 233, 391
+  offset: 6, 2
+  index: -1
+m_bluelightning_head_light
+  rotate: true
+  xy: 315, 708
+  size: 90, 59
+  orig: 146, 155
+  offset: 8, 80
+  index: -1
+m_bluelightning_head
+  rotate: false
+  xy: 201, 1291
+  size: 136, 143
+  orig: 146, 155
+  offset: 10, 11
+  index: -1
+m_bluelightning_groggy_body
+  rotate: true
+  xy: 461, 746
+  size: 59, 36
+  orig: 191, 162
+  offset: 50, 9
+  index: -1

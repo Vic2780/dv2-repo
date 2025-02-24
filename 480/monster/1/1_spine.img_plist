@@ -1,0 +1,74 @@
+1_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_cforest_hair
+  rotate: false
+  xy: 158, 750
+  size: 78, 48
+  orig: 92, 56
+  offset: 4, 3
+  index: -1
+m_cforest_eye
+  rotate: false
+  xy: 2, 668
+  size: 235, 80
+  orig: 263, 100
+  offset: 14, 11
+  index: -1
+m_cforest_groggyleaf1
+  rotate: false
+  xy: 80, 750
+  size: 76, 51
+  orig: 94, 73
+  offset: 8, 9
+  index: -1
+m_cforest_leaf2
+  rotate: false
+  xy: 80, 803
+  size: 75, 47
+  orig: 87, 59
+  offset: 3, 6
+  index: -1
+m_cforest_body
+  rotate: true
+  xy: 2, 284
+  size: 280, 271
+  orig: 336, 299
+  offset: 23, 17
+  index: -1
+m_cforest_groggybody
+  rotate: true
+  xy: 2, 2
+  size: 280, 273
+  orig: 336, 299
+  offset: 23, 15
+  index: -1
+m_cforest_groggyleaf2
+  rotate: false
+  xy: 2, 803
+  size: 76, 47
+  orig: 88, 63
+  offset: 7, 4
+  index: -1
+m_cforest_groggyeye
+  rotate: false
+  xy: 2, 566
+  size: 245, 100
+  orig: 263, 100
+  offset: 9, 0
+  index: -1
+m_cforest_gorggyhair
+  rotate: false
+  xy: 158, 800
+  size: 78, 48
+  orig: 92, 56
+  offset: 4, 3
+  index: -1
+m_cforest_leaf1
+  rotate: false
+  xy: 2, 750
+  size: 76, 51
+  orig: 94, 73
+  offset: 8, 9
+  index: -1

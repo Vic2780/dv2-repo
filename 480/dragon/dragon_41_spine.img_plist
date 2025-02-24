@@ -1,0 +1,312 @@
+dragon_41_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_41_critical03
+  rotate: false
+  xy: 970, 2
+  size: 63, 64
+  orig: 91, 92
+  offset: 12, 15
+  index: -1
+dragon_gold_baby_tail
+  rotate: true
+  xy: 1065, 73
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+dragon_gold_adult_leg2
+  rotate: false
+  xy: 166, 104
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+dragon_gold_adult_head
+  rotate: false
+  xy: 701, 84
+  size: 59, 38
+  orig: 59, 38
+  offset: 0, 0
+  index: -1
+dragon_gold_child_eye
+  rotate: false
+  xy: 38, 111
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+dragon_gold_adult_love
+  rotate: false
+  xy: 572, 87
+  size: 59, 38
+  orig: 59, 38
+  offset: 0, 0
+  index: -1
+dragon_gold_child_leg2
+  rotate: false
+  xy: 361, 100
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+dragon_41_critical01
+  rotate: true
+  xy: 477, 2
+  size: 83, 77
+  orig: 119, 119
+  offset: 17, 22
+  index: -1
+dragon_gold_adult_damaged
+  rotate: false
+  xy: 796, 82
+  size: 59, 38
+  orig: 59, 38
+  offset: 0, 0
+  index: -1
+dragon_gold_child_body
+  rotate: true
+  xy: 626, 2
+  size: 80, 74
+  orig: 80, 74
+  offset: 0, 0
+  index: -1
+dragon_gold_child_love
+  rotate: true
+  xy: 702, 2
+  size: 78, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1
+dragon_gold_child_wing
+  rotate: true
+  xy: 322, 2
+  size: 96, 68
+  orig: 96, 68
+  offset: 0, 0
+  index: -1
+dragon_gold_adult_arm1
+  rotate: true
+  xy: 401, 89
+  size: 35, 75
+  orig: 35, 75
+  offset: 0, 0
+  index: -1
+dragon_41_critical04
+  rotate: false
+  xy: 1000, 68
+  size: 63, 56
+  orig: 91, 92
+  offset: 9, 23
+  index: -1
+dragon_gold_adult_wing1
+  rotate: false
+  xy: 169, 2
+  size: 151, 98
+  orig: 151, 98
+  offset: 0, 0
+  index: -1
+dragon_gold_adult_leg4
+  rotate: false
+  xy: 279, 102
+  size: 44, 19
+  orig: 44, 19
+  offset: 0, 0
+  index: -1
+dragon_gold_adult_body
+  rotate: true
+  xy: 2, 2
+  size: 107, 87
+  orig: 107, 87
+  offset: 0, 0
+  index: -1
+dragon_gold_adult_leg1
+  rotate: false
+  xy: 934, 2
+  size: 34, 69
+  orig: 34, 69
+  offset: 0, 0
+  index: -1
+dragon_gold_adult_arm3
+  rotate: false
+  xy: 325, 100
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+dragon_gold_baby_leg
+  rotate: true
+  xy: 207, 102
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+dragon_gold_child_tail
+  rotate: false
+  xy: 556, 2
+  size: 68, 83
+  orig: 68, 83
+  offset: 0, 0
+  index: -1
+dragon_gold_baby_mouth
+  rotate: false
+  xy: 120, 104
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+dragon_gold_adult_attack
+  rotate: true
+  xy: 1035, 2
+  size: 59, 38
+  orig: 59, 38
+  offset: 0, 0
+  index: -1
+dragon_gold_baby_arm
+  rotate: true
+  xy: 1065, 109
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+dragon_gold_adult_leg3
+  rotate: true
+  xy: 91, 104
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+dragon_gold_child_head
+  rotate: true
+  xy: 757, 2
+  size: 78, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1
+dragon_41_critical02
+  rotate: true
+  xy: 392, 2
+  size: 85, 83
+  orig: 119, 119
+  offset: 16, 19
+  index: -1
+dragon_gold_adult_eye
+  rotate: true
+  xy: 59, 111
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+dragon_gold_child_neck
+  rotate: false
+  xy: 960, 73
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+dragon_gold_adult_tail
+  rotate: true
+  xy: 91, 2
+  size: 100, 76
+  orig: 100, 76
+  offset: 0, 0
+  index: -1
+dragon_gold_child_arm1
+  rotate: false
+  xy: 929, 76
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+dragon_gold_adult_neck
+  rotate: true
+  xy: 857, 76
+  size: 50, 70
+  orig: 50, 70
+  offset: 0, 0
+  index: -1
+dragon_gold_child_note1
+  rotate: false
+  xy: 1075, 2
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_gold_baby_love
+  rotate: true
+  xy: 812, 2
+  size: 72, 59
+  orig: 72, 59
+  offset: 0, 0
+  index: -1
+dragon_gold_adult_mouth
+  rotate: false
+  xy: 2, 111
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+dragon_gold_baby_eye
+  rotate: true
+  xy: 683, 84
+  size: 41, 16
+  orig: 41, 16
+  offset: 0, 0
+  index: -1
+dragon_gold_child_leg1
+  rotate: false
+  xy: 526, 87
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+dragon_gold_baby_effect
+  rotate: false
+  xy: 478, 87
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_gold_child_mouth
+  rotate: false
+  xy: 232, 102
+  size: 45, 19
+  orig: 45, 19
+  offset: 0, 0
+  index: -1
+dragon_gold_adult_arm2
+  rotate: true
+  xy: 762, 82
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+dragon_gold_baby_body
+  rotate: true
+  xy: 633, 84
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+dragon_gold_adult_coin
+  rotate: false
+  xy: 66, 111
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+dragon_gold_baby_head
+  rotate: true
+  xy: 873, 2
+  size: 72, 59
+  orig: 72, 59
+  offset: 0, 0
+  index: -1
+dragon_gold_child_arm2
+  rotate: false
+  xy: 1075, 42
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1

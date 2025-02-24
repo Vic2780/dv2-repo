@@ -1,0 +1,564 @@
+dragon_3023_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_raydragon_child_neck
+  rotate: true
+  xy: 1975, 184
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+dragon_raydragon_child_wing2
+  rotate: true
+  xy: 613, 284
+  size: 71, 86
+  orig: 71, 86
+  offset: 0, 0
+  index: -1
+dragon_raydragon_child_necklight
+  rotate: true
+  xy: 1008, 346
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+dragon_raydragon_adult_tail
+  rotate: false
+  xy: 744, 240
+  size: 167, 59
+  orig: 167, 59
+  offset: 0, 0
+  index: -1
+dragon_raydragon_adult_eye1
+  rotate: false
+  xy: 1399, 367
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+dragon_raydragon_baby_burn
+  rotate: false
+  xy: 1384, 190
+  size: 92, 93
+  orig: 92, 93
+  offset: 0, 0
+  index: -1
+dragon_raydragon_adult_leg5
+  rotate: false
+  xy: 729, 359
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+dragon_raydragon_adult_wing1
+  rotate: false
+  xy: 1854, 233
+  size: 110, 101
+  orig: 110, 101
+  offset: 0, 0
+  index: -1
+dragon_raydragon_child_eye1
+  rotate: false
+  xy: 1090, 366
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+dragon_raydragon_baby_eye1
+  rotate: false
+  xy: 1160, 353
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+dragon_raydragon_adult_ball
+  rotate: false
+  xy: 1966, 281
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+dragon_raydragon_child_shoot
+  rotate: false
+  xy: 2031, 129
+  size: 5, 32
+  orig: 5, 32
+  offset: 0, 0
+  index: -1
+dragon_raydragon_adult_wing2light
+  rotate: true
+  xy: 1830, 336
+  size: 35, 79
+  orig: 35, 79
+  offset: 0, 0
+  index: -1
+dragon_raydragon_critical_th2
+  rotate: false
+  xy: 250, 316
+  size: 243, 42
+  orig: 243, 42
+  offset: 0, 0
+  index: -1
+dragon_raydragon_adult_leg1
+  rotate: false
+  xy: 2013, 281
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+dragon_raydragon_child_leg4
+  rotate: true
+  xy: 922, 351
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+dragon_raydragon_child_eye2
+  rotate: false
+  xy: 1072, 366
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+dragon_raydragon_child_head
+  rotate: true
+  xy: 1026, 298
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+dragon_raydragon_child_leg7
+  rotate: false
+  xy: 330, 360
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+dragon_raydragon_baby_eye5
+  rotate: false
+  xy: 667, 357
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_raydragon_critical_da1
+  rotate: false
+  xy: 1478, 2
+  size: 249, 248
+  orig: 249, 248
+  offset: 0, 0
+  index: -1
+dragon_raydragon_adult_eye2
+  rotate: false
+  xy: 1384, 367
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+dragon_raydragon_adult_wing1light
+  rotate: true
+  xy: 1740, 336
+  size: 37, 88
+  orig: 37, 88
+  offset: 0, 0
+  index: -1
+dragon_raydragon_adult_mouse
+  rotate: true
+  xy: 810, 359
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+dragon_raydragon_baby_leg1
+  rotate: true
+  xy: 590, 357
+  size: 20, 43
+  orig: 20, 43
+  offset: 0, 0
+  index: -1
+dragon_raydragon_child_wing2light
+  rotate: true
+  xy: 879, 351
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+dragon_raydragon_adult_wing3light
+  rotate: true
+  xy: 913, 216
+  size: 80, 158
+  orig: 80, 158
+  offset: 0, 0
+  index: -1
+dragon_raydragon_adult_leg2
+  rotate: true
+  xy: 495, 350
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: -1
+dragon_raydragon_baby_headlight
+  rotate: false
+  xy: 1966, 233
+  size: 57, 46
+  orig: 57, 46
+  offset: 0, 0
+  index: -1
+dragon_raydragon_adult_ef1
+  rotate: false
+  xy: 1189, 2
+  size: 287, 186
+  orig: 287, 186
+  offset: 0, 0
+  index: -1
+dragon_raydragon_child_fire3
+  rotate: true
+  xy: 1073, 216
+  size: 112, 113
+  orig: 118, 119
+  offset: 2, 3
+  index: -1
+dragon_raydragon_child_wing1
+  rotate: true
+  xy: 1384, 285
+  size: 80, 98
+  orig: 80, 98
+  offset: 0, 0
+  index: -1
+dragon_raydragon_baby_eye2
+  rotate: true
+  xy: 789, 359
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+dragon_raydragon_critical_th1
+  rotate: false
+  xy: 1729, 191
+  size: 244, 40
+  orig: 244, 40
+  offset: 0, 0
+  index: -1
+dragon_raydragon_child_wing1light
+  rotate: true
+  xy: 1988, 328
+  size: 23, 50
+  orig: 23, 50
+  offset: 0, 0
+  index: -1
+dragon_raydragon_adult_armor
+  rotate: false
+  xy: 988, 298
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+dragon_raydragon_child_leg5
+  rotate: false
+  xy: 428, 360
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+dragon_raydragon_child_eye3
+  rotate: false
+  xy: 590, 350
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+dragon_raydragon_adult_armorlight
+  rotate: true
+  xy: 1988, 353
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+dragon_raydragon_critical_da4
+  rotate: true
+  xy: 2, 2
+  size: 312, 492
+  orig: 312, 492
+  offset: 0, 0
+  index: -1
+dragon_raydragon_adult_eye3
+  rotate: true
+  xy: 2030, 353
+  size: 9, 8
+  orig: 13, 10
+  offset: 3, 0
+  index: -1
+dragon_raydragon_critical_th5
+  rotate: false
+  xy: 1729, 106
+  size: 242, 83
+  orig: 242, 83
+  offset: 0, 0
+  index: -1
+dragon_raydragon_adult_wing3
+  rotate: true
+  xy: 1484, 252
+  size: 119, 140
+  orig: 119, 140
+  offset: 0, 0
+  index: -1
+dragon_raydragon_child_fire2
+  rotate: false
+  xy: 1626, 252
+  size: 112, 113
+  orig: 118, 119
+  offset: 3, 3
+  index: -1
+dragon_raydragon_child_leg1
+  rotate: true
+  xy: 1138, 330
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+dragon_raydragon_child_headlight
+  rotate: false
+  xy: 827, 351
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+dragon_raydragon_baby_leg2
+  rotate: true
+  xy: 635, 357
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+dragon_raydragon_child_mouse
+  rotate: true
+  xy: 2025, 233
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+dragon_raydragon_adult_leg3
+  rotate: false
+  xy: 689, 359
+  size: 38, 18
+  orig: 38, 18
+  offset: 0, 0
+  index: -1
+dragon_raydragon_child_leg2
+  rotate: true
+  xy: 250, 360
+  size: 17, 41
+  orig: 17, 41
+  offset: 0, 0
+  index: -1
+dragon_raydragon_adult_leg6
+  rotate: false
+  xy: 1965, 336
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+dragon_raydragon_baby_eye3
+  rotate: false
+  xy: 1414, 367
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dragon_raydragon_adult_eye4
+  rotate: false
+  xy: 1108, 366
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+dragon_raydragon_child_armorlight
+  rotate: false
+  xy: 1108, 330
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+dragon_raydragon_critical_th4
+  rotate: false
+  xy: 2, 316
+  size: 246, 57
+  orig: 246, 57
+  offset: 0, 0
+  index: -1
+dragon_raydragon_adult_necklight
+  rotate: false
+  xy: 701, 284
+  size: 39, 67
+  orig: 39, 83
+  offset: 0, 16
+  index: -1
+dragon_raydragon_adult_wing2
+  rotate: false
+  xy: 1740, 233
+  size: 112, 101
+  orig: 112, 101
+  offset: 0, 0
+  index: -1
+dragon_raydragon_adult_neck
+  rotate: true
+  xy: 827, 301
+  size: 48, 81
+  orig: 48, 81
+  offset: 0, 0
+  index: -1
+dragon_raydragon_adult_body
+  rotate: false
+  xy: 496, 284
+  size: 115, 64
+  orig: 115, 64
+  offset: 0, 0
+  index: -1
+dragon_raydragon_critical_da3
+  rotate: true
+  xy: 912, 2
+  size: 212, 275
+  orig: 212, 275
+  offset: 0, 0
+  index: -1
+dragon_raydragon_adult_head
+  rotate: false
+  xy: 962, 346
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+dragon_raydragon_adult_leg4
+  rotate: true
+  xy: 546, 350
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+dragon_raydragon_baby_head
+  rotate: false
+  xy: 1973, 129
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+dragon_raydragon_critical_th6
+  rotate: false
+  xy: 1729, 2
+  size: 245, 102
+  orig: 245, 102
+  offset: 0, 0
+  index: -1
+dragon_raydragon_child_armor
+  rotate: false
+  xy: 910, 301
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+dragon_raydragon_baby_leg3
+  rotate: true
+  xy: 397, 360
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+dragon_raydragon_child_body
+  rotate: false
+  xy: 742, 301
+  size: 83, 56
+  orig: 83, 56
+  offset: 0, 0
+  index: -1
+dragon_raydragon_baby_boom
+  rotate: false
+  xy: 1189, 190
+  size: 193, 187
+  orig: 203, 203
+  offset: 4, 8
+  index: -1
+dragon_raydragon_child_leg3
+  rotate: false
+  xy: 761, 359
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+dragon_raydragon_baby_tail
+  rotate: false
+  xy: 946, 298
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+dragon_raydragon_child_tail
+  rotate: false
+  xy: 1976, 2
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1
+dragon_raydragon_adult_leg7
+  rotate: false
+  xy: 293, 360
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+dragon_raydragon_child_fire1
+  rotate: false
+  xy: 1072, 330
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+dragon_raydragon_child_leg6
+  rotate: true
+  xy: 358, 360
+  size: 14, 37
+  orig: 14, 37
+  offset: 0, 0
+  index: -1
+dragon_raydragon_baby_eye4
+  rotate: false
+  xy: 1138, 353
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_raydragon_adult_headlight
+  rotate: false
+  xy: 1911, 336
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+dragon_raydragon_baby_body
+  rotate: false
+  xy: 1976, 69
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+dragon_raydragon_critical_da2
+  rotate: true
+  xy: 496, 2
+  size: 236, 414
+  orig: 236, 414
+  offset: 0, 0
+  index: -1
+dragon_raydragon_baby_mouse
+  rotate: true
+  xy: 1048, 346
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+dragon_raydragon_critical_th3
+  rotate: false
+  xy: 496, 240
+  size: 246, 42
+  orig: 246, 42
+  offset: 0, 0
+  index: -1

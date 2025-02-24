@@ -1,0 +1,151 @@
+nuri_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+critical_nuri_head
+  rotate: true
+  xy: 2, 2
+  size: 87, 85
+  orig: 87, 85
+  offset: 0, 0
+  index: -1
+critical_nuri_leg2
+  rotate: true
+  xy: 49, 269
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+critical_nuri_hair22
+  rotate: false
+  xy: 61, 209
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+critical_nuri_neck
+  rotate: false
+  xy: 48, 317
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+critical_nuri_golban1
+  rotate: true
+  xy: 61, 91
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+critical_nuri_body2
+  rotate: false
+  xy: 21, 332
+  size: 27, 25
+  orig: 31, 29
+  offset: 4, 2
+  index: -1
+critical_nuri_closeeye
+  rotate: false
+  xy: 2, 240
+  size: 53, 21
+  orig: 87, 85
+  offset: 17, 21
+  index: -1
+critical_nuri_eyebriw
+  rotate: false
+  xy: 2, 296
+  size: 41, 7
+  orig: 87, 85
+  offset: 19, 48
+  index: -1
+critical_nuri_arm1
+  rotate: true
+  xy: 50, 329
+  size: 23, 18
+  orig: 23, 22
+  offset: 0, 4
+  index: -1
+critical_nuri_huri
+  rotate: true
+  xy: 27, 305
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+critical_nuri_golban2
+  rotate: false
+  xy: 49, 291
+  size: 32, 24
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+critical_nuri_mouth
+  rotate: true
+  xy: 83, 291
+  size: 8, 3
+  orig: 8, 3
+  offset: 0, 0
+  index: -1
+critical_nuri_body1
+  rotate: false
+  xy: 2, 317
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1
+critical_nuri_hand
+  rotate: false
+  xy: 70, 342
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+critical_nuri_arm2
+  rotate: false
+  xy: 61, 125
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+critical_nuri_body22
+  rotate: true
+  xy: 57, 240
+  size: 27, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+critical_nuri_hair
+  rotate: false
+  xy: 2, 91
+  size: 57, 147
+  orig: 57, 147
+  offset: 0, 0
+  index: -1
+critical_nuri_eye
+  rotate: true
+  xy: 61, 152
+  size: 55, 25
+  orig: 87, 85
+  offset: 16, 19
+  index: -1
+critical_nuri_leg1
+  rotate: true
+  xy: 2, 263
+  size: 31, 45
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+critical_nuri_arm3
+  rotate: true
+  xy: 70, 317
+  size: 23, 16
+  orig: 23, 20
+  offset: 0, 3
+  index: -1
+critical_nuri_foot
+  rotate: false
+  xy: 2, 305
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1

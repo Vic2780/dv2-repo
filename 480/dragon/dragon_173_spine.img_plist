@@ -1,0 +1,550 @@
+dragon_173_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_tartaros_baby_eye2
+  rotate: false
+  xy: 1373, 194
+  size: 28, 23
+  orig: 32, 27
+  offset: 3, 3
+  index: -1
+dragon_tartaros_child_fire5
+  rotate: true
+  xy: 1113, 135
+  size: 43, 56
+  orig: 47, 56
+  offset: 2, 0
+  index: -1
+dragon_tartaros_critical_e04
+  rotate: true
+  xy: 630, 2
+  size: 76, 143
+  orig: 100, 143
+  offset: 10, 0
+  index: -1
+dragon_tartaros_child_arm5
+  rotate: true
+  xy: 1403, 195
+  size: 24, 27
+  orig: 26, 29
+  offset: 1, 2
+  index: -1
+dragon_tartaros_adult_fire3
+  rotate: true
+  xy: 916, 130
+  size: 48, 63
+  orig: 50, 63
+  offset: 2, 0
+  index: -1
+dragon_tartaros_child_neck
+  rotate: true
+  xy: 298, 152
+  size: 66, 54
+  orig: 68, 64
+  offset: 0, 8
+  index: -1
+dragon_tartaros_baby_arm2
+  rotate: false
+  xy: 1466, 59
+  size: 22, 25
+  orig: 28, 31
+  offset: 3, 3
+  index: -1
+dragon_tartaros_adult_body
+  rotate: false
+  xy: 775, 2
+  size: 147, 65
+  orig: 155, 73
+  offset: 5, 7
+  index: -1
+dragon_tartaros_child_arm1
+  rotate: true
+  xy: 659, 183
+  size: 42, 58
+  orig: 44, 62
+  offset: 1, 3
+  index: -1
+dragon_tartaros_adult_leg1
+  rotate: true
+  xy: 981, 78
+  size: 48, 63
+  orig: 50, 65
+  offset: 1, 2
+  index: -1
+dragon_tartaros_adult_fire7
+  rotate: true
+  xy: 1171, 135
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+dragon_tartaros_baby_head
+  rotate: false
+  xy: 1113, 90
+  size: 63, 43
+  orig: 65, 49
+  offset: 1, 4
+  index: -1
+dragon_tartaros_baby_eye1
+  rotate: false
+  xy: 1289, 206
+  size: 24, 19
+  orig: 32, 27
+  offset: 2, 6
+  index: -1
+dragon_tartaros_baby_wing2
+  rotate: false
+  xy: 1289, 181
+  size: 48, 23
+  orig: 54, 29
+  offset: 3, 3
+  index: -1
+dragon_tartaros_child_fire4
+  rotate: true
+  xy: 974, 180
+  size: 45, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+dragon_tartaros_child_arm4
+  rotate: true
+  xy: 588, 140
+  size: 28, 56
+  orig: 32, 60
+  offset: 0, 2
+  index: -1
+dragon_tartaros_child_leg3
+  rotate: true
+  xy: 1408, 164
+  size: 29, 30
+  orig: 33, 32
+  offset: 3, 1
+  index: -1
+dragon_tartaros_adult_leg4
+  rotate: false
+  xy: 1400, 132
+  size: 39, 30
+  orig: 41, 32
+  offset: 0, 1
+  index: -1
+dragon_tartaros_adult_arm3
+  rotate: false
+  xy: 1440, 164
+  size: 30, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+dragon_tartaros_adult_fire2
+  rotate: true
+  xy: 916, 78
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+dragon_tartaros_baby_question
+  rotate: true
+  xy: 1046, 90
+  size: 35, 65
+  orig: 39, 67
+  offset: 2, 2
+  index: -1
+dragon_tartaros_baby_arm1
+  rotate: true
+  xy: 1255, 134
+  size: 34, 32
+  orig: 38, 38
+  offset: 1, 3
+  index: -1
+dragon_tartaros_critical_e05
+  rotate: true
+  xy: 1061, 2
+  size: 86, 133
+  orig: 100, 143
+  offset: 4, 0
+  index: -1
+dragon_tartaros_child_jaw
+  rotate: true
+  xy: 1032, 180
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+dragon_tartaros_adult_arm6
+  rotate: true
+  xy: 1222, 135
+  size: 34, 31
+  orig: 46, 39
+  offset: 5, 6
+  index: -1
+dragon_tartaros_adult_eye3
+  rotate: false
+  xy: 902, 189
+  size: 12, 12
+  orig: 14, 14
+  offset: 1, 2
+  index: -1
+dragon_tartaros_adult_fire6
+  rotate: false
+  xy: 1397, 81
+  size: 48, 49
+  orig: 50, 49
+  offset: 1, 0
+  index: -1
+dragon_tartaros_child_wing2
+  rotate: false
+  xy: 1196, 81
+  size: 57, 52
+  orig: 59, 56
+  offset: 2, 2
+  index: -1
+dragon_tartaros_child_eye2
+  rotate: false
+  xy: 1466, 31
+  size: 22, 26
+  orig: 26, 28
+  offset: 0, 2
+  index: -1
+dragon_tartaros_child_heart
+  rotate: false
+  xy: 1136, 180
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_tartaros_baby_fire3
+  rotate: false
+  xy: 659, 140
+  size: 52, 41
+  orig: 56, 49
+  offset: 0, 3
+  index: -1
+dragon_tartaros_critical_e01
+  rotate: true
+  xy: 498, 2
+  size: 126, 130
+  orig: 176, 170
+  offset: 19, 17
+  index: -1
+dragon_tartaros_child_leg2
+  rotate: false
+  xy: 1262, 170
+  size: 25, 39
+  orig: 29, 39
+  offset: 2, 0
+  index: -1
+dragon_tartaros_adult_arm2
+  rotate: true
+  xy: 1342, 137
+  size: 25, 56
+  orig: 29, 62
+  offset: 2, 3
+  index: -1
+dragon_tartaros_adult_fire1
+  rotate: true
+  xy: 851, 141
+  size: 46, 63
+  orig: 50, 63
+  offset: 4, 0
+  index: -1
+dragon_tartaros_baby_leg2
+  rotate: true
+  xy: 1315, 206
+  size: 18, 25
+  orig: 22, 29
+  offset: 1, 2
+  index: -1
+dragon_tartaros_critical_e06
+  rotate: true
+  xy: 924, 2
+  size: 74, 135
+  orig: 100, 143
+  offset: 12, 0
+  index: -1
+dragon_tartaros_adult_head
+  rotate: false
+  xy: 1078, 182
+  size: 56, 43
+  orig: 60, 45
+  offset: 3, 2
+  index: -1
+dragon_tartaros_child_arm3
+  rotate: true
+  xy: 1376, 164
+  size: 28, 30
+  orig: 32, 32
+  offset: 1, 0
+  index: -1
+dragon_tartaros_baby_jaw
+  rotate: true
+  xy: 719, 170
+  size: 55, 26
+  orig: 59, 34
+  offset: 3, 5
+  index: -1
+dragon_tartaros_baby_body
+  rotate: false
+  xy: 588, 170
+  size: 69, 55
+  orig: 71, 57
+  offset: 1, 1
+  index: -1
+dragon_tartaros_child_body
+  rotate: false
+  xy: 1290, 2
+  size: 86, 78
+  orig: 88, 80
+  offset: 0, 1
+  index: -1
+dragon_tartaros_adult_eye2
+  rotate: false
+  xy: 902, 203
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+dragon_tartaros_adult_fire5
+  rotate: false
+  xy: 1184, 175
+  size: 48, 47
+  orig: 50, 49
+  offset: 2, 2
+  index: -1
+dragon_tartaros_adult_neck
+  rotate: true
+  xy: 780, 140
+  size: 41, 69
+  orig: 47, 71
+  offset: 5, 1
+  index: -1
+dragon_tartaros_adult_armor
+  rotate: false
+  xy: 1344, 82
+  size: 51, 53
+  orig: 57, 57
+  offset: 3, 3
+  index: -1
+dragon_tartaros_baby_wing1
+  rotate: true
+  xy: 1234, 171
+  size: 51, 26
+  orig: 53, 32
+  offset: 0, 4
+  index: -1
+dragon_tartaros_baby_fire2
+  rotate: true
+  xy: 981, 128
+  size: 50, 47
+  orig: 56, 49
+  offset: 0, 2
+  index: -1
+dragon_tartaros_child_fire3
+  rotate: false
+  xy: 780, 69
+  size: 80, 69
+  orig: 92, 79
+  offset: 2, 2
+  index: -1
+dragon_tartaros_child_arm6
+  rotate: false
+  xy: 1342, 164
+  size: 32, 28
+  orig: 36, 32
+  offset: 2, 3
+  index: -1
+dragon_tartaros_critical_e02
+  rotate: false
+  xy: 228, 2
+  size: 124, 148
+  orig: 176, 170
+  offset: 23, 11
+  index: -1
+dragon_tartaros_child_armor
+  rotate: false
+  xy: 780, 183
+  size: 32, 42
+  orig: 32, 46
+  offset: 0, 3
+  index: -1
+dragon_tartaros_adult_leg3
+  rotate: true
+  xy: 1447, 111
+  size: 24, 36
+  orig: 26, 40
+  offset: 0, 2
+  index: -1
+dragon_tartaros_adult_fire9
+  rotate: false
+  xy: 1079, 127
+  size: 32, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+dragon_tartaros_baby_leg1
+  rotate: true
+  xy: 1441, 137
+  size: 25, 32
+  orig: 29, 36
+  offset: 1, 1
+  index: -1
+dragon_tartaros_adult_wing2
+  rotate: true
+  xy: 496, 130
+  size: 95, 90
+  orig: 99, 96
+  offset: 2, 6
+  index: -1
+dragon_tartaros_baby_tail
+  rotate: false
+  xy: 814, 183
+  size: 31, 39
+  orig: 35, 43
+  offset: 2, 2
+  index: -1
+dragon_tartaros_child_arm2
+  rotate: false
+  xy: 1466, 2
+  size: 22, 27
+  orig: 26, 29
+  offset: 1, 1
+  index: -1
+dragon_tartaros_adult_fire4
+  rotate: true
+  xy: 1030, 128
+  size: 50, 47
+  orig: 50, 49
+  offset: 0, 2
+  index: -1
+dragon_tartaros_adult_arm5
+  rotate: true
+  xy: 1447, 86
+  size: 23, 41
+  orig: 29, 47
+  offset: 1, 3
+  index: -1
+dragon_tartaros_child_fire2
+  rotate: false
+  xy: 1196, 2
+  size: 92, 77
+  orig: 92, 79
+  offset: 0, 2
+  index: -1
+dragon_tartaros_adult_tail
+  rotate: false
+  xy: 862, 69
+  size: 52, 70
+  orig: 58, 74
+  offset: 3, 2
+  index: -1
+dragon_tartaros_child_head
+  rotate: false
+  xy: 228, 152
+  size: 68, 73
+  orig: 68, 75
+  offset: 0, 2
+  index: -1
+dragon_tartaros_adult_leg2
+  rotate: true
+  xy: 1255, 81
+  size: 51, 29
+  orig: 51, 31
+  offset: 0, 1
+  index: -1
+dragon_tartaros_adult_arm1
+  rotate: false
+  xy: 720, 80
+  size: 58, 88
+  orig: 60, 92
+  offset: 0, 4
+  index: -1
+dragon_tartaros_adult_fire8
+  rotate: true
+  xy: 847, 189
+  size: 34, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+dragon_tartaros_adult_wing1
+  rotate: false
+  xy: 354, 2
+  size: 142, 117
+  orig: 152, 121
+  offset: 5, 3
+  index: -1
+dragon_tartaros_child_eye1
+  rotate: false
+  xy: 1432, 195
+  size: 18, 20
+  orig: 26, 28
+  offset: 2, 6
+  index: -1
+dragon_tartaros_child_fire6
+  rotate: true
+  xy: 916, 180
+  size: 45, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+dragon_tartaros_critical_e03
+  rotate: true
+  xy: 354, 121
+  size: 104, 140
+  orig: 176, 170
+  offset: 36, 18
+  index: -1
+dragon_tartaros_adult_arm4
+  rotate: true
+  xy: 630, 80
+  size: 58, 88
+  orig: 66, 94
+  offset: 3, 5
+  index: -1
+dragon_tartaros_child_leg1
+  rotate: false
+  xy: 747, 170
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+dragon_tartaros_adult_eye1
+  rotate: false
+  xy: 1046, 78
+  size: 10, 10
+  orig: 12, 12
+  offset: 0, 1
+  index: -1
+dragon_tartaros_child_fire1
+  rotate: false
+  xy: 1378, 2
+  size: 86, 77
+  orig: 92, 79
+  offset: 4, 2
+  index: -1
+dragon_tartaros_adult_jaw
+  rotate: false
+  xy: 1342, 194
+  size: 29, 23
+  orig: 29, 25
+  offset: 0, 2
+  index: -1
+dragon_tartaros_baby_fire1
+  rotate: false
+  xy: 1286, 82
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1
+dragon_tartaros_child_tail
+  rotate: true
+  xy: 1289, 133
+  size: 46, 51
+  orig: 48, 55
+  offset: 0, 3
+  index: -1
+dragon_tartaros_adult_twinkling1
+  rotate: true
+  xy: 2, 2
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1

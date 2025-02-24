@@ -1,0 +1,312 @@
+88_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_haunted_warrior_fire21
+  rotate: true
+  xy: 1066, 144
+  size: 68, 132
+  orig: 68, 132
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_groggyleg2
+  rotate: true
+  xy: 971, 149
+  size: 66, 93
+  orig: 66, 93
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_groggyhead1
+  rotate: true
+  xy: 1016, 2
+  size: 140, 89
+  orig: 140, 89
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_leg1
+  rotate: false
+  xy: 1820, 2
+  size: 53, 108
+  orig: 53, 108
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_groggyshield11
+  rotate: true
+  xy: 697, 160
+  size: 56, 130
+  orig: 56, 130
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_arm5
+  rotate: false
+  xy: 1944, 108
+  size: 89, 30
+  orig: 91, 34
+  offset: 2, 0
+  index: -1
+m_haunted_warrior_fire13
+  rotate: false
+  xy: 529, 2
+  size: 54, 165
+  orig: 54, 165
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_body4
+  rotate: true
+  xy: 1669, 2
+  size: 125, 92
+  orig: 125, 92
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_groggyarm1
+  rotate: true
+  xy: 477, 171
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_shield11
+  rotate: false
+  xy: 1107, 2
+  size: 74, 140
+  orig: 74, 140
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_finger1
+  rotate: false
+  xy: 371, 180
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_arm2
+  rotate: true
+  xy: 1200, 141
+  size: 74, 100
+  orig: 74, 100
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_fire22
+  rotate: false
+  xy: 658, 2
+  size: 78, 156
+  orig: 78, 158
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_fire33
+  rotate: false
+  xy: 1801, 120
+  size: 42, 95
+  orig: 42, 95
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_finger2
+  rotate: true
+  xy: 146, 191
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_arm3
+  rotate: true
+  xy: 1875, 2
+  size: 104, 97
+  orig: 104, 97
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_head3
+  rotate: false
+  xy: 1417, 141
+  size: 40, 59
+  orig: 40, 59
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_groggybody3
+  rotate: true
+  xy: 263, 191
+  size: 23, 57
+  orig: 23, 57
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_body2
+  rotate: true
+  xy: 1459, 141
+  size: 57, 92
+  orig: 57, 94
+  offset: 0, 2
+  index: -1
+m_haunted_warrior_fire11
+  rotate: true
+  xy: 829, 150
+  size: 66, 140
+  orig: 80, 142
+  offset: 7, 1
+  index: -1
+m_haunted_warrior_head1
+  rotate: true
+  xy: 146, 2
+  size: 187, 223
+  orig: 187, 223
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_eye
+  rotate: false
+  xy: 171, 191
+  size: 90, 23
+  orig: 92, 25
+  offset: 1, 1
+  index: -1
+m_haunted_warrior_groggyhead2
+  rotate: true
+  xy: 1845, 112
+  size: 104, 97
+  orig: 104, 97
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_arm1
+  rotate: false
+  xy: 1547, 2
+  size: 120, 128
+  orig: 120, 128
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_sword11
+  rotate: false
+  xy: 811, 2
+  size: 71, 146
+  orig: 71, 146
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_body5
+  rotate: true
+  xy: 371, 2
+  size: 176, 83
+  orig: 176, 83
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_fire31
+  rotate: true
+  xy: 1944, 140
+  size: 39, 88
+  orig: 41, 88
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_fire12
+  rotate: false
+  xy: 738, 2
+  size: 71, 149
+  orig: 75, 149
+  offset: 2, 0
+  index: -1
+m_haunted_warrior_groggysword12
+  rotate: false
+  xy: 1763, 2
+  size: 55, 116
+  orig: 55, 116
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_groggymouth
+  rotate: false
+  xy: 2, 195
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_fire23
+  rotate: false
+  xy: 585, 2
+  size: 71, 160
+  orig: 71, 162
+  offset: 0, 1
+  index: -1
+m_haunted_warrior_groggysword11
+  rotate: false
+  xy: 456, 2
+  size: 71, 167
+  orig: 71, 167
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_mouth
+  rotate: true
+  xy: 1668, 132
+  size: 83, 76
+  orig: 83, 76
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_leg2
+  rotate: true
+  xy: 1553, 132
+  size: 83, 113
+  orig: 83, 113
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_shield12
+  rotate: false
+  xy: 2, 2
+  size: 142, 191
+  orig: 142, 191
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_body3
+  rotate: false
+  xy: 1974, 2
+  size: 49, 83
+  orig: 49, 83
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_fire32
+  rotate: true
+  xy: 532, 169
+  size: 47, 81
+  orig: 51, 81
+  offset: 1, 0
+  index: -1
+m_haunted_warrior_groggyshield12
+  rotate: false
+  xy: 1746, 129
+  size: 53, 86
+  orig: 53, 86
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_arm4
+  rotate: true
+  xy: 1302, 141
+  size: 59, 113
+  orig: 59, 113
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_head2
+  rotate: true
+  xy: 884, 2
+  size: 145, 130
+  orig: 145, 130
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_groggybody2
+  rotate: true
+  xy: 21, 195
+  size: 15, 40
+  orig: 15, 40
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_leg3
+  rotate: false
+  xy: 402, 180
+  size: 73, 34
+  orig: 73, 34
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_body1
+  rotate: true
+  xy: 615, 164
+  size: 50, 80
+  orig: 52, 80
+  offset: 0, 0
+  index: -1
+m_haunted_warrior_sword12
+  rotate: true
+  xy: 1183, 2
+  size: 137, 362
+  orig: 137, 362
+  offset: 0, 0
+  index: -1

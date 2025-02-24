@@ -1,0 +1,1026 @@
+dragon_4012_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_tropheus_e_bodylight
+  rotate: false
+  xy: 507, 1738
+  size: 59, 22
+  orig: 59, 22
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_aura
+  rotate: true
+  xy: 205, 1722
+  size: 251, 199
+  orig: 251, 199
+  offset: 0, 0
+  index: -1
+dragon_tropheus_baby_wing
+  rotate: false
+  xy: 468, 2019
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+dragon_tropheus_child_body
+  rotate: false
+  xy: 348, 1975
+  size: 66, 57
+  orig: 66, 57
+  offset: 0, 0
+  index: -1
+dragon_tropheus_critical_dmg2
+  rotate: false
+  xy: 317, 1339
+  size: 125, 124
+  orig: 221, 284
+  offset: 35, 91
+  index: -1
+dragon_tropheus_e_mouth
+  rotate: false
+  xy: 524, 1995
+  size: 29, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+dragon_tropheus_critical_dmg3
+  rotate: false
+  xy: 2, 1722
+  size: 201, 250
+  orig: 221, 284
+  offset: 14, 14
+  index: -1
+dragon_tropheus_baby_leg1light
+  rotate: false
+  xy: 543, 835
+  size: 8, 11
+  orig: 22, 35
+  offset: 9, 5
+  index: -1
+dragon_tropheus_adult_neck2
+  rotate: false
+  xy: 419, 1587
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_body
+  rotate: true
+  xy: 444, 1339
+  size: 105, 66
+  orig: 105, 66
+  offset: 0, 0
+  index: -1
+dragon_tropheus_critical_dmg1
+  rotate: false
+  xy: 510, 528
+  size: 73, 68
+  orig: 221, 284
+  offset: 47, 123
+  index: -1
+dragon_tropheus_e_neck1light
+  rotate: true
+  xy: 555, 2003
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_neck1
+  rotate: false
+  xy: 457, 1526
+  size: 65, 66
+  orig: 65, 66
+  offset: 0, 0
+  index: -1
+dragon_tropheus_baby_eye
+  rotate: false
+  xy: 377, 832
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+dragon_tropheus_baby_tail
+  rotate: false
+  xy: 485, 1970
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+dragon_tropheus_child_bodylight
+  rotate: false
+  xy: 557, 1972
+  size: 28, 29
+  orig: 66, 57
+  offset: 1, 3
+  index: -1
+dragon_tropheus_e_ice2
+  rotate: true
+  xy: 561, 835
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_ice1
+  rotate: false
+  xy: 456, 1841
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+dragon_tropheus_child_leg6light
+  rotate: false
+  xy: 579, 274
+  size: 6, 16
+  orig: 22, 38
+  offset: 10, 7
+  index: -1
+dragon_tropheus_e_ice3
+  rotate: false
+  xy: 437, 1627
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+dragon_tropheus_child_eye
+  rotate: false
+  xy: 569, 1846
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_head
+  rotate: false
+  xy: 272, 1975
+  size: 74, 59
+  orig: 74, 61
+  offset: 0, 2
+  index: -1
+dragon_tropheus_adult_bress1
+  rotate: false
+  xy: 499, 2019
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_neck2light
+  rotate: false
+  xy: 456, 1332
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_eye
+  rotate: false
+  xy: 524, 1526
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_bress2
+  rotate: true
+  xy: 468, 1969
+  size: 35, 15
+  orig: 35, 15
+  offset: 0, 0
+  index: -1
+dragon_tropheus_child_taillight
+  rotate: true
+  xy: 528, 1930
+  size: 38, 28
+  orig: 54, 62
+  offset: 15, 7
+  index: -1
+dragon_tropheus_adult_fog
+  rotate: true
+  xy: 495, 2
+  size: 270, 90
+  orig: 270, 90
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_critical_dmg8
+  rotate: false
+  xy: 2, 785
+  size: 355, 355
+  orig: 355, 355
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_critical_dmg6
+  rotate: false
+  xy: 2, 1443
+  size: 277, 277
+  orig: 277, 277
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_tail
+  rotate: false
+  xy: 281, 1465
+  size: 136, 82
+  orig: 136, 82
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_critical_dmg9
+  rotate: false
+  xy: 2, 2
+  size: 491, 374
+  orig: 503, 384
+  offset: 7, 3
+  index: -1
+dragon_tropheus_e_critical_dmg4
+  rotate: false
+  xy: 359, 848
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_critical_dmg7
+  rotate: false
+  xy: 317, 1200
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_critical_dmg2
+  rotate: true
+  xy: 359, 1050
+  size: 148, 154
+  orig: 160, 170
+  offset: 7, 5
+  index: -1
+dragon_tropheus_baby_leg2
+  rotate: false
+  xy: 359, 832
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_critical_dmg5
+  rotate: false
+  xy: 2, 1142
+  size: 313, 299
+  orig: 315, 307
+  offset: 1, 5
+  index: -1
+dragon_tropheus_baby_leg4
+  rotate: true
+  xy: 419, 1702
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_critical_dmg3
+  rotate: false
+  xy: 456, 1200
+  size: 129, 130
+  orig: 129, 130
+  offset: 0, 0
+  index: -1
+dragon_tropheus_baby_leg3
+  rotate: false
+  xy: 561, 980
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_critical_dmg1
+  rotate: false
+  xy: 2, 378
+  size: 395, 405
+  orig: 395, 405
+  offset: 0, 0
+  index: -1
+dragon_tropheus_child_heart
+  rotate: false
+  xy: 501, 1797
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_tropheus_baby_leg1
+  rotate: false
+  xy: 561, 943
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_ice2
+  rotate: true
+  xy: 561, 835
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_ice3
+  rotate: false
+  xy: 437, 1627
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_bress1
+  rotate: false
+  xy: 499, 2019
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_wing2
+  rotate: true
+  xy: 510, 476
+  size: 50, 75
+  orig: 50, 75
+  offset: 0, 0
+  index: -1
+dragon_tropheus_child_ice2
+  rotate: true
+  xy: 561, 835
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_bress2
+  rotate: true
+  xy: 468, 1969
+  size: 35, 15
+  orig: 35, 15
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_wing3
+  rotate: true
+  xy: 515, 1050
+  size: 147, 70
+  orig: 147, 70
+  offset: 0, 0
+  index: -1
+dragon_tropheus_child_ice3
+  rotate: false
+  xy: 437, 1627
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_ice1
+  rotate: false
+  xy: 456, 1841
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_leg2light
+  rotate: false
+  xy: 569, 1860
+  size: 8, 22
+  orig: 26, 48
+  offset: 7, 16
+  index: -1
+dragon_tropheus_adult_wing4
+  rotate: false
+  xy: 543, 598
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_wing5
+  rotate: false
+  xy: 189, 1975
+  size: 81, 56
+  orig: 81, 56
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_wing1
+  rotate: false
+  xy: 495, 274
+  size: 82, 71
+  orig: 82, 71
+  offset: 0, 0
+  index: -1
+dragon_tropheus_child_ice1
+  rotate: false
+  xy: 456, 1841
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_head
+  rotate: false
+  xy: 510, 418
+  size: 75, 56
+  orig: 75, 56
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_wing6
+  rotate: true
+  xy: 457, 1446
+  size: 78, 51
+  orig: 78, 51
+  offset: 0, 0
+  index: -1
+dragon_tropheus_child_tail
+  rotate: false
+  xy: 524, 1535
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_tail
+  rotate: false
+  xy: 281, 1549
+  size: 136, 76
+  orig: 136, 76
+  offset: 0, 0
+  index: -1
+dragon_tropheus_baby_leg4light
+  rotate: true
+  xy: 444, 1446
+  size: 8, 11
+  orig: 18, 29
+  offset: 1, 11
+  index: -1
+dragon_tropheus_baby_body
+  rotate: false
+  xy: 524, 1599
+  size: 55, 45
+  orig: 55, 45
+  offset: 0, 0
+  index: -1
+dragon_tropheus_baby_note2
+  rotate: false
+  xy: 502, 1887
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_fog
+  rotate: true
+  xy: 495, 2
+  size: 270, 90
+  orig: 270, 90
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_aura
+  rotate: true
+  xy: 205, 1722
+  size: 251, 199
+  orig: 251, 199
+  offset: 0, 0
+  index: -1
+dragon_tropheus_baby_ice2
+  rotate: true
+  xy: 561, 835
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+dragon_tropheus_baby_note1
+  rotate: false
+  xy: 537, 1846
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_tropheus_child_neck
+  rotate: false
+  xy: 456, 1787
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_mouth
+  rotate: true
+  xy: 561, 1017
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_winga2
+  rotate: false
+  xy: 406, 1722
+  size: 47, 63
+  orig: 47, 63
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_bodylight
+  rotate: true
+  xy: 317, 1142
+  size: 33, 40
+  orig: 105, 66
+  offset: 0, 1
+  index: -1
+dragon_tropheus_adult_winga3
+  rotate: true
+  xy: 543, 751
+  size: 82, 40
+  orig: 82, 40
+  offset: 0, 0
+  index: -1
+dragon_tropheus_baby_ice1
+  rotate: false
+  xy: 437, 1627
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_winga5
+  rotate: false
+  xy: 507, 1692
+  size: 69, 44
+  orig: 69, 44
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_leg6
+  rotate: false
+  xy: 561, 859
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_leg7
+  rotate: true
+  xy: 557, 1762
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_leg4
+  rotate: false
+  xy: 391, 1627
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_leg5
+  rotate: true
+  xy: 558, 1930
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_leg2
+  rotate: true
+  xy: 455, 1759
+  size: 26, 46
+  orig: 26, 48
+  offset: 0, 2
+  index: -1
+dragon_tropheus_adult_atk1
+  rotate: false
+  xy: 399, 378
+  size: 109, 242
+  orig: 127, 248
+  offset: 6, 4
+  index: -1
+dragon_tropheus_adult_leg3
+  rotate: false
+  xy: 456, 1890
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_leg1
+  rotate: true
+  xy: 457, 1594
+  size: 48, 65
+  orig: 48, 65
+  offset: 0, 0
+  index: -1
+dragon_tropheus_child_leg6
+  rotate: false
+  xy: 561, 903
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+dragon_tropheus_child_leg7
+  rotate: true
+  xy: 510, 598
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+dragon_tropheus_child_leg2
+  rotate: true
+  xy: 379, 1699
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+dragon_tropheus_child_leg2light
+  rotate: true
+  xy: 567, 1886
+  size: 21, 18
+  orig: 21, 38
+  offset: 0, 6
+  index: -1
+dragon_tropheus_child_leg3
+  rotate: true
+  xy: 350, 1696
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_neck2light
+  rotate: true
+  xy: 567, 1909
+  size: 10, 18
+  orig: 36, 38
+  offset: 11, 4
+  index: -1
+dragon_tropheus_child_leg4
+  rotate: false
+  xy: 502, 1838
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_body
+  rotate: false
+  xy: 281, 1627
+  size: 108, 67
+  orig: 108, 67
+  offset: 0, 0
+  index: -1
+dragon_tropheus_child_bress2
+  rotate: true
+  xy: 468, 1969
+  size: 35, 15
+  orig: 35, 15
+  offset: 0, 0
+  index: -1
+dragon_tropheus_child_leg5
+  rotate: true
+  xy: 503, 1762
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+dragon_tropheus_child_bress1
+  rotate: false
+  xy: 499, 2019
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_tropheus_child_leg1
+  rotate: false
+  xy: 551, 1486
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_wing2
+  rotate: true
+  xy: 510, 476
+  size: 50, 75
+  orig: 50, 75
+  offset: 0, 0
+  index: -1
+dragon_tropheus_child_wing2
+  rotate: true
+  xy: 485, 1998
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+dragon_tropheus_child_wing3
+  rotate: false
+  xy: 488, 1930
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_wing4
+  rotate: false
+  xy: 543, 598
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+dragon_tropheus_child_wing4
+  rotate: false
+  xy: 549, 1803
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_wing3
+  rotate: true
+  xy: 515, 1050
+  size: 147, 70
+  orig: 147, 70
+  offset: 0, 0
+  index: -1
+dragon_tropheus_child_wing5
+  rotate: true
+  xy: 359, 785
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_taillight
+  rotate: true
+  xy: 419, 1465
+  size: 120, 36
+  orig: 136, 76
+  offset: 12, 1
+  index: -1
+dragon_tropheus_e_wing5
+  rotate: false
+  xy: 189, 1975
+  size: 81, 56
+  orig: 81, 56
+  offset: 0, 0
+  index: -1
+dragon_tropheus_baby_fog
+  rotate: false
+  xy: 281, 1696
+  size: 67, 19
+  orig: 73, 41
+  offset: 6, 22
+  index: -1
+dragon_tropheus_child_wing1
+  rotate: true
+  xy: 543, 708
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_wing1
+  rotate: false
+  xy: 495, 274
+  size: 82, 71
+  orig: 82, 71
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_wing6
+  rotate: true
+  xy: 457, 1446
+  size: 78, 51
+  orig: 78, 51
+  offset: 0, 0
+  index: -1
+dragon_tropheus_baby_mouth
+  rotate: false
+  xy: 317, 1177
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+dragon_tropheus_child_wing6
+  rotate: false
+  xy: 510, 1486
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_winga5
+  rotate: false
+  xy: 507, 1692
+  size: 69, 44
+  orig: 69, 44
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_winga2
+  rotate: false
+  xy: 406, 1722
+  size: 47, 63
+  orig: 47, 63
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_winga3
+  rotate: true
+  xy: 543, 751
+  size: 82, 40
+  orig: 82, 40
+  offset: 0, 0
+  index: -1
+dragon_tropheus_critical_icebolt2
+  rotate: false
+  xy: 512, 1332
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+dragon_tropheus_child_head2
+  rotate: true
+  xy: 406, 1787
+  size: 59, 48
+  orig: 59, 48
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_dmg2
+  rotate: false
+  xy: 317, 1339
+  size: 125, 124
+  orig: 221, 284
+  offset: 35, 91
+  index: -1
+dragon_tropheus_critical_icebolt3
+  rotate: true
+  xy: 406, 1909
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_taillight
+  rotate: false
+  xy: 512, 1403
+  size: 73, 32
+  orig: 73, 32
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_dmg3
+  rotate: false
+  xy: 2, 1722
+  size: 201, 250
+  orig: 221, 284
+  offset: 14, 14
+  index: -1
+dragon_tropheus_adult_dmg1
+  rotate: false
+  xy: 510, 528
+  size: 73, 68
+  orig: 221, 284
+  offset: 47, 123
+  index: -1
+dragon_tropheus_child_head1
+  rotate: true
+  xy: 406, 1848
+  size: 59, 48
+  orig: 59, 48
+  offset: 0, 0
+  index: -1
+dragon_tropheus_critical_icebolt1
+  rotate: false
+  xy: 437, 1644
+  size: 68, 56
+  orig: 68, 56
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_neck1light
+  rotate: false
+  xy: 495, 347
+  size: 13, 24
+  orig: 65, 66
+  offset: 22, 16
+  index: -1
+dragon_tropheus_e_dmg2
+  rotate: false
+  xy: 317, 1339
+  size: 125, 124
+  orig: 221, 284
+  offset: 35, 91
+  index: -1
+dragon_tropheus_e_dmg1
+  rotate: false
+  xy: 510, 528
+  size: 73, 68
+  orig: 221, 284
+  offset: 47, 123
+  index: -1
+dragon_tropheus_e_dmg3
+  rotate: false
+  xy: 2, 1722
+  size: 201, 250
+  orig: 221, 284
+  offset: 14, 14
+  index: -1
+dragon_tropheus_baby_taillight
+  rotate: false
+  xy: 436, 2027
+  size: 25, 8
+  orig: 33, 26
+  offset: 3, 0
+  index: -1
+dragon_tropheus_child_fog
+  rotate: false
+  xy: 2, 1974
+  size: 185, 62
+  orig: 185, 62
+  offset: 0, 0
+  index: -1
+dragon_tropheus_adult_leg6light
+  rotate: true
+  xy: 416, 2027
+  size: 9, 18
+  orig: 23, 42
+  offset: 5, 10
+  index: -1
+dragon_tropheus_critical_ring
+  rotate: false
+  xy: 399, 622
+  size: 142, 224
+  orig: 152, 232
+  offset: 4, 5
+  index: -1
+dragon_tropheus_adult_eye
+  rotate: false
+  xy: 524, 1526
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_atk1
+  rotate: false
+  xy: 399, 378
+  size: 109, 242
+  orig: 127, 248
+  offset: 6, 4
+  index: -1
+dragon_tropheus_child_mouth
+  rotate: false
+  xy: 520, 1970
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_leg2
+  rotate: false
+  xy: 454, 1921
+  size: 32, 46
+  orig: 32, 48
+  offset: 0, 2
+  index: -1
+dragon_tropheus_e_leg1
+  rotate: true
+  xy: 512, 1437
+  size: 47, 71
+  orig: 47, 71
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_leg4
+  rotate: true
+  xy: 507, 1646
+  size: 44, 71
+  orig: 44, 71
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_neck2
+  rotate: true
+  xy: 543, 660
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+dragon_tropheus_baby_bodylight
+  rotate: true
+  xy: 568, 1738
+  size: 19, 17
+  orig: 55, 45
+  offset: 36, 4
+  index: -1
+dragon_tropheus_baby_head2
+  rotate: true
+  xy: 455, 1702
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_leg3
+  rotate: false
+  xy: 456, 1890
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_leg6
+  rotate: false
+  xy: 539, 1886
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_leg5
+  rotate: true
+  xy: 558, 1930
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+dragon_tropheus_e_leg7
+  rotate: true
+  xy: 557, 1762
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+dragon_tropheus_baby_head1
+  rotate: true
+  xy: 416, 1970
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+dragon_tropheus_child_necklight
+  rotate: true
+  xy: 281, 1443
+  size: 13, 34
+  orig: 43, 52
+  offset: 15, 3
+  index: -1
+dragon_tropheus_e_neck1
+  rotate: false
+  xy: 510, 347
+  size: 75, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1

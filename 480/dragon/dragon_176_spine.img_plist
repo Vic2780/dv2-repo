@@ -1,0 +1,333 @@
+dragon_176_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_hungry_adult_eye
+  rotate: false
+  xy: 132, 117
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+dragon_hungry_adult_leg2
+  rotate: true
+  xy: 729, 70
+  size: 55, 26
+  orig: 55, 26
+  offset: 0, 0
+  index: -1
+dragon_hungry_baby_arm
+  rotate: false
+  xy: 1054, 101
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+dragon_hungry_baby_leg2
+  rotate: false
+  xy: 266, 93
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+dragon_hungry_child_arm2
+  rotate: true
+  xy: 308, 2
+  size: 80, 71
+  orig: 80, 71
+  offset: 0, 0
+  index: -1
+dragon_hungry_adult_body1
+  rotate: false
+  xy: 343, 84
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+dragon_hungry_baby_love
+  rotate: false
+  xy: 559, 78
+  size: 62, 47
+  orig: 62, 47
+  offset: 0, 0
+  index: -1
+dragon_hungry_child_leg3
+  rotate: true
+  xy: 1041, 2
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+dragon_hungry_child_neck
+  rotate: false
+  xy: 433, 81
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+dragon_hungry_adult_leg1
+  rotate: true
+  xy: 807, 70
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+dragon_hungry_adult_tail
+  rotate: true
+  xy: 132, 2
+  size: 113, 85
+  orig: 113, 85
+  offset: 0, 0
+  index: -1
+dragon_hungry_baby_leg1
+  rotate: false
+  xy: 1031, 67
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+dragon_hungry_baby_mouth
+  rotate: true
+  xy: 1006, 2
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+dragon_hungry_child_tail
+  rotate: false
+  xy: 652, 2
+  size: 59, 74
+  orig: 59, 74
+  offset: 0, 0
+  index: -1
+dragon_hungry_adult_head
+  rotate: true
+  xy: 900, 2
+  size: 62, 24
+  orig: 62, 24
+  offset: 0, 0
+  index: -1
+dragon_hungry_adult_arm2
+  rotate: false
+  xy: 1062, 67
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dragon_hungry_child_leg1
+  rotate: false
+  xy: 469, 80
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+dragon_hungry_baby_tung
+  rotate: true
+  xy: 1078, 2
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+dragon_hungry_adult_neck
+  rotate: false
+  xy: 395, 81
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+dragon_hungry_adult_leg4
+  rotate: true
+  xy: 969, 66
+  size: 48, 19
+  orig: 48, 19
+  offset: 0, 0
+  index: -1
+dragon_hungry_adult_love
+  rotate: true
+  xy: 874, 2
+  size: 62, 24
+  orig: 62, 24
+  offset: 0, 0
+  index: -1
+dragon_hungry_child_love
+  rotate: false
+  xy: 713, 2
+  size: 60, 66
+  orig: 60, 66
+  offset: 0, 0
+  index: -1
+dragon_hungry_baby_heart
+  rotate: true
+  xy: 990, 51
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_hungry_child_eye
+  rotate: false
+  xy: 1034, 101
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+dragon_hungry_adult_mouth
+  rotate: true
+  xy: 1078, 33
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+dragon_hungry_adult_arm1
+  rotate: false
+  xy: 978, 2
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+dragon_hungry_child_leg4
+  rotate: true
+  xy: 687, 78
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+dragon_hungry_child_mouth
+  rotate: true
+  xy: 1041, 38
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+dragon_hungry_baby_eye
+  rotate: true
+  xy: 1014, 99
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+dragon_hungry_adult_attack
+  rotate: true
+  xy: 952, 2
+  size: 62, 24
+  orig: 62, 24
+  offset: 0, 0
+  index: -1
+dragon_hungry_adult_leg3
+  rotate: true
+  xy: 306, 93
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+dragon_hungry_child_body
+  rotate: true
+  xy: 509, 2
+  size: 74, 71
+  orig: 74, 71
+  offset: 0, 0
+  index: -1
+dragon_hungry_baby_meat
+  rotate: false
+  xy: 381, 2
+  size: 65, 77
+  orig: 65, 77
+  offset: 0, 0
+  index: -1
+dragon_hungry_child_smile
+  rotate: true
+  xy: 907, 66
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_hungry_baby_tail
+  rotate: true
+  xy: 869, 69
+  size: 49, 36
+  orig: 49, 36
+  offset: 0, 0
+  index: -1
+dragon_hungry_child_arm1
+  rotate: false
+  xy: 448, 2
+  size: 59, 76
+  orig: 59, 76
+  offset: 0, 0
+  index: -1
+dragon_hungry_adult_meat
+  rotate: false
+  xy: 499, 80
+  size: 58, 40
+  orig: 58, 40
+  offset: 0, 0
+  index: -1
+dragon_hungry_adult_body2
+  rotate: false
+  xy: 219, 2
+  size: 87, 89
+  orig: 87, 89
+  offset: 0, 0
+  index: -1
+dragon_hungry_child_head
+  rotate: false
+  xy: 775, 2
+  size: 60, 66
+  orig: 60, 66
+  offset: 0, 0
+  index: -1
+dragon_hungry_adult_arm3
+  rotate: true
+  xy: 990, 99
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+dragon_hungry_baby_head
+  rotate: false
+  xy: 623, 78
+  size: 62, 47
+  orig: 62, 47
+  offset: 0, 0
+  index: -1
+dragon_hungry_child_leg2
+  rotate: true
+  xy: 219, 93
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+dragon_hungry_adult_damaged
+  rotate: true
+  xy: 926, 2
+  size: 62, 24
+  orig: 62, 24
+  offset: 0, 0
+  index: -1
+dragon_hungry_child_wing
+  rotate: true
+  xy: 582, 2
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+dragon_hungry_baby_body
+  rotate: false
+  xy: 757, 70
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+dragon_hungry_adult_wing
+  rotate: false
+  xy: 2, 2
+  size: 128, 123
+  orig: 128, 123
+  offset: 0, 0
+  index: -1
+dragon_hungry_adult_question
+  rotate: false
+  xy: 837, 2
+  size: 35, 65
+  orig: 39, 67
+  offset: 2, 2
+  index: -1

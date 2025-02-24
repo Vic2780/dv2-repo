@@ -1,0 +1,221 @@
+ani_dwarfraid_new_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+w_dwarf_raidgroggy_wing21
+  rotate: false
+  xy: 550, 178
+  size: 90, 70
+  orig: 398, 254
+  offset: 210, 93
+  index: -1
+w_dwarf_raidgroggy_mouth01
+  rotate: false
+  xy: 1626, 98
+  size: 60, 52
+  orig: 398, 254
+  offset: 228, 89
+  index: -1
+w_dwarf_raidgroggy_smog01
+  rotate: false
+  xy: 1620, 152
+  size: 50, 50
+  orig: 398, 254
+  offset: 203, 85
+  index: -1
+w_dwarf_raid_wing22
+  rotate: false
+  xy: 384, 2
+  size: 148, 182
+  orig: 398, 254
+  offset: 238, 64
+  index: -1
+w_dwarf_raidgroggy_wing11
+  rotate: false
+  xy: 454, 186
+  size: 94, 60
+  orig: 398, 254
+  offset: 89, 114
+  index: -1
+w_dwarf_raid_mouth02
+  rotate: false
+  xy: 1254, 134
+  size: 34, 22
+  orig: 398, 254
+  offset: 244, 110
+  index: -1
+w_dwarf_raid_braeth02
+  rotate: false
+  xy: 384, 186
+  size: 68, 62
+  orig: 398, 254
+  offset: 216, 44
+  index: -1
+w_dwarf_raid_wing12
+  rotate: false
+  xy: 1058, 2
+  size: 158, 158
+  orig: 398, 254
+  offset: 7, 84
+  index: -1
+w_dwarf_raidgroggy_neck
+  rotate: false
+  xy: 1528, 2
+  size: 96, 96
+  orig: 398, 254
+  offset: 164, 100
+  index: -1
+w_dwarf_raidgroggy_mouth02
+  rotate: false
+  xy: 1218, 134
+  size: 34, 22
+  orig: 398, 254
+  offset: 243, 110
+  index: -1
+w_dwarf_raidgroggy_tale
+  rotate: true
+  xy: 1218, 2
+  size: 130, 104
+  orig: 398, 254
+  offset: 52, 0
+  index: -1
+w_dwarf_raid_neck
+  rotate: true
+  xy: 1430, 2
+  size: 102, 96
+  orig: 398, 254
+  offset: 163, 100
+  index: -1
+w_dwarf_raid_body
+  rotate: true
+  xy: 788, 2
+  size: 166, 108
+  orig: 398, 254
+  offset: 92, 39
+  index: -1
+w_dwarf_raid_mouth01
+  rotate: false
+  xy: 1626, 98
+  size: 60, 52
+  orig: 398, 254
+  offset: 228, 89
+  index: -1
+w_dwarf_raidgroggy_smog00
+  rotate: false
+  xy: 1528, 100
+  size: 28, 28
+  orig: 398, 254
+  offset: 234, 96
+  index: -1
+w_dwarf_raid_braeth01
+  rotate: false
+  xy: 1178, 162
+  size: 82, 82
+  orig: 398, 254
+  offset: 243, 38
+  index: -1
+w_dwarf_raidgroggy_mouthhead
+  rotate: true
+  xy: 734, 170
+  size: 78, 82
+  orig: 398, 254
+  offset: 216, 110
+  index: -1
+w_dwarf_raidgroggy_body
+  rotate: true
+  xy: 678, 2
+  size: 166, 108
+  orig: 398, 254
+  offset: 92, 39
+  index: -1
+w_dwarf_raid_book
+  rotate: false
+  xy: 1290, 134
+  size: 268, 106
+  orig: 398, 254
+  offset: 64, 0
+  index: -1
+w_dwarf_raidgroggy_eyelight
+  rotate: false
+  xy: 1560, 204
+  size: 34, 38
+  orig: 398, 254
+  offset: 251, 112
+  index: -1
+w_dwarf_raid_mouthhead
+  rotate: true
+  xy: 818, 170
+  size: 78, 82
+  orig: 398, 254
+  offset: 216, 110
+  index: -1
+w_dwarf_raid_tale
+  rotate: true
+  xy: 1324, 2
+  size: 130, 104
+  orig: 398, 254
+  offset: 52, 0
+  index: -1
+w_dwarf_raid_hand
+  rotate: false
+  xy: 1040, 162
+  size: 136, 82
+  orig: 398, 254
+  offset: 142, 55
+  index: -1
+w_dwarf_raidgroggy_wing22
+  rotate: false
+  xy: 534, 2
+  size: 142, 174
+  orig: 398, 254
+  offset: 244, 64
+  index: -1
+w_dwarf_raid_wing21
+  rotate: false
+  xy: 642, 178
+  size: 90, 70
+  orig: 398, 254
+  offset: 210, 93
+  index: -1
+w_dwarf_raidgroggy_smog02
+  rotate: false
+  xy: 1560, 100
+  size: 58, 54
+  orig: 398, 254
+  offset: 273, 90
+  index: -1
+w_dwarf_raidgroggy_hand
+  rotate: false
+  xy: 902, 162
+  size: 136, 82
+  orig: 398, 254
+  offset: 142, 55
+  index: -1
+w_dwarf_raidgroggy_wing12
+  rotate: false
+  xy: 898, 2
+  size: 158, 158
+  orig: 398, 254
+  offset: 7, 84
+  index: -1
+w_dwarf_raid_book2
+  rotate: false
+  xy: 2, 2
+  size: 380, 246
+  orig: 398, 254
+  offset: 6, 0
+  index: -1
+w_dwarf_raid_wing11
+  rotate: true
+  xy: 1626, 2
+  size: 94, 60
+  orig: 398, 254
+  offset: 89, 114
+  index: -1
+w_dwarf_raidgroggy_eyelight02
+  rotate: true
+  xy: 1262, 158
+  size: 28, 14
+  orig: 398, 254
+  offset: 247, 124
+  index: -1

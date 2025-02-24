@@ -1,0 +1,151 @@
+62_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_eye_spirit_groggy_head
+  rotate: true
+  xy: 2, 320
+  size: 256, 209
+  orig: 318, 233
+  offset: 33, 3
+  index: -1
+m_eye_spirit_arm2
+  rotate: false
+  xy: 115, 1577
+  size: 30, 26
+  orig: 36, 26
+  offset: 3, 0
+  index: -1
+m_eye_spirit_head1
+  rotate: false
+  xy: 2, 766
+  size: 202, 155
+  orig: 318, 233
+  offset: 116, 78
+  index: -1
+m_eye_spirit_pinger4
+  rotate: false
+  xy: 152, 1576
+  size: 33, 26
+  orig: 39, 26
+  offset: 6, 0
+  index: -1
+m_eye_spirit_groggy_bbody
+  rotate: true
+  xy: 82, 1484
+  size: 93, 31
+  orig: 133, 107
+  offset: 13, 38
+  index: -1
+m_eye_spirit_body2
+  rotate: false
+  xy: 2, 1287
+  size: 198, 86
+  orig: 218, 188
+  offset: 7, 94
+  index: -1
+m_eye_spirit_groggy_pinger1
+  rotate: false
+  xy: 44, 1579
+  size: 34, 25
+  orig: 36, 37
+  offset: 0, 10
+  index: -1
+m_eye_spirit_arm1
+  rotate: true
+  xy: 137, 1446
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+m_eye_spirit_pinger3
+  rotate: true
+  xy: 115, 1545
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+m_eye_spirit_hong
+  rotate: false
+  xy: 2, 1073
+  size: 204, 105
+  orig: 318, 233
+  offset: 58, 22
+  index: -1
+m_eye_spirit_groggy_body
+  rotate: false
+  xy: 2, 923
+  size: 190, 148
+  orig: 218, 188
+  offset: 12, 20
+  index: -1
+m_eye_spirit_bbody
+  rotate: false
+  xy: 2, 1375
+  size: 133, 107
+  orig: 133, 107
+  offset: 0, 0
+  index: -1
+m_eye_spirit_pinger2
+  rotate: false
+  xy: 154, 1542
+  size: 39, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+m_eye_spirit_mouth
+  rotate: false
+  xy: 2, 1484
+  size: 78, 93
+  orig: 318, 233
+  offset: 117, 0
+  index: -1
+m_eye_spirit_groggy_arm3
+  rotate: false
+  xy: 154, 1507
+  size: 40, 33
+  orig: 70, 75
+  offset: 12, 22
+  index: -1
+m_eye_spirit_groggy_hong
+  rotate: false
+  xy: 2, 1180
+  size: 204, 105
+  orig: 318, 233
+  offset: 58, 22
+  index: -1
+m_eye_spirit_pinger1
+  rotate: true
+  xy: 115, 1507
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+m_eye_spirit_arm3
+  rotate: false
+  xy: 137, 1375
+  size: 70, 69
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+m_eye_spirit_head
+  rotate: true
+  xy: 2, 2
+  size: 316, 203
+  orig: 318, 233
+  offset: 2, 14
+  index: -1
+m_eye_spirit_body
+  rotate: false
+  xy: 2, 578
+  size: 202, 186
+  orig: 218, 188
+  offset: 13, 0
+  index: -1
+m_eye_spirit_groggy_arm31
+  rotate: false
+  xy: 2, 1579
+  size: 40, 25
+  orig: 70, 75
+  offset: 12, 30
+  index: -1

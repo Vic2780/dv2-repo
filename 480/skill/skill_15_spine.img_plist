@@ -1,0 +1,32 @@
+skill_15_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skill_stun2
+  rotate: true
+  xy: 2, 262
+  size: 255, 256
+  orig: 255, 260
+  offset: 0, 4
+  index: -1
+skill_stun4
+  rotate: false
+  xy: 2, 2
+  size: 253, 258
+  orig: 255, 260
+  offset: 2, 0
+  index: -1
+skill_stun3
+  rotate: true
+  xy: 260, 259
+  size: 251, 250
+  orig: 255, 260
+  offset: 4, 10
+  index: -1
+skill_stun1
+  rotate: true
+  xy: 257, 2
+  size: 255, 252
+  orig: 255, 260
+  offset: 0, 8
+  index: -1

@@ -1,0 +1,137 @@
+92_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_onehornlomo_eye3
+  rotate: false
+  xy: 1041, 116
+  size: 69, 80
+  orig: 69, 80
+  offset: 0, 0
+  index: -1
+m_onehornlomo_spit1
+  rotate: true
+  xy: 1013, 198
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+m_onehornlomo_leg3
+  rotate: false
+  xy: 772, 182
+  size: 78, 61
+  orig: 78, 61
+  offset: 0, 0
+  index: -1
+m_onehornlomo_body
+  rotate: false
+  xy: 2, 2
+  size: 435, 241
+  orig: 435, 241
+  offset: 0, 0
+  index: -1
+m_onehornlomo_effect2
+  rotate: false
+  xy: 717, 2
+  size: 94, 160
+  orig: 98, 174
+  offset: 0, 3
+  index: -1
+m_onehornlomo_effect1
+  rotate: true
+  xy: 929, 62
+  size: 52, 154
+  orig: 52, 156
+  offset: 0, 1
+  index: -1
+m_onehornlomo_boll
+  rotate: false
+  xy: 1071, 198
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+m_onehornlomo_sp
+  rotate: false
+  xy: 813, 2
+  size: 114, 112
+  orig: 120, 114
+  offset: 3, 1
+  index: -1
+m_onehornlomo_groggy_mouse
+  rotate: false
+  xy: 929, 2
+  size: 189, 30
+  orig: 189, 30
+  offset: 0, 0
+  index: -1
+m_onehornlomo_eye1
+  rotate: true
+  xy: 717, 164
+  size: 79, 53
+  orig: 79, 53
+  offset: 0, 0
+  index: -1
+m_onehornlomo_leg1
+  rotate: false
+  xy: 813, 116
+  size: 132, 64
+  orig: 132, 66
+  offset: 0, 0
+  index: -1
+m_onehornlomo_boll2
+  rotate: true
+  xy: 940, 189
+  size: 37, 71
+  orig: 37, 71
+  offset: 0, 0
+  index: -1
+m_onehornlomo_groggy_body
+  rotate: false
+  xy: 439, 2
+  size: 276, 217
+  orig: 278, 221
+  offset: 1, 3
+  index: -1
+m_onehornlomo_mouse
+  rotate: false
+  xy: 929, 34
+  size: 184, 26
+  orig: 184, 26
+  offset: 0, 0
+  index: -1
+m_onehornlomo_spit2
+  rotate: false
+  xy: 1120, 2
+  size: 51, 31
+  orig: 51, 31
+  offset: 0, 0
+  index: -1
+m_onehornlomo_eye2
+  rotate: false
+  xy: 852, 182
+  size: 86, 60
+  orig: 86, 60
+  offset: 0, 0
+  index: -1
+m_onehornlomo_hour
+  rotate: false
+  xy: 1112, 62
+  size: 62, 88
+  orig: 62, 88
+  offset: 0, 0
+  index: -1
+m_onehornlomo_leg2
+  rotate: true
+  xy: 1112, 152
+  size: 77, 59
+  orig: 77, 59
+  offset: 0, 0
+  index: -1
+m_onehornlomo_groggy_eye
+  rotate: false
+  xy: 947, 116
+  size: 92, 71
+  orig: 94, 71
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,81 @@
+skill_50_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skill_stonskin1
+  rotate: false
+  xy: 554, 111
+  size: 48, 89
+  orig: 78, 113
+  offset: 15, 8
+  index: -1
+skill_stonskin6
+  rotate: false
+  xy: 570, 2
+  size: 65, 99
+  orig: 87, 111
+  offset: 12, 6
+  index: -1
+skill_stonskin7
+  rotate: true
+  xy: 407, 145
+  size: 59, 94
+  orig: 93, 114
+  offset: 17, 9
+  index: -1
+skill_stonskin8
+  rotate: false
+  xy: 604, 180
+  size: 29, 45
+  orig: 53, 63
+  offset: 12, 7
+  index: -1
+skill_stonskin9
+  rotate: false
+  xy: 637, 2
+  size: 26, 58
+  orig: 56, 84
+  offset: 9, 17
+  index: -1
+skill_stonskin10
+  rotate: false
+  xy: 2, 2
+  size: 236, 223
+  orig: 272, 263
+  offset: 12, 17
+  index: -1
+skill_stonskin2
+  rotate: false
+  xy: 503, 111
+  size: 49, 113
+  orig: 67, 135
+  offset: 6, 11
+  index: -1
+skill_stonskin3
+  rotate: false
+  xy: 482, 2
+  size: 86, 107
+  orig: 108, 127
+  offset: 8, 12
+  index: -1
+skill_stonskin4
+  rotate: false
+  xy: 407, 2
+  size: 73, 141
+  orig: 107, 159
+  offset: 16, 7
+  index: -1
+skill_stonskin11
+  rotate: false
+  xy: 240, 2
+  size: 165, 202
+  orig: 217, 230
+  offset: 26, 12
+  index: -1
+skill_stonskin5
+  rotate: false
+  xy: 604, 103
+  size: 40, 75
+  orig: 56, 95
+  offset: 9, 9
+  index: -1

@@ -1,0 +1,130 @@
+kanggalo_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+sd_kanggalo_emo
+  rotate: true
+  xy: 36, 258
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+sd_kanggalo_mouth3
+  rotate: false
+  xy: 36, 290
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+sd_kanggalo_eye2
+  rotate: true
+  xy: 23, 67
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+sd_kanggalo_arm2
+  rotate: true
+  xy: 33, 227
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+sd_kanggalo_head
+  rotate: false
+  xy: 2, 2
+  size: 57, 63
+  orig: 57, 63
+  offset: 0, 0
+  index: -1
+sd_kanggalo_leg
+  rotate: true
+  xy: 33, 208
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+sd_kanggalo_tail
+  rotate: false
+  xy: 2, 195
+  size: 29, 63
+  orig: 29, 63
+  offset: 0, 0
+  index: -1
+sd_kanggalo_jacket
+  rotate: true
+  xy: 23, 166
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+sd_kanggalo_acc1
+  rotate: false
+  xy: 36, 274
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+sd_kanggalo_eye
+  rotate: true
+  xy: 46, 67
+  size: 42, 15
+  orig: 42, 15
+  offset: 0, 0
+  index: -1
+sd_kanggalo_feather
+  rotate: false
+  xy: 23, 137
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+sd_kanggalo_spear
+  rotate: false
+  xy: 2, 67
+  size: 19, 126
+  orig: 21, 126
+  offset: 2, 0
+  index: -1
+sd_kanggalo_acc2
+  rotate: false
+  xy: 52, 137
+  size: 9, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+sd_kanggalo_body1
+  rotate: true
+  xy: 2, 260
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+sd_kanggalo_body2
+  rotate: false
+  xy: 23, 111
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+sd_kanggalo_mouth2
+  rotate: false
+  xy: 33, 244
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+sd_kanggalo_mouth
+  rotate: true
+  xy: 55, 274
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+sd_kanggalo_arm1
+  rotate: true
+  xy: 33, 188
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1

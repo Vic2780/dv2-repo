@@ -1,0 +1,18 @@
+effect2_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+bg_black_island_light_s2_s1
+  rotate: false
+  xy: 2, 129
+  size: 122, 125
+  orig: 122, 125
+  offset: 0, 0
+  index: -1
+bg_black_island_light_s2_s2
+  rotate: false
+  xy: 2, 2
+  size: 122, 125
+  orig: 122, 125
+  offset: 0, 0
+  index: -1

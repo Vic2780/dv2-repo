@@ -1,0 +1,221 @@
+165_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_decon_body_gro
+  rotate: true
+  xy: 2, 764
+  size: 382, 165
+  orig: 472, 413
+  offset: 36, 146
+  index: -1
+m_decon_mouth
+  rotate: false
+  xy: 723, 993
+  size: 140, 149
+  orig: 140, 149
+  offset: 0, 0
+  index: -1
+m_decon_legfire2
+  rotate: false
+  xy: 720, 764
+  size: 131, 164
+  orig: 131, 164
+  offset: 0, 0
+  index: -1
+m_decon_body1
+  rotate: false
+  xy: 2, 2
+  size: 472, 413
+  orig: 472, 413
+  offset: 0, 0
+  index: -1
+m_decon_finger1
+  rotate: false
+  xy: 950, 576
+  size: 44, 75
+  orig: 150, 135
+  offset: 0, 18
+  index: -1
+m_decon_horn3
+  rotate: true
+  xy: 865, 993
+  size: 107, 140
+  orig: 275, 146
+  offset: 168, 6
+  index: -1
+m_decon_head_eff
+  rotate: false
+  xy: 500, 1054
+  size: 139, 94
+  orig: 163, 162
+  offset: 12, 36
+  index: -1
+m_decon_head_gro
+  rotate: false
+  xy: 853, 764
+  size: 157, 90
+  orig: 163, 162
+  offset: 0, 72
+  index: -1
+m_decon_body_gro2
+  rotate: true
+  xy: 2, 417
+  size: 326, 273
+  orig: 472, 413
+  offset: 64, 85
+  index: -1
+m_decon_handfire1
+  rotate: false
+  xy: 500, 764
+  size: 218, 288
+  orig: 218, 288
+  offset: 0, 0
+  index: -1
+m_decon_eye1
+  rotate: false
+  xy: 950, 177
+  size: 61, 82
+  orig: 163, 162
+  offset: 7, 29
+  index: -1
+m_decon_legfire1
+  rotate: true
+  xy: 853, 856
+  size: 135, 152
+  orig: 135, 152
+  offset: 0, 0
+  index: -1
+m_decon_finger4
+  rotate: true
+  xy: 950, 411
+  size: 70, 51
+  orig: 150, 135
+  offset: 80, 1
+  index: -1
+m_decon_horn2
+  rotate: false
+  xy: 284, 417
+  size: 175, 86
+  orig: 275, 146
+  offset: 97, 0
+  index: -1
+m_decon_leftleg
+  rotate: true
+  xy: 284, 1072
+  size: 73, 101
+  orig: 73, 101
+  offset: 0, 0
+  index: -1
+m_decon_handfire2
+  rotate: false
+  xy: 284, 764
+  size: 214, 306
+  orig: 214, 306
+  offset: 0, 0
+  index: -1
+m_decon_body_gro3
+  rotate: false
+  xy: 950, 318
+  size: 54, 91
+  orig: 472, 413
+  offset: 298, 11
+  index: -1
+m_decon_finger1_gro
+  rotate: false
+  xy: 441, 599
+  size: 30, 37
+  orig: 150, 135
+  offset: 2, 38
+  index: -1
+m_decon_rightleg1
+  rotate: false
+  xy: 950, 261
+  size: 55, 55
+  orig: 77, 95
+  offset: 0, 0
+  index: -1
+m_decon_eye2
+  rotate: true
+  xy: 387, 1072
+  size: 67, 88
+  orig: 163, 162
+  offset: 96, 29
+  index: -1
+m_decon_finger3
+  rotate: false
+  xy: 641, 1054
+  size: 80, 91
+  orig: 150, 135
+  offset: 60, 15
+  index: -1
+m_decon_head
+  rotate: true
+  xy: 277, 599
+  size: 163, 162
+  orig: 163, 162
+  offset: 0, 0
+  index: -1
+m_decon_horn1
+  rotate: false
+  xy: 284, 505
+  size: 173, 92
+  orig: 275, 146
+  offset: 0, 11
+  index: -1
+m_decon_body3
+  rotate: false
+  xy: 476, 383
+  size: 472, 379
+  orig: 472, 413
+  offset: 0, 34
+  index: -1
+m_decon_body_eff
+  rotate: false
+  xy: 476, 2
+  size: 472, 379
+  orig: 472, 413
+  offset: 0, 34
+  index: -1
+m_decon_rightleg2
+  rotate: false
+  xy: 950, 2
+  size: 65, 69
+  orig: 77, 95
+  offset: 12, 26
+  index: -1
+m_decon_finger3_gro
+  rotate: true
+  xy: 950, 73
+  size: 54, 64
+  orig: 150, 134
+  offset: 24, 15
+  index: -1
+m_decon_finger2
+  rotate: false
+  xy: 950, 483
+  size: 44, 91
+  orig: 150, 135
+  offset: 51, 44
+  index: -1
+m_decon_body2
+  rotate: true
+  xy: 169, 764
+  size: 382, 113
+  orig: 472, 413
+  offset: 46, 159
+  index: -1
+m_decon_finger4_gro
+  rotate: true
+  xy: 441, 638
+  size: 22, 27
+  orig: 150, 135
+  offset: 107, 0
+  index: -1
+m_decon_finger2_gro
+  rotate: true
+  xy: 950, 129
+  size: 46, 63
+  orig: 150, 135
+  offset: 51, 54
+  index: -1

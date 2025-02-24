@@ -1,0 +1,165 @@
+pocket_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+stonept_stoneheart5
+  rotate: false
+  xy: 398, 175
+  size: 151, 125
+  orig: 175, 175
+  offset: 6, 25
+  index: -1
+stonept_stonespirit2
+  rotate: false
+  xy: 398, 2
+  size: 171, 171
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+stonept_stoneheart1
+  rotate: false
+  xy: 913, 153
+  size: 169, 149
+  orig: 175, 175
+  offset: 0, 15
+  index: -1
+stonept_crystal9
+  rotate: true
+  xy: 744, 167
+  size: 131, 167
+  orig: 175, 175
+  offset: 23, 0
+  index: -1
+stonept_crystal1
+  rotate: false
+  xy: 1652, 135
+  size: 131, 167
+  orig: 175, 175
+  offset: 23, 0
+  index: -1
+stonept_crystal5
+  rotate: false
+  xy: 1386, 135
+  size: 131, 167
+  orig: 175, 175
+  offset: 23, 0
+  index: -1
+stonept_stonespirit1
+  rotate: false
+  xy: 571, 2
+  size: 171, 171
+  orig: 175, 175
+  offset: 0, 0
+  index: -1
+stonept_stonespirit5
+  rotate: true
+  xy: 1785, 2
+  size: 153, 143
+  orig: 175, 175
+  offset: 9, 18
+  index: -1
+stonept_stoneheart4
+  rotate: false
+  xy: 551, 175
+  size: 143, 125
+  orig: 175, 175
+  offset: 14, 25
+  index: -1
+stonept_pocket2
+  rotate: false
+  xy: 2, 2
+  size: 196, 222
+  orig: 450, 450
+  offset: 124, 118
+  index: -1
+stonept_crystal8
+  rotate: true
+  xy: 1084, 151
+  size: 131, 167
+  orig: 175, 175
+  offset: 23, 0
+  index: -1
+stonept_crystal4
+  rotate: true
+  xy: 1418, 2
+  size: 131, 167
+  orig: 175, 175
+  offset: 23, 0
+  index: -1
+stonept_stoneheart3
+  rotate: false
+  xy: 1080, 2
+  size: 167, 147
+  orig: 175, 175
+  offset: 2, 15
+  index: -1
+stonept_stonespirit4
+  rotate: false
+  xy: 1785, 157
+  size: 139, 139
+  orig: 175, 175
+  offset: 16, 17
+  index: -1
+stonept_pocket1
+  rotate: false
+  xy: 200, 2
+  size: 196, 222
+  orig: 450, 450
+  offset: 124, 118
+  index: -1
+stonept_crystal7
+  rotate: true
+  xy: 1249, 2
+  size: 131, 167
+  orig: 175, 175
+  offset: 23, 0
+  index: -1
+stonept_crystal3
+  rotate: false
+  xy: 1519, 135
+  size: 131, 167
+  orig: 175, 175
+  offset: 23, 0
+  index: -1
+stonept_question
+  rotate: true
+  xy: 2, 226
+  size: 68, 90
+  orig: 68, 90
+  offset: 0, 0
+  index: -1
+stonept_right
+  rotate: false
+  xy: 94, 226
+  size: 66, 66
+  orig: 68, 68
+  offset: 0, 2
+  index: -1
+stonept_stonespirit3
+  rotate: false
+  xy: 744, 2
+  size: 163, 163
+  orig: 175, 175
+  offset: 5, 4
+  index: -1
+stonept_stoneheart2
+  rotate: false
+  xy: 909, 2
+  size: 169, 149
+  orig: 175, 175
+  offset: 0, 15
+  index: -1
+stonept_crystal6
+  rotate: false
+  xy: 1253, 135
+  size: 131, 167
+  orig: 175, 175
+  offset: 23, 0
+  index: -1
+stonept_crystal2
+  rotate: true
+  xy: 1587, 2
+  size: 131, 167
+  orig: 175, 175
+  offset: 23, 0
+  index: -1

@@ -1,0 +1,382 @@
+dragon_181_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_oneeyed_adult_wing2
+  rotate: false
+  xy: 2, 1126
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_adult_critical05
+  rotate: true
+  xy: 2, 2
+  size: 206, 235
+  orig: 224, 289
+  offset: 13, 39
+  index: -1
+dragon_oneeyed_critical_critical04
+  rotate: false
+  xy: 2, 685
+  size: 200, 261
+  orig: 224, 289
+  offset: 10, 28
+  index: -1
+dragon_oneeyed_child_wing2
+  rotate: false
+  xy: 204, 898
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_adult_critical2
+  rotate: true
+  xy: 210, 545
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_adult_leg3
+  rotate: false
+  xy: 239, 44
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_adult_leg1
+  rotate: true
+  xy: 204, 729
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_baby_heart
+  rotate: true
+  xy: 210, 568
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_adult_smile
+  rotate: true
+  xy: 189, 1096
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_child_leg2
+  rotate: false
+  xy: 225, 360
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_adult_critical1
+  rotate: false
+  xy: 197, 1367
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_baby_love
+  rotate: false
+  xy: 126, 1126
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_baby_body
+  rotate: true
+  xy: 210, 680
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_child_tail
+  rotate: false
+  xy: 204, 756
+  size: 49, 68
+  orig: 49, 68
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_adult_critical03
+  rotate: false
+  xy: 2, 422
+  size: 206, 261
+  orig: 224, 289
+  offset: 18, 28
+  index: -1
+dragon_oneeyed_adult_leg4
+  rotate: true
+  xy: 219, 1367
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_child_arm2
+  rotate: false
+  xy: 225, 403
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_critical_critical02
+  rotate: true
+  xy: 2, 210
+  size: 210, 221
+  orig: 224, 289
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_adult_arm2
+  rotate: true
+  xy: 90, 1250
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_child_leg1
+  rotate: true
+  xy: 204, 873
+  size: 23, 47
+  orig: 23, 47
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_adult_critical01
+  rotate: true
+  xy: 2, 948
+  size: 176, 185
+  orig: 224, 289
+  offset: 26, 35
+  index: -1
+dragon_oneeyed_child_arm1
+  rotate: true
+  xy: 204, 945
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_critical_critical05
+  rotate: true
+  xy: 2, 2
+  size: 206, 235
+  orig: 224, 289
+  offset: 13, 39
+  index: -1
+dragon_oneeyed_baby_tail
+  rotate: false
+  xy: 210, 440
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_adult_eye
+  rotate: false
+  xy: 239, 108
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_baby_eye
+  rotate: true
+  xy: 188, 1155
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_baby_head
+  rotate: true
+  xy: 197, 1305
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_adult_critical3
+  rotate: false
+  xy: 101, 1272
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_adult_critical04
+  rotate: false
+  xy: 2, 685
+  size: 200, 261
+  orig: 224, 289
+  offset: 10, 28
+  index: -1
+dragon_oneeyed_adult_love
+  rotate: false
+  xy: 189, 1004
+  size: 62, 21
+  orig: 62, 21
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_child_neck
+  rotate: false
+  xy: 210, 616
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_adult_leg2
+  rotate: true
+  xy: 80, 1272
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_baby_leg
+  rotate: false
+  xy: 239, 2
+  size: 15, 40
+  orig: 15, 40
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_adult_body
+  rotate: true
+  xy: 90, 1310
+  size: 96, 52
+  orig: 96, 52
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_baby_mouth
+  rotate: true
+  xy: 144, 1377
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_child_eye
+  rotate: true
+  xy: 225, 210
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_child_body
+  rotate: true
+  xy: 144, 1305
+  size: 70, 51
+  orig: 70, 51
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_child_question
+  rotate: true
+  xy: 189, 967
+  size: 35, 65
+  orig: 39, 67
+  offset: 2, 2
+  index: -1
+dragon_oneeyed_critical_critical03
+  rotate: false
+  xy: 2, 422
+  size: 206, 261
+  orig: 224, 289
+  offset: 18, 28
+  index: -1
+dragon_oneeyed_adult_arm3
+  rotate: true
+  xy: 225, 234
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_adult_tail
+  rotate: true
+  xy: 2, 1305
+  size: 104, 86
+  orig: 104, 86
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_adult_damaged
+  rotate: false
+  xy: 189, 1050
+  size: 62, 21
+  orig: 62, 21
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_adult_neck
+  rotate: false
+  xy: 210, 476
+  size: 41, 67
+  orig: 41, 67
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_adult_wing1
+  rotate: false
+  xy: 126, 1181
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_child_head
+  rotate: false
+  xy: 2, 1250
+  size: 76, 53
+  orig: 76, 53
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_adult_mouth
+  rotate: true
+  xy: 239, 81
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_adult_critical02
+  rotate: true
+  xy: 2, 210
+  size: 210, 221
+  orig: 224, 289
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_critical_critical01
+  rotate: true
+  xy: 2, 948
+  size: 176, 185
+  orig: 224, 289
+  offset: 26, 35
+  index: -1
+dragon_oneeyed_adult_arm1
+  rotate: false
+  xy: 225, 301
+  size: 26, 57
+  orig: 26, 57
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_adult_attack
+  rotate: false
+  xy: 189, 1073
+  size: 62, 21
+  orig: 62, 21
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_child_wing1
+  rotate: false
+  xy: 204, 826
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_baby_arm
+  rotate: true
+  xy: 222, 1155
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_child_mouth
+  rotate: false
+  xy: 225, 273
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+dragon_oneeyed_adult_head
+  rotate: false
+  xy: 189, 1027
+  size: 62, 21
+  orig: 62, 21
+  offset: 0, 0
+  index: -1

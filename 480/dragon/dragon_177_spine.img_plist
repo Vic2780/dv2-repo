@@ -1,0 +1,326 @@
+dragon_177_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_aqua_adult_eye
+  rotate: false
+  xy: 754, 226
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dragon_aqua_adult_arm2
+  rotate: false
+  xy: 767, 366
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+dragon_aqua_baby_body
+  rotate: false
+  xy: 776, 202
+  size: 53, 39
+  orig: 53, 39
+  offset: 0, 0
+  index: -1
+dragon_aqua_adult_damaged
+  rotate: false
+  xy: 672, 439
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+dragon_aqua_child_tail
+  rotate: false
+  xy: 666, 281
+  size: 77, 47
+  orig: 77, 47
+  offset: 0, 0
+  index: -1
+dragon_aqua_adult_leg3
+  rotate: true
+  xy: 804, 399
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+dragon_aqua_baby_heart
+  rotate: false
+  xy: 329, 410
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_aqua_adult_arm1
+  rotate: false
+  xy: 605, 362
+  size: 53, 80
+  orig: 53, 80
+  offset: 0, 0
+  index: -1
+dragon_aqua_baby_love
+  rotate: true
+  xy: 660, 382
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+dragon_aqua_child_arm1
+  rotate: true
+  xy: 754, 243
+  size: 35, 68
+  orig: 35, 68
+  offset: 0, 0
+  index: -1
+dragon_aqua_baby_arm
+  rotate: true
+  xy: 329, 379
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+dragon_aqua_critical01
+  rotate: false
+  xy: 2, 2
+  size: 375, 375
+  orig: 375, 375
+  offset: 0, 0
+  index: -1
+dragon_aqua_adult_twinkling2
+  rotate: false
+  xy: 162, 379
+  size: 99, 100
+  orig: 225, 224
+  offset: 63, 64
+  index: -1
+dragon_aqua_adult_body
+  rotate: true
+  xy: 776, 105
+  size: 95, 58
+  orig: 95, 58
+  offset: 0, 0
+  index: -1
+dragon_aqua_child_neck
+  rotate: false
+  xy: 438, 451
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+dragon_aqua_child_love
+  rotate: true
+  xy: 666, 330
+  size: 50, 71
+  orig: 50, 71
+  offset: 0, 0
+  index: -1
+dragon_aqua_child_mouth
+  rotate: true
+  xy: 214, 481
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+dragon_aqua_child_leg2
+  rotate: false
+  xy: 808, 438
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+dragon_aqua_adult_twinkling1
+  rotate: true
+  xy: 379, 226
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+dragon_aqua_baby_wing
+  rotate: true
+  xy: 765, 404
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+dragon_aqua_child_eye
+  rotate: true
+  xy: 2, 494
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+dragon_aqua_adult_mouth
+  rotate: true
+  xy: 239, 481
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+dragon_aqua_adult_arm3
+  rotate: true
+  xy: 728, 382
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+dragon_aqua_baby_mouth
+  rotate: true
+  xy: 778, 438
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+dragon_aqua_child_note2
+  rotate: false
+  xy: 745, 281
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_aqua_child_head
+  rotate: true
+  xy: 478, 451
+  size: 50, 71
+  orig: 50, 71
+  offset: 0, 0
+  index: -1
+dragon_aqua_adult_wing
+  rotate: false
+  xy: 2, 379
+  size: 158, 113
+  orig: 158, 113
+  offset: 0, 0
+  index: -1
+dragon_aqua_baby_head
+  rotate: true
+  xy: 329, 451
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+dragon_aqua_adult_leg2
+  rotate: false
+  xy: 778, 471
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+dragon_aqua_child_wing
+  rotate: false
+  xy: 605, 281
+  size: 59, 79
+  orig: 59, 79
+  offset: 0, 0
+  index: -1
+dragon_aqua_baby_tail
+  rotate: false
+  xy: 782, 280
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+dragon_aqua_child_arm2
+  rotate: false
+  xy: 397, 451
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+dragon_aqua_adult_lovearm
+  rotate: false
+  xy: 263, 379
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+dragon_aqua_critical02
+  rotate: false
+  xy: 379, 2
+  size: 395, 222
+  orig: 395, 226
+  offset: 0, 4
+  index: -1
+dragon_aqua_child_note1
+  rotate: false
+  xy: 797, 359
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_aqua_baby_leg
+  rotate: true
+  xy: 162, 481
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+dragon_aqua_baby_eye
+  rotate: true
+  xy: 797, 318
+  size: 39, 24
+  orig: 39, 26
+  offset: 0, 2
+  index: -1
+dragon_aqua_adult_neck
+  rotate: false
+  xy: 776, 2
+  size: 63, 101
+  orig: 63, 101
+  offset: 0, 0
+  index: -1
+dragon_aqua_adult_leg1
+  rotate: false
+  xy: 739, 330
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+dragon_aqua_adult_love
+  rotate: true
+  xy: 263, 454
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+dragon_aqua_adult_head
+  rotate: true
+  xy: 551, 451
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+dragon_aqua_child_body
+  rotate: false
+  xy: 617, 444
+  size: 53, 59
+  orig: 53, 59
+  offset: 0, 0
+  index: -1
+dragon_aqua_adult_attack
+  rotate: false
+  xy: 725, 439
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+dragon_aqua_adult_tail
+  rotate: false
+  xy: 605, 226
+  size: 147, 53
+  orig: 147, 53
+  offset: 0, 0
+  index: -1
+dragon_aqua_adult_leg4
+  rotate: true
+  xy: 767, 324
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+dragon_aqua_child_leg1
+  rotate: true
+  xy: 804, 419
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1

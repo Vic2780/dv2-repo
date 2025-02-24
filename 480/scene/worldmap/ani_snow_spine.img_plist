@@ -1,0 +1,25 @@
+ani_snow_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+worldmap_kal01
+  rotate: true
+  xy: 61, 2
+  size: 56, 61
+  orig: 60, 67
+  offset: 2, 3
+  index: -1
+worldmap_kal02
+  rotate: false
+  xy: 124, 2
+  size: 50, 55
+  orig: 56, 63
+  offset: 3, 4
+  index: -1
+worldmap_kal03
+  rotate: false
+  xy: 2, 2
+  size: 57, 57
+  orig: 61, 61
+  offset: 2, 2
+  index: -1

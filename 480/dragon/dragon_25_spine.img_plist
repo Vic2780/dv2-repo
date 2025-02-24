@@ -1,0 +1,319 @@
+dragon_25_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_fat_adult_wing2
+  rotate: true
+  xy: 2, 436
+  size: 93, 56
+  orig: 93, 56
+  offset: 0, 0
+  index: -1
+dragon_fat_child_body
+  rotate: true
+  xy: 2, 2
+  size: 116, 83
+  orig: 116, 83
+  offset: 0, 0
+  index: -1
+dragon_fat_adult_eye2
+  rotate: false
+  xy: 69, 1002
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+dragon_fat_adult_saliva
+  rotate: false
+  xy: 80, 418
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+dragon_fat_baby_tail
+  rotate: true
+  xy: 67, 345
+  size: 51, 21
+  orig: 51, 21
+  offset: 0, 0
+  index: -1
+dragon_fat_adult_neck
+  rotate: true
+  xy: 2, 872
+  size: 57, 43
+  orig: 57, 43
+  offset: 0, 0
+  index: -1
+dragon_fat_adult_tail
+  rotate: true
+  xy: 2, 229
+  size: 114, 66
+  orig: 114, 66
+  offset: 0, 0
+  index: -1
+dragon_fat_child_leg1
+  rotate: true
+  xy: 64, 632
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+dragon_fat_child_mouth
+  rotate: true
+  xy: 70, 297
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+dragon_fat_adult_eye3
+  rotate: false
+  xy: 51, 1002
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+dragon_fat_baby_wing
+  rotate: true
+  xy: 52, 801
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+dragon_fat_baby_love_effect_z
+  rotate: false
+  xy: 47, 872
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+dragon_fat_child_effect_z
+  rotate: false
+  xy: 47, 872
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+dragon_fat_baby_body
+  rotate: false
+  xy: 2, 967
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dragon_fat_child_snot2
+  rotate: false
+  xy: 57, 839
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_fat_adult_leg33
+  rotate: true
+  xy: 2, 759
+  size: 55, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+dragon_fat_baby_eye2
+  rotate: true
+  xy: 70, 275
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+dragon_fat_adult_snot
+  rotate: true
+  xy: 70, 252
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+dragon_fat_baby_head
+  rotate: true
+  xy: 2, 816
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+dragon_fat_child_leg2
+  rotate: false
+  xy: 60, 436
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+dragon_fat_adult_leg2
+  rotate: true
+  xy: 51, 954
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+dragon_fat_baby_snot
+  rotate: true
+  xy: 70, 229
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+dragon_fat_child_wing
+  rotate: true
+  xy: 2, 689
+  size: 68, 45
+  orig: 68, 45
+  offset: 0, 0
+  index: -1
+dragon_fat_adult_body1
+  rotate: true
+  xy: 2, 120
+  size: 107, 77
+  orig: 107, 77
+  offset: 0, 0
+  index: -1
+dragon_fat_child_leg3
+  rotate: false
+  xy: 2, 931
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+dragon_fat_adult_mouth
+  rotate: false
+  xy: 49, 735
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+dragon_fat_adult_leg3
+  rotate: true
+  xy: 52, 759
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+dragon_fat_adult_foot2
+  rotate: false
+  xy: 60, 470
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+dragon_fat_baby_eye1
+  rotate: true
+  xy: 57, 815
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+dragon_fat_adult_head
+  rotate: true
+  xy: 49, 689
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+dragon_fat_adult_leg1
+  rotate: true
+  xy: 60, 560
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+dragon_fat_baby_snot2
+  rotate: false
+  xy: 57, 839
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_fat_child_tail
+  rotate: true
+  xy: 60, 500
+  size: 58, 27
+  orig: 58, 27
+  offset: 0, 0
+  index: -1
+dragon_fat_adult_wing
+  rotate: true
+  xy: 2, 531
+  size: 93, 56
+  orig: 93, 56
+  offset: 0, 0
+  index: -1
+dragon_fat_child_head
+  rotate: true
+  xy: 2, 626
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+dragon_fat_adult_eye4
+  rotate: true
+  xy: 67, 418
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+dragon_fat_baby_leg
+  rotate: false
+  xy: 64, 604
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+dragon_fat_child_eye2
+  rotate: true
+  xy: 80, 735
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+dragon_fat_child_tail2
+  rotate: false
+  xy: 47, 915
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+dragon_fat_adult_effect_z
+  rotate: false
+  xy: 47, 872
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+dragon_fat_child_snot
+  rotate: false
+  xy: 67, 398
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+dragon_fat_baby_mouth
+  rotate: false
+  xy: 64, 676
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+dragon_fat_adult_snot2
+  rotate: false
+  xy: 57, 839
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_fat_adult_body2
+  rotate: true
+  xy: 2, 345
+  size: 89, 63
+  orig: 89, 63
+  offset: 0, 0
+  index: -1
+dragon_fat_adult_foot1
+  rotate: false
+  xy: 51, 980
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1

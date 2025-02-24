@@ -1,0 +1,417 @@
+139_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_valefor_head_gro
+  rotate: false
+  xy: 1862, 624
+  size: 54, 20
+  orig: 186, 132
+  offset: 75, 29
+  index: -1
+m_valefor_groggy_eff3
+  rotate: false
+  xy: 671, 2
+  size: 789, 430
+  orig: 789, 430
+  offset: 0, 0
+  index: -1
+m_valefor_mouth2
+  rotate: false
+  xy: 1989, 811
+  size: 42, 32
+  orig: 136, 114
+  offset: 54, 47
+  index: -1
+m_valefor_neck2_gro
+  rotate: false
+  xy: 1549, 1043
+  size: 58, 51
+  orig: 198, 235
+  offset: 47, 125
+  index: -1
+m_valefor_eye_gro
+  rotate: false
+  xy: 1487, 1034
+  size: 60, 60
+  orig: 186, 132
+  offset: 15, 36
+  index: -1
+m_valefor_leftfoot
+  rotate: false
+  xy: 1285, 940
+  size: 109, 150
+  orig: 109, 150
+  offset: 0, 0
+  index: -1
+m_valefor_head
+  rotate: false
+  xy: 1694, 674
+  size: 152, 122
+  orig: 186, 132
+  offset: 0, 0
+  index: -1
+m_valefor_feeler_c_gro
+  rotate: true
+  xy: 1396, 1070
+  size: 24, 54
+  orig: 118, 290
+  offset: 8, 166
+  index: -1
+m_valefor_rightfinger_b
+  rotate: true
+  xy: 1691, 985
+  size: 69, 112
+  orig: 197, 168
+  offset: 89, 0
+  index: -1
+m_valefor_smallfeeler1
+  rotate: false
+  xy: 1006, 878
+  size: 125, 45
+  orig: 191, 107
+  offset: 66, 62
+  index: -1
+m_valefor_feeler_a2
+  rotate: true
+  xy: 945, 898
+  size: 39, 43
+  orig: 151, 169
+  offset: 63, 41
+  index: -1
+m_valefor_leftleg
+  rotate: true
+  xy: 1561, 784
+  size: 104, 131
+  orig: 104, 131
+  offset: 0, 0
+  index: -1
+m_valefor_feeler_right_c2
+  rotate: true
+  xy: 1462, 393
+  size: 72, 246
+  orig: 116, 290
+  offset: 44, 0
+  index: -1
+m_valefor_feeler_right_b
+  rotate: true
+  xy: 1450, 617
+  size: 180, 109
+  orig: 180, 109
+  offset: 0, 0
+  index: -1
+m_valefor_head_horn_gro
+  rotate: false
+  xy: 1808, 912
+  size: 86, 78
+  orig: 186, 132
+  offset: 68, 38
+  index: -1
+m_valefor_rightfinger_a2
+  rotate: false
+  xy: 1989, 763
+  size: 45, 46
+  orig: 197, 168
+  offset: 0, 75
+  index: -1
+m_valefor_head_horn2
+  rotate: false
+  xy: 1949, 987
+  size: 70, 70
+  orig: 186, 132
+  offset: 116, 62
+  index: -1
+m_valefor_neck2
+  rotate: true
+  xy: 1152, 434
+  size: 198, 235
+  orig: 198, 235
+  offset: 0, 0
+  index: -1
+m_valefor_ring2
+  rotate: false
+  xy: 945, 940
+  size: 143, 154
+  orig: 167, 168
+  offset: 24, 0
+  index: -1
+m_valefor_feeler_right_c1
+  rotate: false
+  xy: 1881, 992
+  size: 66, 66
+  orig: 116, 290
+  offset: 0, 224
+  index: -1
+m_valefor_rightfoot
+  rotate: false
+  xy: 1936, 393
+  size: 107, 174
+  orig: 107, 174
+  offset: 0, 0
+  index: -1
+m_valefor_head_horn1
+  rotate: false
+  xy: 1805, 992
+  size: 74, 62
+  orig: 186, 132
+  offset: 77, 47
+  index: -1
+m_valefor_leftarm_b_gro
+  rotate: true
+  xy: 1975, 912
+  size: 67, 63
+  orig: 89, 143
+  offset: 11, 42
+  index: -1
+m_valefor_rightshoulder
+  rotate: true
+  xy: 1389, 467
+  size: 148, 190
+  orig: 148, 190
+  offset: 0, 0
+  index: -1
+m_valefor_mouth1
+  rotate: false
+  xy: 1851, 796
+  size: 136, 114
+  orig: 136, 114
+  offset: 0, 0
+  index: -1
+m_valefor_body
+  rotate: false
+  xy: 711, 645
+  size: 293, 251
+  orig: 293, 251
+  offset: 0, 0
+  index: -1
+m_valefor_feeler_right_a
+  rotate: false
+  xy: 1862, 461
+  size: 56, 161
+  orig: 56, 161
+  offset: 0, 0
+  index: -1
+m_valefor_neck3
+  rotate: false
+  xy: 1155, 634
+  size: 199, 206
+  orig: 199, 206
+  offset: 0, 0
+  index: -1
+m_valefor_mouth_gro
+  rotate: false
+  xy: 1694, 905
+  size: 112, 78
+  orig: 136, 114
+  offset: 0, 13
+  index: -1
+m_valefor_righthand
+  rotate: false
+  xy: 1848, 692
+  size: 139, 102
+  orig: 197, 168
+  offset: 55, 66
+  index: -1
+m_valefor_neck1
+  rotate: false
+  xy: 1006, 645
+  size: 147, 231
+  orig: 147, 231
+  offset: 0, 0
+  index: -1
+m_valefor_feeler_a_gro
+  rotate: false
+  xy: 1450, 799
+  size: 107, 107
+  orig: 151, 169
+  offset: 5, 51
+  index: -1
+m_valefor_leftshoulder
+  rotate: true
+  xy: 1155, 842
+  size: 96, 186
+  orig: 96, 186
+  offset: 0, 0
+  index: -1
+m_valefor_ring1
+  rotate: false
+  xy: 1561, 638
+  size: 131, 144
+  orig: 167, 168
+  offset: 0, 24
+  index: -1
+m_valefor_rightarm_a
+  rotate: true
+  xy: 711, 898
+  size: 158, 232
+  orig: 158, 232
+  offset: 0, 0
+  index: -1
+m_valefor_lefthand2
+  rotate: true
+  xy: 711, 1058
+  size: 21, 44
+  orig: 185, 116
+  offset: 44, 0
+  index: -1
+m_valefor_rightarm_a_gro
+  rotate: true
+  xy: 1487, 908
+  size: 124, 110
+  orig: 158, 232
+  offset: 30, 37
+  index: -1
+m_valefor_rightfinger_c
+  rotate: true
+  xy: 1599, 976
+  size: 65, 90
+  orig: 197, 168
+  offset: 132, 22
+  index: -1
+m_valefor_wing
+  rotate: false
+  xy: 1462, 2
+  size: 578, 389
+  orig: 578, 389
+  offset: 0, 0
+  index: -1
+m_valefor_lefthand1
+  rotate: true
+  xy: 1356, 634
+  size: 185, 92
+  orig: 185, 116
+  offset: 0, 24
+  index: -1
+m_valefor_feeler_b
+  rotate: false
+  xy: 1710, 393
+  size: 224, 66
+  orig: 224, 66
+  offset: 0, 0
+  index: -1
+m_valefor_rightfinger_a_gro
+  rotate: true
+  xy: 1389, 434
+  size: 31, 26
+  orig: 197, 168
+  offset: 26, 95
+  index: -1
+m_valefor_feeler_c1
+  rotate: true
+  xy: 1862, 646
+  size: 44, 160
+  orig: 118, 290
+  offset: 0, 130
+  index: -1
+m_valefor_neck1_gro
+  rotate: true
+  xy: 1920, 569
+  size: 75, 119
+  orig: 147, 231
+  offset: 31, 77
+  index: -1
+m_valefor_leftarm_b
+  rotate: false
+  xy: 1396, 925
+  size: 89, 143
+  orig: 89, 143
+  offset: 0, 0
+  index: -1
+m_valefor_groggy_eff1
+  rotate: false
+  xy: 2, 2
+  size: 667, 680
+  orig: 667, 680
+  offset: 0, 0
+  index: -1
+m_valefor_leftarm_a
+  rotate: false
+  xy: 1734, 461
+  size: 126, 211
+  orig: 126, 211
+  offset: 0, 0
+  index: -1
+m_valefor_tail
+  rotate: false
+  xy: 671, 434
+  size: 479, 209
+  orig: 479, 209
+  offset: 0, 0
+  index: -1
+m_valefor_lefthand_gro
+  rotate: false
+  xy: 1599, 890
+  size: 93, 84
+  orig: 185, 116
+  offset: 44, 27
+  index: -1
+m_valefor_rightfinger_a1
+  rotate: false
+  xy: 1609, 1043
+  size: 63, 48
+  orig: 197, 168
+  offset: 27, 90
+  index: -1
+m_valefor_rightarm_b
+  rotate: false
+  xy: 1188, 940
+  size: 95, 154
+  orig: 95, 154
+  offset: 0, 0
+  index: -1
+m_valefor_groggy_eff2
+  rotate: false
+  xy: 2, 684
+  size: 707, 398
+  orig: 707, 398
+  offset: 0, 0
+  index: -1
+m_valefor_smallfeeler2
+  rotate: true
+  xy: 1343, 842
+  size: 81, 105
+  orig: 191, 107
+  offset: 0, 0
+  index: -1
+m_valefor_feeler_a1
+  rotate: false
+  xy: 1581, 467
+  size: 151, 169
+  orig: 151, 169
+  offset: 0, 0
+  index: -1
+m_valefor_feeler_c2
+  rotate: false
+  xy: 1090, 940
+  size: 96, 154
+  orig: 118, 290
+  offset: 22, 0
+  index: -1
+m_valefor_righthand_gro
+  rotate: true
+  xy: 1989, 692
+  size: 69, 52
+  orig: 197, 168
+  offset: 103, 111
+  index: -1
+m_valefor_eye
+  rotate: false
+  xy: 1694, 638
+  size: 34, 34
+  orig: 186, 132
+  offset: 29, 50
+  index: -1
+m_valefor_feeler_d
+  rotate: false
+  xy: 1896, 912
+  size: 77, 73
+  orig: 77, 73
+  offset: 0, 0
+  index: -1
+m_valefor_rightleg
+  rotate: true
+  xy: 1694, 798
+  size: 105, 155
+  orig: 105, 155
+  offset: 0, 0
+  index: -1

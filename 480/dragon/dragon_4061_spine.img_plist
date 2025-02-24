@@ -1,0 +1,522 @@
+dragon_4061_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_wonder_adult_neck
+  rotate: true
+  xy: 2, 1247
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_tail2
+  rotate: true
+  xy: 195, 505
+  size: 56, 58
+  orig: 56, 58
+  offset: 0, 0
+  index: -1
+dragon_wonder_child_head2
+  rotate: false
+  xy: 2, 1311
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_to1
+  rotate: false
+  xy: 2, 1030
+  size: 110, 78
+  orig: 112, 80
+  offset: 2, 1
+  index: -1
+dragon_wonder_adult_eye2
+  rotate: false
+  xy: 207, 156
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_l_legb
+  rotate: false
+  xy: 2, 1386
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+dragon_wonder_child_neck
+  rotate: true
+  xy: 217, 128
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+dragon_wonder_child_head
+  rotate: true
+  xy: 207, 260
+  size: 66, 44
+  orig: 66, 44
+  offset: 0, 0
+  index: -1
+dragon_wonder_baby_leg4
+  rotate: true
+  xy: 81, 1220
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+dragon_wonder_child_leg4
+  rotate: true
+  xy: 195, 744
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_r_lega
+  rotate: true
+  xy: 128, 981
+  size: 64, 35
+  orig: 64, 35
+  offset: 0, 0
+  index: -1
+dragon_wonder_baby_note2
+  rotate: false
+  xy: 182, 1351
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_wonder_baby_chin
+  rotate: false
+  xy: 43, 1347
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+dragon_wonder_baby_tail2
+  rotate: false
+  xy: 114, 1092
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_r_wing1
+  rotate: false
+  xy: 167, 936
+  size: 83, 62
+  orig: 83, 62
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_eff3
+  rotate: false
+  xy: 2, 301
+  size: 200, 197
+  orig: 200, 197
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_l_armc
+  rotate: false
+  xy: 204, 328
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+dragon_wonder_child_chin
+  rotate: false
+  xy: 217, 105
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_r_armd
+  rotate: false
+  xy: 167, 809
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+dragon_wonder_baby_eye3
+  rotate: false
+  xy: 2, 1352
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_chin
+  rotate: false
+  xy: 183, 1394
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_body1
+  rotate: false
+  xy: 111, 1242
+  size: 71, 66
+  orig: 71, 66
+  offset: 0, 0
+  index: -1
+dragon_wonder_child_eye3
+  rotate: false
+  xy: 141, 1379
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_r_wing2a
+  rotate: false
+  xy: 2, 893
+  size: 127, 65
+  orig: 127, 65
+  offset: 0, 0
+  index: -1
+dragon_wonder_child_ear
+  rotate: true
+  xy: 141, 1353
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+dragon_wonder_baby_leg1
+  rotate: true
+  xy: 195, 832
+  size: 20, 50
+  orig: 20, 50
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_tail3
+  rotate: true
+  xy: 77, 1260
+  size: 68, 32
+  orig: 68, 32
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_eff2
+  rotate: false
+  xy: 2, 132
+  size: 203, 167
+  orig: 205, 167
+  offset: 0, 0
+  index: -1
+dragon_wonder_child_body
+  rotate: false
+  xy: 112, 1163
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_l_armb
+  rotate: true
+  xy: 184, 1309
+  size: 40, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_r_arma
+  rotate: false
+  xy: 131, 893
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+dragon_wonder_baby_wing
+  rotate: true
+  xy: 75, 1386
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_r_legb
+  rotate: false
+  xy: 219, 1351
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+dragon_wonder_child_wing1
+  rotate: false
+  xy: 167, 854
+  size: 86, 80
+  orig: 86, 80
+  offset: 0, 0
+  index: -1
+dragon_wonder_child_eye2
+  rotate: false
+  xy: 234, 1379
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_eye
+  rotate: false
+  xy: 207, 144
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_l_lega
+  rotate: true
+  xy: 217, 61
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+dragon_wonder_baby_note1
+  rotate: false
+  xy: 43, 1386
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_wonder_baby_tail1
+  rotate: false
+  xy: 195, 797
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_eye4
+  rotate: false
+  xy: 207, 132
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_l_legd
+  rotate: false
+  xy: 76, 1365
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+dragon_wonder_child_tail
+  rotate: true
+  xy: 2, 960
+  size: 68, 124
+  orig: 68, 124
+  offset: 0, 0
+  index: -1
+dragon_wonder_baby_leg2
+  rotate: true
+  xy: 194, 1163
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+dragon_wonder_child_leg2
+  rotate: true
+  xy: 2, 1204
+  size: 41, 77
+  orig: 41, 77
+  offset: 0, 0
+  index: -1
+dragon_wonder_baby_head
+  rotate: true
+  xy: 195, 688
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+dragon_wonder_child_heart
+  rotate: false
+  xy: 207, 219
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_wonder_child_eye
+  rotate: false
+  xy: 163, 1310
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_body2
+  rotate: true
+  xy: 207, 174
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+dragon_wonder_baby_body
+  rotate: false
+  xy: 204, 392
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_r_armb
+  rotate: true
+  xy: 43, 1311
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_r_legc
+  rotate: false
+  xy: 77, 1330
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_tail1
+  rotate: true
+  xy: 160, 1066
+  size: 95, 94
+  orig: 95, 94
+  offset: 0, 0
+  index: -1
+dragon_wonder_child_wing2b
+  rotate: false
+  xy: 111, 1310
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+dragon_wonder_baby_neck
+  rotate: true
+  xy: 195, 614
+  size: 72, 56
+  orig: 72, 56
+  offset: 0, 0
+  index: -1
+dragon_wonder_child_wing1b
+  rotate: true
+  xy: 165, 1000
+  size: 64, 89
+  orig: 64, 89
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_eff1
+  rotate: true
+  xy: 2, 2
+  size: 128, 213
+  orig: 128, 213
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_l_arma
+  rotate: false
+  xy: 204, 450
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_eff4
+  rotate: true
+  xy: 2, 500
+  size: 307, 191
+  orig: 307, 191
+  offset: 0, 0
+  index: -1
+dragon_wonder_child_wing2
+  rotate: true
+  xy: 194, 1197
+  size: 68, 51
+  orig: 68, 51
+  offset: 0, 0
+  index: -1
+dragon_wonder_baby_horn
+  rotate: true
+  xy: 163, 1349
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+dragon_wonder_baby_leg3
+  rotate: false
+  xy: 141, 1396
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+dragon_wonder_baby_head2
+  rotate: true
+  xy: 131, 944
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_l_wing2a
+  rotate: false
+  xy: 2, 809
+  size: 163, 82
+  orig: 163, 82
+  offset: 0, 0
+  index: -1
+dragon_wonder_baby_ear
+  rotate: false
+  xy: 113, 1353
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+dragon_wonder_child_neck2
+  rotate: false
+  xy: 112, 1129
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_body3
+  rotate: true
+  xy: 114, 1047
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_l_wing1
+  rotate: false
+  xy: 2, 1110
+  size: 108, 92
+  orig: 108, 92
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_l_legc
+  rotate: true
+  xy: 98, 1384
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_r_armc
+  rotate: false
+  xy: 217, 2
+  size: 37, 57
+  orig: 37, 57
+  offset: 0, 0
+  index: -1
+dragon_wonder_baby_eye2
+  rotate: false
+  xy: 163, 1329
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_r_legd
+  rotate: false
+  xy: 81, 1204
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+dragon_wonder_baby_eye
+  rotate: false
+  xy: 208, 1394
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+dragon_wonder_adult_head
+  rotate: true
+  xy: 195, 563
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+dragon_wonder_child_leg1
+  rotate: true
+  xy: 184, 1267
+  size: 40, 65
+  orig: 40, 65
+  offset: 0, 0
+  index: -1

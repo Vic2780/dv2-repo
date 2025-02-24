@@ -1,0 +1,193 @@
+160_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_goldimp_cape2
+  rotate: true
+  xy: 447, 247
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+m_goldimp_gro_ear
+  rotate: false
+  xy: 443, 570
+  size: 63, 62
+  orig: 129, 94
+  offset: 40, 19
+  index: -1
+m_goldimp_body2
+  rotate: false
+  xy: 312, 151
+  size: 155, 79
+  orig: 155, 79
+  offset: 0, 0
+  index: -1
+m_goldimp_foot
+  rotate: false
+  xy: 2, 532
+  size: 81, 34
+  orig: 81, 34
+  offset: 0, 0
+  index: -1
+m_goldimp_gro_leg2
+  rotate: false
+  xy: 490, 2
+  size: 16, 16
+  orig: 28, 48
+  offset: 12, 18
+  index: -1
+m_goldimp_head
+  rotate: false
+  xy: 2, 261
+  size: 306, 209
+  orig: 312, 209
+  offset: 6, 0
+  index: -1
+m_goldimp_gro_body2
+  rotate: false
+  xy: 332, 532
+  size: 109, 43
+  orig: 155, 79
+  offset: 31, 34
+  index: -1
+m_goldimp_arm1
+  rotate: false
+  xy: 223, 612
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+m_goldimp_cape1
+  rotate: true
+  xy: 447, 380
+  size: 67, 54
+  orig: 67, 54
+  offset: 0, 0
+  index: -1
+m_goldimp_gro_head
+  rotate: true
+  xy: 312, 232
+  size: 298, 133
+  orig: 312, 209
+  offset: 0, 13
+  index: -1
+m_goldimp_body1
+  rotate: false
+  xy: 312, 2
+  size: 176, 68
+  orig: 176, 68
+  offset: 0, 0
+  index: -1
+m_goldimp_gro_hand
+  rotate: true
+  xy: 332, 577
+  size: 77, 76
+  orig: 91, 88
+  offset: 6, 3
+  index: -1
+m_goldimp_eye
+  rotate: true
+  xy: 291, 532
+  size: 122, 39
+  orig: 312, 209
+  offset: 99, 49
+  index: -1
+m_goldimp_gro_arm2
+  rotate: true
+  xy: 482, 72
+  size: 49, 23
+  orig: 65, 43
+  offset: 7, 6
+  index: -1
+m_goldimp_line
+  rotate: false
+  xy: 490, 20
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+m_goldimp_sk
+  rotate: false
+  xy: 312, 72
+  size: 168, 77
+  orig: 168, 77
+  offset: 0, 0
+  index: -1
+m_goldimp_string1
+  rotate: true
+  xy: 2, 472
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+m_goldimp_ear
+  rotate: false
+  xy: 2, 570
+  size: 129, 94
+  orig: 129, 94
+  offset: 0, 0
+  index: -1
+m_goldimp_bag2
+  rotate: false
+  xy: 85, 472
+  size: 204, 93
+  orig: 204, 93
+  offset: 0, 0
+  index: -1
+m_goldimp_twink
+  rotate: false
+  xy: 447, 317
+  size: 56, 61
+  orig: 56, 63
+  offset: 0, 0
+  index: -1
+m_goldimp_leg2
+  rotate: false
+  xy: 44, 472
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+m_goldimp_hand
+  rotate: true
+  xy: 133, 570
+  size: 91, 88
+  orig: 91, 88
+  offset: 0, 0
+  index: -1
+m_goldimp_string2
+  rotate: false
+  xy: 469, 151
+  size: 35, 94
+  orig: 35, 94
+  offset: 0, 0
+  index: -1
+m_goldimp_bag1
+  rotate: false
+  xy: 2, 2
+  size: 308, 257
+  orig: 308, 257
+  offset: 0, 0
+  index: -1
+m_goldimp_gro_leg1
+  rotate: false
+  xy: 447, 523
+  size: 50, 45
+  orig: 72, 53
+  offset: 9, 0
+  index: -1
+m_goldimp_arm2
+  rotate: false
+  xy: 223, 567
+  size: 65, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1
+m_goldimp_leg1
+  rotate: true
+  xy: 447, 449
+  size: 72, 51
+  orig: 72, 53
+  offset: 0, 2
+  index: -1

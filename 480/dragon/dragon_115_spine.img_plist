@@ -1,0 +1,459 @@
+dragon_115_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_totem_baby_eye
+  rotate: false
+  xy: 1010, 334
+  size: 46, 21
+  orig: 46, 21
+  offset: 0, 0
+  index: -1
+dragon_totem_adult_neck
+  rotate: false
+  xy: 784, 426
+  size: 57, 73
+  orig: 57, 73
+  offset: 0, 0
+  index: -1
+dragon_totem_adult_eye
+  rotate: true
+  xy: 830, 501
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+dragon_totem_adult_leg2
+  rotate: true
+  xy: 469, 297
+  size: 27, 54
+  orig: 27, 54
+  offset: 0, 0
+  index: -1
+dragon_totem_child_eye
+  rotate: false
+  xy: 962, 496
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_totem_child_leg2
+  rotate: false
+  xy: 893, 497
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+dragon_totem_critical_totem3
+  rotate: false
+  xy: 402, 2
+  size: 209, 293
+  orig: 209, 293
+  offset: 0, 0
+  index: -1
+dragon_totem_adult_tail
+  rotate: true
+  xy: 298, 302
+  size: 143, 81
+  orig: 143, 81
+  offset: 0, 0
+  index: -1
+dragon_totem_baby_head3
+  rotate: false
+  xy: 810, 501
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+dragon_totem_adult_leg4sign
+  rotate: true
+  xy: 469, 397
+  size: 33, 25
+  orig: 33, 63
+  offset: 0, 24
+  index: -1
+dragon_totem_baby_leg3
+  rotate: false
+  xy: 981, 487
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_totem_adult_body
+  rotate: false
+  xy: 829, 227
+  size: 104, 67
+  orig: 104, 67
+  offset: 0, 0
+  index: -1
+dragon_totem_critical_wind3
+  rotate: true
+  xy: 2, 305
+  size: 200, 294
+  orig: 236, 294
+  offset: 21, 0
+  index: -1
+dragon_totem_adult_leg1sign2
+  rotate: true
+  xy: 1058, 319
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+dragon_totem_baby_mouse
+  rotate: false
+  xy: 784, 501
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+dragon_totem_child_body
+  rotate: true
+  xy: 298, 447
+  size: 63, 59
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+dragon_totem_baby_leg6
+  rotate: false
+  xy: 872, 497
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+dragon_totem_child_mouse
+  rotate: true
+  xy: 1028, 477
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+dragon_totem_adult_leg1sign
+  rotate: true
+  xy: 981, 454
+  size: 31, 24
+  orig: 35, 44
+  offset: 1, 12
+  index: -1
+dragon_totem_baby_leg1
+  rotate: true
+  xy: 911, 496
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+dragon_totem_baby_wing
+  rotate: false
+  xy: 938, 496
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+dragon_totem_child_neck
+  rotate: true
+  xy: 469, 357
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+dragon_totem_adult_leg5
+  rotate: false
+  xy: 981, 432
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+dragon_totem_child_leg9
+  rotate: true
+  xy: 1010, 357
+  size: 20, 46
+  orig: 20, 46
+  offset: 0, 0
+  index: -1
+dragon_totem_critical_wind1
+  rotate: false
+  xy: 224, 2
+  size: 176, 298
+  orig: 186, 298
+  offset: 10, 0
+  index: -1
+dragon_totem_child_leg4
+  rotate: true
+  xy: 1054, 460
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+dragon_totem_critical_wind4
+  rotate: false
+  xy: 613, 2
+  size: 214, 292
+  orig: 214, 292
+  offset: 0, 0
+  index: -1
+dragon_totem_baby_head1
+  rotate: false
+  xy: 872, 296
+  size: 66, 69
+  orig: 66, 69
+  offset: 0, 0
+  index: -1
+dragon_totem_adult_leg4sign2
+  rotate: true
+  xy: 1058, 319
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+dragon_totem_baby_smile
+  rotate: true
+  xy: 872, 367
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_totem_child_leg1
+  rotate: true
+  xy: 1009, 416
+  size: 19, 44
+  orig: 19, 44
+  offset: 0, 0
+  index: -1
+dragon_totem_adult_tailsign2
+  rotate: true
+  xy: 1010, 296
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+dragon_totem_adult_leg6
+  rotate: false
+  xy: 934, 367
+  size: 29, 56
+  orig: 29, 56
+  offset: 0, 0
+  index: -1
+dragon_totem_child_leg6
+  rotate: true
+  xy: 1058, 297
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+dragon_totem_adult_leg3
+  rotate: false
+  xy: 1058, 363
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+dragon_totem_child_leg3
+  rotate: true
+  xy: 1059, 275
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+dragon_totem_adult_tailsign
+  rotate: false
+  xy: 496, 397
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+dragon_totem_adult_head
+  rotate: true
+  xy: 997, 227
+  size: 67, 60
+  orig: 67, 60
+  offset: 0, 0
+  index: -1
+dragon_totem_adult_head2
+  rotate: true
+  xy: 935, 227
+  size: 67, 60
+  orig: 67, 60
+  offset: 0, 0
+  index: -1
+dragon_totem_child_wing2
+  rotate: false
+  xy: 400, 432
+  size: 50, 75
+  orig: 50, 75
+  offset: 0, 0
+  index: -1
+dragon_totem_adult_wing
+  rotate: true
+  xy: 784, 296
+  size: 128, 86
+  orig: 128, 86
+  offset: 0, 0
+  index: -1
+dragon_totem_baby_leg4
+  rotate: false
+  xy: 381, 432
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+dragon_totem_child_head2
+  rotate: false
+  xy: 911, 426
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+dragon_totem_child_tail
+  rotate: true
+  xy: 965, 366
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+dragon_totem_critical_wind2
+  rotate: false
+  xy: 2, 2
+  size: 220, 301
+  orig: 220, 301
+  offset: 0, 0
+  index: -1
+dragon_totem_adult_heart
+  rotate: true
+  xy: 1059, 227
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_totem_baby_body
+  rotate: false
+  xy: 1056, 384
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+dragon_totem_adult_wing2
+  rotate: true
+  xy: 381, 302
+  size: 128, 86
+  orig: 128, 86
+  offset: 0, 0
+  index: -1
+dragon_totem_child_wing1
+  rotate: false
+  xy: 452, 432
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+dragon_totem_critical_eye
+  rotate: false
+  xy: 469, 326
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+dragon_totem_baby_tail
+  rotate: false
+  xy: 1028, 459
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+dragon_totem_adult_leg4
+  rotate: false
+  xy: 359, 447
+  size: 33, 63
+  orig: 33, 63
+  offset: 0, 0
+  index: -1
+dragon_totem_child_leg8
+  rotate: false
+  xy: 965, 410
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+dragon_totem_child_smile
+  rotate: true
+  xy: 872, 367
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_totem_baby_leg5
+  rotate: false
+  xy: 1006, 487
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+dragon_totem_child_head1
+  rotate: false
+  xy: 940, 296
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+dragon_totem_adult_leg1
+  rotate: true
+  xy: 1010, 379
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+dragon_totem_adult_mouse
+  rotate: false
+  xy: 982, 410
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+dragon_totem_child_leg5
+  rotate: false
+  xy: 1007, 459
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+dragon_totem_adult_leg7
+  rotate: false
+  xy: 1008, 437
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+dragon_totem_child_leg7
+  rotate: true
+  xy: 1055, 435
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+dragon_totem_critical_totem2
+  rotate: true
+  xy: 829, 2
+  size: 223, 269
+  orig: 223, 269
+  offset: 0, 0
+  index: -1
+dragon_totem_baby_head2
+  rotate: false
+  xy: 843, 426
+  size: 66, 69
+  orig: 66, 69
+  offset: 0, 0
+  index: -1
+dragon_totem_baby_leg2
+  rotate: true
+  xy: 843, 497
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+dragon_totem_critical_totem1
+  rotate: true
+  xy: 526, 297
+  size: 209, 256
+  orig: 209, 256
+  offset: 0, 0
+  index: -1

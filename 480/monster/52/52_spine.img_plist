@@ -1,0 +1,179 @@
+52_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_awaterfall_eye
+  rotate: true
+  xy: 111, 714
+  size: 176, 68
+  orig: 182, 70
+  offset: 3, 2
+  index: -1
+m_awaterfall_arm32
+  rotate: false
+  xy: 111, 391
+  size: 92, 159
+  orig: 92, 161
+  offset: 0, 1
+  index: -1
+m_awaterfall_groggyarm32
+  rotate: false
+  xy: 46, 995
+  size: 53, 66
+  orig: 53, 66
+  offset: 0, 0
+  index: -1
+m_awaterfall_tail
+  rotate: true
+  xy: 2, 1622
+  size: 197, 206
+  orig: 197, 206
+  offset: 0, 0
+  index: -1
+m_awaterfall_arm4
+  rotate: false
+  xy: 2, 766
+  size: 65, 141
+  orig: 67, 141
+  offset: 0, 0
+  index: -1
+m_awaterfall_body
+  rotate: false
+  xy: 2, 1400
+  size: 207, 220
+  orig: 207, 220
+  offset: 0, 0
+  index: -1
+m_awaterfall_groggyeye
+  rotate: true
+  xy: 111, 210
+  size: 179, 86
+  orig: 179, 90
+  offset: 0, 0
+  index: -1
+m_awaterfall_groggyarm2
+  rotate: false
+  xy: 199, 210
+  size: 11, 31
+  orig: 11, 31
+  offset: 0, 0
+  index: -1
+m_awaterfall_light1
+  rotate: true
+  xy: 2, 2
+  size: 762, 107
+  orig: 768, 107
+  offset: 6, 0
+  index: -1
+m_awaterfall_groggyarm12
+  rotate: false
+  xy: 2, 995
+  size: 42, 114
+  orig: 50, 114
+  offset: 8, 0
+  index: -1
+m_awaterfall_groggybody
+  rotate: false
+  xy: 2, 1111
+  size: 208, 287
+  orig: 208, 287
+  offset: 0, 0
+  index: -1
+m_awaterfall_finger1
+  rotate: false
+  xy: 101, 1041
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+m_awaterfall_eyelight
+  rotate: true
+  xy: 111, 2
+  size: 206, 92
+  orig: 206, 92
+  offset: 0, 0
+  index: -1
+m_awaterfall_arm11
+  rotate: false
+  xy: 181, 714
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+m_awaterfall_head1
+  rotate: true
+  xy: 69, 766
+  size: 69, 39
+  orig: 69, 39
+  offset: 0, 0
+  index: -1
+m_awaterfall_light2
+  rotate: true
+  xy: 173, 902
+  size: 162, 42
+  orig: 162, 44
+  offset: 0, 0
+  index: -1
+m_awaterfall_arm2
+  rotate: false
+  xy: 109, 892
+  size: 62, 147
+  orig: 62, 147
+  offset: 0, 0
+  index: -1
+m_awaterfall_arm31
+  rotate: false
+  xy: 69, 837
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+m_awaterfall_groggyfinger1
+  rotate: false
+  xy: 181, 882
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+m_awaterfall_finger2
+  rotate: false
+  xy: 46, 1063
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+m_awaterfall_groggyarm4
+  rotate: false
+  xy: 181, 768
+  size: 18, 70
+  orig: 24, 72
+  offset: 3, 2
+  index: -1
+m_awaterfall_arm12
+  rotate: false
+  xy: 111, 552
+  size: 89, 160
+  orig: 89, 162
+  offset: 0, 0
+  index: -1
+m_awaterfall_head2
+  rotate: true
+  xy: 2, 1821
+  size: 186, 196
+  orig: 188, 196
+  offset: 2, 0
+  index: -1
+m_awaterfall_groggyhead1
+  rotate: true
+  xy: 181, 840
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+m_awaterfall_groggytail
+  rotate: false
+  xy: 2, 909
+  size: 91, 84
+  orig: 91, 84
+  offset: 0, 0
+  index: -1

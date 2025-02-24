@@ -1,0 +1,431 @@
+dragon_89_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_bluelightning_adult_leg1
+  rotate: false
+  xy: 966, 198
+  size: 37, 21
+  orig: 41, 23
+  offset: 4, 1
+  index: -1
+dragon_bluelightning_critical_light5
+  rotate: false
+  xy: 329, 2
+  size: 350, 105
+  orig: 350, 119
+  offset: 0, 14
+  index: -1
+dragon_bluelightning_adult_neck1
+  rotate: true
+  xy: 902, 110
+  size: 38, 32
+  orig: 62, 60
+  offset: 15, 22
+  index: -1
+dragon_bluelightning_adult_leg6
+  rotate: true
+  xy: 944, 237
+  size: 32, 20
+  orig: 38, 22
+  offset: 4, 2
+  index: -1
+dragon_bluelightning_baby_s
+  rotate: false
+  xy: 833, 150
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_bluelightning_critical_light7
+  rotate: false
+  xy: 811, 263
+  size: 40, 40
+  orig: 68, 72
+  offset: 13, 19
+  index: -1
+dragon_bluelightning_adult_leg4
+  rotate: false
+  xy: 966, 221
+  size: 36, 20
+  orig: 38, 24
+  offset: 2, 3
+  index: -1
+dragon_bluelightning_child_body
+  rotate: false
+  xy: 826, 62
+  size: 88, 44
+  orig: 88, 44
+  offset: 0, 0
+  index: -1
+dragon_bluelightning_adult_wing
+  rotate: false
+  xy: 681, 2
+  size: 143, 101
+  orig: 143, 101
+  offset: 0, 0
+  index: -1
+dragon_bluelightning_child_leg2
+  rotate: false
+  xy: 782, 263
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+dragon_bluelightning_child_head
+  rotate: false
+  xy: 826, 108
+  size: 74, 40
+  orig: 74, 40
+  offset: 0, 0
+  index: -1
+dragon_bluelightning_child_love2
+  rotate: true
+  xy: 403, 276
+  size: 28, 26
+  orig: 74, 40
+  offset: 2, 14
+  index: -1
+dragon_bluelightning_child_wing2
+  rotate: false
+  xy: 704, 164
+  size: 66, 60
+  orig: 66, 82
+  offset: 0, 18
+  index: -1
+dragon_bluelightning_critical_light2
+  rotate: false
+  xy: 403, 194
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+dragon_bluelightning_adult_love1
+  rotate: true
+  xy: 620, 191
+  size: 61, 42
+  orig: 61, 44
+  offset: 0, 2
+  index: -1
+dragon_bluelightning_adult_body
+  rotate: false
+  xy: 826, 2
+  size: 113, 58
+  orig: 113, 60
+  offset: 0, 1
+  index: -1
+dragon_bluelightning_baby_leg
+  rotate: false
+  xy: 540, 246
+  size: 74, 37
+  orig: 80, 39
+  offset: 0, 0
+  index: -1
+dragon_bluelightning_adult_mouth2
+  rotate: false
+  xy: 594, 285
+  size: 15, 12
+  orig: 61, 44
+  offset: 19, 5
+  index: -1
+dragon_bluelightning_adult_mouth
+  rotate: false
+  xy: 545, 285
+  size: 23, 18
+  orig: 61, 44
+  offset: 5, 0
+  index: -1
+dragon_bluelightning_child_leg1
+  rotate: true
+  xy: 966, 243
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+dragon_bluelightning_child_neck1
+  rotate: true
+  xy: 916, 62
+  size: 46, 21
+  orig: 70, 57
+  offset: 9, 28
+  index: -1
+dragon_bluelightning_child_wing3
+  rotate: false
+  xy: 522, 109
+  size: 66, 80
+  orig: 66, 82
+  offset: 0, 2
+  index: -1
+dragon_bluelightning_critical_light3
+  rotate: false
+  xy: 2, 2
+  size: 325, 302
+  orig: 325, 318
+  offset: 0, 16
+  index: -1
+dragon_bluelightning_adult_att
+  rotate: false
+  xy: 853, 256
+  size: 61, 42
+  orig: 61, 44
+  offset: 0, 2
+  index: -1
+dragon_bluelightning_adult_head
+  rotate: false
+  xy: 841, 212
+  size: 61, 42
+  orig: 61, 44
+  offset: 0, 2
+  index: -1
+dragon_bluelightning_child_love1
+  rotate: true
+  xy: 658, 109
+  size: 74, 40
+  orig: 74, 40
+  offset: 0, 0
+  index: -1
+dragon_bluelightning_child_wing1
+  rotate: false
+  xy: 590, 109
+  size: 66, 80
+  orig: 66, 82
+  offset: 0, 2
+  index: -1
+dragon_bluelightning_adult_hit
+  rotate: false
+  xy: 719, 259
+  size: 61, 42
+  orig: 61, 44
+  offset: 0, 2
+  index: -1
+dragon_bluelightning_adult_leg2
+  rotate: false
+  xy: 892, 150
+  size: 39, 53
+  orig: 45, 57
+  offset: 5, 0
+  index: -1
+dragon_bluelightning_child_leg32
+  rotate: true
+  xy: 994, 270
+  size: 17, 9
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+dragon_bluelightning_child_leg4
+  rotate: false
+  xy: 616, 254
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+dragon_bluelightning_child_neck
+  rotate: false
+  xy: 700, 105
+  size: 70, 57
+  orig: 70, 57
+  offset: 0, 0
+  index: -1
+dragon_bluelightning_adult_leg7
+  rotate: true
+  xy: 431, 276
+  size: 26, 46
+  orig: 28, 46
+  offset: 0, 0
+  index: -1
+dragon_bluelightning_baby_neck
+  rotate: true
+  xy: 664, 185
+  size: 72, 38
+  orig: 74, 44
+  offset: 2, 1
+  index: -1
+dragon_bluelightning_child_leg21
+  rotate: false
+  xy: 933, 198
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+dragon_bluelightning_adult_neck
+  rotate: false
+  xy: 772, 158
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+dragon_bluelightning_baby_body
+  rotate: false
+  xy: 704, 226
+  size: 51, 31
+  orig: 51, 31
+  offset: 0, 0
+  index: -1
+dragon_bluelightning_adult_tail
+  rotate: false
+  xy: 403, 109
+  size: 117, 83
+  orig: 117, 83
+  offset: 0, 0
+  index: -1
+dragon_bluelightning_adult_h
+  rotate: false
+  xy: 793, 222
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_bluelightning_baby_love
+  rotate: true
+  xy: 485, 194
+  size: 78, 53
+  orig: 84, 53
+  offset: 3, 0
+  index: -1
+dragon_bluelightning_adult_leg5
+  rotate: true
+  xy: 939, 99
+  size: 29, 52
+  orig: 39, 56
+  offset: 7, 3
+  index: -1
+dragon_bluelightning_child_leg33
+  rotate: false
+  xy: 966, 270
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+dragon_bluelightning_child_tail
+  rotate: true
+  xy: 941, 2
+  size: 95, 62
+  orig: 95, 62
+  offset: 0, 0
+  index: -1
+dragon_bluelightning_baby_head
+  rotate: false
+  xy: 540, 191
+  size: 78, 53
+  orig: 84, 53
+  offset: 3, 0
+  index: -1
+dragon_bluelightning_child_leg12
+  rotate: false
+  xy: 933, 159
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+dragon_bluelightning_baby_arm1
+  rotate: false
+  xy: 976, 130
+  size: 21, 35
+  orig: 27, 39
+  offset: 3, 2
+  index: -1
+dragon_bluelightning_child_leg31
+  rotate: true
+  xy: 936, 130
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+dragon_bluelightning_adult_effect
+  rotate: true
+  xy: 772, 105
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+dragon_bluelightning_adult_loveclose
+  rotate: false
+  xy: 970, 167
+  size: 11, 12
+  orig: 61, 44
+  offset: 11, 12
+  index: -1
+dragon_bluelightning_baby_eye
+  rotate: false
+  xy: 521, 285
+  size: 22, 19
+  orig: 84, 53
+  offset: 33, 28
+  index: -1
+dragon_bluelightning_child_eye
+  rotate: false
+  xy: 570, 285
+  size: 22, 16
+  orig: 74, 40
+  offset: 18, 15
+  index: -1
+dragon_bluelightning_baby_tail
+  rotate: false
+  xy: 757, 226
+  size: 34, 31
+  orig: 44, 39
+  offset: 4, 2
+  index: -1
+dragon_bluelightning_child_mouth
+  rotate: true
+  xy: 916, 247
+  size: 38, 26
+  orig: 74, 40
+  offset: 0, 0
+  index: -1
+dragon_bluelightning_adult_eye
+  rotate: false
+  xy: 970, 181
+  size: 11, 12
+  orig: 61, 44
+  offset: 11, 12
+  index: -1
+dragon_bluelightning_adult_leg3
+  rotate: true
+  xy: 479, 285
+  size: 19, 40
+  orig: 21, 40
+  offset: 1, 0
+  index: -1
+dragon_bluelightning_critical_light
+  rotate: false
+  xy: 329, 109
+  size: 72, 188
+  orig: 72, 188
+  offset: 0, 0
+  index: -1
+dragon_bluelightning_adult_love_eye
+  rotate: false
+  xy: 994, 289
+  size: 9, 10
+  orig: 61, 44
+  offset: 12, 14
+  index: -1
+dragon_bluelightning_child_leg11
+  rotate: false
+  xy: 916, 287
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+dragon_bluelightning_baby_arm2
+  rotate: false
+  xy: 904, 205
+  size: 27, 40
+  orig: 35, 46
+  offset: 5, 2
+  index: -1
+dragon_bluelightning_adult_love2
+  rotate: true
+  xy: 944, 271
+  size: 25, 20
+  orig: 61, 44
+  offset: 4, 9
+  index: -1
+dragon_bluelightning_critical_light6
+  rotate: true
+  xy: 658, 259
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1

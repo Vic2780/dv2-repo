@@ -1,0 +1,319 @@
+115_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_dfiredragon_body2
+  rotate: false
+  xy: 293, 1512
+  size: 251, 97
+  orig: 251, 97
+  offset: 0, 0
+  index: -1
+m_dfiredragon_groggybody2
+  rotate: true
+  xy: 2, 1749
+  size: 212, 87
+  orig: 212, 87
+  offset: 0, 0
+  index: -1
+m_dfiredragon_light3
+  rotate: true
+  xy: 426, 835
+  size: 173, 175
+  orig: 173, 175
+  offset: 0, 0
+  index: -1
+m_dfiredragon_hand2
+  rotate: false
+  xy: 91, 1749
+  size: 188, 210
+  orig: 188, 210
+  offset: 0, 0
+  index: -1
+m_dfiredragon_body11
+  rotate: true
+  xy: 243, 1529
+  size: 72, 47
+  orig: 72, 47
+  offset: 0, 0
+  index: -1
+m_dfiredragon_hand1
+  rotate: true
+  xy: 412, 1611
+  size: 195, 188
+  orig: 195, 188
+  offset: 0, 0
+  index: -1
+m_dfiredragon_groggyhead11
+  rotate: false
+  xy: 463, 126
+  size: 135, 124
+  orig: 135, 124
+  offset: 0, 0
+  index: -1
+m_dfiredragon_groggymouth
+  rotate: true
+  xy: 563, 1332
+  size: 48, 33
+  orig: 48, 33
+  offset: 0, 0
+  index: -1
+m_dfiredragon_groggyarm42
+  rotate: false
+  xy: 563, 1382
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+m_dfiredragon_bodylight
+  rotate: true
+  xy: 281, 1748
+  size: 204, 105
+  orig: 206, 107
+  offset: 1, 0
+  index: -1
+m_dfiredragon_cristal1
+  rotate: true
+  xy: 412, 1926
+  size: 106, 87
+  orig: 106, 87
+  offset: 0, 0
+  index: -1
+m_dfiredragon_groggyarm5
+  rotate: true
+  xy: 290, 1611
+  size: 44, 78
+  orig: 44, 78
+  offset: 0, 0
+  index: -1
+m_dfiredragon_groggyarm41
+  rotate: true
+  xy: 546, 1550
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+m_dfiredragon_body12
+  rotate: false
+  xy: 2, 1242
+  size: 289, 285
+  orig: 289, 285
+  offset: 0, 0
+  index: -1
+m_dfiredragon_mouth
+  rotate: false
+  xy: 243, 1657
+  size: 108, 89
+  orig: 108, 89
+  offset: 0, 0
+  index: -1
+m_dfiredragon_groggybodymouth
+  rotate: true
+  xy: 2, 1963
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1
+m_dfiredragon_bodymouth
+  rotate: true
+  xy: 293, 1327
+  size: 183, 120
+  orig: 183, 120
+  offset: 0, 0
+  index: -1
+m_dfiredragon_light2f1
+  rotate: true
+  xy: 426, 1057
+  size: 110, 149
+  orig: 110, 149
+  offset: 0, 0
+  index: -1
+m_dfiredragon_groggybody11
+  rotate: true
+  xy: 210, 1961
+  size: 72, 44
+  orig: 72, 44
+  offset: 0, 0
+  index: -1
+m_dfiredragon_headlight
+  rotate: false
+  xy: 463, 288
+  size: 132, 111
+  orig: 132, 111
+  offset: 0, 0
+  index: -1
+m_dfiredragon_groggycristal1
+  rotate: false
+  xy: 546, 1477
+  size: 55, 71
+  orig: 55, 71
+  offset: 0, 0
+  index: -1
+m_dfiredragon_groggyarm2
+  rotate: false
+  xy: 132, 1961
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+m_dfiredragon_arm42
+  rotate: false
+  xy: 426, 1169
+  size: 149, 79
+  orig: 149, 79
+  offset: 0, 0
+  index: -1
+m_dfiredragon_arm1
+  rotate: false
+  xy: 256, 1961
+  size: 99, 53
+  orig: 99, 53
+  offset: 0, 0
+  index: -1
+m_dfiredragon_light2f2
+  rotate: true
+  xy: 463, 401
+  size: 147, 131
+  orig: 147, 131
+  offset: 0, 0
+  index: -1
+m_dfiredragon_fire2
+  rotate: true
+  xy: 2, 824
+  size: 416, 422
+  orig: 416, 460
+  offset: 0, 2
+  index: -1
+m_dfiredragon_arm41
+  rotate: true
+  xy: 81, 1963
+  size: 59, 49
+  orig: 59, 49
+  offset: 0, 0
+  index: -1
+m_dfiredragon_fire1
+  rotate: true
+  xy: 2, 2
+  size: 414, 459
+  orig: 416, 461
+  offset: 1, 2
+  index: -1
+m_dfiredragon_light1f1
+  rotate: false
+  xy: 463, 2
+  size: 137, 122
+  orig: 137, 122
+  offset: 0, 0
+  index: -1
+m_dfiredragon_groggyarm32
+  rotate: false
+  xy: 563, 1413
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+m_dfiredragon_groggycristal2
+  rotate: false
+  xy: 463, 252
+  size: 133, 34
+  orig: 133, 34
+  offset: 0, 0
+  index: -1
+m_dfiredragon_eye
+  rotate: true
+  xy: 370, 1611
+  size: 108, 39
+  orig: 108, 49
+  offset: 0, 1
+  index: -1
+m_dfiredragon_groggyarm31
+  rotate: false
+  xy: 243, 1603
+  size: 45, 52
+  orig: 45, 52
+  offset: 0, 0
+  index: -1
+m_dfiredragon_light2f3
+  rotate: false
+  xy: 415, 1332
+  size: 146, 143
+  orig: 146, 143
+  offset: 0, 0
+  index: -1
+m_dfiredragon_fire3
+  rotate: true
+  xy: 2, 418
+  size: 404, 459
+  orig: 416, 459
+  offset: 1, 0
+  index: -1
+m_dfiredragon_groggyhead12
+  rotate: true
+  xy: 504, 1808
+  size: 102, 94
+  orig: 102, 96
+  offset: 0, 1
+  index: -1
+m_dfiredragon_light1f2
+  rotate: true
+  xy: 388, 1808
+  size: 116, 114
+  orig: 116, 114
+  offset: 0, 0
+  index: -1
+m_dfiredragon_arm2
+  rotate: false
+  xy: 419, 1250
+  size: 176, 80
+  orig: 176, 80
+  offset: 0, 0
+  index: -1
+m_dfiredragon_head11
+  rotate: true
+  xy: 463, 711
+  size: 122, 128
+  orig: 122, 128
+  offset: 0, 0
+  index: -1
+m_dfiredragon_cristal2
+  rotate: false
+  xy: 426, 1010
+  size: 161, 45
+  orig: 161, 45
+  offset: 0, 0
+  index: -1
+m_dfiredragon_arm32
+  rotate: true
+  xy: 504, 1912
+  size: 116, 74
+  orig: 116, 74
+  offset: 0, 0
+  index: -1
+m_dfiredragon_arm5
+  rotate: false
+  xy: 293, 1242
+  size: 124, 83
+  orig: 124, 83
+  offset: 0, 0
+  index: -1
+m_dfiredragon_groggybody12
+  rotate: false
+  xy: 2, 1529
+  size: 239, 218
+  orig: 239, 218
+  offset: 0, 0
+  index: -1
+m_dfiredragon_arm31
+  rotate: true
+  xy: 357, 1954
+  size: 79, 53
+  orig: 79, 53
+  offset: 0, 0
+  index: -1
+m_dfiredragon_head12
+  rotate: false
+  xy: 463, 550
+  size: 128, 159
+  orig: 128, 159
+  offset: 0, 0
+  index: -1

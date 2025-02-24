@@ -1,0 +1,536 @@
+dragon_3004_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_cthulhu_adult_tentacle6
+  rotate: false
+  xy: 1684, 244
+  size: 62, 91
+  orig: 62, 91
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_critical4
+  rotate: true
+  xy: 668, 345
+  size: 164, 263
+  orig: 164, 263
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_eye
+  rotate: false
+  xy: 933, 501
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_critical03
+  rotate: false
+  xy: 218, 417
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_baby_body
+  rotate: true
+  xy: 1809, 244
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_leg2
+  rotate: false
+  xy: 1801, 443
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_child_leg2
+  rotate: true
+  xy: 1789, 467
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_baby_tail
+  rotate: false
+  xy: 1809, 305
+  size: 55, 32
+  orig: 55, 32
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_tentacle2
+  rotate: true
+  xy: 1685, 337
+  size: 47, 68
+  orig: 47, 68
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_critical8
+  rotate: false
+  xy: 668, 2
+  size: 322, 341
+  orig: 372, 413
+  offset: 28, 3
+  index: -1
+dragon_cthulhu_adult_wing3
+  rotate: false
+  xy: 1748, 244
+  size: 59, 83
+  orig: 59, 83
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_attack
+  rotate: false
+  xy: 1662, 464
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_baby_tentacle3
+  rotate: true
+  xy: 1755, 402
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_child_tail2
+  rotate: true
+  xy: 1625, 378
+  size: 95, 35
+  orig: 95, 35
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_child_tentacle1
+  rotate: true
+  xy: 1566, 445
+  size: 58, 45
+  orig: 58, 45
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_critical02
+  rotate: false
+  xy: 312, 417
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_mouth
+  rotate: false
+  xy: 1906, 467
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_tentacle7
+  rotate: false
+  xy: 1454, 259
+  size: 88, 107
+  orig: 88, 107
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_body
+  rotate: false
+  xy: 1866, 2
+  size: 83, 134
+  orig: 83, 134
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_child_body
+  rotate: false
+  xy: 1544, 259
+  size: 63, 102
+  orig: 63, 102
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_wing2
+  rotate: false
+  xy: 1336, 259
+  size: 116, 185
+  orig: 116, 185
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_child_arm2
+  rotate: false
+  xy: 933, 453
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_baby_leg
+  rotate: false
+  xy: 1847, 455
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_tail3
+  rotate: false
+  xy: 1336, 446
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_baby_tentacle2
+  rotate: false
+  xy: 1717, 386
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_child_tail1
+  rotate: false
+  xy: 1542, 385
+  size: 50, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_child_tentacle2
+  rotate: true
+  xy: 1218, 468
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_tentacle3
+  rotate: true
+  xy: 1859, 376
+  size: 38, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_critical3
+  rotate: false
+  xy: 992, 2
+  size: 305, 277
+  orig: 305, 277
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_baby_wing1
+  rotate: true
+  xy: 1717, 437
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_child_love
+  rotate: false
+  xy: 1755, 329
+  size: 50, 71
+  orig: 50, 71
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_baby_head
+  rotate: false
+  xy: 1510, 445
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_arm1
+  rotate: true
+  xy: 1609, 342
+  size: 34, 74
+  orig: 34, 74
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_baby_arm2
+  rotate: false
+  xy: 1299, 259
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_head
+  rotate: false
+  xy: 1662, 425
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_child_leg1
+  rotate: true
+  xy: 1910, 422
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_tentacle8
+  rotate: true
+  xy: 2, 417
+  size: 86, 120
+  orig: 86, 120
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_child_eye
+  rotate: false
+  xy: 1435, 468
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_wing1
+  rotate: false
+  xy: 599, 417
+  size: 58, 83
+  orig: 58, 83
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_critical7
+  rotate: false
+  xy: 340, 2
+  size: 326, 413
+  orig: 372, 413
+  offset: 19, 0
+  index: -1
+dragon_cthulhu_child_effect
+  rotate: false
+  xy: 933, 345
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_arm4
+  rotate: true
+  xy: 1717, 483
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_tail2
+  rotate: true
+  xy: 1859, 339
+  size: 35, 86
+  orig: 35, 86
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_leg1
+  rotate: false
+  xy: 1394, 446
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_tentacle4
+  rotate: false
+  xy: 1755, 436
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_critical2
+  rotate: false
+  xy: 1588, 2
+  size: 276, 240
+  orig: 276, 240
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_critical01
+  rotate: false
+  xy: 406, 417
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_leg4
+  rotate: false
+  xy: 1544, 363
+  size: 61, 20
+  orig: 61, 20
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_child_tentacle3
+  rotate: true
+  xy: 1866, 263
+  size: 43, 78
+  orig: 43, 78
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_critical6
+  rotate: false
+  xy: 2, 2
+  size: 336, 413
+  orig: 372, 413
+  offset: 16, 0
+  index: -1
+dragon_cthulhu_adult_critical04
+  rotate: false
+  xy: 124, 417
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_child_wing2
+  rotate: false
+  xy: 1609, 244
+  size: 73, 96
+  orig: 73, 96
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_baby_love
+  rotate: false
+  xy: 1454, 445
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_child_arm1
+  rotate: false
+  xy: 1594, 385
+  size: 29, 55
+  orig: 29, 55
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_baby_arm1
+  rotate: true
+  xy: 500, 492
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_baby_eye
+  rotate: false
+  xy: 1435, 446
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_tail1
+  rotate: false
+  xy: 1866, 138
+  size: 85, 63
+  orig: 85, 63
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_critical1
+  rotate: true
+  xy: 1299, 2
+  size: 255, 287
+  orig: 255, 287
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_damaged
+  rotate: false
+  xy: 1855, 416
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_baby_tentacle5
+  rotate: false
+  xy: 1613, 475
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_baby_mouth
+  rotate: false
+  xy: 1878, 455
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_wing4
+  rotate: false
+  xy: 1218, 281
+  size: 116, 185
+  orig: 116, 185
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_child_head
+  rotate: false
+  xy: 1807, 339
+  size: 50, 71
+  orig: 50, 71
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_arm3
+  rotate: false
+  xy: 1817, 465
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_child_tentacle4
+  rotate: true
+  xy: 933, 407
+  size: 44, 57
+  orig: 44, 57
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_love
+  rotate: false
+  xy: 1662, 386
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_tentacle5
+  rotate: true
+  xy: 1454, 368
+  size: 75, 86
+  orig: 75, 86
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_baby_tentacle1
+  rotate: true
+  xy: 1757, 467
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_child_wing1
+  rotate: true
+  xy: 500, 417
+  size: 73, 97
+  orig: 73, 97
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_child_mouth
+  rotate: false
+  xy: 1847, 483
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_leg3
+  rotate: true
+  xy: 1806, 412
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_baby_tentacle4
+  rotate: true
+  xy: 1280, 468
+  size: 29, 54
+  orig: 29, 54
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_baby_wing2
+  rotate: true
+  xy: 1920, 376
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_tentacle1
+  rotate: true
+  xy: 1866, 203
+  size: 58, 85
+  orig: 58, 85
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_adult_arm2
+  rotate: false
+  xy: 1866, 308
+  size: 67, 29
+  orig: 67, 29
+  offset: 0, 0
+  index: -1
+dragon_cthulhu_baby_t
+  rotate: true
+  xy: 992, 281
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1

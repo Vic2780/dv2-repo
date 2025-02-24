@@ -1,0 +1,410 @@
+dragon_27_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_insect_adult_eye2
+  rotate: false
+  xy: 242, 36
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+dragon_insect_baby_feelers1
+  rotate: true
+  xy: 198, 647
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+dragon_insect_adult_leg6
+  rotate: true
+  xy: 153, 484
+  size: 21, 49
+  orig: 21, 49
+  offset: 0, 0
+  index: -1
+dragon_insect_critical_moth2
+  rotate: false
+  xy: 207, 435
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+dragon_insect_child_tail
+  rotate: false
+  xy: 90, 648
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+dragon_insect_child_wing
+  rotate: true
+  xy: 2, 648
+  size: 56, 86
+  orig: 56, 86
+  offset: 0, 0
+  index: -1
+dragon_insect_adult_note1
+  rotate: false
+  xy: 189, 507
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_insect_adult_leg4
+  rotate: true
+  xy: 152, 550
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+dragon_insect_adult_eye5
+  rotate: false
+  xy: 242, 24
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+dragon_insect_baby_eye2
+  rotate: false
+  xy: 53, 706
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_insect_child_eye3
+  rotate: false
+  xy: 240, 332
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+dragon_insect_child_neck
+  rotate: true
+  xy: 158, 614
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+dragon_insect_baby_body
+  rotate: false
+  xy: 158, 575
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+dragon_insect_child_mouse
+  rotate: true
+  xy: 240, 308
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+dragon_insect_child_head
+  rotate: false
+  xy: 204, 468
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+dragon_insect_child_heart
+  rotate: false
+  xy: 153, 443
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_insect_critical_moth1
+  rotate: false
+  xy: 192, 699
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+dragon_insect_baby_note2
+  rotate: false
+  xy: 152, 507
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_insect_baby_leg
+  rotate: true
+  xy: 227, 682
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+dragon_insect_adult_neck
+  rotate: false
+  xy: 112, 507
+  size: 38, 71
+  orig: 38, 71
+  offset: 0, 0
+  index: -1
+dragon_insect_child_leg2
+  rotate: false
+  xy: 2, 706
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+dragon_insect_baby_mouse
+  rotate: true
+  xy: 235, 578
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+dragon_insect_adult_leg2
+  rotate: true
+  xy: 198, 671
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+dragon_insect_adult_wing
+  rotate: false
+  xy: 2, 545
+  size: 108, 101
+  orig: 108, 101
+  offset: 0, 0
+  index: -1
+dragon_insect_adult_eye3
+  rotate: false
+  xy: 220, 565
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+dragon_insect_adult_feelers
+  rotate: true
+  xy: 112, 424
+  size: 81, 39
+  orig: 81, 39
+  offset: 0, 0
+  index: -1
+dragon_insect_adult_leg7
+  rotate: true
+  xy: 225, 609
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+dragon_insect_adult_body
+  rotate: false
+  xy: 155, 283
+  size: 83, 57
+  orig: 83, 57
+  offset: 0, 0
+  index: -1
+dragon_insect_child_body
+  rotate: true
+  xy: 112, 580
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+dragon_insect_baby_eye1
+  rotate: false
+  xy: 222, 701
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_insect_adult_tail
+  rotate: true
+  xy: 155, 171
+  size: 110, 97
+  orig: 110, 97
+  offset: 0, 0
+  index: -1
+dragon_insect_critical_bress2
+  rotate: false
+  xy: 2, 2
+  size: 238, 167
+  orig: 238, 167
+  offset: 0, 0
+  index: -1
+dragon_insect_adult_eye1
+  rotate: false
+  xy: 242, 48
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+dragon_insect_child_leg1
+  rotate: true
+  xy: 146, 699
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+dragon_insect_baby_wing
+  rotate: true
+  xy: 218, 342
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+dragon_insect_adult_leg5
+  rotate: false
+  xy: 225, 637
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+dragon_insect_baby_note1
+  rotate: false
+  xy: 189, 507
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_insect_baby_arm
+  rotate: false
+  xy: 240, 283
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+dragon_insect_baby_eye3
+  rotate: true
+  xy: 242, 2
+  size: 20, 12
+  orig: 20, 20
+  offset: 0, 8
+  index: -1
+dragon_insect_critical_flame2
+  rotate: false
+  xy: 2, 424
+  size: 108, 119
+  orig: 108, 119
+  offset: 0, 0
+  index: -1
+dragon_insect_child_arm2
+  rotate: false
+  xy: 221, 505
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+dragon_insect_adult_eye4
+  rotate: false
+  xy: 241, 468
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+dragon_insect_child_eye2
+  rotate: false
+  xy: 94, 712
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+dragon_insect_adult_head
+  rotate: false
+  xy: 198, 578
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+dragon_insect_adult_note2
+  rotate: false
+  xy: 152, 507
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_insect_child_feelers
+  rotate: false
+  xy: 218, 376
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+dragon_insect_child_arm1
+  rotate: false
+  xy: 201, 609
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+dragon_insect_child_leg3
+  rotate: true
+  xy: 155, 418
+  size: 23, 50
+  orig: 23, 50
+  offset: 0, 0
+  index: -1
+dragon_insect_critical_bress1
+  rotate: true
+  xy: 2, 171
+  size: 251, 151
+  orig: 251, 153
+  offset: 0, 1
+  index: -1
+dragon_insect_child_eye1
+  rotate: false
+  xy: 110, 712
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+dragon_insect_adult_leg3
+  rotate: true
+  xy: 199, 547
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+dragon_insect_adult_cheek
+  rotate: false
+  xy: 75, 712
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_insect_adult_mouse
+  rotate: false
+  xy: 227, 662
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+dragon_insect_baby_head
+  rotate: false
+  xy: 146, 647
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+dragon_insect_critical_flame1
+  rotate: false
+  xy: 155, 342
+  size: 61, 74
+  orig: 61, 74
+  offset: 0, 0
+  index: -1
+dragon_insect_baby_feelers2
+  rotate: true
+  xy: 28, 706
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+dragon_insect_adult_leg1
+  rotate: true
+  xy: 222, 545
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+dragon_insect_baby_tail
+  rotate: true
+  xy: 218, 407
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,18 @@
+scouter_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+yongsin_eye
+  rotate: false
+  xy: 2, 2
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+yongsin_eye_ef
+  rotate: false
+  xy: 52, 2
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1

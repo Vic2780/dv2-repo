@@ -1,0 +1,473 @@
+dragon_4_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_asian_adult_leg1
+  rotate: false
+  xy: 1021, 384
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+dragon_asian_baby_eye
+  rotate: false
+  xy: 793, 426
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+dragon_asian_adult_su1
+  rotate: false
+  xy: 310, 481
+  size: 67, 19
+  orig: 67, 19
+  offset: 0, 0
+  index: -1
+dragon_asian_child_tail
+  rotate: false
+  xy: 583, 334
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+dragon_asian_critical_light1
+  rotate: false
+  xy: 2, 2
+  size: 303, 236
+  orig: 307, 236
+  offset: 0, 0
+  index: -1
+dragon_asian_adult_balllight2
+  rotate: true
+  xy: 64, 449
+  size: 54, 68
+  orig: 66, 86
+  offset: 0, 6
+  index: -1
+dragon_asian_adult_arm2
+  rotate: false
+  xy: 1001, 351
+  size: 45, 31
+  orig: 47, 35
+  offset: 2, 4
+  index: -1
+dragon_asian_adult_skilllight
+  rotate: false
+  xy: 738, 346
+  size: 80, 78
+  orig: 80, 78
+  offset: 0, 0
+  index: -1
+dragon_asian_child_arm4
+  rotate: true
+  xy: 535, 481
+  size: 16, 38
+  orig: 16, 38
+  offset: 0, 0
+  index: -1
+dragon_asian_adult_love
+  rotate: true
+  xy: 946, 247
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+dragon_asian_child_arm1
+  rotate: true
+  xy: 379, 481
+  size: 23, 52
+  orig: 23, 52
+  offset: 0, 0
+  index: -1
+dragon_asian_child_eye
+  rotate: false
+  xy: 957, 472
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_asian_child_leg5
+  rotate: true
+  xy: 957, 456
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+dragon_asian_adult_arm5
+  rotate: false
+  xy: 857, 445
+  size: 21, 47
+  orig: 21, 47
+  offset: 0, 0
+  index: -1
+dragon_asian_adult_body2
+  rotate: true
+  xy: 1006, 2
+  size: 119, 44
+  orig: 119, 44
+  offset: 0, 0
+  index: -1
+dragon_asian_adult_leg2
+  rotate: true
+  xy: 1021, 417
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+dragon_asian_adult_body1
+  rotate: true
+  xy: 134, 449
+  size: 47, 67
+  orig: 47, 67
+  offset: 0, 0
+  index: -1
+dragon_asian_adult_mouse2
+  rotate: true
+  xy: 535, 499
+  size: 7, 8
+  orig: 29, 24
+  offset: 12, 2
+  index: -1
+dragon_asian_baby_tail
+  rotate: true
+  xy: 1015, 247
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+dragon_asian_child_arm3
+  rotate: true
+  xy: 264, 481
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+dragon_asian_adult_attack
+  rotate: false
+  xy: 880, 380
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+dragon_asian_critical_sunder
+  rotate: true
+  xy: 307, 125
+  size: 170, 302
+  orig: 170, 302
+  offset: 0, 0
+  index: -1
+dragon_asian_baby_ball
+  rotate: false
+  xy: 940, 373
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+dragon_asian_baby_smile
+  rotate: true
+  xy: 2, 449
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_asian_adult_mouse
+  rotate: true
+  xy: 485, 481
+  size: 25, 24
+  orig: 29, 24
+  offset: 4, 0
+  index: -1
+dragon_asian_adult_body3
+  rotate: false
+  xy: 611, 252
+  size: 128, 80
+  orig: 128, 80
+  offset: 0, 0
+  index: -1
+dragon_asian_child_hearttt
+  rotate: false
+  xy: 1001, 310
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_asian_child_leg2
+  rotate: true
+  xy: 1006, 434
+  size: 20, 13
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+dragon_asian_baby_mouse
+  rotate: false
+  xy: 1021, 439
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+dragon_asian_baby_arm
+  rotate: true
+  xy: 838, 252
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+dragon_asian_adult_body
+  rotate: false
+  xy: 876, 135
+  size: 143, 110
+  orig: 143, 110
+  offset: 0, 0
+  index: -1
+dragon_asian_adult_head
+  rotate: false
+  xy: 820, 346
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+dragon_asian_adult_arm6
+  rotate: false
+  xy: 511, 481
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+dragon_asian_child_head
+  rotate: false
+  xy: 878, 247
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+dragon_asian_critical_light2
+  rotate: false
+  xy: 307, 2
+  size: 379, 121
+  orig: 381, 121
+  offset: 2, 0
+  index: -1
+dragon_asian_adult_balllight3
+  rotate: false
+  xy: 1001, 384
+  size: 18, 48
+  orig: 66, 86
+  offset: 21, 14
+  index: -1
+dragon_asian_adult_arm3
+  rotate: false
+  xy: 932, 456
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+dragon_asian_critical_rain
+  rotate: false
+  xy: 2, 240
+  size: 274, 207
+  orig: 282, 207
+  offset: 5, 0
+  index: -1
+dragon_asian_baby_body
+  rotate: true
+  xy: 674, 334
+  size: 95, 62
+  orig: 95, 62
+  offset: 0, 0
+  index: -1
+dragon_asian_adult_su2
+  rotate: true
+  xy: 583, 297
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+dragon_asian_child_arm5
+  rotate: false
+  xy: 1021, 219
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+dragon_asian_child_love
+  rotate: false
+  xy: 663, 431
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+dragon_asian_critical_sunder2
+  rotate: true
+  xy: 688, 2
+  size: 131, 316
+  orig: 131, 316
+  offset: 0, 0
+  index: -1
+dragon_asian_baby_love
+  rotate: true
+  xy: 731, 431
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+dragon_asian_child_body
+  rotate: false
+  xy: 741, 252
+  size: 95, 92
+  orig: 95, 92
+  offset: 0, 0
+  index: -1
+dragon_asian_child_ball
+  rotate: false
+  xy: 940, 311
+  size: 59, 60
+  orig: 71, 62
+  offset: 6, 0
+  index: -1
+dragon_asian_adult_leg3
+  rotate: true
+  xy: 940, 434
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+dragon_asian_adult_light
+  rotate: false
+  xy: 583, 425
+  size: 78, 77
+  orig: 82, 83
+  offset: 0, 0
+  index: -1
+dragon_asian_adult_eye
+  rotate: true
+  xy: 264, 449
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+dragon_asian_child_leg4
+  rotate: true
+  xy: 838, 322
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+dragon_asian_baby_head
+  rotate: false
+  xy: 793, 445
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+dragon_asian_adult_arm4
+  rotate: true
+  xy: 433, 481
+  size: 23, 50
+  orig: 23, 52
+  offset: 0, 2
+  index: -1
+dragon_asian_child_leg1
+  rotate: true
+  xy: 820, 415
+  size: 28, 58
+  orig: 28, 58
+  offset: 0, 0
+  index: -1
+dragon_asian_critical_cloude2
+  rotate: false
+  xy: 278, 297
+  size: 303, 90
+  orig: 305, 92
+  offset: 2, 0
+  index: -1
+dragon_asian_adult_neck
+  rotate: true
+  xy: 203, 449
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+dragon_asian_adult_arm1
+  rotate: false
+  xy: 278, 240
+  size: 27, 53
+  orig: 27, 53
+  offset: 0, 0
+  index: -1
+dragon_asian_child_arm2
+  rotate: true
+  xy: 974, 434
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+dragon_asian_child_leg6
+  rotate: true
+  xy: 932, 488
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+dragon_asian_adult_ball
+  rotate: false
+  xy: 1021, 197
+  size: 21, 20
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+dragon_asian_adult_damaged
+  rotate: false
+  xy: 880, 311
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+dragon_asian_child_leg3
+  rotate: true
+  xy: 1015, 290
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+dragon_asian_critical_light3
+  rotate: false
+  xy: 611, 135
+  size: 263, 115
+  orig: 263, 115
+  offset: 0, 0
+  index: -1
+dragon_asian_child_mouse
+  rotate: false
+  xy: 1021, 123
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+dragon_asian_adult_leg4
+  rotate: false
+  xy: 1021, 173
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+dragon_asian_adult_balllight
+  rotate: true
+  xy: 880, 449
+  size: 44, 50
+  orig: 66, 86
+  offset: 5, 13
+  index: -1
+dragon_asian_child_hand
+  rotate: false
+  xy: 1021, 148
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+dragon_asian_critical_cloude
+  rotate: false
+  xy: 278, 389
+  size: 303, 90
+  orig: 305, 92
+  offset: 2, 0
+  index: -1

@@ -1,0 +1,18 @@
+ascension_event_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+bye_effect
+  rotate: false
+  xy: 2, 2
+  size: 198, 441
+  orig: 198, 441
+  offset: 0, 0
+  index: -1
+bye_effect_sparkly
+  rotate: false
+  xy: 2, 445
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1

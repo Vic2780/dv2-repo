@@ -1,0 +1,116 @@
+box_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+u_village_box_b1
+  rotate: true
+  xy: 78, 182
+  size: 59, 39
+  orig: 59, 39
+  offset: 0, 0
+  index: -1
+u_village_box_b5_Flower
+  rotate: true
+  xy: 78, 123
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+u_village_box_b5b
+  rotate: true
+  xy: 41, 279
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+u_village_box_b4
+  rotate: true
+  xy: 2, 2
+  size: 68, 89
+  orig: 68, 89
+  offset: 0, 0
+  index: -1
+u_village_box_b1bp04
+  rotate: false
+  xy: 98, 319
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+u_village_box_b1bp05
+  rotate: true
+  xy: 78, 72
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+u_village_box_b2
+  rotate: false
+  xy: 2, 132
+  size: 74, 52
+  orig: 74, 52
+  offset: 0, 0
+  index: -1
+u_village_box_b1bp02
+  rotate: true
+  xy: 98, 279
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+u_village_box_b5
+  rotate: false
+  xy: 73, 243
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+u_village_box_b1b
+  rotate: true
+  xy: 2, 272
+  size: 62, 37
+  orig: 62, 37
+  offset: 0, 0
+  index: -1
+u_village_box_b1bp03
+  rotate: false
+  xy: 76, 279
+  size: 20, 53
+  orig: 20, 53
+  offset: 0, 0
+  index: -1
+u_village_box_shdow
+  rotate: false
+  xy: 2, 186
+  size: 71, 17
+  orig: 71, 17
+  offset: 0, 0
+  index: -1
+u_village_box_b2b
+  rotate: false
+  xy: 2, 72
+  size: 74, 58
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+u_village_box_b2_ffffff
+  rotate: false
+  xy: 93, 2
+  size: 31, 81
+  orig: 31, 81
+  offset: 0, 0
+  index: -1
+u_village_box_b1bp01
+  rotate: false
+  xy: 93, 85
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+u_village_box_b4b
+  rotate: false
+  xy: 2, 205
+  size: 69, 65
+  orig: 71, 65
+  offset: 0, 0
+  index: -1

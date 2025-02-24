@@ -1,0 +1,333 @@
+dragon_86_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_ninja_adult_effect
+  rotate: false
+  xy: 1063, 183
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_ninja_child_eye
+  rotate: false
+  xy: 714, 452
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+dragon_ninja_baby_body
+  rotate: false
+  xy: 886, 362
+  size: 74, 53
+  orig: 74, 53
+  offset: 0, 0
+  index: -1
+dragon_ninja_child_wing
+  rotate: false
+  xy: 798, 362
+  size: 86, 47
+  orig: 86, 47
+  offset: 0, 0
+  index: -1
+dragon_ninja_adult_leg5
+  rotate: true
+  xy: 755, 426
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+dragon_ninja_critical02
+  rotate: true
+  xy: 281, 2
+  size: 254, 316
+  orig: 260, 322
+  offset: 2, 3
+  index: -1
+dragon_ninja_critical01
+  rotate: false
+  xy: 2, 2
+  size: 277, 315
+  orig: 295, 321
+  offset: 15, 5
+  index: -1
+dragon_ninja_child_love
+  rotate: false
+  xy: 741, 358
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+dragon_ninja_adult_leg2
+  rotate: false
+  xy: 1016, 423
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+dragon_ninja_critical03
+  rotate: false
+  xy: 599, 2
+  size: 285, 185
+  orig: 289, 191
+  offset: 3, 1
+  index: -1
+dragon_ninja_adult_critical1
+  rotate: false
+  xy: 886, 2
+  size: 203, 179
+  orig: 203, 179
+  offset: 0, 0
+  index: -1
+dragon_ninja_adult_wing
+  rotate: false
+  xy: 377, 437
+  size: 142, 53
+  orig: 142, 53
+  offset: 0, 0
+  index: -1
+dragon_ninja_baby_love
+  rotate: true
+  xy: 962, 353
+  size: 61, 68
+  orig: 61, 68
+  offset: 0, 0
+  index: -1
+dragon_ninja_adult_body
+  rotate: false
+  xy: 962, 285
+  size: 117, 66
+  orig: 117, 66
+  offset: 0, 0
+  index: -1
+dragon_ninja_adult_leg3
+  rotate: true
+  xy: 692, 452
+  size: 56, 20
+  orig: 56, 20
+  offset: 0, 0
+  index: -1
+dragon_ninja_baby_head
+  rotate: false
+  xy: 1032, 353
+  size: 61, 68
+  orig: 61, 68
+  offset: 0, 0
+  index: -1
+dragon_ninja_baby_tail
+  rotate: false
+  xy: 1016, 471
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+dragon_ninja_critical04
+  rotate: false
+  xy: 599, 189
+  size: 202, 167
+  orig: 206, 173
+  offset: 1, 4
+  index: -1
+dragon_ninja_adult_love
+  rotate: true
+  xy: 281, 258
+  size: 59, 41
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+dragon_ninja_adult_tail
+  rotate: false
+  xy: 962, 183
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
+dragon_ninja_child_tail
+  rotate: true
+  xy: 866, 417
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+dragon_ninja_adult_head
+  rotate: true
+  xy: 324, 258
+  size: 59, 41
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+dragon_ninja_baby_heart
+  rotate: false
+  xy: 801, 468
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_ninja_child_love01
+  rotate: true
+  xy: 803, 189
+  size: 171, 157
+  orig: 171, 157
+  offset: 0, 0
+  index: -1
+dragon_ninja_child_leg2
+  rotate: false
+  xy: 755, 478
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+dragon_ninja_adult_damaged
+  rotate: true
+  xy: 930, 417
+  size: 59, 41
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+dragon_ninja_adult_leg6
+  rotate: false
+  xy: 1063, 223
+  size: 27, 55
+  orig: 29, 55
+  offset: 0, 0
+  index: -1
+dragon_ninja_baby_leg2
+  rotate: true
+  xy: 935, 478
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+dragon_ninja_adult_attack
+  rotate: true
+  xy: 973, 416
+  size: 59, 41
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+dragon_ninja_baby_eye
+  rotate: false
+  xy: 1054, 471
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+dragon_ninja_adult_leg1
+  rotate: false
+  xy: 649, 452
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+dragon_ninja_child_leg1
+  rotate: false
+  xy: 1065, 423
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+dragon_ninja_child_head
+  rotate: true
+  xy: 798, 411
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+dragon_ninja_adult_neck
+  rotate: false
+  xy: 521, 437
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+dragon_ninja_baby_leg1
+  rotate: false
+  xy: 573, 317
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+dragon_ninja_child_love02
+  rotate: true
+  xy: 207, 319
+  size: 186, 168
+  orig: 186, 168
+  offset: 0, 0
+  index: -1
+dragon_ninja_adult_leg7
+  rotate: true
+  xy: 573, 258
+  size: 57, 19
+  orig: 57, 19
+  offset: 0, 0
+  index: -1
+dragon_ninja_child_leg3
+  rotate: true
+  xy: 849, 480
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+dragon_ninja_adult_eye
+  rotate: true
+  xy: 367, 258
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+dragon_ninja_adult_critical2
+  rotate: false
+  xy: 2, 319
+  size: 203, 186
+  orig: 203, 186
+  offset: 0, 0
+  index: -1
+dragon_ninja_love2
+  rotate: true
+  xy: 573, 358
+  size: 72, 83
+  orig: 72, 83
+  offset: 0, 0
+  index: -1
+dragon_ninja_baby_wing
+  rotate: false
+  xy: 900, 480
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+dragon_ninja_child_love03
+  rotate: false
+  xy: 377, 258
+  size: 194, 177
+  orig: 194, 177
+  offset: 0, 0
+  index: -1
+dragon_ninja_child_body
+  rotate: false
+  xy: 658, 358
+  size: 81, 55
+  orig: 81, 55
+  offset: 0, 0
+  index: -1
+dragon_ninja_adult_leg4
+  rotate: true
+  xy: 658, 415
+  size: 35, 70
+  orig: 35, 70
+  offset: 0, 0
+  index: -1
+dragon_ninja_child_leg4
+  rotate: false
+  xy: 714, 468
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+dragon_ninja_child_neck
+  rotate: false
+  xy: 586, 432
+  size: 61, 66
+  orig: 61, 70
+  offset: 0, 0
+  index: -1

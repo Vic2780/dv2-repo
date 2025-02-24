@@ -1,0 +1,32 @@
+effect3_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+star1
+  rotate: false
+  xy: 2, 2
+  size: 199, 176
+  orig: 215, 190
+  offset: 9, 7
+  index: -1
+star2
+  rotate: false
+  xy: 358, 117
+  size: 79, 64
+  orig: 95, 80
+  offset: 8, 8
+  index: -1
+star3
+  rotate: false
+  xy: 358, 2
+  size: 114, 113
+  orig: 124, 123
+  offset: 4, 5
+  index: -1
+light
+  rotate: false
+  xy: 203, 2
+  size: 153, 161
+  orig: 167, 175
+  offset: 7, 7
+  index: -1

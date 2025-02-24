@@ -1,0 +1,186 @@
+170_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_tubaro_gro_body2
+  rotate: true
+  xy: 160, 1337
+  size: 36, 135
+  orig: 36, 135
+  offset: 0, 0
+  index: -1
+m_tubaro_mouth2_eff2
+  rotate: false
+  xy: 325, 1135
+  size: 153, 62
+  orig: 153, 62
+  offset: 0, 0
+  index: -1
+m_tubaro_snop
+  rotate: false
+  xy: 480, 1135
+  size: 25, 103
+  orig: 25, 103
+  offset: 0, 0
+  index: -1
+m_tubaro_smo1
+  rotate: true
+  xy: 2, 1197
+  size: 184, 156
+  orig: 188, 156
+  offset: 3, 0
+  index: -1
+m_tubaro_eye
+  rotate: true
+  xy: 127, 843
+  size: 274, 85
+  orig: 388, 267
+  offset: 66, 117
+  index: -1
+m_tubaro_mouth1
+  rotate: true
+  xy: 112, 503
+  size: 338, 137
+  orig: 338, 137
+  offset: 0, 0
+  index: -1
+m_tubaro_ston3
+  rotate: false
+  xy: 251, 503
+  size: 51, 78
+  orig: 51, 78
+  offset: 0, 0
+  index: -1
+m_tubaro_gro_body
+  rotate: true
+  xy: 304, 271
+  size: 316, 201
+  orig: 388, 267
+  offset: 20, 55
+  index: -1
+m_tubaro_eye2
+  rotate: false
+  xy: 475, 2
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+m_tubaro_sp2
+  rotate: true
+  xy: 325, 1284
+  size: 33, 93
+  orig: 33, 93
+  offset: 0, 0
+  index: -1
+m_tubaro_body
+  rotate: false
+  xy: 2, 2
+  size: 388, 267
+  orig: 388, 267
+  offset: 0, 0
+  index: -1
+m_tubaro_mouth2
+  rotate: false
+  xy: 2, 271
+  size: 300, 230
+  orig: 300, 230
+  offset: 0, 0
+  index: -1
+m_tubaro_smo4
+  rotate: true
+  xy: 160, 1119
+  size: 216, 163
+  orig: 218, 165
+  offset: 2, 1
+  index: -1
+m_tubaro_ston4
+  rotate: false
+  xy: 415, 1199
+  size: 45, 51
+  orig: 45, 51
+  offset: 0, 0
+  index: -1
+m_tubaro_sp
+  rotate: false
+  xy: 127, 1119
+  size: 22, 53
+  orig: 22, 53
+  offset: 0, 0
+  index: -1
+m_tubaro_eye_eff
+  rotate: false
+  xy: 392, 158
+  size: 91, 91
+  orig: 93, 93
+  offset: 0, 1
+  index: -1
+m_tubaro_body_eff
+  rotate: true
+  xy: 2, 503
+  size: 404, 108
+  orig: 404, 278
+  offset: 0, 4
+  index: -1
+m_tubaro_mouth2_eff
+  rotate: true
+  xy: 400, 589
+  size: 296, 96
+  orig: 296, 96
+  offset: 0, 0
+  index: -1
+m_tubaro_eye1
+  rotate: false
+  xy: 349, 1319
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+m_tubaro_gro_mouth2
+  rotate: true
+  xy: 373, 887
+  size: 246, 126
+  orig: 300, 230
+  offset: 35, 21
+  index: -1
+m_tubaro_smo3
+  rotate: true
+  xy: 251, 589
+  size: 266, 147
+  orig: 266, 149
+  offset: 0, 0
+  index: -1
+m_tubaro_ston1
+  rotate: true
+  xy: 297, 1337
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+m_tubaro_eye_bk
+  rotate: true
+  xy: 2, 909
+  size: 286, 123
+  orig: 388, 267
+  offset: 54, 96
+  index: -1
+m_tubaro_mouth2_eff3
+  rotate: true
+  xy: 392, 2
+  size: 154, 81
+  orig: 154, 81
+  offset: 0, 0
+  index: -1
+m_tubaro_smo2
+  rotate: true
+  xy: 214, 857
+  size: 241, 157
+  orig: 241, 161
+  offset: 0, 4
+  index: -1
+m_tubaro_ston2
+  rotate: false
+  xy: 325, 1199
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1

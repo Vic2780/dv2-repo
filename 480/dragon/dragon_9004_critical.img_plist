@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>dragon/dragon_9004_critical/cut_in.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{576,112}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{576,112}}</string>
+                <key>sourceSize</key>
+                <string>{576,112}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>dragon_9004_critical.pvr.ccz</string>
+            <key>size</key>
+            <string>{580,116}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:505cb19c127525573cd2537296339259:dc9ca8484f51210e2dd4d99b11ef288c:df90e01ab954bba0f408961cc25d9827$</string>
+            <key>textureFileName</key>
+            <string>dragon_9004_critical.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

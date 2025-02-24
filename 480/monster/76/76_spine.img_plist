@@ -1,0 +1,81 @@
+76_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_fireele_arm1
+  rotate: true
+  xy: 308, 522
+  size: 161, 189
+  orig: 161, 189
+  offset: 0, 0
+  index: -1
+m_fireele_groggyband
+  rotate: true
+  xy: 340, 832
+  size: 82, 49
+  orig: 82, 49
+  offset: 0, 0
+  index: -1
+m_fireele_groggyeye
+  rotate: false
+  xy: 306, 266
+  size: 156, 42
+  orig: 156, 42
+  offset: 0, 0
+  index: -1
+m_fireele_groggymouth
+  rotate: false
+  xy: 306, 310
+  size: 155, 16
+  orig: 155, 16
+  offset: 0, 0
+  index: -1
+m_fireele_arm2
+  rotate: false
+  xy: 308, 328
+  size: 168, 192
+  orig: 168, 192
+  offset: 0, 0
+  index: -1
+m_fireele_amr3
+  rotate: false
+  xy: 306, 2
+  size: 179, 208
+  orig: 179, 208
+  offset: 0, 0
+  index: -1
+m_fireele_head1
+  rotate: true
+  xy: 2, 2
+  size: 350, 302
+  orig: 350, 302
+  offset: 0, 0
+  index: -1
+m_fireele_eye
+  rotate: true
+  xy: 340, 685
+  size: 145, 37
+  orig: 145, 37
+  offset: 0, 0
+  index: -1
+m_fireele_head2
+  rotate: true
+  xy: 2, 354
+  size: 348, 304
+  orig: 348, 304
+  offset: 0, 0
+  index: -1
+m_fireele_head3
+  rotate: false
+  xy: 2, 704
+  size: 336, 298
+  orig: 336, 298
+  offset: 0, 0
+  index: -1
+m_fireele_mouth
+  rotate: false
+  xy: 306, 212
+  size: 164, 52
+  orig: 164, 52
+  offset: 0, 0
+  index: -1

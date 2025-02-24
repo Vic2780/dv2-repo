@@ -1,0 +1,970 @@
+dragon_4035_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_nowaema_e_arm6
+  rotate: false
+  xy: 1125, 882
+  size: 41, 81
+  orig: 41, 81
+  offset: 0, 0
+  index: -1
+dragon_nowaema_adult_light
+  rotate: false
+  xy: 2, 291
+  size: 340, 287
+  orig: 344, 305
+  offset: 4, 18
+  index: -1
+dragon_nowaema_e_arm4
+  rotate: false
+  xy: 1263, 766
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_wing2
+  rotate: true
+  xy: 1331, 192
+  size: 133, 96
+  orig: 135, 98
+  offset: 0, 2
+  index: -1
+dragon_nowaema_e_arm2
+  rotate: false
+  xy: 1170, 845
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_arm5
+  rotate: false
+  xy: 941, 986
+  size: 58, 36
+  orig: 58, 36
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_arm3
+  rotate: true
+  xy: 1181, 377
+  size: 50, 76
+  orig: 50, 76
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_arm1
+  rotate: true
+  xy: 1034, 979
+  size: 43, 59
+  orig: 43, 59
+  offset: 0, 0
+  index: -1
+dragon_nowaema_child_horn2
+  rotate: false
+  xy: 1389, 837
+  size: 39, 38
+  orig: 41, 40
+  offset: 1, 1
+  index: -1
+dragon_nowaema_child_horn1
+  rotate: false
+  xy: 1386, 920
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+dragon_nowaema_adult_wing
+  rotate: false
+  xy: 490, 892
+  size: 135, 98
+  orig: 135, 98
+  offset: 0, 0
+  index: -1
+dragon_love_effect_smile
+  rotate: true
+  xy: 1156, 965
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_ball
+  rotate: true
+  xy: 1389, 877
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_neck
+  rotate: false
+  xy: 1331, 327
+  size: 96, 70
+  orig: 96, 70
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_eff8
+  rotate: false
+  xy: 1278, 399
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_eff6
+  rotate: false
+  xy: 974, 204
+  size: 233, 21
+  orig: 233, 21
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_arm3light
+  rotate: true
+  xy: 1250, 701
+  size: 48, 24
+  orig: 50, 76
+  offset: 0, 19
+  index: -1
+dragon_nowaema_e_eff4
+  rotate: true
+  xy: 1127, 433
+  size: 166, 149
+  orig: 166, 149
+  offset: 0, 0
+  index: -1
+dragon_nowaema_adult_necklight
+  rotate: true
+  xy: 1224, 673
+  size: 76, 24
+  orig: 96, 70
+  offset: 8, 32
+  index: -1
+dragon_nowaema_e_eff7
+  rotate: false
+  xy: 1278, 535
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_eff2
+  rotate: false
+  xy: 1016, 610
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_eff5
+  rotate: true
+  xy: 920, 379
+  size: 233, 30
+  orig: 233, 30
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_eff3
+  rotate: true
+  xy: 959, 227
+  size: 204, 220
+  orig: 224, 252
+  offset: 10, 13
+  index: -1
+dragon_nowaema_e_head1
+  rotate: false
+  xy: 877, 986
+  size: 62, 36
+  orig: 62, 36
+  offset: 0, 0
+  index: -1
+dragon_nowaema_adult_teeth1
+  rotate: false
+  xy: 1168, 943
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_eff1
+  rotate: false
+  xy: 1034, 746
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+dragon_nowaema_adult_teeth2
+  rotate: false
+  xy: 1414, 443
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_horn1
+  rotate: true
+  xy: 1263, 884
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_horn2
+  rotate: false
+  xy: 1349, 824
+  size: 38, 45
+  orig: 40, 49
+  offset: 0, 2
+  index: -1
+dragon_nowaema_e_light
+  rotate: false
+  xy: 2, 2
+  size: 340, 287
+  orig: 344, 305
+  offset: 4, 18
+  index: -1
+dragon_nowaema_e_leg1a
+  rotate: true
+  xy: 490, 992
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_necklight
+  rotate: true
+  xy: 1224, 673
+  size: 76, 24
+  orig: 96, 70
+  offset: 8, 32
+  index: -1
+dragon_nowaema_child_ball
+  rotate: false
+  xy: 1181, 227
+  size: 148, 148
+  orig: 186, 178
+  offset: 19, 18
+  index: -1
+dragon_nowaema_child_teeth
+  rotate: true
+  xy: 1259, 420
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+dragon_nowaema_adult_d1
+  rotate: false
+  xy: 651, 762
+  size: 224, 224
+  orig: 224, 242
+  offset: 0, 7
+  index: -1
+dragon_nowaema_adult_d4
+  rotate: false
+  xy: 325, 892
+  size: 163, 125
+  orig: 169, 139
+  offset: 6, 12
+  index: -1
+dragon_nowaema_adult_d2
+  rotate: false
+  xy: 952, 433
+  size: 173, 175
+  orig: 173, 203
+  offset: 0, 17
+  index: -1
+dragon_nowaema_adult_ball
+  rotate: true
+  xy: 1389, 877
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_tail2a
+  rotate: false
+  xy: 1209, 204
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_tail2b
+  rotate: false
+  xy: 627, 892
+  size: 22, 66
+  orig: 22, 68
+  offset: 0, 2
+  index: -1
+dragon_nowaema_adult_tail2
+  rotate: false
+  xy: 1278, 671
+  size: 69, 38
+  orig: 69, 38
+  offset: 0, 0
+  index: -1
+dragon_nowaema_adult_tail3
+  rotate: false
+  xy: 1405, 718
+  size: 23, 62
+  orig: 23, 62
+  offset: 0, 0
+  index: -1
+dragon_nowaema_baby_leg
+  rotate: true
+  xy: 1001, 986
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+dragon_nowaema_adult_arm1
+  rotate: true
+  xy: 1095, 979
+  size: 43, 59
+  orig: 43, 59
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_leg6
+  rotate: true
+  xy: 627, 960
+  size: 41, 22
+  orig: 41, 22
+  offset: 0, 0
+  index: -1
+dragon_nowaema_adult_arm2
+  rotate: false
+  xy: 1170, 845
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+dragon_nowaema_adult_arm3
+  rotate: false
+  xy: 1211, 751
+  size: 50, 76
+  orig: 50, 76
+  offset: 0, 0
+  index: -1
+dragon_nowaema_adult_tail1
+  rotate: false
+  xy: 1152, 673
+  size: 70, 68
+  orig: 70, 68
+  offset: 0, 0
+  index: -1
+dragon_nowaema_baby_tail
+  rotate: false
+  xy: 1386, 962
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+dragon_nowaema_adult_arm4
+  rotate: false
+  xy: 1346, 763
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_leg4
+  rotate: true
+  xy: 1250, 601
+  size: 48, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+dragon_nowaema_adult_arm5
+  rotate: false
+  xy: 941, 986
+  size: 58, 36
+  orig: 58, 36
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_leg2
+  rotate: true
+  xy: 1349, 914
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+dragon_nowaema_adult_arm6
+  rotate: true
+  xy: 919, 629
+  size: 40, 81
+  orig: 40, 81
+  offset: 0, 0
+  index: -1
+dragon_nowaema_child_arm1
+  rotate: true
+  xy: 1230, 204
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_leg5
+  rotate: true
+  xy: 1345, 718
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_leg3
+  rotate: false
+  xy: 1306, 766
+  size: 38, 61
+  orig: 38, 61
+  offset: 0, 0
+  index: -1
+dragon_nowaema_child_arm4
+  rotate: true
+  xy: 622, 1003
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+dragon_nowaema_child_arm5
+  rotate: false
+  xy: 991, 610
+  size: 17, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+dragon_nowaema_child_arm2
+  rotate: true
+  xy: 1259, 399
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_leg1
+  rotate: true
+  xy: 1349, 671
+  size: 45, 64
+  orig: 45, 64
+  offset: 0, 0
+  index: -1
+dragon_nowaema_child_arm3
+  rotate: true
+  xy: 799, 988
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+dragon_nowaema_child_mouth
+  rotate: true
+  xy: 1274, 192
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+dragon_nowaema_child_arm6
+  rotate: true
+  xy: 757, 988
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_d1
+  rotate: false
+  xy: 651, 762
+  size: 224, 224
+  orig: 224, 242
+  offset: 0, 7
+  index: -1
+dragon_nowaema_adult_neck
+  rotate: false
+  xy: 1152, 601
+  size: 96, 70
+  orig: 96, 70
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_d4
+  rotate: false
+  xy: 325, 892
+  size: 163, 125
+  orig: 169, 139
+  offset: 6, 12
+  index: -1
+dragon_nowaema_e_d2
+  rotate: false
+  xy: 952, 433
+  size: 173, 175
+  orig: 173, 203
+  offset: 0, 17
+  index: -1
+dragon_nowaema_adult_horn2
+  rotate: false
+  xy: 1349, 824
+  size: 38, 45
+  orig: 40, 49
+  offset: 0, 2
+  index: -1
+dragon_nowaema_child_head1
+  rotate: true
+  xy: 1308, 974
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+dragon_nowaema_adult_leg1
+  rotate: true
+  xy: 1349, 671
+  size: 45, 64
+  orig: 45, 64
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_arm6light
+  rotate: false
+  xy: 1237, 992
+  size: 16, 25
+  orig: 40, 81
+  offset: 3, 31
+  index: -1
+dragon_nowaema_adult_leg2
+  rotate: true
+  xy: 1349, 914
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+dragon_nowaema_adult_leg3
+  rotate: false
+  xy: 1306, 766
+  size: 38, 61
+  orig: 38, 61
+  offset: 0, 0
+  index: -1
+dragon_nowaema_adult_leg4
+  rotate: true
+  xy: 1250, 651
+  size: 48, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+dragon_nowaema_adult_leg5
+  rotate: true
+  xy: 1345, 718
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+dragon_nowaema_adult_light2
+  rotate: false
+  xy: 2, 580
+  size: 312, 310
+  orig: 330, 330
+  offset: 8, 10
+  index: -1
+dragon_nowaema_adult_leg6
+  rotate: false
+  xy: 1347, 994
+  size: 41, 22
+  orig: 41, 22
+  offset: 0, 0
+  index: -1
+dragon_nowaema_adult_horn1
+  rotate: true
+  xy: 1263, 884
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+dragon_nowaema_child_neck
+  rotate: false
+  xy: 1218, 939
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+dragon_nowaema_adult_mouth
+  rotate: false
+  xy: 579, 992
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+dragon_nowaema_child_leg1
+  rotate: true
+  xy: 714, 988
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_body
+  rotate: true
+  xy: 919, 671
+  size: 89, 95
+  orig: 89, 95
+  offset: 0, 0
+  index: -1
+dragon_nowaema_child_leg4
+  rotate: true
+  xy: 671, 988
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_light2
+  rotate: false
+  xy: 344, 2
+  size: 312, 310
+  orig: 330, 330
+  offset: 8, 10
+  index: -1
+dragon_nowaema_child_leg5
+  rotate: true
+  xy: 952, 610
+  size: 17, 37
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+dragon_nowaema_child_leg2
+  rotate: true
+  xy: 316, 871
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+dragon_nowaema_child_leg3
+  rotate: true
+  xy: 1414, 464
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+dragon_nowaema_adult_head1
+  rotate: true
+  xy: 1311, 926
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+dragon_nowaema_baby_wing2
+  rotate: false
+  xy: 1218, 992
+  size: 17, 30
+  orig: 19, 32
+  offset: 1, 1
+  index: -1
+dragon_nowaema_child_leg6
+  rotate: true
+  xy: 1414, 421
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_wing
+  rotate: false
+  xy: 490, 892
+  size: 135, 98
+  orig: 135, 98
+  offset: 0, 0
+  index: -1
+dragon_nowaema_adult_eye
+  rotate: false
+  xy: 1263, 751
+  size: 11, 11
+  orig: 15, 15
+  offset: 2, 2
+  index: -1
+dragon_nowaema_baby_wing1
+  rotate: true
+  xy: 354, 871
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_leg1light
+  rotate: false
+  xy: 1224, 829
+  size: 37, 58
+  orig: 45, 64
+  offset: 1, 6
+  index: -1
+dragon_nowaema_e_eye
+  rotate: false
+  xy: 1263, 751
+  size: 11, 11
+  orig: 15, 15
+  offset: 2, 2
+  index: -1
+dragon_nowaema_baby_wing4
+  rotate: false
+  xy: 1390, 987
+  size: 22, 24
+  orig: 24, 26
+  offset: 1, 1
+  index: -1
+dragon_nowaema_baby_wing3
+  rotate: true
+  xy: 841, 988
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+dragon_nowaema_child_wing2
+  rotate: false
+  xy: 1389, 782
+  size: 39, 53
+  orig: 41, 55
+  offset: 1, 1
+  index: -1
+dragon_nowaema_baby_eye
+  rotate: false
+  xy: 1414, 399
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_arm5a
+  rotate: true
+  xy: 1305, 192
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+dragon_nowaema_child_wing1
+  rotate: false
+  xy: 1263, 827
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_eff20
+  rotate: false
+  xy: 974, 2
+  size: 298, 200
+  orig: 304, 214
+  offset: 1, 0
+  index: -1
+dragon_nowaema_e_eff21
+  rotate: false
+  xy: 344, 314
+  size: 306, 256
+  orig: 318, 260
+  offset: 0, 4
+  index: -1
+dragon_nowaema_adult_wing2
+  rotate: true
+  xy: 1331, 192
+  size: 133, 96
+  orig: 135, 98
+  offset: 0, 2
+  index: -1
+dragon_nowaema_e_eff10
+  rotate: false
+  xy: 390, 783
+  size: 259, 107
+  orig: 267, 107
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_eff11
+  rotate: true
+  xy: 316, 580
+  size: 289, 72
+  orig: 301, 108
+  offset: 12, 2
+  index: -1
+dragon_nowaema_e_eff12
+  rotate: false
+  xy: 2, 892
+  size: 321, 121
+  orig: 321, 123
+  offset: 0, 0
+  index: -1
+dragon_nowaema_baby_head2
+  rotate: true
+  xy: 1261, 926
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+dragon_nowaema_child_body
+  rotate: true
+  xy: 1276, 711
+  size: 53, 67
+  orig: 53, 67
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_eff13
+  rotate: true
+  xy: 1274, 2
+  size: 188, 149
+  orig: 230, 149
+  offset: 42, 0
+  index: -1
+dragon_nowaema_baby_head1
+  rotate: false
+  xy: 1260, 974
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_eff14
+  rotate: true
+  xy: 877, 762
+  size: 222, 155
+  orig: 240, 155
+  offset: 16, 0
+  index: -1
+dragon_nowaema_adult_arm3light
+  rotate: true
+  xy: 1250, 701
+  size: 48, 24
+  orig: 50, 76
+  offset: 0, 19
+  index: -1
+dragon_nowaema_baby_head3
+  rotate: false
+  xy: 1213, 889
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_eff15
+  rotate: false
+  xy: 390, 572
+  size: 257, 209
+  orig: 257, 209
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_eff16
+  rotate: true
+  xy: 649, 629
+  size: 131, 268
+  orig: 131, 276
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_eff17
+  rotate: true
+  xy: 658, 213
+  size: 164, 299
+  orig: 166, 299
+  offset: 2, 0
+  index: -1
+dragon_nowaema_e_teeth1
+  rotate: false
+  xy: 1168, 943
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_eff18
+  rotate: true
+  xy: 658, 2
+  size: 209, 314
+  orig: 229, 334
+  offset: 12, 17
+  index: -1
+dragon_nowaema_e_mouth
+  rotate: true
+  xy: 1349, 871
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_eff19
+  rotate: false
+  xy: 652, 379
+  size: 266, 248
+  orig: 270, 248
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_teeth2
+  rotate: false
+  xy: 1414, 443
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+dragon_nowaema_child_eye
+  rotate: false
+  xy: 1285, 377
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+dragon_nowaema_adult_body
+  rotate: false
+  xy: 1034, 882
+  size: 89, 95
+  orig: 89, 95
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_tail1
+  rotate: false
+  xy: 1152, 673
+  size: 70, 68
+  orig: 70, 68
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_tail2
+  rotate: false
+  xy: 1278, 671
+  size: 69, 38
+  orig: 69, 38
+  offset: 0, 0
+  index: -1
+dragon_nowaema_baby_horn2
+  rotate: true
+  xy: 1314, 884
+  size: 37, 28
+  orig: 39, 30
+  offset: 1, 1
+  index: -1
+dragon_nowaema_baby_body
+  rotate: false
+  xy: 1168, 885
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+dragon_nowaema_baby_horn1
+  rotate: false
+  xy: 538, 992
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_tail3
+  rotate: false
+  xy: 1405, 718
+  size: 23, 62
+  orig: 23, 62
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_arm2a
+  rotate: false
+  xy: 1349, 957
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+dragon_nowaema_adult_leg1light
+  rotate: false
+  xy: 1224, 829
+  size: 37, 58
+  orig: 45, 64
+  offset: 1, 6
+  index: -1
+dragon_nowaema_baby_mouth
+  rotate: false
+  xy: 1259, 377
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+dragon_nowaema_adult_arm6light
+  rotate: false
+  xy: 1237, 992
+  size: 16, 25
+  orig: 40, 81
+  offset: 3, 31
+  index: -1
+dragon_nowaema_child_tail
+  rotate: true
+  xy: 1170, 743
+  size: 100, 39
+  orig: 100, 39
+  offset: 0, 0
+  index: -1
+dragon_nowaema_e_bodya
+  rotate: false
+  xy: 1306, 829
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+dragon_nowaema_baby_arm
+  rotate: false
+  xy: 653, 988
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1

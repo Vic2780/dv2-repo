@@ -1,0 +1,361 @@
+dragon_3014_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_poseidon_baby_leg
+  rotate: true
+  xy: 81, 480
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+dragon_poseidon_child_head1
+  rotate: false
+  xy: 979, 392
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1
+dragon_poseidon_adult_leg4
+  rotate: false
+  xy: 153, 480
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+dragon_poseidon_critical6
+  rotate: false
+  xy: 354, 392
+  size: 291, 50
+  orig: 323, 82
+  offset: 21, 7
+  index: -1
+dragon_poseidon_adult_mouth
+  rotate: false
+  xy: 1093, 429
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+dragon_poseidon_critical5
+  rotate: false
+  xy: 354, 2
+  size: 336, 192
+  orig: 464, 218
+  offset: 24, 8
+  index: -1
+dragon_poseidon_adult_wing2
+  rotate: false
+  xy: 647, 394
+  size: 164, 116
+  orig: 164, 116
+  offset: 0, 0
+  index: -1
+dragon_poseidon_baby_head1
+  rotate: true
+  xy: 476, 444
+  size: 66, 59
+  orig: 66, 59
+  offset: 0, 0
+  index: -1
+dragon_poseidon_adult_arm2
+  rotate: false
+  xy: 1127, 373
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+dragon_poseidon_child_wing
+  rotate: true
+  xy: 1087, 454
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1
+dragon_poseidon_critical7
+  rotate: false
+  xy: 678, 270
+  size: 289, 62
+  orig: 323, 82
+  offset: 21, 7
+  index: -1
+dragon_poseidon_baby_love
+  rotate: true
+  xy: 354, 444
+  size: 66, 59
+  orig: 66, 59
+  offset: 0, 0
+  index: -1
+dragon_poseidon_child_body
+  rotate: false
+  xy: 537, 444
+  size: 86, 47
+  orig: 86, 47
+  offset: 0, 0
+  index: -1
+dragon_poseidon_adult_neck
+  rotate: false
+  xy: 1016, 2
+  size: 102, 86
+  orig: 102, 86
+  offset: 0, 0
+  index: -1
+dragon_poseidon_adult_head1
+  rotate: true
+  xy: 1037, 454
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+dragon_poseidon_adult_tail2
+  rotate: true
+  xy: 1085, 223
+  size: 55, 77
+  orig: 55, 77
+  offset: 0, 0
+  index: -1
+dragon_poseidon_critical2
+  rotate: false
+  xy: 2, 202
+  size: 350, 198
+  orig: 464, 218
+  offset: 8, 8
+  index: -1
+dragon_love_effect_heart
+  rotate: true
+  xy: 307, 464
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_poseidon_child_head2
+  rotate: false
+  xy: 1120, 72
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1
+dragon_poseidon_child_neck
+  rotate: false
+  xy: 1085, 142
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1
+dragon_poseidon_adult_leg2
+  rotate: false
+  xy: 120, 480
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+dragon_poseidon_adult_hit
+  rotate: false
+  xy: 965, 342
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+dragon_poseidon_adult_eyelight
+  rotate: false
+  xy: 625, 475
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+dragon_poseidon_baby_arm2
+  rotate: true
+  xy: 537, 493
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+dragon_poseidon_critical10
+  rotate: false
+  xy: 678, 334
+  size: 285, 58
+  orig: 323, 82
+  offset: 20, 7
+  index: -1
+dragon_poseidon_child_love
+  rotate: false
+  xy: 1120, 2
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1
+dragon_poseidon_baby_arm1
+  rotate: false
+  xy: 57, 480
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+dragon_poseidon_child_tail1
+  rotate: false
+  xy: 1145, 280
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+dragon_poseidon_critical3
+  rotate: false
+  xy: 2, 2
+  size: 350, 198
+  orig: 464, 218
+  offset: 108, 8
+  index: -1
+dragon_poseidon_baby_mouth
+  rotate: true
+  xy: 1093, 385
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+dragon_poseidon_adult_body
+  rotate: true
+  xy: 1016, 90
+  size: 119, 67
+  orig: 119, 67
+  offset: 0, 0
+  index: -1
+dragon_poseidon_child_mouth
+  rotate: true
+  xy: 625, 444
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+dragon_poseidon_adult_head2
+  rotate: false
+  xy: 1023, 342
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+dragon_poseidon_adult_arm3
+  rotate: false
+  xy: 2, 480
+  size: 53, 24
+  orig: 53, 24
+  offset: 0, 0
+  index: -1
+dragon_poseidon_child_tail2
+  rotate: true
+  xy: 1016, 211
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1
+dragon_poseidon_child_leg
+  rotate: false
+  xy: 1081, 324
+  size: 37, 59
+  orig: 37, 59
+  offset: 0, 0
+  index: -1
+dragon_poseidon_adult_arm1
+  rotate: false
+  xy: 307, 402
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1
+dragon_poseidon_critical1
+  rotate: false
+  xy: 692, 2
+  size: 322, 194
+  orig: 464, 218
+  offset: 36, 8
+  index: -1
+dragon_poseidon_critical8
+  rotate: false
+  xy: 2, 402
+  size: 303, 76
+  orig: 323, 82
+  offset: 15, 6
+  index: -1
+dragon_poseidon_adult_leg3
+  rotate: false
+  xy: 983, 198
+  size: 31, 60
+  orig: 31, 60
+  offset: 0, 0
+  index: -1
+dragon_poseidon_baby_tail
+  rotate: false
+  xy: 1085, 90
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+dragon_poseidon_child_arm
+  rotate: false
+  xy: 1120, 324
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+dragon_poseidon_baby_body
+  rotate: false
+  xy: 1081, 280
+  size: 62, 42
+  orig: 62, 42
+  offset: 0, 0
+  index: -1
+dragon_poseidon_adult_wing1
+  rotate: false
+  xy: 813, 394
+  size: 164, 116
+  orig: 164, 116
+  offset: 0, 0
+  index: -1
+dragon_poseidon_adult_leg1
+  rotate: false
+  xy: 1047, 269
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+dragon_poseidon_baby_head2
+  rotate: true
+  xy: 415, 444
+  size: 66, 59
+  orig: 66, 59
+  offset: 0, 0
+  index: -1
+dragon_poseidon_critical9
+  rotate: false
+  xy: 678, 198
+  size: 303, 70
+  orig: 323, 82
+  offset: 7, 7
+  index: -1
+dragon_poseidon_adult_head3
+  rotate: false
+  xy: 979, 462
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+dragon_love_effect_smile
+  rotate: false
+  xy: 1034, 392
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_poseidon_critical4
+  rotate: false
+  xy: 354, 196
+  size: 322, 194
+  orig: 464, 218
+  offset: 108, 8
+  index: -1
+dragon_poseidon_adult_tail1
+  rotate: false
+  xy: 969, 270
+  size: 76, 70
+  orig: 76, 70
+  offset: 0, 0
+  index: -1

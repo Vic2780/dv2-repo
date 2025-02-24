@@ -1,0 +1,382 @@
+dragon_96_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_battle_adult_blade1
+  rotate: false
+  xy: 337, 2
+  size: 124, 80
+  orig: 124, 80
+  offset: 0, 0
+  index: -1
+dragon_battle_adult_tail2
+  rotate: false
+  xy: 2, 2
+  size: 181, 110
+  orig: 181, 110
+  offset: 0, 0
+  index: -1
+dragon_battle_adult_head
+  rotate: false
+  xy: 920, 72
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+dragon_battle_adult_blade3
+  rotate: false
+  xy: 463, 2
+  size: 135, 79
+  orig: 135, 83
+  offset: 0, 0
+  index: -1
+dragon_battle_adult_eye2
+  rotate: true
+  xy: 1328, 75
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+dragon_battle_child_eye1
+  rotate: true
+  xy: 1264, 94
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+dragon_battle_child_leg4
+  rotate: true
+  xy: 570, 83
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+dragon_battle_baby_body
+  rotate: false
+  xy: 911, 2
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+dragon_battle_baby_leg1
+  rotate: false
+  xy: 675, 78
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+dragon_battle_adult_eye1
+  rotate: true
+  xy: 1328, 90
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+dragon_battle_adult_leg6
+  rotate: false
+  xy: 986, 69
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+dragon_battle_baby_eye3
+  rotate: false
+  xy: 282, 91
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+dragon_battle_child_head
+  rotate: true
+  xy: 1019, 2
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1
+dragon_battle_adult_body
+  rotate: true
+  xy: 282, 2
+  size: 87, 53
+  orig: 87, 53
+  offset: 0, 0
+  index: -1
+dragon_battle_adult_wing1
+  rotate: false
+  xy: 1011, 69
+  size: 137, 42
+  orig: 137, 42
+  offset: 0, 0
+  index: -1
+dragon_battle_adult_eye3
+  rotate: true
+  xy: 1274, 81
+  size: 11, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+dragon_battle_child_leg5
+  rotate: true
+  xy: 633, 81
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+dragon_battle_child_tail
+  rotate: true
+  xy: 965, 2
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+dragon_battle_adult_neck
+  rotate: false
+  xy: 600, 2
+  size: 62, 77
+  orig: 62, 77
+  offset: 0, 0
+  index: -1
+dragon_battle_baby_head
+  rotate: false
+  xy: 1072, 2
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+dragon_battle_adult_knife
+  rotate: false
+  xy: 840, 76
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+dragon_battle_adult_tail1
+  rotate: true
+  xy: 185, 2
+  size: 108, 95
+  orig: 108, 95
+  offset: 0, 0
+  index: -1
+dragon_battle_adult_leg7
+  rotate: true
+  xy: 895, 74
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+dragon_battle_adult_leg2
+  rotate: true
+  xy: 299, 91
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+dragon_battle_baby_leg2
+  rotate: true
+  xy: 662, 81
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+dragon_battle_adult_eye4
+  rotate: true
+  xy: 1332, 2
+  size: 11, 8
+  orig: 13, 12
+  offset: 0, 1
+  index: -1
+dragon_battle_baby_smile
+  rotate: false
+  xy: 1128, 2
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_battle_child_leg2
+  rotate: true
+  xy: 343, 84
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+dragon_battle_baby_wing2
+  rotate: true
+  xy: 729, 78
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+dragon_battle_adult_leg1
+  rotate: true
+  xy: 751, 78
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+dragon_battle_baby_mouse
+  rotate: false
+  xy: 1260, 53
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+dragon_battle_baby_eye1
+  rotate: false
+  xy: 393, 84
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+dragon_battle_child_neck
+  rotate: false
+  xy: 800, 76
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+dragon_battle_adult_leg3
+  rotate: true
+  xy: 1240, 53
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+dragon_battle_baby_knife2
+  rotate: true
+  xy: 1306, 75
+  size: 17, 20
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+dragon_battle_adult_eye5
+  rotate: true
+  xy: 1260, 81
+  size: 11, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+dragon_battle_child_leg3
+  rotate: true
+  xy: 1285, 53
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+dragon_battle_adult_blade2
+  rotate: false
+  xy: 664, 2
+  size: 130, 74
+  orig: 130, 74
+  offset: 0, 0
+  index: -1
+dragon_battle_child_eye2
+  rotate: true
+  xy: 1240, 94
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+dragon_battle_adult_leg4
+  rotate: true
+  xy: 464, 83
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+dragon_battle_adult_mouse
+  rotate: true
+  xy: 1288, 80
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+dragon_battle_baby_eye2
+  rotate: false
+  xy: 374, 84
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+dragon_battle_baby_wing1
+  rotate: false
+  xy: 613, 81
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+dragon_battle_child_body
+  rotate: true
+  xy: 796, 2
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+dragon_battle_adult_sheathe
+  rotate: false
+  xy: 518, 83
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+dragon_battle_child_eye3
+  rotate: true
+  xy: 1306, 94
+  size: 16, 14
+  orig: 18, 22
+  offset: 1, 6
+  index: -1
+dragon_battle_child_wing
+  rotate: false
+  xy: 1193, 53
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+dragon_battle_adult_leg5
+  rotate: true
+  xy: 1306, 53
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+dragon_battle_child_leg1
+  rotate: true
+  xy: 412, 84
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+dragon_battle_child_mouse
+  rotate: true
+  xy: 700, 78
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+dragon_battle_adult_wing2
+  rotate: false
+  xy: 1193, 2
+  size: 137, 49
+  orig: 137, 49
+  offset: 0, 0
+  index: -1
+dragon_battle_baby_tail
+  rotate: true
+  xy: 866, 2
+  size: 70, 43
+  orig: 70, 43
+  offset: 0, 0
+  index: -1
+dragon_battle_baby_knife1
+  rotate: false
+  xy: 1150, 64
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+dragon_love_effect_smile
+  rotate: false
+  xy: 1128, 2
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1

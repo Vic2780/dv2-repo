@@ -1,0 +1,529 @@
+dragon_62_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_tattoo_adult_tail
+  rotate: false
+  xy: 335, 107
+  size: 93, 93
+  orig: 95, 103
+  offset: 0, 6
+  index: -1
+dragon_tattoo_child_arm2
+  rotate: true
+  xy: 382, 738
+  size: 24, 35
+  orig: 26, 35
+  offset: 2, 0
+  index: -1
+dragon_tattoo_adult_jaw
+  rotate: true
+  xy: 426, 714
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+dragon_tattoo_child_leg1
+  rotate: false
+  xy: 288, 736
+  size: 26, 49
+  orig: 30, 51
+  offset: 2, 1
+  index: -1
+dragon_tattoo_adult_tattoo7
+  rotate: false
+  xy: 436, 793
+  size: 21, 19
+  orig: 23, 23
+  offset: 2, 2
+  index: -1
+dragon_tattoo_adult_arm1
+  rotate: true
+  xy: 259, 666
+  size: 23, 55
+  orig: 35, 57
+  offset: 7, 0
+  index: -1
+dragon_tattoo_critical_ef2
+  rotate: false
+  xy: 2, 335
+  size: 256, 254
+  orig: 292, 292
+  offset: 23, 29
+  index: -1
+dragon_tattoo_child_leg2
+  rotate: false
+  xy: 143, 798
+  size: 18, 14
+  orig: 20, 14
+  offset: 1, 0
+  index: -1
+dragon_tattoo_adult_eye2
+  rotate: false
+  xy: 464, 740
+  size: 21, 23
+  orig: 27, 23
+  offset: 3, 0
+  index: -1
+dragon_tattoo_adult_leg5
+  rotate: true
+  xy: 259, 787
+  size: 25, 50
+  orig: 27, 50
+  offset: 1, 0
+  index: -1
+dragon_tattoo_child_tail
+  rotate: false
+  xy: 439, 585
+  size: 50, 57
+  orig: 52, 61
+  offset: 0, 2
+  index: -1
+dragon_tattoo_baby_wing2
+  rotate: false
+  xy: 259, 691
+  size: 38, 43
+  orig: 44, 47
+  offset: 2, 2
+  index: -1
+dragon_tattoo_baby_eye2
+  rotate: true
+  xy: 259, 736
+  size: 49, 27
+  orig: 51, 29
+  offset: 2, 0
+  index: -1
+dragon_tattoo_adult_leg1
+  rotate: false
+  xy: 229, 741
+  size: 28, 60
+  orig: 30, 68
+  offset: 2, 3
+  index: -1
+dragon_tattoo_baby_arm1
+  rotate: true
+  xy: 138, 679
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+dragon_tattoo_adult_h
+  rotate: false
+  xy: 392, 294
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_tattoo_adult_wing1
+  rotate: false
+  xy: 335, 202
+  size: 92, 90
+  orig: 98, 96
+  offset: 6, 0
+  index: -1
+dragon_tattoo_adult_tattoo4
+  rotate: true
+  xy: 396, 764
+  size: 22, 21
+  orig: 32, 25
+  offset: 5, 1
+  index: -1
+dragon_tattoo_child_heart
+  rotate: false
+  xy: 487, 729
+  size: 20, 22
+  orig: 26, 28
+  offset: 2, 4
+  index: -1
+dragon_tattoo_adult_arm2
+  rotate: false
+  xy: 491, 585
+  size: 16, 37
+  orig: 20, 37
+  offset: 2, 0
+  index: -1
+dragon_tattoo_child_arm3
+  rotate: true
+  xy: 491, 624
+  size: 23, 16
+  orig: 23, 18
+  offset: 0, 2
+  index: -1
+dragon_tattoo_baby_arm4
+  rotate: false
+  xy: 468, 765
+  size: 17, 23
+  orig: 21, 23
+  offset: 2, 0
+  index: -1
+dragon_tattoo_adult_wing2
+  rotate: false
+  xy: 335, 2
+  size: 118, 103
+  orig: 126, 113
+  offset: 4, 5
+  index: -1
+dragon_tattoo_child_neck
+  rotate: true
+  xy: 335, 294
+  size: 39, 55
+  orig: 41, 57
+  offset: 0, 2
+  index: -1
+dragon_tattoo_child_arm6
+  rotate: false
+  xy: 477, 793
+  size: 23, 17
+  orig: 23, 19
+  offset: 0, 2
+  index: -1
+dragon_tattoo_adult_tattoo8
+  rotate: true
+  xy: 243, 591
+  size: 73, 71
+  orig: 75, 87
+  offset: 0, 12
+  index: -1
+dragon_tattoo_baby_leg2
+  rotate: false
+  xy: 386, 788
+  size: 23, 24
+  orig: 27, 26
+  offset: 2, 2
+  index: -1
+dragon_tattoo_critical_ef3
+  rotate: true
+  xy: 260, 335
+  size: 248, 246
+  orig: 292, 292
+  offset: 24, 18
+  index: -1
+dragon_tattoo_child_leg3
+  rotate: false
+  xy: 343, 787
+  size: 21, 25
+  orig: 21, 27
+  offset: 0, 2
+  index: -1
+dragon_tattoo_adult_eye3
+  rotate: false
+  xy: 419, 765
+  size: 22, 21
+  orig: 22, 23
+  offset: 0, 2
+  index: -1
+dragon_tattoo_adult_leg2
+  rotate: true
+  xy: 366, 787
+  size: 25, 18
+  orig: 29, 22
+  offset: 1, 1
+  index: -1
+dragon_tattoo_adult_tattoo1
+  rotate: false
+  xy: 299, 695
+  size: 42, 31
+  orig: 56, 39
+  offset: 12, 6
+  index: -1
+dragon_tattoo_baby_s
+  rotate: false
+  xy: 380, 585
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_tattoo_child_body
+  rotate: false
+  xy: 429, 224
+  size: 72, 60
+  orig: 80, 68
+  offset: 6, 6
+  index: -1
+dragon_tattoo_adult_head
+  rotate: false
+  xy: 387, 647
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+dragon_tattoo_adult_tattoo5
+  rotate: true
+  xy: 173, 792
+  size: 20, 47
+  orig: 28, 53
+  offset: 5, 4
+  index: -1
+dragon_tattoo_adult_body
+  rotate: true
+  xy: 173, 679
+  size: 111, 54
+  orig: 113, 62
+  offset: 2, 5
+  index: -1
+dragon_tattoo_adult_arm3
+  rotate: true
+  xy: 419, 738
+  size: 25, 15
+  orig: 27, 19
+  offset: 0, 3
+  index: -1
+dragon_tattoo_baby_wing1
+  rotate: true
+  xy: 445, 644
+  size: 53, 40
+  orig: 59, 44
+  offset: 3, 1
+  index: -1
+dragon_tattoo_adult_neck
+  rotate: false
+  xy: 455, 2
+  size: 50, 92
+  orig: 56, 92
+  offset: 3, 0
+  index: -1
+dragon_tattoo_baby_tail
+  rotate: false
+  xy: 436, 740
+  size: 26, 23
+  orig: 28, 25
+  offset: 2, 0
+  index: -1
+dragon_tattoo_adult_arm6
+  rotate: true
+  xy: 379, 766
+  size: 19, 15
+  orig: 25, 19
+  offset: 5, 3
+  index: -1
+dragon_tattoo_adult_eye4
+  rotate: false
+  xy: 316, 765
+  size: 22, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+dragon_tattoo_child_arm4
+  rotate: true
+  xy: 387, 691
+  size: 21, 41
+  orig: 23, 41
+  offset: 1, 0
+  index: -1
+dragon_tattoo_baby_arm3
+  rotate: false
+  xy: 484, 700
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+dragon_tattoo_adult_wing3
+  rotate: false
+  xy: 138, 591
+  size: 103, 86
+  orig: 109, 92
+  offset: 3, 2
+  index: -1
+dragon_tattoo_adult_tattoo9
+  rotate: false
+  xy: 430, 107
+  size: 77, 71
+  orig: 89, 89
+  offset: 5, 14
+  index: -1
+dragon_tattoo_child_jaw
+  rotate: false
+  xy: 445, 699
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+dragon_tattoo_critical_ef4
+  rotate: false
+  xy: 2, 2
+  size: 331, 331
+  orig: 331, 331
+  offset: 0, 0
+  index: -1
+dragon_tattoo_baby_head
+  rotate: false
+  xy: 316, 585
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+dragon_tattoo_child_leg4
+  rotate: false
+  xy: 122, 798
+  size: 19, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+dragon_tattoo_baby_eye1
+  rotate: false
+  xy: 343, 695
+  size: 42, 24
+  orig: 44, 26
+  offset: 1, 1
+  index: -1
+dragon_tattoo_adult_leg3
+  rotate: true
+  xy: 340, 766
+  size: 19, 37
+  orig: 23, 41
+  offset: 2, 2
+  index: -1
+dragon_tattoo_adult_tattoo2
+  rotate: true
+  xy: 455, 96
+  size: 9, 16
+  orig: 17, 20
+  offset: 4, 3
+  index: -1
+dragon_tattoo_adult_leg6
+  rotate: true
+  xy: 387, 714
+  size: 22, 37
+  orig: 22, 39
+  offset: 0, 2
+  index: -1
+dragon_tattoo_adult_arm4
+  rotate: false
+  xy: 487, 649
+  size: 19, 49
+  orig: 27, 51
+  offset: 5, 2
+  index: -1
+dragon_tattoo_baby_arm2
+  rotate: true
+  xy: 443, 765
+  size: 18, 23
+  orig: 20, 25
+  offset: 1, 1
+  index: -1
+dragon_tattoo_adult_tattoo6
+  rotate: false
+  xy: 487, 753
+  size: 20, 21
+  orig: 24, 23
+  offset: 2, 2
+  index: -1
+dragon_tattoo_child_head
+  rotate: false
+  xy: 440, 286
+  size: 63, 47
+  orig: 63, 47
+  offset: 0, 0
+  index: -1
+dragon_tattoo_child_wing1
+  rotate: false
+  xy: 99, 705
+  size: 72, 91
+  orig: 74, 95
+  offset: 0, 3
+  index: -1
+dragon_tattoo_critical_ef1
+  rotate: false
+  xy: 2, 591
+  size: 134, 112
+  orig: 292, 292
+  offset: 67, 89
+  index: -1
+dragon_tattoo_baby_leg1
+  rotate: true
+  xy: 311, 787
+  size: 25, 30
+  orig: 25, 32
+  offset: 0, 2
+  index: -1
+dragon_tattoo_adult_leg4
+  rotate: false
+  xy: 487, 776
+  size: 20, 15
+  orig: 26, 17
+  offset: 3, 2
+  index: -1
+dragon_tattoo_child_arm5
+  rotate: true
+  xy: 443, 719
+  size: 19, 27
+  orig: 23, 27
+  offset: 3, 0
+  index: -1
+dragon_tattoo_baby_body
+  rotate: false
+  xy: 316, 647
+  size: 69, 46
+  orig: 71, 46
+  offset: 2, 0
+  index: -1
+dragon_tattoo_adult_wing4
+  rotate: false
+  xy: 2, 705
+  size: 95, 97
+  orig: 99, 107
+  offset: 0, 7
+  index: -1
+dragon_tattoo_child_wing2
+  rotate: true
+  xy: 430, 180
+  size: 42, 76
+  orig: 46, 78
+  offset: 3, 2
+  index: -1
+dragon_tattoo_child_eye1
+  rotate: false
+  xy: 411, 788
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+dragon_tattoo_child_leg5
+  rotate: false
+  xy: 229, 679
+  size: 28, 60
+  orig: 30, 68
+  offset: 2, 3
+  index: -1
+dragon_tattoo_child_arm1
+  rotate: false
+  xy: 316, 728
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+dragon_tattoo_adult_eye1
+  rotate: true
+  xy: 430, 691
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+dragon_tattoo_adult_tattoo3
+  rotate: true
+  xy: 459, 790
+  size: 22, 16
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+dragon_tattoo_adult_leg7
+  rotate: false
+  xy: 99, 798
+  size: 21, 14
+  orig: 21, 16
+  offset: 0, 2
+  index: -1
+dragon_tattoo_child_eye2
+  rotate: false
+  xy: 344, 721
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+dragon_tattoo_adult_arm5
+  rotate: true
+  xy: 344, 749
+  size: 15, 36
+  orig: 21, 40
+  offset: 3, 3
+  index: -1

@@ -1,0 +1,172 @@
+7_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_goldmermaid_head
+  rotate: false
+  xy: 2, 2
+  size: 219, 156
+  orig: 221, 158
+  offset: 2, 0
+  index: -1
+m_goldmermaid_body1
+  rotate: true
+  xy: 1347, 2
+  size: 135, 127
+  orig: 135, 127
+  offset: 0, 0
+  index: -1
+m_goldmermaid_arm1
+  rotate: false
+  xy: 1800, 60
+  size: 50, 46
+  orig: 54, 46
+  offset: 4, 0
+  index: -1
+m_goldmermaid_groggy_arm2
+  rotate: true
+  xy: 1871, 2
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+m_goldmermaid_groggy_eye
+  rotate: true
+  xy: 1757, 2
+  size: 105, 41
+  orig: 107, 47
+  offset: 0, 6
+  index: -1
+m_goldmermaid_hair2
+  rotate: false
+  xy: 876, 2
+  size: 206, 142
+  orig: 208, 144
+  offset: 2, 0
+  index: -1
+m_goldmermaid_arm2
+  rotate: true
+  xy: 1800, 2
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+m_goldmermaid_tail
+  rotate: true
+  xy: 1476, 2
+  size: 148, 97
+  orig: 152, 99
+  offset: 4, 0
+  index: -1
+m_goldmermaid_hand2
+  rotate: false
+  xy: 1781, 109
+  size: 88, 38
+  orig: 90, 40
+  offset: 2, 0
+  index: -1
+m_goldmermaid_hair1
+  rotate: false
+  xy: 660, 2
+  size: 214, 139
+  orig: 222, 155
+  offset: 0, 0
+  index: -1
+m_goldmermaid_body3
+  rotate: true
+  xy: 1674, 2
+  size: 108, 81
+  orig: 110, 81
+  offset: 1, 0
+  index: -1
+m_goldmermaid_groggy_tail
+  rotate: true
+  xy: 1575, 2
+  size: 148, 97
+  orig: 152, 99
+  offset: 4, 0
+  index: -1
+m_goldmermaid_earing1
+  rotate: true
+  xy: 1932, 2
+  size: 56, 36
+  orig: 58, 44
+  offset: 2, 0
+  index: -1
+m_goldmermaid_groggy_earing1
+  rotate: false
+  xy: 1904, 86
+  size: 42, 34
+  orig: 58, 44
+  offset: 16, 2
+  index: -1
+m_goldmermaid_hand1
+  rotate: true
+  xy: 1871, 107
+  size: 50, 31
+  orig: 50, 35
+  offset: 0, 3
+  index: -1
+m_goldmermaid_groggy_mouse
+  rotate: false
+  xy: 1218, 139
+  size: 32, 18
+  orig: 64, 24
+  offset: 21, 0
+  index: -1
+m_goldmermaid_eye
+  rotate: false
+  xy: 1674, 112
+  size: 105, 43
+  orig: 107, 47
+  offset: 0, 4
+  index: -1
+m_goldmermaid_body2
+  rotate: true
+  xy: 1084, 2
+  size: 139, 132
+  orig: 139, 132
+  offset: 0, 0
+  index: -1
+m_goldmermaid_groggy_hair1
+  rotate: false
+  xy: 444, 2
+  size: 214, 155
+  orig: 222, 155
+  offset: 0, 0
+  index: -1
+m_goldmermaid_earing2
+  rotate: false
+  xy: 1852, 60
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+m_goldmermaid_groggy_body1
+  rotate: true
+  xy: 1218, 2
+  size: 135, 127
+  orig: 135, 127
+  offset: 0, 0
+  index: -1
+m_goldmermaid_shorthair
+  rotate: false
+  xy: 1904, 122
+  size: 48, 27
+  orig: 50, 33
+  offset: 2, 0
+  index: -1
+m_goldmermaid_mouse
+  rotate: false
+  xy: 1891, 60
+  size: 64, 24
+  orig: 64, 24
+  offset: 0, 0
+  index: -1
+m_goldmermaid_groggy_head
+  rotate: false
+  xy: 223, 2
+  size: 219, 156
+  orig: 221, 158
+  offset: 2, 0
+  index: -1

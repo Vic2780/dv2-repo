@@ -1,0 +1,326 @@
+119_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_elfqueen_wand_eff
+  rotate: false
+  xy: 585, 269
+  size: 149, 149
+  orig: 161, 161
+  offset: 6, 6
+  index: -1
+m_elfqueen_eff14
+  rotate: false
+  xy: 1120, 440
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+m_elfqueen_hair2
+  rotate: false
+  xy: 963, 345
+  size: 137, 83
+  orig: 137, 83
+  offset: 0, 0
+  index: -1
+m_elfqueen_gro_body1
+  rotate: true
+  xy: 1200, 429
+  size: 59, 117
+  orig: 73, 143
+  offset: 8, 6
+  index: -1
+m_elfqueen_eff1000
+  rotate: false
+  xy: 256, 239
+  size: 187, 269
+  orig: 227, 389
+  offset: 0, 0
+  index: -1
+m_elfqueen_wing_eff
+  rotate: false
+  xy: 1102, 345
+  size: 96, 93
+  orig: 104, 101
+  offset: 3, 5
+  index: -1
+m_elfqueen_eff3000
+  rotate: true
+  xy: 968, 2
+  size: 101, 283
+  orig: 227, 389
+  offset: 32, 51
+  index: -1
+m_elfqueen_body1
+  rotate: false
+  xy: 736, 269
+  size: 73, 143
+  orig: 73, 143
+  offset: 0, 0
+  index: -1
+m_elfqueen_ear
+  rotate: false
+  xy: 1333, 396
+  size: 85, 74
+  orig: 85, 74
+  offset: 0, 0
+  index: -1
+m_elfqueen_gro_wing1
+  rotate: true
+  xy: 495, 455
+  size: 39, 88
+  orig: 45, 98
+  offset: 6, 10
+  index: -1
+m_elfqueen_hand1
+  rotate: true
+  xy: 1375, 472
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+m_elfqueen_arm1
+  rotate: false
+  xy: 445, 455
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+m_elfqueen_pad
+  rotate: false
+  xy: 811, 404
+  size: 84, 73
+  orig: 84, 73
+  offset: 0, 0
+  index: -1
+m_elfqueen_wear2
+  rotate: false
+  xy: 239, 2
+  size: 285, 235
+  orig: 285, 235
+  offset: 0, 0
+  index: -1
+m_elfqueen_arm22
+  rotate: false
+  xy: 1319, 472
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: -1
+m_elfqueen_gro_body11
+  rotate: false
+  xy: 1150, 245
+  size: 80, 98
+  orig: 98, 142
+  offset: 6, 0
+  index: -1
+m_elfqueen_eff12
+  rotate: true
+  xy: 239, 239
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+m_elfqueen_gro_head
+  rotate: false
+  xy: 445, 269
+  size: 138, 184
+  orig: 144, 216
+  offset: 0, 32
+  index: -1
+m_elfqueen_wing2
+  rotate: false
+  xy: 445, 239
+  size: 74, 24
+  orig: 74, 24
+  offset: 0, 0
+  index: -1
+m_elfqueen_gro_knife
+  rotate: false
+  xy: 1034, 430
+  size: 38, 77
+  orig: 98, 209
+  offset: 50, 44
+  index: -1
+m_elfqueen_eff111
+  rotate: false
+  xy: 1162, 440
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+m_elfqueen_gro_wand
+  rotate: true
+  xy: 526, 76
+  size: 50, 422
+  orig: 72, 440
+  offset: 12, 18
+  index: -1
+m_elfqueen_hair3
+  rotate: false
+  xy: 1200, 355
+  size: 131, 72
+  orig: 131, 72
+  offset: 0, 0
+  index: -1
+m_elfqueen_eyet
+  rotate: true
+  xy: 1319, 429
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+m_elfqueen_gro_wear1
+  rotate: false
+  xy: 585, 420
+  size: 140, 72
+  orig: 252, 176
+  offset: 31, 9
+  index: -1
+m_elfqueen_belt_eff
+  rotate: false
+  xy: 727, 430
+  size: 75, 79
+  orig: 87, 93
+  offset: 6, 7
+  index: -1
+m_elfqueen_body2
+  rotate: false
+  xy: 817, 128
+  size: 189, 161
+  orig: 189, 161
+  offset: 0, 0
+  index: -1
+m_elfqueen_hair1
+  rotate: false
+  xy: 2, 2
+  size: 235, 324
+  orig: 235, 324
+  offset: 0, 0
+  index: -1
+m_elfqueen_body11
+  rotate: true
+  xy: 1008, 245
+  size: 98, 140
+  orig: 98, 142
+  offset: 0, 2
+  index: -1
+m_elfqueen_eff2000
+  rotate: true
+  xy: 526, 128
+  size: 139, 289
+  orig: 227, 389
+  offset: 29, 44
+  index: -1
+m_elfqueen_wand_eff2
+  rotate: true
+  xy: 1232, 234
+  size: 119, 138
+  orig: 141, 158
+  offset: 11, 3
+  index: -1
+m_elfqueen_gro_hair1
+  rotate: false
+  xy: 1074, 440
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+m_elfqueen_gro_wing2
+  rotate: false
+  xy: 1074, 489
+  size: 22, 20
+  orig: 74, 24
+  offset: 32, 0
+  index: -1
+m_elfqueen_hand2
+  rotate: false
+  xy: 963, 291
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+m_elfqueen_eye
+  rotate: true
+  xy: 1372, 234
+  size: 102, 40
+  orig: 144, 216
+  offset: 23, 72
+  index: -1
+m_elfqueen_hair4
+  rotate: true
+  xy: 897, 404
+  size: 68, 55
+  orig: 68, 55
+  offset: 0, 0
+  index: -1
+m_elfqueen_wand
+  rotate: true
+  xy: 526, 2
+  size: 72, 440
+  orig: 72, 440
+  offset: 0, 0
+  index: -1
+m_elfqueen_ear_ac
+  rotate: false
+  xy: 1414, 234
+  size: 9, 36
+  orig: 9, 36
+  offset: 0, 0
+  index: -1
+m_elfqueen_wand_eff3
+  rotate: false
+  xy: 811, 291
+  size: 150, 111
+  orig: 182, 133
+  offset: 15, 6
+  index: -1
+m_elfqueen_knife
+  rotate: true
+  xy: 1214, 134
+  size: 98, 209
+  orig: 98, 209
+  offset: 0, 0
+  index: -1
+m_elfqueen_head
+  rotate: true
+  xy: 1008, 105
+  size: 138, 204
+  orig: 144, 216
+  offset: 6, 0
+  index: -1
+m_elfqueen_eff13
+  rotate: false
+  xy: 950, 76
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+m_elfqueen_wear1
+  rotate: false
+  xy: 2, 328
+  size: 252, 176
+  orig: 252, 176
+  offset: 0, 0
+  index: -1
+m_elfqueen_n_eff
+  rotate: false
+  xy: 954, 430
+  size: 78, 77
+  orig: 80, 79
+  offset: 0, 1
+  index: -1
+m_elfqueen_wand_eff4
+  rotate: false
+  xy: 1253, 2
+  size: 170, 130
+  orig: 186, 144
+  offset: 13, 9
+  index: -1
+m_elfqueen_wing1
+  rotate: true
+  xy: 1333, 355
+  size: 39, 90
+  orig: 45, 98
+  offset: 0, 0
+  index: -1

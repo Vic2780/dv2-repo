@@ -1,0 +1,669 @@
+dragon_74_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_redwybern_adult_eye2
+  rotate: false
+  xy: 238, 1499
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+dragon_redwybern_adult_body
+  rotate: false
+  xy: 472, 413
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+dragon_redwybern_baby_wing2
+  rotate: true
+  xy: 282, 1419
+  size: 57, 43
+  orig: 57, 43
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_critical10
+  rotate: false
+  xy: 192, 342
+  size: 135, 93
+  orig: 135, 93
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_heart
+  rotate: true
+  xy: 381, 1461
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+sample
+  rotate: false
+  xy: 173, 438
+  size: 227, 253
+  orig: 227, 253
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_l_lega
+  rotate: false
+  xy: 467, 289
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_eye2
+  rotate: false
+  xy: 238, 1499
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+dragon_redwybern_adult_l_wing
+  rotate: true
+  xy: 158, 1090
+  size: 164, 135
+  orig: 164, 135
+  offset: 0, 0
+  index: -1
+dragon_redwybern_adult_l_lega
+  rotate: false
+  xy: 467, 289
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+dragon_redwybern_child_wing1b
+  rotate: true
+  xy: 329, 781
+  size: 170, 59
+  orig: 170, 59
+  offset: 0, 0
+  index: -1
+dragon_redwybern_child_wing2b
+  rotate: true
+  xy: 390, 787
+  size: 113, 56
+  orig: 113, 56
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_critical9
+  rotate: true
+  xy: 467, 2
+  size: 154, 41
+  orig: 156, 41
+  offset: 0, 0
+  index: -1
+dragon_redwybern_adult_r_legd
+  rotate: false
+  xy: 199, 1499
+  size: 11, 11
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+dragon_redwybern_critical1
+  rotate: true
+  xy: 53, 885
+  size: 262, 99
+  orig: 276, 109
+  offset: 5, 7
+  index: -1
+dragon_redwybern_adult_l_legd
+  rotate: false
+  xy: 363, 420
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+dragon_redwybern_adult_tail
+  rotate: true
+  xy: 424, 1339
+  size: 77, 82
+  orig: 77, 82
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_critical4
+  rotate: false
+  xy: 135, 2
+  size: 55, 434
+  orig: 55, 442
+  offset: 0, 8
+  index: -1
+dragon_redwybern_child_neck
+  rotate: true
+  xy: 424, 1418
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+dragon_redwybern_child_heart
+  rotate: true
+  xy: 381, 1461
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_redwybern_baby_body
+  rotate: true
+  xy: 461, 370
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_critical13
+  rotate: false
+  xy: 173, 693
+  size: 216, 86
+  orig: 216, 86
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_l_wing
+  rotate: false
+  xy: 154, 781
+  size: 173, 170
+  orig: 173, 170
+  offset: 0, 0
+  index: -1
+dragon_redwybern_child_leg1
+  rotate: false
+  xy: 457, 1111
+  size: 45, 68
+  orig: 45, 68
+  offset: 0, 0
+  index: -1
+dragon_redwybern_child_eye
+  rotate: true
+  xy: 158, 1256
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+dragon_redwybern_baby_eye3
+  rotate: false
+  xy: 472, 460
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_neckfur
+  rotate: false
+  xy: 432, 1039
+  size: 56, 70
+  orig: 56, 70
+  offset: 0, 0
+  index: -1
+dragon_redwybern_adult_eye3
+  rotate: false
+  xy: 312, 1406
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+dragon_redwybern_baby_wing1
+  rotate: true
+  xy: 461, 309
+  size: 59, 47
+  orig: 59, 47
+  offset: 0, 0
+  index: -1
+dragon_redwybern_adult_eye
+  rotate: true
+  xy: 135, 438
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+dragon_redwybern_child_body
+  rotate: true
+  xy: 402, 420
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_r_lega
+  rotate: false
+  xy: 174, 1499
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_critical6
+  rotate: false
+  xy: 2, 885
+  size: 49, 433
+  orig: 49, 443
+  offset: 0, 10
+  index: -1
+dragon_redwybern_adult_r_lega
+  rotate: false
+  xy: 174, 1499
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+dragon_redwybern_baby_leg2
+  rotate: true
+  xy: 154, 743
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_l_legd
+  rotate: false
+  xy: 363, 420
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_critical1
+  rotate: true
+  xy: 457, 787
+  size: 179, 51
+  orig: 179, 53
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_eye3
+  rotate: false
+  xy: 312, 1406
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_critical12
+  rotate: false
+  xy: 343, 309
+  size: 116, 109
+  orig: 134, 127
+  offset: 10, 9
+  index: -1
+dragon_redwybern_e_r_legb
+  rotate: false
+  xy: 301, 1478
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_l_wingb
+  rotate: true
+  xy: 2, 1331
+  size: 173, 170
+  orig: 173, 170
+  offset: 0, 0
+  index: -1
+dragon_redwybern_baby_head
+  rotate: false
+  xy: 402, 493
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_tail2
+  rotate: false
+  xy: 86, 743
+  size: 66, 73
+  orig: 66, 73
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_critical5
+  rotate: false
+  xy: 2, 450
+  size: 82, 433
+  orig: 82, 443
+  offset: 0, 10
+  index: -1
+dragon_redwybern_baby_chin
+  rotate: false
+  xy: 329, 420
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+dragon_redwybern_baby_eye2
+  rotate: false
+  xy: 422, 1464
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_body2
+  rotate: true
+  xy: 430, 902
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+dragon_redwybern_baby_leg1
+  rotate: true
+  xy: 282, 1478
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_head
+  rotate: true
+  xy: 452, 559
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+dragon_redwybern_adult_chin
+  rotate: false
+  xy: 450, 1485
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+dragon_redwybern_adult_l_legc
+  rotate: true
+  xy: 158, 1283
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+dragon_redwybern_adult_eye4
+  rotate: false
+  xy: 225, 1499
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_redwybern_child_leg2
+  rotate: false
+  xy: 457, 1181
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_chin
+  rotate: false
+  xy: 450, 1485
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_critical7
+  rotate: false
+  xy: 2, 2
+  size: 131, 446
+  orig: 131, 446
+  offset: 0, 0
+  index: -1
+dragon_redwybern_adult_r_legb
+  rotate: true
+  xy: 422, 1485
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+dragon_redwybern_child_wing1a
+  rotate: false
+  xy: 174, 1419
+  size: 106, 78
+  orig: 106, 78
+  offset: 0, 0
+  index: -1
+dragon_redwybern_child_wing2a
+  rotate: false
+  xy: 327, 1406
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_critical2
+  rotate: true
+  xy: 53, 1149
+  size: 180, 103
+  orig: 188, 103
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_eye4
+  rotate: false
+  xy: 225, 1499
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_redwybern_adult_head
+  rotate: false
+  xy: 390, 902
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_eye
+  rotate: true
+  xy: 135, 438
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+dragon_redwybern_adult_heart
+  rotate: true
+  xy: 381, 1461
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_r_legc
+  rotate: true
+  xy: 158, 1308
+  size: 19, 14
+  orig: 19, 18
+  offset: 0, 4
+  index: -1
+dragon_redwybern_e_tail
+  rotate: false
+  xy: 424, 1248
+  size: 84, 89
+  orig: 84, 89
+  offset: 0, 0
+  index: -1
+dragon_redwybern_child_eye2
+  rotate: false
+  xy: 295, 1090
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_r_wingb
+  rotate: true
+  xy: 295, 1111
+  size: 135, 160
+  orig: 135, 160
+  offset: 0, 0
+  index: -1
+dragon_redwybern_critical3
+  rotate: false
+  xy: 343, 309
+  size: 116, 109
+  orig: 134, 127
+  offset: 10, 9
+  index: -1
+dragon_redwybern_e_l_legc
+  rotate: true
+  xy: 158, 1283
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+dragon_redwybern_adult_l_legb
+  rotate: false
+  xy: 490, 1067
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_neck
+  rotate: false
+  xy: 379, 1406
+  size: 43, 53
+  orig: 45, 53
+  offset: 2, 0
+  index: -1
+stand1
+  rotate: true
+  xy: 343, 2
+  size: 305, 122
+  orig: 305, 122
+  offset: 0, 0
+  index: -1
+dragon_redwybern_adult_r_wingb
+  rotate: false
+  xy: 320, 953
+  size: 110, 156
+  orig: 110, 156
+  offset: 0, 0
+  index: -1
+dragon_redwybern_adult_neckfur
+  rotate: false
+  xy: 86, 818
+  size: 59, 56
+  orig: 61, 56
+  offset: 2, 0
+  index: -1
+dragon_redwybern_e_r_wing
+  rotate: false
+  xy: 174, 1256
+  size: 136, 161
+  orig: 136, 161
+  offset: 0, 0
+  index: -1
+dragon_redwybern_adult_tail2
+  rotate: false
+  xy: 402, 638
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+dragon_redwybern_adult_neck
+  rotate: false
+  xy: 457, 637
+  size: 43, 53
+  orig: 45, 53
+  offset: 2, 0
+  index: -1
+dragon_redwybern_adult_r_wing
+  rotate: false
+  xy: 312, 1248
+  size: 110, 156
+  orig: 110, 156
+  offset: 0, 0
+  index: -1
+dragon_redwybern_child_chin
+  rotate: false
+  xy: 452, 609
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+dragon_redwybern_child_head
+  rotate: true
+  xy: 402, 559
+  size: 77, 48
+  orig: 77, 48
+  offset: 0, 0
+  index: -1
+dragon_redwybern_adult_eye5
+  rotate: false
+  xy: 212, 1499
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_critical11
+  rotate: false
+  xy: 391, 693
+  size: 117, 92
+  orig: 117, 92
+  offset: 0, 0
+  index: -1
+dragon_redwybern_child_tail
+  rotate: false
+  xy: 432, 968
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_critical8
+  rotate: true
+  xy: 467, 158
+  size: 129, 39
+  orig: 131, 41
+  offset: 2, 0
+  index: -1
+dragon_redwybern_adult_r_legc
+  rotate: true
+  xy: 158, 1308
+  size: 19, 14
+  orig: 19, 18
+  offset: 0, 4
+  index: -1
+dragon_redwybern_critical2
+  rotate: true
+  xy: 86, 450
+  size: 291, 85
+  orig: 291, 115
+  offset: 0, 6
+  index: -1
+dragon_redwybern_e_l_legb
+  rotate: false
+  xy: 490, 1039
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_critical3
+  rotate: false
+  xy: 192, 2
+  size: 149, 338
+  orig: 149, 338
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_eye5
+  rotate: false
+  xy: 212, 1499
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_redwybern_baby_eye
+  rotate: false
+  xy: 451, 1464
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+dragon_redwybern_adult_l_wingb
+  rotate: false
+  xy: 154, 953
+  size: 164, 135
+  orig: 164, 135
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_r_legd
+  rotate: false
+  xy: 199, 1499
+  size: 11, 11
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+dragon_redwybern_child_eye3
+  rotate: true
+  xy: 432, 941
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+dragon_redwybern_e_body
+  rotate: true
+  xy: 327, 1462
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+dragon_redwybern_adult_body2
+  rotate: true
+  xy: 480, 1418
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,991 @@
+dragon_3020_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_lasolar_e_critical05
+  rotate: false
+  xy: 418, 2
+  size: 203, 449
+  orig: 203, 449
+  offset: 0, 0
+  index: -1
+dragon_lasolar_child_wing2
+  rotate: true
+  xy: 1210, 956
+  size: 65, 103
+  orig: 65, 103
+  offset: 0, 0
+  index: -1
+dragon_lasolar_child_wing3
+  rotate: true
+  xy: 1646, 85
+  size: 65, 93
+  orig: 65, 93
+  offset: 0, 0
+  index: -1
+dragon_lasolar_child_wing1
+  rotate: true
+  xy: 1641, 523
+  size: 63, 97
+  orig: 63, 97
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_arm3
+  rotate: false
+  xy: 1708, 606
+  size: 65, 27
+  orig: 65, 27
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_arm12
+  rotate: true
+  xy: 1108, 959
+  size: 62, 100
+  orig: 62, 100
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_arm13
+  rotate: false
+  xy: 1770, 786
+  size: 62, 95
+  orig: 62, 95
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_arm11
+  rotate: false
+  xy: 1646, 804
+  size: 59, 92
+  orig: 59, 92
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_body2
+  rotate: true
+  xy: 533, 453
+  size: 143, 84
+  orig: 143, 84
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_leg32
+  rotate: false
+  xy: 1797, 889
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_body3
+  rotate: true
+  xy: 704, 824
+  size: 143, 83
+  orig: 143, 83
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_leg33
+  rotate: true
+  xy: 1898, 833
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_body1
+  rotate: false
+  xy: 968, 368
+  size: 138, 82
+  orig: 138, 82
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_tail1a
+  rotate: true
+  xy: 550, 969
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_arm12
+  rotate: true
+  xy: 1006, 959
+  size: 62, 100
+  orig: 62, 100
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_arm13
+  rotate: false
+  xy: 1582, 85
+  size: 62, 95
+  orig: 62, 95
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_leg31
+  rotate: true
+  xy: 1741, 935
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_arm22
+  rotate: true
+  xy: 1860, 891
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_arm23
+  rotate: false
+  xy: 758, 969
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_arm21
+  rotate: false
+  xy: 902, 968
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_attack
+  rotate: false
+  xy: 1207, 792
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_neck1a
+  rotate: false
+  xy: 295, 981
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_damaged
+  rotate: false
+  xy: 1876, 275
+  size: 75, 57
+  orig: 75, 57
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_body2
+  rotate: true
+  xy: 447, 453
+  size: 143, 84
+  orig: 143, 84
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_arm11
+  rotate: true
+  xy: 1646, 462
+  size: 59, 92
+  orig: 59, 92
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_mouth
+  rotate: false
+  xy: 500, 980
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_attack
+  rotate: false
+  xy: 1207, 792
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_body3
+  rotate: true
+  xy: 619, 453
+  size: 143, 83
+  orig: 143, 83
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_arm22
+  rotate: false
+  xy: 1802, 546
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_body1
+  rotate: false
+  xy: 828, 368
+  size: 138, 82
+  orig: 138, 82
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_body1a
+  rotate: false
+  xy: 1659, 229
+  size: 80, 61
+  orig: 80, 61
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_arm23
+  rotate: false
+  xy: 644, 969
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_tail2
+  rotate: false
+  xy: 1312, 342
+  size: 133, 107
+  orig: 133, 107
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_arm21
+  rotate: false
+  xy: 701, 969
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+dragon_lasolar_child_tail2
+  rotate: false
+  xy: 1741, 432
+  size: 126, 56
+  orig: 126, 56
+  offset: 0, 0
+  index: -1
+dragon_lasolar_baby_head02
+  rotate: true
+  xy: 1876, 400
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_tail3
+  rotate: false
+  xy: 1741, 218
+  size: 133, 105
+  orig: 133, 105
+  offset: 0, 0
+  index: -1
+dragon_lasolar_baby_head01
+  rotate: true
+  xy: 1635, 738
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: -1
+dragon_lasolar_child_tail3
+  rotate: false
+  xy: 1435, 745
+  size: 121, 57
+  orig: 121, 57
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_leg12
+  rotate: false
+  xy: 1707, 832
+  size: 61, 101
+  orig: 61, 101
+  offset: 0, 0
+  index: -1
+dragon_lasolar_child_tail1
+  rotate: false
+  xy: 1741, 490
+  size: 119, 54
+  orig: 119, 54
+  offset: 0, 0
+  index: -1
+dragon_lasolar_baby_head03
+  rotate: true
+  xy: 1876, 334
+  size: 64, 74
+  orig: 64, 74
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_leg13
+  rotate: true
+  xy: 1646, 401
+  size: 59, 92
+  orig: 59, 92
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_tail1
+  rotate: false
+  xy: 1741, 2
+  size: 133, 106
+  orig: 133, 106
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_arm3
+  rotate: true
+  xy: 1612, 501
+  size: 65, 27
+  orig: 65, 27
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_leg11
+  rotate: true
+  xy: 1862, 545
+  size: 59, 88
+  orig: 59, 88
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_leg22
+  rotate: false
+  xy: 1551, 182
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_leg23
+  rotate: false
+  xy: 1770, 698
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+dragon_lasolar_child_effect
+  rotate: true
+  xy: 1740, 546
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_leg32
+  rotate: false
+  xy: 1797, 952
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_leg33
+  rotate: true
+  xy: 1860, 950
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_leg31
+  rotate: false
+  xy: 1834, 833
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_leg21
+  rotate: true
+  xy: 1724, 635
+  size: 64, 44
+  orig: 64, 44
+  offset: 0, 0
+  index: -1
+dragon_lasolar_child_head2
+  rotate: false
+  xy: 1876, 2
+  size: 76, 80
+  orig: 76, 80
+  offset: 0, 0
+  index: -1
+dragon_lasolar_child_head3
+  rotate: false
+  xy: 1869, 466
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+dragon_lasolar_baby_body02
+  rotate: false
+  xy: 1876, 163
+  size: 76, 64
+  orig: 76, 64
+  offset: 0, 0
+  index: -1
+dragon_lasolar_baby_body01
+  rotate: false
+  xy: 1659, 292
+  size: 79, 64
+  orig: 79, 64
+  offset: 0, 0
+  index: -1
+dragon_lasolar_child_head1
+  rotate: false
+  xy: 1876, 84
+  size: 76, 77
+  orig: 76, 77
+  offset: 0, 0
+  index: -1
+dragon_lasolar_baby_body03
+  rotate: true
+  xy: 1551, 2
+  size: 81, 65
+  orig: 81, 65
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_eye
+  rotate: true
+  xy: 478, 1017
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_leg4
+  rotate: true
+  xy: 1612, 568
+  size: 65, 27
+  orig: 65, 27
+  offset: 0, 0
+  index: -1
+dragon_lasolar_baby_s
+  rotate: true
+  xy: 1740, 546
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_critical10
+  rotate: true
+  xy: 274, 2
+  size: 458, 142
+  orig: 458, 142
+  offset: 0, 0
+  index: -1
+dragon_lasolar_child_leg2
+  rotate: true
+  xy: 391, 980
+  size: 41, 76
+  orig: 41, 76
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_leg12
+  rotate: true
+  xy: 1835, 770
+  size: 61, 101
+  orig: 61, 101
+  offset: 0, 0
+  index: -1
+dragon_lasolar_child_leg3
+  rotate: true
+  xy: 1876, 229
+  size: 44, 76
+  orig: 44, 76
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_leg13
+  rotate: false
+  xy: 1708, 738
+  size: 59, 92
+  orig: 59, 92
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_leg11
+  rotate: true
+  xy: 1861, 606
+  size: 59, 88
+  orig: 59, 88
+  offset: 0, 0
+  index: -1
+dragon_lasolar_child_leg1
+  rotate: true
+  xy: 1775, 607
+  size: 43, 77
+  orig: 43, 77
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_leg22
+  rotate: false
+  xy: 1641, 588
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_leg23
+  rotate: false
+  xy: 1769, 742
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_heada
+  rotate: false
+  xy: 1179, 792
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_leg21
+  rotate: false
+  xy: 1770, 652
+  size: 64, 44
+  orig: 64, 44
+  offset: 0, 0
+  index: -1
+dragon_lasolar_baby_leg02
+  rotate: true
+  xy: 1646, 898
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+dragon_lasolar_baby_leg03
+  rotate: true
+  xy: 232, 981
+  size: 40, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1
+dragon_lasolar_baby_leg01
+  rotate: true
+  xy: 168, 981
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+dragon_lasolar_baby_eyelight01
+  rotate: false
+  xy: 469, 980
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_love02
+  rotate: true
+  xy: 1616, 401
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+dragon_lasolar_baby_eyelight02
+  rotate: false
+  xy: 1551, 116
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_neck2
+  rotate: true
+  xy: 1315, 946
+  size: 75, 104
+  orig: 75, 104
+  offset: 0, 0
+  index: -1
+dragon_lasolar_baby_eyelight03
+  rotate: true
+  xy: 1705, 152
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_neck3
+  rotate: true
+  xy: 1206, 365
+  size: 81, 104
+  orig: 81, 104
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_love01
+  rotate: false
+  xy: 1259, 792
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_neck1
+  rotate: true
+  xy: 1527, 945
+  size: 76, 105
+  orig: 76, 105
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_wing1a
+  rotate: false
+  xy: 614, 969
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_leg4
+  rotate: true
+  xy: 1616, 434
+  size: 65, 27
+  orig: 65, 27
+  offset: 0, 0
+  index: -1
+dragon_lasolar_baby_eye
+  rotate: false
+  xy: 1284, 792
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_damaged
+  rotate: true
+  xy: 1646, 152
+  size: 75, 57
+  orig: 75, 57
+  offset: 0, 0
+  index: -1
+dragon_lasolar_child_eye
+  rotate: false
+  xy: 1297, 792
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+dragon_lasolar_child_love
+  rotate: true
+  xy: 1246, 792
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_love
+  rotate: false
+  xy: 469, 1017
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+dragon_lasolar_baby_tail02
+  rotate: false
+  xy: 1108, 365
+  size: 47, 85
+  orig: 47, 85
+  offset: 0, 0
+  index: -1
+dragon_lasolar_baby_tail03
+  rotate: true
+  xy: 815, 968
+  size: 53, 85
+  orig: 53, 85
+  offset: 0, 0
+  index: -1
+dragon_lasolar_baby_tail01
+  rotate: false
+  xy: 1157, 365
+  size: 47, 85
+  orig: 47, 85
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_head
+  rotate: false
+  xy: 1582, 342
+  size: 75, 57
+  orig: 75, 57
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_arm11a
+  rotate: false
+  xy: 341, 981
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_eyelight1
+  rotate: true
+  xy: 1134, 792
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_mouth
+  rotate: true
+  xy: 1582, 401
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_leg11a
+  rotate: true
+  xy: 959, 968
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_head
+  rotate: false
+  xy: 1558, 745
+  size: 75, 57
+  orig: 75, 57
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_eyelight2
+  rotate: true
+  xy: 1150, 792
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_eyelight3
+  rotate: true
+  xy: 1165, 792
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_critical02
+  rotate: true
+  xy: 704, 453
+  size: 369, 176
+  orig: 375, 338
+  offset: 0, 3
+  index: -1
+dragon_lasolar_adult_neck2
+  rotate: true
+  xy: 1421, 946
+  size: 75, 104
+  orig: 75, 104
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_critical01
+  rotate: true
+  xy: 346, 603
+  size: 375, 176
+  orig: 375, 338
+  offset: 0, 1
+  index: -1
+dragon_lasolar_adult_neck3
+  rotate: true
+  xy: 1635, 2
+  size: 81, 104
+  orig: 81, 104
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_critical04
+  rotate: false
+  xy: 1250, 2
+  size: 299, 338
+  orig: 375, 338
+  offset: 23, 0
+  index: -1
+dragon_lasolar_adult_critical03
+  rotate: true
+  xy: 998, 2
+  size: 361, 250
+  orig: 375, 338
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_neck1
+  rotate: true
+  xy: 1634, 945
+  size: 76, 105
+  orig: 76, 105
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_critical05
+  rotate: false
+  xy: 623, 2
+  size: 203, 449
+  orig: 203, 449
+  offset: 0, 0
+  index: -1
+dragon_lasolar_love02
+  rotate: true
+  xy: 1616, 401
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+dragon_lasolar_love01
+  rotate: false
+  xy: 1259, 792
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_eye
+  rotate: true
+  xy: 478, 1017
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+dragon_lasolar_baby_love
+  rotate: true
+  xy: 1232, 792
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_tail2
+  rotate: false
+  xy: 1447, 342
+  size: 133, 107
+  orig: 133, 107
+  offset: 0, 0
+  index: -1
+dragon_lasolar_child_eyelight2
+  rotate: false
+  xy: 1618, 182
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_tail3
+  rotate: false
+  xy: 1741, 325
+  size: 133, 105
+  orig: 133, 105
+  offset: 0, 0
+  index: -1
+dragon_lasolar_child_eyelight1
+  rotate: false
+  xy: 1551, 85
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_tail1
+  rotate: false
+  xy: 1741, 110
+  size: 133, 106
+  orig: 133, 106
+  offset: 0, 0
+  index: -1
+dragon_lasolar_child_eyelight3
+  rotate: true
+  xy: 1551, 144
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+dragon_lasolar_child_body2
+  rotate: false
+  xy: 1551, 229
+  size: 106, 111
+  orig: 106, 111
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_love
+  rotate: false
+  xy: 469, 1017
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+dragon_lasolar_child_body3
+  rotate: true
+  xy: 1612, 635
+  size: 101, 110
+  orig: 101, 110
+  offset: 0, 0
+  index: -1
+dragon_lasolar_child_body1
+  rotate: true
+  xy: 1836, 667
+  size: 101, 110
+  orig: 101, 110
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_eyelight2
+  rotate: true
+  xy: 1150, 792
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_critical06
+  rotate: true
+  xy: 2, 604
+  size: 412, 164
+  orig: 412, 164
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_critical07
+  rotate: true
+  xy: 828, 2
+  size: 364, 168
+  orig: 444, 300
+  offset: 5, 61
+  index: -1
+dragon_lasolar_adult_eyelight1
+  rotate: true
+  xy: 1134, 792
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_critical08
+  rotate: true
+  xy: 1435, 451
+  size: 292, 175
+  orig: 328, 223
+  offset: 11, 47
+  index: -1
+dragon_lasolar_adult_eyelight3
+  rotate: true
+  xy: 1165, 792
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_critical09
+  rotate: true
+  xy: 2, 2
+  size: 600, 270
+  orig: 612, 282
+  offset: 4, 0
+  index: -1
+dragon_lasolar_e_wing2
+  rotate: false
+  xy: 789, 824
+  size: 169, 142
+  orig: 169, 142
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_wing3
+  rotate: false
+  xy: 274, 462
+  size: 171, 139
+  orig: 171, 139
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_wing2
+  rotate: false
+  xy: 960, 815
+  size: 169, 142
+  orig: 169, 142
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_wing3
+  rotate: false
+  xy: 1131, 815
+  size: 171, 139
+  orig: 171, 139
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_critical01
+  rotate: true
+  xy: 168, 604
+  size: 375, 176
+  orig: 375, 338
+  offset: 0, 1
+  index: -1
+dragon_lasolar_e_critical02
+  rotate: true
+  xy: 524, 598
+  size: 369, 178
+  orig: 369, 178
+  offset: 0, 0
+  index: -1
+dragon_lasolar_adult_wing1
+  rotate: false
+  xy: 1475, 804
+  size: 169, 139
+  orig: 169, 139
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_critical03
+  rotate: true
+  xy: 882, 452
+  size: 361, 250
+  orig: 375, 338
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_wing1
+  rotate: false
+  xy: 1304, 805
+  size: 169, 139
+  orig: 169, 139
+  offset: 0, 0
+  index: -1
+dragon_lasolar_e_critical04
+  rotate: false
+  xy: 1134, 452
+  size: 299, 338
+  orig: 375, 338
+  offset: 23, 0
+  index: -1

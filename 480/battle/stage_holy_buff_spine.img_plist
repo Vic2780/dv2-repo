@@ -1,0 +1,18 @@
+stage_holy_buff_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+holy_buff2
+  rotate: false
+  xy: 129, 2
+  size: 117, 118
+  orig: 137, 128
+  offset: 9, 6
+  index: -1
+holy_buff1
+  rotate: false
+  xy: 2, 2
+  size: 125, 124
+  orig: 137, 128
+  offset: 5, 3
+  index: -1

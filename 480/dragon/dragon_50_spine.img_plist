@@ -1,0 +1,347 @@
+dragon_50_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_tiger_baby_leg1
+  rotate: false
+  xy: 418, 886
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+dragon_tiger_adult_leg1
+  rotate: true
+  xy: 417, 435
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+dragon_tiger_child_effect
+  rotate: false
+  xy: 372, 545
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_tiger_child_mouth
+  rotate: true
+  xy: 351, 888
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+dragon_tiger_skill03
+  rotate: false
+  xy: 2, 321
+  size: 413, 146
+  orig: 413, 146
+  offset: 0, 0
+  index: -1
+dragon_tiger_adult_leg7
+  rotate: true
+  xy: 149, 993
+  size: 24, 46
+  orig: 24, 46
+  offset: 0, 0
+  index: -1
+dragon_tiger_child_tail
+  rotate: true
+  xy: 355, 723
+  size: 43, 66
+  orig: 43, 66
+  offset: 0, 0
+  index: -1
+dragon_tiger_baby_mouth
+  rotate: true
+  xy: 423, 708
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+dragon_tiger_adult_mouth
+  rotate: true
+  xy: 294, 994
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+dragon_tiger_adult_eye
+  rotate: false
+  xy: 353, 805
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+dragon_tiger_child_love
+  rotate: false
+  xy: 246, 890
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+dragon_tiger_skill04
+  rotate: false
+  xy: 2, 469
+  size: 368, 184
+  orig: 368, 184
+  offset: 0, 0
+  index: -1
+dragon_tiger_baby_wing
+  rotate: false
+  xy: 418, 865
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+dragon_tiger_adult_neck
+  rotate: false
+  xy: 246, 945
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+dragon_tiger_adult_effect2
+  rotate: false
+  xy: 387, 955
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_tiger_baby_leg2
+  rotate: false
+  xy: 417, 398
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+dragon_tiger_adult_leg4
+  rotate: true
+  xy: 417, 321
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+dragon_tiger_adult_love
+  rotate: false
+  xy: 306, 890
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+dragon_tiger_adult_wing1
+  rotate: true
+  xy: 2, 895
+  size: 127, 101
+  orig: 127, 101
+  offset: 0, 0
+  index: -1
+dragon_tiger_baby_eye
+  rotate: true
+  xy: 417, 360
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+dragon_tiger_skill05
+  rotate: false
+  xy: 2, 2
+  size: 424, 317
+  orig: 424, 317
+  offset: 0, 0
+  index: -1
+dragon_tiger_baby_effect
+  rotate: false
+  xy: 339, 955
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_tiger_adult_effect1
+  rotate: true
+  xy: 203, 965
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_tiger_adult_leg5
+  rotate: false
+  xy: 423, 746
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1
+dragon_tiger_child_head
+  rotate: true
+  xy: 369, 805
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+dragon_tiger_baby_love
+  rotate: false
+  xy: 372, 607
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+dragon_tiger_child_eye
+  rotate: true
+  xy: 419, 951
+  size: 35, 12
+  orig: 35, 12
+  offset: 0, 0
+  index: -1
+dragon_tiger_adult_body
+  rotate: false
+  xy: 235, 745
+  size: 116, 67
+  orig: 116, 67
+  offset: 0, 0
+  index: -1
+dragon_tiger_child_body
+  rotate: true
+  xy: 372, 469
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+dragon_tiger_child_leg2
+  rotate: false
+  xy: 387, 995
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+dragon_tiger_adult_damaged
+  rotate: true
+  xy: 369, 910
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+dragon_tiger_baby_tail
+  rotate: false
+  xy: 416, 665
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+dragon_tiger_adult_leg2
+  rotate: true
+  xy: 314, 996
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+dragon_tiger_child_leg1
+  rotate: true
+  xy: 246, 993
+  size: 23, 46
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+dragon_tiger_adult_tail
+  rotate: false
+  xy: 105, 895
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+dragon_tiger_adult_tail2
+  rotate: false
+  xy: 223, 814
+  size: 104, 74
+  orig: 104, 74
+  offset: 0, 0
+  index: -1
+dragon_tiger_baby_head
+  rotate: false
+  xy: 355, 665
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+dragon_tiger_child_leg3
+  rotate: true
+  xy: 105, 993
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+dragon_tiger_adult_ear
+  rotate: false
+  xy: 355, 655
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+dragon_tiger_adult_leg3
+  rotate: false
+  xy: 203, 895
+  size: 41, 68
+  orig: 41, 68
+  offset: 0, 0
+  index: -1
+dragon_tiger_adult_attack
+  rotate: false
+  xy: 294, 945
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+dragon_tiger_child_leg4
+  rotate: false
+  xy: 351, 996
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+dragon_tiger_baby_body
+  rotate: false
+  xy: 353, 768
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+dragon_tiger_adult_head
+  rotate: true
+  xy: 369, 865
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+dragon_tiger_skill02
+  rotate: false
+  xy: 2, 655
+  size: 231, 123
+  orig: 231, 123
+  offset: 0, 0
+  index: -1
+dragon_tiger_child_wing
+  rotate: false
+  xy: 329, 814
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+dragon_tiger_adult_leg6
+  rotate: true
+  xy: 418, 920
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+dragon_tiger_adult_wing2
+  rotate: false
+  xy: 235, 655
+  size: 118, 88
+  orig: 118, 88
+  offset: 0, 0
+  index: -1
+dragon_tiger_skill01
+  rotate: false
+  xy: 2, 780
+  size: 219, 113
+  orig: 219, 113
+  offset: 0, 0
+  index: -1

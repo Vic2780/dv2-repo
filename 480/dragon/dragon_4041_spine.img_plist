@@ -1,0 +1,620 @@
+dragon_4041_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_sura_child_arm1
+  rotate: true
+  xy: 2, 1847
+  size: 38, 80
+  orig: 38, 80
+  offset: 0, 0
+  index: -1
+dragon_sura_adult_f3
+  rotate: false
+  xy: 2, 1347
+  size: 173, 248
+  orig: 173, 248
+  offset: 0, 0
+  index: -1
+dragon_sura_critical_q1
+  rotate: false
+  xy: 266, 243
+  size: 34, 182
+  orig: 40, 188
+  offset: 3, 5
+  index: -1
+dragon_sura_critical_f1
+  rotate: false
+  xy: 226, 502
+  size: 194, 206
+  orig: 194, 206
+  offset: 0, 0
+  index: -1
+dragon_sura_adult_arm3
+  rotate: false
+  xy: 461, 424
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+dragon_sura_adult_leg2
+  rotate: true
+  xy: 456, 1733
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+dragon_sura_adult_armr2
+  rotate: true
+  xy: 84, 1847
+  size: 32, 83
+  orig: 32, 83
+  offset: 0, 0
+  index: -1
+dragon_sura_critical_e3
+  rotate: false
+  xy: 334, 886
+  size: 103, 124
+  orig: 103, 124
+  offset: 0, 0
+  index: -1
+dragon_sura_child_necka
+  rotate: false
+  xy: 348, 1167
+  size: 15, 62
+  orig: 15, 62
+  offset: 0, 0
+  index: -1
+dragon_sura_child_wingeff2
+  rotate: false
+  xy: 399, 1766
+  size: 59, 70
+  orig: 59, 70
+  offset: 0, 0
+  index: -1
+dragon_sura_baby_loveeye
+  rotate: true
+  xy: 367, 1536
+  size: 17, 14
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+dragon_sura_e_arm1
+  rotate: true
+  xy: 334, 1012
+  size: 53, 63
+  orig: 53, 63
+  offset: 0, 0
+  index: -1
+dragon_sura_child_head
+  rotate: true
+  xy: 436, 1238
+  size: 76, 68
+  orig: 76, 68
+  offset: 0, 0
+  index: -1
+dragon_sura_e_body
+  rotate: true
+  xy: 302, 228
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+dragon_sura_e_critical_s2
+  rotate: true
+  xy: 2, 788
+  size: 287, 210
+  orig: 299, 218
+  offset: 1, 8
+  index: -1
+dragon_sura_adult_wing
+  rotate: false
+  xy: 405, 713
+  size: 98, 104
+  orig: 98, 104
+  offset: 0, 0
+  index: -1
+dragon_sura_baby_eye
+  rotate: true
+  xy: 332, 482
+  size: 18, 16
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+dragon_sura_child_tail
+  rotate: false
+  xy: 214, 1029
+  size: 86, 46
+  orig: 86, 46
+  offset: 0, 0
+  index: -1
+dragon_sura_e_critical_c1
+  rotate: false
+  xy: 293, 1784
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+dragon_sura_e_leg3
+  rotate: true
+  xy: 475, 1491
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+dragon_sura_adult_f2
+  rotate: false
+  xy: 177, 1321
+  size: 188, 232
+  orig: 188, 232
+  offset: 0, 0
+  index: -1
+dragon_sura_child_wing
+  rotate: false
+  xy: 348, 1067
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+dragon_sura_child_love2
+  rotate: false
+  xy: 460, 1755
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+dragon_sura_adult_arm2
+  rotate: true
+  xy: 475, 1371
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+dragon_sura_e_critical_l2
+  rotate: false
+  xy: 2, 243
+  size: 262, 257
+  orig: 262, 257
+  offset: 0, 0
+  index: -1
+dragon_sura_e_critical_f3
+  rotate: true
+  xy: 226, 710
+  size: 174, 177
+  orig: 290, 239
+  offset: 47, 43
+  index: -1
+dragon_sura_adult_body
+  rotate: true
+  xy: 302, 355
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+dragon_sura_baby_tail
+  rotate: true
+  xy: 461, 458
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+dragon_sura_adult_mouth
+  rotate: false
+  xy: 460, 1779
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+dragon_sura_child_leg2
+  rotate: false
+  xy: 486, 819
+  size: 24, 58
+  orig: 24, 58
+  offset: 0, 0
+  index: -1
+dragon_sura_child_body
+  rotate: true
+  xy: 388, 1613
+  size: 79, 53
+  orig: 79, 53
+  offset: 0, 0
+  index: -1
+dragon_sura_adult_wingeff3
+  rotate: false
+  xy: 334, 886
+  size: 103, 124
+  orig: 103, 124
+  offset: 0, 0
+  index: -1
+dragon_sura_adult_armr1
+  rotate: true
+  xy: 399, 1838
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+dragon_sura_adult_neck
+  rotate: false
+  xy: 399, 1129
+  size: 111, 107
+  orig: 113, 107
+  offset: 0, 0
+  index: -1
+dragon_sura_e_leg2
+  rotate: false
+  xy: 471, 1635
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+dragon_sura_child_wingeff3
+  rotate: true
+  xy: 405, 819
+  size: 65, 79
+  orig: 65, 79
+  offset: 0, 0
+  index: -1
+dragon_sura_adult_head
+  rotate: true
+  xy: 422, 616
+  size: 95, 87
+  orig: 95, 87
+  offset: 0, 0
+  index: -1
+dragon_sura_e_armr3
+  rotate: true
+  xy: 483, 950
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+dragon_sura_baby_neck
+  rotate: true
+  xy: 439, 886
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+dragon_sura_critical_f2
+  rotate: false
+  xy: 177, 1321
+  size: 188, 232
+  orig: 188, 232
+  offset: 0, 0
+  index: -1
+dragon_sura_baby_leg
+  rotate: true
+  xy: 266, 482
+  size: 18, 46
+  orig: 18, 46
+  offset: 0, 0
+  index: -1
+dragon_sura_critical_e1
+  rotate: true
+  xy: 181, 1784
+  size: 104, 110
+  orig: 104, 110
+  offset: 0, 0
+  index: -1
+dragon_sura_e_critical_s5
+  rotate: true
+  xy: 2, 1077
+  size: 268, 168
+  orig: 274, 182
+  offset: 6, 0
+  index: -1
+dragon_sura_e_critical_f2
+  rotate: true
+  xy: 367, 228
+  size: 160, 143
+  orig: 290, 239
+  offset: 47, 43
+  index: -1
+dragon_sura_child_eye
+  rotate: true
+  xy: 484, 1755
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+dragon_sura_adult_necka2
+  rotate: false
+  xy: 469, 1537
+  size: 15, 62
+  orig: 15, 62
+  offset: 0, 0
+  index: -1
+dragon_sura_adult_attack
+  rotate: true
+  xy: 350, 482
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+dragon_sura_e_necka2
+  rotate: false
+  xy: 452, 1536
+  size: 15, 62
+  orig: 15, 62
+  offset: 0, 0
+  index: -1
+dragon_sura_child_love1
+  rotate: true
+  xy: 365, 1205
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+dragon_sura_baby_body
+  rotate: true
+  xy: 439, 950
+  size: 60, 42
+  orig: 60, 42
+  offset: 0, 0
+  index: -1
+dragon_sura_baby_love
+  rotate: true
+  xy: 456, 1694
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+dragon_sura_adult_wingeff2
+  rotate: false
+  xy: 367, 390
+  size: 92, 110
+  orig: 92, 110
+  offset: 0, 0
+  index: -1
+dragon_sura_child_love_effect_sweat
+  rotate: false
+  xy: 314, 482
+  size: 16, 18
+  orig: 16, 20
+  offset: 0, 1
+  index: -1
+dragon_sura_adult_light
+  rotate: false
+  xy: 266, 427
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+dragon_sura_adult_leg1
+  rotate: false
+  xy: 454, 1838
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+dragon_sura_e_critical_s1
+  rotate: true
+  xy: 181, 1555
+  size: 227, 205
+  orig: 239, 223
+  offset: 9, 9
+  index: -1
+dragon_sura_adult_tail
+  rotate: true
+  xy: 367, 1427
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+dragon_sura_adult_f1
+  rotate: false
+  xy: 226, 502
+  size: 194, 206
+  orig: 194, 206
+  offset: 0, 0
+  index: -1
+dragon_sura_e_arm3
+  rotate: false
+  xy: 461, 390
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+dragon_sura_e_head
+  rotate: true
+  xy: 422, 502
+  size: 112, 87
+  orig: 112, 87
+  offset: 0, 0
+  index: -1
+dragon_sura_e_critical_l1
+  rotate: true
+  xy: 172, 1077
+  size: 242, 174
+  orig: 242, 174
+  offset: 0, 0
+  index: -1
+dragon_sura_e_critical_s4
+  rotate: true
+  xy: 2, 1597
+  size: 248, 177
+  orig: 268, 185
+  offset: 20, 3
+  index: -1
+dragon_sura_child_arm2
+  rotate: false
+  xy: 475, 1411
+  size: 32, 78
+  orig: 32, 78
+  offset: 0, 0
+  index: -1
+dragon_sura_child_neck
+  rotate: true
+  xy: 348, 1238
+  size: 77, 86
+  orig: 77, 86
+  offset: 0, 0
+  index: -1
+dragon_sura_adult_down
+  rotate: false
+  xy: 492, 487
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+dragon_sura_critical_f3
+  rotate: false
+  xy: 2, 1347
+  size: 173, 248
+  orig: 173, 248
+  offset: 0, 0
+  index: -1
+dragon_sura_child_leg1
+  rotate: false
+  xy: 302, 1029
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+dragon_sura_child_mouth
+  rotate: true
+  xy: 492, 458
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+dragon_sura_adult_arm1
+  rotate: false
+  xy: 475, 1316
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+dragon_sura_e_neck
+  rotate: true
+  xy: 399, 1012
+  size: 115, 111
+  orig: 115, 111
+  offset: 0, 0
+  index: -1
+dragon_sura_e_critical_f5
+  rotate: false
+  xy: 2, 2
+  size: 290, 239
+  orig: 290, 239
+  offset: 0, 0
+  index: -1
+dragon_sura_child_wingeff1
+  rotate: false
+  xy: 388, 1694
+  size: 66, 70
+  orig: 66, 70
+  offset: 0, 0
+  index: -1
+dragon_sura_e_leg1
+  rotate: false
+  xy: 365, 1167
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+dragon_sura_e_arm2
+  rotate: false
+  xy: 486, 1587
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+dragon_sura_adult_necka1
+  rotate: true
+  xy: 489, 1663
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+dragon_sura_baby_arm
+  rotate: false
+  xy: 486, 1537
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+dragon_sura_critical_e2
+  rotate: false
+  xy: 367, 390
+  size: 92, 110
+  orig: 92, 110
+  offset: 0, 0
+  index: -1
+dragon_sura_e_critical_f1
+  rotate: false
+  xy: 214, 886
+  size: 118, 141
+  orig: 290, 239
+  offset: 89, 44
+  index: -1
+dragon_sura_baby_head
+  rotate: false
+  xy: 388, 1536
+  size: 62, 75
+  orig: 62, 75
+  offset: 0, 0
+  index: -1
+dragon_sura_e_tail
+  rotate: true
+  xy: 367, 1317
+  size: 108, 106
+  orig: 108, 106
+  offset: 0, 0
+  index: -1
+dragon_sura_adult_wingeff1
+  rotate: true
+  xy: 181, 1784
+  size: 104, 110
+  orig: 104, 110
+  offset: 0, 0
+  index: -1
+dragon_sura_adult_leg3
+  rotate: false
+  xy: 443, 1663
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+dragon_sura_e_critical_f4
+  rotate: true
+  xy: 294, 2
+  size: 224, 211
+  orig: 290, 239
+  offset: 31, 10
+  index: -1
+dragon_sura_adult_armr3
+  rotate: true
+  xy: 443, 1613
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+dragon_sura_baby_love_effect_heart
+  rotate: true
+  xy: 348, 1119
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_sura_e_critical_s3
+  rotate: true
+  xy: 2, 502
+  size: 284, 222
+  orig: 288, 248
+  offset: 3, 5
+  index: -1
+dragon_sura_adult_eye
+  rotate: false
+  xy: 452, 1600
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+dragon_sura_adult_eyelight
+  rotate: true
+  xy: 494, 1604
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,515 @@
+dragon_4058_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_mooda_adult_cri1b
+  rotate: false
+  xy: 750, 195
+  size: 45, 58
+  orig: 45, 58
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_cri1
+  rotate: false
+  xy: 874, 199
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_eye2
+  rotate: true
+  xy: 255, 221
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+dragon_mooda_baby_earr2
+  rotate: false
+  xy: 325, 242
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_tail
+  rotate: false
+  xy: 913, 133
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_r_wing3
+  rotate: false
+  xy: 735, 142
+  size: 81, 51
+  orig: 81, 51
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_ear3
+  rotate: false
+  xy: 1140, 232
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_l_wing4
+  rotate: false
+  xy: 890, 142
+  size: 21, 55
+  orig: 21, 55
+  offset: 0, 0
+  index: -1
+dragon_mooda_child_wing3
+  rotate: true
+  xy: 818, 142
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_ear6
+  rotate: true
+  xy: 900, 124
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_body
+  rotate: false
+  xy: 631, 206
+  size: 71, 47
+  orig: 71, 47
+  offset: 0, 0
+  index: -1
+dragon_mooda_baby_heart
+  rotate: false
+  xy: 921, 197
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_cri1a
+  rotate: true
+  xy: 704, 206
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+dragon_mooda_baby_wing3
+  rotate: false
+  xy: 1108, 208
+  size: 16, 36
+  orig: 16, 36
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_cri2
+  rotate: false
+  xy: 2, 125
+  size: 896, 15
+  orig: 896, 15
+  offset: 0, 0
+  index: -1
+dragon_mooda_baby_body
+  rotate: true
+  xy: 658, 142
+  size: 62, 75
+  orig: 62, 75
+  offset: 0, 0
+  index: -1
+dragon_mooda_baby_ear1
+  rotate: false
+  xy: 1032, 176
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+dragon_mooda_child_body
+  rotate: false
+  xy: 1075, 111
+  size: 67, 38
+  orig: 67, 38
+  offset: 0, 0
+  index: -1
+dragon_mooda_baby_fang
+  rotate: true
+  xy: 1140, 220
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_head
+  rotate: false
+  xy: 1035, 236
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_eye
+  rotate: false
+  xy: 995, 248
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_neck
+  rotate: true
+  xy: 562, 205
+  size: 48, 67
+  orig: 48, 67
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_ear4
+  rotate: true
+  xy: 945, 238
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+dragon_mooda_child_wing2
+  rotate: false
+  xy: 562, 142
+  size: 94, 61
+  orig: 94, 61
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_eye3
+  rotate: true
+  xy: 735, 195
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+dragon_mooda_baby_head
+  rotate: false
+  xy: 1054, 172
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+dragon_mooda_baby_wing2
+  rotate: true
+  xy: 980, 176
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+dragon_mooda_baby_ear2
+  rotate: false
+  xy: 283, 242
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+dragon_mooda_child_eye
+  rotate: true
+  xy: 1061, 161
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_r_wing4
+  rotate: true
+  xy: 210, 221
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_l_wing5
+  rotate: true
+  xy: 1035, 214
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+dragon_mooda_baby_earr1
+  rotate: false
+  xy: 896, 91
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_cri3
+  rotate: false
+  xy: 2, 91
+  size: 892, 32
+  orig: 892, 32
+  offset: 0, 0
+  index: -1
+dragon_mooda_child_ear1
+  rotate: false
+  xy: 1126, 205
+  size: 12, 37
+  orig: 12, 37
+  offset: 0, 0
+  index: -1
+dragon_mooda_child_wing1
+  rotate: true
+  xy: 1075, 2
+  size: 107, 82
+  orig: 107, 82
+  offset: 0, 0
+  index: -1
+dragon_mooda_baby_chin
+  rotate: true
+  xy: 1100, 172
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_l_wing1
+  rotate: false
+  xy: 919, 2
+  size: 154, 129
+  orig: 154, 129
+  offset: 0, 0
+  index: -1
+dragon_mooda_child_ear2
+  rotate: false
+  xy: 1122, 173
+  size: 12, 30
+  orig: 12, 30
+  offset: 0, 0
+  index: -1
+dragon_mooda_child_tail
+  rotate: true
+  xy: 465, 142
+  size: 73, 95
+  orig: 73, 95
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_fang3
+  rotate: false
+  xy: 350, 242
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+dragon_mooda_child_head
+  rotate: false
+  xy: 969, 216
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_ear5
+  rotate: false
+  xy: 1057, 236
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_l_wing2
+  rotate: false
+  xy: 2, 142
+  size: 146, 74
+  orig: 146, 74
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_r_wing1
+  rotate: true
+  xy: 262, 142
+  size: 98, 100
+  orig: 98, 100
+  offset: 0, 0
+  index: -1
+dragon_mooda_baby_eye
+  rotate: false
+  xy: 1140, 192
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_cri0b
+  rotate: true
+  xy: 2, 218
+  size: 31, 92
+  orig: 31, 92
+  offset: 0, 0
+  index: -1
+dragon_mooda_baby_fang2
+  rotate: true
+  xy: 1140, 208
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+dragon_mooda_baby_wing5
+  rotate: true
+  xy: 525, 217
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+dragon_mooda_child_chin
+  rotate: false
+  xy: 1144, 111
+  size: 13, 32
+  orig: 13, 32
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_cri4
+  rotate: false
+  xy: 2, 2
+  size: 915, 87
+  orig: 915, 87
+  offset: 0, 0
+  index: -1
+dragon_mooda_baby_eye2
+  rotate: true
+  xy: 1136, 173
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_r_wing5
+  rotate: false
+  xy: 437, 218
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_ear1
+  rotate: false
+  xy: 1079, 214
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_anger
+  rotate: false
+  xy: 1047, 133
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_chin
+  rotate: false
+  xy: 921, 238
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+dragon_mooda_baby_wing1
+  rotate: false
+  xy: 980, 133
+  size: 65, 41
+  orig: 65, 41
+  offset: 0, 0
+  index: -1
+dragon_mooda_child_fang2
+  rotate: true
+  xy: 969, 197
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_fang2
+  rotate: true
+  xy: 843, 240
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+dragon_mooda_child_wing4
+  rotate: true
+  xy: 1075, 151
+  size: 19, 47
+  orig: 19, 47
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_cri0a
+  rotate: true
+  xy: 364, 218
+  size: 24, 71
+  orig: 24, 71
+  offset: 0, 0
+  index: -1
+dragon_mooda_baby_wing4
+  rotate: false
+  xy: 465, 217
+  size: 58, 36
+  orig: 58, 36
+  offset: 0, 0
+  index: -1
+dragon_mooda_child_ear3
+  rotate: false
+  xy: 338, 242
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+dragon_mooda_baby_tail
+  rotate: false
+  xy: 797, 196
+  size: 75, 42
+  orig: 75, 42
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_ear2
+  rotate: false
+  xy: 1124, 151
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_l_wing3
+  rotate: true
+  xy: 364, 142
+  size: 74, 99
+  orig: 74, 99
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_r_wing2
+  rotate: false
+  xy: 150, 142
+  size: 110, 77
+  orig: 110, 77
+  offset: 0, 0
+  index: -1
+dragon_mooda_child_fang1
+  rotate: false
+  xy: 255, 242
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+dragon_mooda_child_neck
+  rotate: true
+  xy: 96, 218
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_cri5
+  rotate: false
+  xy: 797, 240
+  size: 44, 13
+  orig: 44, 13
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_fang1
+  rotate: true
+  xy: 308, 242
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+dragon_mooda_adult_body2
+  rotate: true
+  xy: 145, 221
+  size: 25, 63
+  orig: 25, 63
+  offset: 0, 0
+  index: -1
+dragon_mooda_child_eye2
+  rotate: true
+  xy: 1047, 161
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+dragon_mooda_child_note1
+  rotate: true
+  xy: 995, 216
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1

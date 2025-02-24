@@ -1,0 +1,473 @@
+dragon_72_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_venezie_child_wing1b
+  rotate: false
+  xy: 1076, 180
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+dragon_venezie_adult_r_leg1c
+  rotate: true
+  xy: 740, 189
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+dragon_venezie_adult_l_wing2
+  rotate: false
+  xy: 760, 155
+  size: 106, 47
+  orig: 106, 47
+  offset: 0, 0
+  index: -1
+dragon_venezie_adult_l_body1
+  rotate: false
+  xy: 874, 93
+  size: 79, 56
+  orig: 79, 56
+  offset: 0, 0
+  index: -1
+dragon_venezie_critical_a1
+  rotate: true
+  xy: 519, 89
+  size: 83, 160
+  orig: 89, 164
+  offset: 2, 0
+  index: -1
+dragon_venezie_child_body1
+  rotate: true
+  xy: 163, 197
+  size: 55, 83
+  orig: 55, 83
+  offset: 0, 0
+  index: -1
+dragon_venezie_baby_chin
+  rotate: false
+  xy: 955, 138
+  size: 48, 18
+  orig: 48, 18
+  offset: 0, 0
+  index: -1
+dragon_venezie_child_head
+  rotate: true
+  xy: 1055, 87
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+dragon_venezie_adult_l_leg1c
+  rotate: true
+  xy: 321, 151
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+dragon_venezie_baby_leg1
+  rotate: false
+  xy: 677, 221
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+dragon_venezie_child_leg2
+  rotate: true
+  xy: 261, 151
+  size: 40, 58
+  orig: 40, 58
+  offset: 0, 0
+  index: -1
+dragon_venezie_adult_l_leg2c
+  rotate: true
+  xy: 971, 202
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+dragon_venezie_adult_r_leg2c
+  rotate: false
+  xy: 941, 199
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+dragon_venezie_adult_r_leg1a
+  rotate: false
+  xy: 1014, 202
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+dragon_venezie_baby_eff
+  rotate: true
+  xy: 760, 204
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+dragon_venezie_adult_h_p
+  rotate: true
+  xy: 942, 151
+  size: 5, 11
+  orig: 5, 11
+  offset: 0, 0
+  index: -1
+dragon_venezie_baby_wing
+  rotate: false
+  xy: 1067, 216
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+dragon_venezie_adult_l_leg1a
+  rotate: false
+  xy: 889, 204
+  size: 22, 41
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+dragon_venezie_adult_taild
+  rotate: true
+  xy: 484, 222
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+dragon_venezie_critical_d2
+  rotate: true
+  xy: 343, 89
+  size: 113, 174
+  orig: 113, 176
+  offset: 0, 0
+  index: -1
+dragon_venezie_adult_l_leg2a
+  rotate: true
+  xy: 599, 227
+  size: 25, 51
+  orig: 25, 51
+  offset: 0, 0
+  index: -1
+dragon_venezie_baby_leg2
+  rotate: false
+  xy: 913, 197
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+dragon_venezie_child_leg3
+  rotate: false
+  xy: 896, 151
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+dragon_venezie_adult_r_wing1
+  rotate: false
+  xy: 170, 2
+  size: 171, 147
+  orig: 171, 147
+  offset: 0, 0
+  index: -1
+dragon_venezie_adult_neck
+  rotate: false
+  xy: 116, 183
+  size: 45, 71
+  orig: 45, 71
+  offset: 0, 0
+  index: -1
+dragon_venezie_baby_tail
+  rotate: false
+  xy: 1092, 211
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+dragon_venezie_adult_emo1
+  rotate: false
+  xy: 2, 245
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+dragon_venezie_critical_d1
+  rotate: true
+  xy: 771, 2
+  size: 89, 176
+  orig: 113, 176
+  offset: 1, 0
+  index: -1
+dragon_venezie_adult_l_leg2d
+  rotate: true
+  xy: 580, 222
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+dragon_venezie_baby_leg3
+  rotate: true
+  xy: 539, 222
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+dragon_venezie_adult_r_leg2d
+  rotate: false
+  xy: 947, 240
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+dragon_venezie_adult_l_body2
+  rotate: true
+  xy: 852, 204
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+dragon_venezie_adult_r_leg1b
+  rotate: false
+  xy: 709, 221
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+dragon_venezie_critical_b2
+  rotate: true
+  xy: 2, 183
+  size: 60, 112
+  orig: 62, 112
+  offset: 2, 0
+  index: -1
+dragon_venezie_adult_r_leg2a
+  rotate: true
+  xy: 990, 176
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+dragon_venezie_child_eff
+  rotate: false
+  xy: 321, 188
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+dragon_venezie_baby_heart
+  rotate: false
+  xy: 942, 158
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_venezie_adult_emo2
+  rotate: true
+  xy: 163, 183
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+dragon_venezie_adult_l_wing1
+  rotate: false
+  xy: 2, 2
+  size: 166, 179
+  orig: 166, 179
+  offset: 0, 0
+  index: -1
+dragon_venezie_adult_tailb
+  rotate: false
+  xy: 868, 155
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+dragon_venezie_child_tail
+  rotate: false
+  xy: 805, 204
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+dragon_venezie_adult_chin
+  rotate: false
+  xy: 913, 237
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+dragon_venezie_adult_r_wing2
+  rotate: false
+  xy: 955, 87
+  size: 98, 49
+  orig: 98, 49
+  offset: 0, 0
+  index: -1
+dragon_venezie_baby_leg4
+  rotate: false
+  xy: 780, 204
+  size: 23, 50
+  orig: 23, 50
+  offset: 0, 0
+  index: -1
+dragon_venezie_child_leg1
+  rotate: true
+  xy: 1005, 138
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+dragon_venezie_child_heart
+  rotate: false
+  xy: 942, 158
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_venezie_child_wing2a
+  rotate: false
+  xy: 681, 89
+  size: 77, 98
+  orig: 77, 98
+  offset: 0, 0
+  index: -1
+dragon_venezie_critical_b1
+  rotate: true
+  xy: 760, 93
+  size: 60, 112
+  orig: 62, 112
+  offset: 2, 0
+  index: -1
+dragon_venezie_critical_c2
+  rotate: false
+  xy: 559, 2
+  size: 210, 85
+  orig: 218, 85
+  offset: 8, 0
+  index: -1
+dragon_venezie_child_wing1a
+  rotate: true
+  xy: 519, 174
+  size: 46, 89
+  orig: 46, 89
+  offset: 0, 0
+  index: -1
+dragon_venezie_adult_emo3
+  rotate: true
+  xy: 990, 158
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+dragon_venezie_child_tail2
+  rotate: false
+  xy: 170, 151
+  size: 89, 44
+  orig: 89, 44
+  offset: 0, 0
+  index: -1
+dragon_venezie_adult_tailc
+  rotate: false
+  xy: 1039, 180
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+dragon_venezie_adult_l_leg1b
+  rotate: false
+  xy: 1039, 216
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+dragon_venezie_baby_head
+  rotate: false
+  xy: 610, 174
+  size: 65, 51
+  orig: 65, 51
+  offset: 0, 0
+  index: -1
+dragon_venezie_adult_l_leg2b
+  rotate: true
+  xy: 1099, 143
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+dragon_venezie_adult_head
+  rotate: false
+  xy: 309, 204
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+dragon_venezie_baby_body
+  rotate: false
+  xy: 366, 204
+  size: 59, 47
+  orig: 59, 47
+  offset: 0, 0
+  index: -1
+dragon_venezie_adult_r_leg2b
+  rotate: false
+  xy: 484, 204
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+dragon_venezie_child_chin
+  rotate: false
+  xy: 737, 226
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+dragon_venezie_adult_taila
+  rotate: false
+  xy: 427, 204
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+dragon_venezie_critical_c1
+  rotate: false
+  xy: 343, 2
+  size: 214, 85
+  orig: 218, 85
+  offset: 4, 0
+  index: -1
+dragon_venezie_child_body2
+  rotate: false
+  xy: 1054, 143
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+dragon_venezie_child_leg4
+  rotate: true
+  xy: 248, 204
+  size: 50, 59
+  orig: 50, 59
+  offset: 0, 0
+  index: -1
+dragon_venezie_child_wing2b
+  rotate: false
+  xy: 677, 189
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+dragon_venezie_critical_a2
+  rotate: true
+  xy: 949, 2
+  size: 83, 160
+  orig: 89, 164
+  offset: 2, 0
+  index: -1
+dragon_venezie_adult_heart
+  rotate: false
+  xy: 942, 158
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,46 @@
+skill_30_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skill_frenzy5
+  rotate: false
+  xy: 332, 68
+  size: 36, 48
+  orig: 178, 168
+  offset: 8, 62
+  index: -1
+skill_frenzy3
+  rotate: true
+  xy: 230, 68
+  size: 42, 100
+  orig: 178, 168
+  offset: 36, 3
+  index: -1
+skill_frenzy6
+  rotate: true
+  xy: 336, 2
+  size: 44, 30
+  orig: 178, 168
+  offset: 8, 80
+  index: -1
+skill_frenzy1
+  rotate: false
+  xy: 2, 2
+  size: 138, 116
+  orig: 178, 168
+  offset: 35, 23
+  index: -1
+skill_frenzy4
+  rotate: false
+  xy: 230, 2
+  size: 104, 64
+  orig: 178, 168
+  offset: 8, 39
+  index: -1
+skill_frenzy2
+  rotate: false
+  xy: 142, 2
+  size: 86, 116
+  orig: 178, 168
+  offset: 34, 14
+  index: -1

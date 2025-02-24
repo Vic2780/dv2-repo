@@ -1,0 +1,193 @@
+26_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_s_monkey_groggy_cymbals
+  rotate: false
+  xy: 127, 1389
+  size: 86, 60
+  orig: 172, 80
+  offset: 32, 6
+  index: -1
+m_s_monkey_leg2
+  rotate: true
+  xy: 140, 1298
+  size: 89, 66
+  orig: 101, 68
+  offset: 12, 1
+  index: -1
+m_s_monkey_ymbals
+  rotate: false
+  xy: 2, 990
+  size: 162, 74
+  orig: 172, 80
+  offset: 5, 4
+  index: -1
+m_s_monkey_arm2
+  rotate: true
+  xy: 2, 1451
+  size: 83, 46
+  orig: 97, 74
+  offset: 14, 12
+  index: -1
+m_s_monkey_groggy_arm1
+  rotate: false
+  xy: 205, 886
+  size: 12, 16
+  orig: 36, 68
+  offset: 18, 29
+  index: -1
+m_s_monkey_groggy_hair
+  rotate: false
+  xy: 2, 230
+  size: 212, 149
+  orig: 254, 233
+  offset: 23, 53
+  index: -1
+m_s_monkey_mouth
+  rotate: true
+  xy: 106, 1328
+  size: 90, 19
+  orig: 254, 233
+  offset: 85, 38
+  index: -1
+m_s_monkey_body
+  rotate: false
+  xy: 2, 1192
+  size: 136, 134
+  orig: 136, 134
+  offset: 0, 0
+  index: -1
+m_s_monkey_head
+  rotate: true
+  xy: 2, 2
+  size: 226, 215
+  orig: 254, 233
+  offset: 19, 9
+  index: -1
+m_s_monkey_leg3
+  rotate: false
+  xy: 50, 1451
+  size: 58, 79
+  orig: 62, 91
+  offset: 4, 4
+  index: -1
+m_s_monkey_groggy_leg3
+  rotate: false
+  xy: 179, 886
+  size: 24, 21
+  orig: 62, 91
+  offset: 8, 63
+  index: -1
+m_s_monkey_groggy_arm2
+  rotate: false
+  xy: 174, 925
+  size: 43, 46
+  orig: 97, 74
+  offset: 25, 11
+  index: -1
+m_s_monkey_groggy_tail
+  rotate: true
+  xy: 2, 381
+  size: 177, 208
+  orig: 223, 278
+  offset: 46, 9
+  index: -1
+m_s_monkey_groggy_neck
+  rotate: true
+  xy: 166, 1044
+  size: 159, 51
+  orig: 205, 77
+  offset: 25, 12
+  index: -1
+m_s_monkey_groggy_eyes
+  rotate: false
+  xy: 2, 1129
+  size: 150, 61
+  orig: 254, 233
+  offset: 45, 53
+  index: -1
+m_s_monkey_leg4
+  rotate: false
+  xy: 110, 1451
+  size: 54, 64
+  orig: 62, 74
+  offset: 5, 6
+  index: -1
+m_s_monkey_groggy_mouth
+  rotate: false
+  xy: 140, 1277
+  size: 74, 19
+  orig: 254, 233
+  offset: 93, 41
+  index: -1
+m_s_monkey_eyes
+  rotate: false
+  xy: 2, 1066
+  size: 152, 61
+  orig: 254, 233
+  offset: 44, 53
+  index: -1
+m_s_monkey_foot2
+  rotate: false
+  xy: 166, 1451
+  size: 51, 52
+  orig: 53, 58
+  offset: 2, 6
+  index: -1
+m_s_monkey_groggy_close
+  rotate: false
+  xy: 2, 897
+  size: 170, 91
+  orig: 254, 233
+  offset: 43, 27
+  index: -1
+m_s_monkey_leg1
+  rotate: false
+  xy: 140, 1205
+  size: 74, 70
+  orig: 82, 76
+  offset: 8, 0
+  index: -1
+m_s_monkey_arm1
+  rotate: false
+  xy: 179, 828
+  size: 34, 56
+  orig: 36, 68
+  offset: 2, 4
+  index: -1
+m_s_monkey_neck
+  rotate: false
+  xy: 2, 828
+  size: 175, 67
+  orig: 205, 77
+  offset: 19, 6
+  index: -1
+m_s_monkey_foot1
+  rotate: true
+  xy: 174, 973
+  size: 69, 39
+  orig: 99, 39
+  offset: 17, 0
+  index: -1
+m_s_monkey_groggy_body
+  rotate: false
+  xy: 2, 1328
+  size: 102, 100
+  orig: 136, 134
+  offset: 26, 29
+  index: -1
+m_s_monkey_groggy_foot2
+  rotate: true
+  xy: 205, 904
+  size: 19, 10
+  orig: 53, 58
+  offset: 28, 18
+  index: -1
+m_s_monkey_tail
+  rotate: false
+  xy: 2, 560
+  size: 205, 266
+  orig: 223, 278
+  offset: 4, 12
+  index: -1

@@ -1,0 +1,130 @@
+70_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_dlight_head
+  rotate: false
+  xy: 2, 577
+  size: 284, 238
+  orig: 306, 256
+  offset: 15, 11
+  index: -1
+m_dlight_groggyhead
+  rotate: true
+  xy: 274, 928
+  size: 255, 234
+  orig: 275, 256
+  offset: 20, 18
+  index: -1
+m_dlight_groggyteeth
+  rotate: false
+  xy: 202, 1480
+  size: 64, 63
+  orig: 74, 95
+  offset: 8, 15
+  index: -1
+m_dlight_nose
+  rotate: false
+  xy: 354, 142
+  size: 146, 277
+  orig: 162, 305
+  offset: 6, 15
+  index: -1
+m_dlight_groggyear
+  rotate: true
+  xy: 2, 1357
+  size: 177, 198
+  orig: 197, 218
+  offset: 6, 8
+  index: -1
+m_dlight_body1
+  rotate: true
+  xy: 2, 327
+  size: 248, 311
+  orig: 254, 331
+  offset: 4, 15
+  index: -1
+m_dlight_ear
+  rotate: false
+  xy: 288, 729
+  size: 203, 197
+  orig: 225, 207
+  offset: 10, 0
+  index: -1
+m_dlight_groggyneck
+  rotate: true
+  xy: 268, 1437
+  size: 85, 83
+  orig: 107, 103
+  offset: 19, 11
+  index: -1
+m_dlight_teeth
+  rotate: true
+  xy: 353, 1437
+  size: 77, 117
+  orig: 101, 151
+  offset: 9, 20
+  index: -1
+m_dlight_groggynose
+  rotate: true
+  xy: 2, 817
+  size: 106, 274
+  orig: 134, 296
+  offset: 19, 7
+  index: -1
+m_dlight_body2
+  rotate: false
+  xy: 315, 421
+  size: 188, 306
+  orig: 218, 322
+  offset: 6, 9
+  index: -1
+m_dlight_groggybody2
+  rotate: false
+  xy: 202, 1402
+  size: 48, 76
+  orig: 78, 90
+  offset: 17, 12
+  index: -1
+m_dlight_leg
+  rotate: true
+  xy: 261, 1185
+  size: 250, 247
+  orig: 282, 261
+  offset: 14, 7
+  index: -1
+m_dlight_groggyleg
+  rotate: false
+  xy: 2, 1106
+  size: 257, 249
+  orig: 265, 269
+  offset: 4, 9
+  index: -1
+m_dlight_neck
+  rotate: false
+  xy: 354, 2
+  size: 156, 138
+  orig: 186, 152
+  offset: 15, 6
+  index: -1
+m_dlight_groggybody1
+  rotate: true
+  xy: 2, 925
+  size: 179, 270
+  orig: 209, 286
+  offset: 9, 11
+  index: -1
+m_dlight_body3
+  rotate: false
+  xy: 2, 2
+  size: 350, 323
+  orig: 392, 361
+  offset: 25, 18
+  index: -1
+m_dlight_eye
+  rotate: false
+  xy: 202, 1357
+  size: 54, 43
+  orig: 80, 71
+  offset: 19, 6
+  index: -1

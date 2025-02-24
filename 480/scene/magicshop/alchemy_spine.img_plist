@@ -1,0 +1,592 @@
+alchemy_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+magicshop_eff1
+  rotate: true
+  xy: 1118, 394
+  size: 390, 185
+  orig: 390, 185
+  offset: 0, 0
+  index: -1
+magicshop_bubble_s4
+  rotate: true
+  xy: 164, 856
+  size: 39, 25
+  orig: 47, 27
+  offset: 6, 0
+  index: -1
+magicshop_bubble_s5_yellow
+  rotate: false
+  xy: 191, 856
+  size: 47, 25
+  orig: 47, 27
+  offset: 0, 2
+  index: -1
+magicshop_eff2
+  rotate: false
+  xy: 1662, 563
+  size: 368, 185
+  orig: 390, 185
+  offset: 4, 0
+  index: -1
+magicshop_eff1_yellow
+  rotate: true
+  xy: 557, 429
+  size: 390, 185
+  orig: 390, 185
+  offset: 0, 0
+  index: -1
+magicshop_bubble_s5_normal
+  rotate: false
+  xy: 338, 856
+  size: 47, 25
+  orig: 47, 27
+  offset: 0, 2
+  index: -1
+magicshop_bubble_s5_orange
+  rotate: false
+  xy: 289, 856
+  size: 47, 25
+  orig: 47, 27
+  offset: 0, 2
+  index: -1
+magicshop_sccop_yellow
+  rotate: true
+  xy: 744, 786
+  size: 112, 199
+  orig: 112, 199
+  offset: 0, 0
+  index: -1
+magicshop_eff4_blue
+  rotate: false
+  xy: 383, 883
+  size: 14, 14
+  orig: 18, 18
+  offset: 3, 2
+  index: -1
+magicshop_sccop_red
+  rotate: true
+  xy: 945, 786
+  size: 112, 199
+  orig: 112, 199
+  offset: 0, 0
+  index: -1
+magicshop_bubble_s1_blue
+  rotate: false
+  xy: 510, 883
+  size: 17, 11
+  orig: 47, 27
+  offset: 16, 2
+  index: -1
+magicshop_eff4_glory
+  rotate: false
+  xy: 367, 883
+  size: 14, 14
+  orig: 18, 18
+  offset: 3, 2
+  index: -1
+magicshop_eff1_orange
+  rotate: true
+  xy: 744, 394
+  size: 390, 185
+  orig: 390, 185
+  offset: 0, 0
+  index: -1
+magicshop_pot_orange
+  rotate: true
+  xy: 187, 2
+  size: 425, 183
+  orig: 425, 183
+  offset: 0, 0
+  index: -1
+magicshop_bubble_s1_yellow
+  rotate: false
+  xy: 415, 883
+  size: 17, 11
+  orig: 47, 27
+  offset: 16, 2
+  index: -1
+magicshop_eff1_glory
+  rotate: true
+  xy: 931, 394
+  size: 390, 185
+  orig: 390, 185
+  offset: 0, 0
+  index: -1
+magicshop_eff3_normal
+  rotate: false
+  xy: 612, 864
+  size: 16, 18
+  orig: 18, 18
+  offset: 1, 0
+  index: -1
+magicshop_bubble_s1_red
+  rotate: false
+  xy: 434, 883
+  size: 17, 11
+  orig: 47, 27
+  offset: 16, 2
+  index: -1
+magicshop_bubble_s2_normal
+  rotate: false
+  xy: 648, 860
+  size: 17, 17
+  orig: 47, 27
+  offset: 17, 0
+  index: -1
+magicshop_eff1_blue
+  rotate: true
+  xy: 1116, 2
+  size: 390, 185
+  orig: 390, 185
+  offset: 0, 0
+  index: -1
+magicshop_bubble_s1_normal
+  rotate: false
+  xy: 472, 883
+  size: 17, 11
+  orig: 47, 27
+  offset: 16, 2
+  index: -1
+magicshop_bubble_s2_glory
+  rotate: false
+  xy: 652, 840
+  size: 17, 17
+  orig: 47, 27
+  offset: 17, 0
+  index: -1
+magicshop_sccop_blue
+  rotate: false
+  xy: 1548, 573
+  size: 112, 199
+  orig: 112, 199
+  offset: 0, 0
+  index: -1
+magicshop_eff3
+  rotate: false
+  xy: 630, 861
+  size: 16, 18
+  orig: 18, 18
+  offset: 1, 0
+  index: -1
+magicshop_bubble_s4_glory
+  rotate: true
+  xy: 110, 856
+  size: 39, 25
+  orig: 47, 27
+  offset: 6, 0
+  index: -1
+magicshop_bubble_s5_glory
+  rotate: false
+  xy: 387, 856
+  size: 47, 25
+  orig: 47, 27
+  offset: 0, 2
+  index: -1
+magicshop_eff5_orange
+  rotate: false
+  xy: 223, 883
+  size: 14, 14
+  orig: 18, 18
+  offset: 2, 2
+  index: -1
+magicshop_bubble_s3
+  rotate: true
+  xy: 578, 821
+  size: 21, 19
+  orig: 47, 27
+  offset: 15, 0
+  index: -1
+magicshop_sccop
+  rotate: true
+  xy: 1548, 774
+  size: 112, 199
+  orig: 112, 199
+  offset: 0, 0
+  index: -1
+magicshop_eff2_normal
+  rotate: false
+  xy: 1677, 2
+  size: 368, 185
+  orig: 390, 185
+  offset: 4, 0
+  index: -1
+magicshop_eff4_normal
+  rotate: false
+  xy: 351, 883
+  size: 14, 14
+  orig: 18, 18
+  offset: 3, 2
+  index: -1
+magicshop_pot_yellow
+  rotate: true
+  xy: 2, 2
+  size: 425, 183
+  orig: 425, 183
+  offset: 0, 0
+  index: -1
+magicshop_bubble_s3_yellow
+  rotate: true
+  xy: 534, 856
+  size: 21, 19
+  orig: 47, 27
+  offset: 15, 0
+  index: -1
+magicshop_bubble_s3_glory
+  rotate: true
+  xy: 557, 821
+  size: 21, 19
+  orig: 47, 27
+  offset: 15, 0
+  index: -1
+magicshop_bubble_s4_red
+  rotate: true
+  xy: 29, 856
+  size: 39, 25
+  orig: 47, 27
+  offset: 6, 0
+  index: -1
+magicshop_pot_red
+  rotate: true
+  xy: 2, 429
+  size: 425, 183
+  orig: 425, 183
+  offset: 0, 0
+  index: -1
+magicshop_eff2_glory
+  rotate: false
+  xy: 1677, 189
+  size: 368, 185
+  orig: 390, 185
+  offset: 4, 0
+  index: -1
+magicshop_eff3_yellow
+  rotate: false
+  xy: 594, 867
+  size: 16, 18
+  orig: 18, 18
+  offset: 1, 0
+  index: -1
+magicshop_eff1_red
+  rotate: true
+  xy: 742, 2
+  size: 390, 185
+  orig: 390, 185
+  offset: 0, 0
+  index: -1
+magicshop_bubble_s3_normal
+  rotate: false
+  xy: 571, 879
+  size: 21, 19
+  orig: 47, 27
+  offset: 15, 0
+  index: -1
+magicshop_bubble_s3_orange
+  rotate: true
+  xy: 555, 856
+  size: 21, 19
+  orig: 47, 27
+  offset: 15, 0
+  index: -1
+magicshop_bubble_s2_red
+  rotate: false
+  xy: 633, 841
+  size: 17, 17
+  orig: 47, 27
+  offset: 17, 0
+  index: -1
+magicshop_bubble_s3_blue
+  rotate: true
+  xy: 576, 844
+  size: 21, 19
+  orig: 47, 27
+  offset: 15, 0
+  index: -1
+magicshop_eff3_glory
+  rotate: false
+  xy: 615, 841
+  size: 16, 18
+  orig: 18, 18
+  offset: 1, 0
+  index: -1
+magicshop_bubble_s2
+  rotate: false
+  xy: 649, 879
+  size: 17, 17
+  orig: 47, 27
+  offset: 17, 0
+  index: -1
+magicshop_eff4_orange
+  rotate: false
+  xy: 335, 883
+  size: 14, 14
+  orig: 18, 18
+  offset: 3, 2
+  index: -1
+magicshop_pot
+  rotate: true
+  xy: 557, 2
+  size: 425, 183
+  orig: 425, 183
+  offset: 0, 0
+  index: -1
+magicshop_sccop_glory
+  rotate: false
+  xy: 1548, 372
+  size: 112, 199
+  orig: 112, 199
+  offset: 0, 0
+  index: -1
+magicshop_bubble_s5_blue
+  rotate: false
+  xy: 436, 856
+  size: 47, 25
+  orig: 47, 27
+  offset: 0, 2
+  index: -1
+magicshop_eff4
+  rotate: false
+  xy: 399, 883
+  size: 14, 14
+  orig: 18, 18
+  offset: 3, 2
+  index: -1
+magicshop_bubble_s5_red
+  rotate: false
+  xy: 240, 856
+  size: 47, 25
+  orig: 47, 27
+  offset: 0, 2
+  index: -1
+magicshop_eff5_glory
+  rotate: false
+  xy: 255, 883
+  size: 14, 14
+  orig: 18, 18
+  offset: 2, 2
+  index: -1
+magicshop_bubble_s4_orange
+  rotate: true
+  xy: 56, 856
+  size: 39, 25
+  orig: 47, 27
+  offset: 6, 0
+  index: -1
+magicshop_bubble_s4_yellow
+  rotate: true
+  xy: 2, 856
+  size: 39, 25
+  orig: 47, 27
+  offset: 6, 0
+  index: -1
+magicshop_eff2_yellow
+  rotate: true
+  xy: 1303, 2
+  size: 368, 185
+  orig: 390, 185
+  offset: 4, 0
+  index: -1
+magicshop_bubble_s2_blue
+  rotate: false
+  xy: 654, 821
+  size: 17, 17
+  orig: 47, 27
+  offset: 17, 0
+  index: -1
+magicshop_eff5_normal
+  rotate: false
+  xy: 239, 883
+  size: 14, 14
+  orig: 18, 18
+  offset: 2, 2
+  index: -1
+magicshop_pot_glory
+  rotate: true
+  xy: 372, 2
+  size: 425, 183
+  orig: 425, 183
+  offset: 0, 0
+  index: -1
+magicshop_eff5_blue
+  rotate: false
+  xy: 271, 883
+  size: 14, 14
+  orig: 18, 18
+  offset: 2, 2
+  index: -1
+magicshop_eff3_red
+  rotate: false
+  xy: 597, 844
+  size: 16, 18
+  orig: 18, 18
+  offset: 1, 0
+  index: -1
+magicshop_eff4_yellow
+  rotate: false
+  xy: 303, 883
+  size: 14, 14
+  orig: 18, 18
+  offset: 3, 2
+  index: -1
+magicshop_bubble_s4_normal
+  rotate: true
+  xy: 83, 856
+  size: 39, 25
+  orig: 47, 27
+  offset: 6, 0
+  index: -1
+magicshop_eff3_blue
+  rotate: false
+  xy: 617, 821
+  size: 16, 18
+  orig: 18, 18
+  offset: 1, 0
+  index: -1
+magicshop_sccop_orange
+  rotate: true
+  xy: 1146, 786
+  size: 112, 199
+  orig: 112, 199
+  offset: 0, 0
+  index: -1
+magicshop_bubble_s4_blue
+  rotate: true
+  xy: 137, 856
+  size: 39, 25
+  orig: 47, 27
+  offset: 6, 0
+  index: -1
+magicshop_eff4_red
+  rotate: false
+  xy: 319, 883
+  size: 14, 14
+  orig: 18, 18
+  offset: 3, 2
+  index: -1
+magicshop_bubble_s3_red
+  rotate: false
+  xy: 548, 879
+  size: 21, 19
+  orig: 47, 27
+  offset: 15, 0
+  index: -1
+magicshop_eff2_orange
+  rotate: true
+  xy: 1490, 2
+  size: 368, 185
+  orig: 390, 185
+  offset: 4, 0
+  index: -1
+magicshop_bubble_s5
+  rotate: false
+  xy: 485, 856
+  size: 47, 25
+  orig: 47, 27
+  offset: 0, 2
+  index: -1
+magicshop_eff1_normal
+  rotate: true
+  xy: 929, 2
+  size: 390, 185
+  orig: 390, 185
+  offset: 0, 0
+  index: -1
+magicshop_bubble_s2_yellow
+  rotate: false
+  xy: 630, 881
+  size: 17, 17
+  orig: 47, 27
+  offset: 17, 0
+  index: -1
+magicshop_eff2_red
+  rotate: true
+  xy: 1305, 372
+  size: 368, 185
+  orig: 390, 185
+  offset: 4, 0
+  index: -1
+magicshop_eff5_red
+  rotate: false
+  xy: 207, 883
+  size: 14, 14
+  orig: 18, 18
+  offset: 2, 2
+  index: -1
+magicshop_eff5
+  rotate: false
+  xy: 287, 883
+  size: 14, 14
+  orig: 18, 18
+  offset: 2, 2
+  index: -1
+magicshop_pot_blue
+  rotate: true
+  xy: 372, 429
+  size: 425, 183
+  orig: 425, 183
+  offset: 0, 0
+  index: -1
+magicshop_sccop_normal
+  rotate: true
+  xy: 1347, 742
+  size: 112, 199
+  orig: 112, 199
+  offset: 0, 0
+  index: -1
+magicshop_eff5_yellow
+  rotate: false
+  xy: 191, 883
+  size: 14, 14
+  orig: 18, 18
+  offset: 2, 2
+  index: -1
+magicshop_bubble_s1
+  rotate: false
+  xy: 529, 883
+  size: 17, 11
+  orig: 47, 27
+  offset: 16, 2
+  index: -1
+magicshop_bubble_s1_orange
+  rotate: false
+  xy: 453, 883
+  size: 17, 11
+  orig: 47, 27
+  offset: 16, 2
+  index: -1
+magicshop_eff2_blue
+  rotate: false
+  xy: 1662, 376
+  size: 368, 185
+  orig: 390, 185
+  offset: 4, 0
+  index: -1
+magicshop_bubble_s1_glory
+  rotate: false
+  xy: 491, 883
+  size: 17, 11
+  orig: 47, 27
+  offset: 16, 2
+  index: -1
+magicshop_eff3_orange
+  rotate: false
+  xy: 599, 821
+  size: 16, 18
+  orig: 18, 18
+  offset: 1, 0
+  index: -1
+magicshop_pot_normal
+  rotate: true
+  xy: 187, 429
+  size: 425, 183
+  orig: 425, 183
+  offset: 0, 0
+  index: -1
+magicshop_bubble_s2_orange
+  rotate: false
+  xy: 635, 821
+  size: 17, 17
+  orig: 47, 27
+  offset: 17, 0
+  index: -1

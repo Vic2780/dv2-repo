@@ -1,0 +1,172 @@
+yongsin_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+yongsin_ball_n4
+  rotate: false
+  xy: 355, 466
+  size: 42, 42
+  orig: 56, 56
+  offset: 7, 7
+  index: -1
+yongsin_ball_n22
+  rotate: false
+  xy: 399, 92
+  size: 40, 40
+  orig: 56, 56
+  offset: 8, 8
+  index: -1
+yongsin_ball_light2
+  rotate: false
+  xy: 389, 176
+  size: 50, 52
+  orig: 56, 56
+  offset: 3, 3
+  index: -1
+yongsin_ball_n77
+  rotate: false
+  xy: 267, 372
+  size: 48, 46
+  orig: 56, 56
+  offset: 3, 5
+  index: -1
+yongsin_ball_light6
+  rotate: false
+  xy: 325, 282
+  size: 56, 54
+  orig: 56, 56
+  offset: 0, 1
+  index: -1
+yongsin_ball_n7
+  rotate: false
+  xy: 381, 374
+  size: 48, 46
+  orig: 56, 56
+  offset: 3, 5
+  index: -1
+yongsin_ball_n3
+  rotate: false
+  xy: 267, 420
+  size: 46, 44
+  orig: 56, 56
+  offset: 4, 7
+  index: -1
+yongsin_ball_n55
+  rotate: false
+  xy: 329, 162
+  size: 58, 58
+  orig: 68, 68
+  offset: 5, 6
+  index: -1
+yongsin_ball_light3
+  rotate: false
+  xy: 383, 318
+  size: 56, 54
+  orig: 56, 56
+  offset: 0, 1
+  index: -1
+yongsin_ball_light7
+  rotate: false
+  xy: 267, 258
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+yongsin_ball_n33
+  rotate: false
+  xy: 317, 394
+  size: 46, 44
+  orig: 56, 56
+  offset: 4, 7
+  index: -1
+yongsin_ball_n6
+  rotate: true
+  xy: 311, 466
+  size: 46, 42
+  orig: 56, 56
+  offset: 4, 7
+  index: -1
+yongsin_ball_n2
+  rotate: false
+  xy: 399, 134
+  size: 40, 40
+  orig: 56, 56
+  offset: 8, 8
+  index: -1
+yongsin_ball_light4
+  rotate: false
+  xy: 325, 338
+  size: 54, 54
+  orig: 56, 56
+  offset: 1, 1
+  index: -1
+yongsin_ball_light8
+  rotate: false
+  xy: 2, 2
+  size: 325, 254
+  orig: 325, 254
+  offset: 0, 0
+  index: -1
+yongsin_ball_light10
+  rotate: false
+  xy: 329, 2
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+yongsin_ball_n66
+  rotate: true
+  xy: 267, 466
+  size: 46, 42
+  orig: 56, 56
+  offset: 4, 7
+  index: -1
+yongsin_ball_n11
+  rotate: false
+  xy: 389, 230
+  size: 50, 42
+  orig: 56, 56
+  offset: 2, 7
+  index: -1
+yongsin_ball_n5
+  rotate: false
+  xy: 329, 222
+  size: 58, 58
+  orig: 68, 68
+  offset: 5, 6
+  index: -1
+yongsin_ball_n1
+  rotate: false
+  xy: 389, 274
+  size: 50, 42
+  orig: 56, 56
+  offset: 2, 7
+  index: -1
+yongsin_ball_light1
+  rotate: false
+  xy: 267, 316
+  size: 56, 54
+  orig: 56, 56
+  offset: 0, 1
+  index: -1
+yongsin_ball_n44
+  rotate: false
+  xy: 365, 422
+  size: 42, 42
+  orig: 56, 56
+  offset: 7, 7
+  index: -1
+yongsin_ball_light5
+  rotate: false
+  xy: 329, 92
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+yongsin_ball_light9
+  rotate: false
+  xy: 2, 258
+  size: 263, 263
+  orig: 263, 263
+  offset: 0, 0
+  index: -1

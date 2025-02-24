@@ -1,0 +1,571 @@
+dragon_4055_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_rudolph_adult_l_leg1a
+  rotate: true
+  xy: 746, 1001
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+dragon_rudolph_child_head
+  rotate: true
+  xy: 891, 735
+  size: 98, 59
+  orig: 98, 59
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_tail
+  rotate: true
+  xy: 926, 253
+  size: 146, 71
+  orig: 146, 71
+  offset: 0, 0
+  index: -1
+dragon_rudolph_baby_leg1
+  rotate: true
+  xy: 843, 253
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+dragon_rudolph_baby_eye3
+  rotate: true
+  xy: 286, 1004
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_l_wingb
+  rotate: true
+  xy: 797, 735
+  size: 152, 92
+  orig: 152, 92
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_chin
+  rotate: true
+  xy: 895, 253
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_body
+  rotate: true
+  xy: 926, 462
+  size: 103, 86
+  orig: 103, 86
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_l_leg2b
+  rotate: false
+  xy: 601, 972
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+dragon_rudolph_child_bell1
+  rotate: false
+  xy: 926, 703
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_l_leg1b
+  rotate: true
+  xy: 961, 1004
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_neckl1
+  rotate: false
+  xy: 534, 972
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_r_leg1c
+  rotate: false
+  xy: 310, 1018
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_r_winga
+  rotate: true
+  xy: 926, 567
+  size: 134, 53
+  orig: 134, 53
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_neck
+  rotate: true
+  xy: 952, 703
+  size: 59, 70
+  orig: 59, 70
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_eye3
+  rotate: true
+  xy: 1010, 888
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+dragon_rudolph_child_leg3
+  rotate: true
+  xy: 310, 972
+  size: 44, 75
+  orig: 44, 75
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_bell2
+  rotate: false
+  xy: 333, 1018
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+dragon_rudolph_baby_leg2
+  rotate: true
+  xy: 205, 1004
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_eff4
+  rotate: false
+  xy: 573, 2
+  size: 268, 276
+  orig: 268, 276
+  offset: 0, 0
+  index: -1
+dragon_rudolph_child_neckl2
+  rotate: false
+  xy: 950, 916
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+dragon_rudolph_baby_tail
+  rotate: false
+  xy: 881, 900
+  size: 67, 39
+  orig: 67, 39
+  offset: 0, 0
+  index: -1
+dragon_rudolph_child_chin
+  rotate: false
+  xy: 961, 138
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_r_leg2b
+  rotate: false
+  xy: 999, 314
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+dragon_rudolph_baby_bell
+  rotate: false
+  xy: 981, 682
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+dragon_rudolph_child_neck
+  rotate: true
+  xy: 981, 626
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_eff0
+  rotate: false
+  xy: 843, 2
+  size: 116, 155
+  orig: 116, 155
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_eye2
+  rotate: false
+  xy: 601, 1009
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_head
+  rotate: true
+  xy: 628, 911
+  size: 122, 88
+  orig: 122, 88
+  offset: 0, 0
+  index: -1
+dragon_rudolph_child_leg2
+  rotate: true
+  xy: 951, 841
+  size: 27, 71
+  orig: 27, 71
+  offset: 0, 0
+  index: -1
+dragon_rudolph_baby_neckl2
+  rotate: false
+  xy: 881, 941
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_l_leg2c
+  rotate: false
+  xy: 999, 255
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_l_leg1c
+  rotate: false
+  xy: 997, 171
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+dragon_rudolph_baby_body
+  rotate: true
+  xy: 573, 328
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_r_leg1d
+  rotate: true
+  xy: 997, 138
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_eff1b
+  rotate: true
+  xy: 2, 390
+  size: 612, 306
+  orig: 620, 312
+  offset: 8, 5
+  index: -1
+dragon_rudolph_child_eye3
+  rotate: true
+  xy: 865, 958
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_r_wingb
+  rotate: true
+  xy: 961, 2
+  size: 134, 53
+  orig: 134, 53
+  offset: 0, 0
+  index: -1
+dragon_rudolph_baby_eye
+  rotate: false
+  xy: 824, 995
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_bell5
+  rotate: false
+  xy: 840, 1019
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_bell6
+  rotate: false
+  xy: 824, 1019
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_neckl2
+  rotate: false
+  xy: 951, 870
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+dragon_rudolph_baby_leg3
+  rotate: true
+  xy: 41, 1004
+  size: 26, 55
+  orig: 26, 55
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_eye
+  rotate: false
+  xy: 601, 1022
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_rudolph_baby_wing
+  rotate: true
+  xy: 997, 190
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+dragon_rudolph_baby_head
+  rotate: true
+  xy: 718, 911
+  size: 88, 71
+  orig: 88, 71
+  offset: 0, 0
+  index: -1
+dragon_rudolph_child_wing2
+  rotate: false
+  xy: 463, 972
+  size: 69, 50
+  orig: 69, 50
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_bell1
+  rotate: false
+  xy: 350, 1018
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_r_leg2c
+  rotate: true
+  xy: 1008, 916
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+dragon_rudolph_child_bell3
+  rotate: false
+  xy: 999, 343
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+dragon_rudolph_child_star
+  rotate: false
+  xy: 913, 982
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_r_leg1a
+  rotate: true
+  xy: 2, 1004
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+dragon_rudolph_child_body
+  rotate: false
+  xy: 797, 889
+  size: 82, 67
+  orig: 82, 67
+  offset: 0, 0
+  index: -1
+dragon_rudolph_child_eye2
+  rotate: false
+  xy: 1002, 682
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_eff3b
+  rotate: true
+  xy: 628, 280
+  size: 453, 296
+  orig: 469, 334
+  offset: 15, 15
+  index: -1
+dragon_rudolph_adult_eye5
+  rotate: true
+  xy: 1010, 870
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_bell4
+  rotate: false
+  xy: 367, 1018
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_l_leg2d
+  rotate: false
+  xy: 961, 968
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_l_leg1d
+  rotate: false
+  xy: 791, 995
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+dragon_rudolph_baby_leg4
+  rotate: true
+  xy: 98, 1004
+  size: 24, 55
+  orig: 24, 55
+  offset: 0, 0
+  index: -1
+dragon_rudolph_child_bell2
+  rotate: false
+  xy: 999, 230
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_rudolph_baby_neckl1
+  rotate: false
+  xy: 573, 280
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+dragon_rudolph_child_tail
+  rotate: false
+  xy: 926, 401
+  size: 96, 59
+  orig: 96, 59
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_eff1a
+  rotate: true
+  xy: 310, 390
+  size: 580, 316
+  orig: 590, 334
+  offset: 10, 3
+  index: -1
+dragon_rudolph_adult_eff2
+  rotate: false
+  xy: 628, 735
+  size: 167, 174
+  orig: 173, 174
+  offset: 0, 0
+  index: -1
+dragon_rudolph_baby_eye2
+  rotate: false
+  xy: 999, 367
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_eye4
+  rotate: true
+  xy: 1008, 962
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+dragon_rudolph_child_eye
+  rotate: true
+  xy: 1008, 940
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+dragon_rudolph_child_leg1
+  rotate: true
+  xy: 791, 958
+  size: 35, 72
+  orig: 35, 72
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_r_leg2d
+  rotate: true
+  xy: 718, 1001
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_r_leg1b
+  rotate: true
+  xy: 250, 1004
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+dragon_rudolph_child_leg4
+  rotate: true
+  xy: 387, 972
+  size: 47, 74
+  orig: 47, 74
+  offset: 0, 0
+  index: -1
+dragon_rudolph_child_wing1
+  rotate: false
+  xy: 952, 764
+  size: 68, 75
+  orig: 68, 75
+  offset: 0, 0
+  index: -1
+dragon_rudolph_baby_chin
+  rotate: true
+  xy: 999, 277
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+dragon_rudolph_child_neckl
+  rotate: true
+  xy: 891, 835
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_l_winga
+  rotate: false
+  xy: 843, 159
+  size: 152, 92
+  orig: 152, 92
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_eff3a
+  rotate: false
+  xy: 2, 2
+  size: 569, 386
+  orig: 587, 386
+  offset: 15, 0
+  index: -1
+dragon_rudolph_adult_bell3
+  rotate: false
+  xy: 848, 995
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_r_leg2a
+  rotate: true
+  xy: 155, 1004
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+dragon_rudolph_adult_l_leg2a
+  rotate: false
+  xy: 981, 567
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+dragon_rudolph_baby_heart
+  rotate: false
+  xy: 865, 982
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1

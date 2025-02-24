@@ -1,0 +1,46 @@
+dragon_enchant_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+shining_ball2
+  rotate: false
+  xy: 377, 308
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+shining2
+  rotate: false
+  xy: 2, 2
+  size: 373, 367
+  orig: 375, 375
+  offset: 0, 8
+  index: -1
+shining3
+  rotate: false
+  xy: 641, 2
+  size: 291, 293
+  orig: 315, 315
+  offset: 12, 12
+  index: -1
+shining_ball4
+  rotate: true
+  xy: 377, 2
+  size: 304, 262
+  orig: 318, 278
+  offset: 2, 2
+  index: -1
+shining_ball3
+  rotate: false
+  xy: 934, 2
+  size: 250, 252
+  orig: 270, 270
+  offset: 10, 9
+  index: -1
+shining_ball1
+  rotate: false
+  xy: 1186, 2
+  size: 182, 182
+  orig: 182, 182
+  offset: 0, 0
+  index: -1

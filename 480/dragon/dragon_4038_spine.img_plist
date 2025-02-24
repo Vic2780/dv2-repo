@@ -1,0 +1,452 @@
+dragon_4038_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_sunset_adult_arm1
+  rotate: true
+  xy: 2, 1508
+  size: 26, 56
+  orig: 26, 56
+  offset: 0, 0
+  index: -1
+dragon_sunset_adult_leg7
+  rotate: true
+  xy: 192, 1454
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+dragon_sunset_baby_body
+  rotate: true
+  xy: 162, 856
+  size: 73, 62
+  orig: 73, 62
+  offset: 0, 0
+  index: -1
+dragon_sunset_adult_farm3
+  rotate: true
+  xy: 116, 1422
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: -1
+dragon_sunset_adult_head
+  rotate: true
+  xy: 2, 1426
+  size: 80, 75
+  orig: 80, 75
+  offset: 0, 0
+  index: -1
+dragon_sunset_adult_arm3
+  rotate: true
+  xy: 79, 1478
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+dragon_sunset_adult_love_effect_note1
+  rotate: true
+  xy: 113, 1475
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_sunset_child_arm2
+  rotate: false
+  xy: 189, 1223
+  size: 29, 88
+  orig: 29, 88
+  offset: 0, 0
+  index: -1
+dragon_sunset_child_wing
+  rotate: true
+  xy: 158, 610
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+dragon_sunset_adult_leg8
+  rotate: true
+  xy: 161, 1120
+  size: 23, 50
+  orig: 23, 50
+  offset: 0, 0
+  index: -1
+dragon_sunset_critical_eff4
+  rotate: true
+  xy: 193, 228
+  size: 179, 32
+  orig: 179, 32
+  offset: 0, 0
+  index: -1
+dragon_sunset_critical_eff1
+  rotate: false
+  xy: 2, 610
+  size: 154, 123
+  orig: 154, 123
+  offset: 0, 0
+  index: -1
+dragon_sunset_adult_body
+  rotate: true
+  xy: 123, 1223
+  size: 112, 64
+  orig: 112, 64
+  offset: 0, 0
+  index: -1
+dragon_sunset_child_love
+  rotate: false
+  xy: 158, 1454
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+dragon_sunset_baby_head
+  rotate: false
+  xy: 162, 782
+  size: 63, 72
+  orig: 63, 72
+  offset: 0, 0
+  index: -1
+dragon_sunset_critical_eff7
+  rotate: false
+  xy: 16, 1145
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: -1
+dragon_sunset_child_leg2
+  rotate: true
+  xy: 162, 931
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+dragon_sunset_baby_arm2
+  rotate: false
+  xy: 155, 1024
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_sunset_adult_love_effect_note2
+  rotate: false
+  xy: 190, 1067
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_sunset_child_mouth
+  rotate: true
+  xy: 208, 1486
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+dragon_sunset_baby_arm1
+  rotate: true
+  xy: 189, 1313
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+dragon_sunset_adult_leg2
+  rotate: false
+  xy: 153, 1485
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+dragon_sunset_child_hair
+  rotate: false
+  xy: 72, 1327
+  size: 27, 67
+  orig: 27, 67
+  offset: 0, 0
+  index: -1
+dragon_sunset_critical_eff2
+  rotate: false
+  xy: 40, 952
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+dragon_sunset_baby_love
+  rotate: false
+  xy: 116, 1507
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+dragon_sunset_adult_attack
+  rotate: false
+  xy: 16, 1127
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_sunset_child_body1
+  rotate: false
+  xy: 101, 1337
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+dragon_sunset_adult_leg1
+  rotate: false
+  xy: 161, 1067
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1
+dragon_sunset_critical_eff8
+  rotate: false
+  xy: 2, 228
+  size: 189, 172
+  orig: 189, 172
+  offset: 0, 0
+  index: -1
+dragon_sunset_child_arm1
+  rotate: false
+  xy: 180, 462
+  size: 43, 87
+  orig: 43, 87
+  offset: 0, 0
+  index: -1
+dragon_sunset_adult_leg3
+  rotate: true
+  xy: 79, 1403
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+dragon_sunset_adult_love
+  rotate: true
+  xy: 101, 1327
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+dragon_sunset_critical_eff5
+  rotate: true
+  xy: 2, 945
+  size: 180, 36
+  orig: 182, 36
+  offset: 2, 0
+  index: -1
+dragon_sunset_baby_leg
+  rotate: true
+  xy: 79, 1435
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+dragon_sunset_child_body2
+  rotate: false
+  xy: 171, 1354
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+dragon_sunset_adult_wing
+  rotate: false
+  xy: 2, 506
+  size: 176, 102
+  orig: 176, 102
+  offset: 0, 0
+  index: -1
+dragon_sunset_child_eye
+  rotate: false
+  xy: 196, 1514
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+dragon_sunset_adult_tail
+  rotate: false
+  xy: 54, 735
+  size: 104, 123
+  orig: 104, 123
+  offset: 0, 0
+  index: -1
+dragon_sunset_adult_neck
+  rotate: false
+  xy: 54, 860
+  size: 106, 90
+  orig: 106, 90
+  offset: 0, 0
+  index: -1
+dragon_sunset_baby_neck
+  rotate: true
+  xy: 2, 1329
+  size: 95, 68
+  orig: 95, 68
+  offset: 0, 0
+  index: -1
+dragon_sunset_child_love_effect_twink
+  rotate: false
+  xy: 2, 2
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+dragon_sunset_child_head
+  rotate: false
+  xy: 117, 1145
+  size: 108, 76
+  orig: 108, 76
+  offset: 0, 0
+  index: -1
+dragon_sunset_adult_farm1
+  rotate: true
+  xy: 60, 1508
+  size: 26, 54
+  orig: 26, 54
+  offset: 0, 0
+  index: -1
+dragon_sunset_child_neck
+  rotate: false
+  xy: 16, 1245
+  size: 105, 80
+  orig: 105, 80
+  offset: 0, 0
+  index: -1
+dragon_sunset_baby_eye
+  rotate: true
+  xy: 172, 1514
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+dragon_sunset_adult_leg4
+  rotate: true
+  xy: 170, 1406
+  size: 17, 54
+  orig: 17, 54
+  offset: 0, 0
+  index: -1
+dragon_sunset_adult_down
+  rotate: false
+  xy: 153, 1506
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+dragon_sunset_child_leg1
+  rotate: true
+  xy: 167, 1425
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+dragon_sunset_baby_tail
+  rotate: false
+  xy: 180, 409
+  size: 45, 51
+  orig: 45, 51
+  offset: 0, 0
+  index: -1
+dragon_sunset_adult_mouth
+  rotate: false
+  xy: 192, 1052
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+dragon_sunset_baby_hair
+  rotate: false
+  xy: 155, 964
+  size: 32, 58
+  orig: 32, 58
+  offset: 0, 0
+  index: -1
+dragon_sunset_child_wing2
+  rotate: true
+  xy: 162, 696
+  size: 84, 63
+  orig: 84, 63
+  offset: 0, 0
+  index: -1
+dragon_sunset_adult_hair
+  rotate: true
+  xy: 116, 1403
+  size: 17, 52
+  orig: 17, 52
+  offset: 0, 0
+  index: -1
+dragon_sunset_adult_leg6
+  rotate: false
+  xy: 181, 1486
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+dragon_sunset_critical_eff6
+  rotate: true
+  xy: 2, 1127
+  size: 200, 12
+  orig: 200, 12
+  offset: 0, 0
+  index: -1
+dragon_sunset_adult_farm2
+  rotate: true
+  xy: 192, 1019
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+dragon_sunset_baby_mouth
+  rotate: false
+  xy: 147, 1514
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+dragon_sunset_adult_leg5
+  rotate: false
+  xy: 189, 964
+  size: 27, 53
+  orig: 27, 53
+  offset: 0, 0
+  index: -1
+dragon_sunset_critical_eff3
+  rotate: true
+  xy: 2, 735
+  size: 208, 50
+  orig: 208, 50
+  offset: 0, 0
+  index: -1
+dragon_sunset_adult_eye
+  rotate: false
+  xy: 213, 1110
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+dragon_sunset_child_tail
+  rotate: false
+  xy: 40, 1067
+  size: 119, 76
+  orig: 119, 76
+  offset: 0, 0
+  index: -1
+dragon_sunset_adult_arm2
+  rotate: true
+  xy: 113, 1451
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+dragon_sunset_adult_wing2
+  rotate: false
+  xy: 2, 402
+  size: 176, 102
+  orig: 176, 102
+  offset: 0, 0
+  index: -1
+dragon_sunset_baby_love_effect_heart
+  rotate: true
+  xy: 180, 551
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,151 @@
+57_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_thief_groggy_head
+  rotate: true
+  xy: 2, 571
+  size: 259, 196
+  orig: 307, 250
+  offset: 0, 42
+  index: -1
+m_thief_arm3
+  rotate: false
+  xy: 200, 743
+  size: 50, 36
+  orig: 74, 76
+  offset: 24, 0
+  index: -1
+m_thief_foot
+  rotate: true
+  xy: 2, 1141
+  size: 79, 34
+  orig: 79, 88
+  offset: 0, 0
+  index: -1
+m_thief_headmouth
+  rotate: true
+  xy: 200, 571
+  size: 99, 50
+  orig: 307, 250
+  offset: 55, 33
+  index: -1
+m_thief_bag
+  rotate: false
+  xy: 174, 918
+  size: 75, 98
+  orig: 77, 98
+  offset: 2, 0
+  index: -1
+m_thief_arm2
+  rotate: false
+  xy: 199, 1171
+  size: 38, 34
+  orig: 42, 68
+  offset: 3, 0
+  index: -1
+m_thief_groggy_hand
+  rotate: false
+  xy: 234, 309
+  size: 16, 28
+  orig: 74, 76
+  offset: 11, 21
+  index: -1
+m_thief_groggy_arm1
+  rotate: true
+  xy: 199, 1207
+  size: 18, 30
+  orig: 42, 68
+  offset: 15, 32
+  index: -1
+m_thief_groggy_headmouth
+  rotate: true
+  xy: 129, 1117
+  size: 95, 68
+  orig: 307, 250
+  offset: 53, 18
+  index: -1
+m_thief_hand
+  rotate: false
+  xy: 38, 1141
+  size: 56, 70
+  orig: 74, 76
+  offset: 0, 6
+  index: -1
+m_thief_d
+  rotate: false
+  xy: 2, 309
+  size: 230, 260
+  orig: 230, 260
+  offset: 0, 0
+  index: -1
+m_thief_co
+  rotate: true
+  xy: 2, 1026
+  size: 113, 125
+  orig: 113, 125
+  offset: 0, 0
+  index: -1
+m_thief_eye
+  rotate: false
+  xy: 2, 966
+  size: 127, 58
+  orig: 307, 250
+  offset: 39, 90
+  index: -1
+m_thief_arm1
+  rotate: false
+  xy: 199, 1117
+  size: 42, 52
+  orig: 42, 68
+  offset: 0, 16
+  index: -1
+m_thief_leg2
+  rotate: true
+  xy: 200, 672
+  size: 69, 50
+  orig: 79, 88
+  offset: 4, 16
+  index: -1
+m_thief_head
+  rotate: true
+  xy: 2, 2
+  size: 305, 246
+  orig: 307, 250
+  offset: 1, 1
+  index: -1
+m_thief_groggy_leg1
+  rotate: false
+  xy: 131, 966
+  size: 41, 40
+  orig: 79, 88
+  offset: 26, 48
+  index: -1
+m_thief_sk
+  rotate: false
+  xy: 131, 1018
+  size: 118, 97
+  orig: 118, 99
+  offset: 0, 1
+  index: -1
+m_thief_groggy_body
+  rotate: true
+  xy: 174, 838
+  size: 78, 76
+  orig: 170, 134
+  offset: 15, 36
+  index: -1
+m_thief_body
+  rotate: false
+  xy: 2, 832
+  size: 170, 132
+  orig: 170, 134
+  offset: 0, 0
+  index: -1
+m_thief_leg1
+  rotate: true
+  xy: 200, 781
+  size: 55, 46
+  orig: 79, 88
+  offset: 18, 42
+  index: -1

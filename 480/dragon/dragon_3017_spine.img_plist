@@ -1,0 +1,571 @@
+dragon_3017_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_ixia_child_hair3
+  rotate: true
+  xy: 1673, 818
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+dragon_ixia_child_love
+  rotate: false
+  xy: 1655, 343
+  size: 56, 73
+  orig: 56, 73
+  offset: 0, 0
+  index: -1
+dragon_ixia_adult_mouth
+  rotate: true
+  xy: 1654, 551
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+dragon_ixia_critical_a07
+  rotate: true
+  xy: 819, 303
+  size: 275, 419
+  orig: 299, 419
+  offset: 7, 0
+  index: -1
+dragon_ixia_adult_leg4
+  rotate: false
+  xy: 1615, 881
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+dragon_ixia_adult_head
+  rotate: false
+  xy: 888, 977
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+dragon_ixia_e_critical_b2
+  rotate: false
+  xy: 2, 418
+  size: 410, 401
+  orig: 414, 401
+  offset: 4, 0
+  index: -1
+dragon_ixia_child_twinkling2
+  rotate: true
+  xy: 887, 876
+  size: 99, 100
+  orig: 225, 224
+  offset: 63, 64
+  index: -1
+dragon_ixia_critical_a03
+  rotate: false
+  xy: 1240, 578
+  size: 231, 207
+  orig: 299, 419
+  offset: 43, 23
+  index: -1
+dragon_ixia_adult_body
+  rotate: true
+  xy: 1655, 249
+  size: 92, 56
+  orig: 92, 56
+  offset: 0, 0
+  index: -1
+dragon_ixia_adult_arm2
+  rotate: false
+  xy: 1671, 881
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+dragon_ixia_child_hair2
+  rotate: true
+  xy: 759, 977
+  size: 34, 68
+  orig: 34, 68
+  offset: 0, 0
+  index: -1
+dragon_ixia_baby_arm
+  rotate: false
+  xy: 1694, 2
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+dragon_ixia_adult_twinkling2
+  rotate: true
+  xy: 887, 876
+  size: 99, 100
+  orig: 225, 224
+  offset: 63, 64
+  index: -1
+dragon_ixia_adult_damaged
+  rotate: true
+  xy: 1673, 618
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+dragon_ixia_adult_wing2
+  rotate: true
+  xy: 1408, 787
+  size: 164, 96
+  orig: 164, 96
+  offset: 0, 0
+  index: -1
+dragon_ixia_baby_wing
+  rotate: true
+  xy: 1694, 39
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+dragon_ixia_critical_a06
+  rotate: true
+  xy: 418, 348
+  size: 255, 399
+  orig: 299, 419
+  offset: 27, 20
+  index: -1
+dragon_ixia_adult_neck
+  rotate: true
+  xy: 527, 937
+  size: 59, 89
+  orig: 59, 89
+  offset: 0, 0
+  index: -1
+dragon_ixia_adult_hair3
+  rotate: false
+  xy: 762, 876
+  size: 123, 99
+  orig: 123, 99
+  offset: 0, 0
+  index: -1
+dragon_ixia_baby_body
+  rotate: false
+  xy: 1612, 918
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+dragon_ixia_baby_love
+  rotate: false
+  xy: 1655, 493
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+dragon_ixia_e_critical_c2
+  rotate: false
+  xy: 2, 821
+  size: 394, 134
+  orig: 394, 134
+  offset: 0, 0
+  index: -1
+dragon_ixia_child_wing
+  rotate: true
+  xy: 1666, 677
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+dragon_ixia_baby_hair1
+  rotate: true
+  xy: 881, 580
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+dragon_ixia_e_wing_p2
+  rotate: true
+  xy: 1473, 578
+  size: 173, 122
+  orig: 173, 122
+  offset: 0, 0
+  index: -1
+dragon_ixia_critical_a02
+  rotate: false
+  xy: 1010, 806
+  size: 227, 203
+  orig: 299, 419
+  offset: 45, 18
+  index: -1
+dragon_ixia_adult_leg3
+  rotate: false
+  xy: 1673, 770
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+dragon_ixia_critical_b01
+  rotate: false
+  xy: 2, 957
+  size: 245, 53
+  orig: 245, 53
+  offset: 0, 0
+  index: -1
+dragon_ixia_adult_eye
+  rotate: true
+  xy: 1639, 249
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+dragon_ixia_child_mouth
+  rotate: false
+  xy: 989, 945
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+dragon_ixia_child_eye
+  rotate: false
+  xy: 398, 821
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+dragon_ixia_e_leg_p
+  rotate: true
+  xy: 947, 977
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+dragon_ixia_child_neck
+  rotate: true
+  xy: 1239, 976
+  size: 41, 62
+  orig: 41, 62
+  offset: 0, 0
+  index: -1
+dragon_ixia_adult_love
+  rotate: false
+  xy: 829, 977
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+dragon_ixia_baby_tail
+  rotate: false
+  xy: 618, 937
+  size: 54, 73
+  orig: 54, 73
+  offset: 0, 0
+  index: -1
+dragon_ixia_adult_hair2
+  rotate: true
+  xy: 1303, 976
+  size: 35, 74
+  orig: 35, 74
+  offset: 0, 0
+  index: -1
+dragon_ixia_adult_arm1
+  rotate: false
+  xy: 362, 957
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+dragon_ixia_baby_leg
+  rotate: true
+  xy: 844, 580
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+dragon_ixia_child_hair1
+  rotate: false
+  xy: 1473, 753
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+dragon_ixia_adult_twinkling1
+  rotate: false
+  xy: 1010, 580
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+dragon_ixia_adult_wing1
+  rotate: false
+  xy: 1597, 578
+  size: 61, 85
+  orig: 61, 85
+  offset: 0, 0
+  index: -1
+dragon_ixia_e_arm_p
+  rotate: false
+  xy: 325, 957
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
+dragon_ixia_child_arm2
+  rotate: false
+  xy: 1626, 539
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+dragon_ixia_child_tail
+  rotate: false
+  xy: 398, 937
+  size: 127, 61
+  orig: 127, 61
+  offset: 0, 0
+  index: -1
+dragon_ixia_adult_leg2
+  rotate: true
+  xy: 1379, 976
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+dragon_ixia_baby_hair2
+  rotate: false
+  xy: 989, 876
+  size: 18, 41
+  orig: 18, 41
+  offset: 0, 0
+  index: -1
+dragon_ixia_e_critical_eff3
+  rotate: false
+  xy: 1229, 2
+  size: 408, 290
+  orig: 420, 344
+  offset: 12, 24
+  index: -1
+dragon_ixia_baby_eye
+  rotate: false
+  xy: 819, 580
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_ixia_baby_mouth
+  rotate: false
+  xy: 1694, 70
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+dragon_ixia_adult_attack
+  rotate: true
+  xy: 1673, 711
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+dragon_ixia_critical_a05
+  rotate: true
+  xy: 414, 605
+  size: 255, 353
+  orig: 299, 419
+  offset: 27, 23
+  index: -1
+dragon_ixia_child_twinkling1
+  rotate: false
+  xy: 1010, 580
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+dragon_ixia_child_leg2
+  rotate: false
+  xy: 1600, 539
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+dragon_ixia_e_body_p
+  rotate: false
+  xy: 1597, 665
+  size: 67, 73
+  orig: 67, 73
+  offset: 0, 0
+  index: -1
+dragon_ixia_child_body
+  rotate: true
+  xy: 1666, 551
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+dragon_ixia_critical_a08
+  rotate: true
+  xy: 814, 2
+  size: 299, 413
+  orig: 299, 419
+  offset: 0, 5
+  index: -1
+dragon_ixia_child_arm1
+  rotate: true
+  xy: 1661, 931
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+dragon_ixia_e_wing_p1
+  rotate: true
+  xy: 1506, 916
+  size: 92, 104
+  orig: 92, 104
+  offset: 0, 0
+  index: -1
+dragon_ixia_critical_a01
+  rotate: false
+  xy: 1239, 787
+  size: 167, 187
+  orig: 299, 419
+  offset: 44, 18
+  index: -1
+dragon_ixia_adult_hair1
+  rotate: false
+  xy: 989, 919
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+dragon_ixia_e_critical_b1
+  rotate: false
+  xy: 2, 2
+  size: 414, 414
+  orig: 418, 424
+  offset: 0, 0
+  index: -1
+dragon_ixia_child_hair4
+  rotate: true
+  xy: 679, 862
+  size: 93, 81
+  orig: 93, 81
+  offset: 0, 0
+  index: -1
+dragon_ixia_e_critical_eff2
+  rotate: false
+  xy: 418, 2
+  size: 394, 344
+  orig: 420, 344
+  offset: 0, 0
+  index: -1
+dragon_ixia_critical_a04
+  rotate: false
+  xy: 769, 605
+  size: 239, 269
+  orig: 299, 419
+  offset: 45, 23
+  index: -1
+dragon_ixia_child_head
+  rotate: false
+  xy: 1655, 418
+  size: 56, 73
+  orig: 56, 73
+  offset: 0, 0
+  index: -1
+dragon_ixia_e_tail_p
+  rotate: false
+  xy: 249, 957
+  size: 74, 60
+  orig: 74, 60
+  offset: 0, 0
+  index: -1
+dragon_ixia_adult_tail
+  rotate: true
+  xy: 1506, 753
+  size: 161, 107
+  orig: 161, 107
+  offset: 0, 0
+  index: -1
+dragon_ixia_critical_b03
+  rotate: true
+  xy: 1600, 294
+  size: 243, 53
+  orig: 245, 53
+  offset: 1, 0
+  index: -1
+dragon_ixia_adult_leg1
+  rotate: false
+  xy: 1473, 953
+  size: 29, 59
+  orig: 29, 59
+  offset: 0, 0
+  index: -1
+dragon_ixia_e_arm3_p
+  rotate: false
+  xy: 1673, 853
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+dragon_ixia_child_leg1
+  rotate: true
+  xy: 1660, 991
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: -1
+dragon_ixia_baby_hair3
+  rotate: false
+  xy: 1408, 953
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+dragon_ixia_baby_heart
+  rotate: false
+  xy: 1612, 959
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_ixia_e_head_p
+  rotate: true
+  xy: 1615, 740
+  size: 81, 42
+  orig: 81, 42
+  offset: 0, 0
+  index: -1
+dragon_ixia_e_critical_c1
+  rotate: false
+  xy: 398, 862
+  size: 279, 73
+  orig: 279, 73
+  offset: 0, 0
+  index: -1
+dragon_ixia_baby_head
+  rotate: false
+  xy: 1615, 823
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+dragon_ixia_e_critical_eff1
+  rotate: false
+  xy: 1240, 294
+  size: 358, 282
+  orig: 420, 344
+  offset: 35, 40
+  index: -1
+dragon_ixia_critical_b02
+  rotate: true
+  xy: 1639, 2
+  size: 245, 53
+  orig: 245, 53
+  offset: 0, 0
+  index: -1
+dragon_ixia_adult_hair4
+  rotate: true
+  xy: 674, 957
+  size: 57, 83
+  orig: 57, 83
+  offset: 0, 0
+  index: -1
+dragon_ixia_adult_arm3
+  rotate: false
+  xy: 1660, 959
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1

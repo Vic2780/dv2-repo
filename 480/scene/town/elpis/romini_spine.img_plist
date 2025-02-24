@@ -1,0 +1,151 @@
+romini_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+sd_romini_glasses
+  rotate: false
+  xy: 2, 91
+  size: 45, 15
+  orig: 45, 15
+  offset: 0, 0
+  index: -1
+sd_romini_eyeborow2
+  rotate: false
+  xy: 51, 88
+  size: 35, 9
+  orig: 35, 9
+  offset: 0, 0
+  index: -1
+sd_romini_leg1
+  rotate: true
+  xy: 49, 99
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+sd_romini_eye3
+  rotate: true
+  xy: 94, 34
+  size: 39, 11
+  orig: 39, 11
+  offset: 0, 0
+  index: -1
+sd_romini_head
+  rotate: false
+  xy: 2, 2
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+sd_romini_leg2
+  rotate: false
+  xy: 74, 99
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+sd_romini_eye4
+  rotate: true
+  xy: 107, 30
+  size: 38, 11
+  orig: 38, 11
+  offset: 0, 0
+  index: -1
+sd_romini_eyeborow
+  rotate: false
+  xy: 2, 108
+  size: 38, 6
+  orig: 38, 6
+  offset: 0, 0
+  index: -1
+sd_romini_shy
+  rotate: true
+  xy: 72, 34
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+sd_romini_mouth2
+  rotate: true
+  xy: 42, 108
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+sd_romini_book
+  rotate: true
+  xy: 104, 2
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+sd_romini_arm1
+  rotate: true
+  xy: 92, 75
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+sd_romini_eye1
+  rotate: false
+  xy: 51, 72
+  size: 39, 14
+  orig: 39, 14
+  offset: 0, 0
+  index: -1
+sd_romini_pen
+  rotate: true
+  xy: 2, 72
+  size: 17, 47
+  orig: 17, 47
+  offset: 0, 0
+  index: -1
+sd_romini_book2
+  rotate: false
+  xy: 72, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+sd_romini_mouth3
+  rotate: false
+  xy: 112, 78
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+sd_romini_breath
+  rotate: false
+  xy: 113, 89
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+sd_romini_arm2
+  rotate: true
+  xy: 112, 70
+  size: 6, 14
+  orig: 6, 14
+  offset: 0, 0
+  index: -1
+sd_romini_eye2
+  rotate: true
+  xy: 120, 30
+  size: 38, 6
+  orig: 38, 6
+  offset: 0, 0
+  index: -1
+sd_romini_mouth
+  rotate: true
+  xy: 123, 78
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
+sd_romini_body
+  rotate: false
+  xy: 88, 89
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1

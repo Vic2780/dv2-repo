@@ -1,0 +1,354 @@
+22_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_gleamwitch_groggyleg1
+  rotate: true
+  xy: 234, 1057
+  size: 87, 79
+  orig: 87, 79
+  offset: 0, 0
+  index: -1
+m_gleamwitch_head2
+  rotate: true
+  xy: 397, 2
+  size: 139, 112
+  orig: 139, 112
+  offset: 0, 0
+  index: -1
+m_gleamwitch_groggyarm11
+  rotate: false
+  xy: 371, 1115
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+m_gleamwitch_hand
+  rotate: false
+  xy: 449, 1079
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1
+m_gleamwitch_groggyhead4
+  rotate: false
+  xy: 132, 1038
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+m_gleamwitch_leg32
+  rotate: true
+  xy: 397, 143
+  size: 122, 109
+  orig: 122, 109
+  offset: 0, 0
+  index: -1
+m_gleamwitch_arm3
+  rotate: false
+  xy: 315, 1056
+  size: 54, 87
+  orig: 54, 87
+  offset: 0, 0
+  index: -1
+m_gleamwitch_leg31
+  rotate: false
+  xy: 132, 1057
+  size: 100, 87
+  orig: 100, 87
+  offset: 0, 0
+  index: -1
+m_gleamwitch_groggybody2
+  rotate: true
+  xy: 385, 1036
+  size: 41, 77
+  orig: 41, 77
+  offset: 0, 0
+  index: -1
+m_gleamwitch_head32
+  rotate: true
+  xy: 229, 467
+  size: 191, 183
+  orig: 191, 183
+  offset: 0, 0
+  index: -1
+m_gleamwitch_arm12
+  rotate: false
+  xy: 2, 1018
+  size: 128, 110
+  orig: 128, 110
+  offset: 0, 0
+  index: -1
+m_gleamwitch_groggyleg21
+  rotate: false
+  xy: 385, 998
+  size: 86, 36
+  orig: 98, 68
+  offset: 12, 0
+  index: -1
+m_gleamwitch_arm11
+  rotate: true
+  xy: 464, 421
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+m_gleamwitch_groggyarm4
+  rotate: false
+  xy: 458, 574
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+m_gleamwitch_ground
+  rotate: true
+  xy: 156, 816
+  size: 220, 39
+  orig: 220, 39
+  offset: 0, 0
+  index: -1
+m_gleamwitch_groggyarm22
+  rotate: false
+  xy: 478, 849
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+m_gleamwitch_head4
+  rotate: true
+  xy: 2, 844
+  size: 172, 152
+  orig: 172, 152
+  offset: 0, 0
+  index: -1
+m_gleamwitch_head31
+  rotate: false
+  xy: 197, 958
+  size: 101, 97
+  orig: 101, 97
+  offset: 0, 0
+  index: -1
+m_gleamwitch_groggyleg31
+  rotate: true
+  xy: 447, 336
+  size: 83, 45
+  orig: 83, 45
+  offset: 0, 0
+  index: -1
+m_gleamwitch_leg1
+  rotate: false
+  xy: 288, 829
+  size: 109, 104
+  orig: 109, 104
+  offset: 0, 0
+  index: -1
+m_gleamwitch_ear2
+  rotate: false
+  xy: 414, 602
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+m_gleamwitch_groggyarm3
+  rotate: false
+  xy: 494, 336
+  size: 15, 62
+  orig: 15, 62
+  offset: 0, 0
+  index: -1
+m_gleamwitch_arm5
+  rotate: true
+  xy: 464, 1036
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+m_gleamwitch_head12
+  rotate: true
+  xy: 229, 660
+  size: 167, 170
+  orig: 167, 170
+  offset: 0, 0
+  index: -1
+m_gleamwitch_groggyhead31
+  rotate: false
+  xy: 414, 467
+  size: 35, 74
+  orig: 35, 74
+  offset: 0, 0
+  index: -1
+m_gleamwitch_mouth
+  rotate: false
+  xy: 458, 629
+  size: 34, 13
+  orig: 34, 13
+  offset: 0, 0
+  index: -1
+m_gleamwitch_body2
+  rotate: false
+  xy: 370, 267
+  size: 75, 143
+  orig: 75, 143
+  offset: 0, 0
+  index: -1
+m_gleamwitch_groggybody1
+  rotate: true
+  xy: 371, 1079
+  size: 34, 76
+  orig: 34, 76
+  offset: 0, 0
+  index: -1
+m_gleamwitch_head11
+  rotate: true
+  xy: 416, 1115
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+m_gleamwitch_body1
+  rotate: false
+  xy: 399, 849
+  size: 77, 113
+  orig: 77, 113
+  offset: 0, 0
+  index: -1
+m_gleamwitch_groggyear1
+  rotate: false
+  xy: 478, 887
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+m_gleamwitch_stone1
+  rotate: false
+  xy: 2, 2
+  size: 393, 250
+  orig: 393, 250
+  offset: 0, 0
+  index: -1
+m_gleamwitch_groggystone2
+  rotate: true
+  xy: 135, 467
+  size: 347, 92
+  orig: 347, 92
+  offset: 0, 0
+  index: -1
+m_gleamwitch_groggymouth
+  rotate: false
+  xy: 197, 816
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1
+m_gleamwitch_groggyarm21
+  rotate: false
+  xy: 427, 421
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+m_gleamwitch_groggyhead12
+  rotate: false
+  xy: 197, 829
+  size: 89, 127
+  orig: 89, 127
+  offset: 0, 0
+  index: -1
+m_gleamwitch_groggyarm12
+  rotate: true
+  xy: 370, 412
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+m_gleamwitch_groggyhead11
+  rotate: false
+  xy: 2, 1130
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+m_gleamwitch_eye
+  rotate: false
+  xy: 385, 964
+  size: 90, 32
+  orig: 90, 32
+  offset: 0, 0
+  index: -1
+m_gleamwitch_ear1
+  rotate: true
+  xy: 457, 523
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+m_gleamwitch_groggyleg22
+  rotate: false
+  xy: 451, 473
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+m_gleamwitch_arm22
+  rotate: true
+  xy: 401, 660
+  size: 110, 108
+  orig: 110, 108
+  offset: 0, 0
+  index: -1
+m_gleamwitch_ear3
+  rotate: true
+  xy: 28, 1130
+  size: 11, 28
+  orig: 11, 28
+  offset: 0, 0
+  index: -1
+m_gleamwitch_arm21
+  rotate: false
+  xy: 414, 543
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+m_gleamwitch_stone2
+  rotate: true
+  xy: 2, 467
+  size: 375, 131
+  orig: 375, 131
+  offset: 0, 0
+  index: -1
+m_gleamwitch_groggystone1
+  rotate: false
+  xy: 2, 254
+  size: 366, 211
+  orig: 366, 211
+  offset: 0, 0
+  index: -1
+m_gleamwitch_finger
+  rotate: false
+  xy: 478, 922
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+m_gleamwitch_leg22
+  rotate: true
+  xy: 300, 935
+  size: 119, 83
+  orig: 119, 83
+  offset: 0, 0
+  index: -1
+m_gleamwitch_arm4
+  rotate: false
+  xy: 447, 267
+  size: 62, 67
+  orig: 62, 67
+  offset: 0, 0
+  index: -1
+m_gleamwitch_leg21
+  rotate: false
+  xy: 401, 772
+  size: 99, 75
+  orig: 99, 75
+  offset: 0, 0
+  index: -1

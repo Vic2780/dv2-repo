@@ -1,0 +1,858 @@
+dragon_3022_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_igna_adult_eye
+  rotate: true
+  xy: 1973, 208
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_l_leg1c
+  rotate: false
+  xy: 1942, 144
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+dragon_igna_child_wing1firea
+  rotate: false
+  xy: 860, 195
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_hairb
+  rotate: false
+  xy: 818, 195
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_leg1firea
+  rotate: true
+  xy: 941, 233
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+dragon_igna_child_eye
+  rotate: false
+  xy: 1964, 161
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_eye2
+  rotate: false
+  xy: 645, 162
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_leg2firea
+  rotate: true
+  xy: 2, 228
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+dragon_igna_baby_eye
+  rotate: false
+  xy: 205, 231
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_body
+  rotate: false
+  xy: 966, 189
+  size: 85, 64
+  orig: 85, 64
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_mainb
+  rotate: false
+  xy: 966, 2
+  size: 160, 103
+  orig: 160, 107
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_r_leg2b
+  rotate: false
+  xy: 1897, 199
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_l_leg2c
+  rotate: false
+  xy: 1700, 161
+  size: 23, 47
+  orig: 23, 47
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_tail1
+  rotate: false
+  xy: 1803, 87
+  size: 74, 50
+  orig: 74, 50
+  offset: 0, 0
+  index: -1
+dragon_igna_child_leg1
+  rotate: false
+  xy: 1995, 72
+  size: 29, 59
+  orig: 29, 59
+  offset: 0, 0
+  index: -1
+dragon_igna_child_tail
+  rotate: false
+  xy: 1292, 105
+  size: 86, 66
+  orig: 86, 66
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_r_wingfirec
+  rotate: false
+  xy: 495, 178
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_tailfire1a
+  rotate: true
+  xy: 1338, 173
+  size: 78, 37
+  orig: 78, 37
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_tailfire2c
+  rotate: false
+  xy: 1380, 105
+  size: 62, 74
+  orig: 62, 74
+  offset: 0, 0
+  index: -1
+dragon_igna_child_tailfirec
+  rotate: false
+  xy: 1515, 168
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_sub2a
+  rotate: false
+  xy: 1153, 107
+  size: 79, 86
+  orig: 79, 86
+  offset: 0, 0
+  index: -1
+dragon_igna_child_wing1
+  rotate: true
+  xy: 1524, 103
+  size: 63, 74
+  orig: 63, 74
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_neckfire2a
+  rotate: true
+  xy: 1801, 212
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+dragon_igna_child_leg4
+  rotate: true
+  xy: 227, 198
+  size: 31, 75
+  orig: 31, 75
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_bodyfirec
+  rotate: false
+  xy: 727, 196
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+dragon_igna_baby_body
+  rotate: false
+  xy: 559, 178
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_l_winga
+  rotate: false
+  xy: 1570, 2
+  size: 129, 99
+  orig: 129, 99
+  offset: 0, 0
+  index: -1
+dragon_igna_child_hair2a
+  rotate: false
+  xy: 1724, 210
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_wingfirea
+  rotate: true
+  xy: 1234, 107
+  size: 86, 56
+  orig: 86, 56
+  offset: 0, 0
+  index: -1
+dragon_igna_child_chin
+  rotate: true
+  xy: 1887, 182
+  size: 28, 8
+  orig: 28, 8
+  offset: 0, 0
+  index: -1
+dragon_igna_child_wing2firea
+  rotate: false
+  xy: 32, 228
+  size: 62, 21
+  orig: 62, 21
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_neckfirea
+  rotate: false
+  xy: 1658, 161
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+dragon_igna_child_eye4
+  rotate: false
+  xy: 673, 162
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_l_leg2d
+  rotate: false
+  xy: 1968, 144
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_r_wingfireb
+  rotate: false
+  xy: 1678, 103
+  size: 68, 56
+  orig: 68, 56
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_r_winga
+  rotate: false
+  xy: 1899, 2
+  size: 94, 83
+  orig: 94, 83
+  offset: 0, 0
+  index: -1
+dragon_igna_child_hair2b
+  rotate: false
+  xy: 1677, 210
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_tailfire1b
+  rotate: false
+  xy: 1879, 87
+  size: 77, 38
+  orig: 77, 38
+  offset: 0, 0
+  index: -1
+dragon_igna_baby_leg1
+  rotate: true
+  xy: 165, 228
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+dragon_igna_baby_haira
+  rotate: true
+  xy: 1882, 212
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_r_leg1a
+  rotate: true
+  xy: 1580, 232
+  size: 21, 47
+  orig: 21, 47
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_haira
+  rotate: false
+  xy: 1849, 182
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+dragon_igna_baby_head
+  rotate: false
+  xy: 1600, 103
+  size: 76, 56
+  orig: 76, 56
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_leg1fireb
+  rotate: false
+  xy: 816, 229
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_sub1c
+  rotate: false
+  xy: 227, 2
+  size: 195, 194
+  orig: 195, 194
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_twinkling2
+  rotate: true
+  xy: 1701, 2
+  size: 99, 100
+  orig: 225, 224
+  offset: 63, 64
+  index: -1
+dragon_igna_adult_bodyfireb
+  rotate: true
+  xy: 1916, 199
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_maina
+  rotate: false
+  xy: 1128, 2
+  size: 155, 103
+  orig: 155, 103
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_r_leg2c
+  rotate: true
+  xy: 257, 231
+  size: 17, 38
+  orig: 17, 38
+  offset: 0, 0
+  index: -1
+dragon_igna_baby_leg4
+  rotate: true
+  xy: 1802, 182
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+dragon_igna_baby_hairb
+  rotate: false
+  xy: 1897, 127
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_neck
+  rotate: true
+  xy: 374, 198
+  size: 46, 60
+  orig: 46, 60
+  offset: 0, 0
+  index: -1
+dragon_igna_child_neck
+  rotate: false
+  xy: 1725, 170
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_neckfire2b
+  rotate: false
+  xy: 770, 203
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_eye5
+  rotate: false
+  xy: 788, 244
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+dragon_igna_baby_chin
+  rotate: false
+  xy: 1992, 194
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_chin
+  rotate: false
+  xy: 1948, 233
+  size: 20, 6
+  orig: 20, 6
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_r_wingfirea
+  rotate: true
+  xy: 1748, 103
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_mouth
+  rotate: true
+  xy: 359, 236
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+dragon_igna_baby_eye3
+  rotate: true
+  xy: 898, 195
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_sub1b
+  rotate: true
+  xy: 623, 2
+  size: 158, 195
+  orig: 162, 195
+  offset: 1, 0
+  index: -1
+dragon_igna_child_mouth
+  rotate: false
+  xy: 1916, 241
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_neckfireb
+  rotate: false
+  xy: 1612, 161
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_bodyfirea
+  rotate: true
+  xy: 1869, 139
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_r_leg2d
+  rotate: false
+  xy: 1943, 241
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+dragon_igna_child_head
+  rotate: false
+  xy: 1444, 103
+  size: 78, 63
+  orig: 78, 63
+  offset: 0, 0
+  index: -1
+dragon_igna_child_leg3
+  rotate: true
+  xy: 1444, 168
+  size: 24, 69
+  orig: 24, 69
+  offset: 0, 0
+  index: -1
+dragon_igna_baby_tailfirea
+  rotate: false
+  xy: 525, 233
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+dragon_igna_child_hair2c
+  rotate: false
+  xy: 1629, 210
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_tailfire1c
+  rotate: true
+  xy: 1296, 173
+  size: 80, 40
+  orig: 80, 40
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_wingfirec
+  rotate: false
+  xy: 1213, 195
+  size: 81, 56
+  orig: 81, 56
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_head
+  rotate: false
+  xy: 304, 198
+  size: 68, 36
+  orig: 68, 36
+  offset: 0, 0
+  index: -1
+dragon_igna_baby_smile
+  rotate: false
+  xy: 436, 178
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_l_leg1a
+  rotate: true
+  xy: 673, 199
+  size: 26, 52
+  orig: 26, 52
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_leg1firec
+  rotate: false
+  xy: 1948, 208
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_igna_child_wing2fireb
+  rotate: false
+  xy: 559, 227
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_twinkling1
+  rotate: false
+  xy: 2, 2
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+dragon_igna_baby_tail
+  rotate: true
+  xy: 1771, 209
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_eye4
+  rotate: false
+  xy: 763, 244
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_leg2firec
+  rotate: false
+  xy: 96, 228
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+dragon_igna_child_eye3
+  rotate: false
+  xy: 297, 236
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+dragon_igna_baby_tailfireb
+  rotate: false
+  xy: 912, 233
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+dragon_igna_child_heart
+  rotate: false
+  xy: 770, 162
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_tail3
+  rotate: false
+  xy: 1500, 211
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_maind
+  rotate: false
+  xy: 820, 2
+  size: 144, 126
+  orig: 144, 126
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_l_leg2a
+  rotate: false
+  xy: 1958, 87
+  size: 35, 55
+  orig: 35, 55
+  offset: 0, 0
+  index: -1
+dragon_igna_baby_leg3
+  rotate: true
+  xy: 121, 228
+  size: 21, 42
+  orig: 21, 42
+  offset: 0, 0
+  index: -1
+dragon_igna_child_hair1
+  rotate: true
+  xy: 1995, 133
+  size: 59, 29
+  orig: 59, 29
+  offset: 0, 0
+  index: -1
+dragon_igna_baby_hairc
+  rotate: true
+  xy: 1540, 211
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+dragon_igna_baby_eye2
+  rotate: true
+  xy: 1940, 165
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_tailfire2a
+  rotate: true
+  xy: 1436, 194
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_r_leg1b
+  rotate: true
+  xy: 838, 229
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+dragon_igna_child_wing1firec
+  rotate: false
+  xy: 929, 199
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_sub2c
+  rotate: true
+  xy: 966, 107
+  size: 80, 95
+  orig: 80, 95
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_r_leg2a
+  rotate: true
+  xy: 672, 227
+  size: 26, 52
+  orig: 26, 52
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_neckfire2c
+  rotate: true
+  xy: 1843, 212
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+dragon_igna_child_leg2
+  rotate: true
+  xy: 710, 162
+  size: 32, 58
+  orig: 32, 58
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_l_wingb
+  rotate: false
+  xy: 1439, 2
+  size: 129, 99
+  orig: 129, 99
+  offset: 0, 0
+  index: -1
+dragon_igna_child_body
+  rotate: true
+  xy: 1377, 181
+  size: 67, 57
+  orig: 67, 57
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_wingfireb
+  rotate: false
+  xy: 1122, 195
+  size: 89, 56
+  orig: 89, 56
+  offset: 0, 0
+  index: -1
+dragon_igna_baby_wing
+  rotate: true
+  xy: 1580, 168
+  size: 62, 30
+  orig: 62, 30
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_l_leg1b
+  rotate: true
+  xy: 726, 237
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_sub1a
+  rotate: true
+  xy: 424, 2
+  size: 174, 197
+  orig: 180, 197
+  offset: 0, 0
+  index: -1
+dragon_igna_child_tailfirea
+  rotate: true
+  xy: 1995, 2
+  size: 68, 29
+  orig: 68, 29
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_leg2fireb
+  rotate: false
+  xy: 1963, 180
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_neckfirec
+  rotate: false
+  xy: 621, 178
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+dragon_igna_child_eye2
+  rotate: false
+  xy: 328, 236
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_l_leg2b
+  rotate: true
+  xy: 1612, 210
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_tail2
+  rotate: false
+  xy: 1803, 139
+  size: 64, 41
+  orig: 64, 41
+  offset: 0, 0
+  index: -1
+dragon_igna_baby_leg2
+  rotate: true
+  xy: 876, 229
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_tailfire2b
+  rotate: true
+  xy: 1053, 195
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+dragon_igna_child_tailfireb
+  rotate: true
+  xy: 929, 130
+  size: 67, 35
+  orig: 67, 35
+  offset: 0, 0
+  index: -1
+dragon_igna_child_wing1fireb
+  rotate: false
+  xy: 1768, 170
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_hairc
+  rotate: false
+  xy: 1897, 165
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_sub2b
+  rotate: true
+  xy: 1063, 107
+  size: 86, 88
+  orig: 86, 88
+  offset: 0, 0
+  index: -1
+dragon_igna_child_wing2firec
+  rotate: false
+  xy: 617, 227
+  size: 53, 26
+  orig: 53, 26
+  offset: 0, 0
+  index: -1
+dragon_igna_child_wing2
+  rotate: false
+  xy: 820, 130
+  size: 107, 63
+  orig: 107, 63
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_eye3
+  rotate: false
+  xy: 623, 162
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+dragon_igna_baby_tailfirec
+  rotate: false
+  xy: 495, 233
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_mainc
+  rotate: false
+  xy: 1285, 2
+  size: 152, 101
+  orig: 152, 101
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_r_leg1c
+  rotate: true
+  xy: 238, 231
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+dragon_igna_adult_r_wingb
+  rotate: false
+  xy: 1803, 2
+  size: 94, 83
+  orig: 94, 83
+  offset: 0, 0
+  index: -1

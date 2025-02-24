@@ -1,0 +1,396 @@
+dragon_3016_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_thunderlips_adult_leg
+  rotate: true
+  xy: 460, 1282
+  size: 55, 40
+  orig: 55, 40
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_adult_hit
+  rotate: true
+  xy: 462, 945
+  size: 43, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_child_headyellow
+  rotate: false
+  xy: 419, 185
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_child_neck
+  rotate: false
+  xy: 444, 1212
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_critical_t2
+  rotate: false
+  xy: 212, 2
+  size: 122, 586
+  orig: 208, 602
+  offset: 42, 16
+  index: -1
+dragon_thunderlips_baby_arm1
+  rotate: false
+  xy: 354, 1531
+  size: 36, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_adult_arm1
+  rotate: true
+  xy: 444, 1166
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_child_tail
+  rotate: true
+  xy: 431, 288
+  size: 95, 68
+  orig: 95, 68
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_child_love
+  rotate: true
+  xy: 404, 840
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_adult_mouth
+  rotate: true
+  xy: 480, 666
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_baby_love
+  rotate: false
+  xy: 438, 1490
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_child_taillight
+  rotate: false
+  xy: 235, 1524
+  size: 53, 38
+  orig: 53, 40
+  offset: 0, 1
+  index: -1
+dragon_thunderlips_adult_wing2
+  rotate: false
+  xy: 355, 1457
+  size: 81, 72
+  orig: 83, 74
+  offset: 2, 0
+  index: -1
+dragon_thunderlips_baby_body
+  rotate: false
+  xy: 404, 566
+  size: 77, 59
+  orig: 77, 59
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_adult_arm3
+  rotate: false
+  xy: 462, 185
+  size: 38, 101
+  orig: 38, 101
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_critical2
+  rotate: true
+  xy: 336, 2
+  size: 215, 81
+  orig: 225, 119
+  offset: 3, 5
+  index: -1
+dragon_thunderlips_adult_neck
+  rotate: false
+  xy: 359, 1166
+  size: 83, 119
+  orig: 83, 119
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_critical_w1
+  rotate: false
+  xy: 2, 1190
+  size: 290, 332
+  orig: 308, 356
+  offset: 8, 9
+  index: -1
+dragon_thunderlips_adult_tail2
+  rotate: false
+  xy: 355, 1366
+  size: 82, 89
+  orig: 82, 89
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_adult_head2
+  rotate: true
+  xy: 462, 990
+  size: 43, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+dragon_love_effect_heart
+  rotate: false
+  xy: 141, 1524
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_baby_taillight
+  rotate: true
+  xy: 189, 1524
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_child_wing
+  rotate: false
+  xy: 404, 684
+  size: 43, 81
+  orig: 45, 81
+  offset: 2, 0
+  index: -1
+dragon_thunderlips_baby_arm2
+  rotate: true
+  xy: 480, 627
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_critical_w3
+  rotate: false
+  xy: 152, 590
+  size: 250, 314
+  orig: 308, 356
+  offset: 40, 9
+  index: -1
+dragon_thunderlips_adult_love
+  rotate: true
+  xy: 462, 900
+  size: 43, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_child_head1
+  rotate: false
+  xy: 294, 1518
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_critical_t1
+  rotate: false
+  xy: 2, 2
+  size: 208, 582
+  orig: 208, 602
+  offset: 0, 20
+  index: -1
+dragon_thunderlips_child_body
+  rotate: true
+  xy: 427, 406
+  size: 101, 59
+  orig: 101, 59
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_critical4
+  rotate: true
+  xy: 294, 1166
+  size: 179, 63
+  orig: 225, 119
+  offset: 32, 5
+  index: -1
+dragon_thunderlips_adult_body
+  rotate: true
+  xy: 294, 1347
+  size: 169, 59
+  orig: 181, 59
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_adult_green
+  rotate: false
+  xy: 359, 1287
+  size: 99, 77
+  orig: 99, 77
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_critical_t3
+  rotate: false
+  xy: 2, 586
+  size: 148, 602
+  orig: 208, 602
+  offset: 39, 0
+  index: -1
+dragon_thunderlips_critical1
+  rotate: true
+  xy: 419, 2
+  size: 181, 81
+  orig: 225, 119
+  offset: 20, 5
+  index: -1
+dragon_thunderlips_child_arm1
+  rotate: true
+  xy: 87, 1524
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_adult_wing1
+  rotate: false
+  xy: 336, 406
+  size: 89, 156
+  orig: 91, 158
+  offset: 0, 1
+  index: -1
+dragon_thunderlips_baby_tail
+  rotate: false
+  xy: 449, 684
+  size: 28, 68
+  orig: 28, 68
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_child_leg
+  rotate: true
+  xy: 462, 1125
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_critical3
+  rotate: true
+  xy: 336, 219
+  size: 185, 93
+  orig: 225, 119
+  offset: 31, 5
+  index: -1
+dragon_thunderlips_adult_damage
+  rotate: true
+  xy: 462, 1080
+  size: 43, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_adult_taillight
+  rotate: false
+  xy: 404, 627
+  size: 74, 55
+  orig: 74, 55
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_adult_head1
+  rotate: true
+  xy: 462, 1035
+  size: 43, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_adult_tail1
+  rotate: true
+  xy: 2, 1524
+  size: 39, 83
+  orig: 39, 83
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_baby_headleft
+  rotate: true
+  xy: 152, 1166
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_adult_arm2
+  rotate: true
+  xy: 404, 767
+  size: 71, 33
+  orig: 71, 35
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_child_green
+  rotate: true
+  xy: 450, 754
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_baby_mouth
+  rotate: false
+  xy: 199, 1166
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_child_arm2
+  rotate: true
+  xy: 431, 219
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_child_effect
+  rotate: false
+  xy: 460, 1339
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_baby_head2
+  rotate: true
+  xy: 439, 1366
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_baby_headright
+  rotate: true
+  xy: 439, 808
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_critical_w2
+  rotate: true
+  xy: 152, 906
+  size: 258, 308
+  orig: 308, 356
+  offset: 38, 11
+  index: -1
+dragon_thunderlips_adult_yellow
+  rotate: false
+  xy: 427, 509
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_baby_head1
+  rotate: true
+  xy: 439, 1428
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_child_head2
+  rotate: true
+  xy: 450, 840
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+dragon_thunderlips_child_mouth
+  rotate: false
+  xy: 336, 564
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1

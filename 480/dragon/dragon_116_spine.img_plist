@@ -1,0 +1,522 @@
+dragon_116_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_lmmolate_child_arm1l
+  rotate: false
+  xy: 966, 169
+  size: 29, 64
+  orig: 29, 76
+  offset: 0, 2
+  index: -1
+dragon_lmmolate_critical_s4
+  rotate: true
+  xy: 1549, 2
+  size: 113, 134
+  orig: 191, 156
+  offset: 71, 15
+  index: -1
+dragon_lmmolate_child_leg2
+  rotate: false
+  xy: 1685, 45
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_adult_arm2
+  rotate: false
+  xy: 1246, 160
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_baby_heartttttttttt
+  rotate: false
+  xy: 1631, 146
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_critical_s12
+  rotate: false
+  xy: 1177, 2
+  size: 127, 156
+  orig: 191, 156
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_critical_s8
+  rotate: true
+  xy: 2, 2
+  size: 187, 148
+  orig: 191, 156
+  offset: 3, 2
+  index: -1
+dragon_lmmolate_baby_mouth
+  rotate: false
+  xy: 1540, 146
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_baby_taill
+  rotate: false
+  xy: 1679, 177
+  size: 47, 23
+  orig: 49, 31
+  offset: 2, 2
+  index: -1
+dragon_lmmolate_child_love
+  rotate: true
+  xy: 749, 179
+  size: 73, 43
+  orig: 73, 43
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_child_arm2
+  rotate: false
+  xy: 594, 179
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_baby_body
+  rotate: true
+  xy: 1540, 177
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_critical_s1
+  rotate: true
+  xy: 1622, 187
+  size: 37, 38
+  orig: 191, 156
+  offset: 142, 15
+  index: -1
+dragon_lmmolate_adult_crieff
+  rotate: false
+  xy: 1051, 225
+  size: 37, 29
+  orig: 39, 31
+  offset: 1, 1
+  index: -1
+dragon_lmmolate_adult_foot
+  rotate: false
+  xy: 966, 235
+  size: 40, 18
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_adult_eye
+  rotate: true
+  xy: 1662, 201
+  size: 12, 14
+  orig: 52, 62
+  offset: 10, 10
+  index: -1
+dragon_lmmolate_critical_stone
+  rotate: true
+  xy: 1502, 142
+  size: 101, 36
+  orig: 101, 36
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_baby_mouthl
+  rotate: false
+  xy: 1008, 233
+  size: 41, 20
+  orig: 41, 24
+  offset: 0, 2
+  index: -1
+dragon_lmmolate_child_leg2l
+  rotate: true
+  xy: 1248, 221
+  size: 33, 50
+  orig: 43, 50
+  offset: 10, 0
+  index: -1
+dragon_lmmolate_baby_eye
+  rotate: true
+  xy: 1568, 232
+  size: 20, 18
+  orig: 60, 50
+  offset: 24, 9
+  index: -1
+dragon_lmmolate_adult_hit
+  rotate: false
+  xy: 141, 191
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_critical_s5
+  rotate: true
+  xy: 1306, 2
+  size: 145, 140
+  orig: 191, 156
+  offset: 39, 9
+  index: -1
+dragon_lmmolate_child_wing
+  rotate: true
+  xy: 498, 182
+  size: 71, 55
+  orig: 71, 55
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_child_neckl
+  rotate: true
+  xy: 1685, 97
+  size: 36, 41
+  orig: 44, 41
+  offset: 2, 0
+  index: -1
+dragon_lmmolate_adult_leg1
+  rotate: true
+  xy: 1300, 220
+  size: 34, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_baby_love
+  rotate: true
+  xy: 1142, 161
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_baby_bodyl
+  rotate: true
+  xy: 1582, 177
+  size: 47, 38
+  orig: 53, 40
+  offset: 6, 0
+  index: -1
+dragon_lmmolate_critical_s13
+  rotate: false
+  xy: 1448, 2
+  size: 99, 138
+  orig: 191, 156
+  offset: 3, 0
+  index: -1
+dragon_lmmolate_critical_s9
+  rotate: true
+  xy: 328, 2
+  size: 179, 152
+  orig: 191, 156
+  offset: 2, 3
+  index: -1
+dragon_lmmolate_child_lovel
+  rotate: false
+  xy: 1583, 146
+  size: 37, 17
+  orig: 73, 43
+  offset: 7, 0
+  index: -1
+dragon_lmmolate_child_arm2l
+  rotate: false
+  xy: 555, 182
+  size: 37, 70
+  orig: 41, 74
+  offset: 4, 0
+  index: -1
+dragon_lmmolate_child_tail
+  rotate: true
+  xy: 244, 187
+  size: 66, 47
+  orig: 66, 47
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_baby_legl
+  rotate: false
+  xy: 1138, 225
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_critical_stone2
+  rotate: false
+  xy: 1549, 117
+  size: 128, 27
+  orig: 128, 27
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_adult_loveeye
+  rotate: true
+  xy: 1662, 187
+  size: 12, 14
+  orig: 52, 62
+  offset: 10, 10
+  index: -1
+dragon_lmmolate_critical_s10
+  rotate: true
+  xy: 577, 2
+  size: 175, 150
+  orig: 191, 156
+  offset: 4, 2
+  index: -1
+dragon_lmmolate_baby_leg
+  rotate: true
+  xy: 1326, 149
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_adult_head
+  rotate: false
+  xy: 997, 169
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_child_body
+  rotate: true
+  xy: 693, 179
+  size: 73, 54
+  orig: 73, 54
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_adult_wing2
+  rotate: true
+  xy: 152, 2
+  size: 183, 86
+  orig: 183, 86
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_adult_hand
+  rotate: false
+  xy: 1588, 226
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_adult_leg2
+  rotate: false
+  xy: 1214, 222
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_baby_tail
+  rotate: false
+  xy: 1163, 223
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_critical_s2
+  rotate: false
+  xy: 884, 169
+  size: 49, 76
+  orig: 191, 156
+  offset: 132, 12
+  index: -1
+dragon_lmmolate_child_eye
+  rotate: true
+  xy: 1631, 226
+  size: 23, 17
+  orig: 73, 43
+  offset: 22, 18
+  index: -1
+dragon_lmmolate_critical_s14
+  rotate: false
+  xy: 1459, 142
+  size: 41, 102
+  orig: 191, 156
+  offset: 4, 0
+  index: -1
+dragon_lmmolate_child_note2
+  rotate: false
+  xy: 1694, 202
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_baby_head
+  rotate: true
+  xy: 1194, 160
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_adult_love
+  rotate: false
+  xy: 87, 191
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_adult_heartttt
+  rotate: false
+  xy: 1631, 146
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_critical_s6
+  rotate: true
+  xy: 873, 2
+  size: 165, 144
+  orig: 191, 156
+  offset: 16, 12
+  index: -1
+dragon_lmmolate_child_bodyl
+  rotate: true
+  xy: 637, 179
+  size: 73, 54
+  orig: 73, 54
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_adult_neck
+  rotate: false
+  xy: 2, 191
+  size: 83, 62
+  orig: 83, 62
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_critical_s11
+  rotate: true
+  xy: 1019, 2
+  size: 157, 156
+  orig: 191, 156
+  offset: 5, 0
+  index: -1
+dragon_lmmolate_child_leg1
+  rotate: false
+  xy: 1105, 161
+  size: 35, 62
+  orig: 35, 62
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_adult_att
+  rotate: false
+  xy: 1051, 161
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_adult_wing1
+  rotate: true
+  xy: 240, 2
+  size: 183, 86
+  orig: 183, 86
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_baby_arml
+  rotate: false
+  xy: 1116, 225
+  size: 20, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_adult_leg3
+  rotate: true
+  xy: 1679, 135
+  size: 40, 48
+  orig: 44, 48
+  offset: 4, 0
+  index: -1
+dragon_lmmolate_child_neck
+  rotate: false
+  xy: 1685, 2
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_child_taill
+  rotate: true
+  xy: 195, 187
+  size: 66, 47
+  orig: 66, 47
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_critical_s3
+  rotate: true
+  xy: 384, 183
+  size: 71, 112
+  orig: 191, 156
+  offset: 110, 14
+  index: -1
+dragon_lmmolate_child_note1
+  rotate: false
+  xy: 1662, 215
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_lmmolate_adult_arm1
+  rotate: true
+  xy: 293, 187
+  size: 65, 89
+  orig: 65, 89
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_child_head
+  rotate: true
+  xy: 794, 179
+  size: 73, 43
+  orig: 73, 43
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_adult_mouth
+  rotate: false
+  xy: 1540, 232
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_child_leg1l
+  rotate: false
+  xy: 1289, 160
+  size: 35, 58
+  orig: 35, 62
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_child_arm1
+  rotate: false
+  xy: 935, 169
+  size: 29, 76
+  orig: 29, 76
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_baby_arm
+  rotate: false
+  xy: 1090, 225
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_child_headl
+  rotate: true
+  xy: 1326, 174
+  size: 41, 27
+  orig: 73, 43
+  offset: 3, 0
+  index: -1
+dragon_lmmolate_adult_tail
+  rotate: true
+  xy: 482, 2
+  size: 178, 93
+  orig: 178, 93
+  offset: 0, 0
+  index: -1
+dragon_lmmolate_critical_s7
+  rotate: true
+  xy: 729, 2
+  size: 175, 142
+  orig: 191, 156
+  offset: 7, 12
+  index: -1
+dragon_lmmolate_child_wingl
+  rotate: true
+  xy: 839, 179
+  size: 65, 43
+  orig: 71, 55
+  offset: 0, 12
+  index: -1
+dragon_lmmolate_adult_body
+  rotate: true
+  xy: 1356, 149
+  size: 104, 101
+  orig: 104, 101
+  offset: 0, 0
+  index: -1

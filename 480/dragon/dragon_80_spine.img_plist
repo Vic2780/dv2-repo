@@ -1,0 +1,508 @@
+dragon_80_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_baal_child_leg9
+  rotate: false
+  xy: 80, 1469
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+dragon_baal_adult_leg4
+  rotate: false
+  xy: 16, 1385
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+dragon_baal_adult_neck3
+  rotate: true
+  xy: 80, 1444
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+dragon_baal_child_fog
+  rotate: false
+  xy: 128, 1151
+  size: 71, 27
+  orig: 71, 27
+  offset: 0, 0
+  index: -1
+dragon_baal_baby_mouse
+  rotate: true
+  xy: 169, 1440
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+dragon_baal_adult_mouse
+  rotate: true
+  xy: 236, 316
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+dragon_baal_child_leg4
+  rotate: true
+  xy: 48, 1418
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+dragon_baal_adult_head
+  rotate: true
+  xy: 210, 854
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+dragon_baal_critical_ring
+  rotate: false
+  xy: 2, 736
+  size: 217, 36
+  orig: 217, 38
+  offset: 0, 1
+  index: -1
+dragon_baal_baby_leg3
+  rotate: false
+  xy: 228, 617
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+dragon_baal_child_anger
+  rotate: false
+  xy: 203, 1484
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_baal_baby_eye3
+  rotate: true
+  xy: 236, 490
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+dragon_baal_child_wing1
+  rotate: false
+  xy: 204, 1070
+  size: 48, 85
+  orig: 48, 85
+  offset: 0, 0
+  index: -1
+dragon_baal_adult_eye2
+  rotate: true
+  xy: 116, 1062
+  size: 13, 10
+  orig: 17, 10
+  offset: 1, 0
+  index: -1
+dragon_baal_baby_smile
+  rotate: false
+  xy: 196, 1273
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_baal_child_leg8
+  rotate: false
+  xy: 228, 649
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+dragon_baal_adult_neck2
+  rotate: false
+  xy: 169, 1472
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+dragon_baal_adult_wing3
+  rotate: false
+  xy: 201, 1157
+  size: 48, 66
+  orig: 48, 66
+  offset: 0, 0
+  index: -1
+dragon_baal_critical_damaged3
+  rotate: true
+  xy: 2, 2
+  size: 281, 244
+  orig: 283, 248
+  offset: 0, 1
+  index: -1
+dragon_baal_critical_rine
+  rotate: false
+  xy: 2, 1157
+  size: 12, 350
+  orig: 12, 368
+  offset: 0, 0
+  index: -1
+dragon_baal_adult_wing8
+  rotate: true
+  xy: 210, 902
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+dragon_baal_adult_eye1
+  rotate: false
+  xy: 236, 341
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+dragon_baal_child_leg3
+  rotate: false
+  xy: 228, 571
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+dragon_baal_baby_leg4
+  rotate: true
+  xy: 236, 441
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+dragon_baal_adult_leg3
+  rotate: true
+  xy: 236, 285
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+dragon_baal_child_tail
+  rotate: true
+  xy: 126, 1353
+  size: 85, 65
+  orig: 85, 65
+  offset: 0, 0
+  index: -1
+dragon_baal_baby_body
+  rotate: true
+  xy: 210, 989
+  size: 57, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1
+dragon_baal_adult_wing2
+  rotate: true
+  xy: 129, 959
+  size: 56, 79
+  orig: 56, 79
+  offset: 0, 0
+  index: -1
+dragon_baal_critical_damaged2
+  rotate: false
+  xy: 2, 774
+  size: 206, 183
+  orig: 206, 185
+  offset: 0, 0
+  index: -1
+dragon_baal_child_neck
+  rotate: true
+  xy: 221, 742
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+dragon_baal_baby_head
+  rotate: false
+  xy: 194, 1335
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+dragon_baal_child_leg7
+  rotate: false
+  xy: 228, 686
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+dragon_baal_child_mouse
+  rotate: false
+  xy: 55, 1484
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+dragon_baal_adult_leg7
+  rotate: true
+  xy: 60, 1440
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+dragon_baal_child_head
+  rotate: true
+  xy: 200, 1225
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+dragon_baal_adult_neck6
+  rotate: false
+  xy: 210, 793
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+dragon_baal_critical_atk
+  rotate: true
+  xy: 2, 959
+  size: 101, 125
+  orig: 101, 125
+  offset: 0, 0
+  index: -1
+dragon_baal_adult_ef1
+  rotate: false
+  xy: 2, 285
+  size: 232, 224
+  orig: 232, 224
+  offset: 0, 0
+  index: -1
+dragon_baal_adult_wing7
+  rotate: true
+  xy: 127, 1244
+  size: 45, 67
+  orig: 45, 67
+  offset: 0, 0
+  index: -1
+dragon_baal_child_leg2
+  rotate: true
+  xy: 210, 1048
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+dragon_baal_baby_leg1
+  rotate: true
+  xy: 236, 384
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+dragon_baal_adult_body
+  rotate: true
+  xy: 193, 1381
+  size: 101, 60
+  orig: 101, 60
+  offset: 0, 0
+  index: -1
+dragon_baal_adult_leg2
+  rotate: false
+  xy: 16, 1440
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+dragon_baal_baby_eye1
+  rotate: true
+  xy: 103, 1444
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+dragon_baal_child_leg10
+  rotate: true
+  xy: 119, 1484
+  size: 26, 48
+  orig: 26, 48
+  offset: 0, 0
+  index: -1
+dragon_baal_adult_neck5
+  rotate: false
+  xy: 228, 719
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+dragon_baal_adult_tail
+  rotate: true
+  xy: 16, 1276
+  size: 86, 108
+  orig: 86, 108
+  offset: 0, 0
+  index: -1
+dragon_baal_child_eye2
+  rotate: false
+  xy: 236, 466
+  size: 14, 22
+  orig: 22, 24
+  offset: 3, 2
+  index: -1
+dragon_baal_child_leg6
+  rotate: true
+  xy: 16, 1484
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+dragon_baal_baby_leg5
+  rotate: true
+  xy: 236, 416
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+dragon_baal_child_wing2
+  rotate: true
+  xy: 128, 1180
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: -1
+dragon_baal_adult_leg6
+  rotate: true
+  xy: 16, 1364
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+dragon_baal_adult_neck1
+  rotate: false
+  xy: 228, 544
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+dragon_baal_child_body
+  rotate: true
+  xy: 128, 1066
+  size: 83, 74
+  orig: 83, 74
+  offset: 0, 0
+  index: -1
+dragon_baal_adult_wing6
+  rotate: true
+  xy: 129, 1017
+  size: 47, 79
+  orig: 47, 79
+  offset: 0, 0
+  index: -1
+dragon_baal_adult_leg1
+  rotate: true
+  xy: 60, 1364
+  size: 29, 56
+  orig: 29, 56
+  offset: 0, 0
+  index: -1
+dragon_baal_adult_neck4
+  rotate: false
+  xy: 48, 1395
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+dragon_baal_baby_tail
+  rotate: true
+  xy: 228, 514
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+dragon_baal_adult_wing5
+  rotate: true
+  xy: 16, 1218
+  size: 56, 109
+  orig: 56, 109
+  offset: 0, 0
+  index: -1
+dragon_baal_child_leg1
+  rotate: true
+  xy: 87, 1484
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+dragon_baal_baby_leg2
+  rotate: false
+  xy: 236, 353
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+dragon_baal_baby_eye2
+  rotate: false
+  xy: 231, 1484
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+dragon_baal_adult_leg5
+  rotate: true
+  xy: 39, 1440
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+dragon_baal_adult_twinkling
+  rotate: true
+  xy: 2, 511
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+dragon_baal_adult_wing1
+  rotate: true
+  xy: 16, 1146
+  size: 70, 110
+  orig: 70, 110
+  offset: 0, 0
+  index: -1
+dragon_baal_critical_damaged1
+  rotate: false
+  xy: 2, 1062
+  size: 112, 82
+  orig: 114, 84
+  offset: 2, 0
+  index: -1
+dragon_baal_child_leg5
+  rotate: true
+  xy: 221, 771
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+dragon_baal_child_eye1
+  rotate: false
+  xy: 64, 1418
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+dragon_baal_baby_leg6
+  rotate: true
+  xy: 169, 1493
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+dragon_baal_child_pang
+  rotate: false
+  xy: 126, 1291
+  size: 66, 60
+  orig: 68, 60
+  offset: 2, 0
+  index: -1
+dragon_baal_adult_wing4
+  rotate: true
+  xy: 80, 1395
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+dragon_baal_baby_wing
+  rotate: true
+  xy: 210, 949
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1

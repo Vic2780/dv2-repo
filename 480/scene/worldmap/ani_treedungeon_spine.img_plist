@@ -1,0 +1,18 @@
+ani_treedungeon_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+worldmap_treetouch_dust
+  rotate: false
+  xy: 165, 2
+  size: 28, 29
+  orig: 38, 37
+  offset: 3, 4
+  index: -1
+worldmap_treetouch_tree
+  rotate: true
+  xy: 2, 2
+  size: 146, 161
+  orig: 152, 187
+  offset: 0, 16
+  index: -1

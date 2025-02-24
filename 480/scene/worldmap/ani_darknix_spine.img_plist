@@ -1,0 +1,1201 @@
+ani_darknix_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+w_yu_darknix_shadow
+  rotate: false
+  xy: 416, 2
+  size: 263, 263
+  orig: 263, 263
+  offset: 0, 0
+  index: -1
+ba_stick2
+  rotate: false
+  xy: 1394, 160
+  size: 126, 129
+  orig: 126, 129
+  offset: 0, 0
+  index: -1
+dragon_darknix_adult_mouth2
+  rotate: true
+  xy: 1763, 749
+  size: 22, 16
+  orig: 52, 60
+  offset: 10, 8
+  index: -1
+ba_stick1
+  rotate: false
+  xy: 815, 527
+  size: 121, 136
+  orig: 121, 136
+  offset: 0, 0
+  index: -1
+dragon_gri_leg2b
+  rotate: true
+  xy: 919, 479
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+dragon_gri_leg2c
+  rotate: false
+  xy: 1715, 329
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+dragon_darknix_adult_leg00
+  rotate: true
+  xy: 2015, 624
+  size: 55, 27
+  orig: 59, 29
+  offset: 2, 2
+  index: -1
+dragon_gri_leg2a
+  rotate: false
+  xy: 1696, 778
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+ba_leglll2
+  rotate: false
+  xy: 2016, 702
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+ba_leglll3
+  rotate: false
+  xy: 2016, 180
+  size: 30, 57
+  orig: 30, 57
+  offset: 0, 0
+  index: -1
+w_yu_darknix_base00
+  rotate: false
+  xy: 1524, 2
+  size: 247, 174
+  orig: 335, 248
+  offset: 34, 60
+  index: -1
+ba_leglll1
+  rotate: false
+  xy: 1825, 799
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+dragon_gri_leg1fire2
+  rotate: false
+  xy: 1912, 602
+  size: 63, 48
+  orig: 63, 56
+  offset: 0, 0
+  index: -1
+dragon_gri_leg1fire3
+  rotate: true
+  xy: 1992, 525
+  size: 63, 50
+  orig: 63, 56
+  offset: 0, 0
+  index: -1
+dragon_gri_leg1fire1
+  rotate: true
+  xy: 1926, 485
+  size: 63, 56
+  orig: 63, 56
+  offset: 0, 0
+  index: -1
+dragon_gri_rrrflame1
+  rotate: true
+  xy: 938, 433
+  size: 161, 183
+  orig: 163, 185
+  offset: 2, 2
+  index: -1
+dragon_gri_rrrflame2
+  rotate: true
+  xy: 1123, 436
+  size: 159, 181
+  orig: 163, 185
+  offset: 0, 4
+  index: -1
+dragon_gri_rrrflame3
+  rotate: true
+  xy: 594, 699
+  size: 149, 185
+  orig: 163, 185
+  offset: 11, 0
+  index: -1
+dragon_gri_rwingb
+  rotate: false
+  xy: 1227, 597
+  size: 100, 98
+  orig: 100, 98
+  offset: 0, 0
+  index: -1
+dragon_gri_rwinga
+  rotate: true
+  xy: 1860, 834
+  size: 14, 34
+  orig: 14, 34
+  offset: 0, 0
+  index: -1
+dragon_gri_leg1b
+  rotate: true
+  xy: 1984, 485
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+w_yu_darknix_magmaaa
+  rotate: false
+  xy: 1306, 466
+  size: 167, 116
+  orig: 335, 248
+  offset: 81, 69
+  index: -1
+dragon_gri_body4
+  rotate: true
+  xy: 1781, 705
+  size: 53, 43
+  orig: 53, 43
+  offset: 0, 0
+  index: -1
+dragon_darknix_adult_body
+  rotate: false
+  xy: 1329, 584
+  size: 100, 76
+  orig: 100, 80
+  offset: 0, 1
+  index: -1
+w_yu_darknix_lignt02
+  rotate: true
+  xy: 1261, 2
+  size: 156, 261
+  orig: 236, 365
+  offset: 45, 11
+  index: -1
+dragon_gri_leg1c
+  rotate: false
+  xy: 1826, 669
+  size: 78, 41
+  orig: 78, 41
+  offset: 0, 0
+  index: -1
+w_yu_darknix_lignt01
+  rotate: false
+  xy: 205, 280
+  size: 198, 307
+  orig: 236, 365
+  offset: 26, 24
+  index: -1
+dragon_gri_body2
+  rotate: true
+  xy: 1926, 550
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+w_yu_darknix_lignt04
+  rotate: true
+  xy: 416, 267
+  size: 80, 212
+  orig: 122, 248
+  offset: 21, 15
+  index: -1
+dragon_gri_body5
+  rotate: true
+  xy: 1410, 724
+  size: 63, 60
+  orig: 63, 60
+  offset: 0, 0
+  index: -1
+dragon_gri_leg1a
+  rotate: false
+  xy: 1985, 787
+  size: 18, 37
+  orig: 18, 37
+  offset: 0, 0
+  index: -1
+w_yu_darknix_lignt03
+  rotate: false
+  xy: 2, 280
+  size: 201, 326
+  orig: 253, 386
+  offset: 27, 14
+  index: -1
+dragon_gri_body3
+  rotate: false
+  xy: 1358, 789
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+dragon_gri_body1
+  rotate: false
+  xy: 1480, 582
+  size: 83, 64
+  orig: 83, 64
+  offset: 0, 0
+  index: -1
+dragon_gri_rflame2
+  rotate: false
+  xy: 405, 526
+  size: 204, 170
+  orig: 208, 170
+  offset: 0, 0
+  index: -1
+ba_armlll1
+  rotate: false
+  xy: 1711, 646
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+dragon_gri_rflame3
+  rotate: false
+  xy: 938, 277
+  size: 204, 154
+  orig: 208, 170
+  offset: 4, 2
+  index: -1
+dragon_gri_body6
+  rotate: true
+  xy: 1708, 601
+  size: 43, 82
+  orig: 43, 82
+  offset: 0, 0
+  index: -1
+ba_armllll2
+  rotate: true
+  xy: 1860, 799
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+dragon_darknix_adult_head
+  rotate: false
+  xy: 1964, 704
+  size: 50, 52
+  orig: 52, 60
+  offset: 2, 7
+  index: -1
+ba_neck
+  rotate: false
+  xy: 1826, 753
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+ba_armllll3
+  rotate: false
+  xy: 1946, 436
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+ba_eye1
+  rotate: false
+  xy: 1893, 753
+  size: 7, 15
+  orig: 7, 15
+  offset: 0, 0
+  index: -1
+dragon_darknix_adult_eye
+  rotate: false
+  xy: 1376, 279
+  size: 12, 10
+  orig: 52, 60
+  offset: 14, 15
+  index: -1
+ba_eye2
+  rotate: false
+  xy: 1954, 744
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+dragon_gri_rflame1
+  rotate: false
+  xy: 611, 527
+  size: 202, 170
+  orig: 208, 170
+  offset: 0, 0
+  index: -1
+ba_eye5
+  rotate: true
+  xy: 1918, 826
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+dragon_darknix_adult_wing2
+  rotate: false
+  xy: 781, 699
+  size: 167, 149
+  orig: 167, 151
+  offset: 0, 2
+  index: -1
+dragon_darknix_adult_wing3
+  rotate: false
+  xy: 1715, 360
+  size: 188, 121
+  orig: 196, 125
+  offset: 6, 4
+  index: -1
+dragon_darknix_adult_wing1
+  rotate: true
+  xy: 950, 695
+  size: 153, 143
+  orig: 167, 151
+  offset: 12, 7
+  index: -1
+dragon_gri_rleg2b
+  rotate: true
+  xy: 405, 280
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+dragon_gri_rleg2a
+  rotate: false
+  xy: 170, 811
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+ba_ring8
+  rotate: false
+  xy: 1545, 726
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+ba_ring6
+  rotate: true
+  xy: 1631, 766
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+dragon_darknix_adult_tail
+  rotate: false
+  xy: 1083, 597
+  size: 142, 92
+  orig: 142, 94
+  offset: 0, 2
+  index: -1
+dragon_gri_rleg2c
+  rotate: false
+  xy: 1941, 821
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+ba_ring7
+  rotate: true
+  xy: 1579, 766
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+ba_ring4
+  rotate: true
+  xy: 1711, 749
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+ba_ring5
+  rotate: false
+  xy: 1667, 795
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+ba_ring2
+  rotate: true
+  xy: 1893, 773
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+ba_ring3
+  rotate: true
+  xy: 1902, 744
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+ba_head
+  rotate: true
+  xy: 1966, 656
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+ba_ring1
+  rotate: true
+  xy: 1954, 758
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+dragon_gri_tailfire2
+  rotate: true
+  xy: 1986, 2
+  size: 64, 60
+  orig: 68, 60
+  offset: 2, 0
+  index: -1
+w_yu_darknix_plusplus
+  rotate: false
+  xy: 681, 2
+  size: 263, 263
+  orig: 263, 263
+  offset: 0, 0
+  index: -1
+dragon_gri_tailfire1
+  rotate: true
+  xy: 1986, 68
+  size: 64, 60
+  orig: 68, 60
+  offset: 4, 0
+  index: -1
+dragon_gri_tailfire3
+  rotate: false
+  xy: 1474, 779
+  size: 66, 56
+  orig: 68, 60
+  offset: 0, 2
+  index: -1
+dragon_gri_rleg1b
+  rotate: false
+  xy: 1627, 795
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+dragon_gri_rleg1a
+  rotate: true
+  xy: 2015, 681
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+dragon_gri_rleg1d
+  rotate: false
+  xy: 1826, 624
+  size: 79, 43
+  orig: 79, 43
+  offset: 0, 0
+  index: -1
+dragon_darknix_adult_arm2lef
+  rotate: true
+  xy: 2016, 727
+  size: 35, 29
+  orig: 35, 33
+  offset: 0, 2
+  index: -1
+ba_tail
+  rotate: true
+  xy: 1953, 181
+  size: 173, 61
+  orig: 173, 61
+  offset: 0, 0
+  index: -1
+dragon_darknix_adult_mouthunder
+  rotate: true
+  xy: 2005, 805
+  size: 32, 36
+  orig: 52, 60
+  offset: 7, 1
+  index: -1
+ba_kkk1
+  rotate: false
+  xy: 1630, 471
+  size: 76, 108
+  orig: 76, 108
+  offset: 0, 0
+  index: -1
+ba_kkk2
+  rotate: true
+  xy: 938, 596
+  size: 97, 143
+  orig: 97, 143
+  offset: 0, 0
+  index: -1
+ba_kkk3
+  rotate: true
+  xy: 1475, 471
+  size: 109, 153
+  orig: 109, 153
+  offset: 0, 0
+  index: -1
+ba_kkk4
+  rotate: false
+  xy: 838, 267
+  size: 98, 176
+  orig: 98, 176
+  offset: 0, 0
+  index: -1
+dragon_darknix_adult_headhead
+  rotate: false
+  xy: 1422, 789
+  size: 50, 56
+  orig: 52, 60
+  offset: 2, 3
+  index: -1
+w_yu_darknix_land04
+  rotate: false
+  xy: 1347, 697
+  size: 61, 90
+  orig: 335, 248
+  offset: 170, 22
+  index: -1
+w_yu_darknix_land03
+  rotate: false
+  xy: 1642, 647
+  size: 67, 76
+  orig: 335, 248
+  offset: 118, 27
+  index: -1
+w_yu_darknix_land05
+  rotate: true
+  xy: 1480, 677
+  size: 47, 76
+  orig: 335, 248
+  offset: 97, 46
+  index: -1
+dragon_darknix_adult_att
+  rotate: false
+  xy: 1574, 712
+  size: 50, 52
+  orig: 52, 60
+  offset: 2, 7
+  index: -1
+w_yu_darknix_land01
+  rotate: false
+  xy: 946, 2
+  size: 313, 146
+  orig: 335, 248
+  offset: 7, 10
+  index: -1
+w_yu_darknix_land06
+  rotate: true
+  xy: 1711, 710
+  size: 37, 68
+  orig: 335, 248
+  offset: 225, 36
+  index: -1
+dragon_darknix_adult_leg2
+  rotate: true
+  xy: 1986, 134
+  size: 44, 60
+  orig: 50, 62
+  offset: 5, 2
+  index: -1
+w_yu_darknix_land08
+  rotate: false
+  xy: 1318, 697
+  size: 27, 92
+  orig: 335, 248
+  offset: 54, 57
+  index: -1
+dragon_darknix_adult_leg1
+  rotate: true
+  xy: 1805, 796
+  size: 42, 18
+  orig: 44, 18
+  offset: 0, 0
+  index: -1
+w_yu_darknix_land07
+  rotate: true
+  xy: 1217, 791
+  size: 57, 84
+  orig: 335, 248
+  offset: 59, 54
+  index: -1
+dragon_darknix_adult_leg4
+  rotate: false
+  xy: 2016, 239
+  size: 30, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+w_yu_darknix_land12
+  rotate: true
+  xy: 1626, 725
+  size: 39, 56
+  orig: 335, 248
+  offset: 205, 97
+  index: -1
+dragon_darknix_adult_leg3
+  rotate: true
+  xy: 1741, 778
+  size: 44, 21
+  orig: 52, 23
+  offset: 2, 2
+  index: -1
+w_yu_darknix_land09
+  rotate: true
+  xy: 815, 665
+  size: 31, 104
+  orig: 335, 248
+  offset: 39, 75
+  index: -1
+dragon_darknix_adult_arm1lef
+  rotate: false
+  xy: 2012, 397
+  size: 34, 32
+  orig: 36, 32
+  offset: 2, 0
+  index: -1
+w_yu_darknix_land14
+  rotate: true
+  xy: 1826, 591
+  size: 31, 84
+  orig: 335, 248
+  offset: 196, 80
+  index: -1
+w_yu_darknix_land13
+  rotate: true
+  xy: 1480, 648
+  size: 27, 90
+  orig: 335, 248
+  offset: 239, 84
+  index: -1
+w_yu_darknix_land15
+  rotate: false
+  xy: 1946, 360
+  size: 37, 74
+  orig: 335, 248
+  offset: 211, 109
+  index: -1
+w_yu_darknix_land10
+  rotate: true
+  xy: 1329, 662
+  size: 33, 76
+  orig: 335, 248
+  offset: 212, 54
+  index: -1
+w_yu_darknix_land11
+  rotate: true
+  xy: 1095, 813
+  size: 35, 116
+  orig: 335, 248
+  offset: 232, 32
+  index: -1
+dragon_gri_rleg1fire1
+  rotate: true
+  xy: 1303, 791
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+dragon_gri_neck
+  rotate: false
+  xy: 1565, 582
+  size: 74, 64
+  orig: 74, 64
+  offset: 0, 0
+  index: -1
+dragon_gri_rleg1fire2
+  rotate: true
+  xy: 1779, 646
+  size: 57, 45
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+w_yu_darknix_land16
+  rotate: false
+  xy: 1985, 356
+  size: 25, 74
+  orig: 335, 248
+  offset: 78, 76
+  index: -1
+dragon_gri_rleg1fire3
+  rotate: false
+  xy: 1907, 652
+  size: 57, 47
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+w_yu_darknix_land18
+  rotate: false
+  xy: 1641, 581
+  size: 65, 64
+  orig: 335, 248
+  offset: 105, 139
+  index: -1
+ba_winglll2
+  rotate: false
+  xy: 630, 267
+  size: 206, 149
+  orig: 270, 317
+  offset: 53, 163
+  index: -1
+w_yu_darknix_land17
+  rotate: false
+  xy: 1905, 360
+  size: 39, 106
+  orig: 335, 248
+  offset: 78, 75
+  index: -1
+ba_winglll1
+  rotate: false
+  xy: 1144, 279
+  size: 202, 155
+  orig: 270, 317
+  offset: 53, 162
+  index: -1
+ba_winglll4
+  rotate: false
+  xy: 205, 589
+  size: 198, 131
+  orig: 270, 317
+  offset: 19, 69
+  index: -1
+w_yu_darknix_land19
+  rotate: true
+  xy: 2, 811
+  size: 37, 130
+  orig: 335, 248
+  offset: 56, 76
+  index: -1
+ba_winglll3
+  rotate: false
+  xy: 1522, 178
+  size: 216, 111
+  orig: 270, 317
+  offset: 54, 168
+  index: -1
+dragon_gri_eye4
+  rotate: true
+  xy: 921, 665
+  size: 12, 15
+  orig: 22, 21
+  offset: 4, 4
+  index: -1
+ba_winglll6
+  rotate: false
+  xy: 406, 698
+  size: 186, 133
+  orig: 270, 317
+  offset: 54, 114
+  index: -1
+dragon_gri_eye5
+  rotate: false
+  xy: 1781, 760
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+ba_winglll5
+  rotate: false
+  xy: 2, 608
+  size: 198, 201
+  orig: 270, 317
+  offset: 0, 0
+  index: -1
+dragon_gri_eye2
+  rotate: true
+  xy: 1992, 590
+  size: 10, 11
+  orig: 22, 21
+  offset: 0, 5
+  index: -1
+dragon_gri_eye3
+  rotate: true
+  xy: 1928, 802
+  size: 12, 15
+  orig: 22, 21
+  offset: 4, 4
+  index: -1
+w_yu_darknix_land20
+  rotate: false
+  xy: 1217, 697
+  size: 99, 92
+  orig: 335, 248
+  offset: 163, 127
+  index: -1
+dragon_gri_eye1
+  rotate: false
+  xy: 1306, 584
+  size: 10, 11
+  orig: 22, 21
+  offset: 0, 5
+  index: -1
+w_yu_darknix_land21
+  rotate: true
+  xy: 1826, 712
+  size: 39, 74
+  orig: 335, 248
+  offset: 195, 151
+  index: -1
+dragon_darknix_adult_neck
+  rotate: true
+  xy: 1472, 726
+  size: 51, 71
+  orig: 55, 71
+  offset: 4, 0
+  index: -1
+ba_head2
+  rotate: false
+  xy: 1579, 799
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+ba_hhhrrr6
+  rotate: true
+  xy: 303, 831
+  size: 16, 39
+  orig: 164, 161
+  offset: 118, 35
+  index: -1
+ba_hhhrrr7
+  rotate: false
+  xy: 1888, 802
+  size: 38, 21
+  orig: 164, 161
+  offset: 126, 18
+  index: -1
+ba_hhhrrr2
+  rotate: false
+  xy: 1518, 837
+  size: 40, 11
+  orig: 164, 161
+  offset: 23, 150
+  index: -1
+ba_hhhrrr4
+  rotate: false
+  xy: 134, 811
+  size: 34, 37
+  orig: 164, 161
+  offset: 94, 116
+  index: -1
+dragon_darknix_adult_body02
+  rotate: false
+  xy: 819, 445
+  size: 98, 76
+  orig: 100, 80
+  offset: 2, 1
+  index: -1
+ba_hhhrrr3
+  rotate: true
+  xy: 611, 349
+  size: 46, 17
+  orig: 164, 161
+  offset: 56, 144
+  index: -1
+dragon_darknix_adult_arm2
+  rotate: false
+  xy: 2006, 764
+  size: 40, 39
+  orig: 44, 39
+  offset: 2, 0
+  index: -1
+ba_hhhrrr5
+  rotate: true
+  xy: 201, 831
+  size: 16, 57
+  orig: 164, 161
+  offset: 116, 68
+  index: -1
+dragon_darknix_adult_arm1
+  rotate: false
+  xy: 2012, 359
+  size: 34, 36
+  orig: 36, 36
+  offset: 2, 0
+  index: -1
+dragon_darknix_adult_arm3
+  rotate: false
+  xy: 1431, 584
+  size: 47, 82
+  orig: 55, 88
+  offset: 4, 4
+  index: -1
+ba_hhhrrr1
+  rotate: true
+  xy: 1684, 725
+  size: 34, 25
+  orig: 164, 161
+  offset: 0, 134
+  index: -1
+ba_legrrr2
+  rotate: true
+  xy: 919, 445
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+ba_legrrr3
+  rotate: false
+  xy: 1977, 602
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+ba_body2
+  rotate: true
+  xy: 1986, 432
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+w_yu_darknix_ring02
+  rotate: false
+  xy: 946, 150
+  size: 230, 125
+  orig: 246, 137
+  offset: 8, 4
+  index: -1
+ba_legrrr1
+  rotate: true
+  xy: 1768, 805
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+dragon_gri_wingb
+  rotate: false
+  xy: 1826, 483
+  size: 98, 106
+  orig: 98, 108
+  offset: 0, 2
+  index: -1
+ba_body1
+  rotate: true
+  xy: 1410, 668
+  size: 54, 68
+  orig: 54, 68
+  offset: 0, 0
+  index: -1
+ba_wingrrr2
+  rotate: true
+  xy: 1534, 291
+  size: 178, 179
+  orig: 236, 317
+  offset: 35, 138
+  index: -1
+ba_hhhlll6
+  rotate: true
+  xy: 260, 831
+  size: 14, 41
+  orig: 164, 161
+  offset: 114, 20
+  index: -1
+ba_wingrrr1
+  rotate: false
+  xy: 1348, 291
+  size: 184, 173
+  orig: 236, 317
+  offset: 28, 138
+  index: -1
+ba_wingrrr4
+  rotate: false
+  xy: 611, 418
+  size: 206, 107
+  orig: 236, 317
+  offset: 15, 69
+  index: -1
+ba_hshshs2
+  rotate: false
+  xy: 1348, 279
+  size: 26, 10
+  orig: 62, 24
+  offset: 21, 14
+  index: -1
+dragon_gri_winga
+  rotate: false
+  xy: 1969, 826
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+w_yu_darknix_ring01
+  rotate: false
+  xy: 2, 2
+  size: 412, 276
+  orig: 442, 306
+  offset: 19, 15
+  index: -1
+w_yu_darknix_smog02
+  rotate: false
+  xy: 1773, 2
+  size: 211, 177
+  orig: 295, 221
+  offset: 36, 0
+  index: -1
+ba_wingrrr3
+  rotate: false
+  xy: 1178, 160
+  size: 214, 117
+  orig: 236, 317
+  offset: 22, 146
+  index: -1
+ba_hhhlll7
+  rotate: false
+  xy: 1306, 436
+  size: 36, 25
+  orig: 164, 161
+  offset: 120, 0
+  index: -1
+ba_wingrrr6
+  rotate: false
+  xy: 202, 722
+  size: 202, 107
+  orig: 236, 317
+  offset: 31, 125
+  index: -1
+ba_hhhlll2
+  rotate: false
+  xy: 1474, 837
+  size: 42, 11
+  orig: 164, 161
+  offset: 30, 146
+  index: -1
+ba_hshshs3
+  rotate: true
+  xy: 1744, 824
+  size: 24, 22
+  orig: 62, 24
+  offset: 38, 0
+  index: -1
+ba_wingrrr5
+  rotate: false
+  xy: 405, 349
+  size: 204, 175
+  orig: 236, 317
+  offset: 0, 0
+  index: -1
+ba_hhhlll4
+  rotate: false
+  xy: 1792, 601
+  size: 32, 39
+  orig: 164, 161
+  offset: 100, 102
+  index: -1
+ba_hshshs1
+  rotate: true
+  xy: 1558, 677
+  size: 28, 12
+  orig: 62, 24
+  offset: 0, 12
+  index: -1
+ba_hhhlll3
+  rotate: false
+  xy: 1696, 827
+  size: 46, 21
+  orig: 164, 161
+  offset: 64, 133
+  index: -1
+ba_hhhlll5
+  rotate: false
+  xy: 1402, 789
+  size: 18, 59
+  orig: 164, 161
+  offset: 116, 53
+  index: -1
+w_yu_darknix_smog01
+  rotate: false
+  xy: 1740, 181
+  size: 211, 177
+  orig: 295, 221
+  offset: 54, 12
+  index: -1
+w_yu_darknix_plus02
+  rotate: false
+  xy: 1708, 483
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+ba_hhhlll1
+  rotate: true
+  xy: 1715, 291
+  size: 36, 23
+  orig: 164, 161
+  offset: 6, 134
+  index: -1
+ba_mouth2
+  rotate: true
+  xy: 2015, 590
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+ba_armrrr2
+  rotate: true
+  xy: 1805, 760
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+dragon_gri_head2
+  rotate: true
+  xy: 1906, 701
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+ba_armrrr1
+  rotate: false
+  xy: 1572, 648
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+w_yu_darknix_plus01
+  rotate: false
+  xy: 1095, 691
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ba_armrrr3
+  rotate: false
+  xy: 1945, 787
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+ba_mouth1
+  rotate: false
+  xy: 1896, 825
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+dragon_gri_head1
+  rotate: false
+  xy: 1542, 779
+  size: 35, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+dragon_gri_chin2
+  rotate: false
+  xy: 2016, 289
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+dragon_gri_chin1
+  rotate: false
+  xy: 2016, 324
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+dragon_darknix_adult_mouth1
+  rotate: true
+  xy: 819, 418
+  size: 24, 12
+  orig: 52, 60
+  offset: 10, 6
+  index: -1

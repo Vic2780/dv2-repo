@@ -1,0 +1,207 @@
+123_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_gold_arm4
+  rotate: false
+  xy: 560, 799
+  size: 81, 146
+  orig: 87, 152
+  offset: 6, 0
+  index: -1
+m_gold_gold2
+  rotate: false
+  xy: 560, 947
+  size: 181, 75
+  orig: 199, 107
+  offset: 9, 10
+  index: -1
+m_gold_groggy_arm2
+  rotate: false
+  xy: 842, 902
+  size: 92, 96
+  orig: 128, 154
+  offset: 19, 42
+  index: -1
+m_gold_groggy_leg1
+  rotate: false
+  xy: 560, 730
+  size: 83, 67
+  orig: 183, 181
+  offset: 67, 104
+  index: -1
+m_gold_groggy_wing1
+  rotate: false
+  xy: 683, 248
+  size: 324, 236
+  orig: 438, 404
+  offset: 17, 151
+  index: -1
+m_gold_groggy_box
+  rotate: true
+  xy: 414, 604
+  size: 356, 144
+  orig: 356, 178
+  offset: 0, 10
+  index: -1
+m_gold_arm3
+  rotate: true
+  xy: 560, 604
+  size: 124, 83
+  orig: 128, 89
+  offset: 3, 0
+  index: -1
+m_gold_gold3
+  rotate: true
+  xy: 2, 677
+  size: 332, 96
+  orig: 344, 134
+  offset: 2, 15
+  index: -1
+m_gold_groggy_body
+  rotate: false
+  xy: 864, 796
+  size: 105, 104
+  orig: 265, 242
+  offset: 62, 110
+  index: -1
+m_gold_leg2
+  rotate: true
+  xy: 872, 486
+  size: 156, 118
+  orig: 186, 128
+  offset: 23, 9
+  index: -1
+m_gold_body
+  rotate: false
+  xy: 430, 220
+  size: 251, 232
+  orig: 265, 242
+  offset: 14, 9
+  index: -1
+m_gold_hand1
+  rotate: false
+  xy: 717, 870
+  size: 94, 67
+  orig: 108, 81
+  offset: 7, 5
+  index: -1
+m_gold_wing1
+  rotate: false
+  xy: 2, 291
+  size: 410, 384
+  orig: 438, 404
+  offset: 18, 3
+  index: -1
+m_gold_arm2
+  rotate: false
+  xy: 872, 644
+  size: 114, 150
+  orig: 128, 154
+  offset: 12, 1
+  index: -1
+m_gold_groggy_eye
+  rotate: false
+  xy: 432, 962
+  size: 35, 40
+  orig: 35, 42
+  offset: 0, 2
+  index: -1
+m_gold_leg1
+  rotate: false
+  xy: 246, 677
+  size: 165, 173
+  orig: 183, 181
+  offset: 18, 3
+  index: -1
+m_gold_box
+  rotate: true
+  xy: 100, 677
+  size: 320, 144
+  orig: 356, 178
+  offset: 36, 10
+  index: -1
+m_gold_groggy_head
+  rotate: true
+  xy: 645, 684
+  size: 184, 217
+  orig: 202, 223
+  offset: 12, 3
+  index: -1
+m_gold_hand2
+  rotate: false
+  xy: 743, 939
+  size: 97, 61
+  orig: 121, 65
+  offset: 11, 0
+  index: -1
+m_gold_arm1
+  rotate: false
+  xy: 246, 962
+  size: 150, 60
+  orig: 164, 60
+  offset: 7, 0
+  index: -1
+m_gold_wing2
+  rotate: false
+  xy: 414, 454
+  size: 237, 148
+  orig: 251, 162
+  offset: 5, 7
+  index: -1
+m_gold_gold1
+  rotate: false
+  xy: 2, 220
+  size: 426, 69
+  orig: 436, 79
+  offset: 7, 7
+  index: -1
+m_gold_tail
+  rotate: false
+  xy: 740, 2
+  size: 268, 244
+  orig: 278, 266
+  offset: 10, 16
+  index: -1
+m_gold_groggy_tail
+  rotate: false
+  xy: 246, 852
+  size: 148, 108
+  orig: 278, 266
+  offset: 108, 77
+  index: -1
+m_gold_head
+  rotate: true
+  xy: 653, 486
+  size: 196, 217
+  orig: 202, 223
+  offset: 0, 3
+  index: -1
+m_gold_groggy_wing2
+  rotate: true
+  xy: 643, 870
+  size: 74, 72
+  orig: 438, 404
+  offset: 163, 290
+  index: -1
+m_gold_groggy_leg2
+  rotate: false
+  xy: 398, 962
+  size: 32, 48
+  orig: 186, 128
+  offset: 41, 70
+  index: -1
+m_gold_eye
+  rotate: false
+  xy: 469, 962
+  size: 35, 40
+  orig: 35, 42
+  offset: 0, 2
+  index: -1
+m_gold_light
+  rotate: false
+  xy: 2, 2
+  size: 736, 216
+  orig: 768, 220
+  offset: 32, 4
+  index: -1

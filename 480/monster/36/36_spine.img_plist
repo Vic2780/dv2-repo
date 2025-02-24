@@ -1,0 +1,347 @@
+36_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_darknix_eye
+  rotate: false
+  xy: 1007, 1603
+  size: 24, 50
+  orig: 24, 50
+  offset: 0, 0
+  index: -1
+m_darknix_groggyarm3
+  rotate: false
+  xy: 1007, 1544
+  size: 44, 57
+  orig: 44, 57
+  offset: 0, 0
+  index: -1
+m_darknix_groggybody2
+  rotate: false
+  xy: 698, 1769
+  size: 110, 36
+  orig: 110, 36
+  offset: 0, 0
+  index: -1
+m_darknix_stone12
+  rotate: false
+  xy: 698, 1525
+  size: 116, 242
+  orig: 116, 242
+  offset: 0, 0
+  index: -1
+m_darknix_groggytail1
+  rotate: true
+  xy: 497, 1822
+  size: 212, 152
+  orig: 212, 152
+  offset: 0, 0
+  index: -1
+m_darknix_groggymouth
+  rotate: false
+  xy: 1004, 441
+  size: 117, 100
+  orig: 117, 100
+  offset: 0, 0
+  index: -1
+m_darknix_handlight2
+  rotate: false
+  xy: 871, 687
+  size: 123, 174
+  orig: 125, 182
+  offset: 1, 7
+  index: -1
+m_darknix_tail2
+  rotate: true
+  xy: 1004, 2
+  size: 437, 109
+  orig: 437, 109
+  offset: 0, 0
+  index: -1
+m_darknix_groggystone4
+  rotate: true
+  xy: 818, 863
+  size: 107, 176
+  orig: 107, 176
+  offset: 0, 0
+  index: -1
+m_darknix_groggyeffect
+  rotate: false
+  xy: 2, 2
+  size: 665, 678
+  orig: 665, 678
+  offset: 0, 0
+  index: -1
+m_darknix_wing3
+  rotate: true
+  xy: 2, 1001
+  size: 596, 264
+  orig: 596, 264
+  offset: 0, 0
+  index: -1
+m_darknix_smoke2
+  rotate: false
+  xy: 572, 687
+  size: 297, 150
+  orig: 299, 152
+  offset: 1, 0
+  index: -1
+m_darknix_leg1
+  rotate: true
+  xy: 909, 1148
+  size: 86, 143
+  orig: 86, 143
+  offset: 0, 0
+  index: -1
+m_darknix_arm3
+  rotate: true
+  xy: 930, 1236
+  size: 173, 167
+  orig: 173, 167
+  offset: 0, 0
+  index: -1
+m_darknix_head
+  rotate: true
+  xy: 273, 1789
+  size: 144, 222
+  orig: 144, 222
+  offset: 0, 0
+  index: -1
+m_darknix_eyelight
+  rotate: true
+  xy: 930, 1411
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+m_darknix_groggyneck
+  rotate: false
+  xy: 741, 1249
+  size: 187, 207
+  orig: 191, 207
+  offset: 1, 0
+  index: -1
+m_darknix_foot2
+  rotate: false
+  xy: 1034, 972
+  size: 86, 149
+  orig: 86, 149
+  offset: 0, 0
+  index: -1
+m_darknix_mouth
+  rotate: true
+  xy: 1054, 1123
+  size: 77, 69
+  orig: 77, 69
+  offset: 0, 0
+  index: -1
+m_darknix_stone11
+  rotate: false
+  xy: 2, 1599
+  size: 269, 335
+  orig: 269, 335
+  offset: 0, 0
+  index: -1
+m_darknix_body1
+  rotate: false
+  xy: 273, 1508
+  size: 238, 279
+  orig: 238, 279
+  offset: 0, 0
+  index: -1
+m_darknix_groggystone2
+  rotate: false
+  xy: 997, 1723
+  size: 110, 149
+  orig: 110, 149
+  offset: 0, 0
+  index: -1
+m_darknix_teeth
+  rotate: true
+  xy: 1004, 2016
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+m_darknix_groggyeye
+  rotate: false
+  xy: 1053, 1544
+  size: 26, 39
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+m_darknix_wing1
+  rotate: false
+  xy: 2, 682
+  size: 568, 317
+  orig: 568, 317
+  offset: 0, 0
+  index: -1
+m_darknix_leg2
+  rotate: true
+  xy: 356, 1935
+  size: 86, 123
+  orig: 86, 123
+  offset: 0, 0
+  index: -1
+m_darknix_arm4
+  rotate: false
+  xy: 829, 1723
+  size: 166, 195
+  orig: 166, 207
+  offset: 0, 12
+  index: -1
+m_darknix_arm1
+  rotate: false
+  xy: 651, 1822
+  size: 176, 205
+  orig: 176, 205
+  offset: 0, 0
+  index: -1
+m_darknix_groggytail2
+  rotate: false
+  xy: 741, 1458
+  size: 197, 61
+  orig: 197, 61
+  offset: 0, 0
+  index: -1
+m_darknix_light
+  rotate: true
+  xy: 528, 1001
+  size: 522, 211
+  orig: 522, 211
+  offset: 0, 0
+  index: -1
+m_darknix_neck
+  rotate: false
+  xy: 1000, 543
+  size: 134, 200
+  orig: 134, 200
+  offset: 0, 0
+  index: -1
+m_darknix_tail1
+  rotate: true
+  xy: 513, 1525
+  size: 295, 183
+  orig: 295, 183
+  offset: 0, 0
+  index: -1
+m_darknix_groggystone5
+  rotate: false
+  xy: 1004, 1874
+  size: 109, 140
+  orig: 109, 140
+  offset: 0, 0
+  index: -1
+m_darknix_groggyarm2
+  rotate: false
+  xy: 173, 1936
+  size: 101, 92
+  orig: 101, 92
+  offset: 0, 0
+  index: -1
+m_darknix_groggyeyelight2
+  rotate: false
+  xy: 1115, 2
+  size: 17, 79
+  orig: 17, 79
+  offset: 0, 0
+  index: -1
+m_darknix_wing4
+  rotate: true
+  xy: 669, 2
+  size: 539, 333
+  orig: 539, 333
+  offset: 0, 0
+  index: -1
+m_darknix_arm2
+  rotate: true
+  xy: 572, 839
+  size: 146, 244
+  orig: 146, 244
+  offset: 0, 0
+  index: -1
+m_darknix_foot1
+  rotate: false
+  xy: 1007, 1411
+  size: 111, 131
+  orig: 111, 131
+  offset: 0, 0
+  index: -1
+m_darknix_groggystone3
+  rotate: true
+  xy: 829, 1920
+  size: 107, 173
+  orig: 107, 173
+  offset: 0, 0
+  index: -1
+m_darknix_groggyeyelight1
+  rotate: true
+  xy: 1054, 1202
+  size: 17, 80
+  orig: 17, 80
+  offset: 0, 0
+  index: -1
+m_darknix_groggyarm4
+  rotate: true
+  xy: 996, 897
+  size: 73, 108
+  orig: 75, 110
+  offset: 0, 2
+  index: -1
+m_darknix_groggybody1
+  rotate: false
+  xy: 2, 1936
+  size: 169, 98
+  orig: 169, 98
+  offset: 0, 0
+  index: -1
+m_darknix_smoke1
+  rotate: true
+  xy: 741, 987
+  size: 260, 166
+  orig: 272, 170
+  offset: 9, 0
+  index: -1
+m_darknix_stone2
+  rotate: false
+  xy: 669, 543
+  size: 329, 142
+  orig: 329, 142
+  offset: 0, 0
+  index: -1
+m_darknix_groggyarm1
+  rotate: false
+  xy: 276, 1935
+  size: 78, 99
+  orig: 78, 99
+  offset: 0, 0
+  index: -1
+m_darknix_handlight1
+  rotate: false
+  xy: 909, 972
+  size: 123, 174
+  orig: 125, 182
+  offset: 2, 8
+  index: -1
+m_darknix_body2
+  rotate: true
+  xy: 816, 1521
+  size: 200, 189
+  orig: 200, 189
+  offset: 0, 0
+  index: -1
+m_darknix_groggystone1
+  rotate: false
+  xy: 996, 745
+  size: 129, 150
+  orig: 129, 150
+  offset: 0, 0
+  index: -1
+m_darknix_wing2
+  rotate: true
+  xy: 268, 1001
+  size: 505, 258
+  orig: 505, 260
+  offset: 0, 2
+  index: -1

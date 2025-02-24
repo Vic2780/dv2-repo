@@ -1,0 +1,39 @@
+light_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+u_village_light_book
+  rotate: false
+  xy: 2, 2
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+u_village_light_yellowring
+  rotate: true
+  xy: 72, 2
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+u_village_light_twinkle
+  rotate: false
+  xy: 39, 35
+  size: 15, 16
+  orig: 15, 18
+  offset: 0, 2
+  index: -1
+u_village_light_yellowbig
+  rotate: false
+  xy: 39, 2
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+u_village_light_white
+  rotate: false
+  xy: 72, 32
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1

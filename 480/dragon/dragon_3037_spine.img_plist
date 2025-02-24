@@ -1,0 +1,319 @@
+dragon_3037_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_naga_baby_tail
+  rotate: false
+  xy: 382, 187
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+dragon_naga_adult_neck
+  rotate: false
+  xy: 267, 108
+  size: 92, 89
+  orig: 92, 89
+  offset: 0, 0
+  index: -1
+dragon_naga_baby_love
+  rotate: true
+  xy: 392, 276
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+dragon_naga_child_love02
+  rotate: false
+  xy: 449, 197
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_naga_baby_arm1
+  rotate: true
+  xy: 455, 425
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+dragon_naga_baby_mouth
+  rotate: false
+  xy: 123, 376
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+dragon_naga_child_eye
+  rotate: false
+  xy: 442, 449
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+dragon_naga_child_tail2
+  rotate: false
+  xy: 338, 199
+  size: 42, 75
+  orig: 42, 75
+  offset: 0, 0
+  index: -1
+dragon_naga_adult_mouth
+  rotate: false
+  xy: 254, 449
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+dragon_naga_child_arm3
+  rotate: false
+  xy: 351, 405
+  size: 50, 23
+  orig: 50, 23
+  offset: 0, 0
+  index: -1
+dragon_naga_adult_arm2
+  rotate: true
+  xy: 351, 341
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1
+dragon_naga_adult_damaged
+  rotate: true
+  xy: 467, 132
+  size: 63, 40
+  orig: 63, 40
+  offset: 0, 0
+  index: -1
+dragon_naga_child_arm1
+  rotate: true
+  xy: 202, 449
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+dragon_naga_child_tail1
+  rotate: true
+  xy: 456, 337
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+dragon_naga_child_mouth
+  rotate: false
+  xy: 157, 449
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+dragon_naga_adult_tail2
+  rotate: true
+  xy: 424, 108
+  size: 77, 41
+  orig: 77, 41
+  offset: 0, 0
+  index: -1
+dragon_naga_adult_body2
+  rotate: false
+  xy: 361, 108
+  size: 61, 77
+  orig: 61, 77
+  offset: 0, 0
+  index: -1
+dragon_naga_adult_love
+  rotate: true
+  xy: 467, 2
+  size: 63, 40
+  orig: 63, 40
+  offset: 0, 0
+  index: -1
+dragon_naga_adult_arm1
+  rotate: false
+  xy: 114, 406
+  size: 41, 70
+  orig: 41, 70
+  offset: 0, 0
+  index: -1
+dragon_naga_adult_note2
+  rotate: false
+  xy: 293, 435
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_naga_baby_heart
+  rotate: false
+  xy: 451, 296
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_naga_baby_head
+  rotate: true
+  xy: 397, 338
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+dragon_naga_baby_arm2
+  rotate: true
+  xy: 402, 449
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+dragon_naga_baby_body
+  rotate: true
+  xy: 403, 400
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+dragon_naga_adult_tail1
+  rotate: true
+  xy: 226, 379
+  size: 68, 65
+  orig: 68, 65
+  offset: 0, 0
+  index: -1
+dragon_naga_adult_body1
+  rotate: false
+  xy: 267, 2
+  size: 119, 104
+  orig: 119, 104
+  offset: 0, 0
+  index: -1
+dragon_naga_child_body2
+  rotate: false
+  xy: 2, 406
+  size: 110, 60
+  orig: 110, 60
+  offset: 0, 0
+  index: -1
+dragon_naga_adult_eye
+  rotate: false
+  xy: 361, 187
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+dragon_naga_baby_neck
+  rotate: false
+  xy: 157, 376
+  size: 67, 71
+  orig: 67, 71
+  offset: 0, 0
+  index: -1
+dragon_naga_adult_head
+  rotate: true
+  xy: 467, 67
+  size: 63, 40
+  orig: 63, 40
+  offset: 0, 0
+  index: -1
+dragon_naga_adult_arm4
+  rotate: true
+  xy: 366, 430
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+dragon_naga_critical
+  rotate: false
+  xy: 2, 2
+  size: 263, 296
+  orig: 263, 296
+  offset: 0, 0
+  index: -1
+dragon_naga_adult_note1
+  rotate: true
+  xy: 456, 393
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_naga_adult_downbody
+  rotate: false
+  xy: 2, 300
+  size: 119, 104
+  orig: 119, 104
+  offset: 0, 0
+  index: -1
+dragon_naga_child_head
+  rotate: true
+  xy: 293, 356
+  size: 77, 56
+  orig: 77, 56
+  offset: 0, 0
+  index: -1
+dragon_naga_adult_tail4
+  rotate: false
+  xy: 451, 259
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+dragon_naga_child_body1
+  rotate: false
+  xy: 267, 199
+  size: 69, 76
+  orig: 69, 76
+  offset: 0, 0
+  index: -1
+dragon_naga_adult_arm3
+  rotate: true
+  xy: 330, 435
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dragon_naga_child_neck
+  rotate: false
+  xy: 388, 2
+  size: 77, 104
+  orig: 77, 104
+  offset: 0, 0
+  index: -1
+dragon_naga_baby_eye
+  rotate: false
+  xy: 267, 277
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_naga_adult_attack
+  rotate: true
+  xy: 350, 276
+  size: 63, 40
+  orig: 63, 40
+  offset: 0, 0
+  index: -1
+dragon_naga_child_arm2
+  rotate: false
+  xy: 382, 252
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+dragon_naga_child_love01
+  rotate: true
+  xy: 292, 277
+  size: 77, 56
+  orig: 77, 56
+  offset: 0, 0
+  index: -1
+dragon_naga_adult_tail3
+  rotate: false
+  xy: 236, 300
+  size: 54, 77
+  orig: 54, 77
+  offset: 0, 0
+  index: -1
+dragon_naga_adult_body3
+  rotate: false
+  xy: 123, 300
+  size: 111, 74
+  orig: 111, 74
+  offset: 0, 0
+  index: -1

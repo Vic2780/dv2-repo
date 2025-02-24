@@ -1,0 +1,207 @@
+32_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_btreeu_flower7
+  rotate: true
+  xy: 562, 159
+  size: 94, 68
+  orig: 170, 108
+  offset: 43, 18
+  index: -1
+m_btreeu_flower3
+  rotate: true
+  xy: 1152, 156
+  size: 97, 66
+  orig: 113, 80
+  offset: 5, 13
+  index: -1
+m_btreeu_body1
+  rotate: false
+  xy: 92, 2
+  size: 287, 215
+  orig: 291, 231
+  offset: 0, 12
+  index: -1
+m_btreeu_groggyflower4
+  rotate: false
+  xy: 1220, 156
+  size: 72, 89
+  orig: 92, 107
+  offset: 15, 10
+  index: -1
+m_btreeu_groggymause
+  rotate: false
+  xy: 173, 219
+  size: 69, 25
+  orig: 89, 41
+  offset: 8, 5
+  index: -1
+m_btreeu_groggyarm1
+  rotate: false
+  xy: 312, 219
+  size: 18, 19
+  orig: 40, 49
+  offset: 11, 14
+  index: -1
+m_btreeu_groggybody1
+  rotate: false
+  xy: 853, 2
+  size: 297, 123
+  orig: 299, 137
+  offset: 0, 0
+  index: -1
+m_btreeu_flower4
+  rotate: false
+  xy: 381, 159
+  size: 71, 95
+  orig: 85, 113
+  offset: 10, 12
+  index: -1
+m_btreeu_body2
+  rotate: false
+  xy: 1152, 79
+  size: 274, 75
+  orig: 284, 87
+  offset: 9, 9
+  index: -1
+m_btreeu_groggyflower1
+  rotate: false
+  xy: 1428, 47
+  size: 46, 42
+  orig: 60, 70
+  offset: 2, 15
+  index: -1
+m_btreeu_groggyhair
+  rotate: false
+  xy: 821, 132
+  size: 120, 122
+  orig: 146, 142
+  offset: 13, 7
+  index: -1
+m_btreeu_groggyflower5
+  rotate: true
+  xy: 722, 150
+  size: 104, 97
+  orig: 114, 113
+  offset: 5, 6
+  index: -1
+m_btreeu_mause
+  rotate: false
+  xy: 244, 219
+  size: 66, 23
+  orig: 74, 43
+  offset: 3, 12
+  index: -1
+m_btreeu_arm1
+  rotate: false
+  xy: 135, 219
+  size: 36, 33
+  orig: 50, 55
+  offset: 6, 11
+  index: -1
+m_btreeu_groggyeye
+  rotate: false
+  xy: 381, 2
+  size: 260, 155
+  orig: 272, 185
+  offset: 0, 12
+  index: -1
+m_btreeu_flower1
+  rotate: false
+  xy: 1428, 2
+  size: 49, 43
+  orig: 57, 59
+  offset: 3, 11
+  index: -1
+m_btreeu_flower5
+  rotate: true
+  xy: 1052, 127
+  size: 105, 98
+  orig: 131, 108
+  offset: 17, 8
+  index: -1
+m_btreeu_light1
+  rotate: false
+  xy: 1428, 91
+  size: 43, 40
+  orig: 47, 42
+  offset: 0, 1
+  index: -1
+m_btreeu_groggybody2
+  rotate: false
+  xy: 1152, 2
+  size: 274, 75
+  orig: 284, 87
+  offset: 9, 9
+  index: -1
+m_btreeu_groggyflower2
+  rotate: false
+  xy: 1294, 156
+  size: 84, 85
+  orig: 98, 97
+  offset: 11, 7
+  index: -1
+m_btreeu_groggyflower6
+  rotate: true
+  xy: 943, 127
+  size: 111, 107
+  orig: 131, 125
+  offset: 14, 17
+  index: -1
+m_btreeu_arm2
+  rotate: false
+  xy: 92, 219
+  size: 41, 35
+  orig: 61, 61
+  offset: 14, 11
+  index: -1
+m_btreeu_hair
+  rotate: true
+  xy: 733, 2
+  size: 128, 118
+  orig: 146, 142
+  offset: 1, 7
+  index: -1
+m_btreeu_flower6
+  rotate: true
+  xy: 454, 159
+  size: 94, 106
+  orig: 118, 112
+  offset: 12, 1
+  index: -1
+m_btreeu_eye
+  rotate: true
+  xy: 2, 2
+  size: 239, 88
+  orig: 249, 104
+  offset: 7, 11
+  index: -1
+m_btreeu_flower2
+  rotate: false
+  xy: 632, 159
+  size: 88, 89
+  orig: 114, 101
+  offset: 14, 6
+  index: -1
+m_btreeu_groggyflower3
+  rotate: false
+  xy: 1380, 156
+  size: 101, 60
+  orig: 113, 80
+  offset: 4, 13
+  index: -1
+m_btreeu_groggyflower7
+  rotate: true
+  xy: 643, 2
+  size: 146, 88
+  orig: 170, 108
+  offset: 14, 11
+  index: -1
+m_btreeu_groggyarm2
+  rotate: false
+  xy: 2, 243
+  size: 13, 11
+  orig: 45, 43
+  offset: 19, 19
+  index: -1

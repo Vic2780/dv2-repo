@@ -1,0 +1,550 @@
+dragon_4026_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_toly_adult_eye3
+  rotate: true
+  xy: 224, 636
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_r_leg2b
+  rotate: true
+  xy: 179, 655
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_r_leg1b
+  rotate: false
+  xy: 127, 660
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+dragon_toly_baby_smile
+  rotate: false
+  xy: 141, 233
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_toly_child_body
+  rotate: false
+  xy: 190, 159
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+dragon_toly_baby_ear1
+  rotate: false
+  xy: 216, 655
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_back2
+  rotate: true
+  xy: 115, 517
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1
+dragon_toly_baby_head2
+  rotate: false
+  xy: 212, 291
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+dragon_toly_baby_eye
+  rotate: true
+  xy: 162, 612
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_r_ear
+  rotate: true
+  xy: 141, 295
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+dragon_toly_baby_ear2
+  rotate: true
+  xy: 224, 611
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+dragon_toly_child_leg3
+  rotate: true
+  xy: 102, 439
+  size: 23, 57
+  orig: 23, 57
+  offset: 0, 0
+  index: -1
+dragon_toly_baby_leg3
+  rotate: false
+  xy: 230, 545
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_l_leg2c
+  rotate: true
+  xy: 212, 371
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_eye2
+  rotate: true
+  xy: 242, 615
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_r_leg2a
+  rotate: true
+  xy: 211, 430
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_r_leg1a
+  rotate: true
+  xy: 204, 493
+  size: 20, 50
+  orig: 20, 50
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_banda
+  rotate: false
+  xy: 241, 658
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+dragon_toly_child_chin
+  rotate: false
+  xy: 200, 545
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+dragon_toly_child_ear
+  rotate: true
+  xy: 201, 583
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+dragon_toly_baby_tail
+  rotate: false
+  xy: 108, 589
+  size: 49, 21
+  orig: 49, 21
+  offset: 0, 0
+  index: -1
+dragon_toly_child_body2
+  rotate: true
+  xy: 72, 474
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_tail2
+  rotate: false
+  xy: 2, 380
+  size: 73, 92
+  orig: 73, 92
+  offset: 0, 0
+  index: -1
+dragon_toly_baby_body
+  rotate: false
+  xy: 2, 474
+  size: 68, 85
+  orig: 68, 85
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_whistle1
+  rotate: true
+  xy: 166, 655
+  size: 33, 11
+  orig: 33, 11
+  offset: 0, 0
+  index: -1
+dragon_toly_child_leg2
+  rotate: false
+  xy: 77, 380
+  size: 23, 69
+  orig: 23, 69
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_l_leg1c
+  rotate: true
+  xy: 185, 612
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_l_leg2b
+  rotate: true
+  xy: 233, 574
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+dragon_toly_child_back2
+  rotate: false
+  xy: 131, 612
+  size: 16, 46
+  orig: 16, 46
+  offset: 0, 0
+  index: -1
+dragon_toly_baby_eye2
+  rotate: true
+  xy: 145, 546
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_back1
+  rotate: false
+  xy: 2, 305
+  size: 100, 73
+  orig: 100, 73
+  offset: 0, 0
+  index: -1
+dragon_toly_child_eye3
+  rotate: false
+  xy: 197, 559
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_back1b
+  rotate: false
+  xy: 166, 350
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+dragon_toly_baby_head
+  rotate: false
+  xy: 161, 466
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_neck
+  rotate: true
+  xy: 166, 295
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+dragon_toly_baby_leg4
+  rotate: true
+  xy: 72, 528
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_eye5
+  rotate: false
+  xy: 243, 371
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_back5
+  rotate: false
+  xy: 141, 166
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_r_leg2d
+  rotate: true
+  xy: 209, 612
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_whistle2
+  rotate: true
+  xy: 149, 612
+  size: 41, 11
+  orig: 41, 11
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_l_leg1b
+  rotate: false
+  xy: 168, 552
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+dragon_toly_child_eye2
+  rotate: false
+  xy: 197, 672
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_body2
+  rotate: true
+  xy: 48, 561
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+dragon_toly_child_head
+  rotate: true
+  xy: 115, 464
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+dragon_toly_child_leg1
+  rotate: true
+  xy: 2, 664
+  size: 25, 74
+  orig: 25, 74
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_smoke1
+  rotate: false
+  xy: 102, 390
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_eye4
+  rotate: true
+  xy: 242, 600
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_back4
+  rotate: true
+  xy: 204, 466
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+dragon_toly_baby_eye3
+  rotate: false
+  xy: 212, 340
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_note2
+  rotate: false
+  xy: 108, 546
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_toly_child_note2
+  rotate: false
+  xy: 108, 546
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_cri2
+  rotate: false
+  xy: 2, 166
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_l_ear
+  rotate: true
+  xy: 241, 641
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_band
+  rotate: false
+  xy: 226, 456
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+dragon_toly_child_tail
+  rotate: true
+  xy: 2, 561
+  size: 101, 44
+  orig: 101, 44
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_l_leg2a
+  rotate: true
+  xy: 48, 622
+  size: 36, 59
+  orig: 36, 59
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_tail
+  rotate: true
+  xy: 166, 2
+  size: 73, 88
+  orig: 73, 88
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_eye
+  rotate: true
+  xy: 242, 628
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_whistle3
+  rotate: false
+  xy: 109, 377
+  size: 55, 11
+  orig: 55, 11
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_head
+  rotate: false
+  xy: 211, 393
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_l_leg2d
+  rotate: true
+  xy: 217, 583
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+dragon_toly_baby_leg1
+  rotate: false
+  xy: 109, 612
+  size: 20, 46
+  orig: 20, 46
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_r_leg2c
+  rotate: false
+  xy: 197, 650
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_cri1
+  rotate: false
+  xy: 2, 2
+  size: 162, 162
+  orig: 162, 162
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_body1
+  rotate: false
+  xy: 166, 77
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_r_leg1c
+  rotate: false
+  xy: 159, 592
+  size: 40, 18
+  orig: 40, 18
+  offset: 0, 0
+  index: -1
+dragon_toly_child_neck
+  rotate: true
+  xy: 200, 223
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+dragon_toly_child_leg4
+  rotate: true
+  xy: 200, 269
+  size: 20, 54
+  orig: 20, 54
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_l_leg1a
+  rotate: true
+  xy: 78, 660
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_smoke2
+  rotate: false
+  xy: 157, 393
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+dragon_toly_baby_leg2
+  rotate: true
+  xy: 161, 439
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_back3
+  rotate: true
+  xy: 200, 515
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_chin
+  rotate: true
+  xy: 77, 451
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_note1
+  rotate: false
+  xy: 168, 512
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_toly_child_note1
+  rotate: false
+  xy: 168, 512
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_toly_child_back
+  rotate: true
+  xy: 104, 305
+  size: 70, 60
+  orig: 70, 60
+  offset: 0, 0
+  index: -1
+dragon_toly_adult_bandb
+  rotate: true
+  xy: 209, 456
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+dragon_toly_child_eye
+  rotate: false
+  xy: 219, 671
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1

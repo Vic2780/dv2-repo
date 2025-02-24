@@ -1,0 +1,396 @@
+167_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_duma_earing
+  rotate: false
+  xy: 236, 51
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+m_duma_neck_acc
+  rotate: true
+  xy: 2, 608
+  size: 119, 182
+  orig: 119, 182
+  offset: 0, 0
+  index: -1
+m_duma_gro_hair2
+  rotate: false
+  xy: 157, 1130
+  size: 83, 74
+  orig: 83, 74
+  offset: 0, 0
+  index: -1
+m_duma_neck_p
+  rotate: false
+  xy: 110, 2009
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+m_duma_eye0
+  rotate: true
+  xy: 215, 1859
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: 1
+m_duma_gro_arm11_l
+  rotate: true
+  xy: 160, 795
+  size: 124, 92
+  orig: 124, 92
+  offset: 0, 0
+  index: -1
+m_duma_eye0_bg
+  rotate: false
+  xy: 136, 1936
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+m_duma_ring_acc2
+  rotate: true
+  xy: 157, 1108
+  size: 20, 89
+  orig: 20, 89
+  offset: 0, 0
+  index: -1
+m_duma_body_acc1
+  rotate: false
+  xy: 157, 1051
+  size: 89, 55
+  orig: 89, 55
+  offset: 0, 0
+  index: -1
+m_duma_body_acc22
+  rotate: false
+  xy: 156, 1307
+  size: 82, 76
+  orig: 82, 78
+  offset: 0, 1
+  index: -1
+m_duma_finger4
+  rotate: false
+  xy: 60, 2002
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+m_duma_body1
+  rotate: true
+  xy: 2, 2
+  size: 211, 232
+  orig: 211, 282
+  offset: 0, 50
+  index: -1
+m_duma_finger1
+  rotate: true
+  xy: 222, 344
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+m_duma_mouth
+  rotate: false
+  xy: 159, 921
+  size: 92, 55
+  orig: 104, 69
+  offset: 1, 13
+  index: -1
+m_duma_hand2
+  rotate: false
+  xy: 188, 520
+  size: 59, 47
+  orig: 59, 47
+  offset: 0, 0
+  index: -1
+m_duma_ring_acc
+  rotate: false
+  xy: 188, 445
+  size: 61, 73
+  orig: 61, 73
+  offset: 0, 0
+  index: -1
+m_duma_hair
+  rotate: true
+  xy: 144, 1456
+  size: 134, 105
+  orig: 146, 109
+  offset: 0, 4
+  index: -1
+m_duma_arm2_acc
+  rotate: true
+  xy: 2, 1899
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+m_duma_arm2_acc2
+  rotate: false
+  xy: 188, 375
+  size: 32, 42
+  orig: 34, 44
+  offset: 2, 2
+  index: -1
+m_duma_gro_body1
+  rotate: true
+  xy: 2, 729
+  size: 101, 156
+  orig: 211, 282
+  offset: 52, 0
+  index: -1
+m_duma_finger66
+  rotate: true
+  xy: 234, 215
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+m_duma_gro_neckacc
+  rotate: true
+  xy: 157, 978
+  size: 71, 94
+  orig: 119, 182
+  offset: 6, 24
+  index: -1
+m_duma_body_acc11
+  rotate: true
+  xy: 186, 612
+  size: 181, 66
+  orig: 181, 66
+  offset: 0, 0
+  index: -1
+m_duma_neck_eff
+  rotate: true
+  xy: 60, 1899
+  size: 49, 50
+  orig: 59, 58
+  offset: 4, 5
+  index: -1
+m_duma_arm1
+  rotate: false
+  xy: 130, 1667
+  size: 120, 113
+  orig: 120, 113
+  offset: 0, 0
+  index: -1
+m_duma_neck_p2
+  rotate: false
+  xy: 222, 299
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+m_duma_finger2
+  rotate: true
+  xy: 2, 2014
+  size: 31, 56
+  orig: 31, 56
+  offset: 0, 0
+  index: -1
+m_duma_hand1
+  rotate: false
+  xy: 2, 1937
+  size: 43, 75
+  orig: 45, 75
+  offset: 0, 0
+  index: -1
+m_duma_gro_band
+  rotate: true
+  xy: 215, 1897
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+m_duma_gro_head
+  rotate: false
+  xy: 2, 1359
+  size: 144, 68
+  orig: 184, 180
+  offset: 18, 108
+  index: -1
+m_duma_gro_hair
+  rotate: false
+  xy: 2, 1429
+  size: 140, 109
+  orig: 146, 109
+  offset: 6, 0
+  index: -1
+m_duma_gro_eye
+  rotate: false
+  xy: 2, 1281
+  size: 152, 76
+  orig: 184, 180
+  offset: 22, 29
+  index: -1
+m_duma_effect2
+  rotate: false
+  xy: 2, 215
+  size: 230, 82
+  orig: 234, 86
+  offset: 2, 2
+  index: -1
+m_duma_eye0
+  rotate: true
+  xy: 188, 419
+  size: 24, 62
+  orig: 184, 180
+  offset: 74, 56
+  index: -1
+m_duma_head
+  rotate: false
+  xy: 2, 375
+  size: 184, 180
+  orig: 184, 180
+  offset: 0, 0
+  index: -1
+m_duma_arm11
+  rotate: false
+  xy: 2, 832
+  size: 155, 131
+  orig: 155, 131
+  offset: 0, 0
+  index: -1
+m_duma_eff1
+  rotate: false
+  xy: 2, 557
+  size: 184, 49
+  orig: 188, 57
+  offset: 1, 5
+  index: -1
+m_duma_finger5
+  rotate: false
+  xy: 47, 1950
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+m_duma_arm2
+  rotate: false
+  xy: 2, 1588
+  size: 130, 69
+  orig: 130, 69
+  offset: 0, 0
+  index: -1
+m_duma_effect1
+  rotate: false
+  xy: 2, 299
+  size: 218, 74
+  orig: 234, 86
+  offset: 6, 7
+  index: -1
+m_duma_smo
+  rotate: true
+  xy: 157, 1206
+  size: 99, 82
+  orig: 101, 84
+  offset: 0, 1
+  index: -1
+m_duma_ear
+  rotate: true
+  xy: 115, 1859
+  size: 75, 98
+  orig: 75, 98
+  offset: 0, 0
+  index: -1
+m_duma_gro_arm11_r
+  rotate: false
+  xy: 2, 1830
+  size: 111, 67
+  orig: 155, 131
+  offset: 21, 23
+  index: -1
+m_duma_neck
+  rotate: true
+  xy: 2, 1715
+  size: 113, 125
+  orig: 113, 125
+  offset: 0, 0
+  index: -1
+m_duma_ring
+  rotate: true
+  xy: 209, 1937
+  size: 69, 39
+  orig: 69, 39
+  offset: 0, 0
+  index: -1
+m_duma_gro_arm22
+  rotate: false
+  xy: 129, 1782
+  size: 112, 75
+  orig: 114, 75
+  offset: 2, 0
+  index: -1
+m_duma_finger6
+  rotate: false
+  xy: 222, 386
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+m_duma_gro_mouth
+  rotate: false
+  xy: 148, 1385
+  size: 104, 69
+  orig: 104, 69
+  offset: 0, 0
+  index: -1
+m_duma_eye01
+  rotate: true
+  xy: 215, 1859
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+m_duma_finger3
+  rotate: false
+  xy: 93, 1950
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+m_duma_gro_eye2
+  rotate: false
+  xy: 2, 1659
+  size: 126, 54
+  orig: 184, 180
+  offset: 34, 45
+  index: -1
+m_duma_body2
+  rotate: true
+  xy: 2, 965
+  size: 314, 153
+  orig: 314, 153
+  offset: 0, 0
+  index: -1
+m_duma_arm22
+  rotate: false
+  xy: 134, 1592
+  size: 114, 73
+  orig: 114, 75
+  offset: 0, 0
+  index: -1
+m_duma_eye
+  rotate: false
+  xy: 2, 1540
+  size: 136, 46
+  orig: 184, 180
+  offset: 24, 52
+  index: -1
+m_duma_gro_hand1
+  rotate: true
+  xy: 188, 569
+  size: 41, 59
+  orig: 45, 75
+  offset: 4, 8
+  index: -1
+m_duma_acc
+  rotate: false
+  xy: 236, 2
+  size: 14, 47
+  orig: 14, 47
+  offset: 0, 0
+  index: -1

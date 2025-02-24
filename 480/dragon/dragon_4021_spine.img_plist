@@ -1,0 +1,634 @@
+dragon_4021_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_bagma_adult_eye
+  rotate: false
+  xy: 1176, 39
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+dragon_bagma_effm1
+  rotate: false
+  xy: 390, 82
+  size: 328, 327
+  orig: 332, 331
+  offset: 1, 2
+  index: -1
+dragon_bagma_baby_neck
+  rotate: false
+  xy: 1029, 399
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+dragon_bagma_eff8
+  rotate: true
+  xy: 126, 389
+  size: 118, 134
+  orig: 118, 134
+  offset: 0, 0
+  index: -1
+dragon_bagma_baby_eye2
+  rotate: false
+  xy: 1126, 390
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+dragon_bagma_baby_body
+  rotate: false
+  xy: 1107, 200
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+dragon_bagma_baby_tail
+  rotate: false
+  xy: 1140, 248
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_glow3
+  rotate: true
+  xy: 1035, 476
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+dragon_bagma_child_flower1
+  rotate: false
+  xy: 1021, 136
+  size: 78, 65
+  orig: 78, 65
+  offset: 0, 0
+  index: -1
+dragon_bagma_baby_leg2
+  rotate: false
+  xy: 1155, 416
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+dragon_bagma_baby_head
+  rotate: false
+  xy: 1022, 299
+  size: 56, 45
+  orig: 56, 45
+  offset: 0, 0
+  index: -1
+dragon_bagma_child_eye3
+  rotate: true
+  xy: 1163, 393
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_eye5
+  rotate: true
+  xy: 1179, 432
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+dragon_bagma_baby_flower2
+  rotate: false
+  xy: 1029, 346
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_tailb
+  rotate: false
+  xy: 979, 265
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_wing3
+  rotate: true
+  xy: 720, 244
+  size: 141, 89
+  orig: 141, 89
+  offset: 0, 0
+  index: -1
+dragon_bagma_eff3
+  rotate: false
+  xy: 929, 131
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_l_ante
+  rotate: true
+  xy: 1056, 433
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_wing1a
+  rotate: false
+  xy: 979, 293
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_petala3
+  rotate: true
+  xy: 491, 470
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_head
+  rotate: true
+  xy: 1101, 136
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_neck
+  rotate: false
+  xy: 1085, 244
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+dragon_bagma_child_leg2
+  rotate: false
+  xy: 996, 425
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+dragon_bagma_baby_heart
+  rotate: true
+  xy: 1092, 433
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_r_ante
+  rotate: true
+  xy: 1024, 433
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_wing1b
+  rotate: false
+  xy: 1158, 490
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_chin
+  rotate: true
+  xy: 832, 228
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+dragon_bagma_child_wing1
+  rotate: false
+  xy: 1126, 359
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+dragon_bagma_eff9
+  rotate: true
+  xy: 925, 228
+  size: 77, 52
+  orig: 77, 52
+  offset: 0, 0
+  index: -1
+dragon_bagma_baby_ante2
+  rotate: false
+  xy: 1072, 481
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_l_arma
+  rotate: true
+  xy: 1102, 481
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+dragon_bagma_baby_eye3
+  rotate: false
+  xy: 1079, 405
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+dragon_bagma_eff4
+  rotate: false
+  xy: 822, 363
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_petalb1
+  rotate: false
+  xy: 720, 387
+  size: 100, 51
+  orig: 100, 51
+  offset: 0, 0
+  index: -1
+dragon_bagma_baby_ball
+  rotate: false
+  xy: 996, 471
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_glow4
+  rotate: true
+  xy: 1143, 297
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_petala4
+  rotate: true
+  xy: 929, 307
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+dragon_bagma_child_ante1
+  rotate: true
+  xy: 979, 224
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_l_armd
+  rotate: true
+  xy: 965, 425
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+dragon_bagma_effm2
+  rotate: false
+  xy: 2, 2
+  size: 386, 385
+  orig: 386, 385
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_eye2
+  rotate: true
+  xy: 1179, 447
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_tailc
+  rotate: false
+  xy: 1021, 203
+  size: 84, 39
+  orig: 84, 39
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_r_armd
+  rotate: true
+  xy: 1022, 346
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+dragon_bagma_child_body
+  rotate: true
+  xy: 550, 470
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+dragon_bagma_child_chin
+  rotate: true
+  xy: 1158, 467
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+dragon_bagma_baby_ante1
+  rotate: false
+  xy: 1123, 412
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_effglow
+  rotate: false
+  xy: 1039, 2
+  size: 135, 72
+  orig: 135, 74
+  offset: 0, 1
+  index: -1
+dragon_bagma_eff1
+  rotate: false
+  xy: 262, 389
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_petalb2
+  rotate: true
+  xy: 811, 244
+  size: 109, 28
+  orig: 109, 28
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_glow1
+  rotate: false
+  xy: 832, 131
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_wing1c
+  rotate: true
+  xy: 1163, 377
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+dragon_bagma_child_wing2
+  rotate: false
+  xy: 600, 467
+  size: 95, 32
+  orig: 95, 32
+  offset: 0, 0
+  index: -1
+dragon_bagma_child_heart
+  rotate: true
+  xy: 1092, 433
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_bagma_child_neck
+  rotate: true
+  xy: 948, 437
+  size: 71, 46
+  orig: 71, 46
+  offset: 0, 0
+  index: -1
+dragon_bagma_eff6
+  rotate: false
+  xy: 965, 361
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_wing1
+  rotate: true
+  xy: 369, 411
+  size: 97, 47
+  orig: 97, 47
+  offset: 0, 0
+  index: -1
+dragon_bagma_eff5
+  rotate: false
+  xy: 841, 228
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
+dragon_bagma_child_tail
+  rotate: true
+  xy: 1039, 76
+  size: 58, 88
+  orig: 58, 88
+  offset: 0, 0
+  index: -1
+dragon_bagma_child_flower3
+  rotate: false
+  xy: 870, 439
+  size: 76, 69
+  orig: 76, 69
+  offset: 0, 0
+  index: -1
+dragon_bagma_child_eye
+  rotate: false
+  xy: 369, 389
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+dragon_bagma_child_ante2
+  rotate: true
+  xy: 1080, 340
+  size: 16, 50
+  orig: 16, 50
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_l_armc
+  rotate: true
+  xy: 699, 411
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+dragon_bagma_effm3
+  rotate: false
+  xy: 390, 2
+  size: 647, 78
+  orig: 647, 78
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_eye3
+  rotate: true
+  xy: 1176, 24
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_petala1
+  rotate: true
+  xy: 841, 311
+  size: 50, 86
+  orig: 50, 86
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_r_armc
+  rotate: false
+  xy: 1155, 448
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+dragon_bagma_effm0
+  rotate: false
+  xy: 2, 389
+  size: 122, 119
+  orig: 122, 119
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_petalb3
+  rotate: true
+  xy: 1021, 244
+  size: 53, 62
+  orig: 53, 62
+  offset: 0, 0
+  index: -1
+dragon_bagma_baby_chin
+  rotate: true
+  xy: 1176, 2
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_glow2
+  rotate: false
+  xy: 418, 411
+  size: 71, 94
+  orig: 71, 94
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_r_horn
+  rotate: false
+  xy: 1080, 301
+  size: 61, 37
+  orig: 61, 37
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_wing1d
+  rotate: false
+  xy: 1020, 82
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+dragon_bagma_child_flower2
+  rotate: false
+  xy: 491, 411
+  size: 106, 57
+  orig: 108, 57
+  offset: 2, 0
+  index: -1
+dragon_bagma_baby_leg1
+  rotate: false
+  xy: 1133, 470
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_l_armb
+  rotate: false
+  xy: 1163, 359
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_petalbback
+  rotate: true
+  xy: 898, 363
+  size: 72, 65
+  orig: 72, 65
+  offset: 0, 0
+  index: -1
+dragon_bagma_child_eye2
+  rotate: true
+  xy: 1020, 111
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_eye4
+  rotate: true
+  xy: 1179, 416
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+dragon_bagma_baby_flower1
+  rotate: false
+  xy: 699, 440
+  size: 87, 68
+  orig: 87, 68
+  offset: 0, 0
+  index: -1
+dragon_bagma_eff7
+  rotate: false
+  xy: 720, 82
+  size: 110, 160
+  orig: 110, 160
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_taila
+  rotate: true
+  xy: 599, 411
+  size: 54, 98
+  orig: 54, 98
+  offset: 0, 0
+  index: -1
+dragon_bagma_child_ball
+  rotate: false
+  xy: 1079, 358
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_wing2
+  rotate: false
+  xy: 832, 82
+  size: 186, 47
+  orig: 186, 47
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_ball
+  rotate: true
+  xy: 1147, 205
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_body
+  rotate: false
+  xy: 1147, 135
+  size: 40, 68
+  orig: 40, 68
+  offset: 0, 0
+  index: -1
+dragon_bagma_eff2
+  rotate: false
+  xy: 1129, 76
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+dragon_bagma_child_head
+  rotate: false
+  xy: 964, 307
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+dragon_bagma_adult_petala2
+  rotate: false
+  xy: 788, 440
+  size: 80, 68
+  orig: 80, 68
+  offset: 0, 0
+  index: -1
+dragon_bagma_baby_eye
+  rotate: true
+  xy: 1133, 433
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+dragon_bagma_child_leg1
+  rotate: true
+  xy: 1132, 341
+  size: 16, 43
+  orig: 16, 43
+  offset: 0, 0
+  index: -1

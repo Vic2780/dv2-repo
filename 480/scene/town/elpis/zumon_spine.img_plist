@@ -1,0 +1,53 @@
+zumon_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+sd_zumon_eye3
+  rotate: true
+  xy: 104, 153
+  size: 78, 21
+  orig: 78, 21
+  offset: 0, 0
+  index: -1
+sd_zumon_leg
+  rotate: true
+  xy: 82, 191
+  size: 50, 20
+  orig: 50, 20
+  offset: 0, 0
+  index: -1
+sd_zumon_body
+  rotate: false
+  xy: 2, 2
+  size: 123, 149
+  orig: 123, 149
+  offset: 0, 0
+  index: -1
+sd_zumon_eye1
+  rotate: false
+  xy: 2, 203
+  size: 78, 29
+  orig: 78, 29
+  offset: 0, 0
+  index: -1
+sd_zumon_tail
+  rotate: false
+  xy: 2, 153
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+sd_zumon_eye2
+  rotate: false
+  xy: 2, 234
+  size: 77, 17
+  orig: 77, 17
+  offset: 0, 0
+  index: -1
+sd_zumon_love
+  rotate: false
+  xy: 52, 153
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1

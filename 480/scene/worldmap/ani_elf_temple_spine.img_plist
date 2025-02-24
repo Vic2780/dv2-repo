@@ -1,0 +1,39 @@
+ani_elf_temple_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+w_elf_temple_body
+  rotate: true
+  xy: 88, 295
+  size: 29, 35
+  orig: 37, 41
+  offset: 4, 0
+  index: -1
+w_elf_temple_mouth
+  rotate: false
+  xy: 125, 295
+  size: 23, 9
+  orig: 37, 41
+  offset: 7, 9
+  index: -1
+w_elf_temple_eye
+  rotate: false
+  xy: 125, 306
+  size: 21, 11
+  orig: 37, 41
+  offset: 7, 16
+  index: -1
+w_elf_temple_sword
+  rotate: false
+  xy: 2, 295
+  size: 84, 73
+  orig: 92, 79
+  offset: 5, 3
+  index: -1
+w_elf_temple_swordlight
+  rotate: true
+  xy: 2, 2
+  size: 291, 150
+  orig: 311, 182
+  offset: 10, 15
+  index: -1

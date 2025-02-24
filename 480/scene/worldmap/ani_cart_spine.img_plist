@@ -1,0 +1,18 @@
+ani_cart_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+w_dwarf_mine_cart
+  rotate: false
+  xy: 287, 2
+  size: 57, 61
+  orig: 275, 289
+  offset: 172, 174
+  index: -1
+w_dwarf_mine_book
+  rotate: true
+  xy: 2, 2
+  size: 269, 283
+  orig: 275, 289
+  offset: 0, 0
+  index: -1

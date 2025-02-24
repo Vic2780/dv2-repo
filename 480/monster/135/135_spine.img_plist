@@ -1,0 +1,501 @@
+135_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_cerberos_groggyeye1
+  rotate: true
+  xy: 297, 1660
+  size: 121, 41
+  orig: 121, 41
+  offset: 0, 0
+  index: -1
+m_cerberos_body11
+  rotate: true
+  xy: 2, 270
+  size: 344, 182
+  orig: 344, 182
+  offset: 0, 0
+  index: -1
+m_cerberos_hand2
+  rotate: false
+  xy: 279, 2
+  size: 197, 135
+  orig: 197, 135
+  offset: 0, 0
+  index: -1
+m_cerberos_mouth311
+  rotate: false
+  xy: 410, 1660
+  size: 59, 40
+  orig: 59, 40
+  offset: 0, 0
+  index: -1
+m_cerberos_neck3
+  rotate: false
+  xy: 2, 1434
+  size: 199, 224
+  orig: 199, 224
+  offset: 0, 0
+  index: -1
+m_cerberos_groggytongue
+  rotate: false
+  xy: 340, 1658
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+m_cerberos_arm3
+  rotate: true
+  xy: 192, 779
+  size: 96, 200
+  orig: 96, 200
+  offset: 0, 0
+  index: -1
+m_cerberos_chain42
+  rotate: false
+  xy: 137, 616
+  size: 53, 263
+  orig: 55, 263
+  offset: 0, 0
+  index: -1
+m_cerberos_groggymouth2
+  rotate: true
+  xy: 432, 1876
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+m_cerberos_leg2
+  rotate: false
+  xy: 192, 607
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+m_cerberos_groggyarm1
+  rotate: false
+  xy: 432, 1916
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+m_cerberos_water212
+  rotate: false
+  xy: 462, 932
+  size: 14, 59
+  orig: 14, 59
+  offset: 0, 0
+  index: -1
+m_cerberos_body2
+  rotate: true
+  xy: 324, 969
+  size: 181, 63
+  orig: 181, 63
+  offset: 0, 0
+  index: -1
+m_cerberos_ear1
+  rotate: true
+  xy: 2, 1992
+  size: 44, 128
+  orig: 44, 128
+  offset: 0, 0
+  index: -1
+m_cerberos_groggyhand11
+  rotate: false
+  xy: 444, 1830
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+m_cerberos_head3
+  rotate: false
+  xy: 325, 263
+  size: 151, 134
+  orig: 151, 134
+  offset: 0, 0
+  index: -1
+m_cerberos_groggyneck3
+  rotate: true
+  xy: 412, 1562
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+m_cerberos_water22
+  rotate: true
+  xy: 192, 1660
+  size: 245, 39
+  orig: 245, 39
+  offset: 0, 0
+  index: -1
+m_cerberos_mouth32
+  rotate: false
+  xy: 220, 1921
+  size: 125, 115
+  orig: 125, 115
+  offset: 0, 0
+  index: -1
+m_cerberos_grogghead2
+  rotate: true
+  xy: 410, 1702
+  size: 27, 63
+  orig: 27, 63
+  offset: 0, 0
+  index: -1
+m_cerberos_neck12
+  rotate: false
+  xy: 2, 2
+  size: 275, 266
+  orig: 275, 266
+  offset: 0, 0
+  index: -1
+m_cerberos_ear6
+  rotate: true
+  xy: 389, 1056
+  size: 104, 76
+  orig: 104, 76
+  offset: 0, 0
+  index: -1
+m_cerberos_groggynose3
+  rotate: true
+  xy: 389, 932
+  size: 122, 71
+  orig: 122, 71
+  offset: 0, 0
+  index: -1
+m_cerberos_ear5
+  rotate: true
+  xy: 189, 1112
+  size: 77, 119
+  orig: 77, 119
+  offset: 0, 0
+  index: -1
+m_cerberos_tail1
+  rotate: false
+  xy: 321, 538
+  size: 135, 67
+  orig: 135, 67
+  offset: 0, 0
+  index: -1
+m_cerberos_eye2
+  rotate: true
+  xy: 319, 1255
+  size: 74, 66
+  orig: 74, 66
+  offset: 0, 0
+  index: -1
+m_cerberos_water3
+  rotate: false
+  xy: 420, 1456
+  size: 46, 85
+  orig: 46, 89
+  offset: 0, 4
+  index: -1
+m_cerberos_groggyleg1
+  rotate: false
+  xy: 460, 1731
+  size: 16, 42
+  orig: 16, 42
+  offset: 0, 0
+  index: -1
+m_cerberos_chain41
+  rotate: false
+  xy: 2, 957
+  size: 185, 243
+  orig: 185, 251
+  offset: 0, 0
+  index: -1
+m_cerberos_groggyhand2
+  rotate: false
+  xy: 407, 1864
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+m_cerberos_body12
+  rotate: true
+  xy: 2, 616
+  size: 339, 133
+  orig: 339, 133
+  offset: 0, 0
+  index: -1
+m_cerberos_groggybody2
+  rotate: false
+  xy: 132, 1992
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+m_cerberos_water211
+  rotate: false
+  xy: 333, 1331
+  size: 49, 112
+  orig: 49, 112
+  offset: 0, 0
+  index: -1
+m_cerberos_arm1
+  rotate: true
+  xy: 2, 1880
+  size: 110, 180
+  orig: 110, 180
+  offset: 0, 0
+  index: -1
+m_cerberos_groggyeye3
+  rotate: true
+  xy: 348, 1779
+  size: 89, 38
+  orig: 89, 38
+  offset: 0, 0
+  index: -1
+m_cerberos_nose12
+  rotate: true
+  xy: 387, 1256
+  size: 119, 89
+  orig: 119, 89
+  offset: 0, 0
+  index: -1
+m_cerberos_ear2
+  rotate: false
+  xy: 233, 1660
+  size: 62, 144
+  orig: 62, 144
+  offset: 0, 0
+  index: -1
+m_cerberos_tail2
+  rotate: false
+  xy: 186, 270
+  size: 137, 236
+  orig: 137, 236
+  offset: 0, 0
+  index: -1
+m_cerberos_groggytail2
+  rotate: false
+  xy: 319, 1152
+  size: 68, 101
+  orig: 68, 101
+  offset: 0, 0
+  index: -1
+m_cerberos_mouth1
+  rotate: false
+  xy: 189, 969
+  size: 133, 141
+  orig: 133, 141
+  offset: 0, 0
+  index: -1
+m_cerberos_groggymouth311
+  rotate: true
+  xy: 384, 1377
+  size: 66, 45
+  orig: 66, 45
+  offset: 0, 0
+  index: -1
+m_cerberos_mouth312
+  rotate: false
+  xy: 186, 508
+  size: 133, 97
+  orig: 133, 97
+  offset: 0, 0
+  index: -1
+m_cerberos_eye3
+  rotate: true
+  xy: 388, 1779
+  size: 76, 29
+  orig: 76, 29
+  offset: 0, 0
+  index: -1
+m_cerberos_hand11
+  rotate: false
+  xy: 444, 1775
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+m_cerberos_head1
+  rotate: true
+  xy: 192, 1191
+  size: 140, 125
+  orig: 140, 125
+  offset: 0, 0
+  index: -1
+m_cerberos_nose2
+  rotate: false
+  xy: 203, 1565
+  size: 104, 93
+  orig: 104, 93
+  offset: 0, 0
+  index: -1
+m_cerberos_groggyeye2
+  rotate: true
+  xy: 389, 1162
+  size: 92, 79
+  orig: 92, 81
+  offset: 0, 1
+  index: -1
+m_cerberos_neck11
+  rotate: true
+  xy: 348, 1870
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+m_cerberos_groggynose11
+  rotate: false
+  xy: 137, 930
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+m_cerberos_mouth2
+  rotate: false
+  xy: 203, 1426
+  size: 115, 137
+  orig: 115, 137
+  offset: 0, 0
+  index: -1
+m_cerberos_leg1
+  rotate: false
+  xy: 320, 1445
+  size: 98, 115
+  orig: 98, 115
+  offset: 0, 0
+  index: -1
+m_cerberos_neck2
+  rotate: true
+  xy: 2, 1660
+  size: 218, 188
+  orig: 218, 188
+  offset: 0, 0
+  index: -1
+m_cerberos_groggynose12
+  rotate: false
+  xy: 394, 767
+  size: 75, 118
+  orig: 75, 118
+  offset: 0, 0
+  index: -1
+m_cerberos_arm2
+  rotate: false
+  xy: 2, 1202
+  size: 188, 230
+  orig: 188, 230
+  offset: 0, 0
+  index: -1
+m_cerberos_ear3
+  rotate: false
+  xy: 184, 1907
+  size: 34, 132
+  orig: 34, 132
+  offset: 0, 0
+  index: -1
+m_cerberos_groggybody11
+  rotate: false
+  xy: 137, 881
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+m_cerberos_groggyneck11
+  rotate: true
+  xy: 340, 1727
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+m_cerberos_head2
+  rotate: false
+  xy: 325, 399
+  size: 145, 137
+  orig: 145, 137
+  offset: 0, 0
+  index: -1
+m_cerberos_nose3
+  rotate: false
+  xy: 309, 1565
+  size: 101, 91
+  orig: 101, 91
+  offset: 0, 0
+  index: -1
+m_cerberos_groggyneck2
+  rotate: true
+  xy: 347, 1921
+  size: 107, 83
+  orig: 107, 83
+  offset: 0, 0
+  index: -1
+m_cerberos_tongue
+  rotate: false
+  xy: 431, 1377
+  size: 43, 77
+  orig: 43, 77
+  offset: 0, 0
+  index: -1
+m_cerberos_chain43
+  rotate: false
+  xy: 192, 877
+  size: 192, 90
+  orig: 192, 90
+  offset: 0, 0
+  index: -1
+m_cerberos_eye1
+  rotate: true
+  xy: 419, 1768
+  size: 94, 23
+  orig: 94, 23
+  offset: 0, 0
+  index: -1
+m_cerberos_groggyneck12
+  rotate: true
+  xy: 364, 607
+  size: 158, 97
+  orig: 158, 97
+  offset: 0, 0
+  index: -1
+m_cerberos_hand12
+  rotate: false
+  xy: 279, 139
+  size: 189, 122
+  orig: 189, 122
+  offset: 0, 0
+  index: -1
+m_cerberos_groggyleg2
+  rotate: true
+  xy: 412, 1626
+  size: 32, 62
+  orig: 32, 62
+  offset: 0, 0
+  index: -1
+m_cerberos_water1
+  rotate: true
+  xy: 192, 1333
+  size: 91, 139
+  orig: 103, 139
+  offset: 3, 0
+  index: -1
+m_cerberos_ear4
+  rotate: false
+  xy: 233, 1806
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+m_cerberos_groggyhand12
+  rotate: false
+  xy: 386, 887
+  size: 90, 43
+  orig: 90, 43
+  offset: 0, 0
+  index: -1
+m_cerberos_nose11
+  rotate: false
+  xy: 420, 1543
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+m_cerberos_groggymouth1
+  rotate: false
+  xy: 399, 1731
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1

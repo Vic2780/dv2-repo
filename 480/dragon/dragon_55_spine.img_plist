@@ -1,0 +1,466 @@
+dragon_55_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_hyenadragon_baby_mouth
+  rotate: true
+  xy: 233, 882
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_child_eye2
+  rotate: true
+  xy: 29, 1221
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_adult_mouse
+  rotate: false
+  xy: 229, 200
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_adult_neck
+  rotate: true
+  xy: 183, 628
+  size: 50, 68
+  orig: 50, 68
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_adult_leg4
+  rotate: true
+  xy: 204, 436
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_child_mouth
+  rotate: false
+  xy: 64, 1221
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_critical_effect2
+  rotate: true
+  xy: 2, 690
+  size: 114, 147
+  orig: 114, 147
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_adult_eye2
+  rotate: false
+  xy: 215, 282
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_adult_note1
+  rotate: false
+  xy: 151, 690
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_hyenadragon_child_leg2
+  rotate: false
+  xy: 204, 378
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_baby_leg
+  rotate: false
+  xy: 93, 970
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_adult_body
+  rotate: false
+  xy: 151, 803
+  size: 101, 57
+  orig: 101, 57
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_critical_base1
+  rotate: false
+  xy: 2, 349
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_adult_leg5
+  rotate: false
+  xy: 229, 257
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_child_eye3
+  rotate: false
+  xy: 151, 730
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_critical_effect1
+  rotate: true
+  xy: 141, 929
+  size: 71, 89
+  orig: 71, 89
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_adult_wing1
+  rotate: true
+  xy: 137, 1002
+  size: 75, 81
+  orig: 75, 81
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_baby_eye2
+  rotate: false
+  xy: 229, 273
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_child_neck
+  rotate: true
+  xy: 93, 937
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_adult_eye3
+  rotate: true
+  xy: 206, 282
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_child_leg3
+  rotate: false
+  xy: 229, 137
+  size: 24, 42
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_critical_effect6
+  rotate: true
+  xy: 2, 2
+  size: 133, 247
+  orig: 133, 247
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_adult_head
+  rotate: true
+  xy: 64, 1292
+  size: 56, 36
+  orig: 56, 36
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_adult_leg2
+  rotate: false
+  xy: 229, 218
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_critical_effect4
+  rotate: true
+  xy: 141, 862
+  size: 65, 90
+  orig: 65, 90
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_adult_tail
+  rotate: true
+  xy: 189, 465
+  size: 80, 63
+  orig: 80, 63
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_adult_horn2
+  rotate: false
+  xy: 170, 1292
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_child_heart
+  rotate: false
+  xy: 93, 896
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_child_leg4
+  rotate: false
+  xy: 63, 1237
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_critical_base2
+  rotate: false
+  xy: 2, 806
+  size: 137, 88
+  orig: 137, 88
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_adult_leg3
+  rotate: false
+  xy: 218, 1147
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_child_mouse
+  rotate: false
+  xy: 2, 1221
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_critical_effect3
+  rotate: true
+  xy: 2, 431
+  size: 139, 185
+  orig: 139, 185
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_adult_eye1
+  rotate: true
+  xy: 166, 730
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_baby_head
+  rotate: false
+  xy: 183, 680
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_adult_horn3
+  rotate: false
+  xy: 102, 1292
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_adult_note2
+  rotate: true
+  xy: 93, 1056
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_child_leg5
+  rotate: false
+  xy: 214, 1163
+  size: 39, 56
+  orig: 39, 56
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_critical_effect8
+  rotate: true
+  xy: 2, 282
+  size: 65, 202
+  orig: 65, 202
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_baby_smile
+  rotate: true
+  xy: 2, 1292
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_child_wing2
+  rotate: false
+  xy: 189, 547
+  size: 62, 79
+  orig: 62, 79
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_adult_horn1
+  rotate: true
+  xy: 220, 1007
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_baby_eye3
+  rotate: false
+  xy: 229, 181
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_child_tail
+  rotate: true
+  xy: 93, 1126
+  size: 77, 40
+  orig: 77, 40
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_baby_tail
+  rotate: true
+  xy: 233, 912
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_child_leg6
+  rotate: false
+  xy: 206, 293
+  size: 46, 83
+  orig: 46, 83
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_critical_effect7
+  rotate: true
+  xy: 151, 742
+  size: 59, 102
+  orig: 59, 102
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_adult_leg6
+  rotate: false
+  xy: 232, 973
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_baby_body
+  rotate: true
+  xy: 93, 1006
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_baby_mouse
+  rotate: true
+  xy: 232, 942
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_child_body
+  rotate: false
+  xy: 133, 1230
+  size: 72, 60
+  orig: 72, 60
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_adult_leg1
+  rotate: true
+  xy: 214, 1221
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_adult_eye4
+  rotate: true
+  xy: 141, 806
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_critical_effect5
+  rotate: true
+  xy: 2, 572
+  size: 116, 179
+  orig: 116, 179
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_child_wing1
+  rotate: false
+  xy: 135, 1153
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_child_leg7
+  rotate: false
+  xy: 220, 1059
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_child_head
+  rotate: false
+  xy: 2, 1237
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_critical_base3
+  rotate: true
+  xy: 2, 137
+  size: 143, 225
+  orig: 143, 233
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_adult_leg7
+  rotate: true
+  xy: 189, 431
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_child_eye1
+  rotate: true
+  xy: 42, 1221
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_child_leg1
+  rotate: true
+  xy: 93, 1093
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_baby_eye1
+  rotate: false
+  xy: 233, 862
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_adult_wing2
+  rotate: true
+  xy: 136, 1079
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_baby_leg1
+  rotate: false
+  xy: 93, 1205
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_child_leg8
+  rotate: false
+  xy: 218, 1090
+  size: 35, 55
+  orig: 35, 55
+  offset: 0, 0
+  index: -1
+dragon_hyenadragon_critical_effect9
+  rotate: false
+  xy: 2, 896
+  size: 89, 323
+  orig: 89, 323
+  offset: 0, 0
+  index: -1

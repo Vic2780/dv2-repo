@@ -1,0 +1,445 @@
+dragon_64_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_godjr_baby_body
+  rotate: false
+  xy: 555, 104
+  size: 58, 48
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+dragon_godjr_child_arm6
+  rotate: false
+  xy: 466, 167
+  size: 20, 13
+  orig: 22, 15
+  offset: 2, 2
+  index: -1
+dragon_godjr_adult_leg4
+  rotate: false
+  xy: 496, 166
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+dragon_godjr_child_arm4
+  rotate: true
+  xy: 703, 107
+  size: 36, 65
+  orig: 38, 65
+  offset: 2, 0
+  index: -1
+dragon_godjr_child_horn
+  rotate: false
+  xy: 821, 129
+  size: 44, 34
+  orig: 46, 38
+  offset: 1, 3
+  index: -1
+dragon_godjr_adult_eye4
+  rotate: true
+  xy: 867, 162
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+dragon_godjr_adult_wing
+  rotate: false
+  xy: 497, 2
+  size: 119, 100
+  orig: 125, 106
+  offset: 1, 3
+  index: -1
+dragon_godjr_child_leg2
+  rotate: true
+  xy: 350, 155
+  size: 25, 48
+  orig: 29, 50
+  offset: 2, 0
+  index: -1
+dragon_godjr_child_wing
+  rotate: true
+  xy: 618, 49
+  size: 66, 83
+  orig: 72, 85
+  offset: 3, 0
+  index: -1
+dragon_godjr_baby_tail
+  rotate: false
+  xy: 897, 87
+  size: 46, 29
+  orig: 46, 33
+  offset: 0, 2
+  index: -1
+dragon_godjr_critical_ef1
+  rotate: false
+  xy: 197, 2
+  size: 151, 152
+  orig: 173, 162
+  offset: 22, 10
+  index: -1
+dragon_godjr_child_arm5
+  rotate: true
+  xy: 197, 156
+  size: 24, 34
+  orig: 26, 34
+  offset: 2, 0
+  index: -1
+dragon_godjr_child_eye1
+  rotate: true
+  xy: 972, 131
+  size: 25, 20
+  orig: 27, 22
+  offset: 1, 1
+  index: -1
+dragon_godjr_adult_jaw
+  rotate: false
+  xy: 821, 165
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+dragon_godjr_child_leg3
+  rotate: true
+  xy: 981, 158
+  size: 18, 13
+  orig: 20, 15
+  offset: 1, 2
+  index: -1
+dragon_godjr_adult_leg2
+  rotate: true
+  xy: 733, 145
+  size: 35, 21
+  orig: 35, 25
+  offset: 0, 3
+  index: -1
+dragon_godjr_child_neck
+  rotate: true
+  xy: 847, 48
+  size: 36, 52
+  orig: 42, 52
+  offset: 3, 0
+  index: -1
+dragon_godjr_baby_head
+  rotate: true
+  xy: 442, 100
+  size: 65, 52
+  orig: 65, 54
+  offset: 0, 1
+  index: -1
+dragon_godjr_adult_ef
+  rotate: false
+  xy: 618, 2
+  size: 160, 45
+  orig: 160, 45
+  offset: 0, 0
+  index: -1
+dragon_godjr_adult_arm4
+  rotate: true
+  xy: 852, 2
+  size: 44, 68
+  orig: 46, 68
+  offset: 1, 0
+  index: -1
+dragon_godjr_adult_head
+  rotate: false
+  xy: 901, 48
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+dragon_godjr_adult_h
+  rotate: true
+  xy: 954, 48
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_godjr_child_eye2
+  rotate: false
+  xy: 233, 156
+  size: 33, 24
+  orig: 35, 28
+  offset: 0, 2
+  index: -1
+dragon_godjr_adult_eye2
+  rotate: false
+  xy: 935, 163
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+dragon_godjr_child_body
+  rotate: false
+  xy: 703, 49
+  size: 70, 56
+  orig: 70, 58
+  offset: 0, 1
+  index: -1
+dragon_godjr_child_leg4
+  rotate: true
+  xy: 647, 157
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+dragon_godjr_baby_arm2
+  rotate: false
+  xy: 948, 131
+  size: 22, 25
+  orig: 22, 29
+  offset: 0, 2
+  index: -1
+dragon_godjr_adult_horn
+  rotate: false
+  xy: 867, 129
+  size: 29, 31
+  orig: 33, 31
+  offset: 3, 0
+  index: -1
+dragon_godjr_adult_leg3
+  rotate: true
+  xy: 555, 154
+  size: 26, 51
+  orig: 26, 53
+  offset: 0, 1
+  index: -1
+dragon_godjr_baby_arm1
+  rotate: true
+  xy: 319, 156
+  size: 21, 29
+  orig: 25, 29
+  offset: 4, 0
+  index: -1
+dragon_godjr_adult_eye3
+  rotate: false
+  xy: 913, 163
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+dragon_godjr_adult_leg1
+  rotate: true
+  xy: 770, 119
+  size: 27, 49
+  orig: 29, 49
+  offset: 1, 0
+  index: -1
+dragon_godjr_child_leg5
+  rotate: false
+  xy: 525, 166
+  size: 21, 14
+  orig: 23, 14
+  offset: 1, 0
+  index: -1
+dragon_godjr_baby_leg2
+  rotate: true
+  xy: 885, 163
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+dragon_godjr_baby_arm3
+  rotate: false
+  xy: 929, 118
+  size: 14, 9
+  orig: 14, 11
+  offset: 0, 2
+  index: -1
+dragon_godjr_child_tail
+  rotate: false
+  xy: 615, 117
+  size: 68, 38
+  orig: 70, 42
+  offset: 2, 2
+  index: -1
+dragon_godjr_baby_leg1
+  rotate: false
+  xy: 877, 86
+  size: 18, 34
+  orig: 20, 34
+  offset: 1, 0
+  index: -1
+dragon_godjr_child_arm1
+  rotate: true
+  xy: 780, 47
+  size: 36, 65
+  orig: 38, 65
+  offset: 2, 0
+  index: -1
+dragon_godjr_adult_eye1
+  rotate: true
+  xy: 983, 96
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+dragon_godjr_critical_ef2
+  rotate: true
+  xy: 2, 2
+  size: 178, 193
+  orig: 192, 211
+  offset: 0, 9
+  index: -1
+dragon_godjr_adult_arm2
+  rotate: true
+  xy: 268, 156
+  size: 21, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+dragon_godjr_adult_neck
+  rotate: true
+  xy: 775, 85
+  size: 32, 54
+  orig: 34, 54
+  offset: 1, 0
+  index: -1
+dragon_godjr_baby_leg3
+  rotate: true
+  xy: 857, 165
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+dragon_godjr_baby_arm4
+  rotate: true
+  xy: 785, 148
+  size: 29, 34
+  orig: 31, 40
+  offset: 0, 3
+  index: -1
+dragon_godjr_child_head
+  rotate: false
+  xy: 780, 2
+  size: 70, 43
+  orig: 72, 45
+  offset: 1, 1
+  index: -1
+dragon_godjr_baby_jaw
+  rotate: false
+  xy: 926, 140
+  size: 20, 21
+  orig: 24, 23
+  offset: 0, 1
+  index: -1
+dragon_godjr_child_arm2
+  rotate: true
+  xy: 608, 157
+  size: 23, 37
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+dragon_godjr_adult_arm3
+  rotate: true
+  xy: 685, 117
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+dragon_godjr_adult_body
+  rotate: false
+  xy: 350, 100
+  size: 90, 53
+  orig: 96, 55
+  offset: 0, 1
+  index: -1
+dragon_godjr_baby_wing
+  rotate: false
+  xy: 945, 96
+  size: 36, 33
+  orig: 36, 35
+  offset: 0, 2
+  index: -1
+dragon_godjr_baby_s
+  rotate: false
+  xy: 496, 104
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_godjr_baby_arm6
+  rotate: true
+  xy: 846, 165
+  size: 15, 9
+  orig: 15, 11
+  offset: 0, 2
+  index: -1
+dragon_godjr_baby_horn
+  rotate: false
+  xy: 685, 147
+  size: 46, 33
+  orig: 48, 35
+  offset: 0, 1
+  index: -1
+dragon_godjr_child_jaw
+  rotate: false
+  xy: 898, 118
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+dragon_godjr_baby_eye2
+  rotate: true
+  xy: 756, 148
+  size: 32, 27
+  orig: 38, 35
+  offset: 4, 6
+  index: -1
+dragon_godjr_adult_tail
+  rotate: false
+  xy: 350, 2
+  size: 145, 96
+  orig: 151, 106
+  offset: 3, 7
+  index: -1
+dragon_godjr_baby_arm5
+  rotate: true
+  xy: 955, 158
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+dragon_godjr_adult_armor
+  rotate: true
+  xy: 831, 86
+  size: 41, 44
+  orig: 49, 46
+  offset: 5, 2
+  index: -1
+dragon_godjr_baby_eye1
+  rotate: false
+  xy: 898, 140
+  size: 26, 21
+  orig: 28, 23
+  offset: 1, 1
+  index: -1
+dragon_godjr_adult_arm1
+  rotate: true
+  xy: 922, 2
+  size: 44, 68
+  orig: 46, 68
+  offset: 1, 0
+  index: -1
+dragon_godjr_child_s
+  rotate: false
+  xy: 496, 104
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_godjr_child_arm3
+  rotate: false
+  xy: 440, 167
+  size: 24, 13
+  orig: 26, 15
+  offset: 0, 1
+  index: -1
+dragon_godjr_child_leg1
+  rotate: true
+  xy: 400, 155
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1

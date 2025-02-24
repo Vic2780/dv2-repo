@@ -1,0 +1,417 @@
+dragon_3006_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_zion_adult_head2
+  rotate: false
+  xy: 195, 777
+  size: 59, 49
+  orig: 59, 49
+  offset: 0, 0
+  index: -1
+dragon_zion_adult_wing
+  rotate: false
+  xy: 2, 1024
+  size: 184, 168
+  orig: 188, 168
+  offset: 2, 0
+  index: -1
+dragon_zion_child_eye
+  rotate: false
+  xy: 210, 353
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+dragon_zion_child_ef12
+  rotate: false
+  xy: 2, 2
+  size: 226, 102
+  orig: 256, 240
+  offset: 9, 60
+  index: -1
+dragon_zion_baby_body
+  rotate: false
+  xy: 210, 395
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+dragon_zion_adult_tail
+  rotate: false
+  xy: 2, 1245
+  size: 157, 89
+  orig: 157, 89
+  offset: 0, 0
+  index: -1
+dragon_zion_child_ef9
+  rotate: false
+  xy: 2, 820
+  size: 188, 103
+  orig: 256, 159
+  offset: 32, 9
+  index: -1
+dragon_zion_adult_leg8
+  rotate: false
+  xy: 230, 56
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+dragon_zion_child_mouth
+  rotate: false
+  xy: 38, 1486
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+dragon_zion_child_ef4
+  rotate: false
+  xy: 2, 1194
+  size: 178, 49
+  orig: 182, 57
+  offset: 4, 3
+  index: -1
+dragon_zion_adult_mouth
+  rotate: false
+  xy: 230, 1516
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+dragon_zion_adult_eye
+  rotate: false
+  xy: 228, 357
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+dragon_zion_child_leg6
+  rotate: false
+  xy: 72, 1522
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+dragon_zion_child_ef6
+  rotate: false
+  xy: 2, 699
+  size: 191, 63
+  orig: 197, 63
+  offset: 1, 0
+  index: -1
+dragon_zion_adult_leg9
+  rotate: true
+  xy: 205, 1516
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+dragon_zion_baby_leg5
+  rotate: true
+  xy: 228, 209
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+dragon_zion_child_leg1
+  rotate: false
+  xy: 2, 1486
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+dragon_zion_child_ef5
+  rotate: false
+  xy: 2, 764
+  size: 191, 54
+  orig: 191, 64
+  offset: 0, 0
+  index: -1
+dragon_zion_child_ef10
+  rotate: false
+  xy: 2, 925
+  size: 188, 97
+  orig: 256, 159
+  offset: 33, 13
+  index: -1
+dragon_zion_baby_eye
+  rotate: false
+  xy: 210, 331
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+dragon_zion_adult_head1
+  rotate: false
+  xy: 188, 1096
+  size: 59, 49
+  orig: 59, 49
+  offset: 0, 0
+  index: -1
+dragon_zion_baby_wing
+  rotate: false
+  xy: 74, 1486
+  size: 28, 34
+  orig: 32, 36
+  offset: 2, 2
+  index: -1
+dragon_zion_baby_head2
+  rotate: true
+  xy: 192, 828
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+dragon_zion_adult_twinkling2
+  rotate: true
+  xy: 2, 1385
+  size: 99, 100
+  orig: 225, 224
+  offset: 63, 64
+  index: -1
+dragon_zion_child_wing
+  rotate: false
+  xy: 104, 1478
+  size: 99, 75
+  orig: 103, 77
+  offset: 2, 1
+  index: -1
+dragon_zion_child_ef7
+  rotate: false
+  xy: 2, 634
+  size: 191, 63
+  orig: 197, 63
+  offset: 1, 0
+  index: -1
+dragon_zion_adult_leg2
+  rotate: true
+  xy: 205, 1449
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+dragon_zion_child_body
+  rotate: false
+  xy: 182, 1220
+  size: 69, 55
+  orig: 69, 55
+  offset: 0, 0
+  index: -1
+dragon_zion_adult_head3
+  rotate: false
+  xy: 195, 726
+  size: 59, 49
+  orig: 59, 49
+  offset: 0, 0
+  index: -1
+dragon_zion_adult_body
+  rotate: false
+  xy: 160, 1380
+  size: 94, 67
+  orig: 94, 67
+  offset: 0, 0
+  index: -1
+dragon_zion_adult_leg1
+  rotate: true
+  xy: 161, 1332
+  size: 46, 78
+  orig: 46, 78
+  offset: 0, 0
+  index: -1
+dragon_zion_child_ef2
+  rotate: false
+  xy: 2, 1336
+  size: 101, 47
+  orig: 103, 53
+  offset: 0, 4
+  index: -1
+dragon_zion_child_ef11
+  rotate: true
+  xy: 2, 331
+  size: 174, 206
+  orig: 256, 240
+  offset: 39, 13
+  index: -1
+dragon_zion_baby_leg2
+  rotate: false
+  xy: 161, 1245
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+dragon_zion_child_leg4
+  rotate: false
+  xy: 230, 2
+  size: 24, 52
+  orig: 24, 52
+  offset: 0, 0
+  index: -1
+dragon_zion_adult_leg3
+  rotate: true
+  xy: 228, 276
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+dragon_zion_child_head2
+  rotate: true
+  xy: 105, 1336
+  size: 69, 53
+  orig: 69, 53
+  offset: 0, 0
+  index: -1
+dragon_zion_child_ef3
+  rotate: true
+  xy: 206, 598
+  size: 126, 48
+  orig: 126, 58
+  offset: 0, 6
+  index: -1
+dragon_zion_child_tail
+  rotate: true
+  xy: 188, 1147
+  size: 71, 56
+  orig: 71, 56
+  offset: 0, 0
+  index: -1
+dragon_zion_baby_tail
+  rotate: true
+  xy: 230, 100
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+dragon_zion_adult_neck
+  rotate: true
+  xy: 181, 1277
+  size: 53, 73
+  orig: 53, 73
+  offset: 0, 0
+  index: -1
+dragon_zion_child_leg5
+  rotate: true
+  xy: 38, 1518
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+dragon_zion_baby_head1
+  rotate: true
+  xy: 192, 887
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+dragon_zion_adult_leg4
+  rotate: false
+  xy: 192, 946
+  size: 60, 89
+  orig: 62, 89
+  offset: 0, 0
+  index: -1
+dragon_zion_adult_leg6
+  rotate: true
+  xy: 228, 316
+  size: 39, 23
+  orig: 39, 25
+  offset: 0, 0
+  index: -1
+dragon_zion_baby_leg4
+  rotate: false
+  xy: 228, 145
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+dragon_zion_child_heart
+  rotate: true
+  xy: 210, 449
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_zion_child_leg2
+  rotate: true
+  xy: 159, 1449
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+dragon_zion_adult_leg5
+  rotate: true
+  xy: 228, 261
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+dragon_zion_baby_leg1
+  rotate: true
+  xy: 210, 371
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+dragon_zion_baby_smile
+  rotate: true
+  xy: 188, 1037
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_zion_child_ef1
+  rotate: true
+  xy: 210, 497
+  size: 99, 37
+  orig: 99, 37
+  offset: 0, 0
+  index: -1
+dragon_zion_child_neck
+  rotate: true
+  xy: 205, 1479
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+dragon_zion_adult_twinkling1
+  rotate: true
+  xy: 2, 106
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+dragon_zion_baby_leg6
+  rotate: false
+  xy: 228, 178
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+dragon_zion_child_head1
+  rotate: true
+  xy: 104, 1407
+  size: 69, 53
+  orig: 69, 53
+  offset: 0, 0
+  index: -1
+dragon_zion_child_ef8
+  rotate: false
+  xy: 2, 507
+  size: 202, 125
+  orig: 256, 159
+  offset: 20, 12
+  index: -1
+dragon_zion_baby_leg3
+  rotate: false
+  xy: 161, 1282
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+dragon_zion_child_leg3
+  rotate: false
+  xy: 228, 236
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1

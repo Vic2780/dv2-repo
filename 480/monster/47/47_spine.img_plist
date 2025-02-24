@@ -1,0 +1,102 @@
+47_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_spikegel_groggy_head
+  rotate: true
+  xy: 332, 2
+  size: 164, 171
+  orig: 332, 299
+  offset: 94, 126
+  index: -1
+m_spikegel_groggy_hand4
+  rotate: true
+  xy: 378, 648
+  size: 62, 122
+  orig: 190, 212
+  offset: 84, 42
+  index: -1
+m_spikegel_groggy_hand5
+  rotate: false
+  xy: 378, 509
+  size: 116, 137
+  orig: 146, 223
+  offset: 15, 47
+  index: -1
+m_spikegel_groggy_hand2
+  rotate: false
+  xy: 194, 295
+  size: 136, 136
+  orig: 188, 200
+  offset: 24, 26
+  index: -1
+m_spikegel_hand1
+  rotate: true
+  xy: 332, 168
+  size: 162, 171
+  orig: 170, 175
+  offset: 5, 3
+  index: -1
+m_spikegel_head
+  rotate: false
+  xy: 2, 2
+  size: 328, 291
+  orig: 332, 299
+  offset: 4, 3
+  index: -1
+m_spikegel_groggy_hand3
+  rotate: true
+  xy: 332, 332
+  size: 175, 166
+  orig: 195, 192
+  offset: 5, 22
+  index: -1
+m_spikegel_hand2
+  rotate: true
+  xy: 184, 509
+  size: 180, 192
+  orig: 188, 200
+  offset: 5, 0
+  index: -1
+m_spikegel_hand3
+  rotate: true
+  xy: 2, 507
+  size: 193, 180
+  orig: 195, 192
+  offset: 1, 6
+  index: -1
+m_spikegel_groggy_hand1
+  rotate: false
+  xy: 225, 691
+  size: 132, 117
+  orig: 170, 175
+  offset: 26, 8
+  index: -1
+m_spikegel_hand4
+  rotate: false
+  xy: 2, 295
+  size: 190, 210
+  orig: 190, 212
+  offset: 0, 0
+  index: -1
+m_spikegel_head2
+  rotate: false
+  xy: 225, 810
+  size: 43, 42
+  orig: 55, 56
+  offset: 6, 8
+  index: -1
+m_spikegel_eye
+  rotate: true
+  xy: 194, 433
+  size: 70, 121
+  orig: 332, 299
+  offset: 135, 100
+  index: -1
+m_spikegel_hand5
+  rotate: true
+  xy: 2, 702
+  size: 140, 221
+  orig: 146, 223
+  offset: 4, 0
+  index: -1

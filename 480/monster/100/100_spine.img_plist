@@ -1,0 +1,326 @@
+100_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_emachine_groggybody22
+  rotate: false
+  xy: 795, 1608
+  size: 76, 46
+  orig: 76, 46
+  offset: 0, 0
+  index: -1
+m_emachine_leg1
+  rotate: false
+  xy: 2, 1175
+  size: 360, 247
+  orig: 374, 275
+  offset: 5, 6
+  index: -1
+m_emachine_groggyear3
+  rotate: false
+  xy: 230, 1652
+  size: 102, 60
+  orig: 102, 60
+  offset: 0, 0
+  index: -1
+m_emachine_ear2
+  rotate: false
+  xy: 399, 393
+  size: 71, 104
+  orig: 93, 144
+  offset: 13, 16
+  index: -1
+m_emachine_groggyarm11
+  rotate: true
+  xy: 738, 1356
+  size: 126, 153
+  orig: 126, 153
+  offset: 0, 0
+  index: -1
+m_emachine_leg6
+  rotate: false
+  xy: 634, 360
+  size: 360, 247
+  orig: 374, 275
+  offset: 5, 6
+  index: -1
+m_emachine_eye1
+  rotate: true
+  xy: 893, 1356
+  size: 118, 111
+  orig: 118, 111
+  offset: 0, 0
+  index: -1
+m_emachine_light2
+  rotate: true
+  xy: 890, 1561
+  size: 90, 85
+  orig: 116, 119
+  offset: 9, 20
+  index: -1
+m_emachine_needle1
+  rotate: true
+  xy: 472, 461
+  size: 35, 97
+  orig: 95, 121
+  offset: 9, 9
+  index: -1
+m_emachine_leg4
+  rotate: true
+  xy: 364, 1356
+  size: 358, 247
+  orig: 374, 275
+  offset: 5, 5
+  index: -1
+m_emachine_body12
+  rotate: false
+  xy: 2, 2
+  size: 630, 315
+  orig: 630, 317
+  offset: 0, 2
+  index: -1
+m_emachine_ear1
+  rotate: false
+  xy: 386, 1056
+  size: 235, 198
+  orig: 295, 254
+  offset: 36, 35
+  index: -1
+m_emachine_groggymouth12
+  rotate: false
+  xy: 470, 1256
+  size: 146, 82
+  orig: 146, 82
+  offset: 0, 0
+  index: -1
+m_emachine_light1
+  rotate: false
+  xy: 399, 649
+  size: 208, 164
+  orig: 208, 164
+  offset: 0, 0
+  index: -1
+m_emachine_groggyneedle1
+  rotate: true
+  xy: 863, 1656
+  size: 53, 83
+  orig: 95, 121
+  offset: 14, 24
+  index: -1
+m_emachine_leg3
+  rotate: false
+  xy: 628, 609
+  size: 360, 247
+  orig: 374, 275
+  offset: 5, 6
+  index: -1
+m_emachine_mouth12
+  rotate: false
+  xy: 2, 691
+  size: 395, 286
+  orig: 395, 286
+  offset: 0, 0
+  index: -1
+m_emachine_groggyarm2
+  rotate: true
+  xy: 738, 1484
+  size: 50, 144
+  orig: 50, 144
+  offset: 0, 0
+  index: -1
+m_emachine_groggysmallhead
+  rotate: false
+  xy: 668, 1678
+  size: 68, 39
+  orig: 68, 39
+  offset: 0, 0
+  index: -1
+m_emachine_arm11
+  rotate: true
+  xy: 179, 1504
+  size: 146, 153
+  orig: 146, 153
+  offset: 0, 0
+  index: -1
+m_emachine_ladder11
+  rotate: false
+  xy: 613, 1356
+  size: 110, 320
+  orig: 110, 320
+  offset: 0, 0
+  index: -1
+m_emachine_groggyjoy
+  rotate: true
+  xy: 977, 1561
+  size: 53, 31
+  orig: 53, 31
+  offset: 0, 0
+  index: -1
+m_emachine_groggysmallmouth
+  rotate: false
+  xy: 571, 461
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+m_emachine_ear3
+  rotate: false
+  xy: 399, 815
+  size: 200, 153
+  orig: 200, 153
+  offset: 0, 0
+  index: -1
+m_emachine_leg5
+  rotate: false
+  xy: 623, 1107
+  size: 358, 247
+  orig: 374, 275
+  offset: 5, 6
+  index: -1
+m_emachine_groggyeye1
+  rotate: true
+  xy: 725, 1536
+  size: 118, 68
+  orig: 118, 68
+  offset: 0, 0
+  index: -1
+m_emachine_groggymouth11
+  rotate: true
+  xy: 2, 1504
+  size: 200, 74
+  orig: 200, 74
+  offset: 0, 0
+  index: -1
+m_emachine_ground
+  rotate: false
+  xy: 2, 319
+  size: 468, 72
+  orig: 468, 72
+  offset: 0, 0
+  index: -1
+m_emachine_smallhead
+  rotate: false
+  xy: 364, 1256
+  size: 104, 96
+  orig: 104, 96
+  offset: 0, 0
+  index: -1
+m_emachine_arm2
+  rotate: true
+  xy: 2, 979
+  size: 194, 382
+  orig: 194, 382
+  offset: 0, 0
+  index: -1
+m_emachine_groggyhead
+  rotate: false
+  xy: 399, 499
+  size: 227, 148
+  orig: 227, 148
+  offset: 0, 0
+  index: -1
+m_emachine_smallbody
+  rotate: false
+  xy: 472, 319
+  size: 160, 140
+  orig: 160, 140
+  offset: 0, 0
+  index: -1
+m_emachine_head
+  rotate: false
+  xy: 634, 2
+  size: 367, 356
+  orig: 367, 356
+  offset: 0, 0
+  index: -1
+m_emachine_joy
+  rotate: false
+  xy: 613, 1678
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+m_emachine_mouth11
+  rotate: false
+  xy: 399, 970
+  size: 200, 84
+  orig: 200, 84
+  offset: 0, 0
+  index: -1
+m_emachine_smallmouth
+  rotate: false
+  xy: 795, 1536
+  size: 93, 70
+  orig: 93, 70
+  offset: 0, 0
+  index: -1
+m_emachine_groggyeye2
+  rotate: true
+  xy: 818, 1656
+  size: 57, 43
+  orig: 57, 43
+  offset: 0, 0
+  index: -1
+m_emachine_body22
+  rotate: true
+  xy: 78, 1504
+  size: 196, 99
+  orig: 196, 99
+  offset: 0, 0
+  index: -1
+m_emachine_arm12
+  rotate: false
+  xy: 2, 393
+  size: 395, 296
+  orig: 395, 296
+  offset: 0, 0
+  index: -1
+m_emachine_leg2
+  rotate: false
+  xy: 628, 858
+  size: 360, 247
+  orig: 374, 275
+  offset: 5, 6
+  index: -1
+m_emachine_groggyear2
+  rotate: true
+  xy: 179, 1652
+  size: 64, 49
+  orig: 94, 79
+  offset: 12, 18
+  index: -1
+m_emachine_groggysmallbody
+  rotate: false
+  xy: 893, 1476
+  size: 108, 83
+  orig: 108, 83
+  offset: 0, 0
+  index: -1
+m_emachine_smallarm
+  rotate: false
+  xy: 738, 1656
+  size: 78, 57
+  orig: 78, 57
+  offset: 0, 0
+  index: -1
+m_emachine_ladder12
+  rotate: true
+  xy: 2, 1424
+  size: 78, 329
+  orig: 78, 329
+  offset: 0, 0
+  index: -1
+m_emachine_eye2
+  rotate: false
+  xy: 948, 1653
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+m_emachine_groggysmallarm
+  rotate: true
+  xy: 601, 815
+  size: 62, 25
+  orig: 62, 25
+  offset: 0, 0
+  index: -1

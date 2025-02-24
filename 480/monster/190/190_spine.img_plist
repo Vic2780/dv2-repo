@@ -1,0 +1,200 @@
+190_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_dhempbanon2_foot
+  rotate: true
+  xy: 367, 978
+  size: 101, 117
+  orig: 101, 119
+  offset: 0, 2
+  index: -1
+m_dhempbanon2_body2
+  rotate: false
+  xy: 360, 1081
+  size: 103, 97
+  orig: 107, 101
+  offset: 1, 3
+  index: -1
+m_dhempbanon2_groggy_body2
+  rotate: true
+  xy: 465, 1115
+  size: 29, 41
+  orig: 107, 101
+  offset: 71, 29
+  index: -1
+m_dhempbanon2_sk
+  rotate: false
+  xy: 364, 1390
+  size: 93, 91
+  orig: 95, 99
+  offset: 1, 6
+  index: -1
+m_dhempbanon2_sm2
+  rotate: true
+  xy: 455, 773
+  size: 75, 46
+  orig: 83, 50
+  offset: 5, 0
+  index: -1
+m_dhempbanon2_eye
+  rotate: false
+  xy: 465, 1081
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+m_dhempbanon2_sc
+  rotate: true
+  xy: 346, 1483
+  size: 61, 64
+  orig: 61, 68
+  offset: 0, 1
+  index: -1
+m_dhempbanon2_boll
+  rotate: false
+  xy: 324, 404
+  size: 161, 168
+  orig: 161, 168
+  offset: 0, 0
+  index: -1
+m_dhempbanon2_groggy_boll
+  rotate: true
+  xy: 367, 858
+  size: 118, 111
+  orig: 164, 167
+  offset: 19, 39
+  index: -1
+m_dhempbanon2_groggy_leg
+  rotate: false
+  xy: 487, 404
+  size: 19, 44
+  orig: 105, 98
+  offset: 60, 25
+  index: -1
+m_dhempbanon2_groggy_haed3
+  rotate: false
+  xy: 352, 1180
+  size: 100, 103
+  orig: 214, 161
+  offset: 26, 19
+  index: -1
+smog1
+  rotate: true
+  xy: 2, 2
+  size: 866, 320
+  orig: 866, 320
+  offset: 0, 0
+  index: -1
+m_dhempbanon2_ca
+  rotate: false
+  xy: 435, 574
+  size: 64, 135
+  orig: 70, 135
+  offset: 5, 0
+  index: -1
+m_dhempbanon2_belt
+  rotate: false
+  xy: 435, 711
+  size: 54, 60
+  orig: 60, 60
+  offset: 3, 0
+  index: -1
+m_dhempbanon2_arm2
+  rotate: true
+  xy: 252, 1462
+  size: 77, 92
+  orig: 77, 94
+  offset: 0, 0
+  index: -1
+smog2
+  rotate: true
+  xy: 2, 870
+  size: 644, 248
+  orig: 644, 248
+  offset: 0, 0
+  index: -1
+m_dhempbanon2_groggy_haed2
+  rotate: true
+  xy: 324, 574
+  size: 202, 109
+  orig: 214, 161
+  offset: 5, 43
+  index: -1
+m_dhempbanon2_er
+  rotate: true
+  xy: 454, 1180
+  size: 48, 46
+  orig: 50, 50
+  offset: 0, 2
+  index: -1
+m_dhempbanon2_groggy_er
+  rotate: false
+  xy: 485, 2
+  size: 20, 36
+  orig: 50, 50
+  offset: 13, 12
+  index: -1
+m_dhempbanon2_inhaed1
+  rotate: true
+  xy: 252, 1029
+  size: 148, 106
+  orig: 152, 108
+  offset: 2, 0
+  index: -1
+m_dhempbanon2_haed1
+  rotate: true
+  xy: 252, 1179
+  size: 155, 98
+  orig: 157, 98
+  offset: 2, 0
+  index: -1
+m_dhempbanon2_arm1
+  rotate: false
+  xy: 252, 870
+  size: 113, 157
+  orig: 113, 157
+  offset: 0, 0
+  index: -1
+m_dhempbanon2_body1
+  rotate: false
+  xy: 324, 212
+  size: 173, 190
+  orig: 173, 194
+  offset: 0, 1
+  index: -1
+m_dhempbanon2_groggy_hand
+  rotate: false
+  xy: 412, 1483
+  size: 54, 58
+  orig: 124, 112
+  offset: 9, 51
+  index: -1
+m_dhempbanon2_groggy_haed1
+  rotate: false
+  xy: 324, 778
+  size: 129, 78
+  orig: 157, 98
+  offset: 11, 6
+  index: -1
+m_dhempbanon2_hand
+  rotate: true
+  xy: 252, 1336
+  size: 124, 110
+  orig: 124, 112
+  offset: 0, 0
+  index: -1
+m_dhempbanon2_leg
+  rotate: true
+  xy: 364, 1285
+  size: 103, 98
+  orig: 105, 98
+  offset: 0, 0
+  index: -1
+m_dhempbanon2_haed2
+  rotate: true
+  xy: 324, 2
+  size: 208, 159
+  orig: 214, 161
+  offset: 1, 0
+  index: -1

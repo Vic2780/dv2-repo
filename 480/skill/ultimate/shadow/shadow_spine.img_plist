@@ -1,0 +1,158 @@
+shadow_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+shadow_blaze4
+  rotate: false
+  xy: 548, 2
+  size: 190, 296
+  orig: 190, 296
+  offset: 0, 0
+  index: -1
+shadow_circle1
+  rotate: true
+  xy: 813, 2
+  size: 233, 56
+  orig: 233, 56
+  offset: 0, 0
+  index: -1
+shadow_marsh1
+  rotate: true
+  xy: 1223, 2
+  size: 182, 43
+  orig: 184, 43
+  offset: 1, 0
+  index: -1
+shadow_exattack1
+  rotate: true
+  xy: 871, 2
+  size: 225, 62
+  orig: 227, 64
+  offset: 1, 1
+  index: -1
+shadow_blazeatt2
+  rotate: true
+  xy: 1510, 2
+  size: 104, 408
+  orig: 104, 408
+  offset: 0, 0
+  index: -1
+shadow_blaze1
+  rotate: false
+  xy: 1155, 217
+  size: 125, 99
+  orig: 125, 99
+  offset: 0, 0
+  index: -1
+shadow_blaze5
+  rotate: false
+  xy: 178, 2
+  size: 175, 304
+  orig: 175, 304
+  offset: 0, 0
+  index: -1
+shadow_blazeatt1
+  rotate: true
+  xy: 1462, 208
+  size: 111, 410
+  orig: 111, 410
+  offset: 0, 0
+  index: -1
+shadow_start1
+  rotate: false
+  xy: 846, 237
+  size: 92, 65
+  orig: 92, 65
+  offset: 0, 0
+  index: -1
+shadow_exattack2
+  rotate: false
+  xy: 940, 228
+  size: 101, 90
+  orig: 103, 92
+  offset: 2, 0
+  index: -1
+shadow_blaze2
+  rotate: false
+  xy: 1077, 2
+  size: 144, 213
+  orig: 144, 213
+  offset: 0, 0
+  index: -1
+shadow_blaze6
+  rotate: false
+  xy: 2, 2
+  size: 174, 308
+  orig: 174, 308
+  offset: 0, 0
+  index: -1
+shadow_marsh3
+  rotate: true
+  xy: 1268, 2
+  size: 179, 44
+  orig: 181, 44
+  offset: 1, 0
+  index: -1
+shadow_circle3
+  rotate: true
+  xy: 935, 2
+  size: 224, 140
+  orig: 224, 140
+  offset: 0, 0
+  index: -1
+shadow_start2
+  rotate: false
+  xy: 1043, 228
+  size: 110, 61
+  orig: 110, 61
+  offset: 0, 0
+  index: -1
+shadow_exattack3
+  rotate: false
+  xy: 1282, 183
+  size: 178, 119
+  orig: 178, 119
+  offset: 0, 0
+  index: -1
+shadow_blaze3
+  rotate: false
+  xy: 355, 2
+  size: 191, 302
+  orig: 191, 302
+  offset: 0, 0
+  index: -1
+shadow_marsh2
+  rotate: true
+  xy: 1314, 2
+  size: 174, 44
+  orig: 176, 44
+  offset: 1, 0
+  index: -1
+shadow_circle2
+  rotate: true
+  xy: 740, 2
+  size: 247, 71
+  orig: 247, 71
+  offset: 0, 0
+  index: -1
+shadow_start3
+  rotate: false
+  xy: 740, 251
+  size: 104, 65
+  orig: 104, 65
+  offset: 0, 0
+  index: -1
+shadow_blazeatt3
+  rotate: true
+  xy: 1510, 108
+  size: 98, 407
+  orig: 98, 407
+  offset: 0, 0
+  index: -1
+shadow_exattack4
+  rotate: false
+  xy: 1360, 2
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1

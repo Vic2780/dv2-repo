@@ -1,0 +1,529 @@
+dragon_171_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_cats_adult_l_wing2
+  rotate: false
+  xy: 587, 2
+  size: 158, 81
+  orig: 158, 81
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_neckfur
+  rotate: true
+  xy: 907, 2
+  size: 74, 42
+  orig: 74, 42
+  offset: 0, 0
+  index: -1
+dragon_cats_child_tail
+  rotate: true
+  xy: 463, 2
+  size: 83, 70
+  orig: 83, 70
+  offset: 0, 0
+  index: -1
+dragon_cats_child_body1
+  rotate: false
+  xy: 951, 2
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+dragon_cats_child_leg2a
+  rotate: true
+  xy: 493, 87
+  size: 24, 52
+  orig: 24, 52
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_eye3
+  rotate: false
+  xy: 362, 103
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_r_leg2b
+  rotate: false
+  xy: 1535, 75
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_l_leg2e
+  rotate: true
+  xy: 1480, 2
+  size: 38, 13
+  orig: 38, 13
+  offset: 0, 0
+  index: -1
+dragon_cats_baby_leg2
+  rotate: false
+  xy: 1428, 2
+  size: 19, 42
+  orig: 19, 42
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_l_leg1a
+  rotate: false
+  xy: 1107, 65
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_r_leg1d
+  rotate: false
+  xy: 1515, 19
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_tooth
+  rotate: false
+  xy: 380, 103
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_l_leg2a
+  rotate: false
+  xy: 1364, 2
+  size: 31, 56
+  orig: 31, 56
+  offset: 0, 0
+  index: -1
+dragon_cats_child_leg1a
+  rotate: true
+  xy: 763, 85
+  size: 23, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_l_leg1d
+  rotate: true
+  xy: 1498, 2
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+dragon_cats_baby_mouth
+  rotate: true
+  xy: 1535, 54
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_body
+  rotate: true
+  xy: 228, 2
+  size: 110, 56
+  orig: 110, 56
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_eye2
+  rotate: false
+  xy: 324, 103
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_r_leg2a
+  rotate: false
+  xy: 1375, 60
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+dragon_cats_baby_fur
+  rotate: true
+  xy: 1063, 2
+  size: 64, 41
+  orig: 64, 41
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_l_leg2d
+  rotate: true
+  xy: 1497, 83
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_r_wing2
+  rotate: false
+  xy: 2, 2
+  size: 111, 110
+  orig: 111, 110
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_l_leg1db
+  rotate: true
+  xy: 1412, 54
+  size: 44, 15
+  orig: 44, 15
+  offset: 0, 0
+  index: -1
+dragon_cats_baby_head
+  rotate: true
+  xy: 1003, 2
+  size: 68, 58
+  orig: 68, 58
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_r_leg2e
+  rotate: false
+  xy: 1412, 100
+  size: 32, 11
+  orig: 32, 11
+  offset: 0, 0
+  index: -1
+dragon_cats_child_heart
+  rotate: false
+  xy: 963, 73
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_cats_baby_leg3
+  rotate: true
+  xy: 904, 85
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+dragon_cats_baby_wing2
+  rotate: false
+  xy: 1060, 72
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_neck
+  rotate: false
+  xy: 1011, 72
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_bell
+  rotate: false
+  xy: 1515, 82
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+dragon_cats_child_wing2
+  rotate: false
+  xy: 535, 2
+  size: 50, 82
+  orig: 50, 82
+  offset: 0, 0
+  index: -1
+dragon_cats_baby_eye2
+  rotate: true
+  xy: 1142, 65
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+dragon_cats_child_eye3
+  rotate: false
+  xy: 444, 90
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+dragon_cats_baby_chin
+  rotate: true
+  xy: 1498, 40
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_r_leg1c
+  rotate: true
+  xy: 656, 85
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_heart
+  rotate: false
+  xy: 963, 73
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_eye5
+  rotate: false
+  xy: 286, 103
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_r_leg2d
+  rotate: true
+  xy: 1479, 83
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_chin
+  rotate: false
+  xy: 1535, 92
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+dragon_cats_baby_leg4
+  rotate: false
+  xy: 944, 78
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+dragon_cats_child_bell
+  rotate: true
+  xy: 419, 90
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+dragon_cats_baby_wing1
+  rotate: true
+  xy: 1332, 60
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_l_leg1c
+  rotate: true
+  xy: 675, 85
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+dragon_cats_child_eye2
+  rotate: true
+  xy: 1515, 35
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_l_leg2c
+  rotate: false
+  xy: 1449, 2
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_eye
+  rotate: false
+  xy: 343, 103
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+dragon_cats_baby_note2
+  rotate: false
+  xy: 1429, 46
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_cats_child_leg4
+  rotate: false
+  xy: 1209, 63
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_r_leg1b
+  rotate: true
+  xy: 463, 87
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+dragon_cats_child_wing1
+  rotate: false
+  xy: 419, 2
+  size: 42, 86
+  orig: 42, 86
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_eye4
+  rotate: false
+  xy: 305, 103
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+dragon_cats_baby_eye3
+  rotate: true
+  xy: 1175, 64
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_tail
+  rotate: false
+  xy: 286, 2
+  size: 131, 99
+  orig: 131, 99
+  offset: 0, 0
+  index: -1
+dragon_cats_child_body2
+  rotate: false
+  xy: 1279, 62
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+dragon_cats_child_leg2b
+  rotate: false
+  xy: 814, 85
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_l_leg1b
+  rotate: true
+  xy: 1446, 89
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_l_wing
+  rotate: false
+  xy: 747, 2
+  size: 158, 81
+  orig: 158, 81
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_head
+  rotate: true
+  xy: 1152, 2
+  size: 60, 49
+  orig: 60, 49
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_l_leg2b
+  rotate: true
+  xy: 694, 85
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+dragon_cats_baby_note1
+  rotate: false
+  xy: 1466, 43
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_cats_adult_r_leg1a
+  rotate: true
+  xy: 862, 85
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+dragon_cats_baby_tail
+  rotate: false
+  xy: 1397, 2
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_footeff
+  rotate: true
+  xy: 1106, 2
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+dragon_cats_child_eye
+  rotate: false
+  xy: 1498, 59
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+dragon_cats_baby_body
+  rotate: false
+  xy: 1203, 2
+  size: 50, 59
+  orig: 50, 59
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_r_wing1
+  rotate: false
+  xy: 115, 2
+  size: 111, 110
+  orig: 111, 110
+  offset: 0, 0
+  index: -1
+dragon_cats_child_head
+  rotate: false
+  xy: 1255, 2
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_r_leg2c
+  rotate: true
+  xy: 590, 85
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+dragon_cats_adult_r_leg1db
+  rotate: false
+  xy: 1515, 2
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1
+dragon_cats_child_leg1b
+  rotate: false
+  xy: 712, 85
+  size: 49, 23
+  orig: 49, 23
+  offset: 0, 0
+  index: -1
+dragon_cats_baby_leg1
+  rotate: true
+  xy: 547, 86
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+dragon_cats_baby_eye
+  rotate: true
+  xy: 1246, 63
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+dragon_cats_child_chin
+  rotate: true
+  xy: 1538, 35
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_cats_child_fur
+  rotate: true
+  xy: 1311, 2
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+dragon_cats_baby_bell
+  rotate: true
+  xy: 626, 85
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,291 @@
+dragon_9007_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_farfalla_adult_r_wing3
+  rotate: true
+  xy: 609, 2
+  size: 328, 128
+  orig: 328, 128
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_r_finger3
+  rotate: false
+  xy: 2, 383
+  size: 49, 108
+  orig: 49, 108
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_l_wing2
+  rotate: false
+  xy: 342, 2
+  size: 265, 343
+  orig: 265, 343
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_main1a
+  rotate: true
+  xy: 1945, 235
+  size: 95, 91
+  orig: 95, 91
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_headt
+  rotate: true
+  xy: 53, 383
+  size: 107, 89
+  orig: 107, 89
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_tail1
+  rotate: false
+  xy: 1847, 346
+  size: 71, 112
+  orig: 71, 112
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_l_wing1
+  rotate: true
+  xy: 1920, 338
+  size: 92, 100
+  orig: 92, 100
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_main1b
+  rotate: true
+  xy: 1708, 2
+  size: 140, 137
+  orig: 142, 139
+  offset: 1, 1
+  index: -1
+dragon_farfalla_adult_body2
+  rotate: true
+  xy: 1975, 432
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_chin
+  rotate: true
+  xy: 1920, 432
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_l_arm2
+  rotate: false
+  xy: 942, 303
+  size: 65, 175
+  orig: 65, 175
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_eye
+  rotate: false
+  xy: 739, 303
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_l_wing4
+  rotate: false
+  xy: 1847, 69
+  size: 141, 94
+  orig: 141, 94
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_ill
+  rotate: true
+  xy: 2, 2
+  size: 379, 168
+  orig: 379, 168
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_mainc
+  rotate: false
+  xy: 1398, 246
+  size: 233, 234
+  orig: 233, 234
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_main2
+  rotate: false
+  xy: 493, 347
+  size: 164, 142
+  orig: 164, 142
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_l_arm1
+  rotate: true
+  xy: 1708, 144
+  size: 75, 131
+  orig: 75, 131
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_r_wing2
+  rotate: false
+  xy: 1085, 2
+  size: 265, 278
+  orig: 265, 278
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_l_wing3
+  rotate: true
+  xy: 739, 2
+  size: 299, 212
+  orig: 299, 212
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_r_arm1
+  rotate: true
+  xy: 1919, 165
+  size: 68, 116
+  orig: 68, 116
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_maind
+  rotate: true
+  xy: 1352, 2
+  size: 242, 224
+  orig: 242, 224
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_main3
+  rotate: true
+  xy: 1578, 2
+  size: 217, 128
+  orig: 217, 128
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_tail2
+  rotate: false
+  xy: 1009, 289
+  size: 215, 196
+  orig: 215, 196
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_head
+  rotate: false
+  xy: 1693, 221
+  size: 141, 150
+  orig: 141, 150
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_r_arm2
+  rotate: false
+  xy: 258, 356
+  size: 86, 132
+  orig: 86, 132
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_main4
+  rotate: true
+  xy: 953, 2
+  size: 285, 130
+  orig: 287, 130
+  offset: 2, 0
+  index: -1
+dragon_farfalla_adult_body3
+  rotate: true
+  xy: 1226, 282
+  size: 210, 170
+  orig: 210, 170
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_l_finger2
+  rotate: false
+  xy: 1633, 221
+  size: 58, 161
+  orig: 58, 161
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_r_wing4
+  rotate: true
+  xy: 1772, 373
+  size: 119, 73
+  orig: 119, 73
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_l_finger1
+  rotate: true
+  xy: 1847, 2
+  size: 65, 146
+  orig: 65, 146
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_r_wing1
+  rotate: false
+  xy: 1888, 235
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_main6
+  rotate: true
+  xy: 172, 2
+  size: 352, 168
+  orig: 352, 168
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_neck2
+  rotate: true
+  xy: 1633, 384
+  size: 104, 137
+  orig: 104, 137
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_horn
+  rotate: true
+  xy: 1841, 165
+  size: 53, 76
+  orig: 53, 76
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_body1
+  rotate: false
+  xy: 400, 347
+  size: 91, 143
+  orig: 91, 143
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_eyelight
+  rotate: true
+  xy: 1352, 246
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_r_finger2
+  rotate: false
+  xy: 1995, 2
+  size: 36, 131
+  orig: 36, 131
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_neck1
+  rotate: false
+  xy: 144, 383
+  size: 112, 105
+  orig: 112, 105
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_main5
+  rotate: false
+  xy: 659, 332
+  size: 281, 159
+  orig: 281, 159
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_l_finger3
+  rotate: false
+  xy: 346, 347
+  size: 52, 145
+  orig: 52, 145
+  offset: 0, 0
+  index: -1
+dragon_farfalla_adult_r_finger1
+  rotate: false
+  xy: 1836, 221
+  size: 50, 123
+  orig: 50, 123
+  offset: 0, 0
+  index: -1

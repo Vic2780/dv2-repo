@@ -1,0 +1,431 @@
+dragon_4043_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_mine_adult_leg2
+  rotate: false
+  xy: 158, 746
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+dragon_mine_baby_mouth
+  rotate: false
+  xy: 192, 787
+  size: 52, 24
+  orig: 52, 24
+  offset: 0, 0
+  index: -1
+dragon_mine_adult_head1
+  rotate: true
+  xy: 2, 813
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1
+dragon_mine_baby_head2
+  rotate: false
+  xy: 139, 358
+  size: 68, 52
+  orig: 68, 52
+  offset: 0, 0
+  index: -1
+dragon_mine_adult_arm3
+  rotate: false
+  xy: 194, 732
+  size: 58, 22
+  orig: 58, 22
+  offset: 0, 0
+  index: -1
+dragon_mine_adult_leg3
+  rotate: false
+  xy: 224, 2
+  size: 28, 65
+  orig: 28, 65
+  offset: 0, 0
+  index: -1
+dragon_mine_baby_arm1
+  rotate: true
+  xy: 63, 861
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+dragon_mine_baby_teeth
+  rotate: false
+  xy: 32, 880
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+dragon_mine_baby_tail
+  rotate: false
+  xy: 2, 754
+  size: 50, 31
+  orig: 50, 31
+  offset: 0, 0
+  index: -1
+dragon_mine_child_eye
+  rotate: true
+  xy: 189, 841
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+dragon_mine_child_arm2
+  rotate: false
+  xy: 211, 276
+  size: 39, 36
+  orig: 41, 36
+  offset: 2, 0
+  index: -1
+dragon_mine_baby_arm3
+  rotate: true
+  xy: 2, 787
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+dragon_mine_child_ball2
+  rotate: false
+  xy: 206, 427
+  size: 46, 46
+  orig: 62, 62
+  offset: 8, 8
+  index: -1
+dragon_mine_child_leg2
+  rotate: true
+  xy: 105, 625
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+dragon_mine_baby_leg1
+  rotate: true
+  xy: 158, 778
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+dragon_mine_child_arm1
+  rotate: false
+  xy: 91, 696
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+dragon_mine_child_leg1
+  rotate: true
+  xy: 193, 756
+  size: 29, 56
+  orig: 29, 56
+  offset: 0, 0
+  index: -1
+dragon_mine_adult_at1
+  rotate: true
+  xy: 2, 506
+  size: 65, 124
+  orig: 135, 242
+  offset: 15, 15
+  index: -1
+dragon_mine_adult_head3
+  rotate: false
+  xy: 127, 694
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1
+dragon_mine_child_tail
+  rotate: true
+  xy: 205, 475
+  size: 105, 47
+  orig: 105, 47
+  offset: 0, 0
+  index: -1
+dragon_mine_adult_arm1
+  rotate: true
+  xy: 91, 798
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+dragon_mine_child_arm3
+  rotate: false
+  xy: 54, 754
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+dragon_mine_adult_ball2
+  rotate: false
+  xy: 142, 845
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+dragon_mine_child_ball1
+  rotate: false
+  xy: 232, 837
+  size: 20, 20
+  orig: 62, 62
+  offset: 21, 21
+  index: -1
+dragon_mine_child_leg3
+  rotate: false
+  xy: 105, 573
+  size: 21, 50
+  orig: 21, 50
+  offset: 0, 0
+  index: -1
+dragon_mine_adult_leg1
+  rotate: true
+  xy: 130, 412
+  size: 34, 74
+  orig: 34, 74
+  offset: 0, 0
+  index: -1
+dragon_mine_child_mouth
+  rotate: false
+  xy: 205, 813
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+dragon_mine_adult_neck
+  rotate: false
+  xy: 197, 663
+  size: 52, 67
+  orig: 52, 67
+  offset: 0, 0
+  index: -1
+dragon_mine_adult_tail
+  rotate: false
+  xy: 2, 304
+  size: 135, 72
+  orig: 135, 72
+  offset: 0, 0
+  index: -1
+dragon_mine_adult_eye
+  rotate: true
+  xy: 130, 391
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+dragon_mine_adult_body2
+  rotate: false
+  xy: 130, 448
+  size: 73, 108
+  orig: 73, 108
+  offset: 0, 0
+  index: -1
+dragon_mine_baby_head3
+  rotate: false
+  xy: 139, 304
+  size: 68, 52
+  orig: 68, 52
+  offset: 0, 0
+  index: -1
+dragon_mine_adult_ball1
+  rotate: false
+  xy: 20, 787
+  size: 22, 22
+  orig: 38, 38
+  offset: 8, 8
+  index: -1
+dragon_mine_child_leg4
+  rotate: false
+  xy: 224, 97
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+dragon_mine_adult_body1
+  rotate: true
+  xy: 128, 612
+  size: 80, 67
+  orig: 80, 67
+  offset: 0, 0
+  index: -1
+dragon_mine_adult_stone2
+  rotate: true
+  xy: 197, 644
+  size: 17, 53
+  orig: 17, 53
+  offset: 0, 0
+  index: -1
+dragon_mine_adult_leg4
+  rotate: true
+  xy: 155, 800
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+dragon_mine_adult_mouth
+  rotate: false
+  xy: 54, 778
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+dragon_mine_baby_ball1
+  rotate: false
+  xy: 205, 837
+  size: 25, 25
+  orig: 59, 59
+  offset: 16, 17
+  index: -1
+dragon_mine_child_heart
+  rotate: true
+  xy: 211, 228
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_mine_baby_shining
+  rotate: true
+  xy: 224, 69
+  size: 26, 28
+  orig: 32, 32
+  offset: 3, 3
+  index: -1
+dragon_mine_adult_spin
+  rotate: false
+  xy: 2, 113
+  size: 207, 189
+  orig: 225, 225
+  offset: 5, 18
+  index: -1
+dragon_mine_baby_arm2
+  rotate: true
+  xy: 63, 839
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+dragon_mine_child_head2
+  rotate: true
+  xy: 211, 116
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1
+dragon_mine_baby_leg2
+  rotate: false
+  xy: 188, 813
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+dragon_mine_adult_leg5
+  rotate: true
+  xy: 63, 799
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+dragon_mine_baby_head1
+  rotate: false
+  xy: 128, 558
+  size: 68, 52
+  orig: 68, 52
+  offset: 0, 0
+  index: -1
+dragon_mine_baby_eye
+  rotate: true
+  xy: 232, 859
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+dragon_mine_child_stone
+  rotate: true
+  xy: 2, 880
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+dragon_mine_baby_body
+  rotate: true
+  xy: 198, 582
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+dragon_mine_child_body
+  rotate: false
+  xy: 2, 573
+  size: 101, 90
+  orig: 101, 90
+  offset: 0, 0
+  index: -1
+dragon_mine_child_neck
+  rotate: false
+  xy: 209, 314
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+dragon_mine_adult_at2
+  rotate: true
+  xy: 2, 2
+  size: 109, 220
+  orig: 135, 242
+  offset: 14, 14
+  index: -1
+dragon_mine_adult_head2
+  rotate: false
+  xy: 91, 746
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1
+dragon_mine_adult_jem
+  rotate: false
+  xy: 2, 665
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+dragon_mine_adult_stone1
+  rotate: false
+  xy: 105, 650
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+dragon_mine_adult_arm2
+  rotate: true
+  xy: 209, 372
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+dragon_mine_baby_ball2
+  rotate: false
+  xy: 91, 845
+  size: 49, 49
+  orig: 59, 59
+  offset: 4, 5
+  index: -1
+dragon_mine_baby_light
+  rotate: false
+  xy: 2, 378
+  size: 126, 126
+  orig: 142, 140
+  offset: 8, 8
+  index: -1
+dragon_mine_child_head1
+  rotate: true
+  xy: 211, 172
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1
+dragon_mine_baby_leg3
+  rotate: true
+  xy: 130, 378
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1

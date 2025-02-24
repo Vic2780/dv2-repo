@@ -1,0 +1,480 @@
+dragon_145_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_baload_adult_wing2
+  rotate: true
+  xy: 2, 356
+  size: 173, 107
+  orig: 173, 107
+  offset: 0, 0
+  index: -1
+dragon_baload_adult_leg3
+  rotate: true
+  xy: 211, 561
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+dragon_baload_adult_shock
+  rotate: true
+  xy: 199, 920
+  size: 62, 55
+  orig: 68, 61
+  offset: 2, 3
+  index: -1
+dragon_baload_child_wing2
+  rotate: true
+  xy: 130, 698
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+dragon_baload_child_leg7
+  rotate: false
+  xy: 217, 860
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+dragon_baload_critical_ef2
+  rotate: false
+  xy: 111, 465
+  size: 105, 94
+  orig: 145, 140
+  offset: 31, 8
+  index: -1
+dragon_baload_child_headcrystal
+  rotate: false
+  xy: 218, 820
+  size: 36, 18
+  orig: 56, 42
+  offset: 0, 24
+  index: -1
+dragon_baload_baby_leg4
+  rotate: true
+  xy: 218, 533
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+dragon_baload_adult_leg7
+  rotate: true
+  xy: 211, 619
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+dragon_baload_child_leg2
+  rotate: false
+  xy: 209, 738
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+dragon_baload_baby_mouth
+  rotate: false
+  xy: 220, 428
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+dragon_baload_baby_head1
+  rotate: false
+  xy: 69, 1023
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+dragon_baload_adult_m4
+  rotate: false
+  xy: 2, 2
+  size: 198, 197
+  orig: 198, 197
+  offset: 0, 0
+  index: -1
+dragon_baload_baby_note1
+  rotate: false
+  xy: 186, 1106
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_baload_adult_leg2
+  rotate: false
+  xy: 218, 777
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+dragon_baload_adult_tail
+  rotate: true
+  xy: 2, 839
+  size: 158, 67
+  orig: 158, 67
+  offset: 0, 0
+  index: -1
+dragon_baload_adult_neck2
+  rotate: false
+  xy: 69, 1078
+  size: 48, 60
+  orig: 48, 62
+  offset: 0, 2
+  index: -1
+dragon_baload_child_leg6
+  rotate: false
+  xy: 237, 670
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1
+dragon_baload_baby_bodycrystal
+  rotate: false
+  xy: 236, 498
+  size: 18, 16
+  orig: 44, 52
+  offset: 26, 24
+  index: -1
+dragon_baload_adult_wing1
+  rotate: true
+  xy: 2, 531
+  size: 173, 107
+  orig: 173, 107
+  offset: 0, 0
+  index: -1
+dragon_baload_adult_head2
+  rotate: false
+  xy: 212, 267
+  size: 42, 62
+  orig: 42, 62
+  offset: 0, 0
+  index: -1
+dragon_baload_adult_leg6
+  rotate: true
+  xy: 220, 450
+  size: 18, 33
+  orig: 18, 33
+  offset: 0, 0
+  index: -1
+dragon_baload_child_head2
+  rotate: false
+  xy: 140, 981
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+dragon_baload_child_leg1
+  rotate: true
+  xy: 202, 170
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+dragon_baload_child_wing1
+  rotate: true
+  xy: 138, 838
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+dragon_baload_child_tail
+  rotate: false
+  xy: 130, 780
+  size: 86, 56
+  orig: 86, 56
+  offset: 0, 0
+  index: -1
+dragon_baload_critical_ef1
+  rotate: true
+  xy: 202, 2
+  size: 83, 52
+  orig: 145, 140
+  offset: 57, 11
+  index: -1
+dragon_baload_adult_tailcristal
+  rotate: false
+  xy: 218, 498
+  size: 16, 33
+  orig: 158, 67
+  offset: 141, 17
+  index: -1
+dragon_baload_child_leg5
+  rotate: true
+  xy: 213, 238
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+dragon_baload_adult_body2
+  rotate: true
+  xy: 149, 1069
+  size: 42, 32
+  orig: 46, 32
+  offset: 4, 0
+  index: -1
+dragon_baload_adult_m3
+  rotate: false
+  xy: 2, 201
+  size: 153, 153
+  orig: 153, 153
+  offset: 0, 0
+  index: -1
+dragon_baload_baby_taicrystal
+  rotate: false
+  xy: 236, 516
+  size: 10, 10
+  orig: 44, 28
+  offset: 0, 18
+  index: -1
+dragon_baload_child_tailcrystal
+  rotate: true
+  xy: 234, 732
+  size: 22, 20
+  orig: 86, 56
+  offset: 13, 32
+  index: -1
+dragon_baload_adult_cristal
+  rotate: false
+  xy: 220, 331
+  size: 34, 40
+  orig: 42, 62
+  offset: 8, 22
+  index: -1
+dragon_baload_critical_ef5
+  rotate: true
+  xy: 2, 999
+  size: 147, 65
+  orig: 153, 79
+  offset: 3, 0
+  index: -1
+dragon_baload_adult_leg1
+  rotate: true
+  xy: 202, 133
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+dragon_baload_baby_leg1
+  rotate: false
+  xy: 234, 704
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+dragon_baload_child_neck
+  rotate: true
+  xy: 135, 1025
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+dragon_baload_adult_neck1
+  rotate: true
+  xy: 157, 201
+  size: 64, 54
+  orig: 64, 54
+  offset: 0, 0
+  index: -1
+dragon_baload_adult_mouth
+  rotate: true
+  xy: 161, 1113
+  size: 33, 23
+  orig: 35, 23
+  offset: 2, 0
+  index: -1
+dragon_baload_adult_head1
+  rotate: true
+  xy: 192, 1028
+  size: 42, 62
+  orig: 42, 62
+  offset: 0, 0
+  index: -1
+dragon_baload_adult_leg5
+  rotate: true
+  xy: 209, 698
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+dragon_baload_child_head1
+  rotate: false
+  xy: 198, 984
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+dragon_baload_adult_body2cristal
+  rotate: false
+  xy: 183, 1072
+  size: 40, 32
+  orig: 46, 32
+  offset: 5, 0
+  index: -1
+dragon_baload_child_leg4
+  rotate: false
+  xy: 220, 373
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+dragon_baload_baby_headcrystal
+  rotate: false
+  xy: 157, 333
+  size: 32, 21
+  orig: 64, 53
+  offset: 29, 32
+  index: -1
+dragon_baload_adult_body1cristal
+  rotate: true
+  xy: 119, 1124
+  size: 22, 40
+  orig: 98, 68
+  offset: 0, 22
+  index: -1
+dragon_baload_adult_m2
+  rotate: false
+  xy: 111, 356
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+dragon_baload_child_bodycrystal
+  rotate: false
+  xy: 217, 890
+  size: 32, 25
+  orig: 90, 65
+  offset: 57, 21
+  index: -1
+dragon_baload_baby_wing
+  rotate: true
+  xy: 240, 238
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+dragon_baload_critical_ef4
+  rotate: true
+  xy: 71, 839
+  size: 145, 65
+  orig: 153, 79
+  offset: 3, 0
+  index: -1
+dragon_baload_baby_leg2
+  rotate: true
+  xy: 203, 670
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+dragon_baload_child_anger
+  rotate: false
+  xy: 218, 470
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_baload_adult_body1
+  rotate: false
+  xy: 111, 561
+  size: 98, 68
+  orig: 98, 68
+  offset: 0, 0
+  index: -1
+dragon_baload_adult_eye
+  rotate: false
+  xy: 135, 1069
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+dragon_baload_adult_leg4
+  rotate: true
+  xy: 71, 986
+  size: 35, 67
+  orig: 35, 67
+  offset: 0, 0
+  index: -1
+dragon_baload_baby_tail
+  rotate: true
+  xy: 119, 1078
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+dragon_baload_baby_eye
+  rotate: true
+  xy: 218, 1106
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+dragon_baload_baby_body
+  rotate: true
+  xy: 202, 87
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+dragon_baload_child_body
+  rotate: false
+  xy: 111, 631
+  size: 90, 65
+  orig: 90, 65
+  offset: 0, 0
+  index: -1
+dragon_baload_baby_head2
+  rotate: true
+  xy: 157, 267
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+dragon_baload_baby_note2
+  rotate: true
+  xy: 213, 201
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_baload_adult_m1
+  rotate: false
+  xy: 138, 920
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+dragon_baload_critical_ef3
+  rotate: true
+  xy: 2, 706
+  size: 131, 126
+  orig: 145, 140
+  offset: 5, 6
+  index: -1
+dragon_baload_baby_leg3
+  rotate: true
+  xy: 191, 333
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+dragon_baload_child_leg3
+  rotate: false
+  xy: 225, 1072
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+dragon_baload_child_eye
+  rotate: false
+  xy: 239, 1102
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+dragon_baload_child_mouth
+  rotate: false
+  xy: 217, 840
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1

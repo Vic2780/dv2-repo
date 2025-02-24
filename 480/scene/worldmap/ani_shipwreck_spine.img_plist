@@ -1,0 +1,39 @@
+ani_shipwreck_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+worldmap_ship_wave01
+  rotate: true
+  xy: 76, 2
+  size: 62, 92
+  orig: 92, 96
+  offset: 15, 1
+  index: -1
+worldmap_ship_wave02
+  rotate: false
+  xy: 2, 2
+  size: 72, 86
+  orig: 92, 96
+  offset: 3, 0
+  index: -1
+worldmap_ship_left
+  rotate: true
+  xy: 88, 66
+  size: 42, 37
+  orig: 52, 49
+  offset: 5, 5
+  index: -1
+worldmap_ship_right
+  rotate: true
+  xy: 127, 66
+  size: 30, 38
+  orig: 44, 52
+  offset: 7, 6
+  index: -1
+worldmap_ship_under
+  rotate: false
+  xy: 2, 90
+  size: 84, 33
+  orig: 92, 43
+  offset: 2, 4
+  index: -1

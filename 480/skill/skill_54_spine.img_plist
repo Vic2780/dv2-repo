@@ -1,0 +1,88 @@
+skill_54_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skill_timeBomb8
+  rotate: false
+  xy: 1082, 2
+  size: 298, 256
+  orig: 362, 356
+  offset: 13, 50
+  index: -1
+skill_timeBomb6
+  rotate: false
+  xy: 2, 2
+  size: 358, 346
+  orig: 362, 356
+  offset: 4, 0
+  index: -1
+skill_timeBomb9
+  rotate: false
+  xy: 1652, 2
+  size: 216, 208
+  orig: 362, 356
+  offset: 63, 60
+  index: -1
+skill_timeBomb4
+  rotate: false
+  xy: 1382, 2
+  size: 268, 238
+  orig: 362, 356
+  offset: 42, 46
+  index: -1
+skill_timeBomb7
+  rotate: true
+  xy: 362, 2
+  size: 350, 354
+  orig: 362, 356
+  offset: 12, 2
+  index: -1
+skill_timeBomb2
+  rotate: true
+  xy: 1206, 260
+  size: 57, 116
+  orig: 91, 146
+  offset: 13, 11
+  index: -1
+skill_timeBomb5
+  rotate: false
+  xy: 718, 2
+  size: 362, 318
+  orig: 362, 356
+  offset: 0, 19
+  index: -1
+skill_timeBomb12
+  rotate: true
+  xy: 1382, 242
+  size: 126, 138
+  orig: 362, 356
+  offset: 117, 112
+  index: -1
+skill_timeBomb3
+  rotate: false
+  xy: 1652, 212
+  size: 208, 166
+  orig: 362, 356
+  offset: 74, 76
+  index: -1
+skill_timeBomb1
+  rotate: true
+  xy: 1082, 260
+  size: 57, 122
+  orig: 91, 146
+  offset: 13, 11
+  index: -1
+skill_timeBomb10
+  rotate: true
+  xy: 1870, 2
+  size: 170, 172
+  orig: 362, 356
+  offset: 104, 81
+  index: -1
+skill_timeBomb11
+  rotate: false
+  xy: 1870, 174
+  size: 166, 204
+  orig: 362, 356
+  offset: 106, 46
+  index: -1

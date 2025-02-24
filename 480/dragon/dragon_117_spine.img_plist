@@ -1,0 +1,431 @@
+dragon_117_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_timber_adult_head
+  rotate: false
+  xy: 880, 833
+  size: 55, 68
+  orig: 55, 68
+  offset: 0, 0
+  index: -1
+dragon_timber_adult_e8
+  rotate: false
+  xy: 574, 2
+  size: 284, 293
+  orig: 440, 503
+  offset: 72, 70
+  index: -1
+dragon_timber_baby_leg2
+  rotate: false
+  xy: 751, 1241
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+dragon_timber_adult_legb011
+  rotate: true
+  xy: 979, 44
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+dragon_timber_child_bug2
+  rotate: false
+  xy: 938, 1209
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_timber_child_leg11
+  rotate: true
+  xy: 973, 727
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+dragon_timber_cri9
+  rotate: true
+  xy: 549, 995
+  size: 244, 221
+  orig: 440, 503
+  offset: 100, 48
+  index: -1
+dragon_timber_child_leg1
+  rotate: true
+  xy: 967, 268
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+dragon_timber_adult_e10
+  rotate: true
+  xy: 860, 2
+  size: 222, 117
+  orig: 440, 503
+  offset: 122, 96
+  index: -1
+dragon_timber_adult_foot02
+  rotate: false
+  xy: 549, 1241
+  size: 45, 22
+  orig: 45, 22
+  offset: 0, 0
+  index: -1
+dragon_timber_adult_ef1
+  rotate: true
+  xy: 801, 520
+  size: 164, 72
+  orig: 164, 80
+  offset: 0, 0
+  index: -1
+dragon_timber_adult_ac
+  rotate: false
+  xy: 973, 752
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+dragon_timber_adult_mouth
+  rotate: true
+  xy: 929, 1239
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+dragon_timber_cri2
+  rotate: true
+  xy: 578, 520
+  size: 244, 221
+  orig: 440, 503
+  offset: 100, 48
+  index: -1
+dragon_timber_adult_bug3
+  rotate: false
+  xy: 676, 1241
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_timber_adult_e5
+  rotate: true
+  xy: 772, 989
+  size: 218, 201
+  orig: 440, 503
+  offset: 126, 72
+  index: -1
+dragon_timber_cri1
+  rotate: false
+  xy: 634, 766
+  size: 244, 221
+  orig: 440, 503
+  offset: 100, 48
+  index: -1
+dragon_timber_baby_bug2
+  rotate: false
+  xy: 938, 1209
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_timber_child_head
+  rotate: false
+  xy: 860, 226
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+dragon_timber_adult_e6
+  rotate: true
+  xy: 308, 996
+  size: 266, 239
+  orig: 440, 503
+  offset: 86, 72
+  index: -1
+dragon_timber_child_wing
+  rotate: false
+  xy: 801, 699
+  size: 79, 65
+  orig: 79, 65
+  offset: 0, 0
+  index: -1
+dragon_timber_adult_leg02
+  rotate: false
+  xy: 967, 226
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+dragon_timber_baby_foot3
+  rotate: false
+  xy: 979, 67
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+dragon_timber_cri3
+  rotate: false
+  xy: 288, 598
+  size: 288, 227
+  orig: 440, 503
+  offset: 99, 45
+  index: -1
+dragon_timber_adult_tail
+  rotate: true
+  xy: 875, 608
+  size: 89, 117
+  orig: 89, 117
+  offset: 0, 0
+  index: -1
+dragon_timber_adult_e9
+  rotate: false
+  xy: 2, 365
+  size: 284, 333
+  orig: 440, 503
+  offset: 72, 68
+  index: -1
+dragon_timber_baby_ac21
+  rotate: true
+  xy: 801, 686
+  size: 11, 13
+  orig: 25, 21
+  offset: 3, 0
+  index: -1
+dragon_timber_baby_wing
+  rotate: true
+  xy: 623, 793
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+dragon_timber_adult_leg01
+  rotate: false
+  xy: 578, 766
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+dragon_timber_baby_tail
+  rotate: true
+  xy: 839, 1209
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+dragon_timber_cri4
+  rotate: false
+  xy: 2, 1003
+  size: 304, 265
+  orig: 440, 503
+  offset: 85, 45
+  index: -1
+dragon_timber_adult_bug1
+  rotate: false
+  xy: 726, 1241
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_timber_adult_legb01
+  rotate: true
+  xy: 891, 1209
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+dragon_timber_adult_e3
+  rotate: true
+  xy: 860, 2
+  size: 222, 117
+  orig: 440, 503
+  offset: 122, 96
+  index: -1
+dragon_timber_child_body
+  rotate: false
+  xy: 882, 699
+  size: 89, 76
+  orig: 89, 76
+  offset: 0, 0
+  index: -1
+dragon_timber_baby_body
+  rotate: true
+  xy: 923, 226
+  size: 65, 42
+  orig: 65, 42
+  offset: 0, 0
+  index: -1
+dragon_timber_child_ac
+  rotate: true
+  xy: 937, 833
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+dragon_timber_child_mouth
+  rotate: true
+  xy: 979, 2
+  size: 40, 17
+  orig: 40, 17
+  offset: 0, 0
+  index: -1
+dragon_timber_adult_anger
+  rotate: false
+  xy: 973, 699
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_timber_cri6
+  rotate: false
+  xy: 288, 2
+  size: 284, 323
+  orig: 440, 503
+  offset: 72, 40
+  index: -1
+dragon_timber_baby_ac
+  rotate: true
+  xy: 937, 867
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+dragon_timber_cri5
+  rotate: false
+  xy: 2, 700
+  size: 280, 301
+  orig: 440, 503
+  offset: 72, 40
+  index: -1
+dragon_timber_child_tail
+  rotate: false
+  xy: 880, 777
+  size: 71, 54
+  orig: 71, 54
+  offset: 0, 0
+  index: -1
+dragon_timber_adult_legb02
+  rotate: true
+  xy: 641, 1241
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+dragon_timber_baby_ac2
+  rotate: true
+  xy: 623, 766
+  size: 25, 9
+  orig: 25, 21
+  offset: 0, 12
+  index: -1
+dragon_timber_child_leg2
+  rotate: false
+  xy: 772, 1209
+  size: 65, 41
+  orig: 65, 41
+  offset: 0, 0
+  index: -1
+dragon_timber_baby_head
+  rotate: true
+  xy: 880, 903
+  size: 71, 47
+  orig: 71, 47
+  offset: 0, 0
+  index: -1
+dragon_timber_adult_e7
+  rotate: false
+  xy: 288, 327
+  size: 280, 269
+  orig: 440, 503
+  offset: 72, 72
+  index: -1
+dragon_timber_cri7
+  rotate: false
+  xy: 2, 2
+  size: 284, 361
+  orig: 440, 503
+  offset: 72, 40
+  index: -1
+dragon_timber_adult_bug2
+  rotate: false
+  xy: 701, 1241
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_timber_baby_bug
+  rotate: false
+  xy: 676, 1241
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_timber_adult_wing1
+  rotate: false
+  xy: 284, 827
+  size: 173, 167
+  orig: 173, 167
+  offset: 0, 0
+  index: -1
+dragon_timber_baby_mouth
+  rotate: false
+  xy: 596, 1241
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1
+dragon_timber_adult_e4
+  rotate: true
+  xy: 820, 297
+  size: 218, 179
+  orig: 440, 503
+  offset: 126, 72
+  index: -1
+dragon_timber_adult_foot01
+  rotate: true
+  xy: 953, 777
+  size: 41, 18
+  orig: 41, 18
+  offset: 0, 0
+  index: -1
+dragon_timber_baby_leg1
+  rotate: false
+  xy: 973, 771
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+dragon_timber_adult_body
+  rotate: false
+  xy: 875, 517
+  size: 122, 89
+  orig: 122, 89
+  offset: 0, 0
+  index: -1
+dragon_timber_adult_neck
+  rotate: true
+  xy: 891, 1239
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+dragon_timber_child_bug
+  rotate: false
+  xy: 726, 1241
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_timber_cri8
+  rotate: false
+  xy: 574, 297
+  size: 244, 221
+  orig: 440, 503
+  offset: 100, 48
+  index: -1
+dragon_timber_adult_wing2
+  rotate: false
+  xy: 459, 827
+  size: 173, 166
+  orig: 173, 166
+  offset: 0, 0
+  index: -1

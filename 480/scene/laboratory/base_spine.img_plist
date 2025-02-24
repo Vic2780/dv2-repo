@@ -1,0 +1,172 @@
+base_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+u_village_lab_st_spin01
+  rotate: false
+  xy: 717, 197
+  size: 27, 15
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+u_village_lab_st_book
+  rotate: false
+  xy: 835, 2
+  size: 239, 114
+  orig: 261, 124
+  offset: 8, 10
+  index: -1
+u_village_lab_st_nuclear02
+  rotate: false
+  xy: 1771, 133
+  size: 219, 52
+  orig: 261, 124
+  offset: 18, 34
+  index: -1
+u_village_lab_st_bu
+  rotate: true
+  xy: 746, 197
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+u_village_lab_st_extractionffff01
+  rotate: false
+  xy: 1566, 2
+  size: 227, 63
+  orig: 271, 101
+  offset: 36, 2
+  index: -1
+u_village_lab_st_uplight02
+  rotate: true
+  xy: 230, 2
+  size: 209, 169
+  orig: 209, 169
+  offset: 0, 0
+  index: -1
+u_village_lab_st_extractionlllll
+  rotate: true
+  xy: 2, 2
+  size: 212, 226
+  orig: 212, 226
+  offset: 0, 0
+  index: -1
+u_village_lab_st_spin02
+  rotate: false
+  xy: 601, 197
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+u_village_lab_st_nuclear03
+  rotate: false
+  xy: 845, 118
+  size: 225, 86
+  orig: 261, 124
+  offset: 19, 29
+  index: -1
+u_village_lab_st_extractionoooo
+  rotate: false
+  xy: 1076, 2
+  size: 263, 97
+  orig: 263, 97
+  offset: 0, 0
+  index: -1
+u_village_lab_st_spin06
+  rotate: false
+  xy: 630, 197
+  size: 27, 15
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+u_village_lab_st_uplight01
+  rotate: true
+  xy: 401, 2
+  size: 209, 169
+  orig: 209, 169
+  offset: 0, 0
+  index: -1
+u_village_lab_st_inlight02
+  rotate: true
+  xy: 1874, 2
+  size: 51, 42
+  orig: 77, 62
+  offset: 13, 13
+  index: -1
+u_village_lab_st_extractionffff04
+  rotate: false
+  xy: 572, 118
+  size: 271, 77
+  orig: 271, 101
+  offset: 0, 2
+  index: -1
+u_village_lab_st_extraction00
+  rotate: false
+  xy: 1546, 69
+  size: 223, 104
+  orig: 225, 104
+  offset: 1, 0
+  index: -1
+u_village_lab_st_spin03
+  rotate: false
+  xy: 572, 197
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+u_village_lab_st_base
+  rotate: false
+  xy: 572, 2
+  size: 261, 114
+  orig: 261, 124
+  offset: 0, 0
+  index: -1
+u_village_lab_st_nuclear04
+  rotate: false
+  xy: 1771, 67
+  size: 221, 64
+  orig: 261, 124
+  offset: 24, 34
+  index: -1
+u_village_lab_st_inlight01
+  rotate: false
+  xy: 1795, 2
+  size: 77, 62
+  orig: 77, 62
+  offset: 0, 0
+  index: -1
+u_village_lab_st_extractionffff03
+  rotate: false
+  xy: 1299, 101
+  size: 245, 101
+  orig: 271, 101
+  offset: 21, 0
+  index: -1
+u_village_lab_st_spin04
+  rotate: false
+  xy: 688, 197
+  size: 27, 15
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+u_village_lab_st_nuclear01
+  rotate: false
+  xy: 1072, 118
+  size: 225, 86
+  orig: 261, 124
+  offset: 18, 29
+  index: -1
+u_village_lab_st_extractionffff02
+  rotate: false
+  xy: 1341, 2
+  size: 223, 65
+  orig: 271, 101
+  offset: 31, 1
+  index: -1
+u_village_lab_st_spin05
+  rotate: false
+  xy: 659, 197
+  size: 27, 15
+  orig: 27, 17
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,235 @@
+dragon_9005_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_zenda_adult_steampipe1
+  rotate: true
+  xy: 163, 487
+  size: 20, 54
+  orig: 30, 60
+  offset: 5, 3
+  index: -1
+dragon_zenda_adult_steampipe1light
+  rotate: false
+  xy: 447, 201
+  size: 30, 54
+  orig: 30, 60
+  offset: 0, 0
+  index: -1
+dragon_zenda_adult_body5
+  rotate: false
+  xy: 2, 487
+  size: 66, 20
+  orig: 66, 20
+  offset: 0, 0
+  index: -1
+dragon_zenda_adult_body1
+  rotate: true
+  xy: 258, 2
+  size: 126, 136
+  orig: 126, 136
+  offset: 0, 0
+  index: -1
+dragon_zenda_adult_arm2
+  rotate: false
+  xy: 258, 384
+  size: 38, 83
+  orig: 38, 83
+  offset: 0, 0
+  index: -1
+dragon_zenda_adult_body3light
+  rotate: false
+  xy: 450, 166
+  size: 24, 33
+  orig: 36, 77
+  offset: 0, 1
+  index: -1
+dragon_zenda_adult_leg1
+  rotate: false
+  xy: 375, 390
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+dragon_zenda_adult_saw1
+  rotate: false
+  xy: 70, 487
+  size: 91, 13
+  orig: 91, 13
+  offset: 0, 0
+  index: -1
+dragon_zenda_adult_wheel
+  rotate: false
+  xy: 415, 453
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+dragon_zenda_adult_body4
+  rotate: false
+  xy: 386, 180
+  size: 59, 76
+  orig: 61, 80
+  offset: 0, 1
+  index: -1
+dragon_zenda_adult_arm3
+  rotate: false
+  xy: 298, 384
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+dragon_zenda_adult_leg2
+  rotate: false
+  xy: 258, 469
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+dragon_zenda_adult_pipe
+  rotate: false
+  xy: 396, 87
+  size: 52, 91
+  orig: 52, 91
+  offset: 0, 0
+  index: -1
+dragon_zenda_adult_headlight
+  rotate: false
+  xy: 376, 258
+  size: 67, 38
+  orig: 95, 92
+  offset: 5, 33
+  index: -1
+dragon_zenda_adult_body1light
+  rotate: true
+  xy: 258, 130
+  size: 106, 126
+  orig: 126, 136
+  offset: 15, 1
+  index: -1
+dragon_zenda_adult_arm2light
+  rotate: true
+  xy: 407, 390
+  size: 30, 29
+  orig: 38, 83
+  offset: 5, 4
+  index: -1
+dragon_zenda_adult_body2light
+  rotate: false
+  xy: 298, 430
+  size: 32, 33
+  orig: 68, 77
+  offset: 21, 0
+  index: -1
+dragon_zenda_adult_steampipe3
+  rotate: true
+  xy: 329, 405
+  size: 22, 12
+  orig: 26, 14
+  offset: 2, 1
+  index: -1
+dragon_zenda_adult_body3
+  rotate: false
+  xy: 337, 326
+  size: 36, 77
+  orig: 36, 77
+  offset: 0, 0
+  index: -1
+dragon_zenda_adult_steam
+  rotate: true
+  xy: 450, 87
+  size: 77, 25
+  orig: 77, 25
+  offset: 0, 0
+  index: -1
+dragon_zenda_adult_arm4
+  rotate: false
+  xy: 447, 257
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+dragon_zenda_adult_leg3
+  rotate: true
+  xy: 438, 390
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+dragon_zenda_adult_saw3
+  rotate: false
+  xy: 396, 2
+  size: 81, 83
+  orig: 81, 83
+  offset: 0, 0
+  index: -1
+dragon_zenda_adult_arm1light
+  rotate: true
+  xy: 372, 469
+  size: 38, 41
+  orig: 38, 81
+  offset: 0, 0
+  index: -1
+dragon_zenda_adult_at1
+  rotate: false
+  xy: 2, 2
+  size: 254, 483
+  orig: 254, 483
+  offset: 0, 0
+  index: -1
+dragon_zenda_adult_wheellight
+  rotate: false
+  xy: 412, 422
+  size: 29, 29
+  orig: 47, 47
+  offset: 9, 9
+  index: -1
+dragon_zenda_adult_steampipe2
+  rotate: true
+  xy: 262, 487
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+dragon_zenda_adult_arm1
+  rotate: true
+  xy: 289, 469
+  size: 38, 81
+  orig: 38, 81
+  offset: 0, 0
+  index: -1
+dragon_zenda_adult_body2
+  rotate: true
+  xy: 258, 326
+  size: 56, 77
+  orig: 68, 77
+  offset: 12, 0
+  index: -1
+dragon_zenda_adult_head
+  rotate: true
+  xy: 376, 303
+  size: 85, 92
+  orig: 95, 92
+  offset: 10, 0
+  index: -1
+dragon_zenda_adult_leg4
+  rotate: false
+  xy: 219, 487
+  size: 41, 16
+  orig: 41, 16
+  offset: 0, 0
+  index: -1
+dragon_zenda_adult_body6
+  rotate: true
+  xy: 332, 429
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+dragon_zenda_adult_steam2
+  rotate: false
+  xy: 258, 238
+  size: 116, 86
+  orig: 116, 86
+  offset: 0, 0
+  index: -1

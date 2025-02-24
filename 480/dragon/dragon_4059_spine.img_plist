@@ -1,0 +1,466 @@
+dragon_4059_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_psyker_child_eye1
+  rotate: false
+  xy: 1377, 992
+  size: 28, 19
+  orig: 30, 21
+  offset: 1, 1
+  index: -1
+dragon_psyker_adult_chin
+  rotate: true
+  xy: 1378, 537
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+dragon_psyker_critical12
+  rotate: false
+  xy: 1375, 922
+  size: 30, 36
+  orig: 38, 38
+  offset: 6, 1
+  index: -1
+dragon_psyker_critical3
+  rotate: false
+  xy: 2, 635
+  size: 772, 209
+  orig: 794, 209
+  offset: 0, 0
+  index: -1
+dragon_love_effect_twinkling4
+  rotate: true
+  xy: 794, 2
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+dragon_psyker_adult_eye1
+  rotate: true
+  xy: 1394, 28
+  size: 24, 11
+  orig: 26, 13
+  offset: 1, 1
+  index: -1
+dragon_psyker_child_wing2
+  rotate: true
+  xy: 1174, 418
+  size: 109, 102
+  orig: 111, 104
+  offset: 1, 1
+  index: -1
+dragon_psyker_critical11
+  rotate: false
+  xy: 1166, 990
+  size: 28, 32
+  orig: 38, 38
+  offset: 6, 5
+  index: -1
+dragon_psyker_baby_head
+  rotate: false
+  xy: 1278, 438
+  size: 87, 87
+  orig: 89, 89
+  offset: 1, 1
+  index: -1
+dragon_psyker_adult_leg2
+  rotate: false
+  xy: 1340, 527
+  size: 36, 69
+  orig: 38, 71
+  offset: 1, 1
+  index: -1
+dragon_psyker_child_eye3
+  rotate: true
+  xy: 776, 673
+  size: 28, 20
+  orig: 30, 22
+  offset: 1, 1
+  index: -1
+dragon_psyker_child_body
+  rotate: true
+  xy: 1174, 160
+  size: 129, 105
+  orig: 131, 107
+  offset: 1, 1
+  index: -1
+dragon_psyker_baby_mouth
+  rotate: false
+  xy: 1278, 628
+  size: 74, 89
+  orig: 76, 89
+  offset: 1, 0
+  index: -1
+dragon_psyker_critical9
+  rotate: true
+  xy: 1174, 766
+  size: 89, 104
+  orig: 91, 106
+  offset: 1, 1
+  index: -1
+dragon_psyker_baby_taill
+  rotate: true
+  xy: 1366, 684
+  size: 42, 39
+  orig: 44, 41
+  offset: 1, 1
+  index: -1
+dragon_psyker_adult_body
+  rotate: false
+  xy: 1020, 160
+  size: 114, 61
+  orig: 116, 63
+  offset: 1, 1
+  index: -1
+dragon_psyker_critical13
+  rotate: false
+  xy: 1369, 960
+  size: 36, 30
+  orig: 38, 38
+  offset: 1, 5
+  index: -1
+dragon_psyker_child_leg2
+  rotate: true
+  xy: 1280, 809
+  size: 39, 69
+  orig: 41, 69
+  offset: 1, 0
+  index: -1
+dragon_psyker_child_head
+  rotate: false
+  xy: 1174, 291
+  size: 107, 125
+  orig: 109, 127
+  offset: 1, 1
+  index: -1
+dragon_psyker_child_leg1
+  rotate: true
+  xy: 1368, 289
+  size: 66, 33
+  orig: 68, 35
+  offset: 1, 1
+  index: -1
+dragon_psyker_adult_leg3
+  rotate: false
+  xy: 1324, 936
+  size: 43, 56
+  orig: 45, 56
+  offset: 1, 0
+  index: -1
+dragon_psyker_baby_eye2
+  rotate: false
+  xy: 1002, 998
+  size: 21, 22
+  orig: 23, 24
+  offset: 1, 1
+  index: -1
+dragon_psyker_critical6
+  rotate: false
+  xy: 2, 213
+  size: 788, 209
+  orig: 794, 209
+  offset: 0, 0
+  index: -1
+dragon_psyker_adult_tail2
+  rotate: true
+  xy: 1370, 357
+  size: 55, 35
+  orig: 57, 37
+  offset: 1, 1
+  index: -1
+dragon_stone_adult_eye1
+  rotate: false
+  xy: 983, 857
+  size: 127, 139
+  orig: 129, 141
+  offset: 1, 1
+  index: -1
+dragon_psyker_baby_eye1
+  rotate: false
+  xy: 1366, 783
+  size: 21, 22
+  orig: 23, 24
+  offset: 1, 1
+  index: -1
+dragon_psyker_adult_ear
+  rotate: true
+  xy: 1354, 994
+  size: 28, 21
+  orig: 30, 23
+  offset: 1, 1
+  index: -1
+dragon_psyker_critical1
+  rotate: true
+  xy: 983, 227
+  size: 628, 189
+  orig: 794, 209
+  offset: 98, 0
+  index: -1
+dragon_psyker_critical14
+  rotate: false
+  xy: 1375, 884
+  size: 30, 36
+  orig: 38, 38
+  offset: 4, 1
+  index: -1
+dragon_psyker_child_leg3
+  rotate: true
+  xy: 1354, 626
+  size: 56, 33
+  orig: 58, 35
+  offset: 1, 1
+  index: -1
+dragon_psyker_adult_horn
+  rotate: false
+  xy: 1378, 516
+  size: 27, 19
+  orig: 29, 21
+  offset: 1, 1
+  index: -1
+dragon_psyker_adult_mouth
+  rotate: false
+  xy: 1283, 289
+  size: 83, 97
+  orig: 85, 99
+  offset: 1, 1
+  index: -1
+dragon_psyker_baby_ear
+  rotate: false
+  xy: 1366, 728
+  size: 34, 53
+  orig: 36, 55
+  offset: 1, 1
+  index: -1
+dragon_psyker_adult_wing6
+  rotate: true
+  xy: 1289, 2
+  size: 131, 103
+  orig: 149, 179
+  offset: 0, 76
+  index: -1
+dragon_psyker_child_mouth
+  rotate: false
+  xy: 1174, 658
+  size: 102, 106
+  orig: 104, 108
+  offset: 1, 1
+  index: -1
+dragon_psyker_adult_wing1
+  rotate: true
+  xy: 1112, 857
+  size: 131, 99
+  orig: 149, 179
+  offset: 0, 79
+  index: -1
+dragon_psyker_critical7
+  rotate: false
+  xy: 2, 2
+  size: 790, 209
+  orig: 794, 209
+  offset: 0, 0
+  index: -1
+dragon_psyker_adult_tail3
+  rotate: false
+  xy: 1367, 457
+  size: 33, 57
+  orig: 35, 59
+  offset: 1, 1
+  index: -1
+dragon_psyker_adult_head
+  rotate: false
+  xy: 1257, 529
+  size: 81, 97
+  orig: 83, 99
+  offset: 1, 1
+  index: -1
+dragon_psyker_child_leg4
+  rotate: true
+  xy: 1112, 990
+  size: 32, 52
+  orig: 34, 54
+  offset: 1, 1
+  index: -1
+dragon_psyker_child_wing1
+  rotate: false
+  xy: 1281, 191
+  size: 93, 96
+  orig: 95, 98
+  offset: 1, 1
+  index: -1
+dragon_psyker_child_ear
+  rotate: true
+  xy: 776, 635
+  size: 36, 20
+  orig: 38, 22
+  offset: 1, 1
+  index: -1
+dragon_psyker_adult_leg1
+  rotate: true
+  xy: 1283, 388
+  size: 48, 85
+  orig: 50, 87
+  offset: 1, 1
+  index: -1
+dragon_psyker_critical4
+  rotate: false
+  xy: 2, 424
+  size: 774, 209
+  orig: 794, 209
+  offset: 0, 0
+  index: -1
+dragon_psyker_baby_body
+  rotate: false
+  xy: 1280, 719
+  size: 84, 88
+  orig: 86, 90
+  offset: 1, 1
+  index: -1
+dragon_psyker_adult_eye2
+  rotate: true
+  xy: 1394, 2
+  size: 24, 11
+  orig: 26, 13
+  offset: 1, 1
+  index: -1
+dragon_love_effect_twinkling1
+  rotate: true
+  xy: 794, 2
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+dragon_psyker_baby_leg2
+  rotate: true
+  xy: 1351, 809
+  size: 33, 54
+  orig: 35, 56
+  offset: 1, 1
+  index: -1
+dragon_psyker_baby_leg1
+  rotate: false
+  xy: 1136, 160
+  size: 36, 53
+  orig: 38, 53
+  offset: 1, 0
+  index: -1
+dragon_psyker_critical5
+  rotate: true
+  xy: 798, 227
+  size: 794, 183
+  orig: 794, 209
+  offset: 0, 0
+  index: -1
+dragon_psyker_adult_tail1
+  rotate: true
+  xy: 1213, 959
+  size: 63, 50
+  orig: 65, 52
+  offset: 1, 1
+  index: -1
+dragon_love_effect_note2
+  rotate: false
+  xy: 1370, 414
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_psyker_adult_eye3
+  rotate: true
+  xy: 983, 998
+  size: 24, 17
+  orig: 26, 19
+  offset: 1, 1
+  index: -1
+dragon_love_effect_twinkling2
+  rotate: false
+  xy: 1213, 857
+  size: 99, 100
+  orig: 225, 224
+  offset: 63, 64
+  index: -1
+dragon_psyker_adult_leg4
+  rotate: true
+  xy: 1289, 135
+  size: 54, 104
+  orig: 56, 106
+  offset: 1, 1
+  index: -1
+dragon_psyker_child_tail
+  rotate: true
+  xy: 1314, 850
+  size: 84, 59
+  orig: 86, 61
+  offset: 1, 1
+  index: -1
+dragon_psyker_adult_wing5
+  rotate: false
+  xy: 1174, 529
+  size: 81, 127
+  orig: 85, 131
+  offset: 2, 2
+  index: -1
+dragon_love_effect_anger
+  rotate: false
+  xy: 1340, 598
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_psyker_critical2
+  rotate: false
+  xy: 2, 846
+  size: 794, 167
+  orig: 794, 209
+  offset: 0, 3
+  index: -1
+dragon_love_effect_note1
+  rotate: false
+  xy: 1375, 844
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_love_effect_twinkling3
+  rotate: false
+  xy: 1213, 857
+  size: 99, 100
+  orig: 225, 224
+  offset: 63, 64
+  index: -1
+dragon_psyker_critical10
+  rotate: false
+  xy: 1324, 994
+  size: 28, 28
+  orig: 38, 38
+  offset: 6, 5
+  index: -1
+dragon_psyker_baby_love
+  rotate: false
+  xy: 1389, 783
+  size: 16, 16
+  orig: 18, 18
+  offset: 1, 1
+  index: -1
+dragon_love_effect_smile
+  rotate: false
+  xy: 1265, 959
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_psyker_child_eye2
+  rotate: true
+  xy: 1257, 628
+  size: 28, 19
+  orig: 30, 21
+  offset: 1, 1
+  index: -1
+dragon_psyker_critical8
+  rotate: true
+  xy: 1020, 2
+  size: 156, 267
+  orig: 158, 269
+  offset: 0, 1
+  index: -1

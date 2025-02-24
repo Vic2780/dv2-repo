@@ -1,0 +1,179 @@
+177_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_caligomaga_leg6
+  rotate: false
+  xy: 1384, 248
+  size: 56, 93
+  orig: 58, 97
+  offset: 0, 2
+  index: -1
+m_caligomaga_leg2
+  rotate: true
+  xy: 1352, 131
+  size: 24, 87
+  orig: 26, 91
+  offset: 0, 3
+  index: -1
+m_caligomaga_hair2
+  rotate: false
+  xy: 652, 2
+  size: 301, 233
+  orig: 345, 261
+  offset: 42, 25
+  index: -1
+m_caligomaga_gro_body
+  rotate: false
+  xy: 1254, 2
+  size: 96, 169
+  orig: 242, 243
+  offset: 66, 30
+  index: -1
+m_caligomaga_wingf_p
+  rotate: true
+  xy: 1249, 322
+  size: 73, 95
+  orig: 241, 297
+  offset: 61, 127
+  index: -1
+m_caligomaga_eye
+  rotate: false
+  xy: 1239, 397
+  size: 87, 84
+  orig: 165, 146
+  offset: 72, 6
+  index: -1
+m_caligomaga_wingb
+  rotate: true
+  xy: 955, 2
+  size: 241, 297
+  orig: 241, 297
+  offset: 0, 0
+  index: -1
+m_caligomaga_body
+  rotate: true
+  xy: 869, 245
+  size: 242, 243
+  orig: 242, 243
+  offset: 0, 0
+  index: -1
+m_caligomaga_eye1
+  rotate: true
+  xy: 1352, 2
+  size: 127, 90
+  orig: 165, 146
+  offset: 0, 20
+  index: -1
+m_caligomaga_wingb_p
+  rotate: true
+  xy: 1346, 343
+  size: 73, 95
+  orig: 241, 297
+  offset: 61, 127
+  index: -1
+m_caligomaga_leg7
+  rotate: true
+  xy: 386, 441
+  size: 54, 102
+  orig: 56, 104
+  offset: 0, 1
+  index: -1
+m_caligomaga_wingf
+  rotate: true
+  xy: 2, 217
+  size: 241, 297
+  orig: 241, 297
+  offset: 0, 0
+  index: -1
+m_caligomaga_leg3
+  rotate: false
+  xy: 301, 441
+  size: 83, 68
+  orig: 83, 72
+  offset: 0, 2
+  index: -1
+m_caligomaga_hair1
+  rotate: false
+  xy: 622, 237
+  size: 245, 243
+  orig: 345, 261
+  offset: 58, 17
+  index: -1
+m_caligomaga_eye2
+  rotate: false
+  xy: 1114, 369
+  size: 123, 122
+  orig: 165, 146
+  offset: 6, 19
+  index: -1
+m_caligomaga_gro_wing1
+  rotate: true
+  xy: 1254, 173
+  size: 73, 133
+  orig: 241, 297
+  offset: 113, 24
+  index: -1
+m_caligomaga_hair4
+  rotate: false
+  xy: 335, 210
+  size: 285, 229
+  orig: 345, 261
+  offset: 26, 2
+  index: -1
+m_caligomaga_leg4
+  rotate: true
+  xy: 1249, 248
+  size: 72, 133
+  orig: 74, 137
+  offset: 1, 4
+  index: -1
+m_caligomaga_leg0
+  rotate: false
+  xy: 335, 2
+  size: 315, 206
+  orig: 327, 228
+  offset: 5, 10
+  index: -1
+m_caligomaga_eye3
+  rotate: false
+  xy: 1114, 245
+  size: 133, 122
+  orig: 165, 146
+  offset: 5, 12
+  index: -1
+m_caligomaga_gro_wing2
+  rotate: false
+  xy: 1389, 157
+  size: 50, 89
+  orig: 50, 89
+  offset: 0, 0
+  index: -1
+m_caligomaga_hair3
+  rotate: false
+  xy: 2, 2
+  size: 331, 213
+  orig: 345, 261
+  offset: 2, 27
+  index: -1
+m_caligomaga_bodycore
+  rotate: false
+  xy: 490, 441
+  size: 95, 59
+  orig: 107, 59
+  offset: 5, 0
+  index: -1
+m_caligomaga_leg5
+  rotate: true
+  xy: 2, 460
+  size: 37, 60
+  orig: 39, 66
+  offset: 1, 3
+  index: -1
+m_caligomaga_leg1
+  rotate: true
+  xy: 1328, 418
+  size: 69, 88
+  orig: 69, 90
+  offset: 0, 2
+  index: -1

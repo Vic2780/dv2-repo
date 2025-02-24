@@ -1,0 +1,522 @@
+dragon_178_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_orpheus_baby_wing2
+  rotate: false
+  xy: 537, 288
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+dragon_orpheus_adult_head
+  rotate: false
+  xy: 786, 357
+  size: 61, 53
+  orig: 61, 53
+  offset: 0, 0
+  index: -1
+dragon_orpheus_e_critical_boom2
+  rotate: false
+  xy: 569, 289
+  size: 118, 95
+  orig: 118, 95
+  offset: 0, 0
+  index: -1
+dragon_orpheus_child_arm1
+  rotate: false
+  xy: 994, 314
+  size: 26, 35
+  orig: 28, 35
+  offset: 2, 0
+  index: -1
+dragon_orpheus_baby_love
+  rotate: false
+  xy: 917, 327
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+dragon_orpheus_e_leg3_p
+  rotate: true
+  xy: 524, 483
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+dragon_orpheus_critical_st1
+  rotate: true
+  xy: 443, 257
+  size: 113, 92
+  orig: 119, 100
+  offset: 3, 4
+  index: -1
+dragon_orpheus_e_critical_smo1
+  rotate: false
+  xy: 217, 257
+  size: 224, 113
+  orig: 224, 113
+  offset: 0, 0
+  index: -1
+dragon_orpheus_e_critical_boom_eff
+  rotate: false
+  xy: 271, 2
+  size: 304, 140
+  orig: 304, 140
+  offset: 0, 0
+  index: -1
+dragon_orpheus_baby_leg2
+  rotate: true
+  xy: 704, 201
+  size: 36, 14
+  orig: 40, 16
+  offset: 0, 0
+  index: -1
+dragon_orpheus_e_wing2_p
+  rotate: false
+  xy: 569, 386
+  size: 105, 99
+  orig: 149, 111
+  offset: 44, 12
+  index: -1
+dragon_orpheus_adult_body
+  rotate: false
+  xy: 689, 294
+  size: 90, 61
+  orig: 90, 61
+  offset: 0, 0
+  index: -1
+dragon_orpheus_baby_tail
+  rotate: true
+  xy: 980, 398
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+dragon_orpheus_child_arm2
+  rotate: false
+  xy: 537, 239
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+dragon_orpheus_child_wing
+  rotate: false
+  xy: 676, 404
+  size: 83, 62
+  orig: 83, 62
+  offset: 0, 0
+  index: -1
+dragon_orpheus_e_body_p
+  rotate: false
+  xy: 873, 397
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+dragon_orpheus_e_tail_p
+  rotate: false
+  xy: 836, 263
+  size: 79, 65
+  orig: 79, 65
+  offset: 0, 0
+  index: -1
+dragon_orpheus_baby_mouth
+  rotate: true
+  xy: 1004, 2
+  size: 22, 16
+  orig: 58, 58
+  offset: 12, 0
+  index: -1
+dragon_orpheus_baby_love2
+  rotate: false
+  xy: 483, 506
+  size: 26, 4
+  orig: 34, 12
+  offset: 4, 3
+  index: -1
+dragon_orpheus_adult_ef2
+  rotate: true
+  xy: 704, 239
+  size: 53, 95
+  orig: 57, 95
+  offset: 0, 0
+  index: -1
+dragon_orpheus_adult_arm1
+  rotate: false
+  xy: 621, 487
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+dragon_orpheus_e_critical_ston2
+  rotate: false
+  xy: 1002, 203
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+dragon_orpheus_child_neck
+  rotate: false
+  xy: 920, 447
+  size: 53, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+dragon_orpheus_e_arm3_p
+  rotate: false
+  xy: 975, 447
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+dragon_orpheus_child_body
+  rotate: true
+  xy: 515, 144
+  size: 93, 57
+  orig: 93, 57
+  offset: 0, 0
+  index: -1
+dragon_orpheus_adult_wing2
+  rotate: false
+  xy: 853, 2
+  size: 149, 111
+  orig: 149, 111
+  offset: 0, 0
+  index: -1
+dragon_orpheus_child_love
+  rotate: false
+  xy: 101, 463
+  size: 93, 47
+  orig: 93, 47
+  offset: 0, 0
+  index: -1
+dragon_orpheus_e_critical_ston
+  rotate: true
+  xy: 588, 487
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+dragon_orpheus_baby_head
+  rotate: false
+  xy: 920, 387
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+dragon_orpheus_e_critical_smo4
+  rotate: true
+  xy: 574, 201
+  size: 86, 128
+  orig: 86, 128
+  offset: 0, 0
+  index: -1
+dragon_orpheus_e_critical_boom_eff3
+  rotate: false
+  xy: 577, 2
+  size: 274, 92
+  orig: 274, 96
+  offset: 0, 0
+  index: -1
+dragon_orpheus_adult_arm2
+  rotate: false
+  xy: 873, 458
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+dragon_orpheus_baby_wing1
+  rotate: false
+  xy: 990, 151
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+dragon_orpheus_e_wing1acc_p
+  rotate: true
+  xy: 375, 472
+  size: 36, 68
+  orig: 36, 68
+  offset: 0, 0
+  index: -1
+dragon_orpheus_adult_leg1
+  rotate: false
+  xy: 801, 239
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+dragon_orpheus_critical_dst1
+  rotate: false
+  xy: 258, 472
+  size: 115, 33
+  orig: 115, 39
+  offset: 0, 3
+  index: -1
+dragon_orpheus_adult_eye
+  rotate: false
+  xy: 990, 203
+  size: 9, 9
+  orig: 61, 53
+  offset: 20, 12
+  index: -1
+dragon_orpheus_child_head
+  rotate: false
+  xy: 844, 214
+  size: 93, 47
+  orig: 93, 47
+  offset: 0, 0
+  index: -1
+dragon_orpheus_adult_ef1
+  rotate: true
+  xy: 689, 357
+  size: 45, 95
+  orig: 57, 95
+  offset: 12, 0
+  index: -1
+dragon_orpheus_e_critical_ston3
+  rotate: true
+  xy: 515, 239
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+dragon_orpheus_e_head_p
+  rotate: false
+  xy: 849, 330
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+dragon_orpheus_baby_body
+  rotate: true
+  xy: 217, 210
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+dragon_orpheus_e_arm1_p
+  rotate: false
+  xy: 990, 115
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+dragon_orpheus_e_critical_boom_eff2
+  rotate: true
+  xy: 101, 210
+  size: 251, 114
+  orig: 253, 114
+  offset: 1, 0
+  index: -1
+dragon_orpheus_adult_hit
+  rotate: true
+  xy: 781, 294
+  size: 61, 53
+  orig: 61, 53
+  offset: 0, 0
+  index: -1
+dragon_orpheus_child_heart
+  rotate: false
+  xy: 761, 467
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_orpheus_adult_leg2
+  rotate: false
+  xy: 561, 487
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+dragon_orpheus_adult_att
+  rotate: false
+  xy: 761, 412
+  size: 61, 53
+  orig: 61, 53
+  offset: 0, 0
+  index: -1
+dragon_orpheus_baby_heart
+  rotate: false
+  xy: 761, 467
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_orpheus_child_mouth
+  rotate: false
+  xy: 483, 483
+  size: 39, 21
+  orig: 93, 47
+  offset: 7, 0
+  index: -1
+dragon_orpheus_e_critical_smo3
+  rotate: false
+  xy: 271, 144
+  size: 242, 111
+  orig: 242, 111
+  offset: 0, 0
+  index: -1
+dragon_orpheus_adult_arm3
+  rotate: true
+  xy: 676, 468
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1
+dragon_orpheus_e_critical_boom1
+  rotate: false
+  xy: 2, 2
+  size: 267, 206
+  orig: 267, 206
+  offset: 0, 0
+  index: -1
+dragon_orpheus_e_critical_ston4
+  rotate: false
+  xy: 980, 358
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+dragon_orpheus_baby_eye
+  rotate: true
+  xy: 732, 468
+  size: 42, 26
+  orig: 58, 58
+  offset: 1, 4
+  index: -1
+dragon_orpheus_adult_mouth
+  rotate: false
+  xy: 990, 182
+  size: 25, 19
+  orig: 61, 53
+  offset: 14, 0
+  index: -1
+dragon_orpheus_e_critical_boom_eff1
+  rotate: true
+  xy: 2, 210
+  size: 276, 97
+  orig: 276, 97
+  offset: 0, 0
+  index: -1
+dragon_orpheus_baby_arm1
+  rotate: false
+  xy: 537, 318
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+dragon_orpheus_baby_leg1
+  rotate: false
+  xy: 445, 487
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+dragon_orpheus_child_tail
+  rotate: false
+  xy: 917, 269
+  size: 75, 56
+  orig: 75, 56
+  offset: 0, 0
+  index: -1
+dragon_orpheus_e_wing1_p
+  rotate: false
+  xy: 848, 115
+  size: 140, 97
+  orig: 148, 103
+  offset: 8, 0
+  index: -1
+dragon_orpheus_critical_dst2
+  rotate: false
+  xy: 727, 198
+  size: 115, 39
+  orig: 115, 39
+  offset: 0, 0
+  index: -1
+dragon_orpheus_child_leg1
+  rotate: false
+  xy: 994, 269
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+dragon_orpheus_critical_st2
+  rotate: false
+  xy: 727, 96
+  size: 119, 100
+  orig: 119, 100
+  offset: 0, 0
+  index: -1
+dragon_orpheus_e_critical_smo2
+  rotate: false
+  xy: 217, 372
+  size: 236, 98
+  orig: 236, 98
+  offset: 0, 0
+  index: -1
+dragon_orpheus_adult_foot
+  rotate: false
+  xy: 41, 488
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+dragon_orpheus_adult_leg3
+  rotate: true
+  xy: 196, 472
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+dragon_orpheus_adult_tail
+  rotate: false
+  xy: 455, 372
+  size: 112, 109
+  orig: 112, 109
+  offset: 0, 0
+  index: -1
+dragon_orpheus_child_leg2
+  rotate: true
+  xy: 809, 470
+  size: 32, 46
+  orig: 42, 46
+  offset: 10, 0
+  index: -1
+dragon_orpheus_child_eye
+  rotate: true
+  xy: 977, 327
+  size: 29, 15
+  orig: 93, 47
+  offset: 13, 16
+  index: -1
+dragon_orpheus_adult_wing1
+  rotate: false
+  xy: 577, 96
+  size: 148, 103
+  orig: 148, 103
+  offset: 0, 0
+  index: -1
+dragon_orpheus_adult_love
+  rotate: false
+  xy: 939, 214
+  size: 61, 53
+  orig: 61, 53
+  offset: 0, 0
+  index: -1
+dragon_orpheus_critical_sst
+  rotate: true
+  xy: 2, 488
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+dragon_orpheus_adult_neck
+  rotate: false
+  xy: 824, 412
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1

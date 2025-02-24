@@ -1,0 +1,452 @@
+dragon_94_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_oro_adult_leg4
+  rotate: true
+  xy: 1241, 65
+  size: 26, 19
+  orig: 34, 23
+  offset: 5, 2
+  index: -1
+dragon_oro_adult_arm6
+  rotate: true
+  xy: 1363, 40
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+dragon_oro_child_wing1
+  rotate: false
+  xy: 1000, 2
+  size: 100, 136
+  orig: 104, 140
+  offset: 4, 2
+  index: -1
+dragon_oro_baby_eye2
+  rotate: false
+  xy: 1348, 216
+  size: 32, 28
+  orig: 38, 32
+  offset: 3, 2
+  index: -1
+dragon_oro_adult_eye2
+  rotate: false
+  xy: 1241, 93
+  size: 19, 18
+  orig: 23, 20
+  offset: 1, 0
+  index: -1
+dragon_oro_adult_leg1
+  rotate: true
+  xy: 1118, 132
+  size: 30, 54
+  orig: 30, 64
+  offset: 0, 6
+  index: -1
+dragon_oro_baby_body
+  rotate: true
+  xy: 2, 201
+  size: 51, 58
+  orig: 53, 58
+  offset: 1, 0
+  index: -1
+dragon_oro_baby_wing2
+  rotate: true
+  xy: 140, 201
+  size: 46, 55
+  orig: 48, 61
+  offset: 2, 3
+  index: -1
+dragon_oro_critical_ef5
+  rotate: true
+  xy: 540, 2
+  size: 180, 271
+  orig: 182, 281
+  offset: 2, 10
+  index: -1
+dragon_oro_adult_arm3
+  rotate: true
+  xy: 1216, 132
+  size: 30, 23
+  orig: 32, 25
+  offset: 0, 2
+  index: -1
+dragon_oro_baby_wing1
+  rotate: false
+  xy: 1309, 96
+  size: 45, 74
+  orig: 49, 76
+  offset: 1, 2
+  index: -1
+dragon_oro_child_eye2
+  rotate: true
+  xy: 1323, 216
+  size: 35, 23
+  orig: 39, 23
+  offset: 2, 0
+  index: -1
+dragon_oro_adult_leg3
+  rotate: false
+  xy: 257, 201
+  size: 15, 46
+  orig: 19, 50
+  offset: 1, 2
+  index: -1
+dragon_oro_baby_arm4
+  rotate: false
+  xy: 1241, 34
+  size: 19, 29
+  orig: 21, 29
+  offset: 1, 0
+  index: -1
+dragon_oro_child_h
+  rotate: true
+  xy: 197, 201
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_oro_child_jaw
+  rotate: false
+  xy: 927, 151
+  size: 30, 13
+  orig: 32, 15
+  offset: 2, 2
+  index: -1
+dragon_oro_child_neck
+  rotate: true
+  xy: 1262, 175
+  size: 63, 59
+  orig: 71, 67
+  offset: 4, 3
+  index: -1
+dragon_oro_baby_wing3
+  rotate: false
+  xy: 731, 184
+  size: 36, 64
+  orig: 38, 64
+  offset: 1, 0
+  index: -1
+dragon_oro_baby_s
+  rotate: false
+  xy: 1179, 34
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_oro_baby_eye1
+  rotate: false
+  xy: 1096, 140
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_oro_adult_head
+  rotate: false
+  xy: 1201, 164
+  size: 59, 74
+  orig: 61, 76
+  offset: 1, 1
+  index: -1
+dragon_oro_critical_ef2
+  rotate: false
+  xy: 999, 164
+  size: 118, 90
+  orig: 148, 110
+  offset: 15, 10
+  index: -1
+dragon_oro_child_arm3
+  rotate: false
+  xy: 1241, 2
+  size: 19, 30
+  orig: 19, 32
+  offset: 0, 2
+  index: -1
+dragon_oro_adult_eye4
+  rotate: false
+  xy: 1363, 93
+  size: 18, 18
+  orig: 24, 22
+  offset: 3, 2
+  index: -1
+dragon_oro_baby_wing4
+  rotate: true
+  xy: 1264, 96
+  size: 33, 43
+  orig: 37, 43
+  offset: 2, 0
+  index: -1
+dragon_oro_adult_arm5
+  rotate: true
+  xy: 1226, 113
+  size: 17, 36
+  orig: 19, 38
+  offset: 2, 1
+  index: -1
+dragon_oro_adult_eye1
+  rotate: false
+  xy: 1226, 240
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+dragon_oro_adult_tail
+  rotate: true
+  xy: 856, 166
+  size: 81, 141
+  orig: 89, 147
+  offset: 5, 3
+  index: -1
+dragon_oro_baby_arm2
+  rotate: true
+  xy: 991, 148
+  size: 14, 34
+  orig: 18, 34
+  offset: 3, 0
+  index: -1
+dragon_oro_adult_eye3
+  rotate: false
+  xy: 1027, 140
+  size: 19, 22
+  orig: 21, 24
+  offset: 1, 1
+  index: -1
+dragon_oro_baby_tail
+  rotate: false
+  xy: 1174, 132
+  size: 40, 30
+  orig: 42, 34
+  offset: 0, 3
+  index: -1
+dragon_oro_baby_jaw2
+  rotate: true
+  xy: 1048, 140
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+dragon_oro_child_arm4
+  rotate: false
+  xy: 238, 201
+  size: 17, 46
+  orig: 21, 50
+  offset: 3, 3
+  index: -1
+dragon_oro_critical_ef4
+  rotate: true
+  xy: 2, 2
+  size: 197, 263
+  orig: 209, 275
+  offset: 12, 12
+  index: -1
+dragon_oro_adult_arm2
+  rotate: true
+  xy: 813, 166
+  size: 15, 41
+  orig: 17, 43
+  offset: 0, 2
+  index: -1
+dragon_oro_baby_arm3
+  rotate: false
+  xy: 1210, 2
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+dragon_oro_child_arm1
+  rotate: true
+  xy: 1179, 96
+  size: 34, 45
+  orig: 36, 47
+  offset: 2, 2
+  index: -1
+dragon_oro_critical_ef1
+  rotate: false
+  xy: 1262, 2
+  size: 99, 92
+  orig: 125, 110
+  offset: 13, 9
+  index: -1
+dragon_oro_child_body
+  rotate: false
+  xy: 1119, 164
+  size: 80, 80
+  orig: 88, 96
+  offset: 3, 12
+  index: -1
+dragon_oro_child_leg1
+  rotate: false
+  xy: 1241, 132
+  size: 32, 28
+  orig: 34, 44
+  offset: 1, 2
+  index: -1
+dragon_oro_adult_leg2
+  rotate: false
+  xy: 959, 151
+  size: 30, 13
+  orig: 32, 17
+  offset: 0, 2
+  index: -1
+dragon_oro_adult_armor
+  rotate: true
+  xy: 1323, 175
+  size: 39, 57
+  orig: 41, 61
+  offset: 0, 2
+  index: -1
+dragon_oro_critical_ef6
+  rotate: true
+  xy: 267, 2
+  size: 182, 271
+  orig: 182, 281
+  offset: 0, 10
+  index: -1
+dragon_oro_baby_arm1
+  rotate: false
+  xy: 1356, 147
+  size: 24, 26
+  orig: 28, 26
+  offset: 2, 0
+  index: -1
+dragon_oro_baby_leg2
+  rotate: false
+  xy: 1356, 113
+  size: 25, 32
+  orig: 29, 36
+  offset: 3, 2
+  index: -1
+dragon_oro_adult_wing2
+  rotate: true
+  xy: 401, 186
+  size: 68, 78
+  orig: 74, 84
+  offset: 4, 2
+  index: -1
+dragon_oro_child_tail
+  rotate: true
+  xy: 62, 201
+  size: 48, 40
+  orig: 50, 42
+  offset: 0, 2
+  index: -1
+dragon_oro_adult_neck
+  rotate: true
+  xy: 769, 184
+  size: 63, 82
+  orig: 69, 86
+  offset: 3, 2
+  index: -1
+dragon_oro_critical_ef3
+  rotate: true
+  xy: 1102, 2
+  size: 128, 75
+  orig: 150, 83
+  offset: 9, 0
+  index: -1
+dragon_oro_child_wing2
+  rotate: true
+  xy: 577, 184
+  size: 66, 75
+  orig: 68, 77
+  offset: 0, 2
+  index: -1
+dragon_oro_adult_h
+  rotate: true
+  xy: 197, 201
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_oro_baby_head
+  rotate: true
+  xy: 654, 184
+  size: 65, 75
+  orig: 71, 81
+  offset: 3, 4
+  index: -1
+dragon_oro_baby_jaw1
+  rotate: false
+  xy: 1201, 240
+  size: 23, 13
+  orig: 23, 17
+  offset: 0, 2
+  index: -1
+dragon_oro_child_eye1
+  rotate: true
+  xy: 1363, 68
+  size: 23, 18
+  orig: 27, 20
+  offset: 3, 1
+  index: -1
+dragon_oro_child_arm2
+  rotate: false
+  xy: 1275, 131
+  size: 32, 39
+  orig: 32, 41
+  offset: 0, 2
+  index: -1
+dragon_oro_adult_wing3
+  rotate: false
+  xy: 927, 2
+  size: 39, 147
+  orig: 53, 149
+  offset: 5, 2
+  index: -1
+dragon_oro_adult_body
+  rotate: false
+  xy: 274, 186
+  size: 125, 68
+  orig: 135, 76
+  offset: 6, 6
+  index: -1
+dragon_oro_adult_arm4
+  rotate: false
+  xy: 1363, 2
+  size: 18, 36
+  orig: 24, 38
+  offset: 3, 2
+  index: -1
+dragon_oro_child_wing3
+  rotate: false
+  xy: 968, 2
+  size: 30, 144
+  orig: 36, 148
+  offset: 4, 3
+  index: -1
+dragon_oro_child_leg2
+  rotate: false
+  xy: 1179, 2
+  size: 29, 29
+  orig: 33, 31
+  offset: 2, 2
+  index: -1
+dragon_oro_adult_arm1
+  rotate: false
+  xy: 104, 201
+  size: 34, 48
+  orig: 36, 50
+  offset: 0, 2
+  index: -1
+dragon_oro_baby_leg1
+  rotate: true
+  xy: 1063, 140
+  size: 21, 31
+  orig: 29, 35
+  offset: 6, 1
+  index: -1
+dragon_oro_child_head
+  rotate: false
+  xy: 481, 186
+  size: 94, 66
+  orig: 102, 76
+  offset: 4, 7
+  index: -1
+dragon_oro_adult_wing1
+  rotate: false
+  xy: 813, 2
+  size: 112, 162
+  orig: 118, 166
+  offset: 0, 1
+  index: -1

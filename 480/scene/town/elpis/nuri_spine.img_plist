@@ -1,0 +1,144 @@
+nuri_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+sd_nuri_leg1
+  rotate: true
+  xy: 1368, 285
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+sd_nuri_mouth
+  rotate: true
+  xy: 1396, 260
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+sd_nuri_eye2
+  rotate: false
+  xy: 1308, 287
+  size: 58, 11
+  orig: 58, 11
+  offset: 0, 0
+  index: -1
+sd_nuri_arm2
+  rotate: true
+  xy: 1368, 260
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+sd_nuri_jacket
+  rotate: true
+  xy: 1356, 331
+  size: 22, 41
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+sd_nuri_head
+  rotate: true
+  xy: 1308, 2
+  size: 98, 92
+  orig: 98, 92
+  offset: 0, 0
+  index: -1
+sd_nuri_hair1
+  rotate: true
+  xy: 1368, 152
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+sd_nuri_chest
+  rotate: false
+  xy: 1356, 355
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+sd_nuri_eye1
+  rotate: false
+  xy: 1308, 102
+  size: 62, 26
+  orig: 62, 26
+  offset: 0, 0
+  index: -1
+sd_nuri_arm1
+  rotate: true
+  xy: 1368, 208
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+sd_nuri_hair2
+  rotate: false
+  xy: 1308, 130
+  size: 58, 155
+  orig: 58, 155
+  offset: 0, 0
+  index: -1
+sd_nuri_heart
+  rotate: false
+  xy: 1308, 321
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+sd_nuri_weist
+  rotate: false
+  xy: 1367, 304
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+sd_nuri_leg2
+  rotate: true
+  xy: 1368, 189
+  size: 17, 30
+  orig: 17, 32
+  offset: 0, 0
+  index: -1
+sd_nuri_pants
+  rotate: false
+  xy: 1368, 232
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+sd_nuri_bag
+  rotate: true
+  xy: 1372, 102
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+sd_nuri_eye3
+  rotate: false
+  xy: 1308, 300
+  size: 57, 19
+  orig: 57, 19
+  offset: 0, 0
+  index: -1
+sd_nuri_mouth2
+  rotate: false
+  xy: 1308, 362
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+sd_nuri_bg
+  rotate: false
+  xy: 2, 2
+  size: 1304, 916
+  orig: 1304, 916
+  offset: 0, 0
+  index: -1
+sd_nuri_eyebrow
+  rotate: false
+  xy: 1356, 323
+  size: 44, 6
+  orig: 44, 6
+  offset: 0, 0
+  index: -1

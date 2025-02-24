@@ -1,0 +1,424 @@
+dragon_4017_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_raptor_adult_att3
+  rotate: false
+  xy: 2, 323
+  size: 224, 220
+  orig: 224, 228
+  offset: 0, 8
+  index: -1
+dragon_raptor_adult_head2
+  rotate: false
+  xy: 297, 622
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+dragon_raptor_baby_wing3
+  rotate: false
+  xy: 485, 372
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+dragon_raptor_adult_mouth
+  rotate: false
+  xy: 410, 589
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dragon_raptor_adult_heart
+  rotate: false
+  xy: 456, 190
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_raptor_adult_wing2
+  rotate: false
+  xy: 267, 2
+  size: 187, 136
+  orig: 187, 136
+  offset: 0, 0
+  index: -1
+dragon_raptor_child_anger
+  rotate: false
+  xy: 157, 649
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_raptor_child_tail
+  rotate: false
+  xy: 390, 372
+  size: 93, 92
+  orig: 93, 92
+  offset: 0, 0
+  index: -1
+dragon_raptor_baby_eye
+  rotate: false
+  xy: 484, 636
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+dragon_raptor_baby_head2
+  rotate: false
+  xy: 456, 2
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+dragon_raptor_baby_arm3
+  rotate: false
+  xy: 367, 510
+  size: 15, 21
+  orig: 15, 23
+  offset: 0, 2
+  index: -1
+dragon_raptor_adult_arm2
+  rotate: false
+  xy: 451, 293
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+dragon_raptor_adult_head1
+  rotate: false
+  xy: 456, 147
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+dragon_raptor_adult_neck2
+  rotate: false
+  xy: 265, 622
+  size: 30, 56
+  orig: 30, 56
+  offset: 0, 0
+  index: -1
+dragon_raptor_adult_wing1
+  rotate: false
+  xy: 267, 140
+  size: 187, 136
+  orig: 187, 136
+  offset: 0, 0
+  index: -1
+dragon_raptor_child_wing2
+  rotate: false
+  xy: 228, 458
+  size: 103, 77
+  orig: 103, 77
+  offset: 0, 0
+  index: -1
+dragon_raptor_adult_att4
+  rotate: false
+  xy: 228, 372
+  size: 160, 84
+  orig: 162, 102
+  offset: 0, 18
+  index: -1
+dragon_raptor_child_arm2
+  rotate: false
+  xy: 444, 536
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+dragon_raptor_adult_att1
+  rotate: true
+  xy: 267, 278
+  size: 92, 182
+  orig: 110, 194
+  offset: 11, 3
+  index: -1
+dragon_raptor_baby_wing1
+  rotate: false
+  xy: 444, 611
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+dragon_raptor_adult_neck3
+  rotate: false
+  xy: 410, 536
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+dragon_raptor_child_wing1
+  rotate: true
+  xy: 186, 545
+  size: 103, 77
+  orig: 103, 77
+  offset: 0, 0
+  index: -1
+dragon_raptor_child_leg2
+  rotate: false
+  xy: 485, 406
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+dragon_raptor_child_eye
+  rotate: false
+  xy: 485, 445
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+dragon_raptor_baby_arm1
+  rotate: true
+  xy: 433, 664
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+dragon_raptor_adult_leg3
+  rotate: true
+  xy: 452, 652
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+dragon_raptor_baby_tail
+  rotate: false
+  xy: 456, 54
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+dragon_raptor_child_mouth
+  rotate: false
+  xy: 228, 323
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+dragon_raptor_adult_neck1
+  rotate: true
+  xy: 2, 649
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+dragon_raptor_baby_leg2
+  rotate: true
+  xy: 297, 665
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+dragon_raptor_baby_mouth
+  rotate: false
+  xy: 333, 510
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+dragon_raptor_child_head2
+  rotate: true
+  xy: 466, 466
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+dragon_raptor_child_neck2
+  rotate: true
+  xy: 45, 649
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+dragon_raptor_adult_att2
+  rotate: false
+  xy: 2, 2
+  size: 263, 319
+  orig: 269, 329
+  offset: 6, 10
+  index: -1
+dragon_raptor_baby_wing2
+  rotate: false
+  xy: 404, 623
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+dragon_raptor_adult_arm3
+  rotate: false
+  xy: 185, 650
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+dragon_raptor_adult_body
+  rotate: true
+  xy: 265, 537
+  size: 83, 78
+  orig: 83, 78
+  offset: 0, 0
+  index: -1
+dragon_raptor_adult_eye
+  rotate: false
+  xy: 322, 665
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+dragon_raptor_baby_body
+  rotate: false
+  xy: 456, 104
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+dragon_raptor_child_arm1
+  rotate: true
+  xy: 228, 352
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+dragon_raptor_baby_arm4
+  rotate: false
+  xy: 493, 293
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1
+dragon_raptor_adult_leg4
+  rotate: false
+  xy: 132, 649
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+dragon_raptor_child_wing3
+  rotate: false
+  xy: 388, 466
+  size: 76, 68
+  orig: 76, 68
+  offset: 0, 0
+  index: -1
+dragon_raptor_child_head1
+  rotate: true
+  xy: 466, 520
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+dragon_raptor_adult_leg1
+  rotate: true
+  xy: 79, 649
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+dragon_raptor_child_neck3
+  rotate: true
+  xy: 466, 574
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+dragon_raptor_child_leg1
+  rotate: true
+  xy: 456, 269
+  size: 22, 46
+  orig: 22, 46
+  offset: 0, 0
+  index: -1
+dragon_raptor_baby_smile
+  rotate: false
+  xy: 345, 603
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_raptor_child_arm3
+  rotate: true
+  xy: 486, 334
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+dragon_raptor_adult_tail
+  rotate: false
+  xy: 2, 545
+  size: 182, 102
+  orig: 182, 102
+  offset: 0, 0
+  index: -1
+dragon_raptor_child_body
+  rotate: false
+  xy: 345, 536
+  size: 63, 65
+  orig: 63, 65
+  offset: 0, 0
+  index: -1
+dragon_raptor_child_neck1
+  rotate: false
+  xy: 451, 334
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+dragon_raptor_child_leg3
+  rotate: true
+  xy: 484, 611
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+dragon_raptor_baby_head1
+  rotate: false
+  xy: 333, 458
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+dragon_raptor_child_hu
+  rotate: false
+  xy: 444, 585
+  size: 16, 18
+  orig: 22, 22
+  offset: 4, 2
+  index: -1
+dragon_raptor_adult_neck4
+  rotate: true
+  xy: 456, 231
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+dragon_raptor_adult_arm1
+  rotate: true
+  xy: 210, 650
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+dragon_raptor_baby_leg1
+  rotate: true
+  xy: 404, 664
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+dragon_raptor_baby_arm2
+  rotate: true
+  xy: 486, 358
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+dragon_raptor_adult_leg2
+  rotate: false
+  xy: 444, 561
+  size: 20, 22
+  orig: 20, 26
+  offset: 0, 0
+  index: -1

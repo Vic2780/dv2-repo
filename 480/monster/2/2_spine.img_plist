@@ -1,0 +1,116 @@
+2_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_aforest_groggybody2
+  rotate: false
+  xy: 2, 2
+  size: 440, 397
+  orig: 450, 401
+  offset: 10, 4
+  index: -1
+m_aforest_arm2
+  rotate: true
+  xy: 1348, 237
+  size: 104, 75
+  orig: 128, 95
+  offset: 15, 4
+  index: -1
+m_aforest_groggy_light1
+  rotate: true
+  xy: 1424, 343
+  size: 41, 71
+  orig: 123, 133
+  offset: 33, 32
+  index: -1
+m_aforest_head
+  rotate: true
+  xy: 862, 2
+  size: 390, 241
+  orig: 404, 263
+  offset: 13, 7
+  index: -1
+m_aforest_arm1
+  rotate: true
+  xy: 1425, 237
+  size: 87, 66
+  orig: 107, 82
+  offset: 11, 6
+  index: -1
+m_aforest_body1
+  rotate: false
+  xy: 1348, 2
+  size: 269, 118
+  orig: 295, 132
+  offset: 15, 3
+  index: -1
+m_aforest_groggyhead
+  rotate: true
+  xy: 1105, 2
+  size: 390, 241
+  orig: 404, 263
+  offset: 13, 7
+  index: -1
+m_aforest_light2
+  rotate: false
+  xy: 1348, 343
+  size: 74, 45
+  orig: 112, 85
+  offset: 15, 18
+  index: -1
+m_aforest_groggy_light2
+  rotate: true
+  xy: 1603, 250
+  size: 40, 45
+  orig: 112, 85
+  offset: 16, 18
+  index: -1
+m_aforest_groggyeye
+  rotate: true
+  xy: 1618, 124
+  size: 124, 50
+  orig: 134, 74
+  offset: 8, 10
+  index: -1
+m_aforest_light1
+  rotate: false
+  xy: 1584, 310
+  size: 79, 85
+  orig: 123, 133
+  offset: 33, 19
+  index: -1
+m_aforest_groggyarm2
+  rotate: false
+  xy: 1497, 237
+  size: 104, 71
+  orig: 128, 95
+  offset: 15, 4
+  index: -1
+m_aforest_body2
+  rotate: false
+  xy: 444, 2
+  size: 416, 397
+  orig: 450, 401
+  offset: 24, 4
+  index: -1
+m_aforest_groggyarm1
+  rotate: false
+  xy: 1497, 310
+  size: 85, 85
+  orig: 99, 95
+  offset: 7, 3
+  index: -1
+m_aforest_groggybody1
+  rotate: false
+  xy: 1348, 122
+  size: 268, 113
+  orig: 290, 119
+  offset: 11, 6
+  index: -1
+m_aforest_eye
+  rotate: true
+  xy: 1619, 2
+  size: 120, 44
+  orig: 134, 74
+  offset: 7, 16
+  index: -1

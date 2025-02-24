@@ -1,0 +1,39 @@
+card_code_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+card_front
+  rotate: false
+  xy: 335, 2
+  size: 86, 116
+  orig: 134, 158
+  offset: 21, 20
+  index: -1
+card_rotate_light1
+  rotate: false
+  xy: 2, 2
+  size: 195, 195
+  orig: 375, 375
+  offset: 97, 97
+  index: -1
+car_rotate_light
+  rotate: false
+  xy: 317, 120
+  size: 89, 56
+  orig: 95, 56
+  offset: 6, 0
+  index: -1
+card_light
+  rotate: true
+  xy: 199, 2
+  size: 106, 134
+  orig: 134, 158
+  offset: 11, 11
+  index: -1
+card_back
+  rotate: true
+  xy: 199, 110
+  size: 86, 116
+  orig: 134, 158
+  offset: 21, 20
+  index: -1

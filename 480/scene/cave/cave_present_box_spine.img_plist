@@ -1,0 +1,60 @@
+cave_present_box_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+cave_present3
+  rotate: false
+  xy: 10, 97
+  size: 60, 89
+  orig: 88, 95
+  offset: 17, 0
+  index: -1
+cave_light
+  rotate: false
+  xy: 158, 91
+  size: 83, 83
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+cave_present1
+  rotate: false
+  xy: 72, 97
+  size: 84, 87
+  orig: 88, 95
+  offset: 0, 4
+  index: -1
+cave_present_top2
+  rotate: false
+  xy: 158, 176
+  size: 82, 57
+  orig: 82, 71
+  offset: 0, 7
+  index: -1
+rope
+  rotate: false
+  xy: 2, 2
+  size: 6, 187
+  orig: 6, 187
+  offset: 0, 0
+  index: -1
+cave_present4
+  rotate: false
+  xy: 100, 2
+  size: 80, 87
+  orig: 88, 95
+  offset: 2, 4
+  index: -1
+cave_present_top
+  rotate: false
+  xy: 182, 2
+  size: 66, 71
+  orig: 82, 71
+  offset: 7, 0
+  index: -1
+cave_present2
+  rotate: false
+  xy: 10, 2
+  size: 88, 93
+  orig: 88, 95
+  offset: 0, 2
+  index: -1

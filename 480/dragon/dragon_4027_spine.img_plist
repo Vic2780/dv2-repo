@@ -1,0 +1,445 @@
+dragon_4027_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_uchi_baby_tail
+  rotate: false
+  xy: 179, 1489
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+dragon_uchi_adult_arm5
+  rotate: false
+  xy: 2, 1464
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+dragon_uchi_child_leg2
+  rotate: false
+  xy: 147, 1379
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+dragon_uchi_child_love
+  rotate: true
+  xy: 180, 1128
+  size: 53, 66
+  orig: 53, 66
+  offset: 0, 0
+  index: -1
+dragon_uchi_adult_leg2
+  rotate: true
+  xy: 231, 1502
+  size: 50, 23
+  orig: 50, 23
+  offset: 0, 0
+  index: -1
+dragon_uchi_child_note1
+  rotate: false
+  xy: 147, 1458
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_uchi_baby_mouth
+  rotate: true
+  xy: 240, 1382
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+dragon_uchi_baby_arm
+  rotate: false
+  xy: 232, 1477
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+dragon_uchi_baby_eye
+  rotate: false
+  xy: 232, 1411
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+dragon_uchi_adult_eye
+  rotate: false
+  xy: 240, 1368
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+dragon_uchi_child_arm1
+  rotate: true
+  xy: 179, 1517
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+dragon_uchi_adult_love
+  rotate: false
+  xy: 190, 740
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+dragon_uchi_critical_c01
+  rotate: true
+  xy: 52, 1498
+  size: 262, 46
+  orig: 266, 50
+  offset: 2, 2
+  index: -1
+dragon_uchi_adult_tail
+  rotate: false
+  xy: 2, 1379
+  size: 143, 83
+  orig: 143, 83
+  offset: 0, 0
+  index: -1
+dragon_uchi_critical_b02
+  rotate: false
+  xy: 2, 215
+  size: 199, 193
+  orig: 217, 211
+  offset: 12, 7
+  index: -1
+dragon_uchi_critical_white
+  rotate: false
+  xy: 2, 939
+  size: 176, 438
+  orig: 176, 438
+  offset: 0, 0
+  index: -1
+dragon_uchi_adult_arm3
+  rotate: true
+  xy: 219, 50
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+dragon_uchi_critical_c03
+  rotate: true
+  xy: 203, 269
+  size: 266, 50
+  orig: 266, 50
+  offset: 0, 0
+  index: -1
+dragon_uchi_baby_hat02
+  rotate: true
+  xy: 240, 1328
+  size: 38, 14
+  orig: 38, 14
+  offset: 0, 0
+  index: -1
+dragon_uchi_baby_sweat
+  rotate: true
+  xy: 232, 1459
+  size: 16, 18
+  orig: 16, 20
+  offset: 0, 1
+  index: -1
+dragon_uchi_baby_body
+  rotate: true
+  xy: 100, 1686
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+dragon_uchi_child_leg1
+  rotate: true
+  xy: 147, 1527
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+dragon_uchi_child_fire02
+  rotate: false
+  xy: 219, 195
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+dragon_uchi_adult_damaged
+  rotate: false
+  xy: 189, 894
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+dragon_uchi_adult_attack
+  rotate: false
+  xy: 180, 1238
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+dragon_uchi_child_head
+  rotate: true
+  xy: 180, 1183
+  size: 53, 66
+  orig: 53, 66
+  offset: 0, 0
+  index: -1
+dragon_uchi_adult_fire02
+  rotate: true
+  xy: 180, 1072
+  size: 54, 68
+  orig: 54, 68
+  offset: 0, 0
+  index: -1
+dragon_uchi_baby_leg
+  rotate: false
+  xy: 147, 1498
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+dragon_uchi_critical_a02
+  rotate: false
+  xy: 2, 650
+  size: 186, 112
+  orig: 198, 126
+  offset: 2, 0
+  index: -1
+dragon_uchi_adult_leg3
+  rotate: false
+  xy: 40, 1464
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+dragon_uchi_baby_hat03
+  rotate: true
+  xy: 240, 1284
+  size: 42, 14
+  orig: 42, 14
+  offset: 0, 0
+  index: -1
+dragon_uchi_critical_ball
+  rotate: false
+  xy: 180, 945
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+dragon_uchi_baby_hat
+  rotate: false
+  xy: 180, 1385
+  size: 58, 21
+  orig: 58, 21
+  offset: 0, 0
+  index: -1
+dragon_uchi_adult_arm4
+  rotate: true
+  xy: 219, 2
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+dragon_uchi_adult_fire03
+  rotate: false
+  xy: 180, 1408
+  size: 50, 79
+  orig: 50, 79
+  offset: 0, 0
+  index: -1
+dragon_uchi_adult_arm1
+  rotate: false
+  xy: 100, 1599
+  size: 43, 85
+  orig: 43, 85
+  offset: 0, 0
+  index: -1
+dragon_uchi_adult_bubu
+  rotate: false
+  xy: 100, 1510
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+dragon_uchi_critical_b01
+  rotate: false
+  xy: 2, 2
+  size: 215, 211
+  orig: 217, 211
+  offset: 1, 0
+  index: -1
+dragon_uchi_adult_mouth
+  rotate: true
+  xy: 232, 1433
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+dragon_uchi_adult_body
+  rotate: false
+  xy: 146, 1589
+  size: 97, 126
+  orig: 97, 126
+  offset: 0, 0
+  index: -1
+dragon_uchi_critical_b03
+  rotate: true
+  xy: 2, 764
+  size: 173, 185
+  orig: 217, 211
+  offset: 24, 9
+  index: -1
+dragon_uchi_child_fire01
+  rotate: false
+  xy: 147, 1412
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+dragon_uchi_adult_leg4
+  rotate: false
+  xy: 203, 247
+  size: 51, 20
+  orig: 51, 20
+  offset: 0, 0
+  index: -1
+dragon_uchi_child_eye
+  rotate: false
+  xy: 203, 215
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+dragon_uchi_baby_head
+  rotate: false
+  xy: 180, 1337
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+dragon_uchi_child_body
+  rotate: false
+  xy: 190, 664
+  size: 59, 74
+  orig: 59, 74
+  offset: 0, 0
+  index: -1
+dragon_uchi_adult_smile
+  rotate: true
+  xy: 192, 605
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_uchi_adult_neck
+  rotate: false
+  xy: 180, 1021
+  size: 74, 49
+  orig: 74, 49
+  offset: 0, 0
+  index: -1
+dragon_uchi_adult_leg1
+  rotate: true
+  xy: 189, 791
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+dragon_uchi_baby_hat01
+  rotate: true
+  xy: 240, 1238
+  size: 44, 14
+  orig: 44, 14
+  offset: 0, 0
+  index: -1
+dragon_uchi_adult_head
+  rotate: false
+  xy: 189, 843
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+dragon_uchi_baby_love
+  rotate: false
+  xy: 180, 1289
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+dragon_uchi_critical_a01
+  rotate: false
+  xy: 2, 410
+  size: 196, 110
+  orig: 198, 126
+  offset: 2, 5
+  index: -1
+dragon_uchi_child_fire03
+  rotate: false
+  xy: 219, 141
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+dragon_uchi_child_mouth
+  rotate: false
+  xy: 227, 1554
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+dragon_uchi_child_tail
+  rotate: false
+  xy: 100, 1727
+  size: 84, 38
+  orig: 84, 38
+  offset: 0, 0
+  index: -1
+dragon_uchi_adult_arm2
+  rotate: false
+  xy: 178, 1544
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+dragon_uchi_child_arm2
+  rotate: false
+  xy: 100, 1553
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+dragon_uchi_adult_fire01
+  rotate: false
+  xy: 192, 537
+  size: 60, 66
+  orig: 60, 66
+  offset: 0, 0
+  index: -1
+dragon_uchi_critical_c02
+  rotate: true
+  xy: 2, 1498
+  size: 266, 48
+  orig: 266, 50
+  offset: 0, 2
+  index: -1
+dragon_uchi_child_note2
+  rotate: false
+  xy: 219, 98
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_uchi_critical_a03
+  rotate: false
+  xy: 2, 522
+  size: 188, 126
+  orig: 198, 126
+  offset: 0, 0
+  index: -1
+dragon_uchi_child_neck
+  rotate: true
+  xy: 100, 1464
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1

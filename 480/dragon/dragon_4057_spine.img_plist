@@ -1,0 +1,466 @@
+dragon_4057_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_flood_child_arm4
+  rotate: false
+  xy: 991, 70
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+dragon_flood_child_mouth
+  rotate: false
+  xy: 753, 225
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+dragon_flood_adult_tail2
+  rotate: false
+  xy: 463, 72
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+dragon_flood_adult_neck2
+  rotate: false
+  xy: 510, 146
+  size: 59, 69
+  orig: 59, 69
+  offset: 0, 0
+  index: -1
+dragon_flood_child_eye2
+  rotate: false
+  xy: 835, 200
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+dragon_flood_critical_effect5
+  rotate: true
+  xy: 2, 2
+  size: 84, 291
+  orig: 84, 293
+  offset: 0, 0
+  index: -1
+dragon_flood_adult_neck1
+  rotate: false
+  xy: 628, 146
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+dragon_flood_adult_love
+  rotate: false
+  xy: 731, 165
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_flood_adult_tail1
+  rotate: true
+  xy: 573, 2
+  size: 142, 177
+  orig: 142, 177
+  offset: 0, 0
+  index: -1
+dragon_flood_adult_eye2
+  rotate: false
+  xy: 264, 236
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+dragon_flood_baby_head2
+  rotate: false
+  xy: 702, 206
+  size: 16, 41
+  orig: 16, 41
+  offset: 0, 0
+  index: -1
+dragon_flood_child_arm5
+  rotate: false
+  xy: 991, 2
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+dragon_flood_adult_arm1
+  rotate: true
+  xy: 523, 217
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+dragon_flood_child_body
+  rotate: false
+  xy: 281, 132
+  size: 76, 57
+  orig: 76, 57
+  offset: 0, 0
+  index: -1
+dragon_flood_baby_arm
+  rotate: false
+  xy: 341, 191
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+dragon_flood_child_head2
+  rotate: true
+  xy: 287, 191
+  size: 20, 52
+  orig: 20, 52
+  offset: 0, 0
+  index: -1
+dragon_flood_critical_effect2
+  rotate: false
+  xy: 752, 94
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+dragon_flood_child_neck2
+  rotate: false
+  xy: 571, 146
+  size: 55, 65
+  orig: 55, 65
+  offset: 0, 0
+  index: -1
+dragon_flood_baby_love
+  rotate: false
+  xy: 281, 122
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+dragon_flood_baby_head1
+  rotate: true
+  xy: 940, 194
+  size: 53, 76
+  orig: 53, 76
+  offset: 0, 0
+  index: -1
+dragon_flood_child_arm2
+  rotate: true
+  xy: 336, 225
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+dragon_flood_adult_arm2
+  rotate: true
+  xy: 541, 112
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+dragon_flood_adult_head
+  rotate: true
+  xy: 435, 146
+  size: 69, 73
+  orig: 69, 73
+  offset: 0, 0
+  index: -1
+dragon_flood_critical_effect3
+  rotate: false
+  xy: 2, 165
+  size: 188, 32
+  orig: 188, 32
+  offset: 0, 0
+  index: -1
+dragon_flood_baby_body
+  rotate: true
+  xy: 665, 206
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+dragon_flood_adult_leg1
+  rotate: false
+  xy: 571, 213
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+dragon_flood_child_neck
+  rotate: true
+  xy: 2, 199
+  size: 48, 66
+  orig: 48, 66
+  offset: 0, 0
+  index: -1
+dragon_flood_baby_wing
+  rotate: true
+  xy: 243, 202
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+dragon_flood_love_effect_note1
+  rotate: false
+  xy: 541, 72
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_flood_child_arm3
+  rotate: true
+  xy: 435, 217
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+dragon_flood_child_tail2
+  rotate: true
+  xy: 370, 211
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+dragon_flood_child_love2
+  rotate: true
+  xy: 731, 146
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+dragon_flood_critical_effect1
+  rotate: true
+  xy: 359, 136
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+dragon_flood_love_effect_heart
+  rotate: true
+  xy: 148, 199
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_flood_adult_arm3
+  rotate: false
+  xy: 409, 211
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+dragon_flood_baby_tail
+  rotate: true
+  xy: 287, 213
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+dragon_flood_adult_attack
+  rotate: false
+  xy: 435, 136
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+dragon_flood_child_tail1
+  rotate: false
+  xy: 752, 2
+  size: 128, 90
+  orig: 128, 90
+  offset: 0, 0
+  index: -1
+dragon_flood_baby_eye
+  rotate: false
+  xy: 189, 232
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+dragon_flood_child_arm6
+  rotate: true
+  xy: 479, 217
+  size: 25, 42
+  orig: 25, 42
+  offset: 0, 0
+  index: -1
+dragon_flood_child_love1
+  rotate: false
+  xy: 281, 107
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+dragon_flood_adult_neck
+  rotate: false
+  xy: 381, 72
+  size: 80, 62
+  orig: 80, 62
+  offset: 0, 0
+  index: -1
+dragon_flood_adult_leg2
+  rotate: false
+  xy: 782, 225
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+dragon_flood_adult_arm6
+  rotate: true
+  xy: 720, 206
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+dragon_flood_child_arm1
+  rotate: true
+  xy: 991, 39
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+dragon_flood_adult_wing2
+  rotate: true
+  xy: 882, 2
+  size: 96, 107
+  orig: 96, 107
+  offset: 0, 0
+  index: -1
+dragon_flood_baby_neck
+  rotate: false
+  xy: 682, 146
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+dragon_flood_adult_wing1
+  rotate: true
+  xy: 70, 199
+  size: 47, 76
+  orig: 47, 76
+  offset: 0, 0
+  index: -1
+dragon_flood_adult_arm4
+  rotate: false
+  xy: 753, 200
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+dragon_flood_adult_mouth
+  rotate: false
+  xy: 243, 236
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+dragon_flood_baby_leg
+  rotate: false
+  xy: 314, 213
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+dragon_flood_child_eye
+  rotate: true
+  xy: 281, 88
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+dragon_flood_adult_body
+  rotate: true
+  xy: 940, 100
+  size: 92, 73
+  orig: 92, 73
+  offset: 0, 0
+  index: -1
+dragon_flood_adult_leg3
+  rotate: false
+  xy: 209, 232
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+dragon_flood_adult_head_a
+  rotate: true
+  xy: 192, 165
+  size: 35, 84
+  orig: 35, 84
+  offset: 0, 0
+  index: -1
+dragon_flood_adult_arm5
+  rotate: true
+  xy: 682, 181
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+dragon_flood_child_wing2
+  rotate: false
+  xy: 858, 100
+  size: 80, 95
+  orig: 80, 95
+  offset: 0, 0
+  index: -1
+dragon_flood_critical_effect6
+  rotate: true
+  xy: 2, 88
+  size: 75, 277
+  orig: 75, 277
+  offset: 0, 0
+  index: -1
+dragon_flood_adult_leg4
+  rotate: true
+  xy: 786, 200
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+dragon_flood_child_wing1
+  rotate: true
+  xy: 189, 202
+  size: 28, 52
+  orig: 28, 52
+  offset: 0, 0
+  index: -1
+dragon_flood_love_effect_note2
+  rotate: false
+  xy: 628, 206
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_flood_child_leg
+  rotate: true
+  xy: 858, 197
+  size: 50, 78
+  orig: 50, 78
+  offset: 0, 0
+  index: -1
+dragon_flood_baby_eye1
+  rotate: false
+  xy: 815, 200
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+dragon_flood_child_head
+  rotate: true
+  xy: 295, 72
+  size: 58, 84
+  orig: 58, 84
+  offset: 0, 0
+  index: -1
+dragon_flood_critical_effect4
+  rotate: true
+  xy: 295, 2
+  size: 68, 276
+  orig: 68, 276
+  offset: 0, 0
+  index: -1
+dragon_flood_adult_eye1
+  rotate: false
+  xy: 720, 240
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1

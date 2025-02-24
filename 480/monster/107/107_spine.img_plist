@@ -1,0 +1,193 @@
+107_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_BattleOgre_groggy_hammer
+  rotate: false
+  xy: 108, 2
+  size: 65, 209
+  orig: 65, 209
+  offset: 0, 0
+  index: -1
+m_BattleOgre_arm1
+  rotate: false
+  xy: 72, 927
+  size: 59, 79
+  orig: 59, 79
+  offset: 0, 0
+  index: -1
+m_BattleOgre_ac
+  rotate: true
+  xy: 133, 923
+  size: 87, 93
+  orig: 87, 93
+  offset: 0, 0
+  index: -1
+m_BattleOgre_pant
+  rotate: true
+  xy: 141, 462
+  size: 121, 46
+  orig: 121, 46
+  offset: 0, 0
+  index: -1
+m_BattleOgre_groggy_headac
+  rotate: true
+  xy: 2, 800
+  size: 125, 104
+  orig: 125, 104
+  offset: 0, 0
+  index: -1
+m_BattleOgre_body1
+  rotate: true
+  xy: 127, 283
+  size: 116, 94
+  orig: 116, 94
+  offset: 0, 0
+  index: -1
+m_BattleOgre_headac
+  rotate: true
+  xy: 2, 287
+  size: 176, 123
+  orig: 176, 123
+  offset: 0, 0
+  index: -1
+m_BattleOgre_leg2
+  rotate: false
+  xy: 175, 127
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+m_BattleOgre_ear
+  rotate: true
+  xy: 191, 583
+  size: 59, 36
+  orig: 59, 36
+  offset: 0, 0
+  index: -1
+m_BattleOgre_arm2
+  rotate: true
+  xy: 127, 401
+  size: 59, 90
+  orig: 59, 90
+  offset: 0, 0
+  index: -1
+m_BattleOgre_eye
+  rotate: false
+  xy: 187, 644
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+m_BattleOgre_groggy_head2
+  rotate: true
+  xy: 153, 636
+  size: 105, 32
+  orig: 105, 32
+  offset: 0, 0
+  index: -1
+m_BattleOgre_groggy_sk
+  rotate: true
+  xy: 163, 783
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+m_BattleOgre_head2
+  rotate: true
+  xy: 175, 2
+  size: 123, 49
+  orig: 123, 49
+  offset: 0, 0
+  index: -1
+m_BattleOgre_groggy_arm2
+  rotate: false
+  xy: 2, 927
+  size: 68, 84
+  orig: 68, 84
+  offset: 0, 0
+  index: -1
+m_BattleOgre_groggy_body2
+  rotate: true
+  xy: 189, 462
+  size: 119, 25
+  orig: 119, 25
+  offset: 0, 0
+  index: -1
+m_BattleOgre_hand
+  rotate: true
+  xy: 141, 585
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+m_BattleOgre_groggy_head1
+  rotate: true
+  xy: 89, 636
+  size: 145, 62
+  orig: 149, 82
+  offset: 2, 16
+  index: -1
+m_BattleOgre_hammer
+  rotate: false
+  xy: 2, 2
+  size: 104, 283
+  orig: 104, 283
+  offset: 0, 0
+  index: -1
+m_BattleOgre_sk
+  rotate: false
+  xy: 108, 213
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1
+m_BattleOgre_groggy_leg2
+  rotate: false
+  xy: 183, 211
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+m_BattleOgre_head1
+  rotate: false
+  xy: 2, 465
+  size: 137, 169
+  orig: 137, 169
+  offset: 0, 0
+  index: -1
+m_BattleOgre_groggy_body1
+  rotate: true
+  xy: 108, 783
+  size: 138, 53
+  orig: 138, 53
+  offset: 0, 0
+  index: -1
+m_BattleOgre_groggy_hand
+  rotate: true
+  xy: 175, 174
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+m_BattleOgre_foot
+  rotate: true
+  xy: 153, 743
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+m_BattleOgre_body2
+  rotate: true
+  xy: 2, 636
+  size: 162, 85
+  orig: 162, 85
+  offset: 0, 0
+  index: -1
+m_BattleOgre_leg1
+  rotate: true
+  xy: 163, 853
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1

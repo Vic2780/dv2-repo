@@ -1,0 +1,249 @@
+33_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_fairyghost_groggy_eye2
+  rotate: false
+  xy: 2, 1138
+  size: 118, 50
+  orig: 238, 176
+  offset: 74, 24
+  index: -1
+m_fairyghost_groggy_rsmbody
+  rotate: true
+  xy: 114, 1347
+  size: 44, 53
+  orig: 54, 91
+  offset: 4, 13
+  index: -1
+m_fairyghost_usmtail
+  rotate: true
+  xy: 88, 1574
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+m_fairyghost_groggy_eye
+  rotate: false
+  xy: 2, 1379
+  size: 98, 52
+  orig: 238, 176
+  offset: 93, 24
+  index: -1
+m_fairyghost_groggy_hand2
+  rotate: true
+  xy: 127, 1055
+  size: 26, 47
+  orig: 108, 77
+  offset: 53, 20
+  index: -1
+m_fairyghost_rsmhand1
+  rotate: true
+  xy: 152, 894
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+m_fairyghost_groggy_lsmbody
+  rotate: false
+  xy: 138, 934
+  size: 36, 59
+  orig: 76, 85
+  offset: 21, 5
+  index: -1
+m_fairyghost_lsmbody
+  rotate: true
+  xy: 2, 1513
+  size: 64, 83
+  orig: 76, 85
+  offset: 12, 2
+  index: -1
+m_fairyghost_mouth
+  rotate: false
+  xy: 166, 491
+  size: 10, 10
+  orig: 238, 176
+  offset: 157, 11
+  index: -1
+m_fairyghost_rsmbody
+  rotate: false
+  xy: 122, 1185
+  size: 54, 91
+  orig: 54, 91
+  offset: 0, 0
+  index: -1
+m_fairyghost_wing
+  rotate: false
+  xy: 2, 491
+  size: 162, 151
+  orig: 162, 153
+  offset: 0, 0
+  index: -1
+m_fairyghost_groggy_tail
+  rotate: true
+  xy: 138, 995
+  size: 58, 35
+  orig: 176, 59
+  offset: 38, 3
+  index: -1
+m_fairyghost_groggy_wing
+  rotate: false
+  xy: 2, 644
+  size: 162, 151
+  orig: 162, 153
+  offset: 0, 0
+  index: -1
+m_fairyghost_lsmhand
+  rotate: false
+  xy: 56, 1579
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+m_fairyghost_groggy_head
+  rotate: true
+  xy: 2, 293
+  size: 196, 164
+  orig: 238, 176
+  offset: 18, 4
+  index: -1
+m_fairyghost_arm2
+  rotate: false
+  xy: 2, 1579
+  size: 52, 39
+  orig: 108, 77
+  offset: 5, 33
+  index: -1
+m_fairyghost_groggy_arm1
+  rotate: false
+  xy: 122, 1574
+  size: 16, 42
+  orig: 112, 158
+  offset: 57, 108
+  index: -1
+m_fairyghost_tail
+  rotate: false
+  xy: 2, 234
+  size: 166, 57
+  orig: 176, 59
+  offset: 4, 0
+  index: -1
+m_fairyghost_groggy_usmbody
+  rotate: false
+  xy: 87, 1520
+  size: 46, 52
+  orig: 78, 96
+  offset: 14, 5
+  index: -1
+m_fairyghost_lsmtail
+  rotate: true
+  xy: 140, 1520
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+m_fairyghost_rsmtail
+  rotate: true
+  xy: 140, 1581
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+m_fairyghost_hand1
+  rotate: true
+  xy: 2, 1273
+  size: 104, 110
+  orig: 112, 158
+  offset: 5, 2
+  index: -1
+m_fairyghost_head
+  rotate: true
+  xy: 2, 2
+  size: 230, 174
+  orig: 238, 176
+  offset: 5, 0
+  index: -1
+m_fairyghost_usmbody
+  rotate: true
+  xy: 2, 1433
+  size: 78, 96
+  orig: 78, 96
+  offset: 0, 0
+  index: -1
+m_fairyghost_groggy_bottom
+  rotate: false
+  xy: 2, 928
+  size: 134, 113
+  orig: 164, 143
+  offset: 21, 12
+  index: -1
+m_fairyghost_arm1
+  rotate: false
+  xy: 152, 828
+  size: 22, 64
+  orig: 112, 158
+  offset: 54, 90
+  index: -1
+m_fairyghost_chest
+  rotate: false
+  xy: 2, 1043
+  size: 123, 93
+  orig: 135, 95
+  offset: 6, 2
+  index: -1
+m_fairyghost_bottom
+  rotate: false
+  xy: 2, 797
+  size: 148, 129
+  orig: 164, 143
+  offset: 11, 6
+  index: -1
+m_fairyghost_groggy_arm2
+  rotate: false
+  xy: 140, 1550
+  size: 30, 29
+  orig: 108, 77
+  offset: 17, 37
+  index: -1
+m_fairyghost_groggy_chest
+  rotate: false
+  xy: 2, 1190
+  size: 113, 81
+  orig: 135, 95
+  offset: 6, 7
+  index: -1
+m_fairyghost_hand2
+  rotate: false
+  xy: 114, 1278
+  size: 62, 67
+  orig: 108, 77
+  offset: 43, 3
+  index: -1
+m_fairyghost_groggy_mouth
+  rotate: false
+  xy: 100, 1485
+  size: 68, 33
+  orig: 68, 35
+  offset: 0, 2
+  index: -1
+m_fairyghost_eye
+  rotate: true
+  xy: 127, 1083
+  size: 100, 46
+  orig: 238, 176
+  offset: 92, 25
+  index: -1
+m_fairyghost_groggy_hand1
+  rotate: true
+  xy: 102, 1393
+  size: 90, 72
+  orig: 112, 158
+  offset: 11, 29
+  index: -1
+m_fairyghost_rsmhand2
+  rotate: true
+  xy: 152, 797
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1

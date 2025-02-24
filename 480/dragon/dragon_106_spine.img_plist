@@ -1,0 +1,452 @@
+dragon_106_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_lamb_adult_mouse
+  rotate: false
+  xy: 168, 384
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+dragon_lamb_child_leg1
+  rotate: true
+  xy: 2, 1403
+  size: 67, 139
+  orig: 67, 139
+  offset: 0, 0
+  index: -1
+dragon_lamb_adult_neck
+  rotate: false
+  xy: 168, 583
+  size: 84, 90
+  orig: 84, 90
+  offset: 0, 0
+  index: -1
+dragon_lamb_baby_tail
+  rotate: false
+  xy: 163, 769
+  size: 87, 80
+  orig: 87, 80
+  offset: 0, 0
+  index: -1
+dragon_lamb_adult_wing2
+  rotate: false
+  xy: 143, 1433
+  size: 105, 74
+  orig: 105, 74
+  offset: 0, 0
+  index: -1
+dragon_lamb_child_love
+  rotate: false
+  xy: 2, 384
+  size: 164, 127
+  orig: 164, 127
+  offset: 0, 0
+  index: -1
+dragon_lamb_baby_arm4
+  rotate: false
+  xy: 220, 1663
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+dragon_lamb_adult_leg7
+  rotate: false
+  xy: 229, 1388
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+dragon_lamb_baby_body
+  rotate: false
+  xy: 2, 1472
+  size: 114, 72
+  orig: 114, 72
+  offset: 0, 0
+  index: -1
+dragon_lamb_child_neck1
+  rotate: true
+  xy: 163, 675
+  size: 92, 91
+  orig: 92, 91
+  offset: 0, 0
+  index: -1
+dragon_lamb_adult_body1
+  rotate: false
+  xy: 118, 1509
+  size: 74, 62
+  orig: 74, 62
+  offset: 0, 0
+  index: -1
+dragon_lamb_child_tail
+  rotate: false
+  xy: 2, 910
+  size: 154, 147
+  orig: 154, 147
+  offset: 0, 0
+  index: -1
+dragon_lamb_child_leg4
+  rotate: true
+  xy: 151, 1330
+  size: 56, 97
+  orig: 56, 103
+  offset: 0, 6
+  index: -1
+dragon_lamb_adult_tail1
+  rotate: false
+  xy: 2, 1677
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+dragon_lamb_adult_leg5
+  rotate: false
+  xy: 54, 1677
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+dragon_lamb_critical6
+  rotate: false
+  xy: 151, 1078
+  size: 102, 66
+  orig: 104, 74
+  offset: 2, 0
+  index: -1
+dragon_lamb_child_mouth
+  rotate: false
+  xy: 163, 851
+  size: 83, 54
+  orig: 83, 54
+  offset: 0, 0
+  index: -1
+dragon_lamb_critical1
+  rotate: false
+  xy: 168, 429
+  size: 20, 6
+  orig: 20, 6
+  offset: 0, 0
+  index: -1
+dragon_lamb_adult_tail3
+  rotate: true
+  xy: 193, 337
+  size: 28, 59
+  orig: 28, 59
+  offset: 0, 0
+  index: -1
+dragon_lamb_child_wing
+  rotate: false
+  xy: 2, 2
+  size: 207, 105
+  orig: 207, 105
+  offset: 0, 0
+  index: -1
+dragon_lamb_critical7
+  rotate: true
+  xy: 151, 1197
+  size: 131, 100
+  orig: 131, 110
+  offset: 0, 0
+  index: -1
+dragon_lamb_baby_head
+  rotate: false
+  xy: 2, 776
+  size: 159, 132
+  orig: 159, 132
+  offset: 0, 0
+  index: -1
+dragon_lamb_adult_wing1
+  rotate: true
+  xy: 76, 1546
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+dragon_lamb_adult_head
+  rotate: true
+  xy: 211, 75
+  size: 71, 43
+  orig: 71, 43
+  offset: 0, 0
+  index: -1
+dragon_lamb_adult_foot2
+  rotate: false
+  xy: 118, 1472
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+dragon_lamb_adult_leg2
+  rotate: false
+  xy: 193, 109
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+dragon_lamb_adult_neck2
+  rotate: false
+  xy: 193, 280
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+dragon_lamb_baby_love
+  rotate: false
+  xy: 2, 642
+  size: 159, 132
+  orig: 159, 132
+  offset: 0, 0
+  index: -1
+dragon_lamb_child_leg2
+  rotate: true
+  xy: 2, 1327
+  size: 74, 147
+  orig: 74, 147
+  offset: 0, 0
+  index: -1
+dragon_lamb_baby_neck
+  rotate: true
+  xy: 158, 951
+  size: 125, 96
+  orig: 125, 96
+  offset: 0, 0
+  index: -1
+dragon_lamb_baby_wing
+  rotate: false
+  xy: 151, 1388
+  size: 76, 36
+  orig: 76, 36
+  offset: 0, 0
+  index: -1
+dragon_lamb_critical4
+  rotate: true
+  xy: 194, 1549
+  size: 73, 55
+  orig: 75, 55
+  offset: 1, 0
+  index: -1
+dragon_lamb_adult_wing3
+  rotate: false
+  xy: 168, 481
+  size: 85, 100
+  orig: 85, 100
+  offset: 0, 0
+  index: -1
+dragon_lamb_child_eye
+  rotate: false
+  xy: 87, 1710
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+dragon_lamb_adult_s
+  rotate: true
+  xy: 193, 221
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_lamb_adult_leg1
+  rotate: false
+  xy: 161, 1698
+  size: 40, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+dragon_lamb_child_body
+  rotate: true
+  xy: 2, 1059
+  size: 266, 147
+  orig: 266, 147
+  offset: 0, 0
+  index: -1
+dragon_lamb_baby_leg
+  rotate: true
+  xy: 118, 1573
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+dragon_lamb_adult_leg6
+  rotate: false
+  xy: 189, 1663
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+dragon_lamb_critical5
+  rotate: false
+  xy: 2, 1546
+  size: 72, 51
+  orig: 72, 51
+  offset: 0, 0
+  index: -1
+dragon_lamb_adult_foot4
+  rotate: true
+  xy: 193, 181
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+dragon_lamb_adult_leg4
+  rotate: false
+  xy: 193, 137
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+dragon_lamb_adult_foot1
+  rotate: false
+  xy: 193, 162
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+dragon_lamb_child_neck2
+  rotate: true
+  xy: 2, 109
+  size: 273, 189
+  orig: 273, 189
+  offset: 0, 0
+  index: -1
+dragon_lamb_baby_arm2
+  rotate: false
+  xy: 75, 1601
+  size: 41, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1
+dragon_lamb_adult_eye
+  rotate: false
+  xy: 193, 203
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+dragon_lamb_adult_damaged
+  rotate: true
+  xy: 211, 148
+  size: 71, 43
+  orig: 71, 43
+  offset: 0, 0
+  index: -1
+dragon_lamb_adult_body2
+  rotate: false
+  xy: 189, 1624
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+dragon_lamb_critical2
+  rotate: true
+  xy: 168, 437
+  size: 42, 18
+  orig: 42, 18
+  offset: 0, 0
+  index: -1
+dragon_lamb_baby_arm1
+  rotate: false
+  xy: 2, 1645
+  size: 68, 30
+  orig: 68, 30
+  offset: 0, 0
+  index: -1
+dragon_lamb_adult_tail2
+  rotate: false
+  xy: 203, 1706
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+dragon_lamb_adult_attack
+  rotate: false
+  xy: 2, 1599
+  size: 71, 44
+  orig: 71, 44
+  offset: 0, 0
+  index: -1
+dragon_lamb_adult_foot3
+  rotate: false
+  xy: 118, 1488
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+dragon_lamb_adult_leg3
+  rotate: false
+  xy: 87, 1663
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+dragon_lamb_adult_neck3
+  rotate: false
+  xy: 161, 1657
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+dragon_lamb_child_head
+  rotate: false
+  xy: 2, 513
+  size: 164, 127
+  orig: 164, 127
+  offset: 0, 0
+  index: -1
+dragon_lamb_critical8
+  rotate: true
+  xy: 193, 367
+  size: 112, 58
+  orig: 112, 58
+  offset: 0, 0
+  index: -1
+dragon_lamb_baby_eye
+  rotate: true
+  xy: 121, 1663
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+dragon_lamb_child_leg3
+  rotate: true
+  xy: 151, 1146
+  size: 49, 101
+  orig: 49, 101
+  offset: 0, 0
+  index: -1
+dragon_lamb_baby_arm3
+  rotate: false
+  xy: 118, 1629
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+dragon_lamb_adult_leg8
+  rotate: false
+  xy: 168, 398
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+dragon_lamb_critical3
+  rotate: false
+  xy: 194, 1509
+  size: 57, 38
+  orig: 59, 38
+  offset: 2, 0
+  index: -1
+dragon_lamb_adult_love
+  rotate: true
+  xy: 211, 2
+  size: 71, 43
+  orig: 71, 43
+  offset: 0, 0
+  index: -1
+dragon_lamb_baby_mouth
+  rotate: false
+  xy: 163, 907
+  size: 83, 42
+  orig: 83, 42
+  offset: 0, 0
+  index: -1

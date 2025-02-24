@@ -1,0 +1,319 @@
+dragon_46_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_hedgebat_child_mouth
+  rotate: false
+  xy: 597, 105
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_child_leg2
+  rotate: true
+  xy: 1588, 81
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_baby_body
+  rotate: true
+  xy: 1304, 2
+  size: 86, 73
+  orig: 86, 73
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_adult_leg2
+  rotate: true
+  xy: 1871, 76
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_baby_leg2
+  rotate: false
+  xy: 1312, 90
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_child_wing
+  rotate: false
+  xy: 1925, 2
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_adult_tail1
+  rotate: false
+  xy: 1572, 2
+  size: 53, 77
+  orig: 53, 77
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_critical06
+  rotate: false
+  xy: 195, 2
+  size: 152, 111
+  orig: 162, 131
+  offset: 6, 13
+  index: -1
+dragon_hedgebat_adult_leg5
+  rotate: false
+  xy: 1182, 97
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_adult_wing2
+  rotate: true
+  xy: 388, 2
+  size: 106, 92
+  orig: 106, 92
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_baby_effect
+  rotate: false
+  xy: 1212, 97
+  size: 16, 18
+  orig: 16, 20
+  offset: 0, 1
+  index: -1
+dragon_hedgebat_adult_critical
+  rotate: false
+  xy: 195, 2
+  size: 152, 111
+  orig: 162, 131
+  offset: 6, 13
+  index: -1
+dragon_hedgebat_adult_effect
+  rotate: true
+  xy: 1387, 89
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_hedgebat_child_love
+  rotate: false
+  xy: 1755, 2
+  size: 60, 72
+  orig: 60, 72
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_adult_leg7
+  rotate: false
+  xy: 1084, 98
+  size: 52, 20
+  orig: 52, 20
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_adult_love
+  rotate: true
+  xy: 1631, 76
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_child_leg1
+  rotate: true
+  xy: 1338, 90
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_adult_eye
+  rotate: false
+  xy: 388, 110
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_adult_neck
+  rotate: false
+  xy: 1379, 2
+  size: 62, 85
+  orig: 62, 85
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_child_head
+  rotate: false
+  xy: 1817, 2
+  size: 60, 72
+  orig: 60, 72
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_child_body
+  rotate: true
+  xy: 1084, 2
+  size: 94, 89
+  orig: 94, 89
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_child_eye
+  rotate: true
+  xy: 1986, 55
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_adult_leg3
+  rotate: false
+  xy: 1230, 97
+  size: 49, 17
+  orig: 49, 17
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_baby_leg1
+  rotate: false
+  xy: 565, 105
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_child_neck
+  rotate: true
+  xy: 1986, 2
+  size: 51, 57
+  orig: 51, 57
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_adult_head
+  rotate: true
+  xy: 1691, 76
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_child_tail
+  rotate: true
+  xy: 349, 2
+  size: 109, 37
+  orig: 109, 37
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_critical07
+  rotate: false
+  xy: 2, 2
+  size: 191, 116
+  orig: 191, 134
+  offset: 0, 8
+  index: -1
+dragon_hedgebat_adult_wing1
+  rotate: true
+  xy: 1443, 2
+  size: 84, 74
+  orig: 84, 74
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_baby_mouth
+  rotate: false
+  xy: 531, 105
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_baby_eye
+  rotate: false
+  xy: 1138, 98
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_adult_attack
+  rotate: true
+  xy: 1811, 76
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_adult_tail2
+  rotate: false
+  xy: 1922, 75
+  size: 121, 41
+  orig: 121, 41
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_critical01
+  rotate: false
+  xy: 482, 2
+  size: 600, 101
+  orig: 610, 125
+  offset: 3, 13
+  index: -1
+dragon_hedgebat_adult_leg4
+  rotate: false
+  xy: 1879, 2
+  size: 44, 71
+  orig: 44, 71
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_adult_body
+  rotate: false
+  xy: 1175, 2
+  size: 127, 93
+  orig: 127, 93
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_adult_leg1
+  rotate: false
+  xy: 1519, 2
+  size: 51, 78
+  orig: 51, 78
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_baby_head
+  rotate: false
+  xy: 1691, 2
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_adult_mouth
+  rotate: false
+  xy: 1281, 97
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_adult_leg6
+  rotate: true
+  xy: 1476, 88
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_baby_love
+  rotate: false
+  xy: 1627, 2
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_child_effect
+  rotate: true
+  xy: 1521, 82
+  size: 35, 65
+  orig: 39, 67
+  offset: 2, 2
+  index: -1
+dragon_hedgebat_adult_damaged
+  rotate: true
+  xy: 1751, 76
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_baby_tail
+  rotate: false
+  xy: 1427, 89
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+dragon_hedgebat_baby_wing
+  rotate: false
+  xy: 482, 105
+  size: 47, 14
+  orig: 47, 14
+  offset: 0, 0
+  index: -1

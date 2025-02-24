@@ -1,0 +1,137 @@
+ani_imp_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+worldmap_imp_head
+  rotate: false
+  xy: 2, 33
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+worldmap_imp_eye
+  rotate: true
+  xy: 41, 2
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+worldmap_imp_mouth1
+  rotate: true
+  xy: 18, 129
+  size: 31, 9
+  orig: 31, 13
+  offset: 0, 3
+  index: -1
+worldmap_imp_arm2
+  rotate: false
+  xy: 45, 141
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+worldmap_imp_coin2
+  rotate: false
+  xy: 29, 122
+  size: 13, 18
+  orig: 19, 18
+  offset: 3, 0
+  index: -1
+worldmap_imp_body
+  rotate: false
+  xy: 2, 2
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+worldmap_imp_coin1
+  rotate: true
+  xy: 44, 96
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+worldmap_imp_ear
+  rotate: true
+  xy: 39, 33
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+worldmap_imp_arm1
+  rotate: false
+  xy: 29, 142
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+worldmap_imp_mouth2
+  rotate: false
+  xy: 30, 81
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1
+worldmap_imp_bodybook
+  rotate: true
+  xy: 2, 129
+  size: 37, 14
+  orig: 37, 14
+  offset: 0, 0
+  index: -1
+worldmap_imp_hat
+  rotate: false
+  xy: 2, 66
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+worldmap_imp_coin4
+  rotate: true
+  xy: 44, 117
+  size: 13, 18
+  orig: 19, 18
+  offset: 3, 0
+  index: -1
+worldmap_imp_mouth3
+  rotate: false
+  xy: 30, 66
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1
+worldmap_imp_eyebrow
+  rotate: true
+  xy: 2, 97
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+worldmap_imp_hand2
+  rotate: false
+  xy: 29, 158
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+worldmap_imp_coin3
+  rotate: true
+  xy: 44, 132
+  size: 7, 18
+  orig: 19, 18
+  offset: 5, 0
+  index: -1
+worldmap_imp_shadow
+  rotate: true
+  xy: 28, 97
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+worldmap_imp_hand1
+  rotate: false
+  xy: 45, 156
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1

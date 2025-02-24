@@ -1,0 +1,67 @@
+skill_150_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skill_paralyze1
+  rotate: true
+  xy: 676, 2
+  size: 116, 51
+  orig: 240, 191
+  offset: 66, 14
+  index: -1
+skill_paralyze2
+  rotate: true
+  xy: 729, 2
+  size: 76, 65
+  orig: 240, 191
+  offset: 159, 14
+  index: -1
+skill_paralyze3
+  rotate: true
+  xy: 798, 60
+  size: 66, 55
+  orig: 240, 191
+  offset: 19, 16
+  index: -1
+skill_paralyze4
+  rotate: true
+  xy: 729, 80
+  size: 44, 67
+  orig: 240, 191
+  offset: 76, 17
+  index: -1
+skill_paralyze5
+  rotate: false
+  xy: 594, 2
+  size: 80, 83
+  orig: 240, 191
+  offset: 109, 11
+  index: -1
+skill_paralyze6
+  rotate: true
+  xy: 796, 2
+  size: 56, 67
+  orig: 240, 191
+  offset: 23, 19
+  index: -1
+skill_paralyze7
+  rotate: false
+  xy: 202, 2
+  size: 214, 107
+  orig: 240, 191
+  offset: 21, 10
+  index: -1
+skill_paralyze8
+  rotate: false
+  xy: 418, 2
+  size: 174, 99
+  orig: 240, 191
+  offset: 41, 33
+  index: -1
+skill_paralyze9
+  rotate: false
+  xy: 2, 2
+  size: 198, 119
+  orig: 240, 191
+  offset: 19, 48
+  index: -1

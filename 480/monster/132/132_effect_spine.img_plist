@@ -1,0 +1,25 @@
+132_effect_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_coelacanth_eff3
+  rotate: true
+  xy: 2, 2
+  size: 353, 148
+  orig: 375, 254
+  offset: 8, 49
+  index: -1
+m_coelacanth_eff1
+  rotate: false
+  xy: 2, 357
+  size: 77, 142
+  orig: 77, 142
+  offset: 0, 0
+  index: -1
+m_coelacanth_eff2
+  rotate: false
+  xy: 81, 357
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1

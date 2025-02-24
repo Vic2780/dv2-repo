@@ -1,0 +1,172 @@
+24_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_centa_groggy_leg1
+  rotate: true
+  xy: 80, 810
+  size: 44, 62
+  orig: 66, 98
+  offset: 4, 29
+  index: -1
+m_centa_body2
+  rotate: false
+  xy: 2, 689
+  size: 131, 119
+  orig: 131, 119
+  offset: 0, 0
+  index: -1
+m_centa_leg2
+  rotate: true
+  xy: 184, 400
+  size: 80, 59
+  orig: 80, 59
+  offset: 0, 0
+  index: -1
+m_centa_groggy_head2
+  rotate: true
+  xy: 2, 2
+  size: 261, 124
+  orig: 261, 124
+  offset: 0, 0
+  index: -1
+m_centa_eye
+  rotate: true
+  xy: 147, 498
+  size: 87, 35
+  orig: 189, 143
+  offset: 43, 47
+  index: -1
+m_centa_hand
+  rotate: true
+  xy: 184, 537
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+m_centa_groggy_leg2
+  rotate: true
+  xy: 193, 330
+  size: 68, 47
+  orig: 80, 59
+  offset: 4, 6
+  index: -1
+m_centa_tail
+  rotate: false
+  xy: 116, 275
+  size: 75, 121
+  orig: 75, 121
+  offset: 0, 0
+  index: -1
+m_centa_wing1
+  rotate: false
+  xy: 193, 275
+  size: 51, 53
+  orig: 51, 63
+  offset: 0, 10
+  index: -1
+m_centa_body1
+  rotate: true
+  xy: 128, 2
+  size: 203, 116
+  orig: 203, 116
+  offset: 0, 0
+  index: -1
+m_centa_groggy_body2
+  rotate: false
+  xy: 147, 587
+  size: 87, 87
+  orig: 131, 119
+  offset: 15, 29
+  index: -1
+m_centa_ear
+  rotate: false
+  xy: 2, 810
+  size: 76, 50
+  orig: 76, 50
+  offset: 0, 0
+  index: -1
+m_centa_leg3
+  rotate: true
+  xy: 170, 755
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+m_centa_t
+  rotate: false
+  xy: 204, 837
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+m_centa_n
+  rotate: false
+  xy: 193, 837
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+m_centa_groggy_body1
+  rotate: false
+  xy: 128, 207
+  size: 109, 66
+  orig: 203, 116
+  offset: 94, 46
+  index: -1
+m_centa_mouth
+  rotate: false
+  xy: 193, 818
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+m_centa_head
+  rotate: true
+  xy: 2, 498
+  size: 189, 143
+  orig: 189, 143
+  offset: 0, 0
+  index: -1
+m_centa_leg1
+  rotate: false
+  xy: 116, 398
+  size: 66, 98
+  orig: 66, 98
+  offset: 0, 0
+  index: -1
+m_centa_groggy_head
+  rotate: false
+  xy: 147, 676
+  size: 85, 77
+  orig: 189, 143
+  offset: 53, 23
+  index: -1
+m_centa_groggy_tail
+  rotate: false
+  xy: 144, 818
+  size: 47, 45
+  orig: 75, 121
+  offset: 19, 0
+  index: -1
+m_centa_groggy_wing1
+  rotate: false
+  xy: 135, 755
+  size: 33, 53
+  orig: 51, 63
+  offset: 18, 0
+  index: -1
+m_centa_head2
+  rotate: true
+  xy: 2, 265
+  size: 231, 112
+  orig: 261, 124
+  offset: 16, 9
+  index: -1
+m_centa_wing2
+  rotate: false
+  xy: 184, 482
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1

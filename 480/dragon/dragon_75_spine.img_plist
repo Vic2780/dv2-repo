@@ -1,0 +1,515 @@
+dragon_75_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_haetai_child_note2
+  rotate: false
+  xy: 942, 105
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_fur1
+  rotate: true
+  xy: 844, 106
+  size: 58, 29
+  orig: 58, 29
+  offset: 0, 0
+  index: -1
+dragon_haetai_baby_leg2
+  rotate: false
+  xy: 789, 65
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_tail1
+  rotate: true
+  xy: 830, 2
+  size: 57, 45
+  orig: 57, 45
+  offset: 0, 0
+  index: -1
+dragon_haetai_child_wing1
+  rotate: false
+  xy: 784, 2
+  size: 44, 61
+  orig: 44, 61
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_eye3
+  rotate: false
+  xy: 643, 194
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_l_wingb
+  rotate: true
+  xy: 367, 2
+  size: 107, 95
+  orig: 107, 95
+  offset: 0, 0
+  index: -1
+dragon_haetai_child_body
+  rotate: true
+  xy: 705, 2
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_l_leg1b
+  rotate: false
+  xy: 899, 159
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+dragon_haetai_baby_tail
+  rotate: false
+  xy: 260, 116
+  size: 49, 26
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+dragon_haetai_baby_body
+  rotate: false
+  xy: 227, 144
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_l_leg2c
+  rotate: true
+  xy: 923, 105
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+dragon_haetai_child_bell
+  rotate: false
+  xy: 1002, 186
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_haetai_child_eye
+  rotate: true
+  xy: 356, 116
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+dragon_haetai_child_leg3
+  rotate: true
+  xy: 387, 111
+  size: 31, 61
+  orig: 31, 61
+  offset: 0, 0
+  index: -1
+dragon_haetai_baby_chin
+  rotate: false
+  xy: 1002, 166
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_r_leg1a
+  rotate: false
+  xy: 849, 61
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+dragon_haetai_baby_head
+  rotate: true
+  xy: 339, 144
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_tail2
+  rotate: false
+  xy: 737, 184
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+dragon_haetai_child_wing2
+  rotate: true
+  xy: 84, 144
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_r_leg2a
+  rotate: true
+  xy: 311, 116
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_eye2
+  rotate: true
+  xy: 1008, 94
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_haetai_child_eye3
+  rotate: true
+  xy: 947, 148
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+dragon_haetai_baby_leg3
+  rotate: false
+  xy: 814, 65
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+dragon_haetai_baby_ear
+  rotate: false
+  xy: 603, 194
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_l_leg1c
+  rotate: true
+  xy: 953, 177
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+dragon_haetai_child_leg2
+  rotate: false
+  xy: 804, 107
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_r_leg1b
+  rotate: true
+  xy: 979, 23
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_neck
+  rotate: false
+  xy: 658, 109
+  size: 46, 83
+  orig: 46, 83
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_r_leg2b
+  rotate: false
+  xy: 868, 166
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+dragon_haetai_child_eye2
+  rotate: false
+  xy: 973, 177
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_hair
+  rotate: true
+  xy: 965, 80
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_neckfur
+  rotate: false
+  xy: 288, 144
+  size: 49, 63
+  orig: 49, 63
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_body1
+  rotate: true
+  xy: 603, 109
+  size: 83, 53
+  orig: 83, 53
+  offset: 0, 0
+  index: -1
+dragon_haetai_baby_bell
+  rotate: false
+  xy: 705, 82
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+dragon_haetai_baby_eye2
+  rotate: false
+  xy: 979, 102
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+dragon_haetai_baby_leg4
+  rotate: false
+  xy: 873, 61
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_tail3
+  rotate: false
+  xy: 706, 108
+  size: 44, 74
+  orig: 44, 74
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_heart
+  rotate: false
+  xy: 400, 171
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_l_leg2a
+  rotate: false
+  xy: 143, 144
+  size: 44, 65
+  orig: 44, 65
+  offset: 0, 0
+  index: -1
+dragon_haetai_baby_heart
+  rotate: false
+  xy: 400, 171
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_haetai_child_ear
+  rotate: true
+  xy: 965, 58
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+dragon_haetai_child_leg1
+  rotate: true
+  xy: 400, 144
+  size: 25, 48
+  orig: 25, 48
+  offset: 0, 0
+  index: -1
+dragon_haetai_critical1
+  rotate: false
+  xy: 464, 2
+  size: 239, 105
+  orig: 245, 125
+  offset: 6, 5
+  index: -1
+dragon_haetai_child_head
+  rotate: false
+  xy: 2, 144
+  size: 80, 65
+  orig: 80, 65
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_eye5
+  rotate: true
+  xy: 1008, 73
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_ear
+  rotate: false
+  xy: 923, 149
+  size: 22, 8
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_body2
+  rotate: true
+  xy: 899, 2
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_r_winga
+  rotate: false
+  xy: 529, 109
+  size: 72, 100
+  orig: 72, 100
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_chest
+  rotate: true
+  xy: 979, 53
+  size: 18, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+dragon_haetai_child_chin
+  rotate: false
+  xy: 978, 80
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_eye
+  rotate: true
+  xy: 1008, 113
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_haetai_baby_leg1
+  rotate: true
+  xy: 979, 2
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+dragon_haetai_child_tail
+  rotate: true
+  xy: 752, 107
+  size: 71, 50
+  orig: 71, 50
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_r_leg1c
+  rotate: true
+  xy: 933, 177
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+dragon_haetai_baby_wing2
+  rotate: true
+  xy: 916, 58
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_r_leg2c
+  rotate: false
+  xy: 663, 194
+  size: 42, 14
+  orig: 42, 14
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_bell
+  rotate: false
+  xy: 1008, 132
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_chin
+  rotate: false
+  xy: 936, 36
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+dragon_haetai_baby_hair
+  rotate: false
+  xy: 707, 184
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_fur2
+  rotate: true
+  xy: 877, 2
+  size: 57, 20
+  orig: 57, 20
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_l_leg1a
+  rotate: false
+  xy: 823, 169
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+dragon_haetai_baby_eye3
+  rotate: false
+  xy: 936, 2
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_l_wing
+  rotate: true
+  xy: 260, 2
+  size: 112, 105
+  orig: 112, 105
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_eye4
+  rotate: false
+  xy: 624, 194
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+dragon_haetai_child_note1
+  rotate: true
+  xy: 783, 180
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_haetai_adult_r_wingb
+  rotate: false
+  xy: 450, 111
+  size: 77, 97
+  orig: 77, 97
+  offset: 0, 0
+  index: -1
+dragon_haetai_child_leg4
+  rotate: false
+  xy: 189, 144
+  size: 36, 65
+  orig: 36, 65
+  offset: 0, 0
+  index: -1
+dragon_haetai_critical2
+  rotate: false
+  xy: 2, 2
+  size: 256, 140
+  orig: 262, 156
+  offset: 5, 8
+  index: -1
+dragon_haetai_adult_head
+  rotate: true
+  xy: 875, 105
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_r_legfur
+  rotate: false
+  xy: 965, 2
+  size: 12, 30
+  orig: 12, 30
+  offset: 0, 0
+  index: -1
+dragon_haetai_adult_l_leg2b
+  rotate: true
+  xy: 731, 82
+  size: 23, 56
+  orig: 23, 56
+  offset: 0, 0
+  index: -1
+dragon_haetai_baby_eye
+  rotate: false
+  xy: 979, 134
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

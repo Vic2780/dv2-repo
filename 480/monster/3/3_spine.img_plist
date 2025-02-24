@@ -1,0 +1,116 @@
+3_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_bforest_groggymask
+  rotate: false
+  xy: 714, 2
+  size: 180, 131
+  orig: 200, 143
+  offset: 11, 0
+  index: -1
+m_bforest_body
+  rotate: true
+  xy: 896, 2
+  size: 70, 162
+  orig: 92, 182
+  offset: 7, 1
+  index: -1
+m_bforest_groggybody
+  rotate: true
+  xy: 526, 135
+  size: 70, 162
+  orig: 92, 182
+  offset: 7, 1
+  index: -1
+m_bforest_head
+  rotate: false
+  xy: 2, 2
+  size: 260, 223
+  orig: 292, 245
+  offset: 18, 9
+  index: -1
+m_bforest_arm1
+  rotate: false
+  xy: 1060, 2
+  size: 103, 96
+  orig: 117, 112
+  offset: 9, 0
+  index: -1
+m_bforest_groggyear1
+  rotate: true
+  xy: 1165, 2
+  size: 65, 61
+  orig: 89, 83
+  offset: 13, 13
+  index: -1
+m_bforest_groggyeye
+  rotate: false
+  xy: 690, 135
+  size: 139, 60
+  orig: 151, 82
+  offset: 2, 18
+  index: -1
+m_bforest_groggyarm1
+  rotate: false
+  xy: 1033, 100
+  size: 101, 96
+  orig: 117, 112
+  offset: 8, 0
+  index: -1
+m_bforest_arm2
+  rotate: true
+  xy: 831, 135
+  size: 82, 99
+  orig: 92, 113
+  offset: 4, 2
+  index: -1
+m_bforest_eye
+  rotate: false
+  xy: 896, 74
+  size: 135, 54
+  orig: 151, 82
+  offset: 3, 18
+  index: -1
+m_bforest_ear1
+  rotate: false
+  xy: 1136, 168
+  size: 59, 51
+  orig: 89, 83
+  offset: 14, 13
+  index: -1
+m_bforest_groggyear2
+  rotate: false
+  xy: 1136, 100
+  size: 45, 66
+  orig: 53, 70
+  offset: 0, 2
+  index: -1
+m_bforest_groggyhead
+  rotate: false
+  xy: 264, 2
+  size: 260, 223
+  orig: 292, 245
+  offset: 18, 9
+  index: -1
+m_bforest_ear2
+  rotate: false
+  xy: 1183, 69
+  size: 45, 66
+  orig: 53, 70
+  offset: 0, 2
+  index: -1
+m_bforest_groggyarm2
+  rotate: true
+  xy: 932, 130
+  size: 78, 97
+  orig: 84, 103
+  offset: 0, 0
+  index: -1
+m_bforest_mask
+  rotate: false
+  xy: 526, 2
+  size: 186, 131
+  orig: 200, 143
+  offset: 12, 0
+  index: -1

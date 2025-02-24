@@ -1,0 +1,571 @@
+dragon_17_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_fairy_adult_eye2
+  rotate: false
+  xy: 1413, 493
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_l_leg1b
+  rotate: false
+  xy: 1747, 134
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_tail1
+  rotate: true
+  xy: 1262, 468
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+dragon_fairy_baby_arm2
+  rotate: true
+  xy: 1366, 337
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+dragon_fairy_baby_mouth
+  rotate: true
+  xy: 525, 486
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+dragon_fairy_baby_head
+  rotate: false
+  xy: 532, 454
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_l_wingb
+  rotate: false
+  xy: 1366, 362
+  size: 141, 129
+  orig: 141, 129
+  offset: 0, 0
+  index: -1
+dragon_fairy_baby_body
+  rotate: false
+  xy: 646, 385
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+dragon_fairy_critical8
+  rotate: false
+  xy: 2, 349
+  size: 305, 155
+  orig: 371, 171
+  offset: 45, 16
+  index: -1
+dragon_fairy_adult_l_leg2d
+  rotate: false
+  xy: 1375, 493
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_fairy_child_body
+  rotate: false
+  xy: 965, 448
+  size: 84, 59
+  orig: 84, 59
+  offset: 0, 0
+  index: -1
+dragon_fairy_child_wing2
+  rotate: false
+  xy: 1655, 2
+  size: 104, 130
+  orig: 104, 130
+  offset: 0, 0
+  index: -1
+dragon_fairy_baby_mouth2
+  rotate: false
+  xy: 1751, 238
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_eye
+  rotate: false
+  xy: 1753, 194
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_r_leg1b
+  rotate: true
+  xy: 1344, 493
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+dragon_fairy_critical1
+  rotate: false
+  xy: 965, 337
+  size: 256, 109
+  orig: 350, 353
+  offset: 10, 244
+  index: -1
+dragon_fairy_adult_r_wingb
+  rotate: true
+  xy: 309, 349
+  size: 136, 129
+  orig: 136, 129
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_r_leg2d
+  rotate: true
+  xy: 1735, 343
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_body1
+  rotate: false
+  xy: 1169, 448
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_r_wingb2
+  rotate: false
+  xy: 1509, 362
+  size: 136, 129
+  orig: 136, 129
+  offset: 0, 0
+  index: -1
+dragon_fairy_child_leg1
+  rotate: true
+  xy: 440, 457
+  size: 46, 62
+  orig: 46, 62
+  offset: 0, 0
+  index: -1
+dragon_fairy_critical5
+  rotate: true
+  xy: 698, 2
+  size: 332, 353
+  orig: 350, 353
+  offset: 18, 0
+  index: -1
+dragon_fairy_adult_eye3
+  rotate: false
+  xy: 1431, 493
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_mouth
+  rotate: false
+  xy: 1344, 482
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_horn1
+  rotate: true
+  xy: 1717, 211
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+dragon_fairy_baby_leg1
+  rotate: false
+  xy: 1677, 483
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_r_leg1a
+  rotate: true
+  xy: 1713, 192
+  size: 17, 38
+  orig: 17, 38
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_tail2
+  rotate: false
+  xy: 1684, 211
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_r_winga
+  rotate: false
+  xy: 440, 399
+  size: 90, 56
+  orig: 90, 56
+  offset: 0, 0
+  index: -1
+dragon_fairy_critical9
+  rotate: false
+  xy: 698, 336
+  size: 265, 171
+  orig: 371, 171
+  offset: 15, 0
+  index: -1
+dragon_fairy_child_arm1
+  rotate: true
+  xy: 1655, 192
+  size: 17, 56
+  orig: 17, 56
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_l_leg1a
+  rotate: true
+  xy: 309, 487
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+dragon_fairy_critical2
+  rotate: false
+  xy: 1403, 2
+  size: 250, 219
+  orig: 350, 353
+  offset: 0, 134
+  index: -1
+dragon_fairy_adult_l_winga
+  rotate: false
+  xy: 440, 339
+  size: 116, 58
+  orig: 116, 58
+  offset: 0, 0
+  index: -1
+dragon_fairy_child_note1
+  rotate: true
+  xy: 646, 427
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_fairy_baby_eye
+  rotate: false
+  xy: 599, 477
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_l_leg2c
+  rotate: false
+  xy: 1753, 169
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_body2
+  rotate: false
+  xy: 345, 487
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_l_leg1d
+  rotate: true
+  xy: 1531, 493
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+dragon_fairy_child_horn1
+  rotate: true
+  xy: 1448, 493
+  size: 13, 32
+  orig: 13, 32
+  offset: 0, 0
+  index: -1
+dragon_fairy_critical6
+  rotate: false
+  xy: 1053, 2
+  size: 348, 333
+  orig: 350, 353
+  offset: 2, 20
+  index: -1
+dragon_fairy_adult_eff1
+  rotate: true
+  xy: 504, 457
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_r_leg2c
+  rotate: false
+  xy: 504, 486
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_eye4
+  rotate: false
+  xy: 1394, 493
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_horn2
+  rotate: false
+  xy: 1717, 285
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+dragon_fairy_child_leg2
+  rotate: true
+  xy: 626, 339
+  size: 44, 66
+  orig: 44, 66
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_r_leg1d
+  rotate: false
+  xy: 1668, 211
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_r_winga2
+  rotate: false
+  xy: 1655, 134
+  size: 90, 56
+  orig: 90, 56
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_tail3
+  rotate: false
+  xy: 600, 399
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_l_wingb2
+  rotate: false
+  xy: 1223, 337
+  size: 141, 129
+  orig: 141, 129
+  offset: 0, 0
+  index: -1
+dragon_fairy_child_eye2
+  rotate: false
+  xy: 378, 487
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_neck
+  rotate: false
+  xy: 1684, 259
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_l_leg2b
+  rotate: false
+  xy: 1559, 493
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+dragon_fairy_child_tail
+  rotate: false
+  xy: 558, 339
+  size: 66, 58
+  orig: 66, 58
+  offset: 0, 0
+  index: -1
+dragon_fairy_baby_leg2
+  rotate: false
+  xy: 1751, 211
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+dragon_fairy_baby_arm1
+  rotate: true
+  xy: 405, 487
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+dragon_fairy_critical3
+  rotate: false
+  xy: 346, 2
+  size: 350, 335
+  orig: 350, 353
+  offset: 0, 18
+  index: -1
+dragon_fairy_adult_ear
+  rotate: false
+  xy: 600, 448
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_r_leg2b
+  rotate: false
+  xy: 626, 385
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+dragon_fairy_child_arm2
+  rotate: true
+  xy: 1287, 468
+  size: 30, 55
+  orig: 30, 55
+  offset: 0, 0
+  index: -1
+dragon_fairy_child_horn2
+  rotate: true
+  xy: 1482, 493
+  size: 13, 31
+  orig: 13, 31
+  offset: 0, 0
+  index: -1
+dragon_fairy_baby_tail
+  rotate: true
+  xy: 1705, 483
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+dragon_fairy_baby_horn
+  rotate: false
+  xy: 1515, 493
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_note1
+  rotate: true
+  xy: 646, 427
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_fairy_critical7
+  rotate: false
+  xy: 1403, 223
+  size: 279, 137
+  orig: 371, 171
+  offset: 64, 34
+  index: -1
+dragon_fairy_adult_eff2
+  rotate: true
+  xy: 1733, 483
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_head
+  rotate: false
+  xy: 1717, 248
+  size: 30, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+dragon_fairy_baby_heart
+  rotate: false
+  xy: 1214, 468
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_fairy_child_wing1
+  rotate: true
+  xy: 1647, 362
+  size: 119, 122
+  orig: 119, 122
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_l_leg1c
+  rotate: false
+  xy: 1546, 493
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+dragon_fairy_child_eye
+  rotate: false
+  xy: 1749, 314
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+dragon_fairy_baby_eye2
+  rotate: false
+  xy: 1647, 483
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_l_leg2e
+  rotate: true
+  xy: 1749, 253
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_r_leg2a
+  rotate: true
+  xy: 1709, 314
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_r_leg1c
+  rotate: true
+  xy: 1655, 211
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+dragon_fairy_child_head
+  rotate: false
+  xy: 532, 399
+  size: 66, 53
+  orig: 66, 53
+  offset: 0, 0
+  index: -1
+dragon_fairy_child_mouth
+  rotate: false
+  xy: 1344, 468
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+dragon_fairy_critical4
+  rotate: false
+  xy: 2, 2
+  size: 342, 345
+  orig: 350, 353
+  offset: 7, 8
+  index: -1
+dragon_fairy_adult_l_winga2
+  rotate: false
+  xy: 1051, 448
+  size: 116, 58
+  orig: 116, 58
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_l_leg2a
+  rotate: false
+  xy: 1684, 305
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+dragon_fairy_adult_r_leg2e
+  rotate: false
+  xy: 1709, 343
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1

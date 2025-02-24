@@ -1,0 +1,18 @@
+stage_earth_buff_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+earth_buff2
+  rotate: false
+  xy: 2, 106
+  size: 105, 94
+  orig: 137, 128
+  offset: 13, 15
+  index: -1
+earth_buff1
+  rotate: false
+  xy: 2, 2
+  size: 113, 102
+  orig: 137, 128
+  offset: 9, 11
+  index: -1

@@ -1,0 +1,956 @@
+dragon_4102_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_khan_adult_eff_d5
+  rotate: false
+  xy: 1916, 146
+  size: 76, 78
+  orig: 76, 78
+  offset: 0, 0
+  index: -1
+dragon_khan_adult_tail2
+  rotate: true
+  xy: 1577, 340
+  size: 61, 50
+  orig: 61, 50
+  offset: 0, 0
+  index: -1
+dragon_khan_adult_tail3
+  rotate: true
+  xy: 1840, 151
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1
+dragon_khan_adult_eye2
+  rotate: false
+  xy: 1780, 99
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+dragon_khan_baby_eye
+  rotate: false
+  xy: 1167, 196
+  size: 65, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1
+dragon_khan_adult_eye3
+  rotate: false
+  xy: 1750, 222
+  size: 10, 11
+  orig: 20, 17
+  offset: 2, 2
+  index: -1
+dragon_khan_adult_tail1
+  rotate: false
+  xy: 1972, 2
+  size: 29, 78
+  orig: 29, 78
+  offset: 0, 0
+  index: -1
+dragon_khan_adult_eye4
+  rotate: true
+  xy: 1706, 222
+  size: 12, 11
+  orig: 20, 17
+  offset: 2, 2
+  index: -1
+dragon_khan_adult_eye5
+  rotate: true
+  xy: 1691, 222
+  size: 12, 13
+  orig: 20, 17
+  offset: 3, 2
+  index: -1
+dragon_khan_adult_arm3
+  rotate: true
+  xy: 1795, 389
+  size: 86, 94
+  orig: 86, 94
+  offset: 0, 0
+  index: -1
+dragon_khan_adult_arm4
+  rotate: true
+  xy: 1556, 104
+  size: 64, 84
+  orig: 68, 84
+  offset: 0, 0
+  index: -1
+dragon_khan_adult_eff_c2
+  rotate: false
+  xy: 769, 246
+  size: 238, 204
+  orig: 252, 236
+  offset: 0, 22
+  index: -1
+dragon_khan_adult_eff_c3
+  rotate: true
+  xy: 690, 2
+  size: 242, 208
+  orig: 252, 236
+  offset: 0, 19
+  index: -1
+dragon_khan_adult_eff_c4
+  rotate: true
+  xy: 474, 2
+  size: 244, 214
+  orig: 252, 236
+  offset: 0, 13
+  index: -1
+dragon_khan_adult_eff_c5
+  rotate: true
+  xy: 1533, 2
+  size: 100, 96
+  orig: 252, 236
+  offset: 152, 0
+  index: -1
+dragon_khan_adult_arm1
+  rotate: true
+  xy: 1387, 170
+  size: 67, 121
+  orig: 67, 121
+  offset: 0, 0
+  index: -1
+dragon_khan_adult_eye6
+  rotate: false
+  xy: 1398, 404
+  size: 14, 15
+  orig: 20, 17
+  offset: 2, 2
+  index: -1
+dragon_khan_adult_eye7
+  rotate: true
+  xy: 537, 347
+  size: 14, 15
+  orig: 20, 17
+  offset: 3, 2
+  index: -1
+dragon_khan_adult_eff_c1
+  rotate: true
+  xy: 900, 2
+  size: 238, 204
+  orig: 252, 236
+  offset: 0, 22
+  index: -1
+dragon_khan_child_arm3
+  rotate: false
+  xy: 1280, 421
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+dragon_khan_child_arm1
+  rotate: false
+  xy: 1669, 164
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+dragon_khan_critical_eff_d4
+  rotate: true
+  xy: 2003, 44
+  size: 40, 38
+  orig: 42, 44
+  offset: 0, 2
+  index: -1
+dragon_khan_critical_eff_d2
+  rotate: false
+  xy: 1139, 438
+  size: 36, 36
+  orig: 42, 44
+  offset: 2, 3
+  index: -1
+dragon_khan_critical_eff_d5
+  rotate: false
+  xy: 1994, 186
+  size: 42, 42
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+dragon_khan_critical_eff_d3
+  rotate: false
+  xy: 1894, 329
+  size: 38, 38
+  orig: 42, 44
+  offset: 1, 3
+  index: -1
+dragon_khan_critical_eff_d1
+  rotate: false
+  xy: 1972, 449
+  size: 26, 26
+  orig: 42, 44
+  offset: 7, 9
+  index: -1
+dragon_khan_baby_ear2
+  rotate: true
+  xy: 2017, 230
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Layer 570
+  rotate: false
+  xy: 360, 366
+  size: 81, 108
+  orig: 81, 110
+  offset: 0, 1
+  index: -1
+dragon_khan_child_amr4
+  rotate: true
+  xy: 1081, 438
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+dragon_khan_child_amr2
+  rotate: false
+  xy: 1577, 170
+  size: 50, 67
+  orig: 50, 67
+  offset: 0, 0
+  index: -1
+dragon_khan_baby_ear1
+  rotate: true
+  xy: 1934, 259
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+dragon_khan_critical_eff_e4
+  rotate: false
+  xy: 1731, 99
+  size: 47, 53
+  orig: 71, 69
+  offset: 8, 5
+  index: -1
+dragon_khan_adult_amr2
+  rotate: true
+  xy: 65, 404
+  size: 71, 86
+  orig: 71, 86
+  offset: 0, 0
+  index: -1
+dragon_khan_child_body2
+  rotate: true
+  xy: 1745, 235
+  size: 95, 91
+  orig: 95, 91
+  offset: 0, 0
+  index: -1
+dragon_khan_critical_eff_e2
+  rotate: true
+  xy: 2, 412
+  size: 63, 61
+  orig: 71, 69
+  offset: 2, 4
+  index: -1
+dragon_khan_critical_eff_e5
+  rotate: true
+  xy: 1882, 97
+  size: 47, 41
+  orig: 71, 69
+  offset: 8, 17
+  index: -1
+dragon_khan_critical_eff_e3
+  rotate: false
+  xy: 1670, 335
+  size: 59, 59
+  orig: 71, 69
+  offset: 3, 3
+  index: -1
+dragon_khan_critical_eff_e1
+  rotate: true
+  xy: 1510, 170
+  size: 67, 65
+  orig: 71, 69
+  offset: 0, 2
+  index: -1
+dragon_khan_baby_leg2
+  rotate: false
+  xy: 2000, 449
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+dragon_khan_baby_leg3
+  rotate: false
+  xy: 1934, 304
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+dragon_khan_child_body1
+  rotate: false
+  xy: 1339, 421
+  size: 74, 53
+  orig: 74, 53
+  offset: 0, 0
+  index: -1
+dragon_khan_adult_mouth2
+  rotate: false
+  xy: 1738, 222
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+dragon_khan_critical_eff_e6
+  rotate: false
+  xy: 1994, 145
+  size: 45, 39
+  orig: 71, 69
+  offset: 10, 20
+  index: -1
+dragon_khan_child_eye
+  rotate: true
+  xy: 1234, 196
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+dragon_khan_baby_leg1
+  rotate: false
+  xy: 1669, 222
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+dragon_khan_critical_eff_f4
+  rotate: false
+  xy: 1934, 226
+  size: 35, 31
+  orig: 83, 115
+  offset: 46, 80
+  index: -1
+dragon_khan_critical_eff_f2
+  rotate: false
+  xy: 1537, 239
+  size: 57, 99
+  orig: 83, 115
+  offset: 3, 4
+  index: -1
+dragon_khan_child_hand2
+  rotate: true
+  xy: 1723, 164
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+dragon_khan_critical_eff_f3
+  rotate: false
+  xy: 1631, 2
+  size: 57, 99
+  orig: 83, 115
+  offset: 3, 6
+  index: -1
+dragon_khan_critical_eff_f1
+  rotate: false
+  xy: 1596, 239
+  size: 55, 99
+  orig: 83, 115
+  offset: 3, 0
+  index: -1
+dragon_khan_child_hand1
+  rotate: false
+  xy: 891, 452
+  size: 49, 23
+  orig: 49, 23
+  offset: 0, 0
+  index: -1
+dragon_khan_baby_hair2
+  rotate: false
+  xy: 537, 331
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+dragon_khan_adult_head
+  rotate: false
+  xy: 1967, 259
+  size: 73, 77
+  orig: 73, 77
+  offset: 0, 0
+  index: -1
+dragon_khan_critical_eff_g2
+  rotate: false
+  xy: 1891, 370
+  size: 74, 78
+  orig: 74, 78
+  offset: 0, 0
+  index: -1
+dragon_khan_critical_eff_g3
+  rotate: false
+  xy: 2011, 338
+  size: 28, 32
+  orig: 74, 78
+  offset: 46, 46
+  index: -1
+dragon_khan_critical_eff_g1
+  rotate: true
+  xy: 2003, 2
+  size: 40, 38
+  orig: 74, 78
+  offset: 0, 0
+  index: -1
+dragon_khan_baby_hair1
+  rotate: false
+  xy: 1379, 404
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+dragon_khan_child_head
+  rotate: false
+  xy: 153, 404
+  size: 67, 71
+  orig: 67, 71
+  offset: 0, 0
+  index: -1
+dragon_khan_critical_eff_h4
+  rotate: true
+  xy: 402, 248
+  size: 113, 83
+  orig: 131, 97
+  offset: 3, 2
+  index: -1
+dragon_khan_critical_eff_h2
+  rotate: true
+  xy: 1629, 340
+  size: 61, 39
+  orig: 131, 97
+  offset: 70, 58
+  index: -1
+dragon_khan_critical_eff_h5
+  rotate: false
+  xy: 942, 452
+  size: 43, 23
+  orig: 131, 97
+  offset: 0, 0
+  index: -1
+dragon_khan_critical_eff_h3
+  rotate: true
+  xy: 1440, 2
+  size: 123, 91
+  orig: 131, 97
+  offset: 8, 4
+  index: -1
+dragon_khan_critical_eff_h1
+  rotate: false
+  xy: 2007, 372
+  size: 33, 23
+  orig: 131, 97
+  offset: 71, 68
+  index: -1
+dragon_khan_baby_head
+  rotate: true
+  xy: 487, 248
+  size: 81, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1
+dragon_khan_child_hair1
+  rotate: true
+  xy: 555, 466
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+dragon_khan_baby_body2
+  rotate: false
+  xy: 1504, 127
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+dragon_khan_baby_hand2
+  rotate: false
+  xy: 1533, 104
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+dragon_khan_child_taill
+  rotate: true
+  xy: 1468, 404
+  size: 67, 77
+  orig: 67, 77
+  offset: 0, 0
+  index: -1
+dragon_khan_critical_eff_i4
+  rotate: false
+  xy: 487, 331
+  size: 27, 30
+  orig: 97, 96
+  offset: 15, 2
+  index: -1
+dragon_khan_baby_body1
+  rotate: true
+  xy: 1106, 196
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+dragon_khan_critical_eff_i2
+  rotate: true
+  xy: 1653, 236
+  size: 97, 90
+  orig: 97, 96
+  offset: 0, 6
+  index: -1
+dragon_khan_baby_hand1
+  rotate: false
+  xy: 1719, 222
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+dragon_khan_critical_eff_i3
+  rotate: false
+  xy: 1731, 335
+  size: 35, 58
+  orig: 97, 96
+  offset: 4, 4
+  index: -1
+dragon_khan_critical_eff_i1
+  rotate: true
+  xy: 1925, 97
+  size: 47, 26
+  orig: 97, 96
+  offset: 50, 70
+  index: -1
+dragon_khan_baby_tail
+  rotate: true
+  xy: 1994, 230
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+dragon_khan_critical_eff_j4
+  rotate: false
+  xy: 769, 452
+  size: 63, 23
+  orig: 91, 77
+  offset: 0, 3
+  index: -1
+dragon_khan_critical_eff_z4
+  rotate: true
+  xy: 1628, 403
+  size: 72, 91
+  orig: 152, 129
+  offset: 28, 17
+  index: -1
+dragon_khan_critical_eff_j2
+  rotate: false
+  xy: 1642, 103
+  size: 87, 59
+  orig: 91, 77
+  offset: 1, 3
+  index: -1
+dragon_khan_critical_eff_z2
+  rotate: false
+  xy: 1787, 2
+  size: 92, 93
+  orig: 152, 129
+  offset: 29, 17
+  index: -1
+dragon_khan_child_mouth
+  rotate: false
+  xy: 188, 368
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+dragon_khan_critical_eff_z5
+  rotate: false
+  xy: 230, 248
+  size: 170, 116
+  orig: 170, 116
+  offset: 0, 0
+  index: -1
+dragon_khan_critical_eff_j3
+  rotate: false
+  xy: 1934, 338
+  size: 75, 29
+  orig: 91, 77
+  offset: 1, 3
+  index: -1
+dragon_khan_critical_eff_z3
+  rotate: false
+  xy: 1838, 234
+  size: 80, 93
+  orig: 152, 129
+  offset: 29, 17
+  index: -1
+dragon_khan_critical_eff_j1
+  rotate: true
+  xy: 1925, 450
+  size: 25, 23
+  orig: 91, 77
+  offset: 55, 54
+  index: -1
+dragon_khan_critical_eff_z1
+  rotate: false
+  xy: 222, 368
+  size: 136, 107
+  orig: 152, 129
+  offset: 4, 7
+  index: -1
+dragon_khan_adult_hair2
+  rotate: true
+  xy: 1972, 226
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+dragon_khan_adult_eff1
+  rotate: true
+  xy: 1106, 2
+  size: 192, 135
+  orig: 200, 139
+  offset: 8, 4
+  index: -1
+dragon_khan_critical_eff_k4
+  rotate: true
+  xy: 1547, 404
+  size: 66, 79
+  orig: 76, 81
+  offset: 7, 0
+  index: -1
+dragon_khan_adult_hair3
+  rotate: false
+  xy: 1934, 283
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+dragon_khan_adult_ear
+  rotate: true
+  xy: 1992, 424
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+dragon_khan_critical_eff_k2
+  rotate: false
+  xy: 1846, 370
+  size: 30, 17
+  orig: 76, 81
+  offset: 46, 63
+  index: -1
+dragon_khan_critical_eff_k5
+  rotate: false
+  xy: 1872, 329
+  size: 20, 39
+  orig: 76, 81
+  offset: 7, 0
+  index: -1
+dragon_khan_critical_eff_k3
+  rotate: false
+  xy: 1721, 396
+  size: 72, 79
+  orig: 76, 81
+  offset: 0, 1
+  index: -1
+dragon_khan_adult_hair1
+  rotate: false
+  xy: 2007, 397
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+dragon_khan_adult_leg2
+  rotate: true
+  xy: 1967, 369
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+dragon_khan_critical_eff_k1
+  rotate: true
+  xy: 516, 331
+  size: 30, 19
+  orig: 76, 81
+  offset: 46, 62
+  index: -1
+dragon_khan_adult_leg3
+  rotate: true
+  xy: 1953, 97
+  size: 46, 77
+  orig: 46, 77
+  offset: 0, 0
+  index: -1
+dragon_khan_baby_arm2
+  rotate: false
+  xy: 1177, 438
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+dragon_khan_adult_leg4
+  rotate: false
+  xy: 987, 452
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+dragon_khan_child_leg4
+  rotate: false
+  xy: 1537, 340
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+dragon_khan_child_eff1
+  rotate: false
+  xy: 443, 363
+  size: 110, 111
+  orig: 110, 113
+  offset: 0, 1
+  index: -1
+dragon_khan_child_leg2
+  rotate: false
+  xy: 1854, 97
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+dragon_khan_adult_eye
+  rotate: false
+  xy: 1817, 97
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+dragon_khan_child_leg3
+  rotate: true
+  xy: 1891, 450
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+dragon_khan_adult_leg1
+  rotate: true
+  xy: 1881, 2
+  size: 93, 47
+  orig: 93, 47
+  offset: 0, 0
+  index: -1
+dragon_khan_child_leg1
+  rotate: true
+  xy: 1846, 329
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+dragon_khan_baby_arm1
+  rotate: true
+  xy: 1243, 171
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+dragon_khan_critical_eff_m4
+  rotate: true
+  xy: 2020, 422
+  size: 32, 21
+  orig: 80, 59
+  offset: 20, 14
+  index: -1
+dragon_khan_critical_eff_m2
+  rotate: true
+  xy: 1415, 404
+  size: 70, 51
+  orig: 80, 59
+  offset: 5, 5
+  index: -1
+dragon_khan_adult_hand2
+  rotate: true
+  xy: 1629, 170
+  size: 64, 38
+  orig: 64, 38
+  offset: 0, 0
+  index: -1
+dragon_khan_critical_eff_m3
+  rotate: false
+  xy: 1440, 127
+  size: 62, 41
+  orig: 80, 59
+  offset: 11, 3
+  index: -1
+dragon_khan_critical_eff_m1
+  rotate: false
+  xy: 1768, 332
+  size: 76, 55
+  orig: 80, 59
+  offset: 2, 4
+  index: -1
+dragon_khan_adult_hand1
+  rotate: true
+  xy: 1930, 2
+  size: 93, 40
+  orig: 93, 40
+  offset: 0, 0
+  index: -1
+dragon_khan_adult_p1
+  rotate: true
+  xy: 834, 452
+  size: 23, 55
+  orig: 23, 55
+  offset: 0, 0
+  index: -1
+dragon_khan_adult_eff_b2
+  rotate: false
+  xy: 2, 2
+  size: 32, 408
+  orig: 246, 422
+  offset: 106, 14
+  index: -1
+dragon_khan_adult_p4
+  rotate: true
+  xy: 1027, 438
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+dragon_khan_adult_eff_b3
+  rotate: false
+  xy: 188, 2
+  size: 40, 364
+  orig: 246, 422
+  offset: 103, 58
+  index: -1
+dragon_khan_child_mouth2
+  rotate: true
+  xy: 1009, 438
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+dragon_khan_adult_eff_b4
+  rotate: false
+  xy: 64, 2
+  size: 46, 400
+  orig: 246, 422
+  offset: 99, 22
+  index: -1
+dragon_khan_adult_p2
+  rotate: true
+  xy: 1967, 404
+  size: 18, 38
+  orig: 18, 38
+  offset: 0, 0
+  index: -1
+dragon_khan_adult_mouth
+  rotate: false
+  xy: 1967, 424
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_khan_adult_eff_b5
+  rotate: false
+  xy: 112, 2
+  size: 38, 400
+  orig: 246, 422
+  offset: 103, 22
+  index: -1
+dragon_khan_adult_p3
+  rotate: true
+  xy: 1205, 421
+  size: 54, 73
+  orig: 54, 73
+  offset: 0, 0
+  index: -1
+dragon_khan_adult_eff_b1
+  rotate: false
+  xy: 36, 2
+  size: 26, 408
+  orig: 246, 422
+  offset: 109, 14
+  index: -1
+dragon_khan_adult_eff_b6
+  rotate: false
+  xy: 152, 2
+  size: 34, 400
+  orig: 246, 422
+  offset: 105, 22
+  index: -1
+dragon_khan_adult_eff
+  rotate: true
+  xy: 1243, 2
+  size: 167, 29
+  orig: 179, 49
+  offset: 3, 6
+  index: -1
+dragon_khan_adult_eff_a2
+  rotate: false
+  xy: 1203, 241
+  size: 174, 178
+  orig: 244, 242
+  offset: 35, 30
+  index: -1
+dragon_khan_adult_eff_a3
+  rotate: false
+  xy: 1009, 242
+  size: 192, 194
+  orig: 244, 242
+  offset: 27, 21
+  index: -1
+dragon_khan_adult_body2
+  rotate: false
+  xy: 1283, 170
+  size: 102, 69
+  orig: 102, 69
+  offset: 0, 0
+  index: -1
+Layer 444
+  rotate: false
+  xy: 1379, 241
+  size: 156, 161
+  orig: 176, 171
+  offset: 19, 10
+  index: -1
+dragon_khan_adult_eff_a4
+  rotate: false
+  xy: 555, 248
+  size: 212, 216
+  orig: 244, 242
+  offset: 15, 11
+  index: -1
+dragon_khan_adult_eff_a5
+  rotate: true
+  xy: 230, 2
+  size: 244, 242
+  orig: 244, 242
+  offset: 0, 0
+  index: -1
+dragon_khan_adult_eff_a1
+  rotate: false
+  xy: 1274, 2
+  size: 164, 166
+  orig: 244, 242
+  offset: 40, 36
+  index: -1
+dragon_khan_adult_body1
+  rotate: false
+  xy: 1690, 2
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+dragon_khan_child_ear
+  rotate: true
+  xy: 1950, 450
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+dragon_khan_adult_neck
+  rotate: false
+  xy: 1762, 154
+  size: 76, 78
+  orig: 76, 78
+  offset: 0, 0
+  index: -1

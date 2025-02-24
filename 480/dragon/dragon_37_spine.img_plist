@@ -1,0 +1,291 @@
+dragon_37_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_cameleon_baby_eye
+  rotate: false
+  xy: 105, 201
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+dragon_cameleon_child_head
+  rotate: true
+  xy: 126, 331
+  size: 57, 70
+  orig: 57, 70
+  offset: 0, 0
+  index: -1
+dragon_cameleon_child_tongue
+  rotate: false
+  xy: 105, 181
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+dragon_cameleon_child_wing1
+  rotate: true
+  xy: 127, 265
+  size: 64, 72
+  orig: 64, 72
+  offset: 0, 0
+  index: -1
+dragon_cameleon_adult_tongue1
+  rotate: false
+  xy: 2, 319
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+dragon_cameleon_adult_wing1
+  rotate: true
+  xy: 138, 2
+  size: 105, 106
+  orig: 105, 106
+  offset: 0, 0
+  index: -1
+dragon_cameleon_baby_head
+  rotate: false
+  xy: 64, 449
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+dragon_cameleon_adult_neck
+  rotate: true
+  xy: 126, 449
+  size: 53, 59
+  orig: 53, 59
+  offset: 0, 0
+  index: -1
+dragon_cameleon_child_body
+  rotate: false
+  xy: 2, 140
+  size: 101, 68
+  orig: 101, 68
+  offset: 0, 0
+  index: -1
+dragon_cameleon_adult_eye
+  rotate: false
+  xy: 61, 412
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_cameleon_baby_body
+  rotate: true
+  xy: 207, 215
+  size: 59, 38
+  orig: 59, 38
+  offset: 0, 0
+  index: -1
+dragon_cameleon_adult_leg2
+  rotate: false
+  xy: 105, 142
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+dragon_cameleon_child_neck
+  rotate: false
+  xy: 201, 276
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+dragon_cameleon_baby_tail
+  rotate: false
+  xy: 201, 319
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+dragon_cameleon_adult_leg7
+  rotate: false
+  xy: 76, 294
+  size: 49, 18
+  orig: 49, 18
+  offset: 0, 0
+  index: -1
+dragon_cameleon_adult_effect
+  rotate: true
+  xy: 2, 412
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_cameleon_baby_love
+  rotate: false
+  xy: 2, 449
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+dragon_cameleon_baby_effect
+  rotate: false
+  xy: 198, 371
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_cameleon_adult_leg5
+  rotate: true
+  xy: 120, 110
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+dragon_cameleon_child_eye
+  rotate: true
+  xy: 160, 426
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+dragon_cameleon_baby_mouth
+  rotate: false
+  xy: 198, 352
+  size: 47, 17
+  orig: 47, 17
+  offset: 0, 0
+  index: -1
+dragon_cameleon_adult_body
+  rotate: false
+  xy: 2, 210
+  size: 99, 52
+  orig: 99, 52
+  offset: 0, 0
+  index: -1
+dragon_cameleon_baby_leg2
+  rotate: false
+  xy: 103, 259
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+dragon_cameleon_adult_love
+  rotate: false
+  xy: 76, 314
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+dragon_cameleon_adult_damaged
+  rotate: false
+  xy: 74, 396
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+dragon_cameleon_child_tail
+  rotate: false
+  xy: 2, 264
+  size: 72, 53
+  orig: 72, 53
+  offset: 0, 0
+  index: -1
+dragon_cameleon_adult_leg3
+  rotate: true
+  xy: 120, 64
+  size: 44, 15
+  orig: 44, 15
+  offset: 0, 0
+  index: -1
+dragon_cameleon_child_love
+  rotate: true
+  xy: 2, 353
+  size: 57, 70
+  orig: 57, 70
+  offset: 0, 0
+  index: -1
+dragon_cameleon_adult_head
+  rotate: false
+  xy: 74, 355
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+dragon_cameleon_adult_mouth
+  rotate: true
+  xy: 228, 449
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+dragon_cameleon_child_effect
+  rotate: false
+  xy: 120, 44
+  size: 16, 18
+  orig: 16, 20
+  offset: 0, 1
+  index: -1
+dragon_cameleon_adult_tail
+  rotate: true
+  xy: 137, 109
+  size: 104, 108
+  orig: 104, 108
+  offset: 0, 0
+  index: -1
+dragon_cameleon_child_wing2
+  rotate: true
+  xy: 131, 215
+  size: 48, 74
+  orig: 48, 74
+  offset: 0, 0
+  index: -1
+dragon_cameleon_adult_leg1
+  rotate: true
+  xy: 124, 390
+  size: 34, 68
+  orig: 34, 68
+  offset: 0, 0
+  index: -1
+dragon_cameleon_baby_leg1
+  rotate: true
+  xy: 124, 426
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+dragon_cameleon_adult_leg6
+  rotate: false
+  xy: 45, 412
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1
+dragon_cameleon_adult_wing2
+  rotate: true
+  xy: 2, 44
+  size: 94, 116
+  orig: 94, 116
+  offset: 0, 0
+  index: -1
+dragon_cameleon_adult_tongue2
+  rotate: false
+  xy: 2, 2
+  size: 134, 40
+  orig: 134, 40
+  offset: 0, 0
+  index: -1
+dragon_cameleon_adult_attack
+  rotate: true
+  xy: 187, 449
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+dragon_cameleon_baby_leg3
+  rotate: false
+  xy: 103, 226
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+dragon_cameleon_adult_leg4
+  rotate: true
+  xy: 194, 412
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1

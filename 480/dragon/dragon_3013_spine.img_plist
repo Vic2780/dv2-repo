@@ -1,0 +1,557 @@
+dragon_3013_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_undine_adult_chin
+  rotate: false
+  xy: 1751, 63
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_r_leg2d
+  rotate: false
+  xy: 1756, 143
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_chest
+  rotate: true
+  xy: 1567, 213
+  size: 10, 38
+  orig: 10, 38
+  offset: 0, 0
+  index: -1
+dragon_undine_baby_leg4
+  rotate: true
+  xy: 1842, 184
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+dragon_undine_criticala2
+  rotate: false
+  xy: 634, 2
+  size: 164, 194
+  orig: 164, 194
+  offset: 0, 0
+  index: -1
+dragon_undine_child_head
+  rotate: true
+  xy: 1662, 87
+  size: 76, 64
+  orig: 76, 64
+  offset: 0, 0
+  index: -1
+dragon_undine_baby_tail2
+  rotate: false
+  xy: 1851, 110
+  size: 39, 14
+  orig: 39, 14
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_l_leg1a
+  rotate: true
+  xy: 1842, 157
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_l_leg2d
+  rotate: false
+  xy: 1662, 165
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+dragon_undine_baby_eye2
+  rotate: false
+  xy: 349, 208
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_ear2
+  rotate: true
+  xy: 517, 204
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_eye3
+  rotate: false
+  xy: 1607, 213
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_hair
+  rotate: false
+  xy: 967, 177
+  size: 105, 48
+  orig: 105, 48
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_fin
+  rotate: true
+  xy: 1114, 177
+  size: 47, 74
+  orig: 47, 74
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_r_leg1a
+  rotate: true
+  xy: 1851, 82
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_neck
+  rotate: false
+  xy: 1522, 121
+  size: 43, 96
+  orig: 43, 96
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_tailc
+  rotate: true
+  xy: 1767, 78
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+dragon_undine_baby_tail
+  rotate: true
+  xy: 1779, 41
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+dragon_undine_baby_leg1
+  rotate: false
+  xy: 1804, 2
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_twinkling2
+  rotate: true
+  xy: 1368, 126
+  size: 99, 100
+  orig: 225, 224
+  offset: 63, 64
+  index: -1
+dragon_undine_adult_body
+  rotate: true
+  xy: 1470, 121
+  size: 98, 50
+  orig: 98, 50
+  offset: 0, 0
+  index: -1
+dragon_undine_baby_body
+  rotate: false
+  xy: 1182, 134
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+dragon_undine_criticalb3
+  rotate: false
+  xy: 800, 2
+  size: 75, 188
+  orig: 75, 188
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_l_leg2a
+  rotate: false
+  xy: 1751, 2
+  size: 26, 59
+  orig: 26, 59
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_eye2
+  rotate: false
+  xy: 1144, 170
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+dragon_undine_criticala5
+  rotate: true
+  xy: 1597, 2
+  size: 89, 58
+  orig: 89, 58
+  offset: 0, 0
+  index: -1
+dragon_undine_baby_hair
+  rotate: true
+  xy: 1728, 78
+  size: 63, 37
+  orig: 63, 39
+  offset: 0, 2
+  index: -1
+dragon_undine_adult_r_leg1b
+  rotate: false
+  xy: 1814, 162
+  size: 26, 57
+  orig: 26, 57
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_tailb
+  rotate: false
+  xy: 803, 192
+  size: 29, 30
+  orig: 29, 36
+  offset: 0, 6
+  index: -1
+dragon_undine_child_leg3
+  rotate: true
+  xy: 1762, 163
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+dragon_undine_baby_heart
+  rotate: false
+  xy: 1842, 41
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_undine_child_eye3
+  rotate: false
+  xy: 555, 204
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_r_leg2a
+  rotate: false
+  xy: 1823, 101
+  size: 26, 54
+  orig: 26, 54
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_tail2b
+  rotate: true
+  xy: 1293, 2
+  size: 122, 79
+  orig: 122, 79
+  offset: 0, 0
+  index: -1
+dragon_undine_baby_eye3
+  rotate: true
+  xy: 834, 192
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+dragon_undine_child_chin
+  rotate: false
+  xy: 1728, 143
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+dragon_undine_criticala1
+  rotate: false
+  xy: 954, 2
+  size: 154, 173
+  orig: 154, 173
+  offset: 0, 0
+  index: -1
+dragon_undine_baby_wing
+  rotate: true
+  xy: 1227, 177
+  size: 47, 18
+  orig: 47, 18
+  offset: 0, 0
+  index: -1
+dragon_undine_criticalb2
+  rotate: false
+  xy: 610, 204
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_l_leg1b
+  rotate: false
+  xy: 1735, 163
+  size: 25, 62
+  orig: 25, 62
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_tail2
+  rotate: false
+  xy: 882, 189
+  size: 83, 35
+  orig: 83, 35
+  offset: 0, 0
+  index: -1
+dragon_undine_child_hair
+  rotate: true
+  xy: 1374, 2
+  size: 118, 65
+  orig: 118, 65
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_twinkling1
+  rotate: true
+  xy: 2, 2
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+dragon_undine_criticala4
+  rotate: true
+  xy: 1441, 2
+  size: 117, 93
+  orig: 117, 93
+  offset: 0, 0
+  index: -1
+dragon_undine_baby_head
+  rotate: true
+  xy: 1697, 2
+  size: 74, 52
+  orig: 74, 60
+  offset: 0, 0
+  index: -1
+dragon_undine_child_eye
+  rotate: true
+  xy: 1823, 71
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+dragon_undine_child_leg2
+  rotate: true
+  xy: 1842, 2
+  size: 37, 50
+  orig: 37, 50
+  offset: 0, 0
+  index: -1
+dragon_undine_child_eye2
+  rotate: true
+  xy: 1823, 41
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+dragon_undine_baby_chin
+  rotate: false
+  xy: 413, 208
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_r_leg2b
+  rotate: false
+  xy: 444, 208
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+dragon_undine_baby_leg2
+  rotate: false
+  xy: 1779, 2
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_r_wing
+  rotate: true
+  xy: 1110, 2
+  size: 166, 70
+  orig: 166, 70
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_eye
+  rotate: false
+  xy: 1161, 170
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_ear1
+  rotate: false
+  xy: 477, 204
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_hairb
+  rotate: true
+  xy: 1536, 2
+  size: 115, 59
+  orig: 115, 59
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_r_leg1c
+  rotate: false
+  xy: 585, 204
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+dragon_undine_child_wing
+  rotate: true
+  xy: 639, 198
+  size: 27, 88
+  orig: 27, 88
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_l_wing
+  rotate: true
+  xy: 877, 2
+  size: 185, 75
+  orig: 185, 75
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_l_leg2b
+  rotate: true
+  xy: 862, 192
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_eye5
+  rotate: false
+  xy: 1110, 170
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_r_wingb
+  rotate: true
+  xy: 349, 2
+  size: 204, 113
+  orig: 204, 113
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_l_leg1c
+  rotate: false
+  xy: 1851, 126
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_taila
+  rotate: false
+  xy: 1638, 201
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+dragon_undine_child_tail
+  rotate: true
+  xy: 1657, 2
+  size: 83, 38
+  orig: 83, 38
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_head
+  rotate: true
+  xy: 1190, 177
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+dragon_undine_baby_eye
+  rotate: false
+  xy: 381, 208
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_l_wingb
+  rotate: true
+  xy: 228, 2
+  size: 223, 119
+  orig: 223, 119
+  offset: 0, 0
+  index: -1
+dragon_undine_criticalb1
+  rotate: false
+  xy: 1247, 134
+  size: 119, 89
+  orig: 119, 89
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_r_leg2c
+  rotate: true
+  xy: 1597, 93
+  size: 24, 63
+  orig: 24, 63
+  offset: 0, 0
+  index: -1
+dragon_undine_child_body
+  rotate: false
+  xy: 1567, 119
+  size: 69, 92
+  orig: 69, 92
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_eye4
+  rotate: false
+  xy: 1127, 170
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+dragon_undine_baby_leg3
+  rotate: true
+  xy: 1776, 137
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+dragon_undine_criticala3
+  rotate: true
+  xy: 464, 2
+  size: 200, 168
+  orig: 200, 168
+  offset: 0, 0
+  index: -1
+dragon_undine_criticalb4
+  rotate: false
+  xy: 1182, 2
+  size: 109, 130
+  orig: 109, 130
+  offset: 0, 0
+  index: -1
+dragon_undine_child_leg1
+  rotate: false
+  xy: 1074, 177
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+dragon_undine_adult_l_leg2c
+  rotate: true
+  xy: 729, 198
+  size: 26, 72
+  orig: 26, 72
+  offset: 0, 0
+  index: -1
+dragon_undine_child_heart
+  rotate: false
+  xy: 1842, 41
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_undine_child_tail2
+  rotate: true
+  xy: 1638, 119
+  size: 80, 22
+  orig: 80, 22
+  offset: 0, 0
+  index: -1
+dragon_undine_child_leg4
+  rotate: true
+  xy: 1683, 165
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1

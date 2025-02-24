@@ -1,0 +1,18 @@
+stage_wind_buff_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+wind_buff2
+  rotate: false
+  xy: 2, 115
+  size: 105, 100
+  orig: 137, 128
+  offset: 16, 15
+  index: -1
+wind_buff1
+  rotate: true
+  xy: 2, 2
+  size: 111, 108
+  orig: 137, 128
+  offset: 13, 10
+  index: -1

@@ -1,0 +1,18 @@
+skill_160_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skill_senseless1
+  rotate: false
+  xy: 208, 2
+  size: 186, 92
+  orig: 210, 104
+  offset: 6, 6
+  index: -1
+skill_senseless2
+  rotate: false
+  xy: 2, 2
+  size: 204, 92
+  orig: 210, 104
+  offset: 0, 6
+  index: -1

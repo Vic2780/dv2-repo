@@ -1,0 +1,431 @@
+dragon_3012_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_thunderbolt_baby_head4
+  rotate: false
+  xy: 1258, 453
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_adult_head1
+  rotate: true
+  xy: 1991, 112
+  size: 53, 39
+  orig: 53, 41
+  offset: 0, 2
+  index: -1
+dragon_thunderbolt_child_body
+  rotate: false
+  xy: 708, 550
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_critical_c5
+  rotate: false
+  xy: 1653, 2
+  size: 336, 256
+  orig: 344, 278
+  offset: 0, 10
+  index: -1
+dragon_thunderbolt_baby_tail
+  rotate: true
+  xy: 1960, 267
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_adult_mouth
+  rotate: false
+  xy: 1304, 665
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_adult_headattack
+  rotate: true
+  xy: 1991, 2
+  size: 53, 39
+  orig: 53, 41
+  offset: 0, 2
+  index: -1
+dragon_thunderbolt_critical_t2
+  rotate: false
+  xy: 2, 2
+  size: 260, 451
+  orig: 264, 451
+  offset: 4, 0
+  index: -1
+dragon_thunderbolt_adult_arm3
+  rotate: true
+  xy: 1391, 537
+  size: 86, 131
+  orig: 92, 131
+  offset: 2, 0
+  index: -1
+dragon_thunderbolt_adult_down
+  rotate: false
+  xy: 2, 455
+  size: 299, 166
+  orig: 299, 174
+  offset: 0, 3
+  index: -1
+dragon_thunderbolt_critical_u3
+  rotate: false
+  xy: 704, 455
+  size: 212, 93
+  orig: 212, 115
+  offset: 0, 10
+  index: -1
+dragon_thunderbolt_child_tail
+  rotate: false
+  xy: 1258, 328
+  size: 49, 123
+  orig: 49, 123
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_critical_t1
+  rotate: false
+  xy: 512, 2
+  size: 234, 451
+  orig: 264, 451
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_critical_c2
+  rotate: false
+  xy: 1313, 261
+  size: 274, 274
+  orig: 284, 284
+  offset: 6, 7
+  index: -1
+dragon_love_effect_heart
+  rotate: false
+  xy: 1665, 625
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_adult_effect2
+  rotate: true
+  xy: 1652, 537
+  size: 86, 123
+  orig: 86, 123
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_critical_c7
+  rotate: false
+  xy: 982, 2
+  size: 329, 324
+  orig: 345, 356
+  offset: 9, 10
+  index: -1
+dragon_thunderbolt_adult_head6
+  rotate: false
+  xy: 1404, 625
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_adult_body4
+  rotate: false
+  xy: 184, 623
+  size: 110, 51
+  orig: 110, 51
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_critical_t4
+  rotate: false
+  xy: 264, 2
+  size: 246, 451
+  orig: 264, 451
+  offset: 6, 0
+  index: -1
+dragon_thunderbolt_baby_mouth1
+  rotate: false
+  xy: 2007, 588
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_adult_leg
+  rotate: true
+  xy: 1960, 313
+  size: 77, 46
+  orig: 77, 46
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_adult_arm1
+  rotate: true
+  xy: 824, 550
+  size: 127, 91
+  orig: 127, 91
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_child_mouth
+  rotate: false
+  xy: 296, 653
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_critical_c1
+  rotate: false
+  xy: 1589, 261
+  size: 274, 274
+  orig: 284, 284
+  offset: 6, 7
+  index: -1
+dragon_thunderbolt_adult_head4
+  rotate: true
+  xy: 1132, 604
+  size: 74, 95
+  orig: 74, 95
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_adult_body5
+  rotate: false
+  xy: 918, 455
+  size: 62, 98
+  orig: 62, 100
+  offset: 0, 1
+  index: -1
+dragon_thunderbolt_adult_headlight
+  rotate: false
+  xy: 1229, 604
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_baby_body
+  rotate: false
+  xy: 1229, 625
+  size: 73, 61
+  orig: 75, 61
+  offset: 2, 0
+  index: -1
+dragon_thunderbolt_critical_t3
+  rotate: false
+  xy: 748, 2
+  size: 232, 451
+  orig: 264, 451
+  offset: 21, 0
+  index: -1
+dragon_thunderbolt_critical_c4
+  rotate: true
+  xy: 303, 455
+  size: 196, 219
+  orig: 212, 235
+  offset: 8, 10
+  index: -1
+dragon_thunderbolt_adult_effect4
+  rotate: false
+  xy: 1862, 568
+  size: 96, 108
+  orig: 96, 108
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_adult_head5
+  rotate: false
+  xy: 1459, 625
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_adult_effect1
+  rotate: false
+  xy: 1777, 537
+  size: 83, 119
+  orig: 83, 119
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_adult_body2
+  rotate: false
+  xy: 1304, 625
+  size: 98, 38
+  orig: 98, 38
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_adult_arm4
+  rotate: true
+  xy: 1258, 537
+  size: 86, 131
+  orig: 92, 131
+  offset: 2, 0
+  index: -1
+dragon_thunderbolt_child_head2
+  rotate: true
+  xy: 1991, 217
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_child_love
+  rotate: true
+  xy: 1991, 167
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_critical_u2
+  rotate: true
+  xy: 1865, 260
+  size: 184, 93
+  orig: 212, 115
+  offset: 27, 10
+  index: -1
+dragon_thunderbolt_baby_head2
+  rotate: false
+  xy: 1514, 626
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_child_leg1
+  rotate: false
+  xy: 1258, 505
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_critical_c3
+  rotate: false
+  xy: 982, 328
+  size: 274, 274
+  orig: 284, 284
+  offset: 6, 7
+  index: -1
+dragon_thunderbolt_adult_effect3
+  rotate: false
+  xy: 1865, 446
+  size: 93, 120
+  orig: 93, 120
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_child_arm1
+  rotate: true
+  xy: 1960, 392
+  size: 65, 54
+  orig: 65, 54
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_baby_arm
+  rotate: false
+  xy: 917, 555
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_baby_head1
+  rotate: false
+  xy: 1569, 626
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_adult_head2
+  rotate: true
+  xy: 1991, 57
+  size: 53, 39
+  orig: 53, 41
+  offset: 0, 2
+  index: -1
+dragon_thunderbolt_adult_body3
+  rotate: false
+  xy: 1002, 604
+  size: 128, 78
+  orig: 128, 78
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_child_head3
+  rotate: false
+  xy: 1960, 588
+  size: 45, 62
+  orig: 51, 62
+  offset: 6, 0
+  index: -1
+dragon_thunderbolt_baby_mouth2
+  rotate: false
+  xy: 1713, 625
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_adult_love
+  rotate: false
+  xy: 961, 555
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_critical_u1
+  rotate: false
+  xy: 2, 623
+  size: 180, 63
+  orig: 212, 115
+  offset: 26, 10
+  index: -1
+dragon_thunderbolt_baby_head3
+  rotate: true
+  xy: 1960, 652
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_critical_c6
+  rotate: false
+  xy: 1313, 2
+  size: 338, 257
+  orig: 348, 277
+  offset: 2, 10
+  index: -1
+dragon_thunderbolt_child_arm2
+  rotate: false
+  xy: 1960, 459
+  size: 51, 65
+  orig: 51, 65
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_adult_body1
+  rotate: false
+  xy: 524, 455
+  size: 178, 128
+  orig: 182, 148
+  offset: 1, 0
+  index: -1
+dragon_thunderbolt_adult_head3
+  rotate: true
+  xy: 917, 604
+  size: 82, 83
+  orig: 82, 83
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_child_head1
+  rotate: true
+  xy: 1624, 626
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_adult_arm2
+  rotate: false
+  xy: 1524, 537
+  size: 126, 87
+  orig: 126, 87
+  offset: 0, 0
+  index: -1
+dragon_love_effect_smile
+  rotate: false
+  xy: 1960, 526
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_thunderbolt_critical_u4
+  rotate: false
+  xy: 524, 585
+  size: 182, 81
+  orig: 212, 115
+  offset: 12, 10
+  index: -1

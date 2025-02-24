@@ -1,0 +1,270 @@
+89_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_hauntedgargoyle_leg3
+  rotate: false
+  xy: 301, 983
+  size: 116, 84
+  orig: 122, 90
+  offset: 2, 3
+  index: -1
+m_hauntedgargoyle_groggy_wing11
+  rotate: true
+  xy: 204, 414
+  size: 223, 79
+  orig: 229, 81
+  offset: 3, 0
+  index: -1
+m_hauntedgargoyle_groggy_mouth
+  rotate: true
+  xy: 493, 538
+  size: 21, 17
+  orig: 23, 17
+  offset: 1, 0
+  index: -1
+m_hauntedgargoyle_groggy_arm12
+  rotate: false
+  xy: 301, 881
+  size: 101, 100
+  orig: 101, 100
+  offset: 0, 0
+  index: -1
+m_hauntedgargoyle_groggy_finger
+  rotate: false
+  xy: 462, 955
+  size: 48, 39
+  orig: 52, 47
+  offset: 3, 5
+  index: -1
+m_hauntedgargoyle_arm2
+  rotate: false
+  xy: 435, 382
+  size: 75, 154
+  orig: 77, 154
+  offset: 2, 0
+  index: -1
+m_hauntedgargoyle_wing21
+  rotate: false
+  xy: 2, 414
+  size: 200, 250
+  orig: 204, 254
+  offset: 3, 3
+  index: -1
+m_hauntedgargoyle_eye
+  rotate: false
+  xy: 169, 858
+  size: 123, 44
+  orig: 123, 46
+  offset: 0, 1
+  index: -1
+m_hauntedgargoyle_tail
+  rotate: false
+  xy: 2, 666
+  size: 165, 238
+  orig: 173, 246
+  offset: 2, 4
+  index: -1
+m_hauntedgargoyle_wing22
+  rotate: true
+  xy: 450, 662
+  size: 29, 32
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+m_hauntedgargoyle_groggy_tail
+  rotate: true
+  xy: 419, 1067
+  size: 46, 53
+  orig: 52, 61
+  offset: 3, 3
+  index: -1
+m_hauntedgargoyle_groggy_arm11
+  rotate: true
+  xy: 419, 967
+  size: 67, 41
+  orig: 71, 41
+  offset: 2, 0
+  index: -1
+m_hauntedgargoyle_groggy_wing22
+  rotate: true
+  xy: 419, 1036
+  size: 29, 32
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+m_hauntedgargoyle_body2
+  rotate: false
+  xy: 169, 695
+  size: 165, 161
+  orig: 165, 163
+  offset: 0, 2
+  index: -1
+m_hauntedgargoyle_head12
+  rotate: false
+  xy: 462, 996
+  size: 47, 49
+  orig: 55, 59
+  offset: 4, 7
+  index: -1
+m_hauntedgargoyle_groggy_wing21
+  rotate: false
+  xy: 371, 2
+  size: 133, 174
+  orig: 137, 176
+  offset: 3, 2
+  index: -1
+m_hauntedgargoyle_groggy_nose
+  rotate: true
+  xy: 266, 1064
+  size: 46, 32
+  orig: 56, 34
+  offset: 6, 1
+  index: -1
+m_hauntedgargoyle_groggy_eye
+  rotate: true
+  xy: 442, 695
+  size: 132, 63
+  orig: 132, 67
+  offset: 0, 3
+  index: -1
+m_hauntedgargoyle_wing11
+  rotate: false
+  xy: 2, 2
+  size: 367, 176
+  orig: 377, 180
+  offset: 7, 3
+  index: -1
+m_hauntedgargoyle_groggy_arm2
+  rotate: false
+  xy: 439, 178
+  size: 63, 147
+  orig: 63, 147
+  offset: 0, 0
+  index: -1
+m_hauntedgargoyle_body1
+  rotate: false
+  xy: 240, 180
+  size: 197, 200
+  orig: 203, 202
+  offset: 2, 1
+  index: -1
+m_hauntedgargoyle_leg2
+  rotate: true
+  xy: 336, 695
+  size: 130, 104
+  orig: 132, 104
+  offset: 1, 0
+  index: -1
+m_hauntedgargoyle_groggy_tooth
+  rotate: false
+  xy: 240, 382
+  size: 33, 28
+  orig: 35, 28
+  offset: 1, 0
+  index: -1
+m_hauntedgargoyle_arm12
+  rotate: true
+  xy: 285, 556
+  size: 137, 163
+  orig: 137, 163
+  offset: 0, 0
+  index: -1
+m_hauntedgargoyle_mouth
+  rotate: false
+  xy: 336, 827
+  size: 104, 52
+  orig: 104, 52
+  offset: 0, 0
+  index: -1
+m_hauntedgargoyle_wing12
+  rotate: true
+  xy: 258, 904
+  size: 122, 41
+  orig: 124, 45
+  offset: 1, 2
+  index: -1
+m_hauntedgargoyle_groggy_head12
+  rotate: false
+  xy: 204, 639
+  size: 72, 41
+  orig: 74, 41
+  offset: 2, 0
+  index: -1
+m_hauntedgargoyle_finger
+  rotate: true
+  xy: 442, 829
+  size: 50, 51
+  orig: 52, 57
+  offset: 1, 4
+  index: -1
+m_hauntedgargoyle_arm11
+  rotate: true
+  xy: 449, 881
+  size: 72, 51
+  orig: 78, 55
+  offset: 4, 3
+  index: -1
+m_hauntedgargoyle_groggy_leg3
+  rotate: true
+  xy: 404, 881
+  size: 84, 43
+  orig: 86, 51
+  offset: 2, 5
+  index: -1
+m_hauntedgargoyle_head11
+  rotate: false
+  xy: 2, 180
+  size: 236, 232
+  orig: 236, 234
+  offset: 0, 1
+  index: -1
+m_hauntedgargoyle_nose
+  rotate: false
+  xy: 439, 327
+  size: 70, 53
+  orig: 70, 53
+  offset: 0, 0
+  index: -1
+m_hauntedgargoyle_leg4
+  rotate: true
+  xy: 176, 1028
+  size: 85, 88
+  orig: 89, 94
+  offset: 2, 3
+  index: -1
+m_hauntedgargoyle_tooth
+  rotate: false
+  xy: 266, 1028
+  size: 33, 34
+  orig: 35, 36
+  offset: 1, 0
+  index: -1
+m_hauntedgargoyle_leg1
+  rotate: false
+  xy: 176, 904
+  size: 80, 122
+  orig: 80, 124
+  offset: 0, 1
+  index: -1
+m_hauntedgargoyle_groggy_head11
+  rotate: true
+  xy: 2, 906
+  size: 207, 172
+  orig: 215, 172
+  offset: 3, 0
+  index: -1
+m_hauntedgargoyle_groggy_smoke
+  rotate: true
+  xy: 285, 382
+  size: 172, 148
+  orig: 186, 176
+  offset: 13, 14
+  index: -1
+m_hauntedgargoyle_groggy_wing12
+  rotate: true
+  xy: 450, 538
+  size: 122, 41
+  orig: 124, 45
+  offset: 1, 2
+  index: -1

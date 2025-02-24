@@ -1,0 +1,116 @@
+colo_waiting_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+colo_waiting_got_tail
+  rotate: true
+  xy: 66, 33
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+colo_waiting_got_wing
+  rotate: false
+  xy: 2, 422
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+colo_waiting_got_glove2
+  rotate: false
+  xy: 49, 384
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+colo_waiting_got_foot
+  rotate: false
+  xy: 30, 451
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+colo_waiting_got_glove1
+  rotate: false
+  xy: 2, 384
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+colo_waiting_got_sandbb
+  rotate: false
+  xy: 2, 2
+  size: 62, 136
+  orig: 62, 136
+  offset: 0, 0
+  index: -1
+colo_waiting_got_arm2
+  rotate: false
+  xy: 56, 332
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+colo_waiting_got_leg2
+  rotate: false
+  xy: 56, 362
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+colo_waiting_got_leg4
+  rotate: false
+  xy: 53, 422
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+colo_waiting_got_arm1
+  rotate: false
+  xy: 66, 82
+  size: 17, 33
+  orig: 17, 33
+  offset: 0, 0
+  index: -1
+colo_waiting_got_body
+  rotate: false
+  xy: 2, 332
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+colo_waiting_got_leg1
+  rotate: true
+  xy: 66, 2
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+colo_waiting_got_chain1
+  rotate: true
+  xy: 2, 451
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+colo_waiting_got_head2
+  rotate: true
+  xy: 2, 239
+  size: 91, 85
+  orig: 101, 85
+  offset: 0, 0
+  index: -1
+colo_waiting_got_chain2
+  rotate: true
+  xy: 61, 447
+  size: 8, 23
+  orig: 8, 23
+  offset: 0, 0
+  index: -1
+colo_waiting_got_head1
+  rotate: true
+  xy: 2, 140
+  size: 97, 85
+  orig: 101, 85
+  offset: 4, 0
+  index: -1

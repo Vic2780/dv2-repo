@@ -1,0 +1,627 @@
+dragon_4096_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_garuda_baby_arm2
+  rotate: true
+  xy: 552, 1827
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+dragon_garuda_critical_fire3
+  rotate: false
+  xy: 284, 2
+  size: 253, 243
+  orig: 253, 243
+  offset: 0, 0
+  index: -1
+dragon_garuda_baby_leg1
+  rotate: true
+  xy: 538, 1936
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+dragon_garuda_child_arm1
+  rotate: false
+  xy: 509, 1911
+  size: 41, 22
+  orig: 41, 22
+  offset: 0, 0
+  index: -1
+4096_baby
+  rotate: false
+  xy: 420, 1242
+  size: 120, 116
+  orig: 120, 116
+  offset: 0, 0
+  index: -1
+dragon_garuda_critical_x6
+  rotate: false
+  xy: 2, 1020
+  size: 215, 246
+  orig: 215, 246
+  offset: 0, 0
+  index: -1
+dragon_garuda_child_tailf2
+  rotate: false
+  xy: 425, 1827
+  size: 38, 69
+  orig: 56, 101
+  offset: 2, 20
+  index: -1
+dragon_garuda_critical_smog2
+  rotate: true
+  xy: 539, 2
+  size: 134, 36
+  orig: 134, 36
+  offset: 0, 0
+  index: -1
+dragon_garuda_adult_fire3
+  rotate: false
+  xy: 205, 1587
+  size: 144, 107
+  orig: 144, 107
+  offset: 0, 0
+  index: -1
+dragon_garuda_adult_armf3
+  rotate: true
+  xy: 219, 1020
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+dragon_garuda_adult_leg2
+  rotate: false
+  xy: 505, 1827
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+dragon_garuda_child_body
+  rotate: false
+  xy: 420, 1360
+  size: 112, 87
+  orig: 118, 103
+  offset: 0, 0
+  index: -1
+dragon_garuda_critical_x5
+  rotate: false
+  xy: 2, 1762
+  size: 209, 232
+  orig: 215, 246
+  offset: 6, 14
+  index: -1
+dragon_garuda_adult_eyeangry2
+  rotate: false
+  xy: 451, 1989
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+dragon_garuda_adult_inmouth
+  rotate: false
+  xy: 505, 1877
+  size: 49, 32
+  orig: 101, 80
+  offset: 28, 14
+  index: -1
+dragon_garuda_adult_mouth
+  rotate: false
+  xy: 522, 382
+  size: 53, 36
+  orig: 101, 80
+  offset: 19, 0
+  index: -1
+dragon_garuda_child_eye
+  rotate: false
+  xy: 412, 1987
+  size: 37, 35
+  orig: 89, 73
+  offset: 31, 19
+  index: -1
+dragon_garuda_baby_eye2
+  rotate: false
+  xy: 425, 1898
+  size: 61, 19
+  orig: 83, 41
+  offset: 15, 10
+  index: -1
+dragon_garuda_child_fire3
+  rotate: true
+  xy: 542, 1242
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1
+dragon_garuda_child_leg2
+  rotate: true
+  xy: 510, 443
+  size: 59, 65
+  orig: 59, 65
+  offset: 0, 0
+  index: -1
+dragon_garuda_critical_fire4
+  rotate: false
+  xy: 2, 782
+  size: 245, 236
+  orig: 245, 236
+  offset: 0, 0
+  index: -1
+dragon_garuda_adult_bodyf3
+  rotate: true
+  xy: 497, 654
+  size: 112, 78
+  orig: 112, 78
+  offset: 0, 0
+  index: -1
+4096_child
+  rotate: true
+  xy: 219, 1410
+  size: 175, 191
+  orig: 175, 191
+  offset: 0, 0
+  index: -1
+dragon_garuda_critical_x1
+  rotate: true
+  xy: 249, 865
+  size: 209, 232
+  orig: 215, 246
+  offset: 0, 14
+  index: -1
+dragon_garuda_adult_arm3
+  rotate: true
+  xy: 382, 1842
+  size: 77, 41
+  orig: 77, 41
+  offset: 0, 0
+  index: -1
+dragon_garuda_baby_fire3
+  rotate: true
+  xy: 490, 1989
+  size: 36, 17
+  orig: 74, 59
+  offset: 33, 40
+  index: -1
+dragon_garuda_adult_fire2
+  rotate: false
+  xy: 447, 1160
+  size: 128, 80
+  orig: 128, 80
+  offset: 0, 0
+  index: -1
+dragon_garuda_adult_armf2
+  rotate: false
+  xy: 152, 1996
+  size: 55, 29
+  orig: 55, 29
+  offset: 0, 0
+  index: -1
+dragon_garuda_child_tail
+  rotate: true
+  xy: 412, 1523
+  size: 56, 101
+  orig: 56, 101
+  offset: 0, 0
+  index: -1
+dragon_garuda_critical_x4
+  rotate: true
+  xy: 276, 443
+  size: 209, 232
+  orig: 215, 246
+  offset: 6, 14
+  index: -1
+dragon_garuda_child_tailf3
+  rotate: true
+  xy: 495, 1785
+  size: 40, 71
+  orig: 56, 101
+  offset: 0, 20
+  index: -1
+dragon_garuda_child_head
+  rotate: true
+  xy: 337, 1939
+  size: 89, 73
+  orig: 89, 73
+  offset: 0, 0
+  index: -1
+dragon_garuda_critical_smog3
+  rotate: false
+  xy: 205, 1696
+  size: 126, 43
+  orig: 132, 45
+  offset: 0, 1
+  index: -1
+dragon_garuda_child_fire2
+  rotate: false
+  xy: 94, 1996
+  size: 56, 29
+  orig: 56, 29
+  offset: 0, 0
+  index: -1
+dragon_garuda_critical_fire1
+  rotate: true
+  xy: 2, 1516
+  size: 244, 201
+  orig: 244, 201
+  offset: 0, 0
+  index: -1
+dragon_garuda_baby_leg3
+  rotate: true
+  xy: 567, 1696
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+dragon_garuda_child_arm3
+  rotate: true
+  xy: 418, 1778
+  size: 47, 75
+  orig: 47, 75
+  offset: 0, 0
+  index: -1
+dragon_garuda_adult_bodyf2
+  rotate: true
+  xy: 483, 865
+  size: 112, 89
+  orig: 112, 89
+  offset: 0, 0
+  index: -1
+dragon_garuda_adult_arm2
+  rotate: false
+  xy: 308, 1848
+  size: 72, 89
+  orig: 72, 89
+  offset: 0, 0
+  index: -1
+dragon_garuda_adult_tailf3
+  rotate: false
+  xy: 515, 1534
+  size: 60, 79
+  orig: 60, 83
+  offset: 0, 1
+  index: -1
+dragon_garuda_adult_leg1
+  rotate: true
+  xy: 418, 1728
+  size: 48, 77
+  orig: 48, 77
+  offset: 0, 0
+  index: -1
+dragon_garuda_baby_eye
+  rotate: true
+  xy: 534, 1360
+  size: 83, 41
+  orig: 83, 41
+  offset: 0, 0
+  index: -1
+dragon_garuda_critical_fire5
+  rotate: false
+  xy: 2, 2
+  size: 280, 278
+  orig: 280, 278
+  offset: 0, 0
+  index: -1
+dragon_garuda_baby_arm1
+  rotate: true
+  xy: 418, 1706
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+dragon_garuda_child_eye2
+  rotate: true
+  xy: 263, 555
+  size: 23, 11
+  orig: 89, 73
+  offset: 40, 30
+  index: -1
+dragon_garuda_child_mouth
+  rotate: false
+  xy: 412, 1950
+  size: 47, 35
+  orig: 89, 73
+  offset: 37, 6
+  index: -1
+dragon_garuda_adult_leg4
+  rotate: true
+  xy: 551, 606
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+dragon_garuda_critical_sparkle2
+  rotate: false
+  xy: 219, 1239
+  size: 199, 169
+  orig: 199, 169
+  offset: 0, 0
+  index: -1
+dragon_garuda_child_bodyf2
+  rotate: false
+  xy: 483, 979
+  size: 74, 95
+  orig: 118, 103
+  offset: 44, 8
+  index: -1
+dragon_garuda_adult_tail
+  rotate: false
+  xy: 213, 1848
+  size: 93, 107
+  orig: 93, 107
+  offset: 0, 0
+  index: -1
+dragon_garuda_baby_leg2
+  rotate: false
+  xy: 475, 1919
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+dragon_garuda_child_arm2
+  rotate: true
+  xy: 433, 1676
+  size: 50, 74
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+dragon_garuda_child_bodyf
+  rotate: false
+  xy: 433, 1581
+  size: 74, 93
+  orig: 118, 103
+  offset: 44, 9
+  index: -1
+dragon_garuda_adult_eyeangry
+  rotate: true
+  xy: 205, 1516
+  size: 17, 12
+  orig: 101, 80
+  offset: 31, 35
+  index: -1
+dragon_garuda_critical_x3
+  rotate: false
+  xy: 2, 1268
+  size: 215, 246
+  orig: 215, 246
+  offset: 0, 0
+  index: -1
+dragon_garuda_adult_body
+  rotate: false
+  xy: 213, 1741
+  size: 114, 105
+  orig: 114, 105
+  offset: 0, 0
+  index: -1
+dragon_garuda_adult_tailf2
+  rotate: false
+  xy: 509, 1615
+  size: 60, 79
+  orig: 60, 83
+  offset: 0, 1
+  index: -1
+dragon_garuda_adult_fire1
+  rotate: true
+  xy: 510, 504
+  size: 100, 59
+  orig: 100, 59
+  offset: 0, 0
+  index: -1
+dragon_garuda_adult_armf1
+  rotate: true
+  xy: 542, 1304
+  size: 54, 31
+  orig: 54, 31
+  offset: 0, 0
+  index: -1
+dragon_garuda_adult_head
+  rotate: false
+  xy: 412, 1449
+  size: 101, 72
+  orig: 101, 80
+  offset: 0, 8
+  index: -1
+dragon_garuda_baby_tail
+  rotate: true
+  xy: 497, 1963
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+dragon_garuda_child_leg1
+  rotate: true
+  xy: 539, 138
+  size: 107, 36
+  orig: 107, 36
+  offset: 0, 0
+  index: -1
+dragon_garuda_critical_smog1
+  rotate: false
+  xy: 2, 1996
+  size: 90, 26
+  orig: 92, 26
+  offset: 0, 0
+  index: -1
+dragon_garuda_adult_arm5
+  rotate: true
+  xy: 329, 1781
+  size: 59, 72
+  orig: 59, 72
+  offset: 0, 0
+  index: -1
+dragon_garuda_adult_arm6
+  rotate: false
+  xy: 497, 1748
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+dragon_garuda_child_fire1
+  rotate: false
+  xy: 497, 1935
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+dragon_garuda_critical_fire2
+  rotate: false
+  xy: 284, 247
+  size: 236, 194
+  orig: 236, 194
+  offset: 0, 0
+  index: -1
+dragon_garuda_critical_x2
+  rotate: true
+  xy: 263, 654
+  size: 209, 232
+  orig: 215, 246
+  offset: 0, 14
+  index: -1
+dragon_garuda_baby_body
+  rotate: true
+  xy: 522, 247
+  size: 74, 53
+  orig: 74, 59
+  offset: 0, 0
+  index: -1
+dragon_garuda_child_tailf1
+  rotate: false
+  xy: 465, 1827
+  size: 38, 69
+  orig: 56, 101
+  offset: 1, 20
+  index: -1
+dragon_garuda_adult_neck
+  rotate: false
+  xy: 522, 323
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+dragon_garuda_adult_tailf1
+  rotate: false
+  xy: 515, 1449
+  size: 60, 83
+  orig: 60, 83
+  offset: 0, 0
+  index: -1
+dragon_garuda_adult_eyedamaged
+  rotate: true
+  xy: 249, 782
+  size: 17, 12
+  orig: 101, 80
+  offset: 42, 36
+  index: -1
+dragon_garuda_adult_arm1
+  rotate: true
+  xy: 447, 1076
+  size: 82, 128
+  orig: 82, 128
+  offset: 0, 0
+  index: -1
+dragon_garuda_baby_fire1
+  rotate: true
+  xy: 556, 1854
+  size: 40, 19
+  orig: 74, 59
+  offset: 32, 40
+  index: -1
+dragon_garuda_baby_mouth
+  rotate: false
+  xy: 522, 420
+  size: 45, 17
+  orig: 83, 77
+  offset: 11, 0
+  index: -1
+dragon_garuda_child_bodyf3
+  rotate: false
+  xy: 497, 768
+  size: 74, 95
+  orig: 118, 103
+  offset: 44, 8
+  index: -1
+dragon_garuda_adult_eye
+  rotate: true
+  xy: 461, 1950
+  size: 37, 34
+  orig: 101, 80
+  offset: 30, 25
+  index: -1
+dragon_garuda_baby_arm3
+  rotate: false
+  xy: 509, 1985
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+dragon_garuda_critical_fire6
+  rotate: false
+  xy: 2, 282
+  size: 272, 271
+  orig: 272, 271
+  offset: 0, 0
+  index: -1
+dragon_garuda_adult_bodyf1
+  rotate: true
+  xy: 351, 1587
+  size: 117, 80
+  orig: 117, 80
+  offset: 0, 0
+  index: -1
+dragon_garuda_adult_arm4
+  rotate: true
+  xy: 213, 1957
+  size: 72, 122
+  orig: 72, 122
+  offset: 0, 0
+  index: -1
+4096_adult
+  rotate: false
+  xy: 2, 555
+  size: 259, 225
+  orig: 259, 225
+  offset: 0, 0
+  index: -1
+dragon_garuda_adult_leg3
+  rotate: true
+  xy: 425, 1919
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+dragon_garuda_critical_sparkle1
+  rotate: false
+  xy: 219, 1076
+  size: 226, 161
+  orig: 226, 161
+  offset: 0, 0
+  index: -1
+dragon_garuda_child_neck
+  rotate: false
+  xy: 509, 1696
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+dragon_garuda_baby_head
+  rotate: false
+  xy: 333, 1706
+  size: 83, 73
+  orig: 83, 77
+  offset: 0, 4
+  index: -1
+dragon_garuda_baby_fire2
+  rotate: true
+  xy: 556, 1896
+  size: 38, 19
+  orig: 74, 59
+  offset: 32, 40
+  index: -1
+dragon_garuda_baby_heart
+  rotate: true
+  xy: 510, 606
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1

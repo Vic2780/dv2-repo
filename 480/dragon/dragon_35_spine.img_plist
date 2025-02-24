@@ -1,0 +1,403 @@
+dragon_35_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_eme_adult_body3
+  rotate: false
+  xy: 50, 547
+  size: 94, 58
+  orig: 98, 70
+  offset: 4, 0
+  index: -1
+dragon_eme_child_leg2
+  rotate: false
+  xy: 2, 718
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+dragon_eme_adult_att
+  rotate: false
+  xy: 155, 431
+  size: 80, 55
+  orig: 80, 55
+  offset: 0, 0
+  index: -1
+dragon_eme_child_tw2
+  rotate: true
+  xy: 42, 411
+  size: 59, 111
+  orig: 203, 203
+  offset: 80, 59
+  index: -1
+dragon_eme_adult_love_ef
+  rotate: false
+  xy: 2, 2
+  size: 183, 185
+  orig: 203, 203
+  offset: 7, 15
+  index: -1
+dragon_eme_adult_neck
+  rotate: true
+  xy: 187, 123
+  size: 60, 66
+  orig: 60, 66
+  offset: 0, 0
+  index: -1
+dragon_eme_adult_leg2
+  rotate: false
+  xy: 37, 715
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+dragon_eme_adult_body1
+  rotate: false
+  xy: 101, 665
+  size: 36, 44
+  orig: 98, 70
+  offset: 0, 6
+  index: -1
+dragon_eme_child_arm2
+  rotate: false
+  xy: 182, 338
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+dragon_eme_baby_tail
+  rotate: true
+  xy: 2, 662
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+dragon_eme_child_neck
+  rotate: true
+  xy: 125, 374
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+dragon_eme_baby_love_ef2
+  rotate: false
+  xy: 205, 258
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+dragon_eme_baby_head_l
+  rotate: false
+  xy: 208, 338
+  size: 18, 22
+  orig: 68, 58
+  offset: 48, 24
+  index: -1
+dragon_eme_adult_hit
+  rotate: true
+  xy: 125, 292
+  size: 80, 55
+  orig: 80, 55
+  offset: 0, 0
+  index: -1
+dragon_eme_child_mouth
+  rotate: false
+  xy: 225, 311
+  size: 28, 16
+  orig: 60, 74
+  offset: 23, 13
+  index: -1
+dragon_eme_adult_tail
+  rotate: true
+  xy: 42, 292
+  size: 117, 81
+  orig: 117, 81
+  offset: 0, 0
+  index: -1
+dragon_eme_adult_head_l
+  rotate: true
+  xy: 208, 362
+  size: 10, 13
+  orig: 80, 55
+  offset: 5, 17
+  index: -1
+dragon_eme_adult_skill_ef2
+  rotate: true
+  xy: 2, 485
+  size: 175, 22
+  orig: 197, 40
+  offset: 9, 11
+  index: -1
+dragon_eme_adult_head
+  rotate: false
+  xy: 174, 374
+  size: 80, 55
+  orig: 80, 55
+  offset: 0, 0
+  index: -1
+dragon_eme_child_love
+  rotate: true
+  xy: 152, 488
+  size: 60, 74
+  orig: 60, 74
+  offset: 0, 0
+  index: -1
+dragon_eme_child_leg1
+  rotate: true
+  xy: 79, 740
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+dragon_eme_child_head
+  rotate: true
+  xy: 146, 550
+  size: 60, 74
+  orig: 60, 74
+  offset: 0, 0
+  index: -1
+dragon_eme_baby_eye
+  rotate: false
+  xy: 228, 349
+  size: 22, 18
+  orig: 68, 58
+  offset: 30, 7
+  index: -1
+dragon_eme_child_arm1
+  rotate: false
+  xy: 194, 726
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+dragon_eme_child_leg3
+  rotate: true
+  xy: 148, 271
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+dragon_eme_adult_hand
+  rotate: true
+  xy: 237, 431
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+dragon_eme_adult_mouth
+  rotate: false
+  xy: 228, 521
+  size: 26, 13
+  orig: 80, 55
+  offset: 2, 0
+  index: -1
+dragon_eme_adult_leg3
+  rotate: true
+  xy: 139, 672
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+dragon_eme_baby_love_ef1
+  rotate: true
+  xy: 225, 671
+  size: 36, 23
+  orig: 44, 35
+  offset: 0, 5
+  index: -1
+dragon_eme_child_wing
+  rotate: false
+  xy: 50, 472
+  size: 100, 73
+  orig: 100, 73
+  offset: 0, 0
+  index: -1
+dragon_eme_child_body1
+  rotate: true
+  xy: 225, 602
+  size: 27, 29
+  orig: 77, 47
+  offset: 0, 3
+  index: -1
+dragon_eme_baby_leg
+  rotate: true
+  xy: 79, 715
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+dragon_eme_child_tw1
+  rotate: false
+  xy: 187, 2
+  size: 67, 119
+  orig: 203, 203
+  offset: 78, 49
+  index: -1
+dragon_eme_baby_mouth
+  rotate: false
+  xy: 225, 295
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+dragon_eme_child_body
+  rotate: true
+  xy: 205, 185
+  size: 71, 47
+  orig: 77, 47
+  offset: 6, 0
+  index: -1
+dragon_eme_child_eye
+  rotate: true
+  xy: 155, 411
+  size: 18, 14
+  orig: 60, 74
+  offset: 21, 23
+  index: -1
+dragon_eme_adult_sk_effect
+  rotate: true
+  xy: 2, 292
+  size: 191, 38
+  orig: 197, 40
+  offset: 0, 2
+  index: -1
+dragon_eme_baby_eyelove1
+  rotate: false
+  xy: 228, 329
+  size: 22, 18
+  orig: 68, 58
+  offset: 30, 7
+  index: -1
+dragon_eme_adult_arm1
+  rotate: true
+  xy: 209, 631
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dragon_eme_baby_zz
+  rotate: false
+  xy: 182, 295
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+dragon_eme_baby_wing
+  rotate: true
+  xy: 228, 495
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+dragon_eme_adult_love
+  rotate: true
+  xy: 148, 189
+  size: 80, 55
+  orig: 80, 55
+  offset: 0, 0
+  index: -1
+dragon_eme_adult_skill_ef1
+  rotate: true
+  xy: 26, 485
+  size: 173, 22
+  orig: 197, 40
+  offset: 11, 12
+  index: -1
+dragon_eme_child_hand
+  rotate: false
+  xy: 228, 536
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+dragon_eme_baby_body
+  rotate: true
+  xy: 222, 550
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+dragon_eme_adult_eye
+  rotate: false
+  xy: 191, 271
+  size: 12, 7
+  orig: 80, 55
+  offset: 10, 12
+  index: -1
+dragon_eme_child_tail
+  rotate: true
+  xy: 50, 607
+  size: 56, 87
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+dragon_eme_baby_eyelove2
+  rotate: false
+  xy: 225, 709
+  size: 22, 18
+  orig: 68, 58
+  offset: 30, 7
+  index: -1
+dragon_eme_adult_leg1
+  rotate: false
+  xy: 194, 672
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+dragon_eme_baby_head
+  rotate: false
+  xy: 139, 612
+  size: 68, 58
+  orig: 68, 58
+  offset: 0, 0
+  index: -1
+dragon_eme_adult_body2
+  rotate: true
+  xy: 101, 711
+  size: 52, 50
+  orig: 98, 70
+  offset: 46, 20
+  index: -1
+dragon_eme_adult_wing
+  rotate: false
+  xy: 2, 189
+  size: 144, 101
+  orig: 144, 101
+  offset: 0, 0
+  index: -1
+dragon_eme_adult_foot
+  rotate: true
+  xy: 237, 468
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+dragon_eme_adult_arm2
+  rotate: true
+  xy: 37, 665
+  size: 48, 62
+  orig: 48, 62
+  offset: 0, 0
+  index: -1
+dragon_eme_child_heart
+  rotate: true
+  xy: 153, 707
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_eme_child_foot
+  rotate: true
+  xy: 79, 740
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+dragon_eme_child_headlight
+  rotate: false
+  xy: 215, 729
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,158 @@
+96_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_amachine_groggyarm3
+  rotate: false
+  xy: 164, 895
+  size: 118, 100
+  orig: 130, 122
+  offset: 4, 11
+  index: -1
+m_amachine_light
+  rotate: false
+  xy: 284, 913
+  size: 92, 78
+  orig: 102, 98
+  offset: 4, 8
+  index: -1
+m_amachine_arm2
+  rotate: true
+  xy: 2, 985
+  size: 27, 151
+  orig: 45, 165
+  offset: 5, 7
+  index: -1
+m_amachine_leg
+  rotate: false
+  xy: 2, 905
+  size: 160, 78
+  orig: 166, 86
+  offset: 3, 0
+  index: -1
+m_amachine_eye
+  rotate: true
+  xy: 410, 425
+  size: 90, 33
+  orig: 92, 47
+  offset: 1, 11
+  index: -1
+m_amachine_groggyeye
+  rotate: true
+  xy: 418, 832
+  size: 89, 28
+  orig: 105, 40
+  offset: 8, 8
+  index: -1
+m_amachine_groggyarm4
+  rotate: true
+  xy: 158, 654
+  size: 114, 179
+  orig: 124, 197
+  offset: 7, 3
+  index: -1
+m_amachine_arm5
+  rotate: true
+  xy: 410, 359
+  size: 64, 57
+  orig: 78, 73
+  offset: 11, 6
+  index: -1
+m_amachine_arm1
+  rotate: false
+  xy: 324, 832
+  size: 92, 79
+  orig: 102, 87
+  offset: 3, 3
+  index: -1
+m_amachine_groggybag
+  rotate: true
+  xy: 221, 359
+  size: 177, 187
+  orig: 187, 203
+  offset: 4, 0
+  index: -1
+m_amachine_mause
+  rotate: true
+  xy: 339, 658
+  size: 172, 119
+  orig: 178, 131
+  offset: 0, 5
+  index: -1
+m_amachine_body
+  rotate: true
+  xy: 266, 2
+  size: 217, 193
+  orig: 225, 209
+  offset: 4, 5
+  index: -1
+m_amachine_groggyhead
+  rotate: true
+  xy: 2, 700
+  size: 203, 142
+  orig: 215, 160
+  offset: 5, 9
+  index: -1
+m_amachine_groggymause
+  rotate: false
+  xy: 146, 770
+  size: 176, 123
+  orig: 188, 131
+  offset: 6, 3
+  index: -1
+m_amachine_groggyarm5
+  rotate: false
+  xy: 378, 923
+  size: 64, 55
+  orig: 78, 73
+  offset: 11, 6
+  index: -1
+m_amachine_arm4
+  rotate: true
+  xy: 158, 538
+  size: 114, 186
+  orig: 120, 200
+  offset: 3, 0
+  index: -1
+m_amachine_bag
+  rotate: false
+  xy: 2, 488
+  size: 154, 210
+  orig: 174, 212
+  offset: 9, 2
+  index: -1
+m_amachine_key
+  rotate: true
+  xy: 444, 923
+  size: 34, 23
+  orig: 38, 29
+  offset: 2, 2
+  index: -1
+m_amachine_smoke
+  rotate: false
+  xy: 2, 2
+  size: 262, 289
+  orig: 288, 335
+  offset: 0, 12
+  index: -1
+m_amachine_arm3
+  rotate: true
+  xy: 346, 538
+  size: 118, 100
+  orig: 130, 122
+  offset: 4, 11
+  index: -1
+m_amachine_groggybody
+  rotate: false
+  xy: 2, 293
+  size: 217, 193
+  orig: 225, 209
+  offset: 4, 5
+  index: -1
+m_amachine_head
+  rotate: false
+  xy: 266, 221
+  size: 193, 136
+  orig: 215, 160
+  offset: 5, 9
+  index: -1

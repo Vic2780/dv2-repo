@@ -1,0 +1,179 @@
+86_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_shade_ghost2_groggy_eye
+  rotate: true
+  xy: 1005, 318
+  size: 65, 14
+  orig: 65, 14
+  offset: 0, 0
+  index: -1
+m_shade_groggy_ghost1_eye
+  rotate: true
+  xy: 813, 397
+  size: 77, 23
+  orig: 77, 23
+  offset: 0, 0
+  index: -1
+m_shade_ghost2_effect_body2
+  rotate: false
+  xy: 150, 289
+  size: 74, 106
+  orig: 74, 110
+  offset: 0, 0
+  index: -1
+m_shade_ghost1_eye
+  rotate: false
+  xy: 280, 258
+  size: 71, 29
+  orig: 71, 29
+  offset: 0, 0
+  index: -1
+m_shade_ghost2_groggy
+  rotate: false
+  xy: 739, 59
+  size: 69, 52
+  orig: 71, 54
+  offset: 0, 2
+  index: -1
+m_shade_groggy_eye
+  rotate: false
+  xy: 2, 401
+  size: 195, 90
+  orig: 201, 92
+  offset: 3, 0
+  index: -1
+m_shade_body3
+  rotate: true
+  xy: 2, 2
+  size: 397, 146
+  orig: 397, 146
+  offset: 0, 0
+  index: -1
+m_shade_ghost1effect2
+  rotate: false
+  xy: 739, 145
+  size: 61, 73
+  orig: 61, 75
+  offset: 0, 0
+  index: -1
+m_shade_body222
+  rotate: true
+  xy: 499, 2
+  size: 239, 175
+  orig: 239, 175
+  offset: 0, 0
+  index: -1
+m_shade_groggybody2
+  rotate: false
+  xy: 676, 2
+  size: 123, 55
+  orig: 123, 55
+  offset: 0, 0
+  index: -1
+m_shade_ghost11
+  rotate: false
+  xy: 302, 359
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+m_shade_ghost2_effect_body
+  rotate: false
+  xy: 226, 289
+  size: 74, 102
+  orig: 74, 104
+  offset: 0, 0
+  index: -1
+m_shade_eyeeffect
+  rotate: true
+  xy: 150, 2
+  size: 285, 128
+  orig: 285, 128
+  offset: 0, 0
+  index: -1
+m_shade_mouth
+  rotate: false
+  xy: 813, 318
+  size: 190, 77
+  orig: 190, 77
+  offset: 0, 0
+  index: -1
+m_shade_eye
+  rotate: false
+  xy: 813, 2
+  size: 209, 84
+  orig: 209, 84
+  offset: 0, 0
+  index: -1
+m_shade_groggyghost1
+  rotate: false
+  xy: 302, 289
+  size: 78, 68
+  orig: 78, 68
+  offset: 0, 0
+  index: -1
+m_shade_body22
+  rotate: true
+  xy: 613, 243
+  size: 238, 198
+  orig: 238, 200
+  offset: 0, 2
+  index: -1
+m_shade_body2
+  rotate: true
+  xy: 383, 258
+  size: 238, 228
+  orig: 238, 230
+  offset: 0, 2
+  index: -1
+m_shade_ghost1effect1
+  rotate: false
+  xy: 838, 397
+  size: 62, 76
+  orig: 62, 78
+  offset: 0, 0
+  index: -1
+m_shade_ghost2
+  rotate: false
+  xy: 298, 393
+  size: 83, 89
+  orig: 83, 89
+  offset: 0, 0
+  index: -1
+m_shade_groggy_body1
+  rotate: true
+  xy: 813, 88
+  size: 228, 199
+  orig: 236, 199
+  offset: 6, 0
+  index: -1
+m_shade_groggy_mouth
+  rotate: true
+  xy: 676, 59
+  size: 158, 61
+  orig: 158, 61
+  offset: 0, 0
+  index: -1
+m_shade_body1
+  rotate: true
+  xy: 280, 2
+  size: 254, 217
+  orig: 254, 223
+  offset: 0, 6
+  index: -1
+m_shade_ghost1
+  rotate: true
+  xy: 199, 397
+  size: 98, 97
+  orig: 98, 115
+  offset: 0, 0
+  index: -1
+m_shade_ghost2_eye
+  rotate: false
+  xy: 739, 113
+  size: 65, 30
+  orig: 65, 30
+  offset: 0, 0
+  index: -1

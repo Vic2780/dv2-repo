@@ -1,0 +1,46 @@
+package2_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+pack2_body
+  rotate: false
+  xy: 2, 2
+  size: 304, 262
+  orig: 304, 262
+  offset: 0, 0
+  index: -1
+pack_body_ligh3
+  rotate: false
+  xy: 2, 414
+  size: 156, 131
+  orig: 156, 131
+  offset: 0, 0
+  index: -1
+pack_body_light2
+  rotate: true
+  xy: 303, 315
+  size: 217, 126
+  orig: 217, 126
+  offset: 0, 0
+  index: -1
+pack_body_light4
+  rotate: false
+  xy: 431, 315
+  size: 23, 131
+  orig: 23, 131
+  offset: 0, 0
+  index: -1
+pack2_head
+  rotate: true
+  xy: 308, 2
+  size: 311, 183
+  orig: 311, 183
+  offset: 0, 0
+  index: -1
+pack_body_light
+  rotate: false
+  xy: 2, 266
+  size: 299, 146
+  orig: 299, 146
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,382 @@
+dragon_52_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_metalmagnet_baby_eye1
+  rotate: false
+  xy: 107, 867
+  size: 32, 25
+  orig: 34, 27
+  offset: 0, 1
+  index: -1
+dragon_metalmagnet_critical_ef2
+  rotate: false
+  xy: 2, 561
+  size: 143, 77
+  orig: 155, 77
+  offset: 9, 0
+  index: -1
+dragon_metalmagnet_child_wing2
+  rotate: true
+  xy: 2, 961
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+dragon_metalmagnet_critical_ef1
+  rotate: false
+  xy: 2, 720
+  size: 125, 56
+  orig: 155, 76
+  offset: 18, 13
+  index: -1
+dragon_metalmagnet_adult_eye2
+  rotate: false
+  xy: 180, 108
+  size: 15, 15
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+dragon_metalmagnet_adult_ef3
+  rotate: false
+  xy: 142, 691
+  size: 81, 100
+  orig: 85, 100
+  offset: 2, 0
+  index: -1
+dragon_metalmagnet_baby_jaw1
+  rotate: true
+  xy: 147, 561
+  size: 25, 14
+  orig: 29, 20
+  offset: 1, 4
+  index: -1
+dragon_metalmagnet_child_eye2
+  rotate: false
+  xy: 112, 799
+  size: 28, 17
+  orig: 34, 21
+  offset: 2, 2
+  index: -1
+dragon_metalmagnet_adult_eye1
+  rotate: false
+  xy: 220, 866
+  size: 17, 14
+  orig: 19, 14
+  offset: 2, 0
+  index: -1
+dragon_metalmagnet_baby_head1
+  rotate: true
+  xy: 163, 509
+  size: 77, 72
+  orig: 83, 74
+  offset: 5, 0
+  index: -1
+dragon_metalmagnet_critical_ef3
+  rotate: false
+  xy: 2, 91
+  size: 176, 109
+  orig: 204, 111
+  offset: 17, 2
+  index: -1
+dragon_metalmagnet_child_jaw1
+  rotate: true
+  xy: 69, 859
+  size: 44, 36
+  orig: 48, 38
+  offset: 3, 0
+  index: -1
+dragon_metalmagnet_adult_body2
+  rotate: false
+  xy: 180, 125
+  size: 57, 63
+  orig: 59, 65
+  offset: 1, 2
+  index: -1
+dragon_metalmagnet_child_wing1
+  rotate: false
+  xy: 154, 894
+  size: 47, 48
+  orig: 49, 50
+  offset: 0, 2
+  index: -1
+dragon_metalmagnet_adult_finger2
+  rotate: true
+  xy: 220, 819
+  size: 23, 18
+  orig: 25, 20
+  offset: 1, 2
+  index: -1
+dragon_metalmagnet_baby_wing1
+  rotate: false
+  xy: 203, 894
+  size: 32, 21
+  orig: 38, 23
+  offset: 4, 1
+  index: -1
+dragon_metalmagnet_adult_eye3
+  rotate: false
+  xy: 180, 91
+  size: 15, 15
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+dragon_metalmagnet_adult_hand2
+  rotate: false
+  xy: 190, 948
+  size: 48, 47
+  orig: 50, 47
+  offset: 2, 0
+  index: -1
+dragon_metalmagnet_baby_arm1
+  rotate: false
+  xy: 112, 818
+  size: 27, 19
+  orig: 29, 25
+  offset: 1, 4
+  index: -1
+dragon_metalmagnet_critical_ef4
+  rotate: false
+  xy: 2, 202
+  size: 172, 97
+  orig: 182, 97
+  offset: 6, 0
+  index: -1
+dragon_metalmagnet_baby_tail1
+  rotate: false
+  xy: 197, 83
+  size: 40, 27
+  orig: 42, 27
+  offset: 2, 0
+  index: -1
+dragon_metalmagnet_adult_body1
+  rotate: false
+  xy: 2, 400
+  size: 159, 159
+  orig: 165, 169
+  offset: 2, 8
+  index: -1
+dragon_metalmagnet_adult_tail1
+  rotate: false
+  xy: 142, 793
+  size: 76, 99
+  orig: 78, 101
+  offset: 0, 1
+  index: -1
+dragon_metalmagnet_adult_finger1
+  rotate: false
+  xy: 220, 793
+  size: 18, 24
+  orig: 22, 24
+  offset: 2, 0
+  index: -1
+dragon_metalmagnet_child_arm2
+  rotate: true
+  xy: 203, 26
+  size: 28, 33
+  orig: 28, 37
+  offset: 0, 2
+  index: -1
+dragon_metalmagnet_adult_ef1
+  rotate: true
+  xy: 2, 778
+  size: 79, 108
+  orig: 95, 116
+  offset: 9, 5
+  index: -1
+dragon_metalmagnet_adult_finger6
+  rotate: false
+  xy: 225, 691
+  size: 13, 21
+  orig: 17, 23
+  offset: 2, 2
+  index: -1
+dragon_metalmagnet_adult_hand1
+  rotate: false
+  xy: 102, 958
+  size: 55, 61
+  orig: 59, 65
+  offset: 2, 2
+  index: -1
+dragon_metalmagnet_critical_ef6
+  rotate: true
+  xy: 2, 2
+  size: 58, 199
+  orig: 62, 199
+  offset: 4, 0
+  index: -1
+dragon_metalmagnet_critical_ef5
+  rotate: false
+  xy: 2, 301
+  size: 166, 97
+  orig: 182, 97
+  offset: 6, 0
+  index: -1
+dragon_metalmagnet_adult_body4
+  rotate: true
+  xy: 110, 894
+  size: 51, 42
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+dragon_metalmagnet_adult_finger4
+  rotate: true
+  xy: 209, 997
+  size: 23, 20
+  orig: 27, 22
+  offset: 2, 1
+  index: -1
+dragon_metalmagnet_adult_arm1
+  rotate: true
+  xy: 2, 859
+  size: 39, 65
+  orig: 49, 71
+  offset: 6, 2
+  index: -1
+dragon_metalmagnet_child_eye1
+  rotate: false
+  xy: 112, 778
+  size: 28, 19
+  orig: 32, 23
+  offset: 3, 3
+  index: -1
+dragon_metalmagnet_critical_ef7
+  rotate: false
+  xy: 2, 62
+  size: 193, 27
+  orig: 207, 33
+  offset: 6, 0
+  index: -1
+dragon_metalmagnet_baby_a
+  rotate: false
+  xy: 112, 839
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_metalmagnet_adult_body3
+  rotate: true
+  xy: 57, 961
+  size: 56, 43
+  orig: 56, 47
+  offset: 0, 2
+  index: -1
+dragon_metalmagnet_adult_finger3
+  rotate: false
+  xy: 185, 997
+  size: 22, 23
+  orig: 26, 23
+  offset: 2, 0
+  index: -1
+dragon_metalmagnet_child_head1
+  rotate: false
+  xy: 163, 421
+  size: 74, 86
+  orig: 78, 90
+  offset: 1, 4
+  index: -1
+dragon_metalmagnet_baby_eye2
+  rotate: false
+  xy: 203, 56
+  size: 32, 25
+  orig: 34, 27
+  offset: 0, 1
+  index: -1
+dragon_metalmagnet_child_tail1
+  rotate: true
+  xy: 176, 252
+  size: 86, 62
+  orig: 88, 64
+  offset: 2, 2
+  index: -1
+dragon_metalmagnet_adult_jaw1
+  rotate: false
+  xy: 203, 917
+  size: 30, 29
+  orig: 34, 31
+  offset: 3, 2
+  index: -1
+dragon_metalmagnet_child_arm1
+  rotate: true
+  xy: 159, 944
+  size: 25, 29
+  orig: 29, 31
+  offset: 1, 0
+  index: -1
+dragon_metalmagnet_child_body1
+  rotate: true
+  xy: 2, 900
+  size: 59, 62
+  orig: 65, 66
+  offset: 3, 2
+  index: -1
+dragon_metalmagnet_critical_ef9
+  rotate: true
+  xy: 2, 640
+  size: 78, 138
+  orig: 78, 138
+  offset: 0, 0
+  index: -1
+dragon_metalmagnet_baby_body1
+  rotate: true
+  xy: 66, 905
+  size: 51, 42
+  orig: 55, 44
+  offset: 2, 2
+  index: -1
+dragon_metalmagnet_baby_arm2
+  rotate: false
+  xy: 159, 971
+  size: 26, 19
+  orig: 32, 25
+  offset: 4, 3
+  index: -1
+dragon_metalmagnet_adult_body11
+  rotate: true
+  xy: 159, 997
+  size: 23, 24
+  orig: 27, 28
+  offset: 3, 3
+  index: -1
+dragon_metalmagnet_adult_head1
+  rotate: false
+  xy: 170, 340
+  size: 65, 79
+  orig: 65, 83
+  offset: 0, 4
+  index: -1
+dragon_metalmagnet_adult_finger5
+  rotate: false
+  xy: 220, 844
+  size: 18, 20
+  orig: 22, 24
+  offset: 3, 2
+  index: -1
+dragon_metalmagnet_adult_ef2
+  rotate: false
+  xy: 147, 588
+  size: 82, 101
+  orig: 86, 109
+  offset: 3, 4
+  index: -1
+dragon_metalmagnet_child_s
+  rotate: false
+  xy: 180, 190
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_metalmagnet_adult_s
+  rotate: false
+  xy: 180, 190
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_metalmagnet_baby_tail2
+  rotate: false
+  xy: 203, 2
+  size: 34, 22
+  orig: 38, 22
+  offset: 2, 0
+  index: -1

@@ -1,0 +1,634 @@
+dragon_3024_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_solar_adult_neckfire2
+  rotate: false
+  xy: 998, 607
+  size: 51, 68
+  orig: 51, 76
+  offset: 0, 6
+  index: -1
+dragon_solar_adult_eye2
+  rotate: false
+  xy: 997, 1001
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+dragon_solar_adult_tail
+  rotate: false
+  xy: 714, 815
+  size: 143, 69
+  orig: 143, 69
+  offset: 0, 0
+  index: -1
+dragon_solar_child_leg5
+  rotate: true
+  xy: 1001, 374
+  size: 42, 15
+  orig: 42, 15
+  offset: 0, 0
+  index: -1
+dragon_solar_baby_tail
+  rotate: false
+  xy: 492, 982
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+dragon_solar_critical_ring1
+  rotate: false
+  xy: 751, 270
+  size: 176, 30
+  orig: 176, 30
+  offset: 0, 0
+  index: -1
+dragon_solar_critical_spear3
+  rotate: true
+  xy: 408, 337
+  size: 243, 246
+  orig: 245, 246
+  offset: 2, 0
+  index: -1
+dragon_solar_e_critical_eff1
+  rotate: false
+  xy: 2, 584
+  size: 290, 250
+  orig: 296, 258
+  offset: 2, 4
+  index: -1
+dragon_solar_adult_leg7
+  rotate: true
+  xy: 953, 850
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+dragon_solar_baby_head
+  rotate: true
+  xy: 852, 896
+  size: 60, 67
+  orig: 60, 67
+  offset: 0, 0
+  index: -1
+dragon_solar_child_leg1
+  rotate: true
+  xy: 532, 982
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+dragon_solar_adult_base2
+  rotate: false
+  xy: 2, 836
+  size: 256, 74
+  orig: 256, 74
+  offset: 0, 0
+  index: -1
+dragon_solar_critical_light1
+  rotate: false
+  xy: 408, 2
+  size: 341, 333
+  orig: 341, 333
+  offset: 0, 0
+  index: -1
+dragon_solar_adult_bodyfire1
+  rotate: false
+  xy: 998, 677
+  size: 66, 49
+  orig: 66, 51
+  offset: 0, 0
+  index: -1
+dragon_solar_adult_tailfire3
+  rotate: true
+  xy: 624, 851
+  size: 139, 81
+  orig: 143, 83
+  offset: 3, 0
+  index: -1
+dragon_solar_e_tail
+  rotate: false
+  xy: 707, 886
+  size: 143, 70
+  orig: 143, 70
+  offset: 0, 0
+  index: -1
+dragon_solar_adult_leg3
+  rotate: true
+  xy: 1066, 650
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+dragon_solar_child_leg2
+  rotate: false
+  xy: 1058, 481
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+dragon_solar_adult_bodyfire2
+  rotate: true
+  xy: 985, 800
+  size: 64, 49
+  orig: 66, 51
+  offset: 0, 0
+  index: -1
+dragon_solar_baby_tailfire3
+  rotate: false
+  xy: 980, 534
+  size: 15, 21
+  orig: 17, 25
+  offset: 1, 0
+  index: -1
+dragon_solar_child_eye3
+  rotate: false
+  xy: 256, 995
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+dragon_solar_baby_eye1
+  rotate: false
+  xy: 234, 995
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_solar_baby_wing
+  rotate: true
+  xy: 1047, 975
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+dragon_solar_baby_leg1
+  rotate: true
+  xy: 260, 836
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+dragon_solar_e_head
+  rotate: false
+  xy: 1001, 429
+  size: 77, 50
+  orig: 77, 50
+  offset: 0, 0
+  index: -1
+dragon_solar_adult_eye3
+  rotate: true
+  xy: 972, 850
+  size: 14, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+dragon_solar_adult_neck
+  rotate: false
+  xy: 924, 725
+  size: 59, 77
+  orig: 59, 77
+  offset: 0, 0
+  index: -1
+dragon_solar_child_tailfire3
+  rotate: false
+  xy: 924, 557
+  size: 72, 82
+  orig: 74, 84
+  offset: 0, 0
+  index: -1
+dragon_solar_child_note2
+  rotate: false
+  xy: 1051, 607
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_solar_adult_tailfire2
+  rotate: true
+  xy: 409, 872
+  size: 143, 81
+  orig: 143, 83
+  offset: 0, 0
+  index: -1
+dragon_solar_e_critical_ligh3
+  rotate: false
+  xy: 751, 2
+  size: 266, 266
+  orig: 266, 266
+  offset: 0, 0
+  index: -1
+dragon_solar_adult_head
+  rotate: false
+  xy: 972, 912
+  size: 69, 39
+  orig: 69, 39
+  offset: 0, 0
+  index: -1
+dragon_solar_adult_neckfire1
+  rotate: true
+  xy: 980, 481
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+dragon_solar_adult_leg4
+  rotate: false
+  xy: 914, 960
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+dragon_solar_baby_tailfire2
+  rotate: false
+  xy: 904, 557
+  size: 17, 23
+  orig: 17, 25
+  offset: 0, 2
+  index: -1
+dragon_solar_adult_eye4
+  rotate: false
+  xy: 980, 471
+  size: 14, 8
+  orig: 16, 10
+  offset: 0, 2
+  index: -1
+dragon_solar_child_bodyfire1
+  rotate: true
+  xy: 972, 866
+  size: 44, 62
+  orig: 46, 62
+  offset: 0, 0
+  index: -1
+dragon_solar_child_leg3
+  rotate: true
+  xy: 260, 862
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+dragon_solar_baby_body
+  rotate: true
+  xy: 1036, 728
+  size: 68, 50
+  orig: 70, 50
+  offset: 2, 0
+  index: -1
+dragon_solar_critical_light3
+  rotate: false
+  xy: 2, 2
+  size: 404, 289
+  orig: 404, 289
+  offset: 0, 0
+  index: -1
+dragon_solar_adult_bodyfire3
+  rotate: true
+  xy: 921, 896
+  size: 62, 49
+  orig: 66, 51
+  offset: 0, 0
+  index: -1
+dragon_solar_critical_ring3
+  rotate: false
+  xy: 277, 872
+  size: 130, 129
+  orig: 130, 129
+  offset: 0, 0
+  index: -1
+dragon_solar_child_tailfire2
+  rotate: false
+  xy: 904, 471
+  size: 74, 84
+  orig: 74, 84
+  offset: 0, 0
+  index: -1
+dragon_solar_adult_tailfire1
+  rotate: false
+  xy: 134, 912
+  size: 141, 81
+  orig: 143, 83
+  offset: 2, 2
+  index: -1
+dragon_solar_child_bodyfire2
+  rotate: false
+  xy: 820, 958
+  size: 46, 58
+  orig: 46, 62
+  offset: 0, 0
+  index: -1
+dragon_solar_e_critical_ligh2
+  rotate: true
+  xy: 714, 582
+  size: 231, 208
+  orig: 231, 212
+  offset: 0, 0
+  index: -1
+dragon_solar_child_neck
+  rotate: true
+  xy: 845, 302
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+dragon_solar_baby_heart
+  rotate: true
+  xy: 1043, 905
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_solar_e_neck
+  rotate: false
+  xy: 134, 995
+  size: 43, 18
+  orig: 43, 18
+  offset: 0, 0
+  index: -1
+dragon_solar_adult_base1
+  rotate: true
+  xy: 294, 584
+  size: 286, 194
+  orig: 286, 194
+  offset: 0, 0
+  index: -1
+dragon_solar_baby_eye2
+  rotate: false
+  xy: 904, 342
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_solar_adult_wing
+  rotate: false
+  xy: 2, 912
+  size: 130, 104
+  orig: 130, 104
+  offset: 0, 0
+  index: -1
+dragon_solar_baby_leg2
+  rotate: true
+  xy: 882, 302
+  size: 22, 41
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+dragon_solar_e_leg3
+  rotate: true
+  xy: 1051, 650
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+dragon_solar_adult_leg5
+  rotate: true
+  xy: 1066, 699
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+dragon_solar_critical_light2
+  rotate: false
+  xy: 2, 293
+  size: 404, 289
+  orig: 404, 289
+  offset: 0, 0
+  index: -1
+dragon_solar_baby_tailfire1
+  rotate: true
+  xy: 207, 995
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+dragon_solar_critical_ring2
+  rotate: false
+  xy: 492, 851
+  size: 130, 129
+  orig: 130, 129
+  offset: 0, 0
+  index: -1
+dragon_solar_child_tailfire1
+  rotate: false
+  xy: 924, 641
+  size: 72, 82
+  orig: 74, 84
+  offset: 0, 1
+  index: -1
+dragon_solar_e_arm3
+  rotate: true
+  xy: 805, 302
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+dragon_solar_child_heart
+  rotate: true
+  xy: 1043, 905
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_solar_critical_spear1
+  rotate: false
+  xy: 1019, 2
+  size: 67, 344
+  orig: 67, 344
+  offset: 0, 0
+  index: -1
+dragon_solar_child_mouse
+  rotate: false
+  xy: 1047, 953
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+dragon_solar_e_critical_light1
+  rotate: false
+  xy: 904, 374
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+dragon_solar_adult_body
+  rotate: false
+  xy: 707, 958
+  size: 111, 58
+  orig: 111, 58
+  offset: 0, 0
+  index: -1
+dragon_solar_adult_leg1
+  rotate: false
+  xy: 958, 960
+  size: 37, 50
+  orig: 37, 50
+  offset: 0, 0
+  index: -1
+dragon_solar_child_leg4
+  rotate: false
+  xy: 997, 953
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+dragon_solar_child_wing
+  rotate: true
+  xy: 929, 270
+  size: 102, 87
+  orig: 102, 87
+  offset: 0, 0
+  index: -1
+dragon_solar_child_head
+  rotate: true
+  xy: 998, 534
+  size: 71, 53
+  orig: 71, 53
+  offset: 0, 0
+  index: -1
+dragon_solar_critical_spear2
+  rotate: true
+  xy: 656, 337
+  size: 243, 246
+  orig: 245, 246
+  offset: 0, 0
+  index: -1
+dragon_solar_baby_mouse
+  rotate: false
+  xy: 656, 992
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+dragon_solar_e_arm
+  rotate: false
+  xy: 1053, 537
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+dragon_solar_e_body
+  rotate: true
+  xy: 1036, 865
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+dragon_solar_child_bodyfire3
+  rotate: false
+  xy: 868, 958
+  size: 44, 58
+  orig: 46, 62
+  offset: 0, 0
+  index: -1
+dragon_solar_child_note1
+  rotate: true
+  xy: 584, 982
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_solar_e_leg2
+  rotate: true
+  xy: 1058, 510
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+dragon_solar_adult_neckfire3
+  rotate: false
+  xy: 985, 728
+  size: 49, 70
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+dragon_solar_adult_eye1
+  rotate: false
+  xy: 1015, 1001
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+dragon_solar_adult_leg6
+  rotate: false
+  xy: 1053, 574
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+dragon_solar_e_wing
+  rotate: false
+  xy: 1036, 798
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+dragon_solar_e_leg
+  rotate: true
+  xy: 751, 302
+  size: 27, 52
+  orig: 27, 52
+  offset: 0, 0
+  index: -1
+dragon_solar_child_body
+  rotate: false
+  xy: 859, 815
+  size: 92, 79
+  orig: 92, 79
+  offset: 0, 0
+  index: -1
+dragon_solar_adult_mouse
+  rotate: false
+  xy: 624, 992
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+dragon_solar_e_arm2
+  rotate: false
+  xy: 904, 326
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+dragon_solar_child_eye1
+  rotate: true
+  xy: 193, 995
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+dragon_solar_baby_eye3
+  rotate: false
+  xy: 683, 992
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+dragon_solar_child_tail
+  rotate: true
+  xy: 1018, 348
+  size: 79, 68
+  orig: 79, 68
+  offset: 0, 0
+  index: -1
+dragon_solar_adult_leg2
+  rotate: false
+  xy: 953, 804
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+dragon_solar_child_eye2
+  rotate: true
+  xy: 179, 995
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+dragon_solar_e_critical_ligh4
+  rotate: true
+  xy: 490, 582
+  size: 267, 222
+  orig: 267, 222
+  offset: 0, 0
+  index: -1

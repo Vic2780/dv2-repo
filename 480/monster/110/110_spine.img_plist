@@ -1,0 +1,305 @@
+110_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_redcarlos_groggy_wheel2
+  rotate: true
+  xy: 1566, 472
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+m_redcarlos_groggy_head01
+  rotate: false
+  xy: 1039, 302
+  size: 161, 66
+  orig: 161, 66
+  offset: 0, 0
+  index: -1
+m_redcarlos_body1
+  rotate: true
+  xy: 1607, 2
+  size: 207, 90
+  orig: 207, 90
+  offset: 0, 0
+  index: -1
+m_redcarlos_foot1
+  rotate: false
+  xy: 1566, 413
+  size: 86, 57
+  orig: 86, 57
+  offset: 0, 0
+  index: -1
+m_redcarlos_groggy_arm01
+  rotate: false
+  xy: 1032, 370
+  size: 93, 96
+  orig: 93, 96
+  offset: 0, 0
+  index: -1
+m_redcarlos_groggy_body6
+  rotate: true
+  xy: 1576, 215
+  size: 119, 101
+  orig: 119, 101
+  offset: 0, 0
+  index: -1
+m_redcarlos_wheel3
+  rotate: false
+  xy: 1489, 407
+  size: 75, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1
+m_redcarlos_arm0
+  rotate: false
+  xy: 1390, 2
+  size: 215, 211
+  orig: 215, 211
+  offset: 0, 0
+  index: -1
+m_redcarlos_smork
+  rotate: true
+  xy: 787, 363
+  size: 133, 77
+  orig: 143, 77
+  offset: 10, 0
+  index: -1
+m_redcarlos_body3
+  rotate: false
+  xy: 1032, 468
+  size: 80, 42
+  orig: 80, 42
+  offset: 0, 0
+  index: -1
+m_redcarlos_wheel1
+  rotate: false
+  xy: 1479, 328
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+m_redcarlos_body4
+  rotate: false
+  xy: 2, 474
+  size: 83, 29
+  orig: 83, 29
+  offset: 0, 0
+  index: -1
+m_redcarlos_f02
+  rotate: true
+  xy: 1610, 472
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+m_redcarlos_leg1
+  rotate: false
+  xy: 1202, 302
+  size: 134, 68
+  orig: 134, 68
+  offset: 0, 0
+  index: -1
+m_redcarlos_f01
+  rotate: true
+  xy: 1338, 302
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+m_redcarlos_groggy_hand01
+  rotate: true
+  xy: 629, 363
+  size: 131, 156
+  orig: 131, 156
+  offset: 0, 0
+  index: -1
+m_redcarlos_effect02
+  rotate: false
+  xy: 2, 2
+  size: 682, 343
+  orig: 682, 343
+  offset: 0, 0
+  index: -1
+m_redcarlos_leg6
+  rotate: true
+  xy: 1127, 370
+  size: 98, 73
+  orig: 98, 73
+  offset: 0, 0
+  index: -1
+m_redcarlos_hand02
+  rotate: false
+  xy: 1391, 328
+  size: 86, 79
+  orig: 86, 79
+  offset: 0, 0
+  index: -1
+m_redcarlos_hand01
+  rotate: false
+  xy: 469, 347
+  size: 158, 157
+  orig: 158, 157
+  offset: 0, 0
+  index: -1
+m_redcarlos_groggy_wheel1
+  rotate: false
+  xy: 1293, 451
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+m_redcarlos_twink
+  rotate: true
+  xy: 1653, 336
+  size: 68, 64
+  orig: 74, 66
+  offset: 4, 1
+  index: -1
+m_redcarlos_f03
+  rotate: false
+  xy: 1163, 470
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+m_redcarlos_leg4
+  rotate: false
+  xy: 872, 302
+  size: 165, 56
+  orig: 165, 56
+  offset: 0, 0
+  index: -1
+m_redcarlos_st2
+  rotate: false
+  xy: 906, 360
+  size: 124, 114
+  orig: 124, 114
+  offset: 0, 0
+  index: -1
+m_redcarlos_effect01
+  rotate: false
+  xy: 686, 2
+  size: 702, 298
+  orig: 702, 298
+  offset: 0, 0
+  index: -1
+m_redcarlos_arm01
+  rotate: true
+  xy: 294, 347
+  size: 160, 173
+  orig: 160, 173
+  offset: 0, 0
+  index: -1
+m_redcarlos_groggy_head02
+  rotate: true
+  xy: 866, 363
+  size: 125, 38
+  orig: 125, 38
+  offset: 0, 0
+  index: -1
+m_redcarlos_st1
+  rotate: true
+  xy: 1411, 409
+  size: 79, 76
+  orig: 79, 76
+  offset: 0, 0
+  index: -1
+m_redcarlos_body2
+  rotate: false
+  xy: 1202, 440
+  size: 89, 54
+  orig: 89, 54
+  offset: 0, 0
+  index: -1
+m_redcarlos_foot2
+  rotate: false
+  xy: 1654, 406
+  size: 63, 51
+  orig: 63, 51
+  offset: 0, 0
+  index: -1
+m_redcarlos_f04
+  rotate: false
+  xy: 87, 474
+  size: 57, 28
+  orig: 57, 28
+  offset: 0, 0
+  index: -1
+m_redcarlos_eye01
+  rotate: false
+  xy: 987, 476
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+m_redcarlos_effect002
+  rotate: false
+  xy: 1306, 372
+  size: 83, 77
+  orig: 83, 77
+  offset: 0, 0
+  index: -1
+m_redcarlos_body5
+  rotate: false
+  xy: 906, 476
+  size: 79, 34
+  orig: 79, 34
+  offset: 0, 0
+  index: -1
+m_redcarlos_head02
+  rotate: false
+  xy: 686, 302
+  size: 184, 59
+  orig: 184, 59
+  offset: 0, 0
+  index: -1
+m_redcarlos_head01
+  rotate: false
+  xy: 1390, 215
+  size: 184, 111
+  orig: 184, 111
+  offset: 0, 0
+  index: -1
+m_redcarlos_body6
+  rotate: false
+  xy: 2, 347
+  size: 290, 125
+  orig: 290, 125
+  offset: 0, 0
+  index: -1
+m_redcarlos_effect001
+  rotate: false
+  xy: 1202, 372
+  size: 102, 66
+  orig: 102, 66
+  offset: 0, 0
+  index: -1
+m_redcarlos_leg5
+  rotate: true
+  xy: 1679, 211
+  size: 120, 40
+  orig: 120, 40
+  offset: 0, 0
+  index: -1
+m_redcarlos_wheel2
+  rotate: true
+  xy: 1356, 451
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+m_redcarlos_string
+  rotate: true
+  xy: 1114, 470
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+m_redcarlos_eye02
+  rotate: false
+  xy: 1567, 336
+  size: 84, 75
+  orig: 88, 79
+  offset: 1, 1
+  index: -1

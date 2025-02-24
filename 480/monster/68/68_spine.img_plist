@@ -1,0 +1,144 @@
+68_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_blight_groggyleg3
+  rotate: false
+  xy: 201, 447
+  size: 52, 76
+  orig: 68, 90
+  offset: 8, 9
+  index: -1
+m_blight_body5
+  rotate: true
+  xy: 2, 2
+  size: 165, 245
+  orig: 185, 265
+  offset: 7, 11
+  index: -1
+m_blight_body1
+  rotate: true
+  xy: 2, 836
+  size: 260, 124
+  orig: 278, 136
+  offset: 8, 8
+  index: -1
+m_blight_groggybody3
+  rotate: true
+  xy: 135, 1164
+  size: 71, 102
+  orig: 95, 134
+  offset: 9, 13
+  index: -1
+m_blight_leg1
+  rotate: true
+  xy: 2, 1127
+  size: 273, 66
+  orig: 285, 92
+  offset: 7, 12
+  index: -1
+m_blight_nose
+  rotate: true
+  xy: 135, 1306
+  size: 81, 73
+  orig: 107, 97
+  offset: 13, 11
+  index: -1
+m_blight_body2
+  rotate: true
+  xy: 192, 603
+  size: 260, 47
+  orig: 278, 67
+  offset: 9, 11
+  index: -1
+m_blight_groggybody4
+  rotate: true
+  xy: 2, 765
+  size: 69, 130
+  orig: 85, 140
+  offset: 6, 6
+  index: -1
+m_blight_leg2
+  rotate: false
+  xy: 201, 525
+  size: 48, 76
+  orig: 68, 80
+  offset: 12, 3
+  index: -1
+m_blight_eye
+  rotate: false
+  xy: 135, 1127
+  size: 115, 35
+  orig: 137, 53
+  offset: 11, 12
+  index: -1
+m_blight_head
+  rotate: false
+  xy: 2, 169
+  size: 217, 198
+  orig: 255, 202
+  offset: 11, 0
+  index: -1
+m_blight_groggyleg1
+  rotate: true
+  xy: 134, 765
+  size: 76, 47
+  orig: 96, 63
+  offset: 14, 6
+  index: -1
+m_blight_body3
+  rotate: true
+  xy: 2, 561
+  size: 95, 188
+  orig: 103, 198
+  offset: 1, 7
+  index: -1
+m_blight_leg3
+  rotate: false
+  xy: 201, 369
+  size: 53, 76
+  orig: 65, 90
+  offset: 6, 8
+  index: -1
+m_blight_groggybody1
+  rotate: true
+  xy: 128, 865
+  size: 260, 123
+  orig: 286, 149
+  offset: 14, 15
+  index: -1
+m_blight_mause
+  rotate: false
+  xy: 70, 1360
+  size: 63, 38
+  orig: 87, 66
+  offset: 13, 12
+  index: -1
+m_blight_groggyleg2
+  rotate: true
+  xy: 135, 1237
+  size: 67, 82
+  orig: 83, 90
+  offset: 11, 4
+  index: -1
+m_blight_body4
+  rotate: true
+  xy: 2, 658
+  size: 105, 186
+  orig: 115, 202
+  offset: 8, 9
+  index: -1
+m_blight_groggyhead
+  rotate: false
+  xy: 2, 369
+  size: 197, 190
+  orig: 255, 202
+  offset: 18, 0
+  index: -1
+m_blight_groggybody2
+  rotate: true
+  xy: 70, 1098
+  size: 260, 46
+  orig: 280, 68
+  offset: 11, 12
+  index: -1

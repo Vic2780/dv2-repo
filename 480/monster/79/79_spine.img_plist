@@ -1,0 +1,67 @@
+79_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_windele_head1
+  rotate: true
+  xy: 327, 2
+  size: 420, 322
+  orig: 470, 324
+  offset: 30, 0
+  index: -1
+m_windele_eye
+  rotate: false
+  xy: 86, 426
+  size: 146, 38
+  orig: 146, 38
+  offset: 0, 0
+  index: -1
+m_windele_groggymouth
+  rotate: false
+  xy: 2, 477
+  size: 20, 7
+  orig: 20, 7
+  offset: 0, 0
+  index: -1
+m_windele_mouth
+  rotate: false
+  xy: 86, 466
+  size: 72, 22
+  orig: 72, 22
+  offset: 0, 0
+  index: -1
+m_windele_groggyeye
+  rotate: false
+  xy: 234, 426
+  size: 151, 32
+  orig: 151, 32
+  offset: 0, 0
+  index: -1
+m_windele_groggyband
+  rotate: false
+  xy: 2, 426
+  size: 82, 49
+  orig: 82, 49
+  offset: 0, 0
+  index: -1
+m_windele_hair
+  rotate: false
+  xy: 651, 390
+  size: 185, 98
+  orig: 185, 98
+  offset: 0, 0
+  index: -1
+m_windele_head2
+  rotate: true
+  xy: 651, 2
+  size: 386, 316
+  orig: 404, 318
+  offset: 7, 0
+  index: -1
+m_windele_head3
+  rotate: true
+  xy: 2, 2
+  size: 422, 323
+  orig: 470, 325
+  offset: 18, 0
+  index: -1

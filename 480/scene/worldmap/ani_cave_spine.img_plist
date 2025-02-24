@@ -1,0 +1,18 @@
+ani_cave_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+worldmap_cave_bat02
+  rotate: false
+  xy: 82, 2
+  size: 74, 48
+  orig: 86, 84
+  offset: 6, 4
+  index: -1
+worldmap_cave_bat01
+  rotate: false
+  xy: 2, 2
+  size: 78, 58
+  orig: 86, 84
+  offset: 7, 21
+  index: -1

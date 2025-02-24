@@ -1,0 +1,39 @@
+skill_38_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skill_fortress1
+  rotate: false
+  xy: 360, 2
+  size: 200, 88
+  orig: 218, 294
+  offset: 10, 9
+  index: -1
+skill_fortress4
+  rotate: false
+  xy: 268, 2
+  size: 90, 104
+  orig: 218, 294
+  offset: 102, 146
+  index: -1
+skill_fortress2
+  rotate: false
+  xy: 2, 2
+  size: 170, 106
+  orig: 218, 294
+  offset: 27, 50
+  index: -1
+skill_fortress5
+  rotate: false
+  xy: 174, 2
+  size: 92, 104
+  orig: 218, 294
+  offset: 102, 146
+  index: -1
+skill_fortress3
+  rotate: true
+  xy: 562, 2
+  size: 74, 58
+  orig: 218, 294
+  offset: 32, 140
+  index: -1

@@ -1,0 +1,23 @@
+info face="Fontdinerdotcom Huggable" size=56 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=0,0
+common lineHeight=69 base=55 scaleW=192 scaleH=128 pages=1 packed=0
+page id=0 file="font_heal.png"
+chars count=12
+char id=32 x=1 y=116 width=0 height=0 xoffset=0 yoffset=49 xadvance=18 page=0 chnl=0
+char id=43 x=1 y=87 width=28 height=28 xoffset=2 yoffset=22 xadvance=26 page=0 chnl=0
+char id=48 x=1 y=1 width=40 height=42 xoffset=1 yoffset=14 xadvance=35 page=0 chnl=0
+char id=49 x=42 y=87 width=16 height=38 xoffset=2 yoffset=17 xadvance=14 page=0 chnl=0
+char id=50 x=42 y=44 width=34 height=42 xoffset=2 yoffset=14 xadvance=31 page=0 chnl=0
+char id=51 x=42 y=1 width=34 height=42 xoffset=-1 yoffset=15 xadvance=29 page=0 chnl=0
+char id=52 x=1 y=44 width=36 height=42 xoffset=-1 yoffset=15 xadvance=30 page=0 chnl=0
+char id=53 x=147 y=1 width=34 height=40 xoffset=0 yoffset=16 xadvance=29 page=0 chnl=0
+char id=54 x=77 y=83 width=32 height=40 xoffset=1 yoffset=16 xadvance=29 page=0 chnl=0
+char id=55 x=112 y=1 width=34 height=40 xoffset=1 yoffset=16 xadvance=29 page=0 chnl=0
+char id=56 x=77 y=1 width=34 height=40 xoffset=2 yoffset=16 xadvance=31 page=0 chnl=0
+char id=57 x=77 y=42 width=32 height=40 xoffset=1 yoffset=16 xadvance=29 page=0 chnl=0
+kernings count=6
+kerning first=57 second=50 amount=-1
+kerning first=57 second=55 amount=-1
+kerning first=50 second=52 amount=-1
+kerning first=54 second=57 amount=-1
+kerning first=55 second=52 amount=-2
+kerning first=55 second=54 amount=-1

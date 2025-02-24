@@ -1,0 +1,186 @@
+134_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_predator_groggy_wing4
+  rotate: false
+  xy: 375, 202
+  size: 282, 289
+  orig: 300, 473
+  offset: 1, 173
+  index: -1
+m_predator_groggy_leg1
+  rotate: false
+  xy: 1918, 351
+  size: 73, 93
+  orig: 95, 147
+  offset: 18, 14
+  index: -1
+m_predator_arm1
+  rotate: false
+  xy: 1876, 2
+  size: 100, 191
+  orig: 100, 191
+  offset: 0, 0
+  index: -1
+m_predator_groggy_hand
+  rotate: false
+  xy: 1535, 447
+  size: 98, 52
+  orig: 116, 68
+  offset: 2, 3
+  index: -1
+m_predator_wing1
+  rotate: true
+  xy: 1150, 232
+  size: 136, 287
+  orig: 300, 473
+  offset: 155, 0
+  index: -1
+m_predator_groggy_arm1
+  rotate: false
+  xy: 1368, 370
+  size: 64, 101
+  orig: 100, 191
+  offset: 15, 40
+  index: -1
+m_predator_groggy_wing3
+  rotate: false
+  xy: 985, 192
+  size: 163, 174
+  orig: 353, 262
+  offset: 45, 46
+  index: -1
+m_predator_head
+  rotate: true
+  xy: 1439, 266
+  size: 179, 239
+  orig: 179, 239
+  offset: 0, 0
+  index: -1
+m_predator_hand
+  rotate: false
+  xy: 1876, 195
+  size: 116, 68
+  orig: 116, 68
+  offset: 0, 0
+  index: -1
+m_predator_wing2
+  rotate: false
+  xy: 985, 368
+  size: 131, 110
+  orig: 353, 262
+  offset: 115, 45
+  index: -1
+m_predator_body
+  rotate: true
+  xy: 1154, 2
+  size: 228, 365
+  orig: 228, 365
+  offset: 0, 0
+  index: -1
+m_predator_groggy_head
+  rotate: false
+  xy: 1680, 266
+  size: 139, 169
+  orig: 179, 239
+  offset: 5, 29
+  index: -1
+m_predator_groggy_wing2
+  rotate: false
+  xy: 1521, 2
+  size: 353, 262
+  orig: 353, 262
+  offset: 0, 0
+  index: -1
+m_predator_arm3
+  rotate: true
+  xy: 1680, 437
+  size: 44, 88
+  orig: 116, 158
+  offset: 11, 70
+  index: -1
+m_predator_eye
+  rotate: false
+  xy: 1434, 447
+  size: 99, 51
+  orig: 179, 239
+  offset: 31, 51
+  index: -1
+m_predator_groggy_tail2
+  rotate: false
+  xy: 614, 2
+  size: 538, 188
+  orig: 610, 198
+  offset: 33, 10
+  index: -1
+m_predator_leg2
+  rotate: true
+  xy: 1118, 370
+  size: 104, 128
+  orig: 104, 128
+  offset: 0, 0
+  index: -1
+m_predator_tail1
+  rotate: false
+  xy: 659, 192
+  size: 324, 188
+  orig: 324, 188
+  offset: 0, 0
+  index: -1
+m_predator_groggy_wing1
+  rotate: true
+  xy: 2, 202
+  size: 300, 371
+  orig: 300, 473
+  offset: 0, 102
+  index: -1
+m_predator_arm2
+  rotate: true
+  xy: 811, 382
+  size: 116, 146
+  orig: 116, 158
+  offset: 0, 0
+  index: -1
+m_predator_groggy_leg2
+  rotate: false
+  xy: 1918, 265
+  size: 82, 84
+  orig: 104, 128
+  offset: 19, 0
+  index: -1
+m_predator_groggy_body
+  rotate: false
+  xy: 1248, 370
+  size: 118, 105
+  orig: 228, 365
+  offset: 44, 16
+  index: -1
+m_predator_groggy_tail1
+  rotate: true
+  xy: 659, 382
+  size: 120, 150
+  orig: 324, 188
+  offset: 179, 7
+  index: -1
+m_predator_leg1
+  rotate: false
+  xy: 1821, 266
+  size: 95, 147
+  orig: 95, 147
+  offset: 0, 0
+  index: -1
+m_predator_groggy_arm2
+  rotate: true
+  xy: 1821, 415
+  size: 62, 90
+  orig: 116, 158
+  offset: 16, 25
+  index: -1
+m_predator_tail2
+  rotate: false
+  xy: 2, 2
+  size: 610, 198
+  orig: 610, 198
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,214 @@
+5_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_eforest_arm3
+  rotate: false
+  xy: 755, 1007
+  size: 77, 59
+  orig: 89, 81
+  offset: 11, 11
+  index: -1
+m_eforest_groggyarm2
+  rotate: false
+  xy: 571, 989
+  size: 81, 81
+  orig: 83, 83
+  offset: 2, 2
+  index: -1
+m_eforest_groggyhead12
+  rotate: false
+  xy: 228, 780
+  size: 198, 186
+  orig: 198, 186
+  offset: 0, 0
+  index: -1
+m_eforest_body3
+  rotate: false
+  xy: 2, 240
+  size: 581, 213
+  orig: 599, 269
+  offset: 18, 0
+  index: -1
+m_eforest_groggyeye
+  rotate: true
+  xy: 503, 845
+  size: 77, 19
+  orig: 97, 47
+  offset: 11, 11
+  index: -1
+m_eforest_groggytail12
+  rotate: true
+  xy: 790, 657
+  size: 182, 161
+  orig: 182, 167
+  offset: 0, 3
+  index: -1
+m_eforest_groggyhair12
+  rotate: false
+  xy: 228, 1044
+  size: 62, 34
+  orig: 62, 42
+  offset: 0, 5
+  index: -1
+m_eforest_groggybody4
+  rotate: false
+  xy: 428, 780
+  size: 109, 63
+  orig: 113, 73
+  offset: 2, 5
+  index: -1
+m_eforest_arm4
+  rotate: false
+  xy: 654, 989
+  size: 99, 55
+  orig: 113, 69
+  offset: 11, 0
+  index: -1
+m_eforest_groggyarm11
+  rotate: false
+  xy: 805, 841
+  size: 170, 164
+  orig: 174, 178
+  offset: 4, 14
+  index: -1
+m_eforest_groggyhead11
+  rotate: true
+  xy: 2, 770
+  size: 304, 224
+  orig: 304, 236
+  offset: 0, 12
+  index: -1
+m_eforest_body2
+  rotate: false
+  xy: 2, 2
+  size: 900, 236
+  orig: 944, 236
+  offset: 38, 0
+  index: -1
+m_eforest_groggytail11
+  rotate: true
+  xy: 904, 2
+  size: 198, 108
+  orig: 200, 110
+  offset: 2, 2
+  index: -1
+m_eforest_head11
+  rotate: true
+  xy: 299, 455
+  size: 323, 239
+  orig: 323, 239
+  offset: 0, 0
+  index: -1
+m_eforest_arm12
+  rotate: false
+  xy: 428, 939
+  size: 141, 139
+  orig: 141, 139
+  offset: 0, 0
+  index: -1
+m_eforest_groggybody1
+  rotate: false
+  xy: 428, 845
+  size: 73, 92
+  orig: 75, 94
+  offset: 1, 0
+  index: -1
+m_eforest_hair12
+  rotate: false
+  xy: 754, 397
+  size: 215, 182
+  orig: 215, 182
+  offset: 0, 0
+  index: -1
+m_eforest_body1
+  rotate: false
+  xy: 603, 397
+  size: 149, 264
+  orig: 167, 278
+  offset: 6, 5
+  index: -1
+m_eforest_head12
+  rotate: true
+  xy: 603, 663
+  size: 200, 185
+  orig: 202, 185
+  offset: 2, 0
+  index: -1
+m_eforest_eye
+  rotate: false
+  xy: 904, 202
+  size: 85, 33
+  orig: 97, 47
+  offset: 8, 9
+  index: -1
+m_eforest_tail11
+  rotate: false
+  xy: 603, 865
+  size: 200, 122
+  orig: 206, 122
+  offset: 2, 0
+  index: -1
+m_eforest_groggybody2
+  rotate: true
+  xy: 540, 455
+  size: 455, 61
+  orig: 455, 71
+  offset: 0, 10
+  index: -1
+m_eforest_arm11
+  rotate: false
+  xy: 959, 581
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+m_eforest_groggyarm3
+  rotate: false
+  xy: 411, 968
+  size: 15, 16
+  orig: 23, 22
+  offset: 4, 5
+  index: -1
+m_eforest_arm2
+  rotate: true
+  xy: 971, 397
+  size: 96, 47
+  orig: 102, 61
+  offset: 5, 6
+  index: -1
+m_eforest_hair13
+  rotate: false
+  xy: 754, 581
+  size: 203, 74
+  orig: 203, 74
+  offset: 0, 0
+  index: -1
+m_eforest_body4
+  rotate: false
+  xy: 585, 240
+  size: 424, 155
+  orig: 450, 173
+  offset: 6, 1
+  index: -1
+m_eforest_groggyhair13
+  rotate: false
+  xy: 228, 968
+  size: 181, 74
+  orig: 181, 74
+  offset: 0, 0
+  index: -1
+m_eforest_tail12
+  rotate: false
+  xy: 2, 455
+  size: 295, 313
+  orig: 295, 317
+  offset: 0, 0
+  index: -1
+m_eforest_groggybody3
+  rotate: true
+  xy: 953, 657
+  size: 134, 69
+  orig: 134, 71
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,165 @@
+95_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_Butcherromo_leg3
+  rotate: true
+  xy: 386, 539
+  size: 85, 328
+  orig: 85, 328
+  offset: 0, 0
+  index: -1
+m_Butcherromo_body_j
+  rotate: false
+  xy: 719, 442
+  size: 302, 101
+  orig: 302, 105
+  offset: 0, 4
+  index: -1
+m_Butcherromo_ston3
+  rotate: false
+  xy: 631, 941
+  size: 46, 65
+  orig: 46, 65
+  offset: 0, 0
+  index: -1
+m_Butcherromo_groggy_ston
+  rotate: true
+  xy: 582, 834
+  size: 56, 119
+  orig: 56, 119
+  offset: 0, 0
+  index: -1
+m_Butcherromo_groggy_head2
+  rotate: false
+  xy: 532, 421
+  size: 185, 116
+  orig: 185, 116
+  offset: 0, 0
+  index: -1
+m_Butcherromo_groggy_leg2
+  rotate: false
+  xy: 198, 2
+  size: 180, 419
+  orig: 180, 419
+  offset: 0, 0
+  index: -1
+m_Butcherromo_j1
+  rotate: false
+  xy: 532, 834
+  size: 48, 89
+  orig: 48, 89
+  offset: 0, 0
+  index: -1
+m_Butcherromo_ston4
+  rotate: false
+  xy: 244, 995
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+m_Butcherromo_head1
+  rotate: false
+  xy: 738, 2
+  size: 276, 258
+  orig: 276, 258
+  offset: 0, 0
+  index: -1
+m_Butcherromo_groggy_body
+  rotate: true
+  xy: 716, 545
+  size: 380, 306
+  orig: 380, 306
+  offset: 0, 0
+  index: -1
+m_Butcherromo_eye
+  rotate: false
+  xy: 386, 421
+  size: 107, 111
+  orig: 107, 111
+  offset: 0, 0
+  index: -1
+m_Butcherromo_leg1
+  rotate: false
+  xy: 2, 862
+  size: 150, 158
+  orig: 150, 158
+  offset: 0, 0
+  index: -1
+m_Butcherromo_body
+  rotate: true
+  xy: 380, 2
+  size: 417, 356
+  orig: 417, 356
+  offset: 0, 0
+  index: -1
+m_Butcherromo_smok
+  rotate: false
+  xy: 244, 862
+  size: 286, 131
+  orig: 288, 131
+  offset: 2, 0
+  index: -1
+m_Butcherromo_ston5
+  rotate: false
+  xy: 532, 927
+  size: 97, 95
+  orig: 97, 95
+  offset: 0, 0
+  index: -1
+m_Butcherromo_head2
+  rotate: false
+  xy: 738, 262
+  size: 251, 178
+  orig: 251, 178
+  offset: 0, 0
+  index: -1
+m_Butcherromo_groggy_ston5
+  rotate: false
+  xy: 631, 626
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+m_Butcherromo_leg2
+  rotate: false
+  xy: 2, 2
+  size: 194, 434
+  orig: 194, 434
+  offset: 0, 0
+  index: -1
+m_Butcherromo_ston
+  rotate: false
+  xy: 154, 862
+  size: 88, 141
+  orig: 88, 141
+  offset: 0, 0
+  index: -1
+m_Butcherromo_body_effect
+  rotate: true
+  xy: 2, 438
+  size: 422, 382
+  orig: 430, 386
+  offset: 0, 0
+  index: -1
+m_Butcherromo_ston2
+  rotate: true
+  xy: 631, 705
+  size: 39, 76
+  orig: 39, 76
+  offset: 0, 0
+  index: -1
+m_Butcherromo_leg_j3
+  rotate: true
+  xy: 631, 892
+  size: 47, 67
+  orig: 47, 67
+  offset: 0, 0
+  index: -1
+m_Butcherromo_groggy_head1
+  rotate: true
+  xy: 386, 626
+  size: 206, 240
+  orig: 206, 240
+  offset: 0, 0
+  index: -1

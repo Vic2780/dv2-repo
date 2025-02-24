@@ -1,0 +1,291 @@
+166_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_gimomo_body222
+  rotate: true
+  xy: 144, 1081
+  size: 94, 55
+  orig: 94, 55
+  offset: 0, 0
+  index: -1
+m_gimomo_teeth2_p
+  rotate: false
+  xy: 153, 959
+  size: 44, 35
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+m_gimomo_leg33
+  rotate: true
+  xy: 124, 1743
+  size: 89, 72
+  orig: 89, 72
+  offset: 0, 0
+  index: -1
+m_gimomo_leg2
+  rotate: true
+  xy: 2, 331
+  size: 96, 191
+  orig: 96, 191
+  offset: 0, 0
+  index: -1
+m_gimomo_eye
+  rotate: false
+  xy: 177, 691
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+m_gimomo_gro_head
+  rotate: true
+  xy: 2, 1604
+  size: 218, 120
+  orig: 218, 212
+  offset: 0, 92
+  index: -1
+m_gimomo_head
+  rotate: true
+  xy: 2, 2
+  size: 218, 198
+  orig: 218, 212
+  offset: 0, 0
+  index: -1
+m_gimomo_gro_eye
+  rotate: false
+  xy: 2, 857
+  size: 162, 42
+  orig: 218, 212
+  offset: 26, 44
+  index: -1
+m_gimomo_gro_leg1
+  rotate: true
+  xy: 2, 1312
+  size: 48, 137
+  orig: 140, 249
+  offset: 5, 93
+  index: -1
+m_gimomo_gro_body1
+  rotate: true
+  xy: 134, 1547
+  size: 130, 66
+  orig: 130, 104
+  offset: 0, 3
+  index: -1
+m_gimomo_leg11
+  rotate: true
+  xy: 2, 1901
+  size: 77, 36
+  orig: 77, 36
+  offset: 0, 0
+  index: -1
+m_gimomo_foot2
+  rotate: false
+  xy: 153, 901
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+m_gimomo_gro_body22
+  rotate: false
+  xy: 2, 1824
+  size: 99, 35
+  orig: 131, 71
+  offset: 8, 2
+  index: -1
+m_gimomo_eff
+  rotate: true
+  xy: 2, 1362
+  size: 61, 135
+  orig: 63, 137
+  offset: 0, 2
+  index: -1
+m_gimomo_leg111
+  rotate: false
+  xy: 147, 1039
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+m_gimomo_body2
+  rotate: false
+  xy: 2, 660
+  size: 173, 119
+  orig: 191, 119
+  offset: 10, 0
+  index: -1
+m_gimomo_acc2
+  rotate: true
+  xy: 141, 1327
+  size: 97, 57
+  orig: 97, 57
+  offset: 0, 0
+  index: -1
+m_gimomo_wing_p
+  rotate: false
+  xy: 2, 781
+  size: 165, 74
+  orig: 281, 194
+  offset: 0, 0
+  index: -1
+m_gimomo_gro2_leg1
+  rotate: true
+  xy: 2, 971
+  size: 88, 143
+  orig: 88, 143
+  offset: 0, 0
+  index: -1
+m_gimomo_gro_foot
+  rotate: false
+  xy: 169, 781
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+m_gimomo_teeth2
+  rotate: false
+  xy: 40, 1967
+  size: 42, 35
+  orig: 44, 47
+  offset: 0, 12
+  index: -1
+m_gimomo_leg1
+  rotate: false
+  xy: 2, 1061
+  size: 140, 249
+  orig: 140, 249
+  offset: 0, 0
+  index: -1
+m_gimomo_leg22
+  rotate: false
+  xy: 124, 1679
+  size: 76, 62
+  orig: 76, 62
+  offset: 0, 0
+  index: -1
+m_gimomo_gro_leg3
+  rotate: true
+  xy: 122, 1919
+  size: 43, 57
+  orig: 65, 119
+  offset: 6, 53
+  index: -1
+m_gimomo_gro_head2
+  rotate: true
+  xy: 2, 1861
+  size: 38, 88
+  orig: 38, 88
+  offset: 0, 0
+  index: -1
+m_gimomo_leg3
+  rotate: false
+  xy: 135, 1426
+  size: 65, 119
+  orig: 65, 119
+  offset: 0, 0
+  index: -1
+m_gimomo_eye_eff
+  rotate: false
+  xy: 144, 1275
+  size: 50, 50
+  orig: 66, 64
+  offset: 7, 7
+  index: -1
+m_gimomo_foot1
+  rotate: false
+  xy: 40, 1901
+  size: 40, 64
+  orig: 40, 64
+  offset: 0, 0
+  index: -1
+m_gimomo_gro_band
+  rotate: true
+  xy: 177, 660
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+m_gimomo_foot3
+  rotate: true
+  xy: 147, 996
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+m_gimomo_acc4
+  rotate: false
+  xy: 2, 901
+  size: 149, 68
+  orig: 149, 68
+  offset: 0, 0
+  index: -1
+m_gimomo_gro_body2
+  rotate: false
+  xy: 2, 222
+  size: 191, 107
+  orig: 191, 119
+  offset: 0, 3
+  index: -1
+m_gimomo_body1
+  rotate: false
+  xy: 2, 1498
+  size: 130, 104
+  orig: 130, 104
+  offset: 0, 0
+  index: -1
+m_gimomo_leg222
+  rotate: false
+  xy: 103, 1834
+  size: 93, 39
+  orig: 93, 39
+  offset: 0, 0
+  index: -1
+m_gimomo_acc1
+  rotate: true
+  xy: 122, 1875
+  size: 42, 62
+  orig: 42, 62
+  offset: 0, 0
+  index: -1
+m_gimomo_teeth1
+  rotate: true
+  xy: 82, 1901
+  size: 63, 38
+  orig: 63, 38
+  offset: 0, 0
+  index: -1
+m_gimomo_acc3
+  rotate: false
+  xy: 144, 1177
+  size: 50, 96
+  orig: 50, 96
+  offset: 0, 0
+  index: -1
+m_gimomo_wing
+  rotate: true
+  xy: 2, 429
+  size: 229, 184
+  orig: 281, 194
+  offset: 52, 10
+  index: -1
+m_gimomo_teeth3
+  rotate: false
+  xy: 122, 1964
+  size: 57, 40
+  orig: 57, 40
+  offset: 0, 0
+  index: -1
+m_gimomo_gro_teeth2
+  rotate: false
+  xy: 166, 857
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+m_gimomo_body22
+  rotate: false
+  xy: 2, 1425
+  size: 131, 71
+  orig: 131, 71
+  offset: 0, 0
+  index: -1

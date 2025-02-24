@@ -1,0 +1,347 @@
+dragon_24_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_swamp_adult_leg3
+  rotate: false
+  xy: 179, 1237
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+dragon_swamp_child_neck
+  rotate: false
+  xy: 140, 556
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+dragon_swamp_critical2
+  rotate: true
+  xy: 2, 316
+  size: 314, 136
+  orig: 344, 188
+  offset: 30, 9
+  index: -1
+dragon_swamp_adult_wing2
+  rotate: false
+  xy: 2, 1090
+  size: 140, 98
+  orig: 140, 98
+  offset: 0, 0
+  index: -1
+dragon_swamp_baby_head
+  rotate: false
+  xy: 88, 1474
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+dragon_swamp_adult_neck
+  rotate: true
+  xy: 146, 263
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+dragon_swamp_baby_tail
+  rotate: true
+  xy: 158, 1399
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+dragon_swamp_adult_attack
+  rotate: false
+  xy: 140, 514
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+dragon_swamp_child_arm4
+  rotate: true
+  xy: 169, 882
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+dragon_swamp_baby_effect
+  rotate: false
+  xy: 144, 1090
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_swamp_adult_arm1
+  rotate: false
+  xy: 146, 182
+  size: 44, 79
+  orig: 44, 79
+  offset: 0, 0
+  index: -1
+dragon_swamp_baby_body
+  rotate: true
+  xy: 101, 1596
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+dragon_swamp_child_arm1
+  rotate: false
+  xy: 169, 925
+  size: 29, 68
+  orig: 29, 68
+  offset: 0, 0
+  index: -1
+dragon_swamp_baby_arm
+  rotate: true
+  xy: 169, 599
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+dragon_swamp_adult_sand1
+  rotate: false
+  xy: 146, 2
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+dragon_swamp_adult_arm3
+  rotate: true
+  xy: 167, 1316
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+dragon_swamp_child_love
+  rotate: true
+  xy: 101, 1529
+  size: 65, 60
+  orig: 65, 60
+  offset: 0, 0
+  index: -1
+dragon_swamp_child_leg1
+  rotate: true
+  xy: 163, 1505
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+dragon_swamp_baby_leg
+  rotate: true
+  xy: 167, 1368
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+dragon_swamp_child_tail
+  rotate: true
+  xy: 146, 71
+  size: 109, 53
+  orig: 109, 53
+  offset: 0, 0
+  index: -1
+dragon_swamp_adult_wing1
+  rotate: false
+  xy: 2, 1190
+  size: 140, 98
+  orig: 140, 98
+  offset: 0, 0
+  index: -1
+dragon_swamp_critical3
+  rotate: true
+  xy: 2, 882
+  size: 206, 165
+  orig: 252, 227
+  offset: 25, 34
+  index: -1
+dragon_swamp_child_eye
+  rotate: false
+  xy: 163, 1553
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+dragon_swamp_child_arm2
+  rotate: false
+  xy: 167, 1277
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+dragon_swamp_adult_damaged
+  rotate: false
+  xy: 140, 472
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+dragon_swamp_adult_leg2
+  rotate: true
+  xy: 140, 599
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+dragon_swamp_critical1
+  rotate: true
+  xy: 2, 2
+  size: 312, 142
+  orig: 344, 188
+  offset: 30, 7
+  index: -1
+dragon_swamp_child_mouth
+  rotate: true
+  xy: 190, 263
+  size: 32, 11
+  orig: 32, 11
+  offset: 0, 0
+  index: -1
+dragon_swamp_adult_tail
+  rotate: false
+  xy: 2, 1290
+  size: 73, 125
+  orig: 73, 125
+  offset: 0, 0
+  index: -1
+dragon_swamp_child_leg2
+  rotate: false
+  xy: 179, 1207
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+dragon_swamp_child_effect2
+  rotate: true
+  xy: 158, 1436
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_swamp_critical4
+  rotate: true
+  xy: 2, 632
+  size: 248, 199
+  orig: 252, 227
+  offset: 1, 24
+  index: -1
+dragon_swamp_baby_love
+  rotate: false
+  xy: 144, 1152
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+dragon_swamp_adult_love
+  rotate: false
+  xy: 140, 388
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+dragon_swamp_adult_eye
+  rotate: true
+  xy: 193, 1316
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+dragon_swamp_child_body
+  rotate: false
+  xy: 88, 1399
+  size: 68, 73
+  orig: 68, 73
+  offset: 0, 0
+  index: -1
+dragon_swamp_child_wing
+  rotate: false
+  xy: 2, 1417
+  size: 84, 111
+  orig: 84, 111
+  offset: 0, 0
+  index: -1
+dragon_swamp_adult_head
+  rotate: false
+  xy: 140, 430
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+dragon_swamp_child_head
+  rotate: true
+  xy: 140, 321
+  size: 65, 60
+  orig: 65, 60
+  offset: 0, 0
+  index: -1
+dragon_swamp_adult_leg4
+  rotate: true
+  xy: 140, 1474
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+dragon_swamp_child_effect1
+  rotate: true
+  xy: 163, 1473
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_swamp_adult_mouth
+  rotate: true
+  xy: 169, 1049
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+dragon_swamp_adult_arm2
+  rotate: false
+  xy: 147, 1596
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+dragon_swamp_adult_leg1
+  rotate: false
+  xy: 169, 995
+  size: 28, 52
+  orig: 28, 52
+  offset: 0, 0
+  index: -1
+dragon_swamp_adult_body
+  rotate: true
+  xy: 2, 1530
+  size: 98, 97
+  orig: 98, 97
+  offset: 0, 0
+  index: -1
+dragon_swamp_baby_mouth
+  rotate: true
+  xy: 186, 556
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+dragon_swamp_child_arm3
+  rotate: false
+  xy: 144, 1207
+  size: 33, 68
+  orig: 33, 68
+  offset: 0, 0
+  index: -1
+dragon_swamp_baby_eye
+  rotate: false
+  xy: 163, 1531
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_swamp_adult_sand2
+  rotate: false
+  xy: 77, 1290
+  size: 88, 107
+  orig: 88, 107
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,74 @@
+ani_sea_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+worldmap_sea_dust02
+  rotate: false
+  xy: 698, 185
+  size: 39, 5
+  orig: 53, 25
+  offset: 7, 11
+  index: -1
+worldmap_sea_dust01
+  rotate: true
+  xy: 744, 157
+  size: 33, 6
+  orig: 45, 26
+  offset: 5, 11
+  index: -1
+worldmap_sea_dust0002
+  rotate: true
+  xy: 765, 108
+  size: 119, 7
+  orig: 149, 55
+  offset: 17, 18
+  index: -1
+worldmap_sea_dust03
+  rotate: true
+  xy: 752, 108
+  size: 64, 11
+  orig: 112, 39
+  offset: 20, 13
+  index: -1
+worldmap_sea_nesttttttt
+  rotate: false
+  xy: 350, 2
+  size: 346, 231
+  orig: 350, 245
+  offset: 4, 14
+  index: -1
+worldmap_sea_nest
+  rotate: false
+  xy: 2, 2
+  size: 346, 233
+  orig: 350, 245
+  offset: 4, 12
+  index: -1
+worldmap_sea_wave02
+  rotate: true
+  xy: 752, 2
+  size: 104, 23
+  orig: 142, 77
+  offset: 21, 17
+  index: -1
+worldmap_sea_dust0001
+  rotate: true
+  xy: 774, 108
+  size: 119, 7
+  orig: 147, 47
+  offset: 11, 18
+  index: -1
+worldmap_sea_dust00002
+  rotate: true
+  xy: 744, 2
+  size: 153, 6
+  orig: 203, 70
+  offset: 24, 30
+  index: -1
+worldmap_sea_wave01
+  rotate: true
+  xy: 698, 2
+  size: 181, 44
+  orig: 209, 128
+  offset: 12, 33
+  index: -1

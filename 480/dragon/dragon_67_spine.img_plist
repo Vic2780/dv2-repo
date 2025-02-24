@@ -1,0 +1,410 @@
+dragon_67_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_snakedragon_adult_angry2
+  rotate: true
+  xy: 109, 1031
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_critical_damaged5
+  rotate: false
+  xy: 2, 478
+  size: 112, 113
+  orig: 122, 113
+  offset: 10, 0
+  index: -1
+dragon_snakedragon_adult_eye2
+  rotate: false
+  xy: 109, 1047
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_baby_head
+  rotate: true
+  xy: 64, 1219
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_adult_eye1
+  rotate: true
+  xy: 113, 1061
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_adult_neck
+  rotate: false
+  xy: 71, 1470
+  size: 53, 85
+  orig: 53, 85
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_child_head
+  rotate: false
+  xy: 80, 634
+  size: 45, 64
+  orig: 45, 64
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_critical_bubble3
+  rotate: false
+  xy: 2, 819
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_child_body2
+  rotate: true
+  xy: 2, 1299
+  size: 87, 68
+  orig: 87, 68
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_adult_tailhead_eye2
+  rotate: true
+  xy: 64, 1280
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_adult_angry1
+  rotate: false
+  xy: 115, 935
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_adult_leg6
+  rotate: true
+  xy: 70, 1443
+  size: 25, 56
+  orig: 25, 56
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_adult_eye3
+  rotate: false
+  xy: 116, 490
+  size: 10, 10
+  orig: 16, 12
+  offset: 3, 1
+  index: -1
+dragon_snakedragon_adult_mouse
+  rotate: true
+  xy: 93, 1001
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_child_leg4
+  rotate: false
+  xy: 93, 810
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_child_body1
+  rotate: true
+  xy: 2, 1204
+  size: 93, 60
+  orig: 93, 60
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_adult_tail
+  rotate: true
+  xy: 2, 1388
+  size: 86, 66
+  orig: 86, 68
+  offset: 0, 2
+  index: -1
+dragon_snakedragon_baby_body2
+  rotate: true
+  xy: 2, 1476
+  size: 81, 67
+  orig: 81, 67
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_baby_tail
+  rotate: false
+  xy: 90, 761
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_adult_leg7
+  rotate: true
+  xy: 107, 125
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_adult_eye4
+  rotate: true
+  xy: 116, 474
+  size: 14, 10
+  orig: 16, 12
+  offset: 1, 1
+  index: -1
+dragon_snakedragon_adult_wing
+  rotate: true
+  xy: 2, 714
+  size: 103, 86
+  orig: 103, 86
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_child_neck
+  rotate: false
+  xy: 90, 382
+  size: 30, 68
+  orig: 30, 68
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_adult_leg2
+  rotate: false
+  xy: 90, 700
+  size: 26, 59
+  orig: 26, 59
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_adult_heart
+  rotate: false
+  xy: 80, 593
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_child_eye2
+  rotate: true
+  xy: 90, 452
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_adult_head2
+  rotate: false
+  xy: 63, 1559
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_baby_mouse
+  rotate: true
+  xy: 107, 85
+  size: 38, 14
+  orig: 38, 14
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_adult_leg1
+  rotate: false
+  xy: 88, 1602
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_adult_body
+  rotate: true
+  xy: 2, 593
+  size: 119, 76
+  orig: 119, 76
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_child_tail
+  rotate: true
+  xy: 69, 1092
+  size: 74, 54
+  orig: 74, 54
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_adult_tailheadmouse
+  rotate: true
+  xy: 118, 700
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_adult_head
+  rotate: true
+  xy: 72, 1280
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_child_leg2
+  rotate: false
+  xy: 72, 1345
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_adult_leg3
+  rotate: true
+  xy: 93, 1031
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_critical_damaged2
+  rotate: false
+  xy: 2, 170
+  size: 109, 158
+  orig: 109, 158
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_child_eye3
+  rotate: false
+  xy: 107, 33
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_baby_leg2
+  rotate: false
+  xy: 93, 857
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_child_wing
+  rotate: true
+  xy: 70, 1388
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_critical_damaged1
+  rotate: false
+  xy: 2, 330
+  size: 86, 146
+  orig: 92, 146
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_baby_leg1
+  rotate: true
+  xy: 69, 1168
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_critical_bubble2
+  rotate: false
+  xy: 2, 910
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_baby_body
+  rotate: true
+  xy: 2, 1559
+  size: 81, 59
+  orig: 81, 59
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_child_eye1
+  rotate: false
+  xy: 93, 969
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_child_leg3
+  rotate: false
+  xy: 63, 1602
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_adult_tailhead_eye1
+  rotate: false
+  xy: 80, 700
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_adult_leg4
+  rotate: false
+  xy: 90, 330
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_critical_damaged3
+  rotate: false
+  xy: 2, 1092
+  size: 65, 110
+  orig: 65, 110
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_baby_eye2
+  rotate: false
+  xy: 100, 1367
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_child_heart
+  rotate: false
+  xy: 80, 593
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_child_mouse
+  rotate: false
+  xy: 93, 898
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_baby_eye1
+  rotate: true
+  xy: 93, 1063
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_child_leg1
+  rotate: false
+  xy: 93, 935
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_adult_tailhead
+  rotate: false
+  xy: 100, 1345
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_critical_bubble1
+  rotate: false
+  xy: 2, 1001
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_adult_leg5
+  rotate: true
+  xy: 107, 2
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_critical_damaged4
+  rotate: false
+  xy: 2, 2
+  size: 103, 166
+  orig: 103, 166
+  offset: 0, 0
+  index: -1
+dragon_snakedragon_baby_eye3
+  rotate: true
+  xy: 107, 63
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1

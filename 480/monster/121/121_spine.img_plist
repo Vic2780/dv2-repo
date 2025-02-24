@@ -1,0 +1,158 @@
+121_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_witch_groggy_body
+  rotate: false
+  xy: 1233, 347
+  size: 40, 21
+  orig: 152, 199
+  offset: 66, 110
+  index: -1
+m_witch_groggy_eye
+  rotate: true
+  xy: 1296, 327
+  size: 96, 52
+  orig: 230, 236
+  offset: 56, 72
+  index: -1
+m_witch_wing2
+  rotate: true
+  xy: 867, 2
+  size: 323, 270
+  orig: 323, 270
+  offset: 0, 0
+  index: -1
+m_witch_leg
+  rotate: false
+  xy: 1411, 238
+  size: 315, 167
+  orig: 323, 167
+  offset: 5, 0
+  index: -1
+m_witch_groggy_tail
+  rotate: true
+  xy: 880, 327
+  size: 96, 203
+  orig: 344, 275
+  offset: 180, 61
+  index: -1
+m_witch_light
+  rotate: true
+  xy: 790, 344
+  size: 86, 88
+  orig: 230, 236
+  offset: 144, 64
+  index: -1
+m_witch_arm3
+  rotate: true
+  xy: 1085, 373
+  size: 45, 113
+  orig: 45, 115
+  offset: 0, 2
+  index: -1
+m_witch_groggy_wing2
+  rotate: true
+  xy: 1139, 2
+  size: 323, 270
+  orig: 323, 270
+  offset: 0, 0
+  index: -1
+m_witch_body
+  rotate: false
+  xy: 1867, 2
+  size: 150, 199
+  orig: 152, 199
+  offset: 2, 0
+  index: -1
+m_witch_groggy_neck
+  rotate: true
+  xy: 1886, 203
+  size: 166, 130
+  orig: 194, 158
+  offset: 6, 16
+  index: -1
+m_witch_eye
+  rotate: false
+  xy: 1200, 373
+  size: 94, 54
+  orig: 230, 236
+  offset: 58, 74
+  index: -1
+m_witch_wing1
+  rotate: false
+  xy: 2, 2
+  size: 292, 425
+  orig: 292, 427
+  offset: 0, 2
+  index: -1
+m_witch_groggy_leg
+  rotate: false
+  xy: 590, 344
+  size: 105, 85
+  orig: 323, 167
+  offset: 192, 59
+  index: -1
+m_witch_groggy_arm1
+  rotate: false
+  xy: 1233, 327
+  size: 51, 18
+  orig: 71, 56
+  offset: 11, 27
+  index: -1
+m_witch_head
+  rotate: false
+  xy: 1411, 2
+  size: 230, 234
+  orig: 230, 236
+  offset: 0, 2
+  index: -1
+m_witch_arm2
+  rotate: true
+  xy: 1085, 327
+  size: 44, 146
+  orig: 44, 146
+  offset: 0, 0
+  index: -1
+m_witch_hand
+  rotate: false
+  xy: 697, 344
+  size: 91, 85
+  orig: 91, 85
+  offset: 0, 0
+  index: -1
+m_witch_tail
+  rotate: true
+  xy: 590, 2
+  size: 340, 275
+  orig: 344, 275
+  offset: 4, 0
+  index: -1
+m_witch_arm1
+  rotate: true
+  xy: 1350, 327
+  size: 71, 56
+  orig: 71, 56
+  offset: 0, 0
+  index: -1
+m_witch_neck
+  rotate: true
+  xy: 1728, 234
+  size: 194, 156
+  orig: 194, 158
+  offset: 0, 2
+  index: -1
+m_witch_groggy_wing1
+  rotate: false
+  xy: 296, 2
+  size: 292, 425
+  orig: 292, 427
+  offset: 0, 2
+  index: -1
+m_witch_groggy_head
+  rotate: true
+  xy: 1643, 2
+  size: 230, 222
+  orig: 230, 236
+  offset: 0, 3
+  index: -1

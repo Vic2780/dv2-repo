@@ -1,0 +1,606 @@
+dragon_66_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_darkfrosty_baby_body
+  rotate: false
+  xy: 879, 974
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_baby_leg1
+  rotate: true
+  xy: 1138, 979
+  size: 14, 33
+  orig: 14, 33
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_wing2_eff
+  rotate: false
+  xy: 552, 635
+  size: 123, 149
+  orig: 123, 149
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_cri_eff0
+  rotate: false
+  xy: 681, 311
+  size: 269, 269
+  orig: 283, 285
+  offset: 10, 8
+  index: -1
+dragon_darkfrosty_adult_leg1
+  rotate: false
+  xy: 982, 981
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_child_mouse
+  rotate: true
+  xy: 1334, 985
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_child_eye1
+  rotate: false
+  xy: 1206, 1005
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_cri_cc
+  rotate: false
+  xy: 1273, 875
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_critical_twist1
+  rotate: false
+  xy: 1078, 762
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_adult_leg4
+  rotate: true
+  xy: 796, 986
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_baby_smile
+  rotate: false
+  xy: 1173, 882
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_baby_eye3
+  rotate: false
+  xy: 1198, 862
+  size: 25, 18
+  orig: 25, 20
+  offset: 0, 2
+  index: -1
+dragon_darkfrosty_child_head2
+  rotate: false
+  xy: 1173, 944
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_child_leg3
+  rotate: true
+  xy: 1335, 875
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_critical_twist4
+  rotate: true
+  xy: 541, 786
+  size: 193, 192
+  orig: 193, 194
+  offset: 0, 1
+  index: -1
+dragon_darkfrosty_e_wing5
+  rotate: false
+  xy: 681, 582
+  size: 239, 145
+  orig: 239, 145
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_neck_p
+  rotate: false
+  xy: 270, 959
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_adult_wing3
+  rotate: false
+  xy: 938, 892
+  size: 116, 87
+  orig: 116, 87
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_cri_sp1
+  rotate: false
+  xy: 638, 2
+  size: 307, 307
+  orig: 309, 307
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_adult_head3
+  rotate: false
+  xy: 598, 981
+  size: 59, 39
+  orig: 59, 39
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_wing_p
+  rotate: false
+  xy: 1068, 963
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_head_p
+  rotate: true
+  xy: 1291, 937
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_e_leg2
+  rotate: false
+  xy: 720, 986
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_baby_leg4
+  rotate: true
+  xy: 30, 1003
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_child_wing1
+  rotate: true
+  xy: 1282, 817
+  size: 56, 74
+  orig: 56, 74
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_baby_eye2
+  rotate: true
+  xy: 1223, 259
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_cri_eff1
+  rotate: false
+  xy: 947, 2
+  size: 296, 255
+  orig: 296, 255
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_child_leg2
+  rotate: true
+  xy: 1337, 54
+  size: 62, 26
+  orig: 62, 26
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_adult_wing4
+  rotate: true
+  xy: 1223, 470
+  size: 95, 131
+  orig: 95, 131
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_cri_cc2
+  rotate: false
+  xy: 948, 762
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_e_wing2
+  rotate: false
+  xy: 1223, 310
+  size: 130, 158
+  orig: 130, 158
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_child_neck
+  rotate: true
+  xy: 541, 981
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_foot_eff
+  rotate: false
+  xy: 1337, 937
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_baby_eye1
+  rotate: false
+  xy: 1335, 915
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_adult_leg3
+  rotate: true
+  xy: 922, 582
+  size: 50, 28
+  orig: 50, 28
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_child_wing2
+  rotate: false
+  xy: 1107, 882
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_body_eff
+  rotate: false
+  xy: 1172, 1005
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_critical_twist3
+  rotate: false
+  xy: 952, 521
+  size: 263, 239
+  orig: 263, 239
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_e_leg3
+  rotate: true
+  xy: 1337, 2
+  size: 50, 28
+  orig: 50, 28
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_e_ring1
+  rotate: false
+  xy: 2, 959
+  size: 266, 42
+  orig: 266, 42
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_arm_p
+  rotate: true
+  xy: 1232, 923
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_cri_sp3
+  rotate: false
+  xy: 315, 2
+  size: 321, 317
+  orig: 325, 317
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_e_leg6
+  rotate: false
+  xy: 922, 686
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_baby_mouse
+  rotate: true
+  xy: 1113, 996
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_leg_p
+  rotate: false
+  xy: 922, 634
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_child_head
+  rotate: false
+  xy: 1232, 951
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_adult_wing5
+  rotate: false
+  xy: 311, 635
+  size: 239, 145
+  orig: 239, 145
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_baby_leg3
+  rotate: false
+  xy: 1198, 762
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_adult_tail
+  rotate: true
+  xy: 1217, 567
+  size: 143, 79
+  orig: 143, 79
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_cri_smo1
+  rotate: false
+  xy: 315, 321
+  size: 356, 144
+  orig: 368, 166
+  offset: 3, 8
+  index: -1
+dragon_darkfrosty_adult_leg2
+  rotate: false
+  xy: 758, 986
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_adult_body
+  rotate: true
+  xy: 868, 874
+  size: 98, 68
+  orig: 98, 68
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_adult_heart
+  rotate: false
+  xy: 934, 981
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_baby_head
+  rotate: false
+  xy: 1298, 567
+  size: 67, 59
+  orig: 67, 59
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_child_body
+  rotate: false
+  xy: 1198, 804
+  size: 82, 56
+  orig: 82, 56
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_child_leg5
+  rotate: false
+  xy: 1025, 981
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_critical_twist2
+  rotate: false
+  xy: 2, 351
+  size: 307, 311
+  orig: 307, 311
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_e_ring2
+  rotate: true
+  xy: 1245, 2
+  size: 306, 90
+  orig: 306, 90
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_cri_sp2
+  rotate: false
+  xy: 2, 664
+  size: 303, 293
+  orig: 309, 307
+  offset: 6, 9
+  index: -1
+dragon_darkfrosty_adult_wing1
+  rotate: false
+  xy: 1217, 712
+  size: 85, 90
+  orig: 85, 90
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_e_tail
+  rotate: true
+  xy: 867, 729
+  size: 143, 79
+  orig: 143, 79
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_adult_leg7
+  rotate: true
+  xy: 1337, 164
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_adult_head1
+  rotate: true
+  xy: 1232, 862
+  size: 59, 39
+  orig: 59, 39
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_child_leg1
+  rotate: false
+  xy: 852, 986
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_adult_neck
+  rotate: false
+  xy: 1056, 892
+  size: 49, 69
+  orig: 49, 69
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_baby_leg2
+  rotate: false
+  xy: 1113, 953
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_e_leg7
+  rotate: true
+  xy: 1337, 118
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_adult_mouth
+  rotate: false
+  xy: 2, 1003
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_hand_eff
+  rotate: false
+  xy: 1223, 286
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_cri_eff3
+  rotate: false
+  xy: 952, 259
+  size: 269, 260
+  orig: 269, 260
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_e_tw
+  rotate: false
+  xy: 2, 2
+  size: 311, 347
+  orig: 311, 349
+  offset: 0, 1
+  index: -1
+dragon_darkfrosty_adult_eye
+  rotate: false
+  xy: 638, 311
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_child_leg4
+  rotate: true
+  xy: 1291, 985
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_e_wing4
+  rotate: true
+  xy: 735, 889
+  size: 95, 131
+  orig: 95, 131
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_child_tail
+  rotate: true
+  xy: 1298, 628
+  size: 79, 64
+  orig: 79, 64
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_cri_cc1
+  rotate: false
+  xy: 307, 782
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_tail_eff
+  rotate: true
+  xy: 1304, 709
+  size: 106, 52
+  orig: 106, 52
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_body_p
+  rotate: false
+  xy: 677, 729
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_adult_wing2
+  rotate: false
+  xy: 735, 729
+  size: 130, 158
+  orig: 130, 158
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_child_heart
+  rotate: false
+  xy: 934, 981
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_baby_tail
+  rotate: true
+  xy: 1337, 210
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_adult_leg5
+  rotate: false
+  xy: 1138, 953
+  size: 33, 24
+  orig: 35, 24
+  offset: 2, 0
+  index: -1
+dragon_darkfrosty_cri_smo2
+  rotate: false
+  xy: 311, 467
+  size: 368, 166
+  orig: 368, 166
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_adult_leg6
+  rotate: false
+  xy: 1337, 255
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_adult_head2
+  rotate: false
+  xy: 659, 981
+  size: 59, 39
+  orig: 59, 39
+  offset: 0, 0
+  index: -1
+dragon_darkfrosty_baby_wing
+  rotate: false
+  xy: 1138, 995
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1

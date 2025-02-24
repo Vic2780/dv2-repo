@@ -1,0 +1,18 @@
+skill_100_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skill_eagleeye1
+  rotate: false
+  xy: 2, 345
+  size: 199, 91
+  orig: 215, 145
+  offset: 2, 37
+  index: -1
+skill_eagleeye2
+  rotate: false
+  xy: 2, 2
+  size: 427, 341
+  orig: 443, 377
+  offset: 6, 20
+  index: -1

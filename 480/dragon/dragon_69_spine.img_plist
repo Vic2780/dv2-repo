@@ -1,0 +1,991 @@
+dragon_69_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_demon_child_d_eye_close
+  rotate: false
+  xy: 1529, 452
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_d_ef2
+  rotate: false
+  xy: 1484, 493
+  size: 20, 15
+  orig: 20, 19
+  offset: 0, 2
+  index: -1
+dragon_demon_adult_d_leg1
+  rotate: false
+  xy: 1557, 477
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_d_leg2
+  rotate: false
+  xy: 1414, 176
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_d_ef1
+  rotate: false
+  xy: 1244, 491
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_leg4
+  rotate: false
+  xy: 1036, 405
+  size: 56, 19
+  orig: 56, 19
+  offset: 0, 0
+  index: -1
+dragon_demon_e_critical_circle1
+  rotate: false
+  xy: 1327, 401
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_leg2
+  rotate: false
+  xy: 1447, 453
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+dragon_demon_child_d_foot
+  rotate: false
+  xy: 1003, 502
+  size: 13, 7
+  orig: 13, 9
+  offset: 0, 2
+  index: -1
+dragon_demon_e_critical_circle2
+  rotate: false
+  xy: 1385, 488
+  size: 22, 22
+  orig: 48, 48
+  offset: 13, 14
+  index: -1
+dragon_demon_e_head_p
+  rotate: false
+  xy: 1037, 309
+  size: 65, 33
+  orig: 65, 33
+  offset: 0, 0
+  index: -1
+dragon_demon_e_critical_circle3
+  rotate: true
+  xy: 1528, 408
+  size: 42, 40
+  orig: 48, 48
+  offset: 3, 5
+  index: -1
+dragon_demon_adult_leg3
+  rotate: false
+  xy: 1263, 454
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_leg1
+  rotate: true
+  xy: 529, 471
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+dragon_demon_child_leg2
+  rotate: false
+  xy: 1553, 72
+  size: 30, 67
+  orig: 30, 67
+  offset: 0, 0
+  index: -1
+dragon_demon_child_leg4
+  rotate: true
+  xy: 1315, 482
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+dragon_demon_child_leg3
+  rotate: false
+  xy: 1560, 207
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+dragon_demon_child_leg1
+  rotate: false
+  xy: 1553, 2
+  size: 30, 68
+  orig: 30, 68
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_hit
+  rotate: true
+  xy: 1055, 426
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+dragon_demon_child_body
+  rotate: false
+  xy: 1433, 326
+  size: 69, 47
+  orig: 69, 47
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_d_arm1
+  rotate: true
+  xy: 1577, 254
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_d_arm2
+  rotate: false
+  xy: 1443, 502
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_body
+  rotate: true
+  xy: 974, 197
+  size: 116, 61
+  orig: 116, 61
+  offset: 0, 0
+  index: -1
+dragon_demon_e_d_head_p
+  rotate: true
+  xy: 1566, 323
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+dragon_demon_child_wing2
+  rotate: false
+  xy: 1553, 141
+  size: 30, 64
+  orig: 30, 64
+  offset: 0, 0
+  index: -1
+dragon_demon_e_tail
+  rotate: true
+  xy: 1145, 193
+  size: 132, 80
+  orig: 132, 80
+  offset: 0, 0
+  index: -1
+dragon_demon_baby_d_eye
+  rotate: false
+  xy: 1442, 467
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_head
+  rotate: true
+  xy: 1090, 426
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+dragon_demon_child_wing1
+  rotate: false
+  xy: 198, 447
+  size: 82, 63
+  orig: 82, 63
+  offset: 0, 0
+  index: -1
+dragon_demon_child_head
+  rotate: false
+  xy: 1145, 378
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+dragon_demon_e_neck_p
+  rotate: true
+  xy: 1281, 451
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+dragon_demon_baby_d_leg1
+  rotate: true
+  xy: 1570, 445
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+dragon_demon_e_tail_p
+  rotate: false
+  xy: 1209, 343
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+dragon_demon_e_d_wing_p
+  rotate: false
+  xy: 1408, 467
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+dragon_demon_baby_d_leg2
+  rotate: false
+  xy: 1513, 476
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_d_wing
+  rotate: false
+  xy: 1336, 267
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+dragon_demon_baby_mouth
+  rotate: false
+  xy: 1529, 471
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+dragon_demon_child_tail
+  rotate: true
+  xy: 1433, 274
+  size: 50, 75
+  orig: 50, 75
+  offset: 0, 0
+  index: -1
+dragon_demon_child_d_hand
+  rotate: true
+  xy: 985, 502
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_tail
+  rotate: false
+  xy: 1227, 185
+  size: 132, 80
+  orig: 132, 80
+  offset: 0, 0
+  index: -1
+dragon_demon_baby_d_arm1
+  rotate: false
+  xy: 1468, 476
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_effeye
+  rotate: true
+  xy: 1506, 493
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+dragon_demon_baby_d_arm2
+  rotate: false
+  xy: 1443, 484
+  size: 22, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+dragon_demon_child_d_body
+  rotate: true
+  xy: 1476, 453
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+dragon_demon_baby_eye
+  rotate: true
+  xy: 1221, 491
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_love
+  rotate: false
+  xy: 1433, 375
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+dragon_demon_e_critical_eff_c1
+  rotate: true
+  xy: 1377, 401
+  size: 51, 31
+  orig: 51, 31
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_d_love_mouth
+  rotate: false
+  xy: 972, 502
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_wing2
+  rotate: false
+  xy: 1336, 282
+  size: 95, 62
+  orig: 97, 62
+  offset: 2, 0
+  index: -1
+dragon_demon_adult_wing3
+  rotate: false
+  xy: 1496, 410
+  size: 30, 41
+  orig: 40, 41
+  offset: 10, 0
+  index: -1
+dragon_demon_adult_d_mouth1
+  rotate: false
+  xy: 286, 282
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_wing4
+  rotate: true
+  xy: 430, 431
+  size: 73, 97
+  orig: 73, 97
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_d_mouth2
+  rotate: false
+  xy: 822, 301
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+dragon_demon_critical_cc2
+  rotate: true
+  xy: 940, 315
+  size: 110, 94
+  orig: 126, 124
+  offset: 1, 10
+  index: -1
+dragon_demon_baby_d_lovehead
+  rotate: false
+  xy: 1268, 343
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+dragon_demon_critical_cc1
+  rotate: false
+  xy: 822, 312
+  size: 116, 118
+  orig: 126, 124
+  offset: 1, 0
+  index: -1
+dragon_demon_adult_wing1
+  rotate: false
+  xy: 822, 432
+  size: 132, 73
+  orig: 132, 73
+  offset: 0, 0
+  index: -1
+dragon_demon_e_wing2
+  rotate: true
+  xy: 1361, 185
+  size: 95, 62
+  orig: 97, 62
+  offset: 2, 0
+  index: -1
+dragon_demon_critical_cc3
+  rotate: false
+  xy: 1037, 193
+  size: 106, 114
+  orig: 126, 124
+  offset: 19, 10
+  index: -1
+dragon_demon_e_wing3
+  rotate: true
+  xy: 1523, 375
+  size: 31, 41
+  orig: 41, 41
+  offset: 10, 0
+  index: -1
+dragon_demon_e_wing4
+  rotate: true
+  xy: 956, 427
+  size: 73, 97
+  orig: 73, 97
+  offset: 0, 0
+  index: -1
+dragon_demon_child_d_tail
+  rotate: false
+  xy: 1099, 403
+  size: 44, 11
+  orig: 44, 11
+  offset: 0, 0
+  index: -1
+dragon_demon_child_d_head
+  rotate: false
+  xy: 1036, 344
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_hand
+  rotate: false
+  xy: 1169, 491
+  size: 50, 19
+  orig: 50, 19
+  offset: 0, 0
+  index: -1
+dragon_demon_baby_tail
+  rotate: false
+  xy: 2, 484
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+dragon_demon_baby_head
+  rotate: false
+  xy: 1268, 398
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+dragon_demon_e_wing1
+  rotate: true
+  xy: 494, 282
+  size: 133, 73
+  orig: 133, 73
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_att
+  rotate: true
+  xy: 1174, 434
+  size: 54, 33
+  orig: 54, 33
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_d_foot
+  rotate: true
+  xy: 822, 267
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+dragon_demon_critical_bb2
+  rotate: true
+  xy: 1410, 410
+  size: 41, 43
+  orig: 195, 193
+  offset: 80, 75
+  index: -1
+dragon_demon_critical_bb1
+  rotate: true
+  xy: 1322, 451
+  size: 29, 35
+  orig: 195, 193
+  offset: 86, 75
+  index: -1
+dragon_demon_critical_bb4
+  rotate: false
+  xy: 833, 197
+  size: 139, 113
+  orig: 195, 193
+  offset: 23, 41
+  index: -1
+dragon_demon_baby_love
+  rotate: false
+  xy: 1209, 401
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+dragon_demon_critical_bb3
+  rotate: true
+  xy: 351, 431
+  size: 79, 77
+  orig: 195, 193
+  offset: 64, 58
+  index: -1
+dragon_demon_child_d_headlovee
+  rotate: false
+  xy: 282, 447
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+dragon_demon_child_mouth
+  rotate: false
+  xy: 1354, 490
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+dragon_demon_child_d_mouth
+  rotate: false
+  xy: 1442, 472
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+dragon_demon_critical_bb6
+  rotate: false
+  xy: 1030, 2
+  size: 189, 189
+  orig: 195, 193
+  offset: 4, 1
+  index: -1
+dragon_demon_critical_bb5
+  rotate: false
+  xy: 198, 288
+  size: 151, 157
+  orig: 195, 193
+  offset: 22, 26
+  index: -1
+dragon_demon_critical_bb8
+  rotate: false
+  xy: 1221, 2
+  size: 191, 181
+  orig: 195, 193
+  offset: 4, 6
+  index: -1
+dragon_demon_critical_bb7
+  rotate: false
+  xy: 833, 2
+  size: 195, 193
+  orig: 195, 193
+  offset: 0, 0
+  index: -1
+dragon_demon_baby_heart
+  rotate: true
+  xy: 1104, 309
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_demon_child_d_leg1
+  rotate: true
+  xy: 1125, 416
+  size: 16, 15
+  orig: 16, 17
+  offset: 0, 2
+  index: -1
+dragon_demon_adult_d_hit
+  rotate: false
+  xy: 1055, 482
+  size: 32, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+dragon_demon_child_d_leg2
+  rotate: true
+  xy: 1570, 464
+  size: 12, 13
+  orig: 12, 19
+  offset: 0, 6
+  index: -1
+dragon_demon_baby_neck
+  rotate: true
+  xy: 1455, 410
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_d_eye
+  rotate: false
+  xy: 282, 508
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+dragon_demon_baby_d_wing
+  rotate: true
+  xy: 1359, 451
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+dragon_demon_baby_d_eye_close
+  rotate: false
+  xy: 49, 484
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+dragon_demon_child_eye_love
+  rotate: true
+  xy: 1489, 476
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_mouth
+  rotate: true
+  xy: 1557, 452
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_d_eye_close
+  rotate: false
+  xy: 956, 502
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+dragon_demon_baby_d_body
+  rotate: false
+  xy: 80, 484
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_d_hand
+  rotate: true
+  xy: 996, 502
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+dragon_demon_e_d_body_p
+  rotate: false
+  xy: 1560, 254
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_eye_close
+  rotate: true
+  xy: 1570, 423
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+dragon_demon_child_d_mouth_love
+  rotate: false
+  xy: 1425, 274
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_d_body
+  rotate: false
+  xy: 1266, 491
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+dragon_demon_child_d_arm1
+  rotate: false
+  xy: 1570, 478
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+dragon_demon_baby_d_head
+  rotate: false
+  xy: 1327, 346
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+dragon_demon_child_d_arm2
+  rotate: true
+  xy: 1520, 492
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+dragon_demon_baby_leg1
+  rotate: true
+  xy: 1125, 478
+  size: 32, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+dragon_demon_baby_wing
+  rotate: false
+  xy: 1099, 357
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+dragon_demon_baby_leg2
+  rotate: false
+  xy: 1504, 326
+  size: 22, 47
+  orig: 22, 47
+  offset: 0, 0
+  index: -1
+dragon_demon_baby_leg3
+  rotate: true
+  xy: 1409, 485
+  size: 24, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+dragon_demon_baby_leg4
+  rotate: false
+  xy: 1523, 176
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+dragon_demon_baby_d_tail
+  rotate: false
+  xy: 529, 417
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+dragon_demon_child_eye
+  rotate: false
+  xy: 1467, 489
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+dragon_demon_e_critical_sp2
+  rotate: true
+  xy: 1125, 434
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+dragon_demon_child_heart
+  rotate: true
+  xy: 1104, 309
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_demon_baby_d_ear
+  rotate: false
+  xy: 1504, 453
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+dragon_demon_baby_d_mouth
+  rotate: true
+  xy: 169, 484
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_d_heart
+  rotate: true
+  xy: 822, 288
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+dragon_demon_baby_body
+  rotate: false
+  xy: 1510, 274
+  size: 73, 47
+  orig: 73, 47
+  offset: 0, 0
+  index: -1
+dragon_demon_e_critical_sp1
+  rotate: false
+  xy: 1528, 323
+  size: 36, 47
+  orig: 42, 47
+  offset: 3, 0
+  index: -1
+dragon_demon_child_d_wing
+  rotate: true
+  xy: 1566, 359
+  size: 31, 17
+  orig: 31, 21
+  offset: 0, 3
+  index: -1
+dragon_demon_baby_d_hand
+  rotate: false
+  xy: 1209, 327
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+dragon_demon_child_tong
+  rotate: true
+  xy: 142, 484
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_d_head
+  rotate: false
+  xy: 1089, 482
+  size: 32, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_d_att
+  rotate: false
+  xy: 1281, 482
+  size: 32, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_d_tail
+  rotate: true
+  xy: 1570, 392
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+dragon_demon_baby_d_hair2
+  rotate: true
+  xy: 111, 484
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+dragon_demon_baby_d_hair1
+  rotate: false
+  xy: 1410, 453
+  size: 35, 12
+  orig: 35, 18
+  offset: 0, 6
+  index: -1
+dragon_demon_adult_question
+  rotate: false
+  xy: 1523, 207
+  size: 35, 65
+  orig: 39, 67
+  offset: 2, 2
+  index: -1
+dragon_demon_adult_neck
+  rotate: true
+  xy: 1145, 327
+  size: 49, 62
+  orig: 49, 62
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_arm2
+  rotate: false
+  xy: 1386, 346
+  size: 45, 51
+  orig: 45, 51
+  offset: 0, 0
+  index: -1
+dragon_demon_e_arm2_p
+  rotate: true
+  xy: 1377, 454
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+dragon_demon_e_critical_ccccccc6
+  rotate: true
+  xy: 1414, 2
+  size: 172, 137
+  orig: 172, 137
+  offset: 0, 0
+  index: -1
+dragon_demon_e_critical_ccccccc4
+  rotate: false
+  xy: 351, 282
+  size: 141, 147
+  orig: 141, 147
+  offset: 0, 0
+  index: -1
+dragon_demon_e_critical_ccccccc7
+  rotate: false
+  xy: 286, 2
+  size: 281, 278
+  orig: 281, 278
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_arm1
+  rotate: false
+  xy: 1489, 375
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+dragon_demon_e_critical_ccccccc2
+  rotate: false
+  xy: 569, 267
+  size: 251, 243
+  orig: 251, 243
+  offset: 0, 0
+  index: -1
+dragon_demon_child_d_eye
+  rotate: false
+  xy: 1030, 193
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+dragon_demon_child_neck
+  rotate: true
+  xy: 1209, 454
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+dragon_demon_e_body_p
+  rotate: false
+  xy: 1227, 267
+  size: 107, 74
+  orig: 107, 74
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_eye2
+  rotate: false
+  xy: 494, 417
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+dragon_demon_e_critical_ccccccc5
+  rotate: false
+  xy: 2, 2
+  size: 282, 284
+  orig: 282, 284
+  offset: 0, 0
+  index: -1
+dragon_demon_e_critical_ccccccc3
+  rotate: false
+  xy: 569, 2
+  size: 262, 263
+  orig: 262, 263
+  offset: 0, 0
+  index: -1
+dragon_demon_e_critical_ccccccc1
+  rotate: false
+  xy: 1425, 176
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+dragon_demon_adult_eye1
+  rotate: false
+  xy: 516, 417
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dragon_demon_critical_circle
+  rotate: false
+  xy: 2, 288
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1

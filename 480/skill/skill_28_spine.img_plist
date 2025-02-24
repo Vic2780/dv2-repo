@@ -1,0 +1,32 @@
+skill_28_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skill_crossdefense1
+  rotate: false
+  xy: 217, 111
+  size: 127, 99
+  orig: 173, 169
+  offset: 5, 30
+  index: -1
+skill_crossdefense2
+  rotate: false
+  xy: 217, 2
+  size: 167, 107
+  orig: 173, 169
+  offset: 1, 23
+  index: -1
+skill_crossdefense3
+  rotate: true
+  xy: 386, 2
+  size: 155, 117
+  orig: 173, 169
+  offset: 8, 31
+  index: -1
+skill_crossdefense4
+  rotate: true
+  xy: 2, 2
+  size: 207, 213
+  orig: 207, 213
+  offset: 0, 0
+  index: -1

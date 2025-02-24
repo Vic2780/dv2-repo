@@ -1,0 +1,571 @@
+dragon_168_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_tundra_adult_r_leg2c
+  rotate: true
+  xy: 1108, 223
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+dragon_tundra_child_leg1a
+  rotate: true
+  xy: 1062, 150
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+dragon_tundra_baby_heart
+  rotate: true
+  xy: 557, 208
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_tundra_cri2
+  rotate: true
+  xy: 1095, 73
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_l_leg2b
+  rotate: false
+  xy: 1171, 234
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+dragon_tundra_child_body
+  rotate: false
+  xy: 730, 121
+  size: 80, 69
+  orig: 80, 69
+  offset: 0, 0
+  index: -1
+dragon_tundra_child_leg1b
+  rotate: true
+  xy: 976, 187
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_eye4
+  rotate: false
+  xy: 598, 208
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+dragon_tundra_baby_chin
+  rotate: false
+  xy: 1158, 136
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+dragon_tundra_eff1
+  rotate: true
+  xy: 448, 132
+  size: 62, 107
+  orig: 62, 107
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_eff4
+  rotate: true
+  xy: 1017, 73
+  size: 40, 76
+  orig: 40, 76
+  offset: 0, 0
+  index: -1
+dragon_tundra_baby_tooth
+  rotate: true
+  xy: 1091, 248
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+dragon_tundra_baby_wing
+  rotate: false
+  xy: 1062, 179
+  size: 48, 23
+  orig: 48, 23
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_r_wing
+  rotate: true
+  xy: 1063, 2
+  size: 69, 146
+  orig: 69, 146
+  offset: 0, 0
+  index: -1
+dragon_tundra_cri9
+  rotate: false
+  xy: 736, 2
+  size: 177, 65
+  orig: 177, 65
+  offset: 0, 0
+  index: -1
+dragon_tundra_child_eye3
+  rotate: false
+  xy: 1091, 232
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_r_leg2d
+  rotate: false
+  xy: 948, 240
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+dragon_tundra_eff2
+  rotate: true
+  xy: 890, 146
+  size: 41, 78
+  orig: 41, 78
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_fur1
+  rotate: true
+  xy: 693, 192
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1
+dragon_tundra_child_tooth
+  rotate: true
+  xy: 684, 188
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_r_leg1c
+  rotate: false
+  xy: 1112, 203
+  size: 38, 18
+  orig: 38, 18
+  offset: 0, 0
+  index: -1
+dragon_tundra_child_leg2a
+  rotate: true
+  xy: 503, 227
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_l_leg1a
+  rotate: true
+  xy: 1017, 115
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+dragon_tundra_child_tail
+  rotate: true
+  xy: 1016, 149
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+dragon_tundra_child_leg2b
+  rotate: false
+  xy: 1010, 190
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+dragon_tundra_baby_fur2
+  rotate: false
+  xy: 608, 195
+  size: 83, 59
+  orig: 83, 59
+  offset: 0, 0
+  index: -1
+dragon_tundra_cri6
+  rotate: false
+  xy: 736, 69
+  size: 152, 50
+  orig: 152, 50
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_l_leg2c
+  rotate: true
+  xy: 1112, 178
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+dragon_tundra_baby_leg1
+  rotate: false
+  xy: 1195, 167
+  size: 21, 42
+  orig: 21, 42
+  offset: 0, 0
+  index: -1
+dragon_tundra_cir3
+  rotate: true
+  xy: 318, 132
+  size: 55, 128
+  orig: 55, 128
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_r_leg2a
+  rotate: true
+  xy: 1061, 204
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+dragon_tundra_baby_head
+  rotate: true
+  xy: 684, 118
+  size: 68, 44
+  orig: 68, 44
+  offset: 0, 0
+  index: -1
+dragon_tundra_baby_eye
+  rotate: false
+  xy: 976, 235
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_fur2
+  rotate: false
+  xy: 608, 118
+  size: 74, 75
+  orig: 74, 75
+  offset: 0, 0
+  index: -1
+dragon_tundra_child_eff1
+  rotate: true
+  xy: 557, 132
+  size: 74, 49
+  orig: 74, 49
+  offset: 0, 0
+  index: -1
+dragon_tundra_baby_leg4
+  rotate: true
+  xy: 1158, 167
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+dragon_tundra_baby_mouth
+  rotate: false
+  xy: 448, 237
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_l_leg1b
+  rotate: true
+  xy: 1072, 115
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+dragon_tundra_child_fur1
+  rotate: false
+  xy: 812, 121
+  size: 76, 73
+  orig: 76, 73
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_l_leg2d
+  rotate: true
+  xy: 1195, 211
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_eye
+  rotate: true
+  xy: 1211, 18
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_eff1
+  rotate: true
+  xy: 557, 132
+  size: 74, 49
+  orig: 74, 49
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_r_wingb
+  rotate: true
+  xy: 915, 2
+  size: 69, 146
+  orig: 69, 146
+  offset: 0, 0
+  index: -1
+dragon_tundra_child_head
+  rotate: false
+  xy: 754, 192
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_body
+  rotate: false
+  xy: 2, 169
+  size: 107, 85
+  orig: 107, 85
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_tail
+  rotate: false
+  xy: 961, 73
+  size: 54, 71
+  orig: 54, 71
+  offset: 0, 0
+  index: -1
+dragon_tundra_baby_eye3
+  rotate: false
+  xy: 1146, 234
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_chiin
+  rotate: true
+  xy: 1202, 136
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_r_leg1a
+  rotate: true
+  xy: 503, 196
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+dragon_tundra_child_fur2
+  rotate: false
+  xy: 890, 73
+  size: 69, 71
+  orig: 69, 71
+  offset: 0, 0
+  index: -1
+dragon_tundra_cri4
+  rotate: true
+  xy: 604, 2
+  size: 114, 130
+  orig: 114, 130
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_l_wing
+  rotate: false
+  xy: 461, 2
+  size: 141, 128
+  orig: 141, 128
+  offset: 0, 0
+  index: -1
+dragon_tundra_child_wing1
+  rotate: false
+  xy: 111, 169
+  size: 59, 83
+  orig: 59, 83
+  offset: 0, 0
+  index: -1
+dragon_tundra_cri7
+  rotate: true
+  xy: 317, 189
+  size: 51, 94
+  orig: 51, 94
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_eye2
+  rotate: true
+  xy: 932, 245
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_l_wingb
+  rotate: false
+  xy: 318, 2
+  size: 141, 128
+  orig: 141, 128
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_tooth
+  rotate: true
+  xy: 265, 249
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+dragon_tundra_child_leg3
+  rotate: false
+  xy: 413, 189
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_fur3
+  rotate: false
+  xy: 177, 166
+  size: 86, 88
+  orig: 86, 88
+  offset: 0, 0
+  index: -1
+dragon_tundra_child_wing2
+  rotate: false
+  xy: 808, 196
+  size: 86, 57
+  orig: 86, 57
+  offset: 0, 0
+  index: -1
+dragon_tundra_baby_leg3
+  rotate: true
+  xy: 1061, 232
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_eff2
+  rotate: true
+  xy: 448, 132
+  size: 62, 107
+  orig: 62, 107
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_l_leg1c
+  rotate: false
+  xy: 1159, 114
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_r_leg2b
+  rotate: true
+  xy: 482, 237
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+dragon_tundra_baby_eye2
+  rotate: false
+  xy: 896, 245
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+dragon_tundra_baby_body
+  rotate: false
+  xy: 896, 189
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+dragon_tundra_child_chin
+  rotate: false
+  xy: 1158, 201
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+dragon_tundra_baby_fur1
+  rotate: true
+  xy: 265, 166
+  size: 81, 50
+  orig: 81, 50
+  offset: 0, 0
+  index: -1
+dragon_tundra_child_eye
+  rotate: false
+  xy: 1207, 73
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+dragon_tundra_cri5
+  rotate: false
+  xy: 2, 2
+  size: 173, 165
+  orig: 173, 165
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_head
+  rotate: true
+  xy: 448, 196
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+dragon_tundra_baby_leg2
+  rotate: true
+  xy: 1111, 155
+  size: 21, 44
+  orig: 21, 44
+  offset: 0, 0
+  index: -1
+dragon_tundra_baby_tail
+  rotate: false
+  xy: 1010, 221
+  size: 49, 22
+  orig: 49, 22
+  offset: 0, 0
+  index: -1
+dragon_tundra_cri8
+  rotate: false
+  xy: 177, 2
+  size: 139, 162
+  orig: 139, 162
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_l_leg2a
+  rotate: false
+  xy: 948, 189
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_heart
+  rotate: false
+  xy: 1159, 73
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_tundra_child_eye2
+  rotate: true
+  xy: 1211, 2
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_eye3
+  rotate: true
+  xy: 919, 245
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_r_leg1b
+  rotate: false
+  xy: 1124, 115
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+dragon_tundra_cri1
+  rotate: true
+  xy: 970, 146
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+dragon_tundra_adult_eff3
+  rotate: true
+  xy: 890, 146
+  size: 41, 78
+  orig: 41, 78
+  offset: 0, 0
+  index: -1

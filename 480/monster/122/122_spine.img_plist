@@ -1,0 +1,228 @@
+122_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_mechanization_neck
+  rotate: true
+  xy: 1749, 248
+  size: 94, 131
+  orig: 100, 137
+  offset: 6, 3
+  index: -1
+m_mechanization_groggy_tail1
+  rotate: false
+  xy: 735, 290
+  size: 37, 48
+  orig: 287, 268
+  offset: 59, 146
+  index: -1
+m_mechanization_tail3
+  rotate: true
+  xy: 2, 2
+  size: 338, 281
+  orig: 338, 281
+  offset: 0, 0
+  index: -1
+m_mechanization_groggy_arm2
+  rotate: true
+  xy: 1170, 279
+  size: 66, 142
+  orig: 70, 144
+  offset: 2, 0
+  index: -1
+m_mechanization_groggy_body2
+  rotate: true
+  xy: 536, 302
+  size: 40, 27
+  orig: 300, 297
+  offset: 51, 93
+  index: -1
+m_mechanization_wing2
+  rotate: false
+  xy: 1605, 268
+  size: 142, 76
+  orig: 280, 140
+  offset: 18, 3
+  index: -1
+m_mechanization_body2
+  rotate: true
+  xy: 285, 2
+  size: 298, 291
+  orig: 300, 297
+  offset: 2, 0
+  index: -1
+m_mechanization_arm4
+  rotate: true
+  xy: 1695, 175
+  size: 71, 125
+  orig: 71, 125
+  offset: 0, 0
+  index: -1
+m_mechanization_pinger1
+  rotate: true
+  xy: 285, 302
+  size: 43, 82
+  orig: 43, 82
+  offset: 0, 0
+  index: -1
+m_mechanization_groggy_wing1
+  rotate: false
+  xy: 596, 290
+  size: 84, 54
+  orig: 280, 140
+  offset: 141, 55
+  index: -1
+m_mechanization_tail2
+  rotate: true
+  xy: 761, 2
+  size: 282, 407
+  orig: 282, 409
+  offset: 0, 0
+  index: -1
+m_mechanization_groggy_tail2
+  rotate: false
+  xy: 1850, 2
+  size: 128, 133
+  orig: 282, 409
+  offset: 14, 264
+  index: -1
+m_mechanization_mouse
+  rotate: false
+  xy: 1458, 276
+  size: 73, 69
+  orig: 79, 71
+  offset: 4, 0
+  index: -1
+m_mechanization_wing1
+  rotate: false
+  xy: 1553, 184
+  size: 140, 82
+  orig: 280, 140
+  offset: 140, 55
+  index: -1
+m_mechanization_head
+  rotate: false
+  xy: 1600, 2
+  size: 123, 171
+  orig: 123, 173
+  offset: 0, 0
+  index: -1
+m_mechanization_arm1
+  rotate: false
+  xy: 774, 286
+  size: 109, 56
+  orig: 109, 56
+  offset: 0, 0
+  index: -1
+m_mechanization_body
+  rotate: false
+  xy: 1428, 2
+  size: 170, 180
+  orig: 176, 182
+  offset: 3, 0
+  index: -1
+m_mechanization_pinger4
+  rotate: false
+  xy: 947, 286
+  size: 69, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+m_mechanization_tail1
+  rotate: true
+  xy: 1170, 2
+  size: 275, 256
+  orig: 287, 268
+  offset: 12, 6
+  index: -1
+m_mechanization_groggy_tail3
+  rotate: true
+  xy: 578, 2
+  size: 286, 181
+  orig: 338, 281
+  offset: 0, 0
+  index: -1
+m_mechanization_drugg
+  rotate: false
+  xy: 1533, 276
+  size: 70, 68
+  orig: 74, 74
+  offset: 0, 6
+  index: -1
+m_mechanization_eye
+  rotate: true
+  xy: 565, 302
+  size: 39, 29
+  orig: 123, 173
+  offset: 40, 38
+  index: -1
+m_mechanization_arm2
+  rotate: true
+  xy: 1314, 279
+  size: 66, 142
+  orig: 70, 144
+  offset: 2, 0
+  index: -1
+m_mechanization_groggy_head
+  rotate: false
+  xy: 1725, 2
+  size: 123, 171
+  orig: 123, 173
+  offset: 0, 0
+  index: -1
+m_mechanization_pinger3
+  rotate: true
+  xy: 369, 302
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
+m_mechanization_light1
+  rotate: false
+  xy: 445, 302
+  size: 58, 41
+  orig: 68, 57
+  offset: 7, 8
+  index: -1
+m_mechanization_groggy_eye
+  rotate: true
+  xy: 505, 302
+  size: 41, 29
+  orig: 123, 173
+  offset: 39, 37
+  index: -1
+m_mechanization_groggy_body
+  rotate: false
+  xy: 1850, 137
+  size: 128, 94
+  orig: 176, 182
+  offset: 16, 75
+  index: -1
+m_mechanization_grogry_arm4
+  rotate: false
+  xy: 1882, 233
+  size: 63, 105
+  orig: 71, 125
+  offset: 0, 20
+  index: -1
+m_mechanization_arm3
+  rotate: false
+  xy: 1428, 184
+  size: 123, 90
+  orig: 123, 90
+  offset: 0, 0
+  index: -1
+m_mechanization_light2
+  rotate: true
+  xy: 682, 290
+  size: 54, 51
+  orig: 68, 57
+  offset: 1, 4
+  index: -1
+m_mechanization_pinger2
+  rotate: true
+  xy: 885, 286
+  size: 34, 60
+  orig: 44, 60
+  offset: 6, 0
+  index: -1

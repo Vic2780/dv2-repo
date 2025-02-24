@@ -1,0 +1,53 @@
+ani_dwarfstatue_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+w_dwarf_dwarfstatue_arm3
+  rotate: true
+  xy: 162, 353
+  size: 25, 27
+  orig: 277, 199
+  offset: 13, 105
+  index: -1
+w_dwarf_dwarfstatue_body
+  rotate: true
+  xy: 2, 2
+  size: 259, 195
+  orig: 277, 199
+  offset: 18, 0
+  index: -1
+w_dwarf_dwarfstatue_arm1
+  rotate: true
+  xy: 162, 324
+  size: 27, 29
+  orig: 277, 199
+  offset: 182, 79
+  index: -1
+w_dwarf_dwarfstatue_hand2
+  rotate: true
+  xy: 123, 324
+  size: 33, 37
+  orig: 277, 199
+  offset: 49, 108
+  index: -1
+w_dwarf_dwarfstatue_hand3
+  rotate: false
+  xy: 2, 324
+  size: 119, 83
+  orig: 277, 199
+  offset: 3, 93
+  index: -1
+w_dwarf_dwarfstatue_hand1
+  rotate: true
+  xy: 2, 263
+  size: 59, 175
+  orig: 277, 199
+  offset: 139, 12
+  index: -1
+w_dwarf_dwarfstatue_arm2
+  rotate: false
+  xy: 179, 263
+  size: 13, 21
+  orig: 277, 199
+  offset: 69, 115
+  index: -1

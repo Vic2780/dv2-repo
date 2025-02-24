@@ -1,0 +1,438 @@
+dragon_108_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_hercules_child_mouth2
+  rotate: true
+  xy: 187, 1354
+  size: 38, 29
+  orig: 50, 83
+  offset: 9, 2
+  index: -1
+dragon_hercules_baby_leg2
+  rotate: true
+  xy: 187, 1431
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+dragon_hercules_critical_fr3
+  rotate: false
+  xy: 2, 586
+  size: 199, 152
+  orig: 209, 174
+  offset: 10, 1
+  index: -1
+dragon_hercules_adult_head
+  rotate: false
+  xy: 144, 1048
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+dragon_hercules_baby_wing2
+  rotate: false
+  xy: 203, 681
+  size: 16, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+dragon_hercules_child_leg1
+  rotate: false
+  xy: 181, 740
+  size: 39, 48
+  orig: 47, 52
+  offset: 6, 0
+  index: -1
+dragon_hercules_adult_body2
+  rotate: false
+  xy: 124, 1526
+  size: 69, 46
+  orig: 101, 70
+  offset: 0, 19
+  index: -1
+dragon_hercules_child_hand1
+  rotate: false
+  xy: 179, 1510
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+dragon_hercules_child_head
+  rotate: false
+  xy: 120, 1220
+  size: 50, 79
+  orig: 50, 83
+  offset: 0, 4
+  index: -1
+dragon_hercules_child_arm4
+  rotate: false
+  xy: 181, 875
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+dragon_hercules_child_arm1
+  rotate: true
+  xy: 179, 1628
+  size: 31, 35
+  orig: 35, 35
+  offset: 4, 0
+  index: -1
+dragon_hercules_baby_mouth
+  rotate: true
+  xy: 193, 1852
+  size: 37, 23
+  orig: 53, 73
+  offset: 4, 0
+  index: -1
+dragon_hercules_critical_stone1
+  rotate: true
+  xy: 2, 740
+  size: 231, 86
+  orig: 231, 86
+  offset: 0, 0
+  index: -1
+dragon_hercules_baby_eye
+  rotate: false
+  xy: 193, 967
+  size: 19, 19
+  orig: 53, 73
+  offset: 11, 9
+  index: -1
+dragon_hercules_adult_wing2
+  rotate: true
+  xy: 2, 1574
+  size: 126, 116
+  orig: 126, 116
+  offset: 0, 0
+  index: -1
+dragon_hercules_adult_leg2
+  rotate: false
+  xy: 176, 1661
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+dragon_hercules_baby_love1
+  rotate: false
+  xy: 132, 1376
+  size: 53, 73
+  orig: 53, 73
+  offset: 0, 0
+  index: -1
+dragon_hercules_child_wing
+  rotate: false
+  xy: 2, 1849
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+dragon_hercules_critical_fr1
+  rotate: true
+  xy: 78, 1702
+  size: 111, 72
+  orig: 209, 174
+  offset: 86, 6
+  index: -1
+dragon_hercules_adult_damaged
+  rotate: true
+  xy: 81, 1067
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+dragon_hercules_child_leg2
+  rotate: true
+  xy: 179, 1451
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+dragon_hercules_critical_cjak
+  rotate: true
+  xy: 2, 2
+  size: 406, 218
+  orig: 408, 220
+  offset: 0, 2
+  index: -1
+dragon_hercules_baby_neck
+  rotate: false
+  xy: 181, 838
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+dragon_hercules_adult_arm2
+  rotate: true
+  xy: 173, 1805
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+dragon_hercules_baby_wing1
+  rotate: false
+  xy: 193, 1891
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+dragon_hercules_baby_arm
+  rotate: false
+  xy: 187, 1394
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+dragon_hercules_child_neck
+  rotate: false
+  xy: 151, 1852
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+dragon_hercules_child_arm2
+  rotate: true
+  xy: 78, 1815
+  size: 32, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+dragon_hercules_critical_stone2
+  rotate: false
+  xy: 193, 924
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+dragon_hercules_adult_tail
+  rotate: true
+  xy: 2, 973
+  size: 182, 77
+  orig: 182, 77
+  offset: 0, 0
+  index: -1
+dragon_hercules_adult_mouth
+  rotate: false
+  xy: 117, 1905
+  size: 28, 20
+  orig: 76, 58
+  offset: 5, 0
+  index: -1
+dragon_hercules_critical_fr4
+  rotate: false
+  xy: 2, 410
+  size: 205, 174
+  orig: 209, 174
+  offset: 0, 0
+  index: -1
+dragon_hercules_adult_neck
+  rotate: false
+  xy: 152, 1740
+  size: 52, 63
+  orig: 58, 63
+  offset: 0, 0
+  index: -1
+dragon_hercules_adult_foot
+  rotate: true
+  xy: 206, 1740
+  size: 39, 14
+  orig: 39, 14
+  offset: 0, 0
+  index: -1
+dragon_hercules_child_hand2
+  rotate: true
+  xy: 172, 1277
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+dragon_hercules_adult_smile
+  rotate: false
+  xy: 120, 1574
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_hercules_adult_leg1
+  rotate: false
+  xy: 117, 1849
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+dragon_hercules_child_eye
+  rotate: true
+  xy: 187, 1312
+  size: 40, 29
+  orig: 50, 83
+  offset: 3, 14
+  index: -1
+dragon_hercules_critical_body
+  rotate: true
+  xy: 90, 740
+  size: 182, 89
+  orig: 182, 89
+  offset: 0, 0
+  index: -1
+dragon_hercules_baby_body
+  rotate: false
+  xy: 172, 1220
+  size: 42, 55
+  orig: 46, 61
+  offset: 0, 0
+  index: -1
+dragon_hercules_baby_question
+  rotate: false
+  xy: 80, 1849
+  size: 35, 65
+  orig: 39, 67
+  offset: 2, 2
+  index: -1
+dragon_hercules_adult_eye
+  rotate: false
+  xy: 81, 1145
+  size: 12, 10
+  orig: 76, 58
+  offset: 10, 12
+  index: -1
+dragon_hercules_adult_body1
+  rotate: false
+  xy: 90, 924
+  size: 101, 62
+  orig: 101, 70
+  offset: 0, 0
+  index: -1
+dragon_hercules_child_body
+  rotate: true
+  xy: 120, 1636
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+dragon_hercules_adult_leg3
+  rotate: false
+  xy: 179, 1574
+  size: 38, 52
+  orig: 38, 54
+  offset: 0, 0
+  index: -1
+dragon_hercules_critical_gib1
+  rotate: false
+  xy: 2, 1447
+  size: 120, 125
+  orig: 120, 125
+  offset: 0, 0
+  index: -1
+dragon_hercules_adult_arm1
+  rotate: true
+  xy: 152, 1700
+  size: 38, 68
+  orig: 44, 68
+  offset: 0, 0
+  index: -1
+dragon_hercules_baby_leg1
+  rotate: false
+  xy: 136, 1815
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+dragon_hercules_baby_tail
+  rotate: true
+  xy: 203, 586
+  size: 58, 17
+  orig: 64, 17
+  offset: 6, 0
+  index: -1
+dragon_hercules_adult_wing1
+  rotate: false
+  xy: 2, 1314
+  size: 128, 131
+  orig: 128, 131
+  offset: 0, 0
+  index: -1
+dragon_hercules_adult_love
+  rotate: false
+  xy: 144, 988
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+dragon_hercules_child_mouth1
+  rotate: false
+  xy: 198, 1160
+  size: 18, 17
+  orig: 50, 83
+  offset: 20, 5
+  index: -1
+dragon_hercules_critical_fr2
+  rotate: true
+  xy: 2, 1157
+  size: 155, 116
+  orig: 209, 174
+  offset: 51, 0
+  index: -1
+dragon_hercules_adult_hand
+  rotate: true
+  xy: 203, 646
+  size: 33, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+dragon_hercules_child_arm3
+  rotate: false
+  xy: 187, 1277
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+dragon_hercules_adult_att
+  rotate: false
+  xy: 120, 1160
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+dragon_hercules_child_heart
+  rotate: true
+  xy: 181, 790
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_hercules_baby_love2
+  rotate: false
+  xy: 132, 1301
+  size: 53, 73
+  orig: 53, 73
+  offset: 0, 0
+  index: -1
+dragon_hercules_child_love
+  rotate: true
+  xy: 141, 1108
+  size: 50, 79
+  orig: 50, 83
+  offset: 0, 4
+  index: -1
+dragon_hercules_baby_head
+  rotate: false
+  xy: 124, 1451
+  size: 53, 73
+  orig: 53, 73
+  offset: 0, 0
+  index: -1
+dragon_hercules_child_tail
+  rotate: false
+  xy: 81, 988
+  size: 61, 77
+  orig: 61, 77
+  offset: 0, 0
+  index: -1
+dragon_hercules_critical_gib2
+  rotate: false
+  xy: 2, 1702
+  size: 74, 145
+  orig: 74, 145
+  offset: 0, 0
+  index: -1

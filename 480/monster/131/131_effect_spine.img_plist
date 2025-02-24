@@ -1,0 +1,11 @@
+131_effect_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_shaman_eff1
+  rotate: false
+  xy: 2, 2
+  size: 332, 98
+  orig: 332, 98
+  offset: 0, 0
+  index: -1

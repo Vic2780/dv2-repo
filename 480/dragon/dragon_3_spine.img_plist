@@ -1,0 +1,312 @@
+dragon_3_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_sixleg_baby_love2
+  rotate: true
+  xy: 889, 2
+  size: 50, 64
+  orig: 50, 66
+  offset: 0, 2
+  index: -1
+dragon_sixleg_adult_mouse
+  rotate: false
+  xy: 50, 113
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+dragon_sixleg_adult_att
+  rotate: true
+  xy: 874, 85
+  size: 41, 45
+  orig: 43, 55
+  offset: 0, 3
+  index: -1
+dragon_sixleg_adult_leg6
+  rotate: false
+  xy: 126, 88
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+dragon_sixleg_adult_love
+  rotate: true
+  xy: 681, 85
+  size: 41, 45
+  orig: 43, 55
+  offset: 0, 3
+  index: -1
+dragon_sixleg_baby_leg2
+  rotate: true
+  xy: 780, 61
+  size: 22, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+dragon_sixleg_child_body
+  rotate: true
+  xy: 372, 58
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+dragon_sixleg_baby_love1
+  rotate: true
+  xy: 821, 2
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+dragon_sixleg_child_hearttt
+  rotate: false
+  xy: 2, 87
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_sixleg_adult_hit
+  rotate: true
+  xy: 780, 85
+  size: 41, 45
+  orig: 43, 55
+  offset: 0, 3
+  index: -1
+dragon_sixleg_baby_neck
+  rotate: false
+  xy: 955, 2
+  size: 45, 66
+  orig: 45, 66
+  offset: 0, 0
+  index: -1
+dragon_sixleg_adult_leg7
+  rotate: true
+  xy: 249, 88
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+dragon_sixleg_baby_leg1
+  rotate: false
+  xy: 977, 70
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+dragon_sixleg_child_neck
+  rotate: true
+  xy: 504, 78
+  size: 41, 72
+  orig: 41, 72
+  offset: 0, 0
+  index: -1
+dragon_sixleg_adult_leg1
+  rotate: false
+  xy: 952, 70
+  size: 23, 52
+  orig: 23, 52
+  offset: 0, 0
+  index: -1
+dragon_sixleg_baby_eye
+  rotate: true
+  xy: 697, 61
+  size: 22, 26
+  orig: 50, 66
+  offset: 5, 11
+  index: -1
+dragon_sixleg_baby_hearttt
+  rotate: false
+  xy: 2, 87
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_sixleg_adult_leg2
+  rotate: true
+  xy: 428, 58
+  size: 14, 37
+  orig: 14, 37
+  offset: 0, 0
+  index: -1
+dragon_sixleg_child_tail
+  rotate: false
+  xy: 562, 2
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+dragon_sixleg_baby_body
+  rotate: false
+  xy: 578, 78
+  size: 63, 45
+  orig: 63, 45
+  offset: 0, 0
+  index: -1
+dragon_sixleg_baby_tail
+  rotate: true
+  xy: 921, 85
+  size: 40, 29
+  orig: 40, 31
+  offset: 0, 1
+  index: -1
+dragon_sixleg_baby_leg3
+  rotate: true
+  xy: 890, 54
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+dragon_sixleg_child_eye
+  rotate: false
+  xy: 302, 101
+  size: 26, 21
+  orig: 60, 59
+  offset: 14, 11
+  index: -1
+dragon_sixleg_adult_smile
+  rotate: false
+  xy: 638, 2
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_sixleg_child_wing
+  rotate: true
+  xy: 482, 2
+  size: 74, 78
+  orig: 74, 78
+  offset: 0, 0
+  index: -1
+dragon_sixleg_adult_eye
+  rotate: true
+  xy: 681, 64
+  size: 17, 11
+  orig: 43, 55
+  offset: 12, 12
+  index: -1
+dragon_sixleg_adult_tail
+  rotate: false
+  xy: 2, 2
+  size: 143, 83
+  orig: 143, 83
+  offset: 0, 0
+  index: -1
+dragon_sixleg_adult_leg3
+  rotate: true
+  xy: 352, 101
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+dragon_sixleg_adult_headlight
+  rotate: true
+  xy: 208, 88
+  size: 23, 39
+  orig: 31, 47
+  offset: 4, 4
+  index: -1
+dragon_sixleg_child_leg2
+  rotate: false
+  xy: 643, 64
+  size: 36, 62
+  orig: 36, 62
+  offset: 0, 0
+  index: -1
+dragon_sixleg_adult_body
+  rotate: false
+  xy: 372, 2
+  size: 108, 54
+  orig: 108, 54
+  offset: 0, 0
+  index: -1
+dragon_sixleg_adult_wing2
+  rotate: true
+  xy: 147, 2
+  size: 84, 120
+  orig: 84, 120
+  offset: 0, 0
+  index: -1
+dragon_sixleg_child_love
+  rotate: false
+  xy: 697, 2
+  size: 60, 57
+  orig: 60, 59
+  offset: 0, 2
+  index: -1
+dragon_sixleg_child_head
+  rotate: false
+  xy: 759, 2
+  size: 60, 57
+  orig: 60, 59
+  offset: 0, 2
+  index: -1
+dragon_sixleg_adult_wing1
+  rotate: true
+  xy: 269, 2
+  size: 97, 101
+  orig: 99, 101
+  offset: 2, 0
+  index: -1
+dragon_sixleg_adult_leg4
+  rotate: true
+  xy: 154, 88
+  size: 21, 52
+  orig: 21, 52
+  offset: 0, 0
+  index: -1
+dragon_sixleg_adult_atteffect
+  rotate: false
+  xy: 50, 87
+  size: 74, 24
+  orig: 74, 24
+  offset: 0, 0
+  index: -1
+dragon_sixleg_adult_head
+  rotate: true
+  xy: 827, 85
+  size: 41, 45
+  orig: 43, 55
+  offset: 0, 3
+  index: -1
+dragon_sixleg_baby_mouse
+  rotate: false
+  xy: 265, 101
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+dragon_sixleg_child_mouse
+  rotate: false
+  xy: 154, 111
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+dragon_sixleg_child_leg1
+  rotate: true
+  xy: 821, 54
+  size: 27, 67
+  orig: 27, 67
+  offset: 0, 0
+  index: -1
+dragon_sixleg_adult_leg5
+  rotate: false
+  xy: 330, 101
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+dragon_sixleg_adult_neck
+  rotate: true
+  xy: 428, 78
+  size: 48, 74
+  orig: 48, 74
+  offset: 0, 0
+  index: -1
+dragon_sixleg_baby_head
+  rotate: false
+  xy: 728, 61
+  size: 50, 64
+  orig: 50, 66
+  offset: 0, 2
+  index: -1

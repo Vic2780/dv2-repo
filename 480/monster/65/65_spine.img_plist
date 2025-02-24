@@ -1,0 +1,151 @@
+65_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_dodoru_body3
+  rotate: true
+  xy: 1369, 94
+  size: 105, 95
+  orig: 105, 95
+  offset: 0, 0
+  index: -1
+m_dodoru_mouth1
+  rotate: false
+  xy: 315, 2
+  size: 215, 83
+  orig: 215, 83
+  offset: 0, 0
+  index: -1
+m_dodoru_groggybody11
+  rotate: false
+  xy: 2, 93
+  size: 203, 143
+  orig: 203, 143
+  offset: 0, 0
+  index: -1
+m_dodoru_body21
+  rotate: true
+  xy: 1054, 2
+  size: 100, 187
+  orig: 100, 187
+  offset: 0, 0
+  index: -1
+m_dodoru_groggyarm2
+  rotate: true
+  xy: 1178, 104
+  size: 119, 68
+  orig: 119, 68
+  offset: 0, 0
+  index: -1
+m_dodoru_body4
+  rotate: false
+  xy: 939, 179
+  size: 101, 73
+  orig: 101, 73
+  offset: 0, 0
+  index: -1
+m_dodoru_groggybody21
+  rotate: false
+  xy: 511, 90
+  size: 78, 164
+  orig: 78, 164
+  offset: 0, 0
+  index: -1
+m_dodoru_body11
+  rotate: false
+  xy: 207, 93
+  size: 137, 149
+  orig: 137, 149
+  offset: 0, 0
+  index: -1
+m_dodoru_groggybody12
+  rotate: false
+  xy: 1054, 104
+  size: 122, 107
+  orig: 122, 107
+  offset: 0, 0
+  index: -1
+m_dodoru_eye
+  rotate: false
+  xy: 1248, 94
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+m_dodoru_groggyarm1
+  rotate: false
+  xy: 346, 199
+  size: 128, 51
+  orig: 128, 51
+  offset: 0, 0
+  index: -1
+m_dodoru_body22
+  rotate: false
+  xy: 939, 2
+  size: 113, 175
+  orig: 113, 175
+  offset: 0, 0
+  index: -1
+m_dodoru_body5
+  rotate: false
+  xy: 2, 2
+  size: 311, 89
+  orig: 311, 89
+  offset: 0, 0
+  index: -1
+m_dodoru_body12
+  rotate: true
+  xy: 740, 2
+  size: 178, 197
+  orig: 178, 197
+  offset: 0, 0
+  index: -1
+m_dodoru_arm1
+  rotate: false
+  xy: 532, 2
+  size: 206, 86
+  orig: 206, 86
+  offset: 0, 0
+  index: -1
+m_dodoru_groggybody4
+  rotate: false
+  xy: 817, 182
+  size: 68, 57
+  orig: 68, 57
+  offset: 0, 0
+  index: -1
+m_dodoru_groggymouth1
+  rotate: false
+  xy: 591, 211
+  size: 121, 36
+  orig: 121, 36
+  offset: 0, 0
+  index: -1
+m_dodoru_arm2
+  rotate: false
+  xy: 1243, 2
+  size: 174, 90
+  orig: 174, 90
+  offset: 0, 0
+  index: -1
+m_dodoru_groggyeye
+  rotate: false
+  xy: 591, 90
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+m_dodoru_mouth2
+  rotate: false
+  xy: 346, 87
+  size: 163, 110
+  orig: 163, 110
+  offset: 0, 0
+  index: -1
+m_dodoru_foot
+  rotate: false
+  xy: 714, 182
+  size: 101, 71
+  orig: 101, 71
+  offset: 0, 0
+  index: -1

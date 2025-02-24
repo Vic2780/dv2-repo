@@ -1,0 +1,60 @@
+skill_170_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skill_aging6
+  rotate: false
+  xy: 160, 971
+  size: 56, 135
+  orig: 266, 329
+  offset: 73, 83
+  index: -1
+skill_aging7
+  rotate: false
+  xy: 2, 423
+  size: 210, 313
+  orig: 266, 329
+  offset: 43, 16
+  index: -1
+skill_aging8
+  rotate: false
+  xy: 187, 738
+  size: 38, 89
+  orig: 266, 329
+  offset: 110, 177
+  index: -1
+skill_aging2
+  rotate: false
+  xy: 2, 840
+  size: 156, 299
+  orig: 266, 329
+  offset: 47, 27
+  index: -1
+skill_aging3
+  rotate: true
+  xy: 2, 2
+  size: 104, 229
+  orig: 266, 329
+  offset: 67, 56
+  index: -1
+skill_aging4
+  rotate: true
+  xy: 2, 738
+  size: 100, 183
+  orig: 266, 329
+  offset: 65, 38
+  index: -1
+skill_aging5
+  rotate: false
+  xy: 160, 840
+  size: 72, 129
+  orig: 266, 329
+  offset: 74, 64
+  index: -1
+skill_aging1
+  rotate: false
+  xy: 2, 108
+  size: 224, 313
+  orig: 266, 329
+  offset: 31, 10
+  index: -1

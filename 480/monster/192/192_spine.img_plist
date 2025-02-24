@@ -1,0 +1,263 @@
+192_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_zhakabrous2_arm2
+  rotate: false
+  xy: 732, 1429
+  size: 109, 111
+  orig: 109, 111
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_spk1
+  rotate: true
+  xy: 843, 1432
+  size: 108, 99
+  orig: 110, 99
+  offset: 2, 0
+  index: -1
+m_zhakabrous2_ac1
+  rotate: false
+  xy: 648, 525
+  size: 204, 120
+  orig: 204, 120
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_belt
+  rotate: true
+  xy: 864, 383
+  size: 281, 152
+  orig: 281, 152
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_sp
+  rotate: true
+  xy: 476, 1419
+  size: 137, 112
+  orig: 137, 112
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_groggy_rleg2
+  rotate: true
+  xy: 449, 574
+  size: 63, 39
+  orig: 63, 39
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_head2
+  rotate: false
+  xy: 827, 1232
+  size: 178, 101
+  orig: 178, 101
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_sm
+  rotate: true
+  xy: 775, 1196
+  size: 79, 50
+  orig: 79, 50
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_spk2
+  rotate: false
+  xy: 263, 1327
+  size: 68, 230
+  orig: 68, 230
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_doggi
+  rotate: true
+  xy: 2, 574
+  size: 369, 445
+  orig: 369, 445
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_groggy_rleg1
+  rotate: false
+  xy: 333, 1552
+  size: 80, 42
+  orig: 80, 42
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_head1
+  rotate: true
+  xy: 2, 1327
+  size: 260, 259
+  orig: 260, 259
+  offset: 0, 0
+  index: -1
+smog1
+  rotate: false
+  xy: 2, 2
+  size: 866, 320
+  orig: 866, 320
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_groggy_sk
+  rotate: true
+  xy: 333, 1327
+  size: 223, 141
+  orig: 223, 141
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_foot
+  rotate: true
+  xy: 476, 1327
+  size: 90, 115
+  orig: 90, 115
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_groggy_arm2
+  rotate: false
+  xy: 824, 1335
+  size: 104, 87
+  orig: 104, 87
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_eye1
+  rotate: false
+  xy: 855, 793
+  size: 156, 72
+  orig: 156, 72
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_lleg
+  rotate: true
+  xy: 593, 1289
+  size: 113, 147
+  orig: 113, 147
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_spk3
+  rotate: false
+  xy: 870, 150
+  size: 146, 110
+  orig: 148, 112
+  offset: 2, 2
+  index: -1
+m_zhakabrous2_arm0
+  rotate: true
+  xy: 648, 324
+  size: 199, 214
+  orig: 199, 214
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_sk
+  rotate: false
+  xy: 2, 945
+  size: 439, 380
+  orig: 443, 380
+  offset: 4, 0
+  index: -1
+smog2
+  rotate: false
+  xy: 2, 324
+  size: 644, 248
+  orig: 644, 248
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_groggy_arm1
+  rotate: false
+  xy: 490, 574
+  size: 92, 62
+  orig: 92, 62
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_groggy_doggi
+  rotate: true
+  xy: 449, 923
+  size: 271, 392
+  orig: 271, 392
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_eye2
+  rotate: true
+  xy: 593, 1404
+  size: 119, 137
+  orig: 119, 137
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_groggy_lleg
+  rotate: true
+  xy: 584, 574
+  size: 48, 55
+  orig: 48, 57
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_hand1
+  rotate: false
+  xy: 870, 2
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_rleg2
+  rotate: false
+  xy: 870, 262
+  size: 144, 119
+  orig: 144, 119
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_groggy_head2
+  rotate: false
+  xy: 415, 1552
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_spk4
+  rotate: true
+  xy: 742, 1289
+  size: 138, 80
+  orig: 140, 80
+  offset: 2, 0
+  index: -1
+m_zhakabrous2_arm1
+  rotate: false
+  xy: 855, 867
+  size: 155, 185
+  orig: 155, 185
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_groggy_body
+  rotate: false
+  xy: 593, 1196
+  size: 180, 91
+  orig: 180, 91
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_body
+  rotate: false
+  xy: 449, 647
+  size: 404, 274
+  orig: 404, 274
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_groggy_hand1
+  rotate: true
+  xy: 930, 1335
+  size: 95, 76
+  orig: 95, 76
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_rleg1
+  rotate: false
+  xy: 855, 666
+  size: 159, 125
+  orig: 159, 125
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_groggy_head1
+  rotate: true
+  xy: 843, 1054
+  size: 176, 162
+  orig: 176, 164
+  offset: 0, 0
+  index: -1
+m_zhakabrous2_groggy_arm0
+  rotate: false
+  xy: 443, 1196
+  size: 148, 129
+  orig: 148, 129
+  offset: 0, 0
+  index: -1

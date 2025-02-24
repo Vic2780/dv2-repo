@@ -1,0 +1,151 @@
+ani_elf_livingwaters_new_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+w_elf_glow_a08
+  rotate: true
+  xy: 86, 820
+  size: 70, 53
+  orig: 98, 81
+  offset: 15, 9
+  index: -1
+w_elf_glow_a04
+  rotate: false
+  xy: 49, 972
+  size: 40, 41
+  orig: 98, 81
+  offset: 5, 31
+  index: -1
+w_elf_glow_c02
+  rotate: true
+  xy: 2, 205
+  size: 283, 132
+  orig: 305, 182
+  offset: 8, 31
+  index: -1
+w_elf_glow_a16
+  rotate: false
+  xy: 2, 770
+  size: 82, 65
+  orig: 98, 81
+  offset: 7, 11
+  index: -1
+w_elf_glow_a12
+  rotate: true
+  xy: 2, 902
+  size: 66, 51
+  orig: 98, 81
+  offset: 17, 15
+  index: -1
+w_elf_glow_a07
+  rotate: false
+  xy: 2, 632
+  size: 84, 67
+  orig: 98, 81
+  offset: 4, 3
+  index: -1
+w_elf_glow_a03
+  rotate: true
+  xy: 2, 972
+  size: 44, 45
+  orig: 98, 81
+  offset: 2, 30
+  index: -1
+w_elf_glow_c01
+  rotate: true
+  xy: 2, 2
+  size: 201, 136
+  orig: 305, 182
+  offset: 86, 20
+  index: -1
+w_elf_glow_a15
+  rotate: false
+  xy: 2, 490
+  size: 84, 69
+  orig: 98, 81
+  offset: 7, 9
+  index: -1
+w_elf_glow_a11
+  rotate: false
+  xy: 2, 561
+  size: 84, 69
+  orig: 98, 81
+  offset: 4, 8
+  index: -1
+w_elf_glow_a06
+  rotate: false
+  xy: 88, 566
+  size: 58, 45
+  orig: 98, 81
+  offset: 16, 15
+  index: -1
+w_elf_glow_b01
+  rotate: true
+  xy: 88, 687
+  size: 53, 54
+  orig: 65, 64
+  offset: 5, 6
+  index: -1
+w_elf_glow_a02
+  rotate: true
+  xy: 55, 902
+  size: 24, 25
+  orig: 98, 81
+  offset: 12, 42
+  index: -1
+w_elf_glow_a18
+  rotate: false
+  xy: 2, 701
+  size: 82, 67
+  orig: 98, 81
+  offset: 3, 11
+  index: -1
+w_elf_glow_a14
+  rotate: true
+  xy: 84, 892
+  size: 78, 63
+  orig: 98, 81
+  offset: 14, 8
+  index: -1
+w_elf_glow_a09
+  rotate: true
+  xy: 88, 613
+  size: 72, 55
+  orig: 98, 81
+  offset: 14, 9
+  index: -1
+w_elf_glow_a10
+  rotate: true
+  xy: 88, 490
+  size: 74, 59
+  orig: 98, 81
+  offset: 14, 8
+  index: -1
+w_elf_glow_a05
+  rotate: true
+  xy: 91, 972
+  size: 40, 39
+  orig: 98, 81
+  offset: 4, 32
+  index: -1
+w_elf_glow_a01
+  rotate: true
+  xy: 140, 2
+  size: 4, 5
+  orig: 98, 81
+  offset: 24, 53
+  index: -1
+w_elf_glow_a17
+  rotate: false
+  xy: 2, 837
+  size: 80, 63
+  orig: 98, 81
+  offset: 14, 6
+  index: -1
+w_elf_glow_a13
+  rotate: true
+  xy: 86, 742
+  size: 76, 61
+  orig: 98, 81
+  offset: 12, 8
+  index: -1

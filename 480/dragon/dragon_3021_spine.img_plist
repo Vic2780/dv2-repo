@@ -1,0 +1,480 @@
+dragon_3021_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_blaze_adult_wing1
+  rotate: true
+  xy: 175, 440
+  size: 189, 107
+  orig: 189, 107
+  offset: 0, 0
+  index: -1
+dragon_blaze_baby_mouth
+  rotate: false
+  xy: 482, 120
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+dragon_blaze_critical_ef3
+  rotate: false
+  xy: 286, 169
+  size: 167, 130
+  orig: 179, 144
+  offset: 4, 12
+  index: -1
+dragon_blaze_adult_leg1
+  rotate: false
+  xy: 399, 997
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+dragon_blaze_adult_bodyfire03
+  rotate: false
+  xy: 307, 954
+  size: 84, 44
+  orig: 84, 44
+  offset: 0, 0
+  index: -1
+dragon_blaze_adult_neck
+  rotate: false
+  xy: 453, 390
+  size: 54, 78
+  orig: 54, 78
+  offset: 0, 0
+  index: -1
+dragon_blaze_adult_arm3
+  rotate: true
+  xy: 480, 786
+  size: 49, 20
+  orig: 49, 20
+  offset: 0, 0
+  index: -1
+dragon_blaze_adult_tailfire01
+  rotate: true
+  xy: 307, 797
+  size: 104, 80
+  orig: 104, 80
+  offset: 0, 0
+  index: -1
+dragon_blaze_child_eye
+  rotate: true
+  xy: 422, 547
+  size: 40, 18
+  orig: 40, 18
+  offset: 0, 0
+  index: -1
+dragon_blaze_critical_ef7
+  rotate: false
+  xy: 2, 882
+  size: 171, 219
+  orig: 173, 219
+  offset: 1, 0
+  index: -1
+dragon_blaze_baby_arm
+  rotate: false
+  xy: 485, 677
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+dragon_blaze_child_bodyfire02
+  rotate: false
+  xy: 393, 955
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+dragon_blaze_child_leg1
+  rotate: false
+  xy: 427, 1101
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+dragon_blaze_adult_arm2
+  rotate: true
+  xy: 448, 573
+  size: 40, 59
+  orig: 40, 59
+  offset: 0, 0
+  index: -1
+dragon_blaze_adult_smile
+  rotate: false
+  xy: 448, 615
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_blaze_adult_tailfire02
+  rotate: false
+  xy: 291, 713
+  size: 107, 82
+  orig: 107, 82
+  offset: 0, 0
+  index: -1
+dragon_blaze_child_mouth
+  rotate: false
+  xy: 399, 1055
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+dragon_blaze_adult_wing2
+  rotate: true
+  xy: 177, 189
+  size: 189, 107
+  orig: 189, 107
+  offset: 0, 0
+  index: -1
+dragon_blaze_critical_ef11
+  rotate: true
+  xy: 2, 189
+  size: 249, 173
+  orig: 249, 195
+  offset: 0, 12
+  index: -1
+dragon_blaze_child_head
+  rotate: false
+  xy: 299, 1000
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+dragon_blaze_critical_ef4
+  rotate: true
+  xy: 284, 528
+  size: 101, 136
+  orig: 105, 156
+  offset: 4, 14
+  index: -1
+dragon_blaze_adult_body
+  rotate: true
+  xy: 389, 390
+  size: 113, 62
+  orig: 113, 62
+  offset: 0, 0
+  index: -1
+dragon_blaze_baby_bodyfire03
+  rotate: false
+  xy: 455, 1101
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+dragon_blaze_baby_head
+  rotate: false
+  xy: 448, 512
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+dragon_blaze_child_tail
+  rotate: false
+  xy: 455, 169
+  size: 44, 101
+  orig: 44, 101
+  offset: 0, 0
+  index: -1
+dragon_blaze_child_arm2
+  rotate: false
+  xy: 422, 505
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+dragon_blaze_adult_leg3
+  rotate: true
+  xy: 2, 1103
+  size: 33, 60
+  orig: 33, 60
+  offset: 0, 0
+  index: -1
+dragon_blaze_child_neck
+  rotate: false
+  xy: 241, 380
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+dragon_blaze_critical_ef8
+  rotate: false
+  xy: 2, 661
+  size: 171, 219
+  orig: 173, 219
+  offset: 1, 0
+  index: -1
+dragon_blaze_adult_mouth
+  rotate: true
+  xy: 422, 589
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+dragon_blaze_adult_neckfire01
+  rotate: false
+  xy: 436, 786
+  size: 42, 85
+  orig: 42, 85
+  offset: 0, 0
+  index: -1
+dragon_blaze_child_love
+  rotate: false
+  xy: 400, 720
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+dragon_blaze_critical_ef10
+  rotate: false
+  xy: 2, 2
+  size: 243, 185
+  orig: 249, 195
+  offset: 0, 0
+  index: -1
+dragon_blaze_adult_tail
+  rotate: false
+  xy: 286, 301
+  size: 168, 87
+  orig: 168, 87
+  offset: 0, 0
+  index: -1
+dragon_blaze_critical_ef1
+  rotate: true
+  xy: 175, 800
+  size: 161, 130
+  orig: 179, 144
+  offset: 10, 14
+  index: -1
+dragon_blaze_baby_heart
+  rotate: false
+  xy: 461, 720
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_blaze_child_bodyfire03
+  rotate: true
+  xy: 446, 919
+  size: 48, 57
+  orig: 48, 59
+  offset: 0, 1
+  index: -1
+dragon_blaze_child_wing
+  rotate: false
+  xy: 446, 873
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+dragon_blaze_baby_bodyfire02
+  rotate: true
+  xy: 482, 56
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+dragon_blaze_adult_tailfire03
+  rotate: false
+  xy: 291, 631
+  size: 112, 80
+  orig: 112, 80
+  offset: 0, 0
+  index: -1
+dragon_blaze_baby_love
+  rotate: false
+  xy: 299, 1066
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+dragon_blaze_adult_leg2
+  rotate: false
+  xy: 456, 367
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+dragon_blaze_adult_eye
+  rotate: false
+  xy: 400, 786
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+dragon_blaze_critical_ef5
+  rotate: false
+  xy: 284, 390
+  size: 103, 136
+  orig: 105, 156
+  offset: 2, 14
+  index: -1
+dragon_blaze_child_note1
+  rotate: false
+  xy: 477, 1061
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_blaze_baby_leg
+  rotate: true
+  xy: 482, 92
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+dragon_blaze_adult_love
+  rotate: true
+  xy: 400, 888
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+dragon_blaze_child_body
+  rotate: false
+  xy: 177, 380
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1
+dragon_blaze_critical_ef9
+  rotate: false
+  xy: 2, 440
+  size: 171, 219
+  orig: 173, 219
+  offset: 1, 0
+  index: -1
+dragon_blaze_adult_neckfire02
+  rotate: false
+  xy: 456, 272
+  size: 42, 93
+  orig: 44, 93
+  offset: 0, 0
+  index: -1
+dragon_blaze_adult_bodyfire01
+  rotate: true
+  xy: 360, 1000
+  size: 79, 37
+  orig: 79, 37
+  offset: 0, 0
+  index: -1
+dragon_blaze_adult_arm1
+  rotate: true
+  xy: 307, 903
+  size: 49, 91
+  orig: 49, 91
+  offset: 0, 0
+  index: -1
+dragon_blaze_adult_attack
+  rotate: false
+  xy: 433, 1015
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+dragon_blaze_critical_ef2
+  rotate: true
+  xy: 175, 963
+  size: 161, 122
+  orig: 179, 144
+  offset: 10, 14
+  index: -1
+dragon_blaze_child_arm1
+  rotate: false
+  xy: 482, 2
+  size: 25, 52
+  orig: 25, 52
+  offset: 0, 0
+  index: -1
+dragon_blaze_adult_damaged
+  rotate: false
+  xy: 442, 969
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+dragon_blaze_adult_bodyfire02
+  rotate: true
+  xy: 405, 631
+  size: 87, 41
+  orig: 87, 41
+  offset: 0, 0
+  index: -1
+dragon_blaze_adult_head
+  rotate: false
+  xy: 360, 1081
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+dragon_blaze_critical_ef12
+  rotate: false
+  xy: 247, 2
+  size: 233, 165
+  orig: 249, 195
+  offset: 0, 20
+  index: -1
+dragon_blaze_child_leg2
+  rotate: false
+  xy: 461, 761
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+dragon_blaze_critical_ef6
+  rotate: false
+  xy: 175, 631
+  size: 114, 167
+  orig: 122, 173
+  offset: 8, 5
+  index: -1
+dragon_blaze_child_note2
+  rotate: false
+  xy: 448, 677
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_blaze_baby_bodyfire01
+  rotate: true
+  xy: 119, 1103
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+dragon_blaze_baby_tail
+  rotate: true
+  xy: 64, 1103
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+dragon_blaze_baby_body
+  rotate: false
+  xy: 430, 1061
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+dragon_blaze_child_bodyfire01
+  rotate: false
+  xy: 461, 470
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+dragon_blaze_baby_eye
+  rotate: false
+  xy: 147, 1103
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+dragon_blaze_adult_neckfire03
+  rotate: false
+  xy: 389, 797
+  size: 45, 89
+  orig: 45, 89
+  offset: 0, 0
+  index: -1

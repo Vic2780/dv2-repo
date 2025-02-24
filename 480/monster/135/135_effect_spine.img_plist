@@ -1,0 +1,67 @@
+135_effect_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_cerberos_chain23
+  rotate: true
+  xy: 380, 1370
+  size: 542, 290
+  orig: 542, 290
+  offset: 0, 0
+  index: -1
+m_cerberos_chain32
+  rotate: true
+  xy: 2, 1370
+  size: 491, 376
+  orig: 491, 376
+  offset: 0, 0
+  index: -1
+m_cerberos_chain13
+  rotate: false
+  xy: 2, 2
+  size: 685, 304
+  orig: 685, 304
+  offset: 0, 0
+  index: -1
+m_cerberos_chain31
+  rotate: false
+  xy: 2, 613
+  size: 492, 377
+  orig: 492, 377
+  offset: 0, 0
+  index: -1
+m_cerberos_chain33
+  rotate: false
+  xy: 2, 992
+  size: 491, 376
+  orig: 491, 376
+  offset: 0, 0
+  index: -1
+m_cerberos_chain22
+  rotate: true
+  xy: 380, 1370
+  size: 542, 290
+  orig: 542, 290
+  offset: 0, 0
+  index: -1
+m_cerberos_chain12
+  rotate: false
+  xy: 2, 308
+  size: 684, 303
+  orig: 684, 303
+  offset: 0, 0
+  index: -1
+m_cerberos_chain21
+  rotate: true
+  xy: 380, 1370
+  size: 542, 290
+  orig: 542, 290
+  offset: 0, 0
+  index: -1
+m_cerberos_chain11
+  rotate: true
+  xy: 496, 613
+  size: 630, 281
+  orig: 644, 281
+  offset: 0, 0
+  index: -1

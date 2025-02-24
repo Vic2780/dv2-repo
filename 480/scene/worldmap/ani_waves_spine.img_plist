@@ -1,0 +1,102 @@
+ani_waves_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+wavedust03
+  rotate: false
+  xy: 2, 218
+  size: 39, 30
+  orig: 65, 56
+  offset: 19, 10
+  index: -1
+f_wave06
+  rotate: true
+  xy: 217, 2
+  size: 151, 35
+  orig: 173, 71
+  offset: 8, 16
+  index: -1
+wavedust01
+  rotate: true
+  xy: 229, 214
+  size: 23, 20
+  orig: 65, 56
+  offset: 26, 12
+  index: -1
+wavedust_w001
+  rotate: true
+  xy: 77, 218
+  size: 26, 29
+  orig: 80, 81
+  offset: 25, 22
+  index: -1
+wavedust_w002
+  rotate: false
+  xy: 108, 218
+  size: 28, 27
+  orig: 80, 81
+  offset: 31, 24
+  index: -1
+f_wave02
+  rotate: false
+  xy: 2, 2
+  size: 213, 130
+  orig: 221, 164
+  offset: 0, 0
+  index: -1
+f_wave04
+  rotate: true
+  xy: 143, 134
+  size: 66, 14
+  orig: 102, 58
+  offset: 19, 19
+  index: -1
+f_wave03
+  rotate: false
+  xy: 143, 208
+  size: 41, 35
+  orig: 81, 81
+  offset: 24, 23
+  index: -1
+wavedust06
+  rotate: true
+  xy: 159, 155
+  size: 51, 42
+  orig: 65, 56
+  offset: 8, 10
+  index: -1
+f_wave05
+  rotate: true
+  xy: 159, 134
+  size: 18, 33
+  orig: 54, 61
+  offset: 18, 14
+  index: -1
+wavedust04
+  rotate: false
+  xy: 186, 214
+  size: 41, 34
+  orig: 65, 56
+  offset: 17, 10
+  index: -1
+wavedust02
+  rotate: false
+  xy: 43, 218
+  size: 32, 25
+  orig: 80, 81
+  offset: 30, 21
+  index: -1
+f_wave01
+  rotate: false
+  xy: 2, 134
+  size: 139, 82
+  orig: 187, 146
+  offset: 25, 24
+  index: -1
+wavedust05
+  rotate: true
+  xy: 203, 155
+  size: 57, 34
+  orig: 65, 56
+  offset: 8, 10
+  index: -1

@@ -1,0 +1,32 @@
+btn_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+yongsin_BT_ef_e2
+  rotate: true
+  xy: 217, 2
+  size: 157, 149
+  orig: 203, 213
+  offset: 23, 32
+  index: -1
+yongsin_BT_ef_e3
+  rotate: true
+  xy: 2, 2
+  size: 203, 213
+  orig: 203, 213
+  offset: 0, 0
+  index: -1
+yongsin_BT_ef_e1
+  rotate: false
+  xy: 368, 2
+  size: 127, 127
+  orig: 203, 213
+  offset: 39, 42
+  index: -1
+yongsin_ball_BT1
+  rotate: true
+  xy: 368, 131
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1

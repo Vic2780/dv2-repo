@@ -1,0 +1,123 @@
+ani_forest_new_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+worldmap_forest_bird04
+  rotate: true
+  xy: 83, 1502
+  size: 21, 19
+  orig: 23, 23
+  offset: 0, 4
+  index: -1
+worldmap_forest_leaf03
+  rotate: false
+  xy: 56, 1502
+  size: 25, 21
+  orig: 39, 35
+  offset: 6, 6
+  index: -1
+worldmap_forest_tree05
+  rotate: false
+  xy: 2, 752
+  size: 233, 148
+  orig: 233, 148
+  offset: 0, 0
+  index: -1
+worldmap_forest_bird02
+  rotate: false
+  xy: 2, 1502
+  size: 26, 22
+  orig: 28, 28
+  offset: 2, 6
+  index: -1
+worldmap_forest_tree01
+  rotate: false
+  xy: 2, 1352
+  size: 233, 148
+  orig: 233, 148
+  offset: 0, 0
+  index: -1
+worldmap_forest_bird03
+  rotate: true
+  xy: 104, 1502
+  size: 21, 19
+  orig: 23, 23
+  offset: 2, 0
+  index: -1
+worldmap_forest_leaf01
+  rotate: false
+  xy: 125, 1502
+  size: 17, 18
+  orig: 21, 30
+  offset: 4, 7
+  index: -1
+worldmap_forest_tree06
+  rotate: false
+  xy: 2, 602
+  size: 233, 148
+  orig: 233, 148
+  offset: 0, 0
+  index: -1
+worldmap_forest_tree08
+  rotate: false
+  xy: 2, 302
+  size: 233, 148
+  orig: 233, 148
+  offset: 0, 0
+  index: -1
+worldmap_forest_tree07
+  rotate: false
+  xy: 2, 452
+  size: 233, 148
+  orig: 233, 148
+  offset: 0, 0
+  index: -1
+worldmap_forest_tree02
+  rotate: false
+  xy: 2, 1202
+  size: 233, 148
+  orig: 233, 148
+  offset: 0, 0
+  index: -1
+worldmap_forest_tree09
+  rotate: false
+  xy: 2, 152
+  size: 233, 148
+  orig: 233, 148
+  offset: 0, 0
+  index: -1
+worldmap_forest_tree10
+  rotate: false
+  xy: 2, 2
+  size: 233, 148
+  orig: 233, 148
+  offset: 0, 0
+  index: -1
+worldmap_forest_tree04
+  rotate: false
+  xy: 2, 902
+  size: 233, 148
+  orig: 233, 148
+  offset: 0, 0
+  index: -1
+worldmap_forest_tree03
+  rotate: false
+  xy: 2, 1052
+  size: 233, 148
+  orig: 233, 148
+  offset: 0, 0
+  index: -1
+worldmap_forest_bird01
+  rotate: false
+  xy: 30, 1502
+  size: 24, 22
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+worldmap_forest_leaf02
+  rotate: false
+  xy: 144, 1502
+  size: 14, 15
+  orig: 20, 23
+  offset: 2, 6
+  index: -1

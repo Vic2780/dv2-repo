@@ -1,0 +1,494 @@
+dragon_9008_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_luteolum_adult_start2
+  rotate: true
+  xy: 1967, 130
+  size: 70, 66
+  orig: 74, 68
+  offset: 1, 2
+  index: -1
+dragon_luteolum_critical_start4
+  rotate: false
+  xy: 1628, 263
+  size: 48, 48
+  orig: 74, 68
+  offset: 11, 12
+  index: -1
+dragon_luteolum_adult_swig1
+  rotate: true
+  xy: 1642, 132
+  size: 123, 107
+  orig: 231, 237
+  offset: 31, 63
+  index: -1
+dragon_luteolum_critical_att1
+  rotate: true
+  xy: 747, 183
+  size: 130, 132
+  orig: 130, 132
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_fog1
+  rotate: false
+  xy: 1907, 190
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+dragon_luteolum_critical_swig1
+  rotate: true
+  xy: 1642, 132
+  size: 123, 107
+  orig: 231, 237
+  offset: 31, 63
+  index: -1
+dragon_luteolum_adult_mouth
+  rotate: true
+  xy: 1691, 2
+  size: 115, 108
+  orig: 115, 108
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_body2
+  rotate: false
+  xy: 987, 174
+  size: 104, 139
+  orig: 104, 139
+  offset: 0, 0
+  index: -1
+dragon_luteolum_critical_ex3
+  rotate: true
+  xy: 1570, 2
+  size: 128, 119
+  orig: 150, 155
+  offset: 16, 18
+  index: -1
+dragon_luteolum_adult_tail9
+  rotate: false
+  xy: 1992, 278
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_tail12
+  rotate: true
+  xy: 1484, 289
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_leg3
+  rotate: false
+  xy: 1904, 2
+  size: 65, 95
+  orig: 65, 95
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_tail4
+  rotate: false
+  xy: 344, 219
+  size: 59, 81
+  orig: 59, 81
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_ring
+  rotate: true
+  xy: 2, 233
+  size: 79, 74
+  orig: 79, 74
+  offset: 0, 0
+  index: -1
+dragon_luteolum_critical_swig2
+  rotate: true
+  xy: 426, 2
+  size: 187, 171
+  orig: 231, 237
+  offset: 29, 30
+  index: -1
+dragon_luteolum_adult_start1
+  rotate: false
+  xy: 1971, 2
+  size: 62, 66
+  orig: 74, 68
+  offset: 0, 1
+  index: -1
+dragon_luteolum_adult_head
+  rotate: true
+  xy: 1396, 153
+  size: 134, 119
+  orig: 134, 119
+  offset: 0, 0
+  index: -1
+dragon_luteolum_critical_start1
+  rotate: false
+  xy: 1971, 2
+  size: 62, 66
+  orig: 74, 68
+  offset: 0, 1
+  index: -1
+dragon_luteolum_adult_run3
+  rotate: true
+  xy: 721, 2
+  size: 179, 53
+  orig: 197, 61
+  offset: 7, 3
+  index: -1
+dragon_luteolum_critical_att2
+  rotate: true
+  xy: 1517, 133
+  size: 128, 123
+  orig: 128, 123
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_wing3
+  rotate: true
+  xy: 1506, 289
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_fog2
+  rotate: false
+  xy: 1458, 289
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_light1
+  rotate: false
+  xy: 1577, 263
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+dragon_luteolum_critical_ex2
+  rotate: true
+  xy: 1783, 232
+  size: 72, 71
+  orig: 150, 155
+  offset: 36, 42
+  index: -1
+dragon_luteolum_adult_tail11
+  rotate: false
+  xy: 1396, 289
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_leg4
+  rotate: false
+  xy: 290, 219
+  size: 52, 83
+  orig: 52, 83
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_tail1
+  rotate: false
+  xy: 1496, 2
+  size: 72, 129
+  orig: 72, 129
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_body3
+  rotate: false
+  xy: 881, 174
+  size: 104, 139
+  orig: 104, 139
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_tail6
+  rotate: true
+  xy: 1907, 153
+  size: 35, 54
+  orig: 35, 54
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_tail15
+  rotate: true
+  xy: 426, 191
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_run4
+  rotate: true
+  xy: 660, 2
+  size: 181, 59
+  orig: 197, 61
+  offset: 11, 1
+  index: -1
+dragon_luteolum_critical_ex7
+  rotate: false
+  xy: 1093, 171
+  size: 144, 141
+  orig: 150, 155
+  offset: 4, 7
+  index: -1
+dragon_luteolum_adult_tail5
+  rotate: false
+  xy: 405, 219
+  size: 50, 74
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_swig2
+  rotate: true
+  xy: 426, 2
+  size: 187, 171
+  orig: 231, 237
+  offset: 29, 30
+  index: -1
+dragon_luteolum_adult_wing4
+  rotate: false
+  xy: 405, 295
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+dragon_luteolum_critical_point
+  rotate: false
+  xy: 880, 2
+  size: 151, 170
+  orig: 155, 176
+  offset: 0, 4
+  index: -1
+dragon_luteolum_critical_swig3
+  rotate: true
+  xy: 231, 2
+  size: 215, 193
+  orig: 231, 237
+  offset: 3, 42
+  index: -1
+dragon_luteolum_adult_tail10
+  rotate: true
+  xy: 1984, 239
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_start4
+  rotate: false
+  xy: 1628, 263
+  size: 48, 48
+  orig: 74, 68
+  offset: 11, 12
+  index: -1
+dragon_luteolum_critical_start2
+  rotate: true
+  xy: 1967, 130
+  size: 70, 66
+  orig: 74, 68
+  offset: 1, 2
+  index: -1
+dragon_luteolum_critical_att3
+  rotate: false
+  xy: 1801, 2
+  size: 101, 101
+  orig: 107, 105
+  offset: 3, 1
+  index: -1
+dragon_luteolum_critical_ex5
+  rotate: true
+  xy: 1239, 159
+  size: 150, 155
+  orig: 150, 155
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_tail14
+  rotate: true
+  xy: 1427, 289
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+dragon_luteolum_critical_ex6
+  rotate: false
+  xy: 1196, 2
+  size: 150, 155
+  orig: 150, 155
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_leg5
+  rotate: false
+  xy: 1856, 206
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_wing1
+  rotate: true
+  xy: 1971, 70
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+dragon_luteolum_critical_light2
+  rotate: true
+  xy: 610, 187
+  size: 123, 135
+  orig: 123, 135
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_light2
+  rotate: true
+  xy: 1751, 119
+  size: 111, 101
+  orig: 137, 125
+  offset: 10, 15
+  index: -1
+dragon_luteolum_adult_tail17
+  rotate: false
+  xy: 78, 233
+  size: 82, 78
+  orig: 82, 78
+  offset: 0, 0
+  index: -1
+dragon_luteolum_critical_ex1
+  rotate: true
+  xy: 1528, 263
+  size: 50, 47
+  orig: 150, 155
+  offset: 44, 51
+  index: -1
+dragon_luteolum_adult_tail7
+  rotate: true
+  xy: 1962, 202
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_run5
+  rotate: true
+  xy: 599, 2
+  size: 183, 59
+  orig: 197, 61
+  offset: 9, 1
+  index: -1
+dragon_luteolum_adult_swig3
+  rotate: true
+  xy: 231, 2
+  size: 215, 193
+  orig: 231, 237
+  offset: 3, 42
+  index: -1
+dragon_luteolum_adult_leg1
+  rotate: true
+  xy: 1856, 243
+  size: 65, 95
+  orig: 65, 95
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_tail2
+  rotate: true
+  xy: 1678, 257
+  size: 54, 103
+  orig: 54, 103
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_wing5
+  rotate: false
+  xy: 431, 295
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_body1
+  rotate: true
+  xy: 460, 191
+  size: 121, 148
+  orig: 121, 148
+  offset: 0, 0
+  index: -1
+dragon_luteolum_critical_swig4
+  rotate: false
+  xy: 2, 2
+  size: 227, 229
+  orig: 231, 237
+  offset: 1, 2
+  index: -1
+dragon_luteolum_critical_ex4
+  rotate: false
+  xy: 1348, 2
+  size: 146, 149
+  orig: 150, 155
+  offset: 0, 0
+  index: -1
+dragon_luteolum_critical_start3
+  rotate: false
+  xy: 1907, 99
+  size: 58, 52
+  orig: 74, 68
+  offset: 4, 7
+  index: -1
+dragon_luteolum_adult_run1
+  rotate: true
+  xy: 825, 2
+  size: 171, 53
+  orig: 197, 61
+  offset: 2, 0
+  index: -1
+dragon_luteolum_adult_tail16
+  rotate: true
+  xy: 1953, 239
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_tail8
+  rotate: true
+  xy: 1953, 281
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_start3
+  rotate: false
+  xy: 1907, 99
+  size: 58, 52
+  orig: 74, 68
+  offset: 4, 7
+  index: -1
+dragon_luteolum_adult_leg2
+  rotate: false
+  xy: 1854, 105
+  size: 51, 99
+  orig: 51, 99
+  offset: 0, 0
+  index: -1
+dragon_luteolum_critical_light1
+  rotate: true
+  xy: 1033, 2
+  size: 167, 161
+  orig: 169, 161
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_tail13
+  rotate: false
+  xy: 1751, 232
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_run2
+  rotate: true
+  xy: 776, 2
+  size: 173, 47
+  orig: 197, 61
+  offset: 3, 3
+  index: -1
+dragon_luteolum_adult_tail3
+  rotate: false
+  xy: 232, 219
+  size: 56, 90
+  orig: 56, 90
+  offset: 0, 0
+  index: -1
+dragon_luteolum_adult_wing2
+  rotate: false
+  xy: 162, 233
+  size: 68, 74
+  orig: 68, 74
+  offset: 0, 0
+  index: -1

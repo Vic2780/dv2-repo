@@ -1,0 +1,193 @@
+169_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_goga_gro_mouth1
+  rotate: true
+  xy: 316, 1380
+  size: 47, 46
+  orig: 297, 130
+  offset: 88, 24
+  index: -1
+m_goga_gro_body2
+  rotate: false
+  xy: 168, 1255
+  size: 146, 172
+  orig: 208, 336
+  offset: 62, 102
+  index: -1
+m_goga_mouth1
+  rotate: false
+  xy: 2, 724
+  size: 297, 130
+  orig: 297, 130
+  offset: 0, 0
+  index: -1
+m_goga_drop2
+  rotate: false
+  xy: 316, 1325
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+m_goga_pinna3
+  rotate: false
+  xy: 340, 416
+  size: 162, 111
+  orig: 162, 111
+  offset: 0, 0
+  index: -1
+m_goga_gro_mouth2
+  rotate: false
+  xy: 288, 1069
+  size: 210, 93
+  orig: 284, 221
+  offset: 38, 18
+  index: -1
+m_goga_gro_head
+  rotate: false
+  xy: 288, 918
+  size: 213, 149
+  orig: 359, 211
+  offset: 56, 42
+  index: -1
+m_goga_gro_body1
+  rotate: false
+  xy: 2, 1079
+  size: 239, 174
+  orig: 313, 218
+  offset: 65, 44
+  index: -1
+m_goga_pinna1_p
+  rotate: false
+  xy: 309, 722
+  size: 193, 111
+  orig: 249, 141
+  offset: 56, 4
+  index: -1
+m_goga_drop3
+  rotate: false
+  xy: 243, 1079
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+m_goga_pinna2
+  rotate: false
+  xy: 2, 1255
+  size: 164, 176
+  orig: 164, 176
+  offset: 0, 0
+  index: -1
+m_goga_body1
+  rotate: false
+  xy: 2, 417
+  size: 313, 216
+  orig: 313, 218
+  offset: 0, 0
+  index: -1
+m_goga_tail_p
+  rotate: true
+  xy: 243, 1164
+  size: 87, 105
+  orig: 179, 191
+  offset: 87, 54
+  index: -1
+m_goga_gro_pinna2
+  rotate: true
+  xy: 2, 1433
+  size: 70, 96
+  orig: 164, 176
+  offset: 54, 6
+  index: -1
+m_goga_head
+  rotate: false
+  xy: 2, 2
+  size: 359, 211
+  orig: 359, 211
+  offset: 0, 0
+  index: -1
+m_goga_drop4
+  rotate: false
+  xy: 191, 1429
+  size: 86, 69
+  orig: 86, 69
+  offset: 0, 0
+  index: -1
+m_goga_pinna5
+  rotate: true
+  xy: 363, 2
+  size: 93, 132
+  orig: 93, 132
+  offset: 0, 0
+  index: -1
+m_goga_tail
+  rotate: false
+  xy: 317, 529
+  size: 179, 191
+  orig: 179, 191
+  offset: 0, 0
+  index: -1
+m_goga_body2
+  rotate: true
+  xy: 2, 215
+  size: 200, 336
+  orig: 208, 336
+  offset: 0, 0
+  index: -1
+m_goga_pinna1
+  rotate: true
+  xy: 350, 1164
+  size: 159, 141
+  orig: 249, 141
+  offset: 0, 0
+  index: -1
+m_goga_eye
+  rotate: false
+  xy: 2, 635
+  size: 305, 87
+  orig: 359, 211
+  offset: 15, 52
+  index: -1
+m_goga_gro_body22
+  rotate: false
+  xy: 279, 1429
+  size: 109, 65
+  orig: 109, 65
+  offset: 0, 0
+  index: -1
+m_goga_gro_eye
+  rotate: true
+  xy: 363, 97
+  size: 317, 131
+  orig: 359, 211
+  offset: 13, 36
+  index: -1
+m_goga_mouth2
+  rotate: false
+  xy: 2, 856
+  size: 284, 221
+  orig: 284, 221
+  offset: 0, 0
+  index: -1
+m_goga_pinna33
+  rotate: true
+  xy: 390, 1325
+  size: 165, 110
+  orig: 165, 110
+  offset: 0, 0
+  index: -1
+m_goga_drop1
+  rotate: false
+  xy: 100, 1433
+  size: 89, 70
+  orig: 89, 70
+  offset: 0, 0
+  index: -1
+m_goga_pinna4
+  rotate: false
+  xy: 301, 835
+  size: 191, 81
+  orig: 191, 81
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,137 @@
+69_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_clight_groggybody3
+  rotate: true
+  xy: 306, 1438
+  size: 30, 81
+  orig: 62, 95
+  offset: 22, 3
+  index: -1
+m_clight_groggymause
+  rotate: false
+  xy: 367, 451
+  size: 22, 26
+  orig: 50, 48
+  offset: 15, 4
+  index: -1
+m_clight_head1
+  rotate: true
+  xy: 228, 1262
+  size: 174, 158
+  orig: 188, 182
+  offset: 8, 10
+  index: -1
+m_clight_body1
+  rotate: false
+  xy: 2, 2
+  size: 388, 146
+  orig: 410, 180
+  offset: 14, 14
+  index: -1
+m_clight_groggyleg
+  rotate: true
+  xy: 306, 1470
+  size: 476, 76
+  orig: 494, 114
+  offset: 10, 16
+  index: -1
+m_clight_groggybody2
+  rotate: false
+  xy: 367, 479
+  size: 18, 66
+  orig: 60, 96
+  offset: 22, 16
+  index: -1
+m_clight_groggyhead3
+  rotate: true
+  xy: 2, 387
+  size: 358, 363
+  orig: 370, 365
+  offset: 6, 2
+  index: -1
+m_clight_head2
+  rotate: false
+  xy: 2, 1327
+  size: 223, 221
+  orig: 243, 251
+  offset: 11, 16
+  index: -1
+m_clight_body2
+  rotate: false
+  xy: 2, 150
+  size: 388, 87
+  orig: 420, 121
+  offset: 18, 20
+  index: -1
+m_clight_leg
+  rotate: true
+  xy: 227, 1438
+  size: 487, 77
+  orig: 503, 85
+  offset: 8, 3
+  index: -1
+m_clight_groggybody1
+  rotate: false
+  xy: 2, 239
+  size: 384, 146
+  orig: 426, 176
+  offset: 24, 9
+  index: -1
+m_clight_groggyhead2
+  rotate: false
+  xy: 2, 1105
+  size: 224, 220
+  orig: 232, 236
+  offset: 2, 15
+  index: -1
+m_clight_mause
+  rotate: true
+  xy: 100, 1592
+  size: 95, 106
+  orig: 115, 130
+  offset: 16, 4
+  index: -1
+m_clight_groggyteeth
+  rotate: true
+  xy: 367, 387
+  size: 62, 22
+  orig: 76, 38
+  offset: 6, 9
+  index: -1
+m_clight_eye
+  rotate: false
+  xy: 100, 1550
+  size: 116, 40
+  orig: 128, 42
+  offset: 9, 2
+  index: -1
+m_clight_head3
+  rotate: true
+  xy: 2, 747
+  size: 356, 363
+  orig: 368, 365
+  offset: 3, 2
+  index: -1
+m_clight_body3
+  rotate: true
+  xy: 2, 1550
+  size: 403, 96
+  orig: 413, 104
+  offset: 10, 0
+  index: -1
+m_clight_groggyhead1
+  rotate: false
+  xy: 228, 1105
+  size: 160, 155
+  orig: 170, 179
+  offset: 5, 8
+  index: -1
+m_clight_teeth
+  rotate: false
+  xy: 100, 1689
+  size: 61, 30
+  orig: 85, 50
+  offset: 13, 7
+  index: -1

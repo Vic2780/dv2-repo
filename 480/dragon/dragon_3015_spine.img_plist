@@ -1,0 +1,452 @@
+dragon_3015_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_gast_baby_hair
+  rotate: false
+  xy: 210, 593
+  size: 43, 20
+  orig: 63, 62
+  offset: 20, 42
+  index: -1
+dragon_gast_adult_hair3
+  rotate: false
+  xy: 202, 839
+  size: 51, 15
+  orig: 51, 15
+  offset: 0, 0
+  index: -1
+dragon_gast_adult_cri1
+  rotate: true
+  xy: 2, 2
+  size: 175, 247
+  orig: 319, 319
+  offset: 85, 45
+  index: -1
+dragon_gast_baby_body
+  rotate: true
+  xy: 132, 659
+  size: 61, 76
+  orig: 67, 76
+  offset: 0, 0
+  index: -1
+dragon_gast_adult_music2
+  rotate: false
+  xy: 169, 895
+  size: 17, 18
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+dragon_gast_adult_tail
+  rotate: false
+  xy: 2, 532
+  size: 143, 92
+  orig: 143, 92
+  offset: 0, 0
+  index: -1
+dragon_gast_child_head
+  rotate: true
+  xy: 201, 878
+  size: 44, 52
+  orig: 74, 86
+  offset: 0, 0
+  index: -1
+dragon_gast_adult_craw
+  rotate: false
+  xy: 176, 879
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+dragon_gast_child_heart
+  rotate: true
+  xy: 214, 545
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_gast_adult_leg2
+  rotate: false
+  xy: 216, 409
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+dragon_gast_baby_mouth
+  rotate: false
+  xy: 183, 380
+  size: 31, 24
+  orig: 63, 62
+  offset: 15, 0
+  index: -1
+dragon_gast_adult_eff2
+  rotate: true
+  xy: 2, 362
+  size: 168, 179
+  orig: 168, 179
+  offset: 0, 0
+  index: -1
+dragon_gast_child_arm2
+  rotate: true
+  xy: 183, 472
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+dragon_gast_child_body
+  rotate: false
+  xy: 132, 722
+  size: 71, 47
+  orig: 71, 47
+  offset: 0, 0
+  index: -1
+dragon_gast_child_foot
+  rotate: false
+  xy: 183, 406
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+dragon_gast_baby_tail
+  rotate: true
+  xy: 217, 281
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+dragon_gast_child_tail
+  rotate: false
+  xy: 122, 771
+  size: 78, 85
+  orig: 78, 85
+  offset: 0, 0
+  index: -1
+dragon_gast_baby_arm2
+  rotate: true
+  xy: 147, 532
+  size: 46, 29
+  orig: 46, 29
+  offset: 0, 0
+  index: -1
+dragon_gast_adult_neck
+  rotate: false
+  xy: 183, 522
+  size: 29, 56
+  orig: 29, 56
+  offset: 0, 0
+  index: -1
+dragon_gast_adult_tooth
+  rotate: true
+  xy: 122, 745
+  size: 10, 7
+  orig: 34, 25
+  offset: 12, 6
+  index: -1
+dragon_gast_child_mouth
+  rotate: false
+  xy: 92, 745
+  size: 28, 28
+  orig: 74, 86
+  offset: 11, 0
+  index: -1
+dragon_gast_adult_mouth
+  rotate: false
+  xy: 92, 802
+  size: 28, 17
+  orig: 34, 25
+  offset: 3, 0
+  index: -1
+dragon_gast_adult_hand
+  rotate: false
+  xy: 217, 924
+  size: 16, 18
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+dragon_gast_adult_head
+  rotate: false
+  xy: 217, 231
+  size: 34, 23
+  orig: 34, 25
+  offset: 0, 2
+  index: -1
+dragon_gast_baby_hand2
+  rotate: false
+  xy: 49, 845
+  size: 12, 11
+  orig: 12, 13
+  offset: 0, 2
+  index: -1
+dragon_gast_baby_arm3
+  rotate: true
+  xy: 49, 828
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+dragon_gast_child_eye
+  rotate: true
+  xy: 183, 362
+  size: 16, 32
+  orig: 74, 86
+  offset: 23, 9
+  index: -1
+dragon_gast_baby_hand1
+  rotate: true
+  xy: 132, 640
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+dragon_gast_adult_wing2
+  rotate: false
+  xy: 2, 626
+  size: 128, 117
+  orig: 128, 117
+  offset: 0, 0
+  index: -1
+dragon_gast_baby_leg2
+  rotate: true
+  xy: 164, 858
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+dragon_gast_adult_leg1
+  rotate: false
+  xy: 210, 667
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+dragon_gast_child_love
+  rotate: false
+  xy: 72, 828
+  size: 44, 52
+  orig: 74, 86
+  offset: 0, 0
+  index: -1
+dragon_gast_adult_arm2
+  rotate: false
+  xy: 183, 426
+  size: 30, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+dragon_gast_child_hair2
+  rotate: true
+  xy: 118, 858
+  size: 20, 44
+  orig: 74, 86
+  offset: 9, 42
+  index: -1
+dragon_gast_child_hand
+  rotate: true
+  xy: 235, 924
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+dragon_gast_adult_hair2
+  rotate: true
+  xy: 144, 880
+  size: 56, 23
+  orig: 56, 23
+  offset: 0, 0
+  index: -1
+dragon_gast_adult_leg3
+  rotate: false
+  xy: 217, 354
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+dragon_gast_adult_body
+  rotate: true
+  xy: 2, 858
+  size: 86, 68
+  orig: 86, 68
+  offset: 0, 0
+  index: -1
+dragon_gast_baby_leg3
+  rotate: true
+  xy: 169, 924
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+dragon_gast_adult_love1
+  rotate: false
+  xy: 217, 179
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+dragon_gast_adult_love_eye
+  rotate: true
+  xy: 188, 895
+  size: 12, 11
+  orig: 34, 25
+  offset: 11, 9
+  index: -1
+dragon_gast_child_leg1
+  rotate: false
+  xy: 215, 496
+  size: 38, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+dragon_gast_baby_eye
+  rotate: false
+  xy: 2, 828
+  size: 23, 26
+  orig: 63, 62
+  offset: 19, 12
+  index: -1
+dragon_gast_baby_arm1
+  rotate: false
+  xy: 200, 924
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+dragon_gast_adult_effect1
+  rotate: true
+  xy: 2, 179
+  size: 181, 213
+  orig: 319, 319
+  offset: 81, 45
+  index: -1
+dragon_gast_baby_tooth
+  rotate: false
+  xy: 188, 909
+  size: 11, 10
+  orig: 63, 62
+  offset: 28, 5
+  index: -1
+dragon_gast_baby_head
+  rotate: false
+  xy: 202, 789
+  size: 51, 48
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+dragon_gast_adult_wing1
+  rotate: false
+  xy: 2, 745
+  size: 88, 81
+  orig: 128, 117
+  offset: 0, 8
+  index: -1
+dragon_gast_adult_att
+  rotate: false
+  xy: 217, 256
+  size: 34, 23
+  orig: 34, 25
+  offset: 0, 2
+  index: -1
+dragon_gast_adult_arm1
+  rotate: false
+  xy: 92, 775
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+dragon_gast_baby_love
+  rotate: true
+  xy: 205, 736
+  size: 51, 48
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+dragon_gast_child_hair1
+  rotate: true
+  xy: 215, 440
+  size: 54, 38
+  orig: 74, 86
+  offset: 20, 43
+  index: -1
+dragon_gast_child_neck
+  rotate: false
+  xy: 210, 615
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+dragon_gast_adult_lovelip
+  rotate: false
+  xy: 188, 921
+  size: 10, 9
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+dragon_gast_adult_hit
+  rotate: false
+  xy: 217, 206
+  size: 34, 23
+  orig: 34, 25
+  offset: 0, 2
+  index: -1
+dragon_gast_baby_leg1
+  rotate: true
+  xy: 27, 828
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+dragon_gast_child_leg2
+  rotate: true
+  xy: 210, 719
+  size: 15, 37
+  orig: 15, 47
+  offset: 0, 10
+  index: -1
+dragon_gast_adult_music1
+  rotate: false
+  xy: 176, 858
+  size: 23, 19
+  orig: 25, 19
+  offset: 1, 0
+  index: -1
+dragon_gast_adult_hair1
+  rotate: true
+  xy: 131, 880
+  size: 58, 11
+  orig: 58, 11
+  offset: 0, 0
+  index: -1
+dragon_gast_child_arm1
+  rotate: false
+  xy: 183, 500
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+dragon_gast_baby_smile
+  rotate: false
+  xy: 72, 882
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_gast_adult_eye
+  rotate: true
+  xy: 132, 626
+  size: 12, 13
+  orig: 34, 25
+  offset: 11, 9
+  index: -1
+dragon_gast_child_wing
+  rotate: true
+  xy: 147, 580
+  size: 77, 61
+  orig: 77, 61
+  offset: 0, 0
+  index: -1
+dragon_gast_adult_foot
+  rotate: false
+  xy: 202, 856
+  size: 50, 20
+  orig: 50, 20
+  offset: 0, 0
+  index: -1

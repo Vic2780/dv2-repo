@@ -1,0 +1,214 @@
+upgrade_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+u_village_lab_blast_base_off
+  rotate: false
+  xy: 208, 1065
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+u_village_lab_blast_base_off3
+  rotate: true
+  xy: 210, 924
+  size: 80, 83
+  orig: 80, 83
+  offset: 0, 0
+  index: -1
+u_village_lab_blast_valve04
+  rotate: true
+  xy: 221, 762
+  size: 160, 75
+  orig: 206, 77
+  offset: 25, 2
+  index: -1
+u_village_lab_blast_smoke02
+  rotate: false
+  xy: 2, 734
+  size: 217, 122
+  orig: 217, 144
+  offset: 0, 4
+  index: -1
+u_village_lab_blast_head
+  rotate: false
+  xy: 2, 616
+  size: 221, 116
+  orig: 221, 116
+  offset: 0, 0
+  index: -1
+u_village_lab_blast_light03
+  rotate: false
+  xy: 2, 937
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+u_village_lab_blast_valve07
+  rotate: false
+  xy: 2, 1685
+  size: 178, 77
+  orig: 206, 77
+  offset: 10, 0
+  index: -1
+u_village_lab_blast_smoke07
+  rotate: false
+  xy: 2, 1764
+  size: 165, 140
+  orig: 217, 144
+  offset: 19, 3
+  index: -1
+u_village_lab_blast_sssvalve
+  rotate: true
+  xy: 280, 341
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+u_village_lab_blast_valve03
+  rotate: true
+  xy: 208, 1542
+  size: 180, 77
+  orig: 206, 77
+  offset: 14, 0
+  index: -1
+u_village_lab_blast_smoke03
+  rotate: true
+  xy: 208, 1006
+  size: 57, 80
+  orig: 217, 144
+  offset: 77, 3
+  index: -1
+u_village_lab_blast_base_off2
+  rotate: true
+  xy: 2, 1981
+  size: 46, 58
+  orig: 46, 58
+  offset: 0, 0
+  index: -1
+u_village_lab_blast_base_book
+  rotate: false
+  xy: 182, 1685
+  size: 19, 77
+  orig: 19, 77
+  offset: 0, 0
+  index: -1
+u_village_lab_blast_bu
+  rotate: false
+  xy: 280, 372
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+u_village_lab_blast_sssvalve2
+  rotate: false
+  xy: 280, 298
+  size: 13, 41
+  orig: 13, 41
+  offset: 0, 0
+  index: -1
+u_village_lab_blast_light04
+  rotate: false
+  xy: 2, 2
+  size: 294, 294
+  orig: 294, 294
+  offset: 0, 0
+  index: -1
+u_village_lab_blast_valve06
+  rotate: false
+  xy: 2, 1906
+  size: 160, 73
+  orig: 206, 77
+  offset: 18, 3
+  index: -1
+u_village_lab_blast_valve02
+  rotate: true
+  xy: 208, 1146
+  size: 198, 77
+  orig: 206, 77
+  offset: 4, 0
+  index: -1
+u_village_lab_blast_smoke04
+  rotate: true
+  xy: 203, 1724
+  size: 51, 92
+  orig: 217, 144
+  offset: 81, 1
+  index: -1
+u_village_lab_blast_headsss
+  rotate: true
+  xy: 169, 1764
+  size: 55, 32
+  orig: 55, 32
+  offset: 0, 0
+  index: -1
+u_village_lab_blast_headsssbook
+  rotate: false
+  xy: 203, 1777
+  size: 55, 28
+  orig: 55, 32
+  offset: 0, 2
+  index: -1
+u_village_lab_blast_light01
+  rotate: false
+  xy: 2, 1349
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+u_village_lab_blast_base
+  rotate: true
+  xy: 2, 298
+  size: 316, 276
+  orig: 316, 276
+  offset: 0, 0
+  index: -1
+u_village_lab_blast_valve01
+  rotate: false
+  xy: 2, 858
+  size: 206, 77
+  orig: 206, 77
+  offset: 0, 0
+  index: -1
+u_village_lab_blast_smoke01
+  rotate: false
+  xy: 2, 1555
+  size: 187, 128
+  orig: 217, 144
+  offset: 13, 3
+  index: -1
+u_village_lab_blast_valve05
+  rotate: true
+  xy: 225, 616
+  size: 144, 71
+  orig: 206, 77
+  offset: 30, 4
+  index: -1
+u_village_lab_blast_smoke05
+  rotate: true
+  xy: 164, 1940
+  size: 77, 106
+  orig: 217, 144
+  offset: 67, 3
+  index: -1
+u_village_lab_blast_light02
+  rotate: false
+  xy: 2, 1143
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+u_village_lab_blast_valve08
+  rotate: true
+  xy: 208, 1346
+  size: 194, 77
+  orig: 206, 77
+  offset: 3, 0
+  index: -1
+u_village_lab_blast_smoke06
+  rotate: true
+  xy: 169, 1821
+  size: 117, 124
+  orig: 217, 144
+  offset: 46, 0
+  index: -1

@@ -1,0 +1,536 @@
+dragon_93_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_iron_baby_head
+  rotate: false
+  xy: 1351, 173
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+dragon_iron_child_head
+  rotate: false
+  xy: 1143, 157
+  size: 55, 47
+  orig: 61, 47
+  offset: 6, 0
+  index: -1
+dragon_iron_child_ear2
+  rotate: false
+  xy: 1445, 106
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+dragon_iron_adult_ear2
+  rotate: true
+  xy: 1506, 46
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+dragon_iron_adult_leg5
+  rotate: false
+  xy: 295, 204
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+dragon_iron_child_wing
+  rotate: false
+  xy: 1314, 2
+  size: 100, 74
+  orig: 100, 74
+  offset: 0, 0
+  index: -1
+dragon_iron_child_lovebody
+  rotate: false
+  xy: 1296, 165
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+dragon_iron_baby_leg7
+  rotate: true
+  xy: 411, 204
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+dragon_iron_baby_leg4
+  rotate: false
+  xy: 1485, 141
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+dragon_iron_adult_tail2
+  rotate: false
+  xy: 798, 185
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+dragon_iron_adult_leg6
+  rotate: false
+  xy: 845, 185
+  size: 16, 40
+  orig: 32, 54
+  offset: 16, 14
+  index: -1
+dragon_iron_child_arm2
+  rotate: false
+  xy: 497, 198
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: -1
+dragon_iron_adult_leg1
+  rotate: false
+  xy: 1355, 115
+  size: 31, 56
+  orig: 31, 56
+  offset: 0, 0
+  index: -1
+dragon_iron_critical5
+  rotate: false
+  xy: 1006, 2
+  size: 150, 135
+  orig: 150, 141
+  offset: 0, 1
+  index: -1
+dragon_iron_adult_critical3
+  rotate: true
+  xy: 439, 2
+  size: 108, 254
+  orig: 110, 260
+  offset: 0, 1
+  index: -1
+dragon_iron_adult_leg2
+  rotate: true
+  xy: 1445, 143
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+dragon_iron_adult_damaged
+  rotate: false
+  xy: 1444, 168
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+dragon_iron_baby_leg6
+  rotate: true
+  xy: 1257, 208
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+dragon_iron_baby_note1
+  rotate: false
+  xy: 1403, 186
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_iron_adult_eye
+  rotate: false
+  xy: 1143, 139
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+dragon_iron_baby_mouth
+  rotate: false
+  xy: 1481, 169
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+dragon_iron_adult_love
+  rotate: true
+  xy: 1506, 86
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+dragon_iron_critical4
+  rotate: false
+  xy: 695, 2
+  size: 181, 181
+  orig: 181, 181
+  offset: 0, 0
+  index: -1
+dragon_iron_child_body
+  rotate: false
+  xy: 1017, 139
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+dragon_iron_adult_wing2
+  rotate: false
+  xy: 591, 112
+  size: 102, 83
+  orig: 102, 83
+  offset: 0, 0
+  index: -1
+dragon_iron_baby_leg3
+  rotate: true
+  xy: 327, 204
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+dragon_iron_child_smile
+  rotate: false
+  xy: 878, 165
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_iron_baby_ear2
+  rotate: false
+  xy: 1507, 191
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+dragon_iron_adult_leg7
+  rotate: true
+  xy: 1069, 189
+  size: 36, 25
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+dragon_iron_critical7
+  rotate: false
+  xy: 228, 2
+  size: 209, 200
+  orig: 209, 200
+  offset: 0, 0
+  index: -1
+dragon_iron_adult_mouth
+  rotate: false
+  xy: 1509, 173
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+dragon_iron_child_arm3
+  rotate: true
+  xy: 439, 198
+  size: 27, 56
+  orig: 31, 60
+  offset: 4, 4
+  index: -1
+dragon_iron_baby_tail
+  rotate: true
+  xy: 1017, 189
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+dragon_iron_child_mouth
+  rotate: true
+  xy: 1485, 106
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+dragon_iron_adult_leg3
+  rotate: false
+  xy: 1163, 206
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+dragon_iron_adult_tail5
+  rotate: true
+  xy: 1504, 2
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+dragon_iron_child_leg1
+  rotate: true
+  xy: 695, 185
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+dragon_iron_adult_attackeyelight
+  rotate: true
+  xy: 1006, 139
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+dragon_iron_adult_lovefire1
+  rotate: true
+  xy: 640, 197
+  size: 23, 42
+  orig: 25, 46
+  offset: 2, 4
+  index: -1
+dragon_iron_adult_body2
+  rotate: false
+  xy: 1403, 152
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+dragon_iron_baby_leg2
+  rotate: false
+  xy: 596, 197
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+dragon_iron_baby_head2
+  rotate: true
+  xy: 1472, 203
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+dragon_iron_critical6
+  rotate: false
+  xy: 878, 2
+  size: 126, 161
+  orig: 134, 161
+  offset: 7, 0
+  index: -1
+dragon_iron_adult_loveeyelight
+  rotate: false
+  xy: 1296, 102
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+dragon_iron_adult_lovefire2
+  rotate: false
+  xy: 1414, 106
+  size: 29, 44
+  orig: 29, 46
+  offset: 0, 2
+  index: -1
+dragon_iron_child_love
+  rotate: false
+  xy: 1416, 57
+  size: 57, 47
+  orig: 61, 47
+  offset: 4, 0
+  index: -1
+dragon_iron_adult_tail1
+  rotate: false
+  xy: 1314, 78
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+dragon_iron_child_arm4
+  rotate: false
+  xy: 228, 204
+  size: 65, 21
+  orig: 65, 21
+  offset: 0, 0
+  index: -1
+dragon_iron_adult_attack
+  rotate: false
+  xy: 1435, 196
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+dragon_iron_adult_bodylight
+  rotate: true
+  xy: 1510, 123
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+dragon_iron_adult_twinkling
+  rotate: true
+  xy: 2, 2
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+dragon_iron_child_eye
+  rotate: false
+  xy: 1198, 208
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+dragon_iron_baby_ear1
+  rotate: true
+  xy: 1481, 186
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+dragon_iron_adult_tail4
+  rotate: true
+  xy: 1296, 115
+  size: 48, 57
+  orig: 48, 57
+  offset: 0, 0
+  index: -1
+dragon_iron_child_bodylight
+  rotate: true
+  xy: 1386, 78
+  size: 20, 28
+  orig: 20, 30
+  offset: 0, 1
+  index: -1
+dragon_iron_baby_eye
+  rotate: false
+  xy: 1489, 203
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+dragon_iron_adult_body11
+  rotate: true
+  xy: 1510, 148
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+dragon_iron_child_tail
+  rotate: true
+  xy: 1083, 139
+  size: 48, 58
+  orig: 48, 58
+  offset: 0, 0
+  index: -1
+dragon_iron_baby_body
+  rotate: true
+  xy: 1200, 157
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+dragon_iron_baby_bodylight
+  rotate: true
+  xy: 1505, 209
+  size: 15, 18
+  orig: 17, 18
+  offset: 1, 0
+  index: -1
+dragon_iron_adult_leg4
+  rotate: false
+  xy: 1475, 57
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+dragon_iron_baby_note2
+  rotate: true
+  xy: 1096, 189
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_iron_adult_body12
+  rotate: false
+  xy: 1416, 2
+  size: 86, 53
+  orig: 88, 53
+  offset: 0, 0
+  index: -1
+dragon_iron_baby_love
+  rotate: false
+  xy: 1244, 155
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+dragon_iron_baby_leg1
+  rotate: false
+  xy: 618, 197
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+dragon_iron_child_ear1
+  rotate: false
+  xy: 750, 185
+  size: 46, 29
+  orig: 46, 29
+  offset: 0, 0
+  index: -1
+dragon_iron_adult_critical1
+  rotate: false
+  xy: 1158, 2
+  size: 154, 98
+  orig: 156, 98
+  offset: 0, 0
+  index: -1
+dragon_iron_adult_wing1
+  rotate: false
+  xy: 937, 165
+  size: 78, 55
+  orig: 78, 55
+  offset: 0, 0
+  index: -1
+dragon_iron_adult_critical2
+  rotate: false
+  xy: 439, 112
+  size: 150, 84
+  orig: 158, 84
+  offset: 0, 0
+  index: -1
+dragon_iron_baby_leg5
+  rotate: true
+  xy: 1139, 206
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+dragon_iron_adult_tail3
+  rotate: true
+  xy: 1231, 102
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+dragon_iron_baby_wing1
+  rotate: false
+  xy: 1223, 208
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+dragon_iron_adult_head
+  rotate: false
+  xy: 559, 198
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+dragon_iron_child_arm1
+  rotate: false
+  xy: 1388, 100
+  size: 24, 50
+  orig: 24, 50
+  offset: 0, 0
+  index: -1
+dragon_iron_adult_ear1
+  rotate: false
+  xy: 358, 204
+  size: 51, 20
+  orig: 51, 20
+  offset: 0, 0
+  index: -1
+dragon_iron_adult_neck
+  rotate: true
+  xy: 1158, 102
+  size: 53, 71
+  orig: 53, 71
+  offset: 0, 0
+  index: -1

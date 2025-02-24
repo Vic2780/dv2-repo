@@ -1,0 +1,319 @@
+dragon_189_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_bluehorse_adult_love
+  rotate: true
+  xy: 703, 81
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_adult_arm3
+  rotate: true
+  xy: 813, 178
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_adult_wing1
+  rotate: true
+  xy: 322, 2
+  size: 156, 92
+  orig: 156, 92
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_child_neck
+  rotate: false
+  xy: 721, 151
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_child_love
+  rotate: true
+  xy: 228, 160
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_baby_mouth
+  rotate: false
+  xy: 835, 209
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_adult_arm1
+  rotate: false
+  xy: 673, 154
+  size: 46, 68
+  orig: 46, 68
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_child_wing1
+  rotate: false
+  xy: 490, 106
+  size: 72, 52
+  orig: 72, 52
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_baby_tail
+  rotate: true
+  xy: 825, 36
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_baby_twinkling1
+  rotate: true
+  xy: 2, 2
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_child_head
+  rotate: true
+  xy: 287, 160
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_adult_leg4
+  rotate: false
+  xy: 823, 73
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_baby_head
+  rotate: true
+  xy: 614, 159
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_baby_wing1
+  rotate: false
+  xy: 864, 151
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_baby_eye
+  rotate: false
+  xy: 787, 166
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_child_body
+  rotate: false
+  xy: 564, 104
+  size: 83, 53
+  orig: 83, 53
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_child_eye
+  rotate: false
+  xy: 882, 34
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_child_heart
+  rotate: false
+  xy: 823, 102
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_adult_eye
+  rotate: false
+  xy: 686, 81
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_child_arm1
+  rotate: false
+  xy: 764, 142
+  size: 21, 46
+  orig: 21, 46
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_adult_neck
+  rotate: true
+  xy: 594, 2
+  size: 91, 90
+  orig: 91, 90
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_adult_wing2
+  rotate: true
+  xy: 228, 2
+  size: 156, 92
+  orig: 156, 92
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_adult_leg2
+  rotate: false
+  xy: 821, 143
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_child_arm2
+  rotate: false
+  xy: 871, 106
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_adult_damaged
+  rotate: true
+  xy: 745, 72
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_adult_smile
+  rotate: false
+  xy: 496, 160
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_child_wing2
+  rotate: false
+  xy: 416, 106
+  size: 72, 52
+  orig: 72, 52
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_adult_body
+  rotate: false
+  xy: 384, 160
+  size: 110, 63
+  orig: 110, 63
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_baby_love
+  rotate: true
+  xy: 555, 160
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_child_mouth
+  rotate: true
+  xy: 791, 189
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_adult_attack
+  rotate: true
+  xy: 783, 2
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_adult_leg3
+  rotate: false
+  xy: 877, 57
+  size: 21, 47
+  orig: 21, 47
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_adult_tail
+  rotate: false
+  xy: 416, 2
+  size: 75, 102
+  orig: 75, 102
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_adult_head
+  rotate: true
+  xy: 741, 2
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_child_tail
+  rotate: false
+  xy: 686, 2
+  size: 53, 77
+  orig: 53, 77
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_baby_arm
+  rotate: false
+  xy: 835, 170
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_baby_wing2
+  rotate: true
+  xy: 764, 190
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_adult_leg1
+  rotate: false
+  xy: 346, 160
+  size: 36, 64
+  orig: 36, 64
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_baby_leg
+  rotate: false
+  xy: 862, 178
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_child_leg1
+  rotate: true
+  xy: 825, 2
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_adult_mouth
+  rotate: true
+  xy: 882, 2
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_adult_arm2
+  rotate: false
+  xy: 787, 119
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_baby_body
+  rotate: true
+  xy: 649, 95
+  size: 57, 43
+  orig: 57, 43
+  offset: 0, 0
+  index: -1
+dragon_bluehorse_baby_twinkling2
+  rotate: false
+  xy: 493, 2
+  size: 99, 100
+  orig: 225, 224
+  offset: 63, 64
+  index: -1
+dragon_bluehorse_child_leg2
+  rotate: false
+  xy: 787, 72
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,53 @@
+enchant_lvup_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+enchant_upwing6
+  rotate: false
+  xy: 2, 1729
+  size: 274, 238
+  orig: 478, 414
+  offset: 39, 24
+  index: -1
+enchant_upwing4
+  rotate: false
+  xy: 2, 1191
+  size: 364, 306
+  orig: 478, 414
+  offset: 39, 41
+  index: -1
+enchant_upwing2
+  rotate: false
+  xy: 2, 543
+  size: 406, 312
+  orig: 478, 414
+  offset: 40, 40
+  index: -1
+enchant_levelup
+  rotate: false
+  xy: 2, 296
+  size: 407, 245
+  orig: 463, 285
+  offset: 27, 20
+  index: -1
+enchant_upwing5
+  rotate: false
+  xy: 2, 1499
+  size: 346, 228
+  orig: 478, 414
+  offset: 39, 41
+  index: -1
+enchant_upwing3
+  rotate: false
+  xy: 2, 2
+  size: 414, 292
+  orig: 478, 414
+  offset: 38, 41
+  index: -1
+enchant_upwing1
+  rotate: false
+  xy: 2, 857
+  size: 404, 332
+  orig: 478, 414
+  offset: 41, 40
+  index: -1

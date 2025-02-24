@@ -1,0 +1,347 @@
+118_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_srorin_eyebrow
+  rotate: false
+  xy: 966, 767
+  size: 134, 53
+  orig: 134, 53
+  offset: 0, 0
+  index: -1
+m_srorin_groggynose
+  rotate: false
+  xy: 830, 998
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+m_srorin_head3
+  rotate: false
+  xy: 967, 528
+  size: 126, 148
+  orig: 126, 148
+  offset: 0, 0
+  index: -1
+m_srorin_groggyhammer
+  rotate: false
+  xy: 2, 421
+  size: 257, 404
+  orig: 257, 404
+  offset: 0, 0
+  index: -1
+m_srorin_groggysword12
+  rotate: true
+  xy: 1068, 1004
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+m_srorin_sword2
+  rotate: false
+  xy: 674, 396
+  size: 155, 192
+  orig: 155, 192
+  offset: 0, 0
+  index: -1
+m_srorin_hair3
+  rotate: true
+  xy: 2, 827
+  size: 120, 255
+  orig: 120, 255
+  offset: 0, 0
+  index: -1
+m_srorin_head1
+  rotate: true
+  xy: 552, 835
+  size: 140, 105
+  orig: 140, 105
+  offset: 0, 0
+  index: -1
+m_srorin_groggyhair3
+  rotate: true
+  xy: 712, 252
+  size: 142, 213
+  orig: 144, 213
+  offset: 0, 0
+  index: -1
+m_srorin_neck1
+  rotate: true
+  xy: 586, 451
+  size: 220, 86
+  orig: 220, 86
+  offset: 0, 0
+  index: -1
+m_srorin_hair1
+  rotate: false
+  xy: 674, 590
+  size: 155, 119
+  orig: 155, 119
+  offset: 0, 0
+  index: -1
+m_srorin_nose
+  rotate: false
+  xy: 554, 977
+  size: 54, 40
+  orig: 54, 40
+  offset: 0, 0
+  index: -1
+m_srorin_manto11
+  rotate: false
+  xy: 967, 822
+  size: 83, 97
+  orig: 83, 97
+  offset: 0, 0
+  index: -1
+m_srorin_body2
+  rotate: false
+  xy: 967, 678
+  size: 132, 87
+  orig: 132, 87
+  offset: 0, 0
+  index: -1
+m_srorin_light1
+  rotate: true
+  xy: 712, 2
+  size: 248, 390
+  orig: 248, 390
+  offset: 0, 0
+  index: -1
+m_srorin_hand2
+  rotate: true
+  xy: 700, 711
+  size: 123, 128
+  orig: 123, 128
+  offset: 0, 0
+  index: -1
+m_srorin_finger1
+  rotate: false
+  xy: 515, 978
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+m_srorin_groggymanto11
+  rotate: false
+  xy: 983, 921
+  size: 83, 97
+  orig: 83, 97
+  offset: 0, 0
+  index: -1
+m_srorin_groggysword11
+  rotate: false
+  xy: 830, 949
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+m_srorin_groggyeyebrow
+  rotate: false
+  xy: 659, 956
+  size: 109, 32
+  orig: 109, 32
+  offset: 0, 0
+  index: -1
+m_srorin_botten1
+  rotate: true
+  xy: 778, 949
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+m_srorin_groggyhead1
+  rotate: true
+  xy: 1068, 916
+  size: 86, 40
+  orig: 86, 40
+  offset: 0, 0
+  index: -1
+m_srorin_arm2
+  rotate: false
+  xy: 659, 836
+  size: 117, 118
+  orig: 117, 118
+  offset: 0, 0
+  index: -1
+m_srorin_body1
+  rotate: false
+  xy: 259, 835
+  size: 291, 141
+  orig: 291, 141
+  offset: 0, 0
+  index: -1
+m_srorin_groggyeye
+  rotate: false
+  xy: 350, 978
+  size: 95, 21
+  orig: 95, 21
+  offset: 0, 0
+  index: -1
+m_srorin_groggyarmer2
+  rotate: true
+  xy: 447, 978
+  size: 29, 66
+  orig: 29, 66
+  offset: 0, 0
+  index: -1
+m_srorin_groggyarm1
+  rotate: true
+  xy: 261, 421
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+m_srorin_hand1
+  rotate: false
+  xy: 831, 586
+  size: 134, 140
+  orig: 134, 140
+  offset: 0, 0
+  index: -1
+m_srorin_groggyneck2
+  rotate: false
+  xy: 261, 694
+  size: 317, 139
+  orig: 319, 139
+  offset: 2, 0
+  index: -1
+m_srorin_eye
+  rotate: false
+  xy: 253, 978
+  size: 95, 24
+  orig: 95, 24
+  offset: 0, 0
+  index: -1
+m_srorin_manto12
+  rotate: false
+  xy: 261, 451
+  size: 323, 241
+  orig: 323, 241
+  offset: 0, 0
+  index: -1
+m_srorin_botten2
+  rotate: true
+  xy: 66, 949
+  size: 58, 132
+  orig: 58, 132
+  offset: 0, 0
+  index: -1
+m_srorin_groggyarmer12
+  rotate: true
+  xy: 888, 928
+  size: 94, 93
+  orig: 94, 93
+  offset: 0, 0
+  index: -1
+m_srorin_groggyhand2
+  rotate: true
+  xy: 888, 828
+  size: 98, 77
+  orig: 98, 77
+  offset: 0, 0
+  index: -1
+m_srorin_armer12
+  rotate: false
+  xy: 927, 252
+  size: 176, 141
+  orig: 176, 143
+  offset: 0, 0
+  index: -1
+m_srorin_hair5
+  rotate: false
+  xy: 830, 728
+  size: 134, 98
+  orig: 134, 98
+  offset: 0, 0
+  index: -1
+m_srorin_armer11
+  rotate: false
+  xy: 610, 977
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+m_srorin_groggyhead3
+  rotate: false
+  xy: 2, 949
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+m_srorin_groggyarm2
+  rotate: false
+  xy: 668, 318
+  size: 40, 63
+  orig: 40, 63
+  offset: 0, 0
+  index: -1
+m_srorin_groggysword2
+  rotate: true
+  xy: 586, 673
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+m_srorin_sword11
+  rotate: false
+  xy: 200, 949
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+m_srorin_groggyhair1
+  rotate: false
+  xy: 948, 395
+  size: 146, 131
+  orig: 146, 131
+  offset: 0, 0
+  index: -1
+m_srorin_leg
+  rotate: false
+  xy: 309, 318
+  size: 357, 131
+  orig: 357, 131
+  offset: 0, 0
+  index: -1
+m_srorin_head2
+  rotate: true
+  xy: 831, 396
+  size: 188, 115
+  orig: 194, 115
+  offset: 6, 0
+  index: -1
+m_srorin_hammer
+  rotate: false
+  xy: 2, 2
+  size: 305, 417
+  orig: 305, 417
+  offset: 0, 0
+  index: -1
+m_srorin_neck2
+  rotate: false
+  xy: 309, 2
+  size: 401, 314
+  orig: 401, 314
+  offset: 0, 0
+  index: -1
+m_srorin_arm1
+  rotate: false
+  xy: 580, 711
+  size: 118, 119
+  orig: 118, 119
+  offset: 0, 0
+  index: -1
+m_srorin_body4
+  rotate: true
+  xy: 1052, 822
+  size: 92, 62
+  orig: 92, 62
+  offset: 0, 0
+  index: -1
+m_srorin_sword12
+  rotate: true
+  xy: 778, 836
+  size: 111, 108
+  orig: 111, 108
+  offset: 0, 0
+  index: -1

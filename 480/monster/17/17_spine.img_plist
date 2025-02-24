@@ -1,0 +1,221 @@
+17_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_birdgladi_n1
+  rotate: false
+  xy: 119, 1403
+  size: 83, 96
+  orig: 245, 104
+  offset: 0, 8
+  index: -1
+m_birdgladi_arm22
+  rotate: false
+  xy: 131, 772
+  size: 71, 62
+  orig: 71, 62
+  offset: 0, 0
+  index: -1
+m_birdgladi_arm1
+  rotate: true
+  xy: 2, 1338
+  size: 101, 115
+  orig: 107, 115
+  offset: 0, 0
+  index: -1
+m_birdgladi_foot1
+  rotate: false
+  xy: 146, 626
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+m_birdgladi_groggy_du1
+  rotate: true
+  xy: 119, 1501
+  size: 48, 83
+  orig: 62, 117
+  offset: 2, 7
+  index: -1
+m_birdgladi_groggy_mouth1
+  rotate: false
+  xy: 2, 1685
+  size: 109, 110
+  orig: 127, 122
+  offset: 5, 12
+  index: -1
+m_birdgladi_groggy_head
+  rotate: false
+  xy: 2, 586
+  size: 142, 129
+  orig: 142, 167
+  offset: 0, 38
+  index: -1
+m_birdgladi_arm11
+  rotate: true
+  xy: 130, 970
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: -1
+m_birdgladi_tail
+  rotate: false
+  xy: 2, 1593
+  size: 112, 90
+  orig: 112, 90
+  offset: 0, 0
+  index: -1
+m_birdgladi_leg2
+  rotate: false
+  xy: 130, 1031
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+m_birdgladi_n2
+  rotate: true
+  xy: 129, 1095
+  size: 209, 64
+  orig: 245, 104
+  offset: 36, 0
+  index: -1
+m_birdgladi_du1
+  rotate: true
+  xy: 2, 1274
+  size: 62, 117
+  orig: 62, 117
+  offset: 0, 0
+  index: -1
+m_birdgladi_body
+  rotate: false
+  xy: 2, 841
+  size: 126, 234
+  orig: 126, 234
+  offset: 0, 0
+  index: -1
+m_birdgladi_mouth2
+  rotate: false
+  xy: 2, 1077
+  size: 125, 103
+  orig: 125, 103
+  offset: 0, 0
+  index: -1
+m_birdgladi_groggy_du2
+  rotate: false
+  xy: 130, 886
+  size: 68, 82
+  orig: 68, 82
+  offset: 0, 0
+  index: -1
+m_birdgladi_head
+  rotate: true
+  xy: 2, 452
+  size: 132, 165
+  orig: 142, 167
+  offset: 10, 0
+  index: -1
+m_birdgladi_leg1
+  rotate: true
+  xy: 131, 836
+  size: 48, 69
+  orig: 48, 69
+  offset: 0, 0
+  index: -1
+m_birdgladi_groggy_body
+  rotate: true
+  xy: 2, 1182
+  size: 90, 122
+  orig: 126, 234
+  offset: 20, 3
+  index: -1
+m_birdgladi_groggy_arm1
+  rotate: true
+  xy: 113, 1685
+  size: 101, 89
+  orig: 107, 115
+  offset: 6, 9
+  index: -1
+m_birdgladi_hand2
+  rotate: true
+  xy: 116, 1594
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+m_birdgladi_mouth1
+  rotate: false
+  xy: 2, 717
+  size: 127, 122
+  orig: 127, 122
+  offset: 0, 0
+  index: -1
+m_birdgladi_groggy_n2
+  rotate: false
+  xy: 2, 1543
+  size: 113, 48
+  orig: 245, 104
+  offset: 45, 0
+  index: -1
+m_birdgladi_groggy_tail
+  rotate: true
+  xy: 121, 1306
+  size: 95, 60
+  orig: 95, 60
+  offset: 0, 0
+  index: -1
+m_birdgladi_groggy_m
+  rotate: true
+  xy: 2, 223
+  size: 227, 196
+  orig: 227, 200
+  offset: 0, 2
+  index: -1
+m_birdgladi_eye
+  rotate: false
+  xy: 117, 1551
+  size: 82, 41
+  orig: 142, 167
+  offset: 10, 58
+  index: -1
+m_birdgladi_hand1
+  rotate: true
+  xy: 116, 1640
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+m_birdgladi_n_str
+  rotate: false
+  xy: 169, 452
+  size: 15, 61
+  orig: 15, 61
+  offset: 0, 0
+  index: -1
+m_birdgladi_groggy_leg1
+  rotate: true
+  xy: 146, 586
+  size: 38, 55
+  orig: 48, 69
+  offset: 6, 7
+  index: -1
+m_birdgladi_arm2
+  rotate: true
+  xy: 2, 1441
+  size: 100, 115
+  orig: 100, 115
+  offset: 0, 0
+  index: -1
+m_birdgladi_foot2
+  rotate: true
+  xy: 146, 697
+  size: 73, 49
+  orig: 73, 49
+  offset: 0, 0
+  index: -1
+m_birdgladi_m
+  rotate: true
+  xy: 2, 2
+  size: 219, 200
+  orig: 227, 200
+  offset: 1, 0
+  index: -1

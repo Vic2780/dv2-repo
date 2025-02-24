@@ -1,0 +1,522 @@
+dragon_102_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_neonsign_adult_leg5
+  rotate: false
+  xy: 1056, 89
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+dragon_neonsign_adult_bodyneon
+  rotate: false
+  xy: 987, 65
+  size: 67, 54
+  orig: 101, 56
+  offset: 22, 1
+  index: -1
+dragon_neonsign_child_leg1
+  rotate: false
+  xy: 951, 159
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+dragon_neonsign_adult_eye5
+  rotate: false
+  xy: 2, 245
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+dragon_neonsign_adult_neon2
+  rotate: false
+  xy: 407, 15
+  size: 146, 85
+  orig: 148, 87
+  offset: 1, 0
+  index: -1
+dragon_neonsign_child_leg4
+  rotate: true
+  xy: 921, 218
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+dragon_neonsign_critical_light2
+  rotate: true
+  xy: 2, 2
+  size: 80, 403
+  orig: 80, 403
+  offset: 0, 0
+  index: -1
+dragon_neonsign_adult_leg1
+  rotate: false
+  xy: 863, 144
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+dragon_neonsign_baby_wing1neon
+  rotate: false
+  xy: 870, 185
+  size: 17, 21
+  orig: 41, 35
+  offset: 19, 14
+  index: -1
+dragon_neonsign_adult_eye1
+  rotate: false
+  xy: 18, 245
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+dragon_neonsign_baby_eye3
+  rotate: false
+  xy: 951, 197
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+dragon_neonsign_adult_leg4
+  rotate: true
+  xy: 965, 217
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+dragon_neonsign_adult_heart
+  rotate: true
+  xy: 378, 198
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_neonsign_baby_leg1
+  rotate: false
+  xy: 1025, 2
+  size: 66, 42
+  orig: 66, 42
+  offset: 0, 0
+  index: -1
+dragon_neonsign_adult_eye4
+  rotate: false
+  xy: 751, 2
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+dragon_neonsign_child_body
+  rotate: false
+  xy: 900, 65
+  size: 85, 49
+  orig: 85, 49
+  offset: 0, 0
+  index: -1
+dragon_neonsign_adult_tail
+  rotate: false
+  xy: 376, 102
+  size: 86, 94
+  orig: 86, 94
+  offset: 0, 0
+  index: -1
+dragon_neonsign_child_eye3
+  rotate: false
+  xy: 870, 208
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+dragon_neonsign_baby_head
+  rotate: false
+  xy: 814, 185
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+dragon_neonsign_critical_base1
+  rotate: false
+  xy: 524, 184
+  size: 88, 54
+  orig: 88, 54
+  offset: 0, 0
+  index: -1
+dragon_neonsign_child_neckneon
+  rotate: false
+  xy: 1039, 216
+  size: 39, 16
+  orig: 39, 80
+  offset: 0, 15
+  index: -1
+dragon_neonsign_baby_wing2
+  rotate: false
+  xy: 247, 217
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+dragon_neonsign_adult_mouse
+  rotate: false
+  xy: 1025, 46
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+dragon_neonsign_adult_neon3
+  rotate: false
+  xy: 614, 184
+  size: 95, 41
+  orig: 97, 41
+  offset: 2, 0
+  index: -1
+dragon_neonsign_child_mouse
+  rotate: false
+  xy: 705, 232
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+dragon_neonsign_adult_leg7
+  rotate: false
+  xy: 546, 240
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+dragon_neonsign_baby_leg2
+  rotate: false
+  xy: 1073, 110
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+dragon_neonsign_adult_wing1neon
+  rotate: false
+  xy: 975, 121
+  size: 62, 60
+  orig: 106, 112
+  offset: 26, 52
+  index: -1
+dragon_neonsign_child_eye2
+  rotate: false
+  xy: 715, 2
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+dragon_neonsign_child_tail
+  rotate: false
+  xy: 655, 130
+  size: 89, 52
+  orig: 89, 52
+  offset: 0, 0
+  index: -1
+dragon_neonsign_child_leg3
+  rotate: false
+  xy: 374, 84
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+dragon_neonsign_adult_leg3
+  rotate: true
+  xy: 294, 217
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+dragon_neonsign_adult_wing2neon
+  rotate: true
+  xy: 1036, 188
+  size: 26, 40
+  orig: 68, 110
+  offset: 5, 69
+  index: -1
+dragon_neonsign_adult_eye3
+  rotate: false
+  xy: 655, 121
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+dragon_neonsign_adult_neckneon
+  rotate: false
+  xy: 711, 184
+  size: 39, 46
+  orig: 41, 80
+  offset: 0, 3
+  index: -1
+dragon_neonsign_child_wing1
+  rotate: false
+  xy: 555, 15
+  size: 116, 104
+  orig: 116, 104
+  offset: 0, 0
+  index: -1
+dragon_neonsign_adult_neck
+  rotate: true
+  xy: 893, 116
+  size: 41, 80
+  orig: 41, 80
+  offset: 0, 0
+  index: -1
+dragon_neonsign_child_leg6
+  rotate: false
+  xy: 524, 240
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+dragon_neonsign_adult_leg6
+  rotate: false
+  xy: 1073, 137
+  size: 16, 39
+  orig: 16, 39
+  offset: 0, 0
+  index: -1
+dragon_neonsign_child_tailneon
+  rotate: false
+  xy: 975, 183
+  size: 59, 32
+  orig: 89, 52
+  offset: 30, 5
+  index: -1
+dragon_neonsign_critical_light1
+  rotate: true
+  xy: 407, 2
+  size: 11, 306
+  orig: 11, 306
+  offset: 0, 0
+  index: -1
+dragon_neonsign_child_neck
+  rotate: true
+  xy: 781, 144
+  size: 39, 80
+  orig: 39, 80
+  offset: 0, 0
+  index: -1
+dragon_neonsign_adult_neon4
+  rotate: false
+  xy: 2, 103
+  size: 164, 140
+  orig: 164, 142
+  offset: 0, 0
+  index: -1
+dragon_neonsign_adult_body
+  rotate: true
+  xy: 318, 103
+  size: 101, 56
+  orig: 101, 56
+  offset: 0, 0
+  index: -1
+dragon_neonsign_child_wing1neon
+  rotate: false
+  xy: 464, 102
+  size: 86, 80
+  orig: 116, 104
+  offset: 20, 8
+  index: -1
+dragon_neonsign_child_leg2
+  rotate: true
+  xy: 335, 84
+  size: 17, 37
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+dragon_neonsign_adult_leg2
+  rotate: true
+  xy: 614, 227
+  size: 19, 46
+  orig: 19, 46
+  offset: 0, 0
+  index: -1
+dragon_neonsign_adult_tailneon
+  rotate: false
+  xy: 464, 184
+  size: 58, 70
+  orig: 86, 94
+  offset: 28, 21
+  index: -1
+dragon_neonsign_adult_eye2
+  rotate: false
+  xy: 1056, 110
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+dragon_neonsign_critical_base2
+  rotate: false
+  xy: 781, 2
+  size: 117, 70
+  orig: 117, 70
+  offset: 0, 0
+  index: -1
+dragon_neonsign_baby_tailneon
+  rotate: true
+  xy: 1039, 234
+  size: 20, 29
+  orig: 36, 49
+  offset: 13, 9
+  index: -1
+dragon_neonsign_baby_mouse
+  rotate: true
+  xy: 1014, 217
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+dragon_neonsign_baby_smile
+  rotate: true
+  xy: 889, 159
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_neonsign_adult_wing1
+  rotate: false
+  xy: 673, 15
+  size: 106, 113
+  orig: 106, 113
+  offset: 0, 0
+  index: -1
+dragon_neonsign_child_wing2neon
+  rotate: true
+  xy: 168, 217
+  size: 37, 77
+  orig: 61, 101
+  offset: 1, 3
+  index: -1
+dragon_neonsign_baby_eye1
+  rotate: false
+  xy: 754, 232
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+dragon_neonsign_child_wing2
+  rotate: true
+  xy: 552, 121
+  size: 61, 101
+  orig: 61, 101
+  offset: 0, 0
+  index: -1
+dragon_neonsign_baby_wing1
+  rotate: true
+  xy: 1056, 46
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+dragon_neonsign_adult_neon1
+  rotate: true
+  xy: 168, 103
+  size: 112, 148
+  orig: 112, 148
+  offset: 0, 0
+  index: -1
+dragon_neonsign_adult_legneon2
+  rotate: true
+  xy: 1078, 178
+  size: 10, 13
+  orig: 16, 39
+  offset: 5, 15
+  index: -1
+dragon_neonsign_child_eye1
+  rotate: false
+  xy: 733, 2
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+dragon_neonsign_baby_tail
+  rotate: true
+  xy: 870, 218
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+dragon_neonsign_baby_body
+  rotate: false
+  xy: 752, 185
+  size: 60, 45
+  orig: 60, 45
+  offset: 0, 0
+  index: -1
+dragon_neonsign_child_heart
+  rotate: true
+  xy: 378, 198
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_neonsign_child_bodyneon
+  rotate: false
+  xy: 746, 130
+  size: 33, 43
+  orig: 85, 49
+  offset: 44, 3
+  index: -1
+dragon_neonsign_child_leg5
+  rotate: true
+  xy: 662, 227
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+dragon_neonsign_baby_eye2
+  rotate: false
+  xy: 733, 232
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+dragon_neonsign_critical_light3
+  rotate: true
+  xy: 2, 84
+  size: 17, 331
+  orig: 17, 403
+  offset: 0, 72
+  index: -1
+dragon_neonsign_baby_bodyneon
+  rotate: false
+  xy: 419, 198
+  size: 38, 45
+  orig: 60, 45
+  offset: 21, 0
+  index: -1
+dragon_neonsign_critical_base3
+  rotate: false
+  xy: 900, 2
+  size: 123, 61
+  orig: 123, 61
+  offset: 0, 0
+  index: -1
+dragon_neonsign_adult_head
+  rotate: true
+  xy: 1039, 121
+  size: 65, 32
+  orig: 65, 32
+  offset: 0, 0
+  index: -1
+dragon_neonsign_child_head
+  rotate: false
+  xy: 318, 206
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
+dragon_neonsign_adult_wing2
+  rotate: true
+  xy: 781, 74
+  size: 68, 110
+  orig: 68, 110
+  offset: 0, 0
+  index: -1
+dragon_neonsign_adult_legneon1
+  rotate: false
+  xy: 577, 240
+  size: 11, 14
+  orig: 19, 46
+  offset: 8, 21
+  index: -1

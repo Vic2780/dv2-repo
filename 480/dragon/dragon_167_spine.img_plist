@@ -1,0 +1,445 @@
+dragon_167_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_redbull_child_leg1
+  rotate: true
+  xy: 2, 645
+  size: 41, 95
+  orig: 41, 95
+  offset: 0, 0
+  index: -1
+dragon_redbull_critical_ef2
+  rotate: false
+  xy: 2, 287
+  size: 186, 136
+  orig: 234, 186
+  offset: 16, 15
+  index: -1
+dragon_redbull_adult_leg4
+  rotate: true
+  xy: 155, 939
+  size: 38, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+dragon_redbull_baby_eye2
+  rotate: false
+  xy: 42, 996
+  size: 42, 26
+  orig: 48, 28
+  offset: 3, 1
+  index: -1
+dragon_redbull_child_ef2
+  rotate: false
+  xy: 2, 819
+  size: 79, 55
+  orig: 81, 55
+  offset: 2, 0
+  index: -1
+dragon_redbull_adult_eye2
+  rotate: true
+  xy: 2, 933
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+dragon_redbull_child_fang
+  rotate: false
+  xy: 79, 908
+  size: 11, 14
+  orig: 17, 16
+  offset: 2, 0
+  index: -1
+dragon_redbull_adult_wing
+  rotate: true
+  xy: 190, 352
+  size: 104, 61
+  orig: 104, 63
+  offset: 0, 1
+  index: -1
+dragon_redbull_adult_leg7
+  rotate: true
+  xy: 144, 515
+  size: 41, 43
+  orig: 41, 47
+  offset: 0, 2
+  index: -1
+dragon_redbull_adult_arm4
+  rotate: true
+  xy: 178, 878
+  size: 41, 68
+  orig: 49, 74
+  offset: 3, 5
+  index: -1
+dragon_redbull_adult_body2
+  rotate: true
+  xy: 2, 729
+  size: 88, 90
+  orig: 90, 94
+  offset: 0, 4
+  index: -1
+dragon_redbull_adult_leg5
+  rotate: false
+  xy: 2, 876
+  size: 75, 55
+  orig: 75, 59
+  offset: 0, 4
+  index: -1
+dragon_redbull_adult_arm1
+  rotate: true
+  xy: 94, 818
+  size: 72, 82
+  orig: 74, 86
+  offset: 0, 3
+  index: -1
+dragon_redbull_child_ef3
+  rotate: true
+  xy: 194, 682
+  size: 87, 57
+  orig: 91, 79
+  offset: 3, 0
+  index: -1
+dragon_redbull_child_eye2
+  rotate: false
+  xy: 92, 915
+  size: 49, 32
+  orig: 57, 32
+  offset: 0, 0
+  index: -1
+dragon_redbull_child_body
+  rotate: true
+  xy: 198, 92
+  size: 68, 52
+  orig: 68, 52
+  offset: 0, 0
+  index: -1
+dragon_redbull_adult_arm6
+  rotate: true
+  xy: 2, 949
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+dragon_redbull_adult_leg8
+  rotate: true
+  xy: 156, 979
+  size: 37, 27
+  orig: 41, 27
+  offset: 2, 0
+  index: -1
+dragon_redbull_baby_leg2
+  rotate: true
+  xy: 211, 953
+  size: 30, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+dragon_redbull_baby_tail
+  rotate: false
+  xy: 207, 985
+  size: 30, 31
+  orig: 30, 35
+  offset: 0, 3
+  index: -1
+dragon_redbull_adult_ef1
+  rotate: false
+  xy: 190, 295
+  size: 62, 55
+  orig: 68, 61
+  offset: 2, 3
+  index: -1
+dragon_redbull_adult_headb
+  rotate: false
+  xy: 106, 564
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+dragon_redbull_baby_arm1
+  rotate: false
+  xy: 68, 949
+  size: 21, 45
+  orig: 21, 45
+  offset: 0, 0
+  index: -1
+dragon_redbull_baby_wing
+  rotate: true
+  xy: 146, 892
+  size: 45, 30
+  orig: 45, 32
+  offset: 0, 2
+  index: -1
+dragon_redbull_child_leg3a
+  rotate: false
+  xy: 33, 949
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+dragon_redbull_child_wing1
+  rotate: false
+  xy: 205, 635
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+dragon_redbull_adult_ef2
+  rotate: false
+  xy: 2, 819
+  size: 79, 55
+  orig: 81, 55
+  offset: 2, 0
+  index: -1
+dragon_redbull_adult_arm2
+  rotate: true
+  xy: 94, 760
+  size: 56, 89
+  orig: 62, 89
+  offset: 3, 0
+  index: -1
+dragon_redbull_baby_foot2
+  rotate: true
+  xy: 185, 985
+  size: 34, 20
+  orig: 38, 20
+  offset: 2, 0
+  index: -1
+dragon_redbull_child_head
+  rotate: false
+  xy: 99, 682
+  size: 93, 76
+  orig: 93, 80
+  offset: 0, 4
+  index: -1
+dragon_redbull_child_leg3b
+  rotate: false
+  xy: 121, 949
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+dragon_redbull_critical_ef3
+  rotate: false
+  xy: 2, 139
+  size: 190, 146
+  orig: 234, 186
+  offset: 17, 15
+  index: -1
+dragon_redbull_adult_head
+  rotate: false
+  xy: 189, 458
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+dragon_redbull_adult_eye3
+  rotate: true
+  xy: 79, 889
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+dragon_redbull_child_leg2
+  rotate: true
+  xy: 106, 635
+  size: 45, 97
+  orig: 45, 97
+  offset: 0, 0
+  index: -1
+dragon_redbull_child_eye1
+  rotate: false
+  xy: 86, 996
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+dragon_redbull_adult_ef3
+  rotate: true
+  xy: 194, 682
+  size: 87, 57
+  orig: 91, 79
+  offset: 3, 0
+  index: -1
+dragon_redbull_baby_eye1
+  rotate: false
+  xy: 2, 998
+  size: 38, 22
+  orig: 48, 28
+  offset: 4, 4
+  index: -1
+dragon_redbull_adult_leg1
+  rotate: false
+  xy: 144, 452
+  size: 43, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+dragon_redbull_baby_body
+  rotate: false
+  xy: 198, 2
+  size: 54, 59
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+dragon_redbull_adult_arm5
+  rotate: true
+  xy: 106, 587
+  size: 46, 80
+  orig: 48, 80
+  offset: 1, 0
+  index: -1
+dragon_redbull_adult_fang
+  rotate: true
+  xy: 79, 876
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+dragon_redbull_baby_smile
+  rotate: true
+  xy: 189, 519
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_redbull_baby_head
+  rotate: false
+  xy: 189, 578
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+dragon_redbull_child_tail
+  rotate: true
+  xy: 185, 771
+  size: 35, 67
+  orig: 35, 67
+  offset: 0, 0
+  index: -1
+dragon_redbull_adult_leg2
+  rotate: false
+  xy: 194, 263
+  size: 58, 30
+  orig: 60, 32
+  offset: 0, 1
+  index: -1
+dragon_redbull_child_sample
+  rotate: true
+  xy: 2, 425
+  size: 137, 140
+  orig: 137, 140
+  offset: 0, 0
+  index: -1
+dragon_redbull_baby_arm2
+  rotate: true
+  xy: 144, 425
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+dragon_redbull_adult_eye4
+  rotate: false
+  xy: 183, 960
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+dragon_redbull_critical_ef1
+  rotate: false
+  xy: 2, 2
+  size: 194, 135
+  orig: 210, 163
+  offset: 6, 8
+  index: -1
+dragon_redbull_adult_eye1
+  rotate: true
+  xy: 20, 933
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+dragon_redbull_baby_leg1
+  rotate: true
+  xy: 144, 558
+  size: 27, 43
+  orig: 29, 45
+  offset: 0, 2
+  index: -1
+dragon_redbull_child_jaw
+  rotate: true
+  xy: 91, 949
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+dragon_redbull_adult_tail
+  rotate: false
+  xy: 185, 808
+  size: 66, 68
+  orig: 72, 74
+  offset: 3, 4
+  index: -1
+dragon_redbull_adult_leg3
+  rotate: true
+  xy: 198, 63
+  size: 27, 53
+  orig: 29, 53
+  offset: 1, 0
+  index: -1
+dragon_redbull_child_body2
+  rotate: true
+  xy: 194, 162
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+dragon_redbull_baby_foot1
+  rotate: true
+  xy: 129, 989
+  size: 33, 25
+  orig: 35, 27
+  offset: 0, 2
+  index: -1
+dragon_redbull_adult_arm3
+  rotate: false
+  xy: 194, 223
+  size: 58, 38
+  orig: 60, 38
+  offset: 0, 0
+  index: -1
+dragon_redbull_adult_body1
+  rotate: false
+  xy: 2, 564
+  size: 102, 79
+  orig: 104, 85
+  offset: 0, 5
+  index: -1
+dragon_redbull_baby_jaw
+  rotate: true
+  xy: 183, 921
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+dragon_redbull_adult_chin
+  rotate: false
+  xy: 211, 921
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+dragon_redbull_adult_horn
+  rotate: false
+  xy: 2, 688
+  size: 91, 39
+  orig: 99, 45
+  offset: 6, 3
+  index: -1
+dragon_redbull_adult_leg6
+  rotate: false
+  xy: 92, 892
+  size: 52, 21
+  orig: 56, 23
+  offset: 2, 0
+  index: -1

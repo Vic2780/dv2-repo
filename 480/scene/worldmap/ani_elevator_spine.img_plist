@@ -1,0 +1,39 @@
+ani_elevator_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+w_dwarf_elevator_book
+  rotate: false
+  xy: 2, 2
+  size: 103, 256
+  orig: 151, 282
+  offset: 9, 0
+  index: -1
+w_dwarf_elevator_highright02
+  rotate: false
+  xy: 2, 306
+  size: 47, 30
+  orig: 151, 282
+  offset: 24, 237
+  index: -1
+w_dwarf_elevator_highright01
+  rotate: true
+  xy: 83, 260
+  size: 43, 14
+  orig: 151, 282
+  offset: 27, 252
+  index: -1
+w_dwarf_elevator_mineral
+  rotate: false
+  xy: 51, 306
+  size: 39, 30
+  orig: 151, 282
+  offset: 40, 213
+  index: -1
+w_dwarf_elevator00
+  rotate: false
+  xy: 2, 260
+  size: 79, 44
+  orig: 151, 282
+  offset: 20, 192
+  index: -1

@@ -1,0 +1,578 @@
+dragon_4016_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_parcel_adult_l_legb
+  rotate: false
+  xy: 186, 352
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+dragon_parcel_child_hair
+  rotate: true
+  xy: 199, 537
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+dragon_parcel_child_leg4
+  rotate: true
+  xy: 118, 609
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+dragon_parcel_baby_leg1
+  rotate: false
+  xy: 108, 777
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+dragon_parcel_baby_eye3
+  rotate: true
+  xy: 204, 942
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_l_arma
+  rotate: true
+  xy: 148, 830
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_hair4
+  rotate: true
+  xy: 207, 70
+  size: 42, 8
+  orig: 42, 8
+  offset: 0, 0
+  index: -1
+dragon_parcel_child_eye
+  rotate: false
+  xy: 166, 674
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+dragon_parcel_baby_leg4
+  rotate: true
+  xy: 188, 784
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+dragon_parcel_baby_eye
+  rotate: false
+  xy: 202, 968
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+dragon_parcel_child_wing3
+  rotate: false
+  xy: 30, 861
+  size: 29, 74
+  orig: 29, 74
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_l_wing2
+  rotate: true
+  xy: 186, 114
+  size: 164, 40
+  orig: 164, 40
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_r_lega
+  rotate: false
+  xy: 179, 643
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_eye
+  rotate: false
+  xy: 189, 988
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+dragon_parcel_baby_tail
+  rotate: true
+  xy: 111, 860
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_eye3b
+  rotate: false
+  xy: 210, 878
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+dragon_parcel_baby_note1
+  rotate: true
+  xy: 145, 904
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_parcel_baby_eye2
+  rotate: false
+  xy: 176, 966
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_eye3
+  rotate: true
+  xy: 120, 973
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_r_armc
+  rotate: false
+  xy: 207, 42
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+dragon_parcel_baby_wing1
+  rotate: true
+  xy: 69, 936
+  size: 55, 16
+  orig: 55, 16
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_chest
+  rotate: true
+  xy: 115, 986
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_l_legc
+  rotate: false
+  xy: 182, 861
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+dragon_parcel_child_neck
+  rotate: false
+  xy: 148, 784
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_breath
+  rotate: false
+  xy: 155, 755
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_taila
+  rotate: true
+  xy: 36, 937
+  size: 58, 31
+  orig: 58, 31
+  offset: 0, 0
+  index: -1
+dragon_parcel_baby_chin
+  rotate: true
+  xy: 100, 812
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_hair5
+  rotate: true
+  xy: 214, 493
+  size: 37, 12
+  orig: 37, 12
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_chin
+  rotate: true
+  xy: 143, 974
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_eye4
+  rotate: false
+  xy: 192, 851
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+dragon_parcel_child_leg1
+  rotate: false
+  xy: 2, 861
+  size: 26, 80
+  orig: 26, 80
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_l_wing3
+  rotate: true
+  xy: 159, 243
+  size: 130, 25
+  orig: 130, 25
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_l_armb
+  rotate: true
+  xy: 111, 912
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_hair1
+  rotate: true
+  xy: 217, 70
+  size: 41, 8
+  orig: 41, 8
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_cri1
+  rotate: false
+  xy: 2, 2
+  size: 203, 110
+  orig: 203, 110
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_l_legd
+  rotate: false
+  xy: 36, 997
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+dragon_parcel_baby_body
+  rotate: false
+  xy: 41, 759
+  size: 65, 51
+  orig: 65, 51
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_head
+  rotate: false
+  xy: 69, 993
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+dragon_parcel_child_leg2
+  rotate: false
+  xy: 61, 861
+  size: 26, 73
+  orig: 26, 73
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_tailb
+  rotate: false
+  xy: 136, 537
+  size: 61, 25
+  orig: 61, 25
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_r_legb
+  rotate: true
+  xy: 210, 851
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+dragon_parcel_child_eye2
+  rotate: false
+  xy: 166, 652
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+dragon_parcel_baby_leg2
+  rotate: true
+  xy: 190, 738
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+dragon_parcel_child_body1
+  rotate: true
+  xy: 114, 652
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_r_arma
+  rotate: false
+  xy: 207, 2
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_body1
+  rotate: false
+  xy: 55, 699
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_hair2
+  rotate: true
+  xy: 132, 812
+  size: 45, 14
+  orig: 45, 14
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_cri2
+  rotate: false
+  xy: 2, 114
+  size: 182, 127
+  orig: 182, 127
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_anger
+  rotate: false
+  xy: 176, 938
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_l_lega
+  rotate: true
+  xy: 41, 812
+  size: 47, 57
+  orig: 47, 57
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_eye5
+  rotate: false
+  xy: 210, 889
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+dragon_parcel_child_wing1
+  rotate: false
+  xy: 69, 472
+  size: 65, 82
+  orig: 65, 82
+  offset: 0, 0
+  index: -1
+dragon_parcel_baby_wing3
+  rotate: true
+  xy: 159, 974
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_l_wing4
+  rotate: false
+  xy: 136, 493
+  size: 76, 42
+  orig: 76, 42
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_l_armc
+  rotate: false
+  xy: 89, 915
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+dragon_parcel_child_body2
+  rotate: false
+  xy: 179, 587
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+dragon_parcel_child_leg3
+  rotate: false
+  xy: 109, 703
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_body2
+  rotate: false
+  xy: 118, 564
+  size: 59, 43
+  orig: 59, 43
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_tailc
+  rotate: true
+  xy: 2, 943
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_neck
+  rotate: false
+  xy: 153, 703
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_r_legc
+  rotate: false
+  xy: 151, 936
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+dragon_parcel_child_eye3
+  rotate: false
+  xy: 179, 564
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+dragon_parcel_baby_note2
+  rotate: false
+  xy: 145, 861
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_parcel_child_head
+  rotate: false
+  xy: 190, 691
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_tail
+  rotate: true
+  xy: 2, 472
+  size: 161, 65
+  orig: 161, 65
+  offset: 0, 0
+  index: -1
+dragon_parcel_child_smile
+  rotate: false
+  xy: 55, 637
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_parcel_baby_head
+  rotate: true
+  xy: 186, 280
+  size: 70, 40
+  orig: 70, 40
+  offset: 0, 0
+  index: -1
+dragon_parcel_child_mouth
+  rotate: false
+  xy: 120, 936
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+dragon_parcel_child_wing2
+  rotate: false
+  xy: 69, 556
+  size: 47, 79
+  orig: 47, 79
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_cria1
+  rotate: true
+  xy: 141, 375
+  size: 116, 85
+  orig: 116, 85
+  offset: 0, 0
+  index: -1
+dragon_parcel_baby_neck
+  rotate: true
+  xy: 192, 818
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+dragon_parcel_baby_wing2
+  rotate: true
+  xy: 89, 861
+  size: 52, 20
+  orig: 52, 20
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_l_wing1
+  rotate: false
+  xy: 2, 375
+  size: 137, 95
+  orig: 137, 95
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_hair3
+  rotate: true
+  xy: 208, 904
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_cri3
+  rotate: false
+  xy: 2, 243
+  size: 155, 130
+  orig: 155, 130
+  offset: 0, 0
+  index: -1
+dragon_parcel_child_tail
+  rotate: true
+  xy: 2, 635
+  size: 121, 51
+  orig: 121, 51
+  offset: 0, 0
+  index: -1
+dragon_parcel_child_chin
+  rotate: false
+  xy: 87, 946
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+dragon_parcel_baby_mouth
+  rotate: false
+  xy: 109, 755
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_eye2
+  rotate: true
+  xy: 130, 973
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_taild
+  rotate: true
+  xy: 2, 758
+  size: 101, 37
+  orig: 101, 37
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_r_armb
+  rotate: false
+  xy: 185, 904
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+dragon_parcel_adult_r_legd
+  rotate: false
+  xy: 159, 996
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1

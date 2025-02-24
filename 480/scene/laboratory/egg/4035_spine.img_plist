@@ -1,0 +1,137 @@
+4035_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+egg1_p1e
+  rotate: false
+  xy: 664, 2
+  size: 78, 120
+  orig: 78, 120
+  offset: 0, 0
+  index: -1
+egg1_p8e
+  rotate: false
+  xy: 2, 556
+  size: 289, 319
+  orig: 289, 319
+  offset: 0, 0
+  index: -1
+egg1_p8
+  rotate: false
+  xy: 293, 556
+  size: 289, 319
+  orig: 289, 319
+  offset: 0, 0
+  index: -1
+egg1_p4
+  rotate: true
+  xy: 584, 697
+  size: 123, 119
+  orig: 123, 119
+  offset: 0, 0
+  index: -1
+light1
+  rotate: true
+  xy: 2, 877
+  size: 110, 234
+  orig: 110, 234
+  offset: 0, 0
+  index: -1
+egg1_p7
+  rotate: false
+  xy: 663, 283
+  size: 87, 140
+  orig: 87, 140
+  offset: 0, 0
+  index: -1
+egg1_p3
+  rotate: true
+  xy: 238, 877
+  size: 106, 137
+  orig: 106, 137
+  offset: 0, 0
+  index: -1
+egg1_p2e
+  rotate: false
+  xy: 556, 413
+  size: 88, 140
+  orig: 88, 140
+  offset: 0, 0
+  index: -1
+egg1_p3e
+  rotate: false
+  xy: 556, 2
+  size: 106, 137
+  orig: 106, 137
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 626, 946
+  size: 56, 55
+  orig: 68, 65
+  offset: 6, 5
+  index: -1
+egg1_p6
+  rotate: false
+  xy: 556, 277
+  size: 105, 134
+  orig: 105, 134
+  offset: 0, 0
+  index: -1
+egg1_p4e
+  rotate: false
+  xy: 377, 877
+  size: 123, 119
+  orig: 123, 119
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 2, 2
+  size: 552, 552
+  orig: 552, 552
+  offset: 0, 0
+  index: -1
+egg1_p2
+  rotate: false
+  xy: 584, 555
+  size: 88, 140
+  orig: 88, 140
+  offset: 0, 0
+  index: -1
+egg1_p5e
+  rotate: false
+  xy: 502, 877
+  size: 122, 119
+  orig: 122, 119
+  offset: 0, 0
+  index: -1
+egg1_p6e
+  rotate: false
+  xy: 556, 141
+  size: 105, 134
+  orig: 105, 134
+  offset: 0, 0
+  index: -1
+egg1_p1
+  rotate: false
+  xy: 646, 425
+  size: 78, 120
+  orig: 78, 120
+  offset: 0, 0
+  index: -1
+egg1_p5
+  rotate: true
+  xy: 626, 822
+  size: 122, 119
+  orig: 122, 119
+  offset: 0, 0
+  index: -1
+egg1_p7e
+  rotate: false
+  xy: 663, 141
+  size: 87, 140
+  orig: 87, 140
+  offset: 0, 0
+  index: -1

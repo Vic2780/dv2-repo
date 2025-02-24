@@ -1,0 +1,193 @@
+161_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_silverlimp_hat
+  rotate: false
+  xy: 491, 180
+  size: 84, 68
+  orig: 84, 68
+  offset: 0, 0
+  index: -1
+m_silverlimp_brow
+  rotate: false
+  xy: 350, 298
+  size: 134, 62
+  orig: 134, 62
+  offset: 0, 0
+  index: -1
+m_silverlimp_body
+  rotate: false
+  xy: 352, 178
+  size: 137, 118
+  orig: 137, 118
+  offset: 0, 0
+  index: -1
+m_silverlimp_gro_hat
+  rotate: false
+  xy: 577, 180
+  size: 50, 68
+  orig: 84, 68
+  offset: 0, 0
+  index: -1
+m_silverlimp_spit
+  rotate: true
+  xy: 479, 470
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+m_silverlimp_foot
+  rotate: false
+  xy: 438, 442
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+m_silverlimp_gro_body
+  rotate: false
+  xy: 583, 250
+  size: 71, 70
+  orig: 137, 118
+  offset: 36, 20
+  index: -1
+m_silverlimp_eye
+  rotate: true
+  xy: 612, 2
+  size: 115, 34
+  orig: 197, 206
+  offset: 43, 65
+  index: -1
+m_silverlimp_leg1
+  rotate: false
+  xy: 350, 438
+  size: 86, 44
+  orig: 86, 44
+  offset: 0, 0
+  index: -1
+m_silverlimp_arm1
+  rotate: true
+  xy: 536, 371
+  size: 71, 45
+  orig: 71, 45
+  offset: 0, 0
+  index: -1
+m_silverlimp_tw
+  rotate: true
+  xy: 453, 371
+  size: 69, 81
+  orig: 83, 99
+  offset: 5, 8
+  index: -1
+m_silverlimp_hand1
+  rotate: true
+  xy: 583, 322
+  size: 75, 68
+  orig: 75, 68
+  offset: 0, 0
+  index: -1
+m_silverlimp_candle2
+  rotate: false
+  xy: 352, 2
+  size: 167, 174
+  orig: 167, 174
+  offset: 0, 0
+  index: -1
+m_silverlimp_gro_brow
+  rotate: false
+  xy: 486, 315
+  size: 86, 54
+  orig: 134, 62
+  offset: 21, 8
+  index: -1
+m_silverlimp_gro_head
+  rotate: false
+  xy: 201, 293
+  size: 147, 162
+  orig: 197, 206
+  offset: 26, 22
+  index: -1
+m_silverlimp_leg2
+  rotate: false
+  xy: 612, 119
+  size: 36, 59
+  orig: 36, 59
+  offset: 0, 0
+  index: -1
+m_silverlimp_gro_eye
+  rotate: false
+  xy: 201, 457
+  size: 103, 42
+  orig: 197, 206
+  offset: 39, 58
+  index: -1
+m_silverlimp_head
+  rotate: false
+  xy: 2, 293
+  size: 197, 206
+  orig: 197, 206
+  offset: 0, 0
+  index: -1
+m_silverlimp_sk
+  rotate: false
+  xy: 350, 362
+  size: 101, 74
+  orig: 101, 74
+  offset: 0, 0
+  index: -1
+m_silverlimp_arm2
+  rotate: true
+  xy: 438, 470
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+m_silverlimp_ear
+  rotate: true
+  xy: 521, 2
+  size: 176, 89
+  orig: 176, 89
+  offset: 0, 0
+  index: -1
+m_silverlimp_hand2
+  rotate: true
+  xy: 583, 399
+  size: 73, 64
+  orig: 73, 66
+  offset: 0, 0
+  index: -1
+m_silverlimp_tear
+  rotate: false
+  xy: 629, 180
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+m_silverlimp_candle1
+  rotate: false
+  xy: 491, 250
+  size: 87, 63
+  orig: 87, 63
+  offset: 0, 0
+  index: -1
+m_silverlimp_gro_leg1
+  rotate: false
+  xy: 306, 457
+  size: 38, 36
+  orig: 86, 44
+  offset: 28, 2
+  index: -1
+m_silverlimp_bag
+  rotate: false
+  xy: 2, 2
+  size: 348, 289
+  orig: 348, 289
+  offset: 0, 0
+  index: -1
+m_silverlimp_gro_arm1
+  rotate: false
+  xy: 516, 444
+  size: 35, 33
+  orig: 71, 45
+  offset: 10, 8
+  index: -1

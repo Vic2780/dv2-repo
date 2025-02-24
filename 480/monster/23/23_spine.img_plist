@@ -1,0 +1,214 @@
+23_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_greenfairy_body
+  rotate: false
+  xy: 2, 1364
+  size: 162, 150
+  orig: 164, 150
+  offset: 0, 0
+  index: -1
+m_greenfairy_groggy_wing2
+  rotate: false
+  xy: 2, 1625
+  size: 125, 89
+  orig: 167, 121
+  offset: 2, 23
+  index: -1
+m_greenfairy_wing1
+  rotate: false
+  xy: 2, 403
+  size: 249, 179
+  orig: 253, 183
+  offset: 3, 1
+  index: -1
+m_greenfairy_groggy_leg2
+  rotate: false
+  xy: 166, 1449
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+m_greenfairy_arm1
+  rotate: false
+  xy: 224, 765
+  size: 22, 83
+  orig: 30, 89
+  offset: 3, 3
+  index: -1
+m_greenfairy_groggy_head
+  rotate: false
+  xy: 2, 926
+  size: 214, 151
+  orig: 240, 167
+  offset: 5, 6
+  index: -1
+m_greenfairy_leg2
+  rotate: false
+  xy: 215, 1110
+  size: 39, 87
+  orig: 39, 89
+  offset: 0, 0
+  index: -1
+m_greenfairy_wing2
+  rotate: false
+  xy: 2, 1516
+  size: 165, 107
+  orig: 167, 121
+  offset: 2, 6
+  index: -1
+m_greenfairy_groggy_leg1
+  rotate: false
+  xy: 218, 998
+  size: 36, 43
+  orig: 44, 105
+  offset: 3, 21
+  index: -1
+m_greenfairy_arm2
+  rotate: false
+  xy: 224, 917
+  size: 19, 79
+  orig: 23, 79
+  offset: 1, 0
+  index: -1
+m_greenfairy_groggy_eye
+  rotate: true
+  xy: 169, 1557
+  size: 108, 63
+  orig: 240, 167
+  offset: 46, 30
+  index: -1
+m_greenfairy_eye
+  rotate: false
+  xy: 129, 1667
+  size: 98, 51
+  orig: 240, 167
+  offset: 51, 40
+  index: -1
+m_greenfairy_leg3
+  rotate: false
+  xy: 208, 1260
+  size: 43, 75
+  orig: 45, 77
+  offset: 2, 0
+  index: -1
+m_greenfairy_head
+  rotate: false
+  xy: 2, 765
+  size: 220, 159
+  orig: 240, 167
+  offset: 20, 2
+  index: -1
+m_greenfairy_mouth
+  rotate: true
+  xy: 245, 935
+  size: 18, 7
+  orig: 240, 167
+  offset: 87, 23
+  index: -1
+m_greenfairy_groggy_close
+  rotate: true
+  xy: 188, 1445
+  size: 110, 63
+  orig: 240, 167
+  offset: 46, 30
+  index: -1
+m_greenfairy_groggy_arm4
+  rotate: false
+  xy: 166, 1410
+  size: 20, 37
+  orig: 24, 67
+  offset: 0, 17
+  index: -1
+m_greenfairy_foot1
+  rotate: true
+  xy: 215, 1199
+  size: 59, 38
+  orig: 59, 40
+  offset: 0, 0
+  index: -1
+m_greenfairy_arm3
+  rotate: false
+  xy: 218, 1043
+  size: 22, 65
+  orig: 24, 65
+  offset: 2, 0
+  index: -1
+m_greenfairy_groggy_mouth
+  rotate: true
+  xy: 245, 917
+  size: 16, 9
+  orig: 240, 167
+  offset: 90, 21
+  index: -1
+m_greenfairy_groggy_body
+  rotate: false
+  xy: 2, 1212
+  size: 162, 150
+  orig: 164, 150
+  offset: 0, 0
+  index: -1
+m_greenfairy_close
+  rotate: true
+  xy: 199, 1337
+  size: 106, 49
+  orig: 240, 167
+  offset: 50, 41
+  index: -1
+m_greenfairy_groggy_wing1
+  rotate: false
+  xy: 2, 584
+  size: 249, 179
+  orig: 253, 183
+  offset: 3, 1
+  index: -1
+m_greenfairy_groggy_arm3
+  rotate: false
+  xy: 166, 1476
+  size: 14, 31
+  orig: 24, 65
+  offset: 5, 26
+  index: -1
+m_greenfairy_groggy_leg3
+  rotate: false
+  xy: 166, 1367
+  size: 23, 41
+  orig: 45, 77
+  offset: 17, 20
+  index: -1
+m_greenfairy_magicbong
+  rotate: true
+  xy: 2, 2
+  size: 399, 245
+  orig: 399, 245
+  offset: 0, 0
+  index: -1
+m_greenfairy_foot2
+  rotate: true
+  xy: 166, 1319
+  size: 46, 31
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+m_greenfairy_arm4
+  rotate: false
+  xy: 224, 850
+  size: 24, 65
+  orig: 24, 67
+  offset: 0, 2
+  index: -1
+m_greenfairy_leg1
+  rotate: false
+  xy: 166, 1212
+  size: 40, 105
+  orig: 44, 105
+  offset: 2, 0
+  index: -1
+m_greenfairy_groggy_magicbong
+  rotate: false
+  xy: 2, 1079
+  size: 211, 131
+  orig: 399, 245
+  offset: 4, 10
+  index: -1

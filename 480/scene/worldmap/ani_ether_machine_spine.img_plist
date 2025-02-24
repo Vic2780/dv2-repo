@@ -1,0 +1,53 @@
+ani_ether_machine_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dv2_ether_machine_light002
+  rotate: true
+  xy: 2, 158
+  size: 144, 126
+  orig: 146, 152
+  offset: 0, 0
+  index: -1
+dv2_ether_machine_cogwheel02002
+  rotate: false
+  xy: 2, 2
+  size: 132, 76
+  orig: 146, 152
+  offset: 3, 69
+  index: -1
+dv2_ether01002
+  rotate: false
+  xy: 80, 394
+  size: 36, 42
+  orig: 146, 152
+  offset: 55, 27
+  index: -1
+dv2_ether_machine_pot02002
+  rotate: true
+  xy: 120, 304
+  size: 92, 14
+  orig: 146, 152
+  offset: 28, 90
+  index: -1
+dv2_ether_machine_cogwheel01002
+  rotate: false
+  xy: 2, 80
+  size: 132, 76
+  orig: 146, 152
+  offset: 12, 69
+  index: -1
+dv2_ether_machine_pot01002
+  rotate: false
+  xy: 2, 304
+  size: 116, 88
+  orig: 146, 152
+  offset: 16, 7
+  index: -1
+dv2_ether_machine_latticed002
+  rotate: false
+  xy: 2, 394
+  size: 76, 68
+  orig: 146, 152
+  offset: 35, 17
+  index: -1

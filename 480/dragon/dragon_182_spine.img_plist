@@ -1,0 +1,389 @@
+dragon_182_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_jet_child_leg1
+  rotate: false
+  xy: 486, 123
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+dragon_jet_adult_leg7
+  rotate: false
+  xy: 486, 207
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1
+dragon_jet_adult_fog
+  rotate: true
+  xy: 400, 2
+  size: 307, 84
+  orig: 307, 86
+  offset: 0, 0
+  index: -1
+dragon_jet_adult_wing
+  rotate: false
+  xy: 2, 499
+  size: 191, 104
+  orig: 191, 104
+  offset: 0, 0
+  index: -1
+dragon_jet_adult_mouth
+  rotate: false
+  xy: 115, 605
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+dragon_jet_child_leg2
+  rotate: false
+  xy: 281, 573
+  size: 27, 53
+  orig: 27, 53
+  offset: 0, 0
+  index: -1
+dragon_jet_child_hwing
+  rotate: false
+  xy: 86, 605
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+dragon_jet_child_head2
+  rotate: true
+  xy: 195, 564
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+dragon_jet_adult_speed
+  rotate: false
+  xy: 2, 315
+  size: 289, 182
+  orig: 293, 182
+  offset: 4, 0
+  index: -1
+dragon_jet_adult_head1
+  rotate: false
+  xy: 398, 547
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+dragon_jet_child_mouth
+  rotate: true
+  xy: 486, 166
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+dragon_jet_adult_neck
+  rotate: false
+  xy: 358, 442
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+dragon_jet_child_tail2
+  rotate: false
+  xy: 484, 577
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+dragon_jet_adult_eye
+  rotate: true
+  xy: 474, 534
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+dragon_jet_baby_leg2
+  rotate: false
+  xy: 474, 545
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+dragon_jet_child_leg3
+  rotate: true
+  xy: 2, 605
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+dragon_jet_baby_head1
+  rotate: false
+  xy: 293, 471
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+dragon_jet_baby_body
+  rotate: false
+  xy: 470, 311
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+dragon_jet_baby_wing
+  rotate: false
+  xy: 470, 449
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+dragon_jet_adult_leg4
+  rotate: true
+  xy: 310, 573
+  size: 51, 35
+  orig: 51, 35
+  offset: 0, 0
+  index: -1
+dragon_jet_adult_tail2
+  rotate: false
+  xy: 439, 439
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+dragon_jet_baby_tail2
+  rotate: true
+  xy: 173, 605
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+dragon_jet_child_leg4
+  rotate: true
+  xy: 143, 605
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+dragon_jet_child_wing
+  rotate: false
+  xy: 293, 315
+  size: 73, 104
+  orig: 73, 104
+  offset: 0, 0
+  index: -1
+dragon_jet_child_eye
+  rotate: true
+  xy: 42, 605
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+dragon_jet_adult_fire
+  rotate: false
+  xy: 415, 311
+  size: 53, 86
+  orig: 53, 86
+  offset: 0, 0
+  index: -1
+dragon_jet_baby_mouth
+  rotate: true
+  xy: 447, 534
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+dragon_jet_critical_atk
+  rotate: false
+  xy: 2, 315
+  size: 289, 182
+  orig: 293, 182
+  offset: 4, 0
+  index: -1
+dragon_jet_child_body2
+  rotate: false
+  xy: 470, 409
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+dragon_jet_baby_eye
+  rotate: false
+  xy: 57, 605
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+dragon_jet_adult_hwing
+  rotate: true
+  xy: 484, 484
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+dragon_jet_adult_leg5
+  rotate: false
+  xy: 407, 442
+  size: 30, 54
+  orig: 32, 54
+  offset: 2, 0
+  index: -1
+dragon_jet_adult_tail
+  rotate: true
+  xy: 368, 315
+  size: 125, 45
+  orig: 125, 45
+  offset: 0, 0
+  index: -1
+dragon_jet_adult_body
+  rotate: false
+  xy: 195, 499
+  size: 92, 63
+  orig: 92, 63
+  offset: 0, 0
+  index: -1
+dragon_jet_child_leg5
+  rotate: false
+  xy: 486, 272
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+dragon_jet_child_body
+  rotate: true
+  xy: 289, 521
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+dragon_jet_critical_wind
+  rotate: false
+  xy: 2, 2
+  size: 396, 311
+  orig: 396, 311
+  offset: 0, 0
+  index: -1
+dragon_jet_adult_leg8
+  rotate: true
+  xy: 486, 45
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+dragon_jet_baby_hwing
+  rotate: false
+  xy: 486, 293
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+dragon_jet_adult_food
+  rotate: true
+  xy: 347, 583
+  size: 43, 41
+  orig: 43, 41
+  offset: 0, 0
+  index: -1
+dragon_jet_child_head1
+  rotate: true
+  xy: 238, 564
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+dragon_jet_child_tail1
+  rotate: false
+  xy: 347, 540
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+dragon_jet_child_anger
+  rotate: false
+  xy: 484, 517
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_jet_adult_leg2
+  rotate: true
+  xy: 470, 364
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+dragon_jet_baby_leg3
+  rotate: false
+  xy: 484, 608
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+dragon_jet_adult_head2
+  rotate: true
+  xy: 407, 498
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+dragon_jet_baby_head2
+  rotate: false
+  xy: 293, 421
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+dragon_jet_baby_leg1
+  rotate: false
+  xy: 486, 75
+  size: 23, 46
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+dragon_jet_child_neck
+  rotate: false
+  xy: 447, 484
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+dragon_jet_adult_leg3
+  rotate: false
+  xy: 415, 399
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+dragon_jet_adult_leg6
+  rotate: true
+  xy: 486, 243
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+dragon_jet_adult_head3
+  rotate: false
+  xy: 358, 503
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+dragon_jet_baby_heart
+  rotate: false
+  xy: 390, 584
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_jet_adult_leg1
+  rotate: true
+  xy: 438, 584
+  size: 36, 44
+  orig: 38, 44
+  offset: 2, 0
+  index: -1
+dragon_jet_baby_tail1
+  rotate: true
+  xy: 486, 2
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1

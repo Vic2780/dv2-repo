@@ -1,0 +1,592 @@
+dragon_47_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_skelegon_critical4
+  rotate: true
+  xy: 391, 40
+  size: 20, 50
+  orig: 44, 66
+  offset: 15, 8
+  index: -1
+dragon_skelegon_baby_body1
+  rotate: true
+  xy: 949, 2
+  size: 41, 44
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+dragon_skelegon_adult_leg2
+  rotate: true
+  xy: 145, 79
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+dragon_skelegon_critical7
+  rotate: false
+  xy: 995, 2
+  size: 24, 51
+  orig: 38, 59
+  offset: 6, 6
+  index: -1
+dragon_skelegon_adult_neck2
+  rotate: false
+  xy: 820, 74
+  size: 18, 22
+  orig: 22, 26
+  offset: 2, 3
+  index: -1
+dragon_skelegon_baby_leg4
+  rotate: false
+  xy: 103, 79
+  size: 19, 17
+  orig: 21, 21
+  offset: 2, 1
+  index: -1
+dragon_skelegon_baby_s
+  rotate: false
+  xy: 237, 2
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_skelegon_child_leg5
+  rotate: true
+  xy: 591, 57
+  size: 26, 24
+  orig: 26, 28
+  offset: 0, 2
+  index: -1
+dragon_skelegon_adult_tail2
+  rotate: false
+  xy: 896, 55
+  size: 18, 20
+  orig: 20, 20
+  offset: 1, 0
+  index: -1
+dragon_skelegon_child_arm6
+  rotate: true
+  xy: 170, 64
+  size: 32, 84
+  orig: 40, 88
+  offset: 6, 3
+  index: -1
+dragon_skelegon_child_tail2
+  rotate: false
+  xy: 755, 75
+  size: 16, 21
+  orig: 20, 23
+  offset: 2, 2
+  index: -1
+dragon_skelegon_adult_leg7
+  rotate: false
+  xy: 464, 44
+  size: 36, 31
+  orig: 36, 33
+  offset: 0, 2
+  index: -1
+dragon_skelegon_child_leg1
+  rotate: true
+  xy: 552, 57
+  size: 21, 37
+  orig: 203, 203
+  offset: 133, 39
+  index: -1
+dragon_skelegon_adult_tail9
+  rotate: false
+  xy: 955, 64
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+dragon_skelegon_child_waist1
+  rotate: false
+  xy: 918, 35
+  size: 20, 18
+  orig: 24, 20
+  offset: 2, 1
+  index: -1
+dragon_skelegon_child_arm5
+  rotate: true
+  xy: 328, 30
+  size: 25, 61
+  orig: 31, 65
+  offset: 3, 3
+  index: -1
+dragon_skelegon_baby_eye1
+  rotate: false
+  xy: 755, 45
+  size: 31, 28
+  orig: 33, 32
+  offset: 0, 3
+  index: -1
+dragon_skelegon_child_body1
+  rotate: true
+  xy: 89, 2
+  size: 75, 79
+  orig: 77, 79
+  offset: 1, 0
+  index: -1
+dragon_skelegon_adult_head1
+  rotate: true
+  xy: 472, 2
+  size: 40, 78
+  orig: 44, 78
+  offset: 2, 0
+  index: -1
+dragon_skelegon_child_leg4
+  rotate: false
+  xy: 502, 44
+  size: 31, 31
+  orig: 35, 31
+  offset: 2, 0
+  index: -1
+dragon_skelegon_baby_jaw1
+  rotate: true
+  xy: 328, 57
+  size: 39, 29
+  orig: 41, 31
+  offset: 2, 2
+  index: -1
+dragon_skelegon_adult_tail11
+  rotate: false
+  xy: 955, 81
+  size: 13, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+dragon_skelegon_adult_s1
+  rotate: false
+  xy: 237, 2
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_skelegon_critical5
+  rotate: true
+  xy: 256, 64
+  size: 32, 68
+  orig: 54, 80
+  offset: 14, 6
+  index: -1
+dragon_skelegon_child_head1
+  rotate: true
+  xy: 552, 2
+  size: 53, 63
+  orig: 55, 65
+  offset: 0, 2
+  index: -1
+dragon_skelegon_child_arm1
+  rotate: false
+  xy: 788, 45
+  size: 30, 28
+  orig: 32, 32
+  offset: 0, 4
+  index: -1
+dragon_skelegon_child_s
+  rotate: false
+  xy: 237, 2
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_skelegon_adult_arm1
+  rotate: false
+  xy: 443, 40
+  size: 19, 48
+  orig: 23, 50
+  offset: 1, 2
+  index: -1
+dragon_skelegon_adult_leg5
+  rotate: true
+  xy: 840, 74
+  size: 22, 18
+  orig: 24, 18
+  offset: 1, 0
+  index: -1
+dragon_skelegon_child_jaw1
+  rotate: false
+  xy: 296, 30
+  size: 30, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dragon_skelegon_adult_neck1
+  rotate: false
+  xy: 938, 55
+  size: 15, 18
+  orig: 21, 24
+  offset: 3, 3
+  index: -1
+dragon_skelegon_adult_leg6
+  rotate: false
+  xy: 860, 74
+  size: 14, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+dragon_skelegon_baby_leg5
+  rotate: false
+  xy: 989, 55
+  size: 14, 14
+  orig: 14, 16
+  offset: 0, 2
+  index: -1
+dragon_skelegon_baby_tail1
+  rotate: false
+  xy: 973, 62
+  size: 14, 13
+  orig: 14, 17
+  offset: 0, 2
+  index: -1
+dragon_skelegon_adult_tail8
+  rotate: false
+  xy: 936, 75
+  size: 17, 15
+  orig: 17, 17
+  offset: 0, 2
+  index: -1
+dragon_skelegon_baby_arm1
+  rotate: false
+  xy: 773, 75
+  size: 13, 21
+  orig: 17, 23
+  offset: 3, 1
+  index: -1
+dragon_skelegon_child_arm4
+  rotate: true
+  xy: 509, 85
+  size: 11, 32
+  orig: 19, 34
+  offset: 4, 1
+  index: -1
+dragon_skelegon_adult_tail1
+  rotate: false
+  xy: 916, 55
+  size: 20, 18
+  orig: 20, 20
+  offset: 0, 2
+  index: -1
+dragon_skelegon_critical1
+  rotate: true
+  xy: 741, 55
+  size: 41, 12
+  orig: 53, 28
+  offset: 2, 7
+  index: -1
+dragon_skelegon_adult_eye1
+  rotate: false
+  xy: 879, 57
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+dragon_skelegon_child_tail1
+  rotate: false
+  xy: 896, 77
+  size: 17, 18
+  orig: 21, 22
+  offset: 1, 2
+  index: -1
+dragon_skelegon_adult_leg1
+  rotate: false
+  xy: 481, 77
+  size: 26, 18
+  orig: 28, 20
+  offset: 0, 1
+  index: -1
+dragon_skelegon_baby_leg1
+  rotate: false
+  xy: 916, 75
+  size: 18, 15
+  orig: 20, 15
+  offset: 1, 0
+  index: -1
+dragon_skelegon_adult_tail12
+  rotate: true
+  xy: 1005, 55
+  size: 13, 14
+  orig: 15, 16
+  offset: 1, 1
+  index: -1
+dragon_skelegon_critical2
+  rotate: true
+  xy: 893, 2
+  size: 31, 54
+  orig: 43, 62
+  offset: 6, 3
+  index: -1
+dragon_skelegon_adult_body2
+  rotate: true
+  xy: 843, 2
+  size: 38, 48
+  orig: 40, 50
+  offset: 0, 2
+  index: -1
+dragon_skelegon_adult_leg4
+  rotate: false
+  xy: 793, 2
+  size: 48, 41
+  orig: 50, 41
+  offset: 2, 0
+  index: -1
+dragon_skelegon_adult_tail5
+  rotate: true
+  xy: 81, 79
+  size: 17, 20
+  orig: 19, 20
+  offset: 1, 0
+  index: -1
+dragon_skelegon_child_tail5
+  rotate: false
+  xy: 989, 71
+  size: 13, 13
+  orig: 17, 15
+  offset: 2, 2
+  index: -1
+dragon_skelegon_baby_tail2
+  rotate: false
+  xy: 1005, 70
+  size: 12, 12
+  orig: 14, 14
+  offset: 2, 1
+  index: -1
+dragon_skelegon_baby_head1
+  rotate: false
+  xy: 170, 2
+  size: 65, 60
+  orig: 71, 62
+  offset: 2, 1
+  index: -1
+dragon_skelegon_child_leg3
+  rotate: true
+  xy: 893, 35
+  size: 18, 23
+  orig: 20, 23
+  offset: 1, 0
+  index: -1
+dragon_skelegon_baby_arm2
+  rotate: true
+  xy: 464, 77
+  size: 19, 15
+  orig: 23, 17
+  offset: 2, 0
+  index: -1
+dragon_skelegon_baby_leg2
+  rotate: true
+  xy: 970, 86
+  size: 10, 12
+  orig: 10, 14
+  offset: 0, 1
+  index: -1
+dragon_skelegon_adult_tail7
+  rotate: false
+  xy: 876, 79
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+dragon_skelegon_child_arm3
+  rotate: true
+  xy: 391, 2
+  size: 36, 79
+  orig: 40, 83
+  offset: 1, 3
+  index: -1
+dragon_skelegon_child_tail7
+  rotate: false
+  xy: 535, 44
+  size: 15, 35
+  orig: 19, 35
+  offset: 1, 0
+  index: -1
+dragon_skelegon_adult_tail4
+  rotate: false
+  xy: 955, 45
+  size: 16, 17
+  orig: 20, 21
+  offset: 2, 2
+  index: -1
+dragon_skelegon_child_tail4
+  rotate: false
+  xy: 973, 45
+  size: 14, 15
+  orig: 18, 15
+  offset: 2, 0
+  index: -1
+dragon_skelegon_child_leg2
+  rotate: true
+  xy: 788, 75
+  size: 18, 29
+  orig: 24, 29
+  offset: 3, 0
+  index: -1
+dragon_skelegon_adult_tail13
+  rotate: false
+  xy: 359, 57
+  size: 15, 39
+  orig: 21, 39
+  offset: 3, 0
+  index: -1
+dragon_skelegon_critical3
+  rotate: true
+  xy: 617, 49
+  size: 47, 42
+  orig: 63, 56
+  offset: 8, 4
+  index: -1
+dragon_skelegon_adult_body1
+  rotate: false
+  xy: 2, 2
+  size: 85, 70
+  orig: 91, 74
+  offset: 3, 2
+  index: -1
+dragon_skelegon_adult_arm3
+  rotate: false
+  xy: 617, 2
+  size: 58, 45
+  orig: 62, 47
+  offset: 1, 2
+  index: -1
+dragon_skelegon_critical6
+  rotate: true
+  xy: 296, 2
+  size: 26, 93
+  orig: 46, 109
+  offset: 12, 8
+  index: -1
+dragon_skelegon_adult_waist1
+  rotate: true
+  xy: 412, 62
+  size: 33, 29
+  orig: 37, 29
+  offset: 2, 0
+  index: -1
+dragon_skelegon_adult_leg8
+  rotate: false
+  xy: 661, 49
+  size: 49, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+dragon_skelegon_baby_tail3
+  rotate: true
+  xy: 984, 86
+  size: 9, 11
+  orig: 11, 11
+  offset: 2, 0
+  index: -1
+dragon_skelegon_adult_tail6
+  rotate: true
+  xy: 124, 79
+  size: 17, 19
+  orig: 19, 19
+  offset: 2, 0
+  index: -1
+dragon_skelegon_baby_arm3
+  rotate: false
+  xy: 552, 80
+  size: 20, 16
+  orig: 20, 18
+  offset: 0, 2
+  index: -1
+dragon_skelegon_child_arm2
+  rotate: true
+  xy: 2, 74
+  size: 19, 57
+  orig: 25, 61
+  offset: 3, 3
+  index: -1
+dragon_skelegon_child_tail6
+  rotate: false
+  xy: 879, 42
+  size: 12, 13
+  orig: 14, 15
+  offset: 1, 2
+  index: -1
+dragon_skelegon_adult_leg3
+  rotate: false
+  xy: 376, 62
+  size: 34, 34
+  orig: 38, 36
+  offset: 3, 2
+  index: -1
+dragon_skelegon_adult_neck3
+  rotate: false
+  xy: 61, 74
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+dragon_skelegon_baby_leg3
+  rotate: false
+  xy: 589, 85
+  size: 16, 11
+  orig: 18, 13
+  offset: 1, 2
+  index: -1
+dragon_skelegon_baby_leg6
+  rotate: false
+  xy: 866, 42
+  size: 11, 9
+  orig: 15, 11
+  offset: 2, 2
+  index: -1
+dragon_skelegon_adult_tail3
+  rotate: false
+  xy: 842, 55
+  size: 17, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+dragon_skelegon_adult_arm2
+  rotate: false
+  xy: 677, 2
+  size: 57, 45
+  orig: 57, 47
+  offset: 0, 2
+  index: -1
+dragon_skelegon_child_body2
+  rotate: false
+  xy: 736, 2
+  size: 55, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+dragon_skelegon_adult_jaw1
+  rotate: false
+  xy: 712, 55
+  size: 27, 41
+  orig: 29, 41
+  offset: 1, 0
+  index: -1
+dragon_skelegon_child_tail3
+  rotate: false
+  xy: 861, 55
+  size: 16, 17
+  orig: 20, 17
+  offset: 2, 0
+  index: -1
+dragon_skelegon_baby_tail4
+  rotate: false
+  xy: 843, 42
+  size: 21, 10
+  orig: 23, 14
+  offset: 0, 2
+  index: -1
+dragon_skelegon_adult_tail10
+  rotate: false
+  xy: 574, 80
+  size: 13, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+dragon_skelegon_child_leg6
+  rotate: true
+  xy: 820, 45
+  size: 27, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1

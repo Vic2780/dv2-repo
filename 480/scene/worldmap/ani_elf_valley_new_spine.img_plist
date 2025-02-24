@@ -1,0 +1,60 @@
+ani_elf_valley_new_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+w_elf_valley_t02
+  rotate: false
+  xy: 223, 87
+  size: 63, 75
+  orig: 245, 203
+  offset: 83, 38
+  index: -1
+w_elf_valley_t03
+  rotate: true
+  xy: 87, 193
+  size: 55, 67
+  orig: 245, 203
+  offset: 43, 39
+  index: -1
+w_elf_valley_t04book
+  rotate: true
+  xy: 223, 2
+  size: 83, 69
+  orig: 245, 203
+  offset: 17, 87
+  index: -1
+w_elf_valley_t01
+  rotate: true
+  xy: 156, 193
+  size: 53, 61
+  orig: 245, 203
+  offset: 129, 24
+  index: -1
+w_elf_valley_eyeeye
+  rotate: false
+  xy: 219, 215
+  size: 43, 37
+  orig: 49, 39
+  offset: 3, 2
+  index: -1
+w_elf_valley_bgbook
+  rotate: false
+  xy: 2, 2
+  size: 219, 189
+  orig: 245, 203
+  offset: 5, 6
+  index: -1
+w_elf_valley_t04
+  rotate: true
+  xy: 2, 193
+  size: 55, 83
+  orig: 245, 203
+  offset: 34, 98
+  index: -1
+w_elf_valley_t05
+  rotate: true
+  xy: 223, 164
+  size: 49, 65
+  orig: 245, 203
+  offset: 146, 107
+  index: -1

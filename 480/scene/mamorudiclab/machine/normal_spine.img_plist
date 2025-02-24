@@ -1,0 +1,46 @@
+normal_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+ring01
+  rotate: false
+  xy: 607, 2
+  size: 173, 89
+  orig: 173, 89
+  offset: 0, 0
+  index: -1
+valve
+  rotate: false
+  xy: 782, 52
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+e_machine01
+  rotate: false
+  xy: 2, 2
+  size: 215, 99
+  orig: 221, 107
+  offset: 2, 0
+  index: -1
+wing
+  rotate: false
+  xy: 782, 2
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+e_machine02
+  rotate: false
+  xy: 219, 2
+  size: 211, 99
+  orig: 221, 107
+  offset: 6, 0
+  index: -1
+ring02
+  rotate: false
+  xy: 432, 2
+  size: 173, 89
+  orig: 173, 89
+  offset: 0, 0
+  index: -1

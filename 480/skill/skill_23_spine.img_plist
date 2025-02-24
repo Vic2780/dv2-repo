@@ -1,0 +1,11 @@
+skill_23_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skill_rapture1
+  rotate: false
+  xy: 2, 2
+  size: 212, 231
+  orig: 284, 289
+  offset: 44, 24
+  index: -1

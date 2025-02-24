@@ -1,0 +1,32 @@
+ani_elf_wave_new_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+w_elf_riverdust_leaf01
+  rotate: false
+  xy: 29, 166
+  size: 17, 18
+  orig: 21, 30
+  offset: 4, 7
+  index: -1
+w_elf_riverdust_leaf02
+  rotate: false
+  xy: 48, 166
+  size: 14, 15
+  orig: 20, 23
+  offset: 2, 6
+  index: -1
+w_elf_riverdust_leaf03
+  rotate: false
+  xy: 2, 166
+  size: 25, 21
+  orig: 39, 35
+  offset: 6, 6
+  index: -1
+w_elf_riverdustbook
+  rotate: true
+  xy: 2, 2
+  size: 162, 130
+  orig: 162, 130
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,144 @@
+106_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_Ogre_leg2
+  rotate: true
+  xy: 105, 766
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+m_Ogre_n
+  rotate: false
+  xy: 151, 239
+  size: 9, 23
+  orig: 9, 23
+  offset: 0, 0
+  index: -1
+m_Ogre_groggy_leg2
+  rotate: false
+  xy: 131, 348
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+m_Ogre_groggy_arm2
+  rotate: true
+  xy: 99, 602
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+m_Ogre_groggy_head1
+  rotate: true
+  xy: 2, 501
+  size: 174, 95
+  orig: 174, 95
+  offset: 0, 0
+  index: -1
+m_Ogre_groggy_pant
+  rotate: true
+  xy: 131, 376
+  size: 60, 23
+  orig: 60, 23
+  offset: 0, 0
+  index: -1
+m_Ogre_groggy_hand
+  rotate: true
+  xy: 151, 221
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+m_Ogre_body
+  rotate: false
+  xy: 2, 221
+  size: 147, 125
+  orig: 147, 125
+  offset: 0, 0
+  index: -1
+m_Ogre_eye
+  rotate: true
+  xy: 111, 458
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+m_Ogre_groggy_body
+  rotate: false
+  xy: 2, 348
+  size: 127, 108
+  orig: 127, 108
+  offset: 0, 0
+  index: -1
+m_Ogre_arm1
+  rotate: true
+  xy: 99, 502
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+m_Ogre_head1
+  rotate: true
+  xy: 2, 2
+  size: 217, 159
+  orig: 217, 159
+  offset: 0, 0
+  index: -1
+m_Ogre_pant
+  rotate: false
+  xy: 2, 458
+  size: 107, 41
+  orig: 107, 41
+  offset: 0, 0
+  index: -1
+m_Ogre_ac
+  rotate: true
+  xy: 99, 642
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: -1
+m_Ogre_arm2
+  rotate: false
+  xy: 105, 803
+  size: 42, 65
+  orig: 42, 65
+  offset: 0, 0
+  index: -1
+m_Ogre_head2
+  rotate: true
+  xy: 2, 677
+  size: 210, 63
+  orig: 210, 63
+  offset: 0, 0
+  index: -1
+m_Ogre_leg1
+  rotate: true
+  xy: 99, 560
+  size: 40, 60
+  orig: 40, 60
+  offset: 0, 0
+  index: -1
+m_Ogre_groggy_head2
+  rotate: true
+  xy: 67, 678
+  size: 196, 36
+  orig: 196, 36
+  offset: 0, 0
+  index: -1
+m_Ogre_hand
+  rotate: true
+  xy: 105, 721
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+m_Ogre_ear
+  rotate: false
+  xy: 105, 678
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1

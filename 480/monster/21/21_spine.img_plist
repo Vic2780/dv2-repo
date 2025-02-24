@@ -1,0 +1,228 @@
+21_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_minotaur_ex
+  rotate: false
+  xy: 2, 234
+  size: 430, 230
+  orig: 430, 236
+  offset: 0, 6
+  index: -1
+m_minotaur_hand1
+  rotate: true
+  xy: 434, 2
+  size: 59, 71
+  orig: 71, 77
+  offset: 5, 6
+  index: -1
+m_minotaur_groggy_gobbi
+  rotate: false
+  xy: 434, 228
+  size: 68, 49
+  orig: 252, 245
+  offset: 97, 49
+  index: -1
+m_minotaur_groggy_arm4
+  rotate: true
+  xy: 433, 503
+  size: 57, 73
+  orig: 107, 157
+  offset: 29, 35
+  index: -1
+m_minotaur_leg2
+  rotate: false
+  xy: 427, 818
+  size: 79, 84
+  orig: 95, 98
+  offset: 8, 6
+  index: -1
+m_minotaur_arm2
+  rotate: true
+  xy: 397, 904
+  size: 115, 107
+  orig: 199, 137
+  offset: 84, 29
+  index: -1
+m_minotaur_head
+  rotate: false
+  xy: 2, 771
+  size: 232, 179
+  orig: 252, 245
+  offset: 11, 52
+  index: -1
+m_minotaur_mouth3
+  rotate: true
+  xy: 335, 466
+  size: 87, 96
+  orig: 95, 102
+  offset: 1, 4
+  index: -1
+m_minotaur_groggy_head
+  rotate: true
+  xy: 236, 847
+  size: 230, 159
+  orig: 252, 245
+  offset: 12, 56
+  index: -1
+m_minotaur_groggy_leg2
+  rotate: false
+  xy: 432, 562
+  size: 61, 46
+  orig: 95, 98
+  offset: 20, 27
+  index: -1
+m_minotaur_eye
+  rotate: true
+  xy: 21, 952
+  size: 132, 43
+  orig: 252, 245
+  offset: 62, 95
+  index: -1
+m_minotaur_gobbi
+  rotate: false
+  xy: 434, 173
+  size: 68, 53
+  orig: 252, 245
+  offset: 97, 46
+  index: -1
+m_minotaur_groggy_eye
+  rotate: true
+  xy: 2, 952
+  size: 134, 17
+  orig: 252, 245
+  offset: 61, 101
+  index: -1
+m_minotaur_body
+  rotate: true
+  xy: 2, 466
+  size: 214, 331
+  orig: 230, 337
+  offset: 10, 0
+  index: -1
+m_minotaur_leg1
+  rotate: false
+  xy: 246, 682
+  size: 84, 102
+  orig: 92, 102
+  offset: 0, 0
+  index: -1
+m_minotaur_arm1
+  rotate: false
+  xy: 332, 702
+  size: 93, 143
+  orig: 95, 155
+  offset: 0, 3
+  index: -1
+m_minotaur_groggy_ex
+  rotate: false
+  xy: 2, 2
+  size: 430, 230
+  orig: 430, 236
+  offset: 0, 6
+  index: -1
+m_minotaur_groggy_arm2
+  rotate: false
+  xy: 66, 952
+  size: 159, 129
+  orig: 199, 137
+  offset: 8, 0
+  index: -1
+m_minotaur_leg4
+  rotate: true
+  xy: 432, 610
+  size: 46, 59
+  orig: 46, 59
+  offset: 0, 0
+  index: -1
+m_minotaur_arm4
+  rotate: false
+  xy: 335, 555
+  size: 95, 145
+  orig: 107, 157
+  offset: 6, 3
+  index: -1
+m_minotaur_groggy_hand2
+  rotate: false
+  xy: 289, 786
+  size: 32, 31
+  orig: 92, 79
+  offset: 30, 27
+  index: -1
+m_minotaur_mouth1
+  rotate: true
+  xy: 434, 393
+  size: 108, 63
+  orig: 252, 245
+  offset: 72, 43
+  index: -1
+m_minotaur_tail
+  rotate: false
+  xy: 2, 682
+  size: 242, 87
+  orig: 256, 111
+  offset: 14, 18
+  index: -1
+m_minotaur_grogyy_mouth1
+  rotate: true
+  xy: 236, 786
+  size: 54, 51
+  orig: 252, 245
+  offset: 100, 54
+  index: -1
+m_minotaur_hand2
+  rotate: true
+  xy: 434, 279
+  size: 80, 67
+  orig: 92, 79
+  offset: 5, 12
+  index: -1
+m_minotaur_sum
+  rotate: false
+  xy: 397, 1021
+  size: 99, 54
+  orig: 105, 72
+  offset: 4, 6
+  index: -1
+m_minotaur_groggy_hand1
+  rotate: true
+  xy: 108, 1083
+  size: 15, 21
+  orig: 71, 77
+  offset: 36, 25
+  index: -1
+m_minotaur_leg3
+  rotate: true
+  xy: 432, 658
+  size: 45, 59
+  orig: 53, 59
+  offset: 8, 0
+  index: -1
+m_minotaur_arm3
+  rotate: true
+  xy: 427, 705
+  size: 111, 79
+  orig: 113, 89
+  offset: 2, 0
+  index: -1
+m_minotaur_mouth2
+  rotate: true
+  xy: 434, 63
+  size: 108, 70
+  orig: 118, 80
+  offset: 1, 9
+  index: -1
+m_minotaur_groggy_leg1
+  rotate: false
+  xy: 66, 1083
+  size: 40, 16
+  orig: 92, 102
+  offset: 9, 29
+  index: -1
+m_minotaur_chim
+  rotate: true
+  xy: 434, 361
+  size: 30, 66
+  orig: 74, 84
+  offset: 19, 10
+  index: -1

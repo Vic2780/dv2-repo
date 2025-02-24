@@ -1,0 +1,18 @@
+stage_dark_buff_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dark_buff1
+  rotate: true
+  xy: 2, 2
+  size: 111, 116
+  orig: 137, 128
+  offset: 18, 8
+  index: -1
+dark_buff2
+  rotate: false
+  xy: 120, 2
+  size: 105, 110
+  orig: 137, 128
+  offset: 21, 11
+  index: -1

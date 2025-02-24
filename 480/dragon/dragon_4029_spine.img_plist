@@ -1,0 +1,466 @@
+dragon_4029_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_spiral_adult_spiral
+  rotate: false
+  xy: 180, 570
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+dragon_spiral_adult_body
+  rotate: false
+  xy: 52, 450
+  size: 82, 47
+  orig: 82, 47
+  offset: 0, 0
+  index: -1
+dragon_spiral_adult_leg4
+  rotate: false
+  xy: 69, 579
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: -1
+dragon_spiral_child_head1
+  rotate: false
+  xy: 108, 626
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+dragon_spiral_adult_note1
+  rotate: true
+  xy: 216, 2
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_spiral_child_smile
+  rotate: false
+  xy: 2, 633
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_spiral_baby_head2
+  rotate: false
+  xy: 133, 516
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+dragon_spiral_child_spiral
+  rotate: false
+  xy: 180, 570
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+dragon_spiral_child_leg2
+  rotate: true
+  xy: 108, 675
+  size: 19, 47
+  orig: 21, 47
+  offset: 0, 0
+  index: -1
+dragon_spiral_baby_spiral
+  rotate: false
+  xy: 180, 570
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+dragon_spiral_adult_leg5
+  rotate: false
+  xy: 224, 625
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+dragon_spiral_baby_leg4
+  rotate: true
+  xy: 95, 608
+  size: 16, 25
+  orig: 20, 29
+  offset: 4, 4
+  index: -1
+dragon_spiral_child_taillight
+  rotate: true
+  xy: 231, 436
+  size: 26, 23
+  orig: 68, 49
+  offset: 26, 6
+  index: -1
+dragon_spiral_child_leg1
+  rotate: false
+  xy: 231, 464
+  size: 22, 41
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+dragon_spiral_baby_yawn
+  rotate: false
+  xy: 181, 624
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+dragon_spiral_child_head2
+  rotate: false
+  xy: 131, 577
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+dragon_spiral_adult_note2
+  rotate: false
+  xy: 216, 92
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_spiral_adult_eye2
+  rotate: false
+  xy: 82, 569
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+dragon_spiral_adult_wheel2
+  rotate: false
+  xy: 128, 696
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+dragon_spiral_baby_tail
+  rotate: true
+  xy: 226, 381
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+dragon_spiral_adult_wheel1
+  rotate: false
+  xy: 211, 683
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+dragon_spiral_baby_wing
+  rotate: false
+  xy: 100, 696
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+dragon_spiral_child_leg3
+  rotate: false
+  xy: 83, 694
+  size: 15, 14
+  orig: 17, 14
+  offset: 2, 0
+  index: -1
+dragon_spiral_adult_tail
+  rotate: false
+  xy: 52, 393
+  size: 121, 55
+  orig: 121, 55
+  offset: 0, 0
+  index: -1
+dragon_spiral_baby_eye
+  rotate: false
+  xy: 205, 624
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+dragon_spiral_baby_body
+  rotate: true
+  xy: 136, 450
+  size: 64, 46
+  orig: 64, 46
+  offset: 0, 0
+  index: -1
+dragon_spiral_adult_leg2
+  rotate: false
+  xy: 231, 330
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+dragon_spiral_baby_leg5
+  rotate: false
+  xy: 223, 527
+  size: 31, 34
+  orig: 31, 36
+  offset: 0, 2
+  index: -1
+dragon_spiral_critical_star
+  rotate: false
+  xy: 2, 499
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+dragon_spiral_adult_fire
+  rotate: false
+  xy: 52, 216
+  size: 134, 107
+  orig: 140, 133
+  offset: 6, 10
+  index: -1
+dragon_spiral_critical_wheel2
+  rotate: false
+  xy: 2, 216
+  size: 23, 271
+  orig: 47, 301
+  offset: 13, 20
+  index: -1
+dragon_spiral_adult_neck1
+  rotate: true
+  xy: 95, 569
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+dragon_spiral_critical_wheel1
+  rotate: false
+  xy: 27, 216
+  size: 23, 261
+  orig: 47, 301
+  offset: 13, 20
+  index: -1
+dragon_spiral_adult_wing1
+  rotate: false
+  xy: 52, 325
+  size: 112, 66
+  orig: 112, 66
+  offset: 0, 0
+  index: -1
+dragon_spiral_adult_mouth
+  rotate: false
+  xy: 157, 675
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+dragon_spiral_child_tail
+  rotate: true
+  xy: 82, 499
+  size: 68, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1
+dragon_spiral_child_bodylight
+  rotate: false
+  xy: 230, 664
+  size: 13, 16
+  orig: 65, 52
+  offset: 46, 11
+  index: -1
+dragon_spiral_child_leg4
+  rotate: false
+  xy: 157, 626
+  size: 22, 47
+  orig: 22, 53
+  offset: 0, 6
+  index: -1
+dragon_spiral_baby_leg2
+  rotate: true
+  xy: 185, 689
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+dragon_spiral_adult_leg3
+  rotate: false
+  xy: 27, 479
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+dragon_spiral_baby_zz
+  rotate: false
+  xy: 180, 527
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+dragon_spiral_adult_neck2
+  rotate: true
+  xy: 216, 181
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+dragon_spiral_adult_wing2
+  rotate: true
+  xy: 188, 216
+  size: 112, 66
+  orig: 112, 66
+  offset: 0, 0
+  index: -1
+dragon_spiral_child_leg6
+  rotate: true
+  xy: 229, 683
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+dragon_spiral_child_body
+  rotate: false
+  xy: 2, 579
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+dragon_spiral_baby_head3
+  rotate: false
+  xy: 184, 446
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+dragon_spiral_critical_circle
+  rotate: false
+  xy: 2, 2
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+dragon_spiral_baby_mouth
+  rotate: false
+  xy: 185, 661
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+dragon_spiral_child_leg5
+  rotate: true
+  xy: 180, 604
+  size: 18, 44
+  orig: 18, 44
+  offset: 0, 0
+  index: -1
+dragon_spiral_baby_leg3
+  rotate: false
+  xy: 232, 507
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+dragon_spiral_adult_head
+  rotate: true
+  xy: 216, 135
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+dragon_spiral_adult_bodylight
+  rotate: true
+  xy: 2, 489
+  size: 8, 13
+  orig: 82, 47
+  offset: 3, 12
+  index: -1
+dragon_spiral_child_eye
+  rotate: false
+  xy: 211, 664
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_spiral_adult_eye1
+  rotate: false
+  xy: 245, 664
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+dragon_spiral_baby_leg6
+  rotate: false
+  xy: 224, 647
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+dragon_spiral_adult_taillight
+  rotate: false
+  xy: 2, 695
+  size: 53, 11
+  orig: 121, 55
+  offset: 20, 19
+  index: -1
+dragon_spiral_adult_leg6
+  rotate: true
+  xy: 184, 507
+  size: 18, 46
+  orig: 18, 46
+  offset: 0, 0
+  index: -1
+dragon_spiral_baby_leg1
+  rotate: false
+  xy: 226, 420
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+dragon_spiral_child_wing1
+  rotate: true
+  xy: 175, 381
+  size: 63, 49
+  orig: 63, 49
+  offset: 0, 0
+  index: -1
+dragon_spiral_adult_leg1
+  rotate: true
+  xy: 217, 570
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+dragon_spiral_child_neck
+  rotate: false
+  xy: 216, 34
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+dragon_spiral_child_mouth
+  rotate: false
+  xy: 226, 597
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+dragon_spiral_baby_head1
+  rotate: false
+  xy: 61, 633
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+dragon_spiral_adult_leg7
+  rotate: false
+  xy: 61, 694
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+dragon_spiral_baby_taillight
+  rotate: true
+  xy: 248, 135
+  size: 11, 6
+  orig: 37, 28
+  offset: 12, 6
+  index: -1
+dragon_spiral_child_wing2
+  rotate: false
+  xy: 166, 330
+  size: 63, 49
+  orig: 63, 49
+  offset: 0, 0
+  index: -1

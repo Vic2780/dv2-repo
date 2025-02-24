@@ -1,0 +1,340 @@
+20_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_ewind_groggyhead
+  rotate: true
+  xy: 1688, 632
+  size: 78, 143
+  orig: 78, 143
+  offset: 0, 0
+  index: -1
+m_ewind_head
+  rotate: false
+  xy: 1362, 609
+  size: 121, 138
+  orig: 121, 138
+  offset: 0, 0
+  index: -1
+m_ewind_groggyhair
+  rotate: false
+  xy: 663, 808
+  size: 101, 58
+  orig: 101, 58
+  offset: 0, 0
+  index: -1
+m_ewind_tigerbody1
+  rotate: false
+  xy: 2, 2
+  size: 581, 392
+  orig: 581, 398
+  offset: 0, 0
+  index: -1
+m_ewind_groggyeye
+  rotate: true
+  xy: 1641, 193
+  size: 86, 35
+  orig: 86, 35
+  offset: 0, 0
+  index: -1
+m_ewind_tigerear2
+  rotate: true
+  xy: 1793, 741
+  size: 89, 99
+  orig: 89, 99
+  offset: 0, 0
+  index: -1
+m_ewind_groggytigerteeth
+  rotate: true
+  xy: 1962, 281
+  size: 158, 53
+  orig: 158, 53
+  offset: 0, 0
+  index: -1
+m_ewind_groggytigertail1
+  rotate: true
+  xy: 663, 294
+  size: 512, 202
+  orig: 512, 202
+  offset: 0, 0
+  index: -1
+m_ewind_body2
+  rotate: false
+  xy: 1575, 746
+  size: 86, 104
+  orig: 86, 104
+  offset: 0, 0
+  index: -1
+m_ewind_groggybody1
+  rotate: false
+  xy: 1895, 684
+  size: 107, 74
+  orig: 107, 74
+  offset: 0, 0
+  index: -1
+m_ewind_spear
+  rotate: false
+  xy: 2, 396
+  size: 446, 455
+  orig: 446, 455
+  offset: 0, 0
+  index: -1
+m_ewind_groggytigerear2
+  rotate: false
+  xy: 1485, 642
+  size: 99, 102
+  orig: 99, 102
+  offset: 0, 0
+  index: -1
+m_ewind_groggytigerfoot2
+  rotate: true
+  xy: 1275, 609
+  size: 234, 85
+  orig: 234, 85
+  offset: 0, 0
+  index: -1
+m_ewind_tigerear1
+  rotate: true
+  xy: 1586, 642
+  size: 101, 96
+  orig: 101, 96
+  offset: 0, 0
+  index: -1
+m_ewind_tigerfoot1
+  rotate: false
+  xy: 971, 609
+  size: 215, 191
+  orig: 215, 191
+  offset: 0, 0
+  index: -1
+m_ewind_tigertail1
+  rotate: false
+  xy: 1094, 193
+  size: 545, 143
+  orig: 545, 143
+  offset: 0, 0
+  index: -1
+m_ewind_groggytigerbody2
+  rotate: true
+  xy: 1669, 281
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+m_ewind_groggyleg1
+  rotate: false
+  xy: 1641, 281
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+m_ewind_body1
+  rotate: false
+  xy: 1684, 712
+  size: 107, 74
+  orig: 107, 74
+  offset: 0, 0
+  index: -1
+m_ewind_tigerfoot3
+  rotate: false
+  xy: 1365, 338
+  size: 322, 235
+  orig: 768, 519
+  offset: 275, 126
+  index: -1
+m_ewind_tigernose
+  rotate: false
+  xy: 1689, 281
+  size: 271, 162
+  orig: 271, 162
+  offset: 0, 0
+  index: -1
+m_ewind_hair
+  rotate: true
+  xy: 1486, 746
+  size: 104, 87
+  orig: 104, 87
+  offset: 0, 0
+  index: -1
+m_ewind_groggytigerear1
+  rotate: true
+  xy: 1906, 445
+  size: 100, 111
+  orig: 100, 111
+  offset: 0, 0
+  index: -1
+m_ewind_groggytigerfoot3
+  rotate: true
+  xy: 1362, 749
+  size: 101, 122
+  orig: 101, 122
+  offset: 0, 0
+  index: -1
+m_ewind_arm1
+  rotate: true
+  xy: 1906, 547
+  size: 135, 107
+  orig: 135, 107
+  offset: 0, 0
+  index: -1
+m_ewind_leg1
+  rotate: true
+  xy: 766, 808
+  size: 42, 89
+  orig: 42, 89
+  offset: 0, 0
+  index: -1
+m_ewind_groggyarm1
+  rotate: false
+  xy: 1046, 294
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+m_ewind_groggytigereye
+  rotate: true
+  xy: 1188, 609
+  size: 207, 85
+  orig: 207, 85
+  offset: 0, 0
+  index: -1
+m_ewind_tigerteeth
+  rotate: false
+  xy: 1528, 575
+  size: 158, 65
+  orig: 158, 65
+  offset: 0, 0
+  index: -1
+m_ewind_wing2
+  rotate: true
+  xy: 1121, 802
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+m_ewind_groggyspear
+  rotate: false
+  xy: 585, 2
+  size: 507, 290
+  orig: 507, 290
+  offset: 0, 0
+  index: -1
+m_ewind_groggytigertail2
+  rotate: true
+  xy: 1833, 632
+  size: 107, 60
+  orig: 107, 60
+  offset: 0, 0
+  index: -1
+m_ewind_groggytigerfoot1
+  rotate: false
+  xy: 1689, 445
+  size: 215, 185
+  orig: 215, 185
+  offset: 0, 0
+  index: -1
+m_ewind_wing1
+  rotate: false
+  xy: 1698, 788
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+m_ewind_groggybody2
+  rotate: false
+  xy: 1663, 788
+  size: 33, 78
+  orig: 33, 78
+  offset: 0, 0
+  index: -1
+m_ewind_tigerbody2
+  rotate: true
+  xy: 867, 294
+  size: 309, 177
+  orig: 313, 177
+  offset: 0, 0
+  index: -1
+m_ewind_groggytigerbody1
+  rotate: true
+  xy: 450, 396
+  size: 458, 211
+  orig: 460, 211
+  offset: 2, 0
+  index: -1
+m_ewind_groggytigerhead
+  rotate: false
+  xy: 1683, 2
+  size: 333, 277
+  orig: 335, 277
+  offset: 0, 0
+  index: -1
+m_ewind_groggywing1
+  rotate: false
+  xy: 1894, 760
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1
+m_ewind_tigerhead
+  rotate: false
+  xy: 1046, 338
+  size: 317, 269
+  orig: 317, 269
+  offset: 0, 0
+  index: -1
+m_ewind_tigermause
+  rotate: false
+  xy: 971, 802
+  size: 148, 44
+  orig: 148, 44
+  offset: 0, 0
+  index: -1
+m_ewind_eye
+  rotate: false
+  xy: 1185, 818
+  size: 74, 22
+  orig: 74, 22
+  offset: 0, 0
+  index: -1
+m_ewind_tigerfoot2
+  rotate: false
+  xy: 1094, 2
+  size: 587, 189
+  orig: 587, 189
+  offset: 0, 0
+  index: -1
+m_ewind_tigertail2
+  rotate: true
+  xy: 867, 605
+  size: 213, 102
+  orig: 213, 102
+  offset: 0, 0
+  index: -1
+m_ewind_groggytigernose
+  rotate: false
+  xy: 1955, 760
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+m_ewind_leg2
+  rotate: false
+  xy: 1894, 812
+  size: 59, 27
+  orig: 59, 27
+  offset: 0, 0
+  index: -1
+m_ewind_tigereye
+  rotate: false
+  xy: 1365, 575
+  size: 161, 31
+  orig: 161, 31
+  offset: 0, 0
+  index: -1
+m_ewind_arm2
+  rotate: true
+  xy: 585, 294
+  size: 88, 71
+  orig: 88, 71
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,25 @@
+lab_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+u_village_lab_top
+  rotate: true
+  xy: 271, 2
+  size: 213, 176
+  orig: 267, 224
+  offset: 12, 48
+  index: -1
+u_village_lab_bbbbb
+  rotate: false
+  xy: 271, 217
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+u_village_lab
+  rotate: false
+  xy: 2, 2
+  size: 267, 224
+  orig: 267, 224
+  offset: 0, 0
+  index: -1

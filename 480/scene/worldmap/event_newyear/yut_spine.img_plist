@@ -1,0 +1,32 @@
+yut_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+yut_board
+  rotate: false
+  xy: 2, 2
+  size: 628, 203
+  orig: 630, 203
+  offset: 2, 0
+  index: -1
+yut1
+  rotate: true
+  xy: 885, 90
+  size: 86, 349
+  orig: 86, 349
+  offset: 0, 0
+  index: -1
+yut
+  rotate: false
+  xy: 632, 2
+  size: 251, 101
+  orig: 251, 101
+  offset: 0, 0
+  index: -1
+yut2
+  rotate: true
+  xy: 885, 2
+  size: 86, 349
+  orig: 86, 349
+  offset: 0, 0
+  index: -1

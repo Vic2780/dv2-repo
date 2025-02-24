@@ -1,0 +1,11 @@
+136_effect_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_devadragon_eff
+  rotate: false
+  xy: 2, 2
+  size: 363, 232
+  orig: 375, 254
+  offset: 11, 22
+  index: -1

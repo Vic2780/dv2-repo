@@ -1,0 +1,67 @@
+ani_magma_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+worldmap_magma06
+  rotate: true
+  xy: 194, 213
+  size: 18, 21
+  orig: 22, 25
+  offset: 2, 3
+  index: -1
+worldmap_magma07
+  rotate: false
+  xy: 194, 43
+  size: 31, 33
+  orig: 35, 35
+  offset: 2, 1
+  index: -1
+worldmap_magmasss
+  rotate: true
+  xy: 2, 2
+  size: 164, 190
+  orig: 182, 206
+  offset: 0, 13
+  index: -1
+worldmap_magma02
+  rotate: false
+  xy: 194, 110
+  size: 30, 26
+  orig: 32, 30
+  offset: 2, 2
+  index: -1
+worldmap_magma03
+  rotate: false
+  xy: 194, 78
+  size: 30, 30
+  orig: 34, 34
+  offset: 2, 3
+  index: -1
+worldmap_magma04
+  rotate: true
+  xy: 194, 2
+  size: 39, 32
+  orig: 43, 38
+  offset: 2, 2
+  index: -1
+worldmap_magma05
+  rotate: true
+  xy: 194, 177
+  size: 34, 28
+  orig: 38, 34
+  offset: 2, 3
+  index: -1
+worldmap_magma01
+  rotate: true
+  xy: 194, 138
+  size: 37, 28
+  orig: 43, 38
+  offset: 3, 4
+  index: -1
+worldmap_magmabook
+  rotate: false
+  xy: 2, 168
+  size: 190, 113
+  orig: 202, 123
+  offset: 7, 5
+  index: -1

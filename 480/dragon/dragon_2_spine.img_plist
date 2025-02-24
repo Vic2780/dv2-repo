@@ -1,0 +1,389 @@
+dragon_2_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_wind_adult_rwing
+  rotate: true
+  xy: 482, 335
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+dragon_wind_child_wing
+  rotate: false
+  xy: 224, 638
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+dragon_wind_child_leg2
+  rotate: true
+  xy: 461, 435
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+dragon_wind_adult_smile
+  rotate: false
+  xy: 327, 481
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_wind_baby_head
+  rotate: false
+  xy: 314, 588
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+dragon_wind_adult_body
+  rotate: false
+  xy: 72, 634
+  size: 84, 46
+  orig: 84, 46
+  offset: 0, 0
+  index: -1
+dragon_wind_adult_leg4
+  rotate: true
+  xy: 485, 618
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+dragon_wind_critical3
+  rotate: false
+  xy: 2, 436
+  size: 215, 147
+  orig: 215, 153
+  offset: 0, 0
+  index: -1
+dragon_wind_adult_leg1
+  rotate: false
+  xy: 483, 280
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+dragon_wind_adult_tail2
+  rotate: false
+  xy: 327, 543
+  size: 58, 43
+  orig: 58, 43
+  offset: 0, 0
+  index: -1
+dragon_wind_adult_mouse
+  rotate: false
+  xy: 485, 578
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+dragon_wind_adult_eye
+  rotate: false
+  xy: 314, 571
+  size: 11, 14
+  orig: 39, 50
+  offset: 12, 11
+  index: -1
+dragon_wind_adult_lwing2
+  rotate: true
+  xy: 379, 588
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+dragon_wind_baby_love
+  rotate: false
+  xy: 409, 377
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+dragon_wind_adult_leg3
+  rotate: true
+  xy: 459, 621
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+dragon_wind_adult_damaged
+  rotate: false
+  xy: 387, 536
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+dragon_wind_baby_leg1
+  rotate: false
+  xy: 461, 634
+  size: 22, 32
+  orig: 34, 40
+  offset: 12, 0
+  index: -1
+dragon_wind_adult_head
+  rotate: false
+  xy: 466, 476
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+dragon_wind_child_eye
+  rotate: true
+  xy: 485, 637
+  size: 26, 16
+  orig: 68, 54
+  offset: 21, 20
+  index: -1
+dragon_wind_adult_lwing1
+  rotate: true
+  xy: 219, 426
+  size: 143, 106
+  orig: 143, 108
+  offset: 0, 2
+  index: -1
+dragon_wind_baby_leg3
+  rotate: true
+  xy: 427, 638
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+dragon_wind_baby_notee
+  rotate: true
+  xy: 274, 606
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_wind_critical4
+  rotate: false
+  xy: 2, 585
+  size: 166, 47
+  orig: 166, 47
+  offset: 0, 0
+  index: -1
+dragon_wind_adult_lwing6
+  rotate: false
+  xy: 354, 219
+  size: 134, 59
+  orig: 136, 61
+  offset: 2, 0
+  index: -1
+dragon_wind_child_wing1
+  rotate: false
+  xy: 397, 427
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+dragon_wind_critical1
+  rotate: true
+  xy: 354, 2
+  size: 215, 153
+  orig: 215, 153
+  offset: 0, 0
+  index: -1
+dragon_wind_adult_windef
+  rotate: false
+  xy: 2, 2
+  size: 350, 277
+  orig: 350, 277
+  offset: 0, 0
+  index: -1
+dragon_wind_adult_lhand
+  rotate: true
+  xy: 490, 219
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+dragon_wind_adult_neck
+  rotate: true
+  xy: 170, 585
+  size: 52, 46
+  orig: 54, 46
+  offset: 2, 0
+  index: -1
+dragon_wind_child_leg3
+  rotate: false
+  xy: 411, 280
+  size: 70, 53
+  orig: 70, 53
+  offset: 0, 0
+  index: -1
+dragon_wind_baby_eye
+  rotate: true
+  xy: 490, 250
+  size: 23, 18
+  orig: 63, 48
+  offset: 13, 24
+  index: -1
+dragon_wind_adult_tail1
+  rotate: true
+  xy: 158, 639
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+dragon_wind_baby_tail
+  rotate: false
+  xy: 465, 551
+  size: 39, 25
+  orig: 41, 25
+  offset: 2, 0
+  index: -1
+dragon_wind_child_head
+  rotate: false
+  xy: 327, 427
+  size: 68, 52
+  orig: 74, 62
+  offset: 3, 6
+  index: -1
+dragon_wind_adult_rwing1
+  rotate: false
+  xy: 430, 581
+  size: 27, 53
+  orig: 27, 53
+  offset: 0, 0
+  index: -1
+dragon_wind_baby_wing2
+  rotate: false
+  xy: 428, 546
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+dragon_wind_child_love
+  rotate: false
+  xy: 2, 634
+  size: 68, 56
+  orig: 74, 62
+  offset: 3, 3
+  index: -1
+dragon_wind_adult_love
+  rotate: false
+  xy: 345, 638
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+dragon_wind_adult_tail3
+  rotate: true
+  xy: 411, 335
+  size: 40, 69
+  orig: 40, 69
+  offset: 0, 0
+  index: -1
+dragon_wind_baby_body
+  rotate: true
+  xy: 474, 387
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+dragon_wind_adult_lwing3
+  rotate: true
+  xy: 386, 481
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+dragon_wind_adult_att
+  rotate: false
+  xy: 386, 638
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+dragon_wind_baby_wing1
+  rotate: false
+  xy: 459, 581
+  size: 24, 38
+  orig: 34, 40
+  offset: 0, 2
+  index: -1
+dragon_wind_critical2
+  rotate: false
+  xy: 2, 281
+  size: 215, 153
+  orig: 215, 153
+  offset: 0, 0
+  index: -1
+dragon_wind_adult_rwing2
+  rotate: false
+  xy: 219, 281
+  size: 134, 143
+  orig: 134, 143
+  offset: 0, 0
+  index: -1
+dragon_wind_adult_lwing8
+  rotate: false
+  xy: 288, 638
+  size: 55, 45
+  orig: 55, 45
+  offset: 0, 0
+  index: -1
+dragon_wind_child_leg1
+  rotate: true
+  xy: 218, 606
+  size: 30, 54
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+dragon_wind_adult_rhand
+  rotate: false
+  xy: 427, 673
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+dragon_wind_adult_leg2
+  rotate: false
+  xy: 485, 599
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+dragon_wind_critical5
+  rotate: true
+  xy: 429, 479
+  size: 65, 35
+  orig: 65, 35
+  offset: 0, 0
+  index: -1
+dragon_wind_adult_lwing7
+  rotate: false
+  xy: 219, 571
+  size: 93, 33
+  orig: 93, 33
+  offset: 0, 0
+  index: -1
+dragon_wind_child_body
+  rotate: true
+  xy: 355, 355
+  size: 70, 52
+  orig: 70, 52
+  offset: 0, 0
+  index: -1
+dragon_wind_child_smile
+  rotate: false
+  xy: 327, 481
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_wind_child_tail
+  rotate: false
+  xy: 355, 280
+  size: 54, 73
+  orig: 54, 73
+  offset: 0, 0
+  index: -1
+dragon_wind_baby_leg2
+  rotate: true
+  xy: 466, 528
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1

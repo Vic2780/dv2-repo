@@ -1,0 +1,109 @@
+buildup_result_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+enchant_failed_i
+  rotate: true
+  xy: 1012, 783
+  size: 52, 108
+  orig: 150, 136
+  offset: 47, 14
+  index: -1
+enchant_success_u
+  rotate: false
+  xy: 677, 684
+  size: 105, 119
+  orig: 131, 137
+  offset: 10, 10
+  index: -1
+enchant_failed_f
+  rotate: true
+  xy: 2, 756
+  size: 92, 108
+  orig: 150, 136
+  offset: 25, 15
+  index: -1
+enchant_success_c
+  rotate: false
+  xy: 568, 684
+  size: 107, 119
+  orig: 131, 137
+  offset: 10, 11
+  index: -1
+enchant_success_light
+  rotate: false
+  xy: 461, 2
+  size: 679, 680
+  orig: 681, 686
+  offset: 1, 3
+  index: -1
+enchant_failed_dot2
+  rotate: true
+  xy: 379, 756
+  size: 57, 45
+  orig: 91, 71
+  offset: 18, 11
+  index: -1
+enchant_success_e
+  rotate: true
+  xy: 1012, 684
+  size: 97, 111
+  orig: 131, 137
+  offset: 14, 15
+  index: -1
+enchant_failed_d
+  rotate: false
+  xy: 896, 684
+  size: 114, 116
+  orig: 150, 136
+  offset: 18, 11
+  index: -1
+enchant_failed_dot3
+  rotate: true
+  xy: 332, 756
+  size: 57, 45
+  orig: 91, 71
+  offset: 18, 11
+  index: -1
+enchant_success_dot1
+  rotate: true
+  xy: 332, 756
+  size: 57, 45
+  orig: 91, 71
+  offset: 18, 11
+  index: -1
+enchant_failed_e
+  rotate: true
+  xy: 112, 756
+  size: 92, 108
+  orig: 150, 136
+  offset: 25, 14
+  index: -1
+enchant_failed_a
+  rotate: false
+  xy: 784, 684
+  size: 110, 118
+  orig: 150, 136
+  offset: 14, 11
+  index: -1
+enchant_failed_effect
+  rotate: true
+  xy: 2, 2
+  size: 752, 457
+  orig: 768, 519
+  offset: 16, 62
+  index: -1
+enchant_failed_l
+  rotate: true
+  xy: 222, 756
+  size: 88, 108
+  orig: 150, 136
+  offset: 30, 14
+  index: -1
+enchant_success_s
+  rotate: false
+  xy: 461, 684
+  size: 105, 125
+  orig: 131, 137
+  offset: 11, 10
+  index: -1

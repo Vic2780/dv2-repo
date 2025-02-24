@@ -1,0 +1,200 @@
+11_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_afire_fire5
+  rotate: true
+  xy: 797, 328
+  size: 89, 105
+  orig: 103, 125
+  offset: 0, 11
+  index: -1
+m_afire_fire1
+  rotate: true
+  xy: 488, 423
+  size: 80, 111
+  orig: 92, 129
+  offset: 7, 11
+  index: -1
+m_afire_groggymause
+  rotate: true
+  xy: 805, 419
+  size: 84, 20
+  orig: 92, 36
+  offset: 6, 6
+  index: -1
+m_afire_arm3
+  rotate: true
+  xy: 259, 252
+  size: 62, 335
+  orig: 92, 357
+  offset: 10, 17
+  index: -1
+m_afire_fire4
+  rotate: false
+  xy: 908, 214
+  size: 89, 115
+  orig: 103, 125
+  offset: 8, 8
+  index: -1
+m_afire_hair3
+  rotate: false
+  xy: 216, 2
+  size: 214, 248
+  orig: 268, 272
+  offset: 15, 19
+  index: -1
+m_afire_head2
+  rotate: false
+  xy: 648, 2
+  size: 255, 166
+  orig: 263, 178
+  offset: 5, 6
+  index: -1
+m_afire_groggyarm1
+  rotate: true
+  xy: 171, 422
+  size: 79, 85
+  orig: 91, 99
+  offset: 6, 8
+  index: -1
+m_afire_arm2
+  rotate: true
+  xy: 619, 319
+  size: 102, 176
+  orig: 128, 194
+  offset: 5, 2
+  index: -1
+m_afire_eye
+  rotate: false
+  xy: 2, 468
+  size: 157, 30
+  orig: 173, 62
+  offset: 6, 22
+  index: -1
+m_afire_tail3
+  rotate: false
+  xy: 827, 419
+  size: 42, 73
+  orig: 70, 91
+  offset: 12, 9
+  index: -1
+m_afire_groggyeye
+  rotate: false
+  xy: 2, 422
+  size: 167, 44
+  orig: 173, 62
+  offset: 2, 16
+  index: -1
+m_afire_groggyhead1
+  rotate: true
+  xy: 905, 2
+  size: 210, 110
+  orig: 236, 128
+  offset: 13, 7
+  index: -1
+m_afire_fire3
+  rotate: false
+  xy: 826, 215
+  size: 80, 111
+  orig: 92, 129
+  offset: 7, 11
+  index: -1
+m_afire_groggyneck
+  rotate: false
+  xy: 601, 423
+  size: 115, 60
+  orig: 119, 74
+  offset: 1, 4
+  index: -1
+m_afire_arm1
+  rotate: true
+  xy: 718, 423
+  size: 79, 85
+  orig: 91, 99
+  offset: 6, 8
+  index: -1
+m_afire_groggyarm2
+  rotate: true
+  xy: 648, 215
+  size: 102, 176
+  orig: 128, 194
+  offset: 5, 2
+  index: -1
+m_afire_hair2
+  rotate: false
+  xy: 2, 2
+  size: 212, 260
+  orig: 268, 272
+  offset: 16, 4
+  index: -1
+m_afire_head1
+  rotate: false
+  xy: 259, 316
+  size: 212, 110
+  orig: 236, 128
+  offset: 12, 7
+  index: -1
+m_afire_tail2
+  rotate: true
+  xy: 871, 464
+  size: 34, 75
+  orig: 70, 91
+  offset: 14, 10
+  index: -1
+m_afire_groggyhead2
+  rotate: false
+  xy: 2, 264
+  size: 255, 156
+  orig: 263, 178
+  offset: 5, 4
+  index: -1
+m_afire_fire2
+  rotate: true
+  xy: 258, 428
+  size: 72, 111
+  orig: 92, 129
+  offset: 10, 11
+  index: -1
+m_afire_body
+  rotate: false
+  xy: 473, 316
+  size: 144, 103
+  orig: 146, 109
+  offset: 2, 6
+  index: -1
+m_afire_groggyarm3
+  rotate: true
+  xy: 648, 170
+  size: 43, 254
+  orig: 71, 284
+  offset: 18, 12
+  index: -1
+m_afire_fire6
+  rotate: true
+  xy: 904, 331
+  size: 87, 103
+  orig: 99, 107
+  offset: 3, 2
+  index: -1
+m_afire_hair1
+  rotate: false
+  xy: 432, 2
+  size: 214, 248
+  orig: 268, 272
+  offset: 14, 19
+  index: -1
+m_afire_neck
+  rotate: false
+  xy: 371, 428
+  size: 115, 60
+  orig: 119, 74
+  offset: 1, 4
+  index: -1
+m_afire_tail1
+  rotate: true
+  xy: 871, 420
+  size: 42, 73
+  orig: 70, 91
+  offset: 12, 9
+  index: -1

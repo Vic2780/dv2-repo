@@ -1,0 +1,137 @@
+ani_elf_raid_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+w_elf_raidgroggy_mouth
+  rotate: true
+  xy: 751, 249
+  size: 123, 113
+  orig: 511, 557
+  offset: 209, 360
+  index: -1
+w_elf_raid_top01
+  rotate: true
+  xy: 1252, 65
+  size: 61, 57
+  orig: 511, 557
+  offset: 189, 407
+  index: -1
+w_elf_raidgroggy_tale
+  rotate: false
+  xy: 981, 234
+  size: 315, 159
+  orig: 511, 557
+  offset: 60, 153
+  index: -1
+w_elf_raid_mouth
+  rotate: true
+  xy: 866, 249
+  size: 123, 113
+  orig: 511, 557
+  offset: 209, 360
+  index: -1
+w_elf_raid_under01
+  rotate: false
+  xy: 1061, 163
+  size: 63, 69
+  orig: 511, 557
+  offset: 192, 365
+  index: -1
+w_elf_raidgroggy_under02
+  rotate: false
+  xy: 931, 163
+  size: 63, 69
+  orig: 511, 557
+  offset: 284, 364
+  index: -1
+w_elf_raid_tale
+  rotate: false
+  xy: 931, 2
+  size: 319, 159
+  orig: 511, 557
+  offset: 56, 153
+  index: -1
+w_elf_raid_book2
+  rotate: false
+  xy: 2, 2
+  size: 445, 397
+  orig: 511, 557
+  offset: 57, 153
+  index: -1
+w_elf_raid_under02
+  rotate: false
+  xy: 1126, 163
+  size: 63, 67
+  orig: 511, 557
+  offset: 284, 365
+  index: -1
+w_elf_raid_head
+  rotate: true
+  xy: 600, 253
+  size: 135, 149
+  orig: 511, 557
+  offset: 202, 401
+  index: -1
+w_elf_raidgroggy_top02
+  rotate: true
+  xy: 1252, 2
+  size: 61, 57
+  orig: 511, 557
+  offset: 289, 407
+  index: -1
+w_elf_raidgroggy_aciddust
+  rotate: true
+  xy: 751, 374
+  size: 15, 27
+  orig: 17, 29
+  offset: 0, 2
+  index: -1
+w_elf_raidgroggy_head
+  rotate: true
+  xy: 449, 253
+  size: 137, 149
+  orig: 511, 557
+  offset: 200, 401
+  index: -1
+w_elf_raid_top02
+  rotate: true
+  xy: 1252, 2
+  size: 61, 57
+  orig: 511, 557
+  offset: 289, 407
+  index: -1
+w_elf_raidgroggy_under01
+  rotate: false
+  xy: 996, 163
+  size: 63, 69
+  orig: 511, 557
+  offset: 192, 365
+  index: -1
+w_elf_raid_neck
+  rotate: true
+  xy: 449, 2
+  size: 249, 245
+  orig: 511, 557
+  offset: 253, 274
+  index: -1
+w_elf_raidgroggy_top01
+  rotate: false
+  xy: 1252, 128
+  size: 55, 43
+  orig: 511, 557
+  offset: 195, 421
+  index: -1
+w_elf_raidgroggy_acid
+  rotate: false
+  xy: 1191, 163
+  size: 28, 64
+  orig: 50, 80
+  offset: 8, 6
+  index: -1
+w_elf_raidgroggy_neck
+  rotate: false
+  xy: 696, 2
+  size: 233, 245
+  orig: 511, 557
+  offset: 253, 274
+  index: -1

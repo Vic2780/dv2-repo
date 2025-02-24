@@ -1,0 +1,256 @@
+ani_lighttower_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+worldmap_top_fire01
+  rotate: false
+  xy: 761, 2
+  size: 132, 316
+  orig: 198, 378
+  offset: 31, 62
+  index: -1
+worldmap_top_wave00
+  rotate: true
+  xy: 1866, 368
+  size: 138, 36
+  orig: 162, 70
+  offset: 10, 19
+  index: -1
+worldmap_top_wind02
+  rotate: false
+  xy: 2, 395
+  size: 34, 106
+  orig: 198, 378
+  offset: 81, 272
+  index: -1
+worldmap_top_dark02
+  rotate: true
+  xy: 1866, 296
+  size: 34, 106
+  orig: 198, 378
+  offset: 81, 272
+  index: -1
+worldmap_top_book
+  rotate: true
+  xy: 1326, 306
+  size: 204, 153
+  orig: 230, 329
+  offset: 11, 0
+  index: -1
+worldmap_top_ground02
+  rotate: false
+  xy: 1828, 188
+  size: 34, 106
+  orig: 198, 378
+  offset: 81, 272
+  index: -1
+worldmap_top_water02
+  rotate: false
+  xy: 38, 395
+  size: 34, 106
+  orig: 198, 378
+  offset: 81, 272
+  index: -1
+worldmap_top_wind01
+  rotate: false
+  xy: 91, 2
+  size: 132, 316
+  orig: 198, 378
+  offset: 31, 62
+  index: -1
+worldmap_top_fire
+  rotate: false
+  xy: 1349, 2
+  size: 184, 302
+  orig: 198, 378
+  offset: 4, 0
+  index: -1
+worldmap_top_wave03
+  rotate: false
+  xy: 1904, 368
+  size: 54, 29
+  orig: 110, 83
+  offset: 15, 28
+  index: -1
+worldmap_top_dark01
+  rotate: false
+  xy: 895, 2
+  size: 132, 316
+  orig: 198, 378
+  offset: 31, 62
+  index: -1
+worldmap_top_chaos01
+  rotate: false
+  xy: 1029, 2
+  size: 132, 316
+  orig: 198, 378
+  offset: 31, 62
+  index: -1
+worldmap_top_holy
+  rotate: true
+  xy: 1022, 320
+  size: 184, 302
+  orig: 198, 378
+  offset: 4, 0
+  index: -1
+worldmap_topplus03
+  rotate: false
+  xy: 1960, 368
+  size: 30, 21
+  orig: 198, 105
+  offset: 82, 56
+  index: -1
+worldmap_top_under
+  rotate: true
+  xy: 1721, 188
+  size: 116, 105
+  orig: 230, 329
+  offset: 53, 15
+  index: -1
+worldmap_top_ground01
+  rotate: false
+  xy: 627, 2
+  size: 132, 316
+  orig: 198, 378
+  offset: 31, 62
+  index: -1
+worldmap_top_top
+  rotate: true
+  xy: 1721, 2
+  size: 184, 253
+  orig: 230, 329
+  offset: 18, 65
+  index: -1
+worldmap_top_bookwhite
+  rotate: true
+  xy: 1785, 306
+  size: 184, 79
+  orig: 230, 329
+  offset: 18, 65
+  index: -1
+worldmap_top_wave02
+  rotate: false
+  xy: 1900, 233
+  size: 78, 39
+  orig: 110, 83
+  offset: 9, 20
+  index: -1
+worldmap_top_holy02
+  rotate: false
+  xy: 74, 395
+  size: 34, 106
+  orig: 198, 378
+  offset: 81, 272
+  index: -1
+worldmap_top_light
+  rotate: true
+  xy: 718, 320
+  size: 184, 302
+  orig: 198, 378
+  offset: 4, 0
+  index: -1
+worldmap_top_wind
+  rotate: true
+  xy: 414, 320
+  size: 184, 302
+  orig: 198, 378
+  offset: 4, 0
+  index: -1
+worldmap_top_chaos
+  rotate: false
+  xy: 1535, 2
+  size: 184, 302
+  orig: 198, 378
+  offset: 4, 0
+  index: -1
+worldmap_top_light01
+  rotate: false
+  xy: 359, 2
+  size: 132, 316
+  orig: 198, 378
+  offset: 31, 62
+  index: -1
+worldmap_top_ground
+  rotate: false
+  xy: 1163, 2
+  size: 184, 302
+  orig: 198, 378
+  offset: 4, 0
+  index: -1
+worldmap_top_chaos02
+  rotate: true
+  xy: 1866, 332
+  size: 34, 106
+  orig: 198, 378
+  offset: 81, 272
+  index: -1
+worldmap_topplus02
+  rotate: true
+  xy: 1904, 399
+  size: 28, 53
+  orig: 198, 105
+  offset: 85, 26
+  index: -1
+worldmap_top_water
+  rotate: true
+  xy: 110, 320
+  size: 186, 302
+  orig: 198, 378
+  offset: 3, 0
+  index: -1
+worldmap_top_jin
+  rotate: true
+  xy: 2, 2
+  size: 391, 87
+  orig: 421, 127
+  offset: 15, 21
+  index: -1
+worldmap_top_wave01
+  rotate: false
+  xy: 1900, 188
+  size: 82, 43
+  orig: 110, 83
+  offset: 18, 19
+  index: -1
+worldmap_top_fire02
+  rotate: false
+  xy: 1864, 188
+  size: 34, 106
+  orig: 198, 378
+  offset: 81, 272
+  index: -1
+worldmap_top_holy01
+  rotate: false
+  xy: 493, 2
+  size: 132, 316
+  orig: 198, 378
+  offset: 31, 62
+  index: -1
+worldmap_top_dark
+  rotate: true
+  xy: 1481, 306
+  size: 184, 302
+  orig: 198, 378
+  offset: 4, 0
+  index: -1
+worldmap_top_light02
+  rotate: false
+  xy: 1960, 391
+  size: 28, 106
+  orig: 198, 378
+  offset: 84, 272
+  index: -1
+worldmap_topplus01
+  rotate: true
+  xy: 1904, 429
+  size: 38, 47
+  orig: 198, 77
+  offset: 79, 22
+  index: -1
+worldmap_top_water01
+  rotate: false
+  xy: 225, 2
+  size: 132, 316
+  orig: 198, 378
+  offset: 31, 62
+  index: -1

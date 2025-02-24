@@ -1,0 +1,207 @@
+48_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_redstar_groggy_hand2
+  rotate: false
+  xy: 215, 1136
+  size: 136, 69
+  orig: 260, 197
+  offset: 112, 19
+  index: -1
+m_redstar_groggy_leg3
+  rotate: false
+  xy: 483, 339
+  size: 14, 33
+  orig: 58, 93
+  offset: 21, 56
+  index: -1
+m_redstar_hand2
+  rotate: false
+  xy: 267, 667
+  size: 242, 139
+  orig: 260, 197
+  offset: 15, 2
+  index: -1
+m_redstar_head2
+  rotate: false
+  xy: 353, 1132
+  size: 58, 58
+  orig: 100, 62
+  offset: 42, 4
+  index: -1
+m_redstar_groggy_body2
+  rotate: false
+  xy: 322, 195
+  size: 181, 104
+  orig: 305, 322
+  offset: 7, 216
+  index: -1
+m_redstar_whisker2
+  rotate: true
+  xy: 260, 808
+  size: 102, 246
+  orig: 104, 258
+  offset: 2, 11
+  index: -1
+m_redstar_groggy_hand3
+  rotate: true
+  xy: 353, 912
+  size: 119, 151
+  orig: 205, 181
+  offset: 5, 29
+  index: -1
+m_redstar_groggy_whisker1
+  rotate: true
+  xy: 289, 512
+  size: 153, 211
+  orig: 265, 229
+  offset: 6, 9
+  index: -1
+m_redstar_leg1
+  rotate: true
+  xy: 119, 1169
+  size: 43, 94
+  orig: 47, 98
+  offset: 1, 0
+  index: -1
+m_redstar_groggy_body
+  rotate: false
+  xy: 2, 305
+  size: 285, 240
+  orig: 305, 322
+  offset: 16, 9
+  index: -1
+m_redstar_hand3
+  rotate: true
+  xy: 322, 2
+  size: 191, 181
+  orig: 205, 181
+  offset: 1, 0
+  index: -1
+m_redstar_twi
+  rotate: false
+  xy: 289, 351
+  size: 29, 46
+  orig: 29, 50
+  offset: 0, 3
+  index: -1
+m_redstar_whisker1
+  rotate: false
+  xy: 2, 547
+  size: 263, 229
+  orig: 265, 229
+  offset: 1, 0
+  index: -1
+m_redstar_groggy_hand4
+  rotate: true
+  xy: 251, 1033
+  size: 101, 77
+  orig: 205, 181
+  offset: 74, 13
+  index: -1
+m_redstar_leg4
+  rotate: true
+  xy: 260, 912
+  size: 104, 90
+  orig: 110, 92
+  offset: 6, 0
+  index: -1
+m_redstar_eye0
+  rotate: false
+  xy: 383, 1085
+  size: 47, 40
+  orig: 59, 56
+  offset: 5, 9
+  index: -1
+m_redstar_groggy_leg1
+  rotate: false
+  xy: 483, 301
+  size: 17, 36
+  orig: 47, 98
+  offset: 17, 50
+  index: -1
+m_redstar_hand4
+  rotate: false
+  xy: 322, 301
+  size: 159, 97
+  orig: 205, 181
+  offset: 45, 12
+  index: -1
+m_redstar_eye
+  rotate: true
+  xy: 155, 975
+  size: 159, 94
+  orig: 305, 322
+  offset: 7, 220
+  index: -1
+m_redstar_groggy_hand1
+  rotate: true
+  xy: 2, 975
+  size: 234, 115
+  orig: 260, 197
+  offset: 12, 75
+  index: -1
+m_redstar_groggy_tail
+  rotate: false
+  xy: 383, 1033
+  size: 124, 50
+  orig: 224, 110
+  offset: 81, 43
+  index: -1
+m_redstar_leg3
+  rotate: true
+  xy: 413, 1127
+  size: 52, 89
+  orig: 58, 93
+  offset: 3, 3
+  index: -1
+m_redstar_groggy_leg4
+  rotate: false
+  xy: 432, 1085
+  size: 32, 38
+  orig: 110, 92
+  offset: 12, 20
+  index: -1
+m_redstar_hand1
+  rotate: false
+  xy: 2, 778
+  size: 256, 195
+  orig: 260, 197
+  offset: 0, 2
+  index: -1
+m_redstar_head1
+  rotate: true
+  xy: 289, 305
+  size: 44, 30
+  orig: 100, 62
+  offset: 1, 1
+  index: -1
+m_redstar_body
+  rotate: true
+  xy: 2, 2
+  size: 301, 318
+  orig: 305, 322
+  offset: 4, 1
+  index: -1
+m_redstar_groggy_whisker2
+  rotate: false
+  xy: 119, 975
+  size: 34, 192
+  orig: 104, 258
+  offset: 57, 66
+  index: -1
+m_redstar_leg2
+  rotate: false
+  xy: 330, 1033
+  size: 51, 97
+  orig: 53, 97
+  offset: 0, 0
+  index: -1
+m_redstar_tail
+  rotate: false
+  xy: 289, 400
+  size: 220, 110
+  orig: 224, 110
+  offset: 2, 0
+  index: -1

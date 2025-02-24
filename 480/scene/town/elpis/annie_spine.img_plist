@@ -1,0 +1,242 @@
+annie_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+sd_annie_acc2
+  rotate: false
+  xy: 116, 37
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+sd_annie_mouth2
+  rotate: false
+  xy: 115, 178
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+sd_annie_clothes
+  rotate: false
+  xy: 67, 69
+  size: 15, 42
+  orig: 15, 42
+  offset: 0, 0
+  index: -1
+sd_annie_eyebrow
+  rotate: true
+  xy: 116, 2
+  size: 33, 6
+  orig: 33, 6
+  offset: 0, 0
+  index: -1
+sd_annie_arm1
+  rotate: false
+  xy: 99, 210
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+sd_annie_body2
+  rotate: false
+  xy: 84, 117
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+sd_annie_belt_parts
+  rotate: true
+  xy: 92, 150
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+sd_annie_tail
+  rotate: false
+  xy: 34, 174
+  size: 18, 51
+  orig: 18, 51
+  offset: 0, 0
+  index: -1
+sd_annie_emo1
+  rotate: true
+  xy: 97, 194
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+sd_annie_eye1
+  rotate: true
+  xy: 50, 133
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+sd_annie_acc1
+  rotate: true
+  xy: 119, 188
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+sd_annie_head
+  rotate: false
+  xy: 2, 69
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+sd_annie_mouth3
+  rotate: true
+  xy: 87, 198
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+sd_annie_body1
+  rotate: false
+  xy: 70, 173
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+sd_annie_arm4
+  rotate: true
+  xy: 92, 178
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+sd_annie_leg
+  rotate: true
+  xy: 70, 198
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+sd_annie_eye4
+  rotate: false
+  xy: 84, 60
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+sd_annie_arm3
+  rotate: false
+  xy: 83, 211
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+sd_annie_clothes_back
+  rotate: true
+  xy: 84, 85
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+sd_annie_think2
+  rotate: false
+  xy: 109, 210
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+sd_annie_heart
+  rotate: false
+  xy: 2, 133
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+sd_annie_emo3
+  rotate: true
+  xy: 54, 211
+  size: 24, 27
+  orig: 24, 29
+  offset: 0, 1
+  index: -1
+sd_annie_eye3
+  rotate: true
+  xy: 54, 173
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+sd_annie_acc3
+  rotate: true
+  xy: 2, 174
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+sd_annie_glasses
+  rotate: false
+  xy: 2, 223
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+sd_annie_tears
+  rotate: true
+  xy: 116, 50
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+sd_annie_head_back
+  rotate: true
+  xy: 81, 2
+  size: 56, 33
+  orig: 56, 33
+  offset: 0, 0
+  index: -1
+sd_annie_mouth1
+  rotate: true
+  xy: 122, 85
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+sd_annie_arm2
+  rotate: true
+  xy: 34, 227
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+sd_annie_think1
+  rotate: false
+  xy: 2, 2
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+sd_annie_eyebrow2
+  rotate: false
+  xy: 84, 142
+  size: 32, 6
+  orig: 32, 6
+  offset: 0, 0
+  index: -1
+sd_annie_belt
+  rotate: true
+  xy: 109, 150
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+sd_annie_emo2
+  rotate: true
+  xy: 67, 151
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+sd_annie_eye2
+  rotate: true
+  xy: 67, 113
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1

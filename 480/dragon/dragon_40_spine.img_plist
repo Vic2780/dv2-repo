@@ -1,0 +1,515 @@
+dragon_40_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_cupid_adult_eye
+  rotate: true
+  xy: 213, 261
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_arrow
+  rotate: true
+  xy: 2, 277
+  size: 49, 176
+  orig: 49, 176
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_bow1
+  rotate: false
+  xy: 2, 527
+  size: 125, 91
+  orig: 125, 91
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_eye3a
+  rotate: false
+  xy: 159, 1115
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_copid_baby_body
+  rotate: true
+  xy: 81, 805
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+dragon_cupid_baby_leg3
+  rotate: false
+  xy: 61, 1158
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_eye3b
+  rotate: false
+  xy: 160, 1096
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_cupid_baby_eye3
+  rotate: true
+  xy: 24, 1156
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_r_leg1a
+  rotate: true
+  xy: 118, 1019
+  size: 27, 59
+  orig: 27, 59
+  offset: 0, 0
+  index: -1
+dragon_cupid_baby_ear2
+  rotate: true
+  xy: 179, 1103
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_eye5
+  rotate: true
+  xy: 213, 228
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+dragon_cupid_critical_etw2
+  rotate: true
+  xy: 2, 328
+  size: 108, 136
+  orig: 108, 140
+  offset: 0, 2
+  index: -1
+dragon_cupid_adult_r_leg2d
+  rotate: false
+  xy: 178, 1131
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+dragon_cupid_child_chin
+  rotate: false
+  xy: 192, 892
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+dragon_cupid_child_leg2
+  rotate: false
+  xy: 76, 857
+  size: 43, 71
+  orig: 43, 71
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_l_leg2d
+  rotate: false
+  xy: 117, 1077
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+dragon_cupid_baby_leg2
+  rotate: false
+  xy: 204, 787
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+dragon_cupid_child_eye3
+  rotate: false
+  xy: 63, 1073
+  size: 52, 37
+  orig: 52, 37
+  offset: 0, 0
+  index: -1
+dragon_cupid_baby_eye2
+  rotate: false
+  xy: 83, 1158
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_bow2
+  rotate: true
+  xy: 134, 463
+  size: 125, 91
+  orig: 125, 91
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_eye2
+  rotate: true
+  xy: 213, 245
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_twinkling
+  rotate: false
+  xy: 2, 2
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+dragon_cupid_baby_ear1
+  rotate: false
+  xy: 104, 768
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+dragon_cupid_critical_etw1
+  rotate: true
+  xy: 2, 620
+  size: 115, 118
+  orig: 117, 118
+  offset: 2, 0
+  index: -1
+dragon_cupid_adult_r_leg2a
+  rotate: true
+  xy: 2, 932
+  size: 35, 63
+  orig: 35, 63
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_ear
+  rotate: true
+  xy: 163, 1160
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+dragon_cupid_child_wing1
+  rotate: false
+  xy: 2, 790
+  size: 77, 53
+  orig: 77, 53
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_eye3c
+  rotate: false
+  xy: 160, 1077
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_r_leg1b
+  rotate: true
+  xy: 2, 1118
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+dragon_cupid_child_tail
+  rotate: false
+  xy: 121, 922
+  size: 68, 47
+  orig: 68, 47
+  offset: 0, 0
+  index: -1
+dragon_cupid_child_wing2
+  rotate: false
+  xy: 122, 745
+  size: 80, 62
+  orig: 80, 62
+  offset: 0, 0
+  index: -1
+dragon_cupid_baby_heart
+  rotate: false
+  xy: 179, 1062
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_cupid_baby_wing
+  rotate: false
+  xy: 2, 1156
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_string1
+  rotate: true
+  xy: 140, 328
+  size: 114, 38
+  orig: 114, 38
+  offset: 0, 0
+  index: -1
+dragon_cupid_baby_leg1
+  rotate: false
+  xy: 204, 745
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_love
+  rotate: false
+  xy: 168, 444
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+dragon_cupid_child_head
+  rotate: false
+  xy: 122, 809
+  size: 71, 60
+  orig: 71, 62
+  offset: 0, 2
+  index: -1
+dragon_cupid_child_leg3
+  rotate: false
+  xy: 180, 352
+  size: 44, 73
+  orig: 44, 73
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_tw1
+  rotate: false
+  xy: 118, 971
+  size: 65, 46
+  orig: 65, 46
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_head
+  rotate: true
+  xy: 185, 1012
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_r_wing
+  rotate: false
+  xy: 122, 657
+  size: 100, 86
+  orig: 100, 86
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_bow3
+  rotate: false
+  xy: 121, 871
+  size: 69, 49
+  orig: 69, 49
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_taila
+  rotate: true
+  xy: 75, 930
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_r_leg2b
+  rotate: false
+  xy: 180, 427
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_l_leg1a
+  rotate: true
+  xy: 118, 1048
+  size: 27, 59
+  orig: 39, 59
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_l_leg2a
+  rotate: false
+  xy: 195, 828
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+dragon_cupid_child_heart
+  rotate: false
+  xy: 179, 1062
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_cupid_child_leg4
+  rotate: false
+  xy: 180, 277
+  size: 44, 73
+  orig: 44, 73
+  offset: 0, 0
+  index: -1
+dragon_cupid_baby_head
+  rotate: true
+  xy: 2, 969
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_r_leg1c
+  rotate: false
+  xy: 137, 1138
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_body
+  rotate: false
+  xy: 2, 737
+  size: 100, 51
+  orig: 100, 53
+  offset: 0, 0
+  index: -1
+dragon_cupid_child_body
+  rotate: false
+  xy: 129, 590
+  size: 92, 65
+  orig: 92, 65
+  offset: 0, 0
+  index: -1
+dragon_cupid_baby_eye
+  rotate: false
+  xy: 110, 1158
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_tailb
+  rotate: true
+  xy: 63, 1045
+  size: 26, 53
+  orig: 26, 53
+  offset: 0, 0
+  index: -1
+dragon_cupid_child_ear1
+  rotate: true
+  xy: 117, 1102
+  size: 34, 40
+  orig: 50, 42
+  offset: 0, 2
+  index: -1
+dragon_cupid_adult_l_leg1b
+  rotate: false
+  xy: 39, 1118
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_l_leg2b
+  rotate: true
+  xy: 191, 967
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_chin
+  rotate: true
+  xy: 104, 737
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+dragon_cupid_baby_chin
+  rotate: false
+  xy: 134, 444
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_tw2
+  rotate: false
+  xy: 64, 995
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_string2
+  rotate: true
+  xy: 140, 328
+  size: 114, 38
+  orig: 114, 38
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_neck
+  rotate: true
+  xy: 2, 845
+  size: 40, 72
+  orig: 40, 72
+  offset: 0, 0
+  index: -1
+dragon_cupid_child_leg1
+  rotate: true
+  xy: 2, 887
+  size: 43, 71
+  orig: 43, 71
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_eye4
+  rotate: false
+  xy: 81, 790
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+dragon_cupid_child_eye
+  rotate: false
+  xy: 2, 1086
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_r_leg2c
+  rotate: true
+  xy: 76, 1112
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_l_wing
+  rotate: false
+  xy: 2, 438
+  size: 130, 87
+  orig: 130, 87
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_tailc
+  rotate: false
+  xy: 2, 1027
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+dragon_cupid_baby_tail
+  rotate: true
+  xy: 137, 1160
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_l_leg1c
+  rotate: false
+  xy: 186, 1156
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+dragon_cupid_adult_l_leg2c
+  rotate: true
+  xy: 76, 1136
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+dragon_cupid_child_eye2
+  rotate: true
+  xy: 192, 917
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+dragon_cupid_critical_arrow
+  rotate: true
+  xy: 2, 228
+  size: 47, 209
+  orig: 47, 209
+  offset: 0, 0
+  index: -1

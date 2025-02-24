@@ -1,0 +1,466 @@
+dragon_4046_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_lupo_adult_l_leg1a
+  rotate: true
+  xy: 250, 1258
+  size: 78, 61
+  orig: 78, 61
+  offset: 0, 0
+  index: -1
+dragon_lupo_adult_r_leg1c
+  rotate: false
+  xy: 408, 194
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+dragon_lupo_crib4
+  rotate: false
+  xy: 2, 2
+  size: 364, 222
+  orig: 364, 222
+  offset: 0, 0
+  index: -1
+dragon_lupo_adult_eye3
+  rotate: true
+  xy: 408, 1075
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+dragon_lupo_adult_l_wing
+  rotate: true
+  xy: 368, 2
+  size: 190, 101
+  orig: 190, 101
+  offset: 0, 0
+  index: -1
+dragon_lupo_adult_neck1
+  rotate: true
+  xy: 408, 1096
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+dragon_lupo_adult_l_leg1c
+  rotate: true
+  xy: 471, 79
+  size: 86, 32
+  orig: 86, 32
+  offset: 0, 0
+  index: -1
+dragon_lupo_child_tail
+  rotate: false
+  xy: 336, 1005
+  size: 87, 68
+  orig: 87, 68
+  offset: 0, 0
+  index: -1
+dragon_lupo_adult_eyeg2
+  rotate: true
+  xy: 443, 1323
+  size: 9, 21
+  orig: 9, 21
+  offset: 0, 0
+  index: -1
+dragon_lupo_cria1
+  rotate: false
+  xy: 209, 500
+  size: 263, 123
+  orig: 263, 123
+  offset: 0, 0
+  index: -1
+dragon_lupo_child_ear
+  rotate: false
+  xy: 333, 1144
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+dragon_lupo_crib5
+  rotate: false
+  xy: 199, 893
+  size: 230, 110
+  orig: 230, 110
+  offset: 0, 0
+  index: -1
+dragon_lupo_child_head
+  rotate: true
+  xy: 453, 359
+  size: 65, 54
+  orig: 65, 54
+  offset: 0, 0
+  index: -1
+dragon_lupo_child_wing2
+  rotate: true
+  xy: 308, 1167
+  size: 86, 68
+  orig: 86, 68
+  offset: 0, 0
+  index: -1
+dragon_lupo_baby_leg4
+  rotate: true
+  xy: 63, 1314
+  size: 21, 47
+  orig: 21, 47
+  offset: 0, 0
+  index: -1
+dragon_lupo_adult_body
+  rotate: false
+  xy: 180, 1167
+  size: 126, 89
+  orig: 126, 89
+  offset: 0, 0
+  index: -1
+dragon_lupo_baby_wing
+  rotate: false
+  xy: 471, 167
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+dragon_lupo_adult_eyeg1
+  rotate: false
+  xy: 500, 515
+  size: 9, 24
+  orig: 9, 24
+  offset: 0, 0
+  index: -1
+dragon_lupo_baby_leg1
+  rotate: true
+  xy: 450, 1230
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+dragon_lupo_baby_ear1
+  rotate: false
+  xy: 2, 1314
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+dragon_lupo_crib2
+  rotate: false
+  xy: 2, 971
+  size: 176, 341
+  orig: 176, 341
+  offset: 0, 0
+  index: -1
+dragon_lupo_baby_eye2
+  rotate: false
+  xy: 463, 1301
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_lupo_adult_acce
+  rotate: true
+  xy: 442, 1289
+  size: 10, 39
+  orig: 10, 39
+  offset: 0, 0
+  index: -1
+dragon_lupo_adult_neck3
+  rotate: false
+  xy: 336, 1075
+  size: 70, 67
+  orig: 70, 67
+  offset: 0, 0
+  index: -1
+dragon_lupo_child_leg2
+  rotate: false
+  xy: 443, 671
+  size: 62, 83
+  orig: 62, 83
+  offset: 0, 0
+  index: -1
+dragon_lupo_child_wing1
+  rotate: true
+  xy: 453, 274
+  size: 83, 51
+  orig: 83, 51
+  offset: 0, 0
+  index: -1
+dragon_lupo_baby_leg3
+  rotate: true
+  xy: 112, 1314
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+dragon_lupo_child_leg1
+  rotate: false
+  xy: 452, 756
+  size: 57, 72
+  orig: 57, 72
+  offset: 0, 0
+  index: -1
+dragon_lupo_adult_l_leg2b
+  rotate: false
+  xy: 453, 222
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_lupo_crib3
+  rotate: true
+  xy: 2, 226
+  size: 368, 205
+  orig: 368, 205
+  offset: 0, 0
+  index: -1
+dragon_lupo_adult_l_leg2a
+  rotate: true
+  xy: 378, 1301
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+dragon_lupo_child_chin
+  rotate: false
+  xy: 475, 487
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+dragon_lupo_child_note1
+  rotate: true
+  xy: 368, 194
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_lupo_child_leg3
+  rotate: false
+  xy: 474, 207
+  size: 35, 65
+  orig: 35, 65
+  offset: 0, 0
+  index: -1
+dragon_lupo_adult_eye
+  rotate: false
+  xy: 466, 207
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1
+dragon_lupo_adult_chin
+  rotate: true
+  xy: 154, 1314
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+dragon_lupo_adult_eyeg3
+  rotate: false
+  xy: 199, 596
+  size: 8, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1
+dragon_lupo_child_body2
+  rotate: false
+  xy: 443, 625
+  size: 66, 44
+  orig: 66, 44
+  offset: 0, 0
+  index: -1
+dragon_lupo_adult_l_leg2c
+  rotate: true
+  xy: 424, 1301
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+dragon_lupo_child_body
+  rotate: true
+  xy: 378, 1144
+  size: 106, 70
+  orig: 106, 70
+  offset: 0, 0
+  index: -1
+dragon_lupo_baby_body
+  rotate: false
+  xy: 378, 1252
+  size: 62, 47
+  orig: 62, 47
+  offset: 0, 0
+  index: -1
+dragon_lupo_child_neck
+  rotate: true
+  xy: 313, 1255
+  size: 72, 63
+  orig: 72, 63
+  offset: 0, 0
+  index: -1
+dragon_lupo_cri0
+  rotate: true
+  xy: 209, 226
+  size: 272, 242
+  orig: 272, 242
+  offset: 0, 0
+  index: -1
+dragon_lupo_baby_chin
+  rotate: false
+  xy: 39, 1314
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+dragon_lupo_child_leg4
+  rotate: false
+  xy: 471, 2
+  size: 38, 75
+  orig: 38, 75
+  offset: 0, 0
+  index: -1
+dragon_lupo_baby_eye1
+  rotate: false
+  xy: 180, 971
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+dragon_lupo_cria2
+  rotate: false
+  xy: 199, 625
+  size: 242, 138
+  orig: 254, 138
+  offset: 0, 0
+  index: -1
+dragon_lupo_baby_heart
+  rotate: false
+  xy: 450, 1189
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_lupo_adult_smile
+  rotate: false
+  xy: 452, 830
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_lupo_adult_r_wing
+  rotate: false
+  xy: 180, 1005
+  size: 154, 84
+  orig: 154, 84
+  offset: 0, 0
+  index: -1
+dragon_lupo_baby_head
+  rotate: true
+  xy: 180, 1258
+  size: 78, 68
+  orig: 78, 68
+  offset: 0, 0
+  index: -1
+dragon_lupo_child_eye
+  rotate: true
+  xy: 424, 1323
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+dragon_lupo_adult_l_leg2d
+  rotate: false
+  xy: 474, 593
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+dragon_lupo_crib1
+  rotate: false
+  xy: 2, 596
+  size: 195, 373
+  orig: 195, 373
+  offset: 0, 0
+  index: -1
+dragon_lupo_adult_tail
+  rotate: false
+  xy: 180, 1091
+  size: 151, 74
+  orig: 151, 74
+  offset: 0, 0
+  index: -1
+dragon_lupo_child_eye2
+  rotate: false
+  xy: 453, 487
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+dragon_lupo_cria3
+  rotate: false
+  xy: 199, 765
+  size: 251, 126
+  orig: 251, 126
+  offset: 0, 0
+  index: -1
+dragon_lupo_adult_r_leg1b
+  rotate: false
+  xy: 450, 1145
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+dragon_lupo_adult_head
+  rotate: true
+  xy: 425, 1040
+  size: 54, 83
+  orig: 54, 83
+  offset: 0, 0
+  index: -1
+dragon_lupo_adult_eye2
+  rotate: true
+  xy: 180, 997
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1
+dragon_lupo_adult_body1
+  rotate: true
+  xy: 431, 893
+  size: 145, 78
+  orig: 145, 78
+  offset: 0, 0
+  index: -1
+dragon_lupo_adult_neck2
+  rotate: false
+  xy: 454, 1096
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+dragon_lupo_adult_l_leg1b
+  rotate: true
+  xy: 453, 426
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+dragon_lupo_baby_leg2
+  rotate: false
+  xy: 474, 515
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+dragon_lupo_baby_ear2
+  rotate: true
+  xy: 474, 557
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+dragon_lupo_baby_tail
+  rotate: false
+  xy: 442, 1255
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1

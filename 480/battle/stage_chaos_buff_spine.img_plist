@@ -1,0 +1,18 @@
+stage_chaos_buff_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+chaos_buff1
+  rotate: false
+  xy: 110, 2
+  size: 125, 114
+  orig: 137, 128
+  offset: 7, 6
+  index: -1
+chaos_buff2
+  rotate: true
+  xy: 2, 2
+  size: 119, 106
+  orig: 137, 128
+  offset: 10, 10
+  index: -1

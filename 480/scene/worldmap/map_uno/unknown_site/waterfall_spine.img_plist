@@ -1,0 +1,67 @@
+waterfall_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+bg_unknown_ground_light1
+  rotate: false
+  xy: 2, 300
+  size: 107, 102
+  orig: 107, 102
+  offset: 0, 0
+  index: -1
+bg_unknown_ground_island4
+  rotate: false
+  xy: 2, 404
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+bg_unknown_ground_island5
+  rotate: false
+  xy: 2, 2
+  size: 222, 296
+  orig: 234, 322
+  offset: 0, 0
+  index: -1
+bg_unknown_ground_island3
+  rotate: true
+  xy: 184, 346
+  size: 52, 27
+  orig: 52, 27
+  offset: 0, 0
+  index: -1
+bg_unknown_ground_island1_wave1
+  rotate: false
+  xy: 213, 346
+  size: 11, 44
+  orig: 11, 44
+  offset: 0, 0
+  index: -1
+bg_unknown_ground_light2
+  rotate: false
+  xy: 111, 300
+  size: 71, 102
+  orig: 71, 102
+  offset: 0, 0
+  index: -1
+bg_unknown_ground_fog1
+  rotate: false
+  xy: 184, 400
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+bg_unknown_ground_floaters3
+  rotate: false
+  xy: 41, 404
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+bg_unknown_ground_fog2
+  rotate: true
+  xy: 184, 300
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,473 @@
+dragon_174_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_shootingstar_cri3b
+  rotate: true
+  xy: 100, 741
+  size: 68, 57
+  orig: 68, 57
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_cri1a
+  rotate: false
+  xy: 2, 228
+  size: 198, 114
+  orig: 202, 118
+  offset: 0, 4
+  index: -1
+dragon_shootingstar_child_eye2
+  rotate: true
+  xy: 237, 839
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_adult_sample
+  rotate: false
+  xy: 2, 344
+  size: 194, 188
+  orig: 194, 188
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_baby_wing1
+  rotate: true
+  xy: 224, 42
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_adult_r_leg2b
+  rotate: true
+  xy: 214, 1062
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_adult_l_leg2b
+  rotate: false
+  xy: 150, 958
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_adult_eye2
+  rotate: true
+  xy: 237, 907
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_cri1c
+  rotate: false
+  xy: 2, 66
+  size: 214, 72
+  orig: 220, 80
+  offset: 0, 8
+  index: -1
+dragon_shootingstar_adult_neck
+  rotate: false
+  xy: 138, 992
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_baby_heart
+  rotate: false
+  xy: 135, 894
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_adult_eye
+  rotate: true
+  xy: 237, 929
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_adult_r_leg2a
+  rotate: true
+  xy: 198, 465
+  size: 26, 55
+  orig: 26, 55
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_adult_note1
+  rotate: false
+  xy: 224, 2
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_shootingstar_baby_tail
+  rotate: false
+  xy: 204, 1012
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_adult_l_leg1b
+  rotate: false
+  xy: 114, 936
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_baby_leg4
+  rotate: false
+  xy: 183, 939
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_child_smile
+  rotate: false
+  xy: 55, 936
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_baby_eye
+  rotate: true
+  xy: 235, 1057
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_baby_leg1
+  rotate: true
+  xy: 216, 197
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_cri3d
+  rotate: true
+  xy: 2, 936
+  size: 68, 51
+  orig: 68, 51
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_baby_eye2
+  rotate: false
+  xy: 189, 1070
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_baby_head
+  rotate: false
+  xy: 164, 839
+  size: 71, 53
+  orig: 71, 53
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_cri3a
+  rotate: false
+  xy: 2, 865
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_child_leg3
+  rotate: false
+  xy: 218, 116
+  size: 35, 79
+  orig: 35, 79
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_adult_r_leg2d
+  rotate: true
+  xy: 240, 775
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_adult_l_leg2d
+  rotate: false
+  xy: 49, 1071
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_cri2b
+  rotate: false
+  xy: 2, 140
+  size: 212, 86
+  orig: 212, 86
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_adult_eye4
+  rotate: false
+  xy: 171, 534
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_baby_leg3
+  rotate: true
+  xy: 218, 82
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_adult_l_leg2a
+  rotate: true
+  xy: 198, 520
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_cri3c
+  rotate: true
+  xy: 2, 1006
+  size: 64, 45
+  orig: 64, 45
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_adult_r_leg1b
+  rotate: true
+  xy: 204, 973
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_child_leg1
+  rotate: true
+  xy: 171, 556
+  size: 28, 82
+  orig: 28, 82
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_child_chin
+  rotate: true
+  xy: 235, 1034
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_child_eye3
+  rotate: true
+  xy: 189, 1034
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_baby_body
+  rotate: true
+  xy: 183, 894
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_adult_r_leg2c
+  rotate: false
+  xy: 181, 980
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_child_body
+  rotate: false
+  xy: 2, 805
+  size: 79, 58
+  orig: 79, 58
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_adult_l_leg2c
+  rotate: true
+  xy: 198, 493
+  size: 25, 55
+  orig: 25, 55
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_adult_tail
+  rotate: true
+  xy: 159, 725
+  size: 112, 79
+  orig: 112, 79
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_adult_eye3
+  rotate: false
+  xy: 2, 1072
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_child_eye
+  rotate: true
+  xy: 237, 873
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_adult_l_leg1a
+  rotate: false
+  xy: 101, 998
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_adult_cri3e
+  rotate: false
+  xy: 49, 1006
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_adult_r_leg1a
+  rotate: true
+  xy: 103, 1059
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_adult_l_wing
+  rotate: true
+  xy: 171, 586
+  size: 137, 81
+  orig: 137, 81
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_child_tail
+  rotate: false
+  xy: 202, 243
+  size: 52, 57
+  orig: 52, 57
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_cri1b
+  rotate: false
+  xy: 2, 534
+  size: 167, 71
+  orig: 173, 77
+  offset: 0, 6
+  index: -1
+dragon_shootingstar_adult_l_leg1c
+  rotate: true
+  xy: 240, 725
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_adult_chin
+  rotate: true
+  xy: 240, 801
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_cri2a
+  rotate: false
+  xy: 2, 2
+  size: 220, 62
+  orig: 220, 62
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_cri3e
+  rotate: false
+  xy: 49, 1006
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_baby_eye3
+  rotate: true
+  xy: 211, 1034
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_child_neck
+  rotate: true
+  xy: 202, 302
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_adult_note2
+  rotate: false
+  xy: 152, 1047
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_adult_head
+  rotate: false
+  xy: 76, 894
+  size: 57, 40
+  orig: 57, 40
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_child_sample
+  rotate: true
+  xy: 2, 607
+  size: 132, 155
+  orig: 132, 155
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_baby_chin
+  rotate: false
+  xy: 152, 935
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_adult_eye5
+  rotate: false
+  xy: 81, 1071
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_adult_body
+  rotate: false
+  xy: 2, 741
+  size: 96, 62
+  orig: 96, 62
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_child_head
+  rotate: false
+  xy: 198, 357
+  size: 56, 73
+  orig: 56, 73
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_adult_r_leg1c
+  rotate: true
+  xy: 240, 751
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_baby_neck
+  rotate: false
+  xy: 198, 432
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_child_leg2
+  rotate: true
+  xy: 83, 811
+  size: 26, 74
+  orig: 26, 74
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_baby_leg2
+  rotate: true
+  xy: 216, 226
+  size: 15, 38
+  orig: 15, 38
+  offset: 0, 0
+  index: -1
+dragon_shootingstar_child_wing1
+  rotate: false
+  xy: 83, 839
+  size: 79, 53
+  orig: 79, 53
+  offset: 0, 0
+  index: -1

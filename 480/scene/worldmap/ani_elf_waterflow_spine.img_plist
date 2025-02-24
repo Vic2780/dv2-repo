@@ -1,0 +1,88 @@
+ani_elf_waterflow_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+w_elf_riverdusttttt01
+  rotate: false
+  xy: 2, 191
+  size: 59, 61
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+w_elf_riverdusttttt06
+  rotate: false
+  xy: 2, 254
+  size: 59, 59
+  orig: 59, 63
+  offset: 0, 1
+  index: -1
+w_elf_riverdust01
+  rotate: false
+  xy: 2, 711
+  size: 46, 65
+  orig: 46, 65
+  offset: 0, 0
+  index: -1
+w_elf_riverdust04
+  rotate: false
+  xy: 2, 510
+  size: 46, 65
+  orig: 46, 65
+  offset: 0, 0
+  index: -1
+w_elf_riverdust02
+  rotate: false
+  xy: 2, 644
+  size: 46, 65
+  orig: 46, 65
+  offset: 0, 0
+  index: -1
+w_elf_riverdust05
+  rotate: false
+  xy: 2, 443
+  size: 46, 65
+  orig: 46, 65
+  offset: 0, 0
+  index: -1
+w_elf_riverdusttttt02
+  rotate: false
+  xy: 2, 128
+  size: 59, 61
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+w_elf_riverdust03
+  rotate: false
+  xy: 2, 577
+  size: 46, 65
+  orig: 46, 65
+  offset: 0, 0
+  index: -1
+w_elf_riverdusttttt04
+  rotate: false
+  xy: 2, 65
+  size: 59, 61
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+w_elf_riverdust06
+  rotate: false
+  xy: 2, 376
+  size: 46, 65
+  orig: 46, 65
+  offset: 0, 0
+  index: -1
+w_elf_riverdusttttt03
+  rotate: false
+  xy: 2, 315
+  size: 59, 59
+  orig: 59, 63
+  offset: 0, 1
+  index: -1
+w_elf_riverdusttttt05
+  rotate: false
+  xy: 2, 2
+  size: 59, 61
+  orig: 59, 63
+  offset: 0, 1
+  index: -1

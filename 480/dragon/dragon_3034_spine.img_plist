@@ -1,0 +1,1033 @@
+dragon_3034_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_valefor_baby_arm
+  rotate: false
+  xy: 1153, 522
+  size: 27, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_head
+  rotate: true
+  xy: 1520, 1060
+  size: 38, 46
+  orig: 38, 48
+  offset: 0, 2
+  index: -1
+dragon_valefor_adult_tail
+  rotate: false
+  xy: 1313, 944
+  size: 154, 56
+  orig: 154, 56
+  offset: 0, 0
+  index: -1
+dragon_valefor_cri_sm2
+  rotate: false
+  xy: 820, 796
+  size: 376, 165
+  orig: 378, 167
+  offset: 0, 2
+  index: -1
+dragon_valefor_adult_h1
+  rotate: true
+  xy: 427, 753
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_h2
+  rotate: true
+  xy: 1301, 1010
+  size: 36, 10
+  orig: 36, 10
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_h3
+  rotate: false
+  xy: 1153, 560
+  size: 41, 13
+  orig: 41, 13
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_h4
+  rotate: false
+  xy: 2007, 1064
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_h5
+  rotate: true
+  xy: 210, 844
+  size: 14, 50
+  orig: 14, 50
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_h6
+  rotate: true
+  xy: 41, 1092
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_h7
+  rotate: false
+  xy: 728, 1083
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+dragon_valefor_e_critical_eff2
+  rotate: false
+  xy: 445, 2
+  size: 454, 204
+  orig: 500, 204
+  offset: 0, 0
+  index: -1
+dragon_valefor_e_critical_eff1
+  rotate: true
+  xy: 2, 336
+  size: 522, 206
+  orig: 524, 206
+  offset: 0, 0
+  index: -1
+dragon_valefor_child_head
+  rotate: false
+  xy: 1914, 958
+  size: 68, 63
+  orig: 68, 65
+  offset: 0, 2
+  index: -1
+dragon_valefor_child_hairrrrrrr
+  rotate: false
+  xy: 1136, 783
+  size: 49, 11
+  orig: 49, 11
+  offset: 0, 0
+  index: -1
+dragon_valefor_critical_stick2
+  rotate: false
+  xy: 1198, 554
+  size: 377, 19
+  orig: 419, 51
+  offset: 27, 15
+  index: -1
+dragon_valefor_critical_stick3
+  rotate: false
+  xy: 1332, 205
+  size: 361, 19
+  orig: 419, 51
+  offset: 1, 15
+  index: -1
+dragon_valefor_child_love
+  rotate: false
+  xy: 1914, 893
+  size: 68, 63
+  orig: 68, 65
+  offset: 0, 2
+  index: -1
+dragon_valefor_child_eye
+  rotate: true
+  xy: 764, 1083
+  size: 20, 21
+  orig: 68, 65
+  offset: 23, 14
+  index: -1
+dragon_valefor_critical_stick1
+  rotate: false
+  xy: 892, 314
+  size: 419, 51
+  orig: 419, 51
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_love
+  rotate: false
+  xy: 1667, 1025
+  size: 38, 46
+  orig: 38, 48
+  offset: 0, 2
+  index: -1
+dragon_valefor_adult_smile
+  rotate: true
+  xy: 1948, 834
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_valefor_child_body
+  rotate: true
+  xy: 1856, 901
+  size: 76, 56
+  orig: 76, 56
+  offset: 0, 0
+  index: -1
+dragon_valefor_child_mouth
+  rotate: true
+  xy: 2010, 655
+  size: 32, 29
+  orig: 68, 65
+  offset: 16, 0
+  index: -1
+dragon_valefor_e_e_leg_p
+  rotate: true
+  xy: 653, 1083
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+dragon_valefor_e_critical_boom1
+  rotate: true
+  xy: 210, 336
+  size: 415, 239
+  orig: 417, 239
+  offset: 0, 0
+  index: -1
+dragon_valefor_cri_b2
+  rotate: false
+  xy: 546, 809
+  size: 272, 272
+  orig: 272, 272
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_att
+  rotate: true
+  xy: 1568, 1064
+  size: 38, 46
+  orig: 38, 48
+  offset: 0, 2
+  index: -1
+dragon_valefor_cri_sp2
+  rotate: false
+  xy: 892, 208
+  size: 438, 104
+  orig: 440, 104
+  offset: 0, 0
+  index: -1
+dragon_valefor_cri_sp3
+  rotate: false
+  xy: 1182, 469
+  size: 387, 83
+  orig: 387, 83
+  offset: 0, 0
+  index: -1
+dragon_valefor_Layer 55
+  rotate: true
+  xy: 451, 615
+  size: 192, 323
+  orig: 196, 323
+  offset: 0, 0
+  index: -1
+dragon_valefor_e_e_head_p
+  rotate: false
+  xy: 1984, 893
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+dragon_valefor_cri_sp1
+  rotate: false
+  xy: 1182, 367
+  size: 386, 100
+  orig: 386, 110
+  offset: 0, 7
+  index: -1
+dragon_valefor_critical_d8
+  rotate: false
+  xy: 1824, 686
+  size: 29, 213
+  orig: 29, 215
+  offset: 0, 1
+  index: -1
+dragon_valefor_critical_d6
+  rotate: true
+  xy: 2, 1061
+  size: 29, 215
+  orig: 29, 215
+  offset: 0, 0
+  index: -1
+dragon_valefor_critical_d7
+  rotate: false
+  xy: 1855, 686
+  size: 29, 213
+  orig: 29, 215
+  offset: 0, 1
+  index: -1
+dragon_valefor_adult_2wing6
+  rotate: true
+  xy: 1923, 425
+  size: 192, 86
+  orig: 204, 290
+  offset: 12, 119
+  index: -1
+dragon_valefor_e_critical_beff2
+  rotate: false
+  xy: 776, 522
+  size: 320, 272
+  orig: 380, 272
+  offset: 57, 0
+  index: -1
+dragon_valefor_e_critical_beff3
+  rotate: false
+  xy: 451, 323
+  size: 317, 290
+  orig: 431, 304
+  offset: 0, 11
+  index: -1
+dragon_valefor_adult_2wing4
+  rotate: true
+  xy: 1723, 553
+  size: 190, 90
+  orig: 204, 290
+  offset: 10, 55
+  index: -1
+dragon_valefor_adult_2wing2
+  rotate: false
+  xy: 1880, 243
+  size: 152, 180
+  orig: 204, 290
+  offset: 12, 110
+  index: -1
+dragon_valefor_critical_circle
+  rotate: false
+  xy: 1563, 226
+  size: 118, 128
+  orig: 176, 136
+  offset: 2, 4
+  index: -1
+dragon_valefor_critical_d1
+  rotate: true
+  xy: 210, 753
+  size: 29, 215
+  orig: 29, 215
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_2wing5
+  rotate: false
+  xy: 820, 963
+  size: 186, 144
+  orig: 204, 290
+  offset: 0, 0
+  index: -1
+dragon_valefor_critical_d4
+  rotate: false
+  xy: 1917, 672
+  size: 29, 213
+  orig: 29, 215
+  offset: 0, 1
+  index: -1
+dragon_valefor_adult_2wing3
+  rotate: true
+  xy: 1481, 749
+  size: 192, 126
+  orig: 204, 290
+  offset: 0, 119
+  index: -1
+dragon_valefor_e_critical_cc2
+  rotate: false
+  xy: 1098, 522
+  size: 53, 245
+  orig: 53, 245
+  offset: 0, 0
+  index: -1
+dragon_valefor_critical_d2
+  rotate: false
+  xy: 1979, 619
+  size: 29, 213
+  orig: 29, 215
+  offset: 0, 1
+  index: -1
+dragon_valefor_e_critical_cc3
+  rotate: false
+  xy: 1870, 425
+  size: 51, 245
+  orig: 53, 245
+  offset: 2, 0
+  index: -1
+dragon_valefor_critical_d5
+  rotate: false
+  xy: 1886, 672
+  size: 29, 213
+  orig: 29, 215
+  offset: 0, 1
+  index: -1
+dragon_valefor_adult_2wing1
+  rotate: false
+  xy: 1153, 575
+  size: 162, 172
+  orig: 204, 290
+  offset: 2, 110
+  index: -1
+dragon_valefor_baby_eye
+  rotate: false
+  xy: 1850, 400
+  size: 28, 22
+  orig: 80, 70
+  offset: 32, 20
+  index: -1
+dragon_valefor_critical_d3
+  rotate: false
+  xy: 1948, 619
+  size: 29, 213
+  orig: 29, 215
+  offset: 0, 1
+  index: -1
+dragon_valefor_adult_leg6
+  rotate: false
+  xy: 2010, 815
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_leg4
+  rotate: true
+  xy: 856, 323
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+dragon_valefor_e_critical_cc1
+  rotate: false
+  xy: 1815, 439
+  size: 53, 245
+  orig: 53, 245
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_leg2
+  rotate: false
+  xy: 289, 784
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_ring6
+  rotate: true
+  xy: 2011, 471
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_leg5
+  rotate: true
+  xy: 1764, 1079
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_ring7
+  rotate: true
+  xy: 2011, 425
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_leg3
+  rotate: true
+  xy: 2, 1092
+  size: 15, 37
+  orig: 19, 37
+  offset: 4, 0
+  index: -1
+dragon_valefor_adult_ring8
+  rotate: true
+  xy: 1850, 354
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_leg1
+  rotate: true
+  xy: 1098, 769
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+dragon_valefor_child_leg2
+  rotate: true
+  xy: 2010, 852
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+dragon_valefor_cri_e2
+  rotate: false
+  xy: 901, 2
+  size: 419, 204
+  orig: 419, 204
+  offset: 0, 0
+  index: -1
+dragon_valefor_child_leg3
+  rotate: true
+  xy: 2010, 689
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+dragon_valefor_cri_e3
+  rotate: false
+  xy: 2, 2
+  size: 441, 332
+  orig: 441, 332
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_ring1
+  rotate: true
+  xy: 2010, 769
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_neck
+  rotate: true
+  xy: 1569, 1003
+  size: 59, 38
+  orig: 59, 38
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_ring2
+  rotate: true
+  xy: 2010, 723
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_ring3
+  rotate: true
+  xy: 2011, 609
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_ring4
+  rotate: true
+  xy: 2011, 563
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_ring5
+  rotate: true
+  xy: 2011, 517
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+dragon_valefor_cri_e1
+  rotate: false
+  xy: 770, 367
+  size: 410, 153
+  orig: 426, 153
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_1wing6
+  rotate: false
+  xy: 1571, 465
+  size: 191, 86
+  orig: 205, 290
+  offset: 14, 119
+  index: -1
+dragon_valefor_child_leg1
+  rotate: true
+  xy: 1968, 1071
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+dragon_valefor_e_e_arm_eff
+  rotate: false
+  xy: 1301, 1063
+  size: 68, 44
+  orig: 68, 44
+  offset: 0, 0
+  index: -1
+dragon_valefor_e_sp
+  rotate: false
+  xy: 1597, 553
+  size: 124, 175
+  orig: 124, 175
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_1wing4
+  rotate: true
+  xy: 1609, 730
+  size: 191, 90
+  orig: 205, 290
+  offset: 10, 55
+  index: -1
+dragon_valefor_child_neck
+  rotate: true
+  xy: 1609, 1025
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_1wing2
+  rotate: false
+  xy: 1198, 749
+  size: 153, 180
+  orig: 205, 290
+  offset: 12, 110
+  index: -1
+dragon_valefor_adult_1wing5
+  rotate: false
+  xy: 1008, 963
+  size: 185, 144
+  orig: 205, 290
+  offset: 0, 0
+  index: -1
+dragon_valefor_e_e_head_eff
+  rotate: true
+  xy: 1313, 1002
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_1wing3
+  rotate: true
+  xy: 1353, 749
+  size: 193, 126
+  orig: 205, 290
+  offset: 0, 119
+  index: -1
+dragon_valefor_adult_1wing1
+  rotate: false
+  xy: 1317, 575
+  size: 161, 172
+  orig: 205, 290
+  offset: 3, 110
+  index: -1
+dragon_valefor_e_e_foot_p
+  rotate: true
+  xy: 1923, 650
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_arm4
+  rotate: true
+  xy: 363, 784
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_arm2
+  rotate: true
+  xy: 395, 784
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_hand1
+  rotate: false
+  xy: 1153, 749
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+dragon_valefor_e_e_arm
+  rotate: true
+  xy: 1659, 1073
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_arm3
+  rotate: true
+  xy: 1984, 954
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_hand2
+  rotate: true
+  xy: 1438, 1067
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_arm1
+  rotate: true
+  xy: 1984, 1009
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+dragon_valefor_cri_sm
+  rotate: false
+  xy: 1322, 2
+  size: 385, 201
+  orig: 385, 201
+  offset: 0, 0
+  index: -1
+dragon_valefor_child_arm2
+  rotate: true
+  xy: 1729, 439
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_eye
+  rotate: false
+  xy: 1783, 1079
+  size: 6, 12
+  orig: 38, 48
+  offset: 18, 12
+  index: -1
+dragon_valefor_e_e_body
+  rotate: false
+  xy: 210, 784
+  size: 50, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: -1
+dragon_valefor_child_arm1
+  rotate: true
+  xy: 1707, 1063
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_smile2
+  rotate: true
+  xy: 1948, 834
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_valefor_e_critical_smo2
+  rotate: true
+  xy: 1480, 575
+  size: 172, 115
+  orig: 186, 115
+  offset: 14, 0
+  index: -1
+dragon_valefor_e_critical_smo1
+  rotate: false
+  xy: 445, 208
+  size: 445, 113
+  orig: 445, 119
+  offset: 0, 1
+  index: -1
+dragon_valefor_adult_hit
+  rotate: true
+  xy: 1472, 1060
+  size: 38, 46
+  orig: 38, 48
+  offset: 0, 2
+  index: -1
+dragon_valefor_e_e_tail_p
+  rotate: true
+  xy: 1764, 439
+  size: 101, 48
+  orig: 101, 48
+  offset: 0, 0
+  index: -1
+dragon_valefor_critical_ki1
+  rotate: true
+  xy: 1683, 243
+  size: 109, 195
+  orig: 155, 199
+  offset: 2, 3
+  index: -1
+dragon_valefor_cri_twc2
+  rotate: false
+  xy: 2, 860
+  size: 258, 199
+  orig: 264, 199
+  offset: 5, 0
+  index: -1
+dragon_valefor_critical_ki4
+  rotate: true
+  xy: 1729, 354
+  size: 83, 119
+  orig: 155, 199
+  offset: 69, 19
+  index: -1
+dragon_valefor_critical_ki2
+  rotate: false
+  xy: 1701, 745
+  size: 121, 169
+  orig: 155, 199
+  offset: 24, 10
+  index: -1
+dragon_valefor_cri_twc1
+  rotate: false
+  xy: 1332, 226
+  size: 229, 139
+  orig: 229, 139
+  offset: 0, 0
+  index: -1
+dragon_valefor_cri_b
+  rotate: false
+  xy: 262, 809
+  size: 282, 298
+  orig: 286, 298
+  offset: 1, 0
+  index: -1
+dragon_valefor_child_question
+  rotate: true
+  xy: 1371, 1067
+  size: 35, 65
+  orig: 39, 67
+  offset: 2, 2
+  index: -1
+dragon_valefor_critical_ki3
+  rotate: true
+  xy: 1570, 356
+  size: 107, 157
+  orig: 155, 199
+  offset: 45, 14
+  index: -1
+dragon_valefor_baby_tail
+  rotate: false
+  xy: 1577, 943
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+dragon_valefor_baby_leg
+  rotate: false
+  xy: 1923, 619
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+dragon_valefor_baby_love
+  rotate: true
+  xy: 1792, 916
+  size: 80, 62
+  orig: 80, 70
+  offset: 0, 8
+  index: -1
+dragon_valefor_baby_hearttt
+  rotate: true
+  xy: 219, 1061
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_valefor_baby_head
+  rotate: false
+  xy: 1709, 999
+  size: 80, 62
+  orig: 80, 70
+  offset: 0, 8
+  index: -1
+dragon_valefor_adult_foot1
+  rotate: true
+  xy: 316, 784
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_foot2
+  rotate: false
+  xy: 625, 1083
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_foot3
+  rotate: true
+  xy: 776, 796
+  size: 11, 17
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_body1
+  rotate: false
+  xy: 1469, 944
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_body2
+  rotate: true
+  xy: 1912, 1071
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+dragon_valefor_child_h1
+  rotate: true
+  xy: 1313, 314
+  size: 39, 17
+  orig: 69, 71
+  offset: 0, 54
+  index: -1
+dragon_valefor_baby_body
+  rotate: false
+  xy: 1616, 1064
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+dragon_valefor_baby_wing4
+  rotate: false
+  xy: 1914, 1023
+  size: 61, 46
+  orig: 83, 102
+  offset: 10, 15
+  index: -1
+dragon_valefor_baby_wing5
+  rotate: false
+  xy: 1791, 1041
+  size: 63, 60
+  orig: 83, 102
+  offset: 4, 3
+  index: -1
+dragon_valefor_baby_wing2
+  rotate: false
+  xy: 1518, 943
+  size: 57, 58
+  orig: 83, 102
+  offset: 2, 44
+  index: -1
+dragon_valefor_child_h2
+  rotate: false
+  xy: 262, 784
+  size: 25, 23
+  orig: 69, 71
+  offset: 32, 39
+  index: -1
+dragon_valefor_child_h3
+  rotate: true
+  xy: 681, 1083
+  size: 19, 45
+  orig: 69, 71
+  offset: 50, 0
+  index: -1
+dragon_valefor_baby_wing3
+  rotate: false
+  xy: 546, 1083
+  size: 77, 22
+  orig: 83, 102
+  offset: 6, 36
+  index: -1
+dragon_valefor_baby_wing1
+  rotate: true
+  xy: 1856, 979
+  size: 57, 56
+  orig: 83, 102
+  offset: 2, 46
+  index: -1
+dragon_valefor_cri_p2
+  rotate: true
+  xy: 1195, 1010
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+dragon_valefor_cri_p1
+  rotate: false
+  xy: 1464, 1005
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+dragon_valefor_baby_wing6
+  rotate: true
+  xy: 1792, 998
+  size: 41, 62
+  orig: 83, 102
+  offset: 9, 0
+  index: -1
+dragon_valefor_baby_wing7
+  rotate: true
+  xy: 1856, 1038
+  size: 63, 54
+  orig: 83, 102
+  offset: 0, 34
+  index: -1
+dragon_valefor_adult_hr2
+  rotate: false
+  xy: 795, 796
+  size: 23, 8
+  orig: 57, 18
+  offset: 18, 10
+  index: -1
+dragon_valefor_child_wing1
+  rotate: true
+  xy: 1198, 931
+  size: 77, 113
+  orig: 77, 113
+  offset: 0, 0
+  index: -1
+dragon_valefor_child_wing2
+  rotate: true
+  xy: 1383, 1002
+  size: 63, 79
+  orig: 63, 79
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_hr3
+  rotate: true
+  xy: 343, 784
+  size: 23, 18
+  orig: 57, 18
+  offset: 34, 0
+  index: -1
+dragon_valefor_e_critical_beff
+  rotate: false
+  xy: 1709, 2
+  size: 323, 239
+  orig: 347, 239
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_hr1
+  rotate: false
+  xy: 1764, 1063
+  size: 25, 14
+  orig: 57, 18
+  offset: 0, 3
+  index: -1
+dragon_valefor_child_tail1
+  rotate: false
+  xy: 770, 323
+  size: 84, 31
+  orig: 88, 57
+  offset: 4, 0
+  index: -1
+dragon_valefor_child_tail2
+  rotate: false
+  xy: 1519, 1003
+  size: 48, 55
+  orig: 88, 57
+  offset: 0, 2
+  index: -1
+dragon_valefor_cri_pc3
+  rotate: false
+  xy: 1709, 916
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+dragon_valefor_adult_mouth2
+  rotate: true
+  xy: 427, 784
+  size: 16, 22
+  orig: 38, 48
+  offset: 20, 0
+  index: -1
+dragon_valefor_cri_pc4
+  rotate: false
+  xy: 1609, 923
+  size: 98, 100
+  orig: 104, 110
+  offset: 3, 3
+  index: -1
+dragon_valefor_adult_mouth1
+  rotate: false
+  xy: 1597, 730
+  size: 10, 10
+  orig: 38, 48
+  offset: 19, 8
+  index: -1
+dragon_valefor_child_hand
+  rotate: false
+  xy: 1824, 901
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1

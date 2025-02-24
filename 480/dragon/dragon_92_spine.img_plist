@@ -1,0 +1,410 @@
+dragon_92_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_python_adult_body3
+  rotate: true
+  xy: 2, 1313
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+dragon_python_child_arm1
+  rotate: true
+  xy: 70, 1237
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+dragon_python_baby_catch
+  rotate: true
+  xy: 80, 908
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+dragon_python_adult_wing2
+  rotate: false
+  xy: 2, 1365
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+dragon_python_adult_arm5
+  rotate: true
+  xy: 78, 937
+  size: 55, 30
+  orig: 55, 30
+  offset: 0, 0
+  index: -1
+dragon_python_baby_mouse
+  rotate: false
+  xy: 2, 1512
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+dragon_python_child_body1
+  rotate: false
+  xy: 2, 413
+  size: 92, 87
+  orig: 92, 87
+  offset: 0, 0
+  index: -1
+dragon_python_adult_body6
+  rotate: false
+  xy: 2, 634
+  size: 86, 47
+  orig: 86, 47
+  offset: 0, 0
+  index: -1
+dragon_python_child_eye2
+  rotate: true
+  xy: 95, 515
+  size: 26, 11
+  orig: 32, 11
+  offset: 6, 0
+  index: -1
+dragon_python_adult_tongue2
+  rotate: true
+  xy: 63, 1436
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+dragon_python_adult_wing1
+  rotate: false
+  xy: 2, 923
+  size: 74, 40
+  orig: 74, 40
+  offset: 0, 0
+  index: -1
+dragon_python_adult_eye1
+  rotate: false
+  xy: 95, 573
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+dragon_python_child_mouse
+  rotate: false
+  xy: 55, 1526
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+dragon_python_child_neck
+  rotate: false
+  xy: 64, 1325
+  size: 47, 57
+  orig: 47, 57
+  offset: 0, 0
+  index: -1
+dragon_python_critical_ef2
+  rotate: true
+  xy: 2, 2
+  size: 141, 110
+  orig: 143, 130
+  offset: 0, 11
+  index: -1
+dragon_python_child_arm4
+  rotate: false
+  xy: 70, 1167
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+dragon_python_adult_body5
+  rotate: true
+  xy: 60, 1481
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+dragon_python_child_eye3
+  rotate: true
+  xy: 96, 487
+  size: 26, 11
+  orig: 32, 11
+  offset: 6, 0
+  index: -1
+dragon_python_critical_ef1
+  rotate: true
+  xy: 2, 683
+  size: 176, 76
+  orig: 176, 86
+  offset: 0, 10
+  index: -1
+dragon_python_baby_body2
+  rotate: true
+  xy: 70, 1269
+  size: 54, 40
+  orig: 54, 40
+  offset: 0, 0
+  index: -1
+dragon_python_child_arm6
+  rotate: false
+  xy: 90, 678
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+dragon_python_adult_eye2
+  rotate: false
+  xy: 95, 563
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+dragon_python_child_body3
+  rotate: false
+  xy: 64, 1384
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+dragon_python_critical_ef3
+  rotate: false
+  xy: 2, 145
+  size: 105, 163
+  orig: 107, 173
+  offset: 0, 10
+  index: -1
+dragon_python_adult_head
+  rotate: false
+  xy: 2, 1421
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1
+dragon_python_child_arm5
+  rotate: true
+  xy: 72, 1552
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+dragon_python_adult_mouse
+  rotate: false
+  xy: 76, 1045
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+dragon_python_baby_hand
+  rotate: false
+  xy: 2, 1394
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: -1
+dragon_python_adult_arm1
+  rotate: true
+  xy: 80, 870
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+dragon_python_baby_eye2
+  rotate: true
+  xy: 65, 1583
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+dragon_python_adult_neck2
+  rotate: false
+  xy: 2, 1024
+  size: 72, 44
+  orig: 72, 44
+  offset: 0, 0
+  index: -1
+dragon_python_baby_body3
+  rotate: false
+  xy: 2, 1582
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+dragon_python_baby_tougue1
+  rotate: true
+  xy: 96, 436
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+dragon_python_adult_body2
+  rotate: false
+  xy: 2, 359
+  size: 96, 52
+  orig: 96, 52
+  offset: 0, 0
+  index: -1
+dragon_python_child_arm2
+  rotate: false
+  xy: 80, 832
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+dragon_python_adult_body7
+  rotate: false
+  xy: 2, 965
+  size: 73, 57
+  orig: 73, 57
+  offset: 0, 0
+  index: -1
+dragon_python_child_eye1
+  rotate: true
+  xy: 95, 543
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+dragon_python_adult_tongue3
+  rotate: false
+  xy: 2, 1540
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+dragon_python_adult_arm2
+  rotate: false
+  xy: 70, 1210
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+dragon_python_baby_fly
+  rotate: false
+  xy: 95, 583
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+dragon_python_adult_neck1
+  rotate: true
+  xy: 80, 718
+  size: 69, 32
+  orig: 69, 32
+  offset: 0, 0
+  index: -1
+dragon_python_adult_body1
+  rotate: false
+  xy: 2, 502
+  size: 91, 130
+  orig: 91, 130
+  offset: 0, 0
+  index: -1
+dragon_python_adult_ef1
+  rotate: false
+  xy: 2, 1116
+  size: 66, 155
+  orig: 66, 155
+  offset: 0, 0
+  index: -1
+dragon_python_adult_tongue1
+  rotate: true
+  xy: 89, 1583
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+dragon_python_child_arm3
+  rotate: false
+  xy: 90, 634
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+dragon_python_baby_tougue2
+  rotate: true
+  xy: 100, 359
+  size: 75, 11
+  orig: 75, 11
+  offset: 0, 0
+  index: -1
+dragon_python_adult_arm3
+  rotate: false
+  xy: 77, 994
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+dragon_python_baby_body1
+  rotate: true
+  xy: 2, 861
+  size: 60, 76
+  orig: 60, 76
+  offset: 0, 0
+  index: -1
+dragon_python_child_head
+  rotate: false
+  xy: 2, 1273
+  size: 65, 38
+  orig: 65, 38
+  offset: 0, 0
+  index: -1
+dragon_python_baby_eye1
+  rotate: true
+  xy: 96, 462
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+dragon_python_adult_arm6
+  rotate: true
+  xy: 2, 1473
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+dragon_python_baby_head
+  rotate: false
+  xy: 2, 1070
+  size: 69, 44
+  orig: 69, 44
+  offset: 0, 0
+  index: -1
+dragon_python_adult_body4
+  rotate: false
+  xy: 2, 310
+  size: 105, 47
+  orig: 105, 47
+  offset: 0, 0
+  index: -1
+dragon_python_baby_note1
+  rotate: false
+  xy: 33, 1582
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_python_child_heart
+  rotate: true
+  xy: 73, 1073
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_python_adult_arm4
+  rotate: true
+  xy: 80, 789
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+dragon_python_baby_eye3
+  rotate: true
+  xy: 48, 1552
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+dragon_python_child_body2
+  rotate: false
+  xy: 70, 1121
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1

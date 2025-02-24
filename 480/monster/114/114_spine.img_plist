@@ -1,0 +1,263 @@
+114_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_cfiredragon_finger
+  rotate: false
+  xy: 255, 1783
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+m_cfiredragon_groggyeye3
+  rotate: true
+  xy: 124, 1789
+  size: 107, 117
+  orig: 107, 117
+  offset: 0, 0
+  index: -1
+m_cfiredragon_arm11
+  rotate: false
+  xy: 206, 968
+  size: 105, 128
+  orig: 105, 128
+  offset: 0, 0
+  index: -1
+m_cfiredragon_body32
+  rotate: false
+  xy: 2, 1387
+  size: 156, 154
+  orig: 156, 154
+  offset: 0, 0
+  index: -1
+m_cfiredragon_groggyfinger
+  rotate: false
+  xy: 284, 228
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+m_cfiredragon_groggybody22
+  rotate: false
+  xy: 272, 1636
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+m_cfiredragon_body22
+  rotate: true
+  xy: 2, 1290
+  size: 95, 165
+  orig: 103, 165
+  offset: 8, 0
+  index: -1
+m_cfiredragon_groggybody31
+  rotate: true
+  xy: 206, 1098
+  size: 49, 105
+  orig: 49, 105
+  offset: 0, 0
+  index: -1
+m_cfiredragon_groggybody12
+  rotate: true
+  xy: 272, 1594
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+m_cfiredragon_arm4
+  rotate: true
+  xy: 2, 1787
+  size: 90, 120
+  orig: 90, 120
+  offset: 0, 0
+  index: -1
+m_cfiredragon_arm31
+  rotate: false
+  xy: 231, 532
+  size: 74, 56
+  orig: 74, 56
+  offset: 0, 0
+  index: -1
+m_cfiredragon_groggyarm12
+  rotate: true
+  xy: 2, 228
+  size: 163, 280
+  orig: 167, 282
+  offset: 1, 2
+  index: -1
+m_cfiredragon_body12
+  rotate: false
+  xy: 2, 393
+  size: 274, 137
+  orig: 274, 137
+  offset: 0, 0
+  index: -1
+m_cfiredragon_groggybody21
+  rotate: false
+  xy: 2, 1685
+  size: 125, 100
+  orig: 125, 100
+  offset: 0, 0
+  index: -1
+m_cfiredragon_groggyeye2
+  rotate: false
+  xy: 116, 1898
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+m_cfiredragon_body31
+  rotate: false
+  xy: 243, 1835
+  size: 58, 93
+  orig: 58, 93
+  offset: 0, 0
+  index: -1
+m_cfiredragon_arm12
+  rotate: false
+  xy: 170, 1265
+  size: 141, 327
+  orig: 141, 329
+  offset: 0, 0
+  index: -1
+m_cfiredragon_groggybody6
+  rotate: true
+  xy: 2, 645
+  size: 112, 224
+  orig: 112, 224
+  offset: 0, 0
+  index: -1
+m_cfiredragon_eye3
+  rotate: false
+  xy: 2, 1543
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+m_cfiredragon_groggybody11
+  rotate: false
+  xy: 2, 827
+  size: 206, 93
+  orig: 206, 93
+  offset: 0, 0
+  index: -1
+m_cfiredragon_body21
+  rotate: false
+  xy: 129, 1690
+  size: 124, 97
+  orig: 124, 97
+  offset: 0, 0
+  index: -1
+m_cfiredragon_body4
+  rotate: false
+  xy: 2, 2
+  size: 299, 224
+  orig: 299, 224
+  offset: 0, 0
+  index: -1
+m_cfiredragon_hand
+  rotate: true
+  xy: 255, 1690
+  size: 91, 52
+  orig: 91, 52
+  offset: 0, 0
+  index: -1
+m_cfiredragon_body11
+  rotate: false
+  xy: 2, 1242
+  size: 166, 46
+  orig: 166, 46
+  offset: 0, 0
+  index: -1
+m_cfiredragon_arm32
+  rotate: true
+  xy: 202, 1149
+  size: 114, 109
+  orig: 114, 109
+  offset: 0, 0
+  index: -1
+m_cfiredragon_groggyhand
+  rotate: false
+  xy: 231, 590
+  size: 74, 42
+  orig: 74, 42
+  offset: 0, 0
+  index: -1
+m_cfiredragon_eye2
+  rotate: false
+  xy: 2, 1898
+  size: 112, 111
+  orig: 112, 111
+  offset: 0, 0
+  index: -1
+m_cfiredragon_body5
+  rotate: false
+  xy: 2, 1103
+  size: 198, 137
+  orig: 198, 137
+  offset: 0, 0
+  index: -1
+m_cfiredragon_arm2
+  rotate: false
+  xy: 144, 1594
+  size: 126, 94
+  orig: 126, 94
+  offset: 0, 0
+  index: -1
+m_cfiredragon_groggyarm4
+  rotate: false
+  xy: 278, 393
+  size: 29, 114
+  orig: 29, 114
+  offset: 0, 0
+  index: -1
+m_cfiredragon_groggyarm31
+  rotate: false
+  xy: 228, 730
+  size: 83, 128
+  orig: 83, 128
+  offset: 0, 0
+  index: -1
+m_cfiredragon_body6
+  rotate: true
+  xy: 2, 532
+  size: 111, 227
+  orig: 111, 227
+  offset: 0, 0
+  index: -1
+m_cfiredragon_eye1
+  rotate: true
+  xy: 225, 1930
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+m_cfiredragon_groggybody4
+  rotate: false
+  xy: 2, 759
+  size: 224, 66
+  orig: 224, 66
+  offset: 0, 0
+  index: -1
+m_cfiredragon_light
+  rotate: true
+  xy: 2, 922
+  size: 179, 202
+  orig: 181, 206
+  offset: 1, 2
+  index: -1
+m_cfiredragon_groggyarm11
+  rotate: true
+  xy: 210, 860
+  size: 106, 101
+  orig: 106, 101
+  offset: 0, 0
+  index: -1
+m_cfiredragon_groggybody32
+  rotate: true
+  xy: 231, 634
+  size: 94, 71
+  orig: 94, 71
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,193 @@
+8_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_cship_groggyhead
+  rotate: false
+  xy: 2, 1619
+  size: 224, 174
+  orig: 242, 194
+  offset: 18, 1
+  index: -1
+m_cship_body2
+  rotate: true
+  xy: 395, 850
+  size: 208, 162
+  orig: 220, 196
+  offset: 0, 4
+  index: -1
+m_cship_fin
+  rotate: true
+  xy: 438, 492
+  size: 146, 115
+  orig: 176, 133
+  offset: 13, 12
+  index: -1
+m_cship_groggymause
+  rotate: true
+  xy: 508, 1526
+  size: 137, 42
+  orig: 153, 86
+  offset: 11, 10
+  index: -1
+m_cship_cloth
+  rotate: true
+  xy: 438, 173
+  size: 169, 118
+  orig: 201, 146
+  offset: 12, 19
+  index: -1
+m_cship_arm2
+  rotate: true
+  xy: 245, 1786
+  size: 105, 160
+  orig: 139, 178
+  offset: 18, 9
+  index: -1
+m_cship_groggyfin
+  rotate: true
+  xy: 438, 344
+  size: 146, 117
+  orig: 176, 133
+  offset: 13, 12
+  index: -1
+m_cship_groggycloth
+  rotate: true
+  xy: 438, 2
+  size: 169, 118
+  orig: 201, 146
+  offset: 12, 19
+  index: -1
+m_cship_groggybody2
+  rotate: true
+  xy: 395, 640
+  size: 208, 162
+  orig: 220, 196
+  offset: 0, 4
+  index: -1
+m_cship_groggyeye
+  rotate: true
+  xy: 294, 1209
+  size: 65, 48
+  orig: 83, 78
+  offset: 8, 12
+  index: -1
+m_cship_leg
+  rotate: true
+  xy: 133, 1795
+  size: 202, 110
+  orig: 244, 146
+  offset: 21, 8
+  index: -1
+m_cship_body1
+  rotate: false
+  xy: 255, 1483
+  size: 251, 189
+  orig: 279, 207
+  offset: 15, 8
+  index: -1
+m_cship_groggyarm1
+  rotate: false
+  xy: 2, 1795
+  size: 129, 203
+  orig: 179, 227
+  offset: 29, 10
+  index: -1
+m_cship_groggytail
+  rotate: true
+  xy: 294, 1276
+  size: 205, 258
+  orig: 263, 334
+  offset: 35, 27
+  index: -1
+m_cship_groggyarm2
+  rotate: false
+  xy: 432, 1674
+  size: 105, 160
+  orig: 139, 178
+  offset: 18, 9
+  index: -1
+m_cship_eye
+  rotate: true
+  xy: 395, 592
+  size: 46, 41
+  orig: 72, 73
+  offset: 11, 5
+  index: -1
+m_cship_head
+  rotate: true
+  xy: 395, 1060
+  size: 214, 160
+  orig: 242, 194
+  offset: 18, 14
+  index: -1
+m_cship_finger2
+  rotate: false
+  xy: 344, 1252
+  size: 29, 21
+  orig: 55, 57
+  offset: 14, 15
+  index: -1
+m_cship_groggyleg
+  rotate: false
+  xy: 228, 1674
+  size: 202, 110
+  orig: 244, 146
+  offset: 21, 8
+  index: -1
+m_cship_groggyspear
+  rotate: true
+  xy: 2, 592
+  size: 615, 391
+  orig: 625, 401
+  offset: 3, 4
+  index: -1
+m_cship_tail
+  rotate: true
+  xy: 2, 1209
+  size: 217, 290
+  orig: 263, 334
+  offset: 35, 27
+  index: -1
+m_cship_groggyfinger1
+  rotate: true
+  xy: 344, 1209
+  size: 41, 43
+  orig: 65, 59
+  offset: 16, 1
+  index: -1
+m_cship_arm1
+  rotate: true
+  xy: 245, 1893
+  size: 129, 195
+  orig: 179, 227
+  offset: 29, 19
+  index: -1
+m_cship_mause
+  rotate: true
+  xy: 442, 1836
+  size: 133, 68
+  orig: 153, 86
+  offset: 8, 10
+  index: -1
+m_cship_spear
+  rotate: true
+  xy: 2, 2
+  size: 588, 434
+  orig: 620, 456
+  offset: 20, 5
+  index: -1
+m_cship_finger1
+  rotate: true
+  xy: 508, 1483
+  size: 41, 43
+  orig: 65, 59
+  offset: 16, 1
+  index: -1
+m_cship_groggybody1
+  rotate: false
+  xy: 2, 1428
+  size: 251, 189
+  orig: 279, 207
+  offset: 15, 8
+  index: -1

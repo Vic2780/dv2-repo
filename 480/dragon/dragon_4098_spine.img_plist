@@ -1,0 +1,676 @@
+dragon_4098_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_party_effect_c3
+  rotate: false
+  xy: 1524, 138
+  size: 63, 59
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+dragon_party_effect_a22
+  rotate: false
+  xy: 1341, 2
+  size: 150, 135
+  orig: 166, 167
+  offset: 7, 14
+  index: -1
+dragon_party_adult_ribbon4
+  rotate: true
+  xy: 1709, 184
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1
+dragon_party_adult_leg3
+  rotate: true
+  xy: 122, 257
+  size: 26, 61
+  orig: 26, 61
+  offset: 0, 0
+  index: -1
+dragon_party_effect_r5
+  rotate: true
+  xy: 1947, 199
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+dragon_party_adult_leglace
+  rotate: false
+  xy: 1866, 239
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+dragon_party_child_leg4
+  rotate: false
+  xy: 1987, 247
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+dragon_party_adult_ear1 copy
+  rotate: true
+  xy: 744, 224
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+dragon_party_child_eye
+  rotate: false
+  xy: 2010, 117
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+dragon_party_baby_eye
+  rotate: false
+  xy: 1671, 264
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+dragon_party_child_mouth
+  rotate: false
+  xy: 1703, 264
+  size: 41, 18
+  orig: 41, 18
+  offset: 0, 0
+  index: -1
+dragon_party_child_ribbon3
+  rotate: true
+  xy: 1547, 262
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+dragon_party_effect_r1
+  rotate: false
+  xy: 1133, 233
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+dragon_party_effect_a3
+  rotate: false
+  xy: 996, 2
+  size: 164, 150
+  orig: 164, 166
+  offset: 0, 16
+  index: -1
+dragon_party_child_tail
+  rotate: false
+  xy: 1312, 139
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+dragon_party_effect_b1
+  rotate: false
+  xy: 331, 177
+  size: 153, 95
+  orig: 183, 147
+  offset: 30, 34
+  index: -1
+dragon_party_baby_arm1
+  rotate: true
+  xy: 1865, 179
+  size: 15, 38
+  orig: 15, 38
+  offset: 0, 0
+  index: -1
+dragon_party_adult_arm1
+  rotate: false
+  xy: 1589, 138
+  size: 47, 71
+  orig: 47, 71
+  offset: 0, 0
+  index: -1
+dragon_party_effect_c4
+  rotate: true
+  xy: 636, 221
+  size: 63, 57
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+dragon_party_effect_r2
+  rotate: false
+  xy: 486, 177
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+dragon_party_adult_damagedhead
+  rotate: false
+  xy: 1709, 141
+  size: 69, 41
+  orig: 69, 41
+  offset: 0, 0
+  index: -1
+dragon_party_child_leg1
+  rotate: false
+  xy: 2010, 2
+  size: 23, 46
+  orig: 23, 46
+  offset: 0, 0
+  index: -1
+dragon_party_baby_head
+  rotate: false
+  xy: 1399, 209
+  size: 86, 65
+  orig: 86, 65
+  offset: 0, 0
+  index: -1
+dragon_party_baby_ear1
+  rotate: false
+  xy: 581, 255
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+dragon_party_adult_armlace
+  rotate: true
+  xy: 1964, 247
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+dragon_party_adult_ribbon5
+  rotate: false
+  xy: 1482, 139
+  size: 40, 67
+  orig: 40, 67
+  offset: 0, 0
+  index: -1
+dragon_party_effect_b2
+  rotate: false
+  xy: 1162, 2
+  size: 177, 133
+  orig: 183, 147
+  offset: 1, 14
+  index: -1
+dragon_party_child_arm1b
+  rotate: false
+  xy: 1866, 196
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+dragon_party_child_body
+  rotate: false
+  xy: 1312, 223
+  size: 85, 52
+  orig: 85, 52
+  offset: 0, 0
+  index: -1
+dragon_party_adult_angryhead
+  rotate: false
+  xy: 1638, 184
+  size: 69, 41
+  orig: 69, 41
+  offset: 0, 0
+  index: -1
+dragon_party_child_ribbon2
+  rotate: true
+  xy: 50, 257
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+dragon_party_adult_leg4
+  rotate: false
+  xy: 2, 257
+  size: 46, 27
+  orig: 46, 29
+  offset: 0, 0
+  index: -1
+dragon_party_child_lovehead
+  rotate: false
+  xy: 1905, 139
+  size: 74, 58
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+dragon_party_effect_a11
+  rotate: false
+  xy: 1162, 137
+  size: 148, 147
+  orig: 166, 167
+  offset: 11, 0
+  index: -1
+dragon_party_child_leg5
+  rotate: false
+  xy: 1928, 236
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+dragon_party_effect_e_b3
+  rotate: false
+  xy: 510, 2
+  size: 276, 72
+  orig: 320, 220
+  offset: 27, 20
+  index: -1
+dragon_party_child_leg1lace
+  rotate: false
+  xy: 1931, 266
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+dragon_party_child_leg4lace
+  rotate: false
+  xy: 1783, 270
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+dragon_party_child_heart
+  rotate: false
+  xy: 1584, 211
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_party_adult_ribbon1
+  rotate: true
+  xy: 1693, 227
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+dragon_party_baby_arm2
+  rotate: false
+  xy: 2010, 50
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+dragon_party_child_neck
+  rotate: true
+  xy: 1837, 167
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+dragon_party_child_ear1
+  rotate: false
+  xy: 1584, 252
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+dragon_party_adult_tail2
+  rotate: true
+  xy: 793, 233
+  size: 51, 94
+  orig: 51, 94
+  offset: 0, 0
+  index: -1
+dragon_party_adult_body
+  rotate: false
+  xy: 996, 154
+  size: 119, 77
+  orig: 119, 83
+  offset: 0, 6
+  index: -1
+dragon_party_adult_ribbon2
+  rotate: false
+  xy: 486, 202
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+dragon_party_baby_ear2
+  rotate: false
+  xy: 538, 255
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+dragon_party_baby_lovehead
+  rotate: false
+  xy: 889, 218
+  size: 86, 65
+  orig: 86, 65
+  offset: 0, 0
+  index: -1
+dragon_party_adult_leg1
+  rotate: true
+  xy: 1782, 125
+  size: 40, 81
+  orig: 40, 81
+  offset: 0, 0
+  index: -1
+dragon_party_adult_arm2
+  rotate: true
+  xy: 1632, 227
+  size: 35, 59
+  orig: 35, 63
+  offset: 0, 0
+  index: -1
+dragon_party_effect_r3
+  rotate: true
+  xy: 2010, 87
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+dragon_party_adult_wing
+  rotate: true
+  xy: 1978, 210
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+dragon_party_baby_tail
+  rotate: false
+  xy: 1783, 222
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+dragon_party_effect_e_b2
+  rotate: false
+  xy: 788, 2
+  size: 206, 46
+  orig: 320, 220
+  offset: 63, 34
+  index: -1
+dragon_party_adult_high
+  rotate: true
+  xy: 1865, 125
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+dragon_party_effect_b3
+  rotate: false
+  xy: 510, 76
+  size: 183, 143
+  orig: 183, 147
+  offset: 0, 0
+  index: -1
+dragon_party_adult_eye
+  rotate: true
+  xy: 1987, 263
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+dragon_party_child_arm1a
+  rotate: true
+  xy: 86, 257
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+dragon_party_adult_neck
+  rotate: false
+  xy: 1748, 223
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+dragon_party_effect_e1
+  rotate: false
+  xy: 1905, 2
+  size: 103, 135
+  orig: 137, 137
+  offset: 18, 0
+  index: -1
+dragon_party_adult_lace
+  rotate: true
+  xy: 1117, 154
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+dragon_party_effect_c1
+  rotate: false
+  xy: 1030, 233
+  size: 51, 51
+  orig: 63, 59
+  offset: 8, 8
+  index: -1
+dragon_party_child_leg2
+  rotate: false
+  xy: 1837, 204
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+dragon_party_adult_ear1
+  rotate: true
+  xy: 695, 224
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+dragon_party_adult_angryeye
+  rotate: false
+  xy: 2000, 263
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+dragon_party_baby_ribbon
+  rotate: false
+  xy: 1628, 264
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+dragon_party_baby_body
+  rotate: false
+  xy: 1083, 233
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+dragon_party_effect_e2
+  rotate: false
+  xy: 1782, 2
+  size: 121, 121
+  orig: 137, 137
+  offset: 0, 5
+  index: -1
+dragon_party_effect_a33
+  rotate: true
+  xy: 843, 50
+  size: 166, 151
+  orig: 166, 167
+  offset: 0, 16
+  index: -1
+dragon_party_adult_head
+  rotate: false
+  xy: 1638, 141
+  size: 69, 41
+  orig: 69, 41
+  offset: 0, 0
+  index: -1
+dragon_party_adult_neck2
+  rotate: true
+  xy: 1397, 139
+  size: 68, 83
+  orig: 68, 83
+  offset: 0, 0
+  index: -1
+dragon_party_effect_c2
+  rotate: false
+  xy: 977, 233
+  size: 51, 51
+  orig: 63, 59
+  offset: 8, 8
+  index: -1
+dragon_party_adult_mouth
+  rotate: false
+  xy: 843, 218
+  size: 43, 13
+  orig: 43, 13
+  offset: 0, 0
+  index: -1
+dragon_party_adult_tail1
+  rotate: true
+  xy: 243, 177
+  size: 107, 86
+  orig: 107, 86
+  offset: 0, 0
+  index: -1
+dragon_party_child_leg6
+  rotate: true
+  xy: 185, 257
+  size: 26, 53
+  orig: 26, 53
+  offset: 0, 0
+  index: -1
+dragon_party_baby_leg1
+  rotate: false
+  xy: 1904, 199
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+dragon_party_adult_ribbon3
+  rotate: true
+  xy: 1780, 167
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+dragon_party_adult_lovehead
+  rotate: true
+  xy: 1981, 139
+  size: 69, 41
+  orig: 69, 41
+  offset: 0, 0
+  index: -1
+dragon_party_child_lace
+  rotate: false
+  xy: 788, 50
+  size: 45, 24
+  orig: 45, 24
+  offset: 0, 0
+  index: -1
+dragon_party_adult_leg2
+  rotate: false
+  xy: 1865, 156
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+dragon_party_child_ribbon1
+  rotate: true
+  xy: 1547, 199
+  size: 61, 35
+  orig: 61, 35
+  offset: 0, 0
+  index: -1
+dragon_party_effect_e_spark1
+  rotate: false
+  xy: 243, 2
+  size: 265, 173
+  orig: 287, 203
+  offset: 21, 15
+  index: -1
+dragon_party_adult_arm3
+  rotate: false
+  xy: 486, 255
+  size: 50, 29
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+dragon_party_effect_r4
+  rotate: true
+  xy: 1902, 239
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+dragon_party_baby_mouth
+  rotate: false
+  xy: 1824, 267
+  size: 41, 17
+  orig: 47, 17
+  offset: 0, 0
+  index: -1
+dragon_party_child_ear2
+  rotate: true
+  xy: 1824, 222
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+dragon_party_effect_a1
+  rotate: false
+  xy: 695, 76
+  size: 146, 146
+  orig: 164, 166
+  offset: 11, 0
+  index: -1
+dragon_party_effect_e_b1
+  rotate: false
+  xy: 486, 221
+  size: 148, 32
+  orig: 320, 220
+  offset: 91, 43
+  index: -1
+dragon_party_child_head
+  rotate: true
+  xy: 1487, 210
+  size: 74, 58
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+dragon_party_child_arm1lace
+  rotate: false
+  xy: 1900, 267
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+dragon_party_effect_e_cc03
+  rotate: false
+  xy: 2, 2
+  size: 239, 253
+  orig: 241, 257
+  offset: 2, 3
+  index: -1
+dragon_party_effect_a2
+  rotate: false
+  xy: 1493, 2
+  size: 148, 134
+  orig: 164, 166
+  offset: 7, 14
+  index: -1
+dragon_party_child_leg3
+  rotate: true
+  xy: 1867, 267
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+dragon_party_baby_leg2
+  rotate: false
+  xy: 1117, 197
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+dragon_party_effect_e3
+  rotate: false
+  xy: 1643, 2
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+dragon_party_baby_heart
+  rotate: false
+  xy: 1584, 211
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1

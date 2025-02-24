@@ -1,0 +1,193 @@
+18_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_wolfw_groggy_n2
+  rotate: false
+  xy: 1053, 2
+  size: 84, 38
+  orig: 178, 86
+  offset: 43, 19
+  index: -1
+m_wolfw_ear1
+  rotate: true
+  xy: 680, 176
+  size: 72, 95
+  orig: 72, 95
+  offset: 0, 0
+  index: -1
+m_wolfw_groggy_body1
+  rotate: true
+  xy: 1001, 2
+  size: 86, 50
+  orig: 122, 110
+  offset: 0, 23
+  index: -1
+m_wolfw_groggy_arm2
+  rotate: false
+  xy: 1053, 42
+  size: 69, 57
+  orig: 91, 63
+  offset: 9, 3
+  index: -1
+m_wolfw_leg1
+  rotate: true
+  xy: 1022, 101
+  size: 51, 68
+  orig: 57, 68
+  offset: 0, 0
+  index: -1
+m_wolfw_hand2
+  rotate: true
+  xy: 550, 188
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+m_wolfw_n1
+  rotate: true
+  xy: 777, 176
+  size: 72, 38
+  orig: 178, 86
+  offset: 106, 0
+  index: -1
+m_wolfw_groggy_tail
+  rotate: true
+  xy: 662, 2
+  size: 172, 140
+  orig: 274, 198
+  offset: 102, 58
+  index: -1
+m_wolfw_foot2
+  rotate: false
+  xy: 190, 216
+  size: 68, 33
+  orig: 68, 33
+  offset: 0, 0
+  index: -1
+m_wolfw_mouth
+  rotate: true
+  xy: 817, 146
+  size: 107, 91
+  orig: 107, 91
+  offset: 0, 0
+  index: -1
+m_wolfw_n2
+  rotate: true
+  xy: 804, 2
+  size: 142, 70
+  orig: 178, 86
+  offset: 0, 16
+  index: -1
+m_wolfw_groggy_sk
+  rotate: false
+  xy: 1092, 153
+  size: 57, 46
+  orig: 67, 58
+  offset: 1, 5
+  index: -1
+m_wolfw_head
+  rotate: true
+  xy: 2, 2
+  size: 228, 186
+  orig: 228, 200
+  offset: 0, 0
+  index: -1
+m_wolfw_arm2
+  rotate: false
+  xy: 457, 188
+  size: 91, 63
+  orig: 91, 63
+  offset: 0, 0
+  index: -1
+m_wolfw_foot1
+  rotate: true
+  xy: 1091, 201
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+m_wolfw_groggy_head
+  rotate: true
+  xy: 190, 2
+  size: 212, 198
+  orig: 228, 200
+  offset: 5, 2
+  index: -1
+m_wolfw_body2
+  rotate: true
+  xy: 876, 2
+  size: 125, 66
+  orig: 125, 66
+  offset: 0, 0
+  index: -1
+m_wolfw_sk
+  rotate: true
+  xy: 620, 188
+  size: 61, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+m_wolfw_tail
+  rotate: false
+  xy: 390, 2
+  size: 270, 184
+  orig: 274, 198
+  offset: 0, 0
+  index: -1
+m_wolfw_groggy_hand2
+  rotate: true
+  xy: 2, 232
+  size: 21, 32
+  orig: 63, 68
+  offset: 18, 12
+  index: -1
+m_wolfw_groggy_leg1
+  rotate: true
+  xy: 1022, 210
+  size: 43, 54
+  orig: 57, 68
+  offset: 14, 0
+  index: -1
+m_wolfw_ear2
+  rotate: false
+  xy: 944, 2
+  size: 55, 86
+  orig: 55, 86
+  offset: 0, 0
+  index: -1
+m_wolfw_groggy_ear1
+  rotate: true
+  xy: 1022, 154
+  size: 54, 67
+  orig: 72, 95
+  offset: 8, 28
+  index: -1
+m_wolfw_arm1
+  rotate: false
+  xy: 1092, 101
+  size: 61, 50
+  orig: 61, 50
+  offset: 0, 0
+  index: -1
+m_wolfw_body1
+  rotate: true
+  xy: 910, 129
+  size: 122, 110
+  orig: 122, 110
+  offset: 0, 0
+  index: -1
+m_wolfw_leg2
+  rotate: false
+  xy: 390, 188
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+m_wolfw_eye
+  rotate: false
+  xy: 260, 216
+  size: 96, 28
+  orig: 228, 200
+  offset: 89, 57
+  index: -1

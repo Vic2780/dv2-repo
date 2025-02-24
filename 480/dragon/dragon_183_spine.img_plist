@@ -1,0 +1,368 @@
+dragon_183_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_marino_baby_eye
+  rotate: true
+  xy: 1206, 210
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+dragon_marino_child_head
+  rotate: false
+  xy: 417, 210
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+dragon_marino_child_smile
+  rotate: false
+  xy: 1889, 164
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_marino_adult_tail1
+  rotate: true
+  xy: 1440, 180
+  size: 71, 47
+  orig: 71, 47
+  offset: 0, 0
+  index: -1
+dragon_marino_adult_leg2
+  rotate: false
+  xy: 757, 210
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+dragon_marino_child_love
+  rotate: false
+  xy: 365, 210
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+dragon_marino_critical02
+  rotate: false
+  xy: 2, 2
+  size: 279, 212
+  orig: 413, 218
+  offset: 29, 6
+  index: -1
+dragon_marino_adult_neck
+  rotate: true
+  xy: 1913, 2
+  size: 50, 81
+  orig: 50, 81
+  offset: 0, 0
+  index: -1
+dragon_marino_adult_mouth
+  rotate: false
+  xy: 1131, 239
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+dragon_marino_child_leg1
+  rotate: false
+  xy: 1131, 210
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+dragon_marino_adult_damaged
+  rotate: true
+  xy: 890, 210
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+dragon_marino_adult_tail2
+  rotate: false
+  xy: 469, 210
+  size: 83, 43
+  orig: 83, 43
+  offset: 0, 0
+  index: -1
+dragon_marino_adult_body
+  rotate: true
+  xy: 1836, 2
+  size: 124, 75
+  orig: 124, 75
+  offset: 0, 0
+  index: -1
+dragon_marino_adult_leg1
+  rotate: true
+  xy: 1008, 210
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+dragon_marino_critical03
+  rotate: false
+  xy: 1109, 2
+  size: 329, 206
+  orig: 413, 218
+  offset: 38, 3
+  index: -1
+dragon_marino_adult_arm3
+  rotate: false
+  xy: 1057, 210
+  size: 72, 31
+  orig: 72, 31
+  offset: 0, 0
+  index: -1
+dragon_marino_adult_head
+  rotate: true
+  xy: 871, 210
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+dragon_marino_critical01
+  rotate: false
+  xy: 1440, 2
+  size: 279, 176
+  orig: 413, 218
+  offset: 40, 0
+  index: -1
+dragon_marino_adult_tail3
+  rotate: true
+  xy: 928, 210
+  size: 32, 78
+  orig: 32, 78
+  offset: 0, 0
+  index: -1
+dragon_marino_adult_love
+  rotate: true
+  xy: 852, 210
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+dragon_marino_baby_leg
+  rotate: false
+  xy: 1156, 210
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_marino_adult_eye
+  rotate: false
+  xy: 928, 244
+  size: 14, 9
+  orig: 14, 11
+  offset: 0, 2
+  index: -1
+dragon_marino_child_arm1
+  rotate: false
+  xy: 722, 210
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+dragon_marino_child_mouth
+  rotate: true
+  xy: 282, 216
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+dragon_marino_adult_fin
+  rotate: true
+  xy: 1807, 143
+  size: 89, 80
+  orig: 89, 80
+  offset: 0, 0
+  index: -1
+dragon_marino_adult_wing
+  rotate: true
+  xy: 1721, 2
+  size: 139, 113
+  orig: 139, 113
+  offset: 0, 0
+  index: -1
+dragon_marino_adult_tail4
+  rotate: false
+  xy: 1913, 54
+  size: 76, 56
+  orig: 76, 56
+  offset: 0, 0
+  index: -1
+dragon_marino_adult_leg3
+  rotate: false
+  xy: 1247, 210
+  size: 50, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+dragon_marino_baby_heart
+  rotate: false
+  xy: 804, 210
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_marino_baby_body
+  rotate: true
+  xy: 1647, 180
+  size: 66, 53
+  orig: 66, 53
+  offset: 0, 0
+  index: -1
+dragon_marino_baby_fin
+  rotate: false
+  xy: 2, 216
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+dragon_marino_child_leg2
+  rotate: true
+  xy: 1184, 210
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+dragon_marino_baby_mouth
+  rotate: true
+  xy: 626, 210
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+dragon_marino_baby_tail2
+  rotate: true
+  xy: 1948, 164
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dragon_marino_child_tail1
+  rotate: true
+  xy: 1489, 180
+  size: 69, 107
+  orig: 69, 107
+  offset: 0, 0
+  index: -1
+dragon_marino_child_fin
+  rotate: true
+  xy: 1702, 180
+  size: 63, 47
+  orig: 63, 47
+  offset: 0, 0
+  index: -1
+dragon_marino_adult_attack
+  rotate: true
+  xy: 909, 210
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+dragon_marino_critical04
+  rotate: false
+  xy: 283, 2
+  size: 413, 206
+  orig: 413, 218
+  offset: 0, 4
+  index: -1
+dragon_marino_adult_arm2
+  rotate: false
+  xy: 1913, 112
+  size: 75, 49
+  orig: 75, 49
+  offset: 0, 0
+  index: -1
+dragon_marino_baby_tail1
+  rotate: false
+  xy: 1598, 180
+  size: 47, 67
+  orig: 47, 67
+  offset: 0, 0
+  index: -1
+dragon_marino_child_tail2
+  rotate: false
+  xy: 661, 210
+  size: 59, 42
+  orig: 59, 42
+  offset: 0, 0
+  index: -1
+dragon_marino_baby_arm
+  rotate: false
+  xy: 46, 216
+  size: 52, 37
+  orig: 52, 37
+  offset: 0, 0
+  index: -1
+dragon_marino_child_wing
+  rotate: false
+  xy: 313, 210
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+dragon_marino_baby_love
+  rotate: true
+  xy: 1991, 54
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+dragon_marino_child_neck
+  rotate: true
+  xy: 554, 210
+  size: 43, 70
+  orig: 43, 70
+  offset: 0, 0
+  index: -1
+dragon_marino_child_body
+  rotate: true
+  xy: 1751, 143
+  size: 93, 54
+  orig: 93, 54
+  offset: 0, 0
+  index: -1
+dragon_marino_baby_head
+  rotate: true
+  xy: 1991, 109
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+dragon_marino_adult_question
+  rotate: true
+  xy: 100, 216
+  size: 35, 65
+  orig: 39, 67
+  offset: 2, 2
+  index: -1
+dragon_marino_child_arm2
+  rotate: false
+  xy: 231, 216
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+dragon_marino_child_eye
+  rotate: true
+  xy: 1226, 210
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+dragon_marino_critical05
+  rotate: false
+  xy: 698, 2
+  size: 409, 206
+  orig: 413, 218
+  offset: 4, 2
+  index: -1
+dragon_marino_adult_arm1
+  rotate: true
+  xy: 167, 216
+  size: 35, 62
+  orig: 35, 62
+  offset: 0, 0
+  index: -1

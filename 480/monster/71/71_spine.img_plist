@@ -1,0 +1,179 @@
+71_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_elight_groggybody2
+  rotate: true
+  xy: 602, 1567
+  size: 229, 169
+  orig: 253, 195
+  offset: 15, 12
+  index: -1
+m_elight_groggyarm2
+  rotate: true
+  xy: 2, 1211
+  size: 260, 419
+  orig: 278, 439
+  offset: 14, 15
+  index: -1
+m_elight_leg
+  rotate: false
+  xy: 2, 2
+  size: 768, 162
+  orig: 768, 200
+  offset: 0, 26
+  index: -1
+m_elight_groggyhead1
+  rotate: true
+  xy: 704, 1137
+  size: 210, 63
+  orig: 230, 91
+  offset: 14, 12
+  index: -1
+m_elight_head1
+  rotate: false
+  xy: 444, 480
+  size: 281, 90
+  orig: 299, 126
+  offset: 11, 18
+  index: -1
+m_elight_body1
+  rotate: true
+  xy: 461, 1706
+  size: 218, 135
+  orig: 236, 173
+  offset: 5, 17
+  index: -1
+m_elight_eye
+  rotate: false
+  xy: 444, 572
+  size: 280, 96
+  orig: 286, 98
+  offset: 6, 0
+  index: -1
+m_elight_groggywing2
+  rotate: false
+  xy: 461, 1926
+  size: 94, 100
+  orig: 146, 148
+  offset: 21, 21
+  index: -1
+m_elight_groggybody3
+  rotate: false
+  xy: 444, 670
+  size: 277, 200
+  orig: 297, 224
+  offset: 11, 13
+  index: -1
+m_elight_groggyhead2
+  rotate: false
+  xy: 427, 1005
+  size: 330, 130
+  orig: 378, 154
+  offset: 27, 10
+  index: -1
+m_elight_wing3
+  rotate: false
+  xy: 727, 480
+  size: 28, 181
+  orig: 64, 209
+  offset: 20, 13
+  index: -1
+m_elight_groggymause
+  rotate: false
+  xy: 451, 323
+  size: 303, 155
+  orig: 313, 171
+  offset: 7, 9
+  index: -1
+m_elight_groggywing1
+  rotate: true
+  xy: 2, 1720
+  size: 254, 230
+  orig: 254, 230
+  offset: 0, 0
+  index: -1
+m_elight_mause
+  rotate: false
+  xy: 451, 166
+  size: 303, 155
+  orig: 353, 215
+  offset: 38, 36
+  index: -1
+m_elight_groggyhead3
+  rotate: false
+  xy: 2, 422
+  size: 440, 276
+  orig: 460, 308
+  offset: 14, 14
+  index: -1
+m_elight_head3
+  rotate: false
+  xy: 2, 166
+  size: 447, 254
+  orig: 481, 294
+  offset: 18, 28
+  index: -1
+m_elight_wing2
+  rotate: true
+  xy: 234, 1720
+  size: 254, 225
+  orig: 254, 241
+  offset: 0, 16
+  index: -1
+m_elight_body3
+  rotate: false
+  xy: 427, 1137
+  size: 275, 201
+  orig: 287, 243
+  offset: 6, 20
+  index: -1
+m_elight_arm1
+  rotate: true
+  xy: 2, 963
+  size: 246, 423
+  orig: 260, 437
+  offset: 0, 11
+  index: -1
+m_elight_groggyarm1
+  rotate: true
+  xy: 2, 1473
+  size: 245, 377
+  orig: 249, 389
+  offset: 0, 10
+  index: -1
+m_elight_groggybody1
+  rotate: false
+  xy: 381, 1567
+  size: 219, 137
+  orig: 233, 173
+  offset: 7, 18
+  index: -1
+m_elight_head2
+  rotate: false
+  xy: 429, 872
+  size: 330, 131
+  orig: 372, 155
+  offset: 27, 6
+  index: -1
+m_elight_wing1
+  rotate: false
+  xy: 423, 1340
+  size: 272, 225
+  orig: 272, 225
+  offset: 0, 0
+  index: -1
+m_elight_body2
+  rotate: true
+  xy: 598, 1798
+  size: 229, 169
+  orig: 253, 207
+  offset: 15, 18
+  index: -1
+m_elight_arm2
+  rotate: true
+  xy: 2, 700
+  size: 261, 425
+  orig: 265, 455
+  offset: 0, 28
+  index: -1

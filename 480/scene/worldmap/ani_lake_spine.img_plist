@@ -1,0 +1,11 @@
+ani_lake_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+worldmap_lake01
+  rotate: true
+  xy: 2, 2
+  size: 104, 79
+  orig: 110, 85
+  offset: 3, 3
+  index: -1

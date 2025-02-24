@@ -1,0 +1,256 @@
+38_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_bcave_drop2
+  rotate: true
+  xy: 298, 1097
+  size: 18, 21
+  orig: 40, 59
+  offset: 15, 9
+  index: -1
+m_bcave_groggyhead2
+  rotate: true
+  xy: 184, 871
+  size: 158, 127
+  orig: 218, 161
+  offset: 33, 14
+  index: -1
+m_bcave_leg2
+  rotate: false
+  xy: 298, 1117
+  size: 45, 34
+  orig: 69, 40
+  offset: 12, 6
+  index: -1
+m_bcave_groggylight
+  rotate: true
+  xy: 2, 1091
+  size: 58, 143
+  orig: 108, 149
+  offset: 29, 0
+  index: -1
+m_bcave_groggyarm1
+  rotate: false
+  xy: 460, 469
+  size: 29, 88
+  orig: 83, 104
+  offset: 37, 8
+  index: -1
+m_bcave_body2
+  rotate: false
+  xy: 2, 391
+  size: 125, 323
+  orig: 179, 343
+  offset: 26, 7
+  index: -1
+m_bcave_bone
+  rotate: false
+  xy: 2, 716
+  size: 138, 186
+  orig: 180, 196
+  offset: 24, 5
+  index: -1
+m_bcave_groggyhand
+  rotate: false
+  xy: 441, 759
+  size: 62, 80
+  orig: 94, 118
+  offset: 22, 13
+  index: -1
+m_bcave_head1
+  rotate: true
+  xy: 2, 904
+  size: 185, 180
+  orig: 205, 216
+  offset: 17, 12
+  index: -1
+m_bcave_leg1
+  rotate: false
+  xy: 313, 973
+  size: 94, 52
+  orig: 112, 62
+  offset: 8, 7
+  index: -1
+m_bcave_drop1
+  rotate: false
+  xy: 147, 1097
+  size: 74, 54
+  orig: 98, 68
+  offset: 10, 5
+  index: -1
+m_bcave_tailwater
+  rotate: true
+  xy: 490, 944
+  size: 71, 13
+  orig: 73, 37
+  offset: 0, 12
+  index: -1
+m_bcave_groggyarm2
+  rotate: false
+  xy: 289, 704
+  size: 99, 129
+  orig: 139, 149
+  offset: 25, 11
+  index: -1
+m_bcave_body1
+  rotate: false
+  xy: 2, 2
+  size: 201, 387
+  orig: 243, 411
+  offset: 18, 7
+  index: -1
+m_bcave_groggymause
+  rotate: true
+  xy: 313, 835
+  size: 136, 70
+  orig: 168, 94
+  offset: 14, 15
+  index: -1
+m_bcave_groggydrop1
+  rotate: false
+  xy: 223, 1097
+  size: 73, 54
+  orig: 121, 84
+  offset: 35, 16
+  index: -1
+m_bcave_hand
+  rotate: true
+  xy: 418, 1079
+  size: 36, 70
+  orig: 58, 86
+  offset: 7, 6
+  index: -1
+m_bcave_arm2
+  rotate: false
+  xy: 327, 1027
+  size: 89, 76
+  orig: 125, 86
+  offset: 24, 2
+  index: -1
+m_bcave_light1
+  rotate: true
+  xy: 305, 630
+  size: 72, 139
+  orig: 114, 149
+  offset: 30, 0
+  index: -1
+m_bcave_groggydrop2
+  rotate: false
+  xy: 142, 871
+  size: 19, 20
+  orig: 35, 42
+  offset: 4, 10
+  index: -1
+m_bcave_groggytail
+  rotate: false
+  xy: 399, 221
+  size: 99, 153
+  orig: 131, 183
+  offset: 12, 12
+  index: -1
+m_bcave_mause
+  rotate: true
+  xy: 418, 944
+  size: 133, 70
+  orig: 167, 80
+  offset: 23, 1
+  index: -1
+m_bcave_arm1
+  rotate: false
+  xy: 460, 376
+  size: 30, 91
+  orig: 54, 113
+  offset: 12, 3
+  index: -1
+m_bcave_groggybody1
+  rotate: true
+  xy: 205, 2
+  size: 217, 298
+  orig: 259, 330
+  offset: 9, 12
+  index: -1
+m_bcave_groggyleg1
+  rotate: true
+  xy: 390, 704
+  size: 98, 49
+  orig: 120, 75
+  offset: 17, 9
+  index: -1
+m_bcave_light2
+  rotate: false
+  xy: 385, 841
+  size: 105, 101
+  orig: 137, 111
+  offset: 16, 0
+  index: -1
+m_bcave_body3water
+  rotate: true
+  xy: 492, 841
+  size: 78, 11
+  orig: 86, 43
+  offset: 8, 15
+  index: -1
+m_bcave_groggybone
+  rotate: false
+  xy: 307, 386
+  size: 151, 169
+  orig: 197, 201
+  offset: 32, 8
+  index: -1
+m_bcave_groggyhead1
+  rotate: true
+  xy: 129, 391
+  size: 181, 176
+  orig: 223, 206
+  offset: 27, 7
+  index: -1
+m_bcave_tail
+  rotate: false
+  xy: 446, 630
+  size: 57, 127
+  orig: 57, 127
+  offset: 0, 0
+  index: -1
+m_bcave_body3
+  rotate: true
+  xy: 129, 574
+  size: 117, 174
+  orig: 149, 208
+  offset: 2, 21
+  index: -1
+m_bcave_eye
+  rotate: false
+  xy: 184, 1031
+  size: 141, 64
+  orig: 177, 86
+  offset: 22, 10
+  index: -1
+m_bcave_groggyeye
+  rotate: false
+  xy: 307, 557
+  size: 143, 71
+  orig: 191, 101
+  offset: 36, 19
+  index: -1
+m_bcave_groggybody2
+  rotate: true
+  xy: 205, 221
+  size: 163, 192
+  orig: 221, 230
+  offset: 42, 1
+  index: -1
+m_bcave_groggyleg2
+  rotate: false
+  xy: 390, 804
+  size: 38, 33
+  orig: 56, 57
+  offset: 10, 13
+  index: -1
+m_bcave_head2
+  rotate: true
+  xy: 142, 693
+  size: 176, 145
+  orig: 194, 159
+  offset: 8, 10
+  index: -1

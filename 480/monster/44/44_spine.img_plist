@@ -1,0 +1,242 @@
+44_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_ccristal_body1
+  rotate: false
+  xy: 295, 354
+  size: 182, 156
+  orig: 182, 158
+  offset: 0, 2
+  index: -1
+m_ccristal_groggyneck
+  rotate: false
+  xy: 873, 417
+  size: 122, 83
+  orig: 126, 83
+  offset: 1, 0
+  index: -1
+m_ccristal_hand1
+  rotate: false
+  xy: 1095, 194
+  size: 66, 144
+  orig: 76, 148
+  offset: 3, 3
+  index: -1
+m_ccristal_neck
+  rotate: true
+  xy: 837, 169
+  size: 137, 94
+  orig: 137, 94
+  offset: 0, 0
+  index: -1
+m_ccristal_smoke3
+  rotate: true
+  xy: 124, 2
+  size: 441, 142
+  orig: 441, 142
+  offset: 0, 0
+  index: -1
+m_ccristal_arm31
+  rotate: false
+  xy: 264, 445
+  size: 29, 59
+  orig: 29, 59
+  offset: 0, 0
+  index: -1
+m_ccristal_groggyhead
+  rotate: true
+  xy: 479, 354
+  size: 151, 158
+  orig: 151, 158
+  offset: 0, 0
+  index: -1
+m_ccristal_piece1
+  rotate: true
+  xy: 788, 2
+  size: 305, 47
+  orig: 307, 47
+  offset: 2, 0
+  index: -1
+m_ccristal_arm12
+  rotate: false
+  xy: 1093, 340
+  size: 67, 99
+  orig: 71, 99
+  offset: 4, 0
+  index: -1
+m_ccristal_groggyarm11
+  rotate: false
+  xy: 977, 344
+  size: 32, 70
+  orig: 32, 74
+  offset: 0, 2
+  index: -1
+m_ccristal_arm4
+  rotate: false
+  xy: 639, 311
+  size: 58, 198
+  orig: 58, 202
+  offset: 0, 0
+  index: -1
+m_ccristal_body2
+  rotate: true
+  xy: 560, 2
+  size: 307, 226
+  orig: 309, 226
+  offset: 2, 0
+  index: -1
+m_ccristal_groggyeye
+  rotate: true
+  xy: 837, 2
+  size: 110, 33
+  orig: 110, 33
+  offset: 0, 0
+  index: -1
+m_ccristal_groggyarm2
+  rotate: true
+  xy: 1011, 344
+  size: 30, 66
+  orig: 30, 70
+  offset: 0, 0
+  index: -1
+m_ccristal_hand2
+  rotate: false
+  xy: 1104, 2
+  size: 45, 110
+  orig: 45, 110
+  offset: 0, 0
+  index: -1
+m_ccristal_head
+  rotate: true
+  xy: 873, 2
+  size: 165, 229
+  orig: 167, 231
+  offset: 0, 0
+  index: -1
+m_ccristal_eyelight
+  rotate: true
+  xy: 873, 308
+  size: 107, 32
+  orig: 107, 32
+  offset: 0, 0
+  index: -1
+m_ccristal_arm32
+  rotate: true
+  xy: 997, 441
+  size: 66, 140
+  orig: 66, 140
+  offset: 0, 0
+  index: -1
+m_ccristal_groggyarm31
+  rotate: false
+  xy: 560, 311
+  size: 19, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+m_ccristal_groggyarm12
+  rotate: false
+  xy: 581, 311
+  size: 55, 37
+  orig: 57, 37
+  offset: 2, 0
+  index: -1
+m_ccristal_groggyhair11
+  rotate: false
+  xy: 816, 487
+  size: 33, 18
+  orig: 37, 18
+  offset: 3, 0
+  index: -1
+m_ccristal_hair11
+  rotate: false
+  xy: 209, 445
+  size: 53, 63
+  orig: 53, 63
+  offset: 0, 0
+  index: -1
+m_ccristal_body3
+  rotate: true
+  xy: 2, 2
+  size: 453, 120
+  orig: 459, 122
+  offset: 6, 0
+  index: -1
+m_ccristal_eye
+  rotate: true
+  xy: 268, 354
+  size: 87, 15
+  orig: 87, 15
+  offset: 0, 0
+  index: -1
+m_ccristal_groggyarm32
+  rotate: false
+  xy: 1104, 114
+  size: 43, 78
+  orig: 45, 84
+  offset: 0, 2
+  index: -1
+m_ccristal_smoke1
+  rotate: true
+  xy: 268, 2
+  size: 350, 213
+  orig: 350, 213
+  offset: 0, 0
+  index: -1
+m_ccristal_groggybody2
+  rotate: true
+  xy: 699, 311
+  size: 191, 115
+  orig: 191, 115
+  offset: 0, 0
+  index: -1
+m_ccristal_ball
+  rotate: true
+  xy: 933, 169
+  size: 140, 160
+  orig: 144, 166
+  offset: 4, 6
+  index: -1
+m_ccristal_arm2
+  rotate: false
+  xy: 816, 309
+  size: 55, 176
+  orig: 55, 176
+  offset: 0, 0
+  index: -1
+m_ccristal_hair12
+  rotate: true
+  xy: 907, 340
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+m_ccristal_groggyarm4
+  rotate: true
+  xy: 483, 336
+  size: 15, 49
+  orig: 21, 51
+  offset: 2, 2
+  index: -1
+m_ccristal_smoke2
+  rotate: false
+  xy: 2, 457
+  size: 205, 53
+  orig: 207, 53
+  offset: 0, 0
+  index: -1
+m_ccristal_piece2
+  rotate: true
+  xy: 483, 2
+  size: 332, 75
+  orig: 332, 77
+  offset: 0, 0
+  index: -1
+m_ccristal_arm11
+  rotate: true
+  xy: 997, 311
+  size: 31, 94
+  orig: 31, 94
+  offset: 0, 0
+  index: -1

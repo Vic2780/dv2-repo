@@ -1,0 +1,627 @@
+dragon_4052_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_frostraptor_adult_neck
+  rotate: true
+  xy: 372, 1186
+  size: 61, 103
+  orig: 61, 103
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_e_bress1
+  rotate: true
+  xy: 476, 39
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_e_leg1
+  rotate: false
+  xy: 436, 1777
+  size: 39, 68
+  orig: 39, 68
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_e_leg1a
+  rotate: false
+  xy: 441, 1687
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_e_arm1a
+  rotate: false
+  xy: 383, 675
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_e_wing2
+  rotate: true
+  xy: 422, 642
+  size: 167, 77
+  orig: 167, 77
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_child_head1
+  rotate: true
+  xy: 298, 1863
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_baby_head1
+  rotate: false
+  xy: 188, 1863
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_adult_arm1
+  rotate: false
+  xy: 383, 854
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_e_leg4
+  rotate: false
+  xy: 460, 427
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_e_mouth1
+  rotate: false
+  xy: 383, 898
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_baby_leg1
+  rotate: false
+  xy: 476, 186
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_baby_heart
+  rotate: false
+  xy: 441, 1736
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_adult_head1
+  rotate: false
+  xy: 396, 1863
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_child_wing2
+  rotate: false
+  xy: 67, 1295
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_adult_wing2
+  rotate: true
+  xy: 422, 642
+  size: 167, 77
+  orig: 167, 77
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_baby_wing
+  rotate: true
+  xy: 476, 76
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_e_eye
+  rotate: false
+  xy: 478, 628
+  size: 10, 10
+  orig: 12, 12
+  offset: 1, 1
+  index: -1
+dragon_frostraptor_baby_leg2
+  rotate: false
+  xy: 476, 277
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_child_leg3
+  rotate: false
+  xy: 383, 808
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_child_body
+  rotate: false
+  xy: 402, 1295
+  size: 77, 51
+  orig: 77, 55
+  offset: 0, 4
+  index: -1
+dragon_frostrapter_e_critical_round
+  rotate: false
+  xy: 188, 1615
+  size: 246, 246
+  orig: 246, 246
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_e_neck
+  rotate: true
+  xy: 372, 1012
+  size: 61, 123
+  orig: 61, 123
+  offset: 0, 0
+  index: -1
+dragon_frostrapter_critical_att
+  rotate: false
+  xy: 486, 1075
+  size: 15, 330
+  orig: 15, 332
+  offset: 0, 2
+  index: -1
+dragon_frostraptor_adult_eye
+  rotate: false
+  xy: 478, 628
+  size: 10, 10
+  orig: 12, 12
+  offset: 1, 1
+  index: -1
+dragon_frostraptor_child_eye
+  rotate: false
+  xy: 460, 628
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_e_head1
+  rotate: true
+  xy: 436, 1615
+  size: 70, 62
+  orig: 70, 62
+  offset: 0, 0
+  index: -1
+dragon_frostrapter_critical_dmg
+  rotate: true
+  xy: 2, 2
+  size: 386, 472
+  orig: 390, 476
+  offset: 1, 2
+  index: -1
+dragon_frostraptor_e_tail
+  rotate: true
+  xy: 417, 811
+  size: 132, 81
+  orig: 132, 81
+  offset: 0, 0
+  index: -1
+dragon_frostrapter_critical_round
+  rotate: false
+  xy: 188, 1615
+  size: 246, 246
+  orig: 246, 246
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_e_bress2
+  rotate: false
+  xy: 383, 704
+  size: 35, 15
+  orig: 35, 15
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_adult_leg3
+  rotate: false
+  xy: 422, 575
+  size: 36, 65
+  orig: 36, 65
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_e_head2
+  rotate: true
+  xy: 372, 926
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_adult_bress1
+  rotate: true
+  xy: 476, 39
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_e_arm3
+  rotate: false
+  xy: 366, 1374
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_adult_wing1
+  rotate: false
+  xy: 233, 1295
+  size: 167, 77
+  orig: 167, 77
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_child_wing1
+  rotate: false
+  xy: 150, 1295
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_e_necka
+  rotate: true
+  xy: 460, 390
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_adult_ice
+  rotate: false
+  xy: 129, 1386
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_child_leg2
+  rotate: false
+  xy: 98, 1386
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_baby_eye
+  rotate: false
+  xy: 476, 257
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_child_arm3
+  rotate: false
+  xy: 476, 305
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+dragon_frostrapter_e_critical_smog
+  rotate: false
+  xy: 2, 675
+  size: 379, 234
+  orig: 395, 250
+  offset: 5, 10
+  index: -1
+dragon_frostraptor_adult_leg2
+  rotate: true
+  xy: 476, 148
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_e_leg3
+  rotate: false
+  xy: 422, 575
+  size: 36, 65
+  orig: 36, 65
+  offset: 0, 0
+  index: -1
+dragon_frostrapter_e_critical_cloud1
+  rotate: false
+  xy: 2, 390
+  size: 456, 183
+  orig: 458, 183
+  offset: 1, 0
+  index: -1
+dragon_frostraptor_e_body
+  rotate: true
+  xy: 2, 1295
+  size: 95, 63
+  orig: 95, 63
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_e_ice
+  rotate: false
+  xy: 129, 1386
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_e_arm2
+  rotate: false
+  xy: 293, 1374
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+dragon_frostrapter_e_critical_ice
+  rotate: true
+  xy: 233, 1374
+  size: 29, 58
+  orig: 35, 60
+  offset: 3, 1
+  index: -1
+dragon_frostraptor_adult_tail
+  rotate: false
+  xy: 372, 945
+  size: 129, 65
+  orig: 129, 65
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_adult_mouth2
+  rotate: false
+  xy: 476, 323
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_child_arm2
+  rotate: false
+  xy: 476, 339
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+dragon_frostrapter_critical_cloud2
+  rotate: false
+  xy: 2, 1099
+  size: 368, 186
+  orig: 368, 186
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_child_leg1
+  rotate: false
+  xy: 383, 721
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_adult_leg1
+  rotate: false
+  xy: 436, 1777
+  size: 39, 68
+  orig: 39, 68
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_e_leg2
+  rotate: true
+  xy: 476, 148
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+dragon_frostrapter_e_critical_cloud2
+  rotate: false
+  xy: 2, 911
+  size: 368, 186
+  orig: 368, 186
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_adult_body
+  rotate: true
+  xy: 2, 1295
+  size: 95, 63
+  orig: 95, 63
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_child_head3
+  rotate: true
+  xy: 248, 1863
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+dragon_frostrapter_critical_ice
+  rotate: true
+  xy: 233, 1374
+  size: 29, 58
+  orig: 35, 60
+  offset: 3, 1
+  index: -1
+dragon_frostraptor_e_mouth2
+  rotate: false
+  xy: 476, 323
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_adult_arm3
+  rotate: false
+  xy: 366, 1374
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_adult_leg5
+  rotate: false
+  xy: 441, 1847
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_e_winga
+  rotate: false
+  xy: 460, 461
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+dragon_frostrapter_critical_cloud1
+  rotate: true
+  xy: 2, 1407
+  size: 510, 184
+  orig: 530, 216
+  offset: 17, 32
+  index: -1
+dragon_frostraptor_baby_arm
+  rotate: true
+  xy: 145, 1386
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+dragon_frostrapter_e_critical_dmg
+  rotate: true
+  xy: 2, 2
+  size: 386, 472
+  orig: 390, 476
+  offset: 1, 2
+  index: -1
+dragon_frostraptor_child_tail
+  rotate: true
+  xy: 460, 510
+  size: 116, 39
+  orig: 116, 39
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_child_twinkling
+  rotate: true
+  xy: 372, 1075
+  size: 109, 112
+  orig: 113, 112
+  offset: 2, 0
+  index: -1
+dragon_frostraptor_adult_mouth1
+  rotate: true
+  xy: 476, 226
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_child_neck
+  rotate: true
+  xy: 372, 1249
+  size: 44, 98
+  orig: 44, 98
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_child_head2
+  rotate: true
+  xy: 476, 372
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_child_arm1
+  rotate: true
+  xy: 338, 1374
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+dragon_frostrapter_e_critical_att
+  rotate: false
+  xy: 486, 1075
+  size: 15, 330
+  orig: 15, 332
+  offset: 0, 2
+  index: -1
+dragon_frostrapter_e_critical_dmg1
+  rotate: false
+  xy: 2, 575
+  size: 418, 98
+  orig: 418, 98
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_baby_head2
+  rotate: false
+  xy: 402, 1348
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_baby_tail
+  rotate: true
+  xy: 476, 104
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_e_arm1
+  rotate: false
+  xy: 383, 854
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+dragon_frostrapter_e_critical_smogl
+  rotate: false
+  xy: 188, 1407
+  size: 313, 206
+  orig: 329, 224
+  offset: 4, 16
+  index: -1
+dragon_frostraptor_baby_body
+  rotate: true
+  xy: 348, 1863
+  size: 56, 46
+  orig: 56, 46
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_child_leg4
+  rotate: false
+  xy: 67, 1386
+  size: 29, 18
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_adult_arm2
+  rotate: false
+  xy: 383, 774
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_adult_leg4
+  rotate: false
+  xy: 460, 427
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_e_leg5
+  rotate: false
+  xy: 441, 1847
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_child_mouth
+  rotate: true
+  xy: 476, 2
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_e_wing1
+  rotate: false
+  xy: 233, 1295
+  size: 167, 77
+  orig: 167, 77
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_adult_bress2
+  rotate: false
+  xy: 383, 704
+  size: 35, 15
+  orig: 35, 15
+  offset: 0, 0
+  index: -1
+dragon_frostraptor_adult_head2
+  rotate: true
+  xy: 372, 926
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,81 @@
+grandma_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+sd_grandma_acc1
+  rotate: false
+  xy: 72, 40
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+sd_grandma_eye2
+  rotate: true
+  xy: 81, 86
+  size: 36, 6
+  orig: 36, 6
+  offset: 0, 0
+  index: -1
+sd_grandma_eye1
+  rotate: true
+  xy: 72, 2
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+sd_grandma_head
+  rotate: false
+  xy: 2, 2
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+sd_grandma_body1
+  rotate: false
+  xy: 46, 99
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+sd_grandma_arm2
+  rotate: true
+  xy: 2, 114
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+sd_grandma_eyebrow
+  rotate: true
+  xy: 71, 86
+  size: 35, 8
+  orig: 35, 8
+  offset: 0, 0
+  index: -1
+sd_grandma_mouth
+  rotate: false
+  xy: 19, 114
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+sd_grandma_arm1
+  rotate: false
+  xy: 72, 63
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+sd_grandma_body2
+  rotate: false
+  xy: 2, 70
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+sd_grandma_acc2
+  rotate: false
+  xy: 46, 70
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1

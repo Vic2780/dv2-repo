@@ -1,0 +1,109 @@
+ani_magmatouch_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+worldmap_magma00000000
+  rotate: true
+  xy: 2, 2
+  size: 238, 189
+  orig: 238, 189
+  offset: 0, 0
+  index: -1
+worldmap_magmastststststst
+  rotate: true
+  xy: 359, 117
+  size: 136, 166
+  orig: 136, 166
+  offset: 0, 0
+  index: -1
+worldmap_magmasssssss
+  rotate: false
+  xy: 193, 2
+  size: 164, 190
+  orig: 182, 206
+  offset: 0, 13
+  index: -1
+worldmap_magma055
+  rotate: true
+  xy: 257, 194
+  size: 34, 28
+  orig: 38, 34
+  offset: 2, 3
+  index: -1
+worldmap_magma066
+  rotate: true
+  xy: 527, 117
+  size: 18, 21
+  orig: 22, 25
+  offset: 2, 3
+  index: -1
+worldmap_magma077
+  rotate: false
+  xy: 287, 194
+  size: 31, 33
+  orig: 35, 35
+  offset: 2, 1
+  index: -1
+worldmap_magmadustttt02
+  rotate: true
+  xy: 527, 155
+  size: 12, 14
+  orig: 22, 32
+  offset: 2, 9
+  index: -1
+worldmap_magmadustttt03
+  rotate: false
+  xy: 527, 169
+  size: 12, 12
+  orig: 22, 32
+  offset: 7, 11
+  index: -1
+worldmap_magmabookkkk
+  rotate: false
+  xy: 359, 2
+  size: 190, 113
+  orig: 202, 123
+  offset: 7, 5
+  index: -1
+worldmap_magmadustttt00
+  rotate: false
+  xy: 2, 242
+  size: 16, 6
+  orig: 22, 32
+  offset: 2, 6
+  index: -1
+worldmap_magmadustttt01
+  rotate: false
+  xy: 527, 137
+  size: 16, 16
+  orig: 22, 32
+  offset: 1, 8
+  index: -1
+worldmap_magma011
+  rotate: true
+  xy: 227, 194
+  size: 37, 28
+  orig: 43, 38
+  offset: 3, 4
+  index: -1
+worldmap_magma022
+  rotate: false
+  xy: 320, 226
+  size: 30, 26
+  orig: 32, 30
+  offset: 2, 2
+  index: -1
+worldmap_magma033
+  rotate: false
+  xy: 320, 194
+  size: 30, 30
+  orig: 34, 34
+  offset: 2, 3
+  index: -1
+worldmap_magma044
+  rotate: true
+  xy: 193, 194
+  size: 39, 32
+  orig: 43, 38
+  offset: 2, 2
+  index: -1

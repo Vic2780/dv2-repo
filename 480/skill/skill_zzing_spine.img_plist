@@ -1,0 +1,18 @@
+skill_zzing_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skill_zzing1
+  rotate: true
+  xy: 2, 2
+  size: 180, 176
+  orig: 202, 198
+  offset: 9, 11
+  index: -1
+skill_zzing2
+  rotate: false
+  xy: 2, 184
+  size: 146, 140
+  orig: 202, 198
+  offset: 28, 39
+  index: -1

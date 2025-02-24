@@ -1,0 +1,655 @@
+dragon_179_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_luminesce_child_fire1
+  rotate: false
+  xy: 987, 836
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+dragon_luminesce_baby_heart
+  rotate: true
+  xy: 977, 96
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_luminesce_e_ring1
+  rotate: true
+  xy: 479, 673
+  size: 266, 42
+  orig: 266, 42
+  offset: 0, 0
+  index: -1
+dragon_luminesce_baby_ear
+  rotate: true
+  xy: 964, 1049
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+dragon_luminesce_child_eye
+  rotate: true
+  xy: 428, 956
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+dragon_luminesce_baby_head
+  rotate: false
+  xy: 250, 914
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+dragon_luminesce_adult_note2
+  rotate: false
+  xy: 987, 793
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_luminesce_adult_fire1
+  rotate: true
+  xy: 371, 914
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+dragon_luminesce_baby_eye2
+  rotate: false
+  xy: 993, 974
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+dragon_luminesce_adult_l_leg1b
+  rotate: false
+  xy: 964, 1004
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+dragon_luminesce_adult_chin
+  rotate: true
+  xy: 995, 918
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+dragon_luminesce_cri3
+  rotate: false
+  xy: 245, 549
+  size: 238, 122
+  orig: 238, 122
+  offset: 0, 0
+  index: -1
+dragon_luminesce_adult_eye2
+  rotate: true
+  xy: 145, 1025
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+dragon_luminesce_e_ee1
+  rotate: false
+  xy: 2, 351
+  size: 241, 323
+  orig: 249, 323
+  offset: 8, 0
+  index: -1
+dragon_luminesce_adult_l_leg2a
+  rotate: false
+  xy: 841, 1012
+  size: 34, 69
+  orig: 34, 69
+  offset: 0, 0
+  index: -1
+dragon_luminesce_child_eye3
+  rotate: false
+  xy: 564, 1125
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+dragon_luminesce_e3
+  rotate: false
+  xy: 2, 676
+  size: 154, 330
+  orig: 154, 330
+  offset: 0, 0
+  index: -1
+dragon_luminesce_cri2a
+  rotate: false
+  xy: 724, 580
+  size: 125, 163
+  orig: 125, 163
+  offset: 0, 0
+  index: -1
+dragon_luminesce_adult_neck
+  rotate: false
+  xy: 786, 1012
+  size: 53, 70
+  orig: 53, 70
+  offset: 0, 0
+  index: -1
+dragon_luminesce_e_smo1
+  rotate: false
+  xy: 523, 604
+  size: 111, 190
+  orig: 113, 216
+  offset: 0, 0
+  index: -1
+dragon_luminesce_e_body_p
+  rotate: false
+  xy: 646, 1064
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1
+dragon_luminesce_adult_r_wing2
+  rotate: true
+  xy: 636, 604
+  size: 174, 86
+  orig: 174, 86
+  offset: 0, 0
+  index: -1
+dragon_luminesce_cri6c
+  rotate: false
+  xy: 865, 836
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+dragon_luminesce_adult_l_wing2
+  rotate: true
+  xy: 919, 361
+  size: 195, 101
+  orig: 195, 101
+  offset: 0, 0
+  index: -1
+dragon_luminesce_child_fire2
+  rotate: true
+  xy: 906, 1101
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+dragon_luminesce_baby_body
+  rotate: false
+  xy: 915, 946
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+dragon_luminesce_cri1b
+  rotate: true
+  xy: 250, 673
+  size: 239, 166
+  orig: 239, 176
+  offset: 0, 5
+  index: -1
+dragon_luminesce_adult_note1
+  rotate: true
+  xy: 710, 1110
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_luminesce_e2
+  rotate: true
+  xy: 645, 2
+  size: 154, 330
+  orig: 154, 330
+  offset: 0, 0
+  index: -1
+dragon_luminesce_e_head_p
+  rotate: true
+  xy: 977, 2
+  size: 92, 45
+  orig: 92, 45
+  offset: 0, 0
+  index: -1
+dragon_luminesce_cri7b
+  rotate: true
+  xy: 446, 1064
+  size: 74, 116
+  orig: 74, 116
+  offset: 0, 0
+  index: -1
+dragon_luminesce_e_smo00
+  rotate: false
+  xy: 158, 984
+  size: 286, 156
+  orig: 286, 166
+  offset: 0, 10
+  index: -1
+dragon_luminesce_e_smo000
+  rotate: false
+  xy: 315, 2
+  size: 328, 203
+  orig: 334, 209
+  offset: 6, 0
+  index: -1
+dragon_luminesce_cri5a
+  rotate: true
+  xy: 418, 673
+  size: 238, 59
+  orig: 238, 59
+  offset: 0, 0
+  index: -1
+dragon_luminesce_adult_fire2
+  rotate: false
+  xy: 841, 1083
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+dragon_luminesce_baby_eye3
+  rotate: true
+  xy: 683, 580
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+dragon_luminesce_adult_l_leg1a
+  rotate: false
+  xy: 485, 604
+  size: 30, 61
+  orig: 30, 61
+  offset: 0, 0
+  index: -1
+dragon_luminesce_adult_tail
+  rotate: true
+  xy: 851, 584
+  size: 141, 114
+  orig: 141, 114
+  offset: 0, 0
+  index: -1
+dragon_luminesce_cri4
+  rotate: true
+  xy: 882, 370
+  size: 212, 35
+  orig: 212, 35
+  offset: 0, 0
+  index: -1
+dragon_luminesce_child_leg1
+  rotate: true
+  xy: 707, 1012
+  size: 36, 77
+  orig: 36, 77
+  offset: 0, 0
+  index: -1
+dragon_luminesce_adult_eye3
+  rotate: true
+  xy: 145, 1008
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+dragon_luminesce_child_body1
+  rotate: false
+  xy: 862, 944
+  size: 51, 59
+  orig: 51, 59
+  offset: 0, 0
+  index: -1
+dragon_luminesce_adult_l_leg2d
+  rotate: false
+  xy: 919, 558
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+dragon_luminesce_baby_leg4
+  rotate: false
+  xy: 993, 946
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+dragon_luminesce_adult_head
+  rotate: true
+  xy: 932, 811
+  size: 81, 53
+  orig: 81, 53
+  offset: 0, 0
+  index: -1
+dragon_luminesce_e_leg_p
+  rotate: false
+  xy: 318, 914
+  size: 51, 68
+  orig: 51, 68
+  offset: 0, 0
+  index: -1
+dragon_luminesce_child_tail
+  rotate: false
+  xy: 564, 1064
+  size: 80, 59
+  orig: 80, 59
+  offset: 0, 0
+  index: -1
+dragon_luminesce_adult_body
+  rotate: true
+  xy: 865, 727
+  size: 107, 65
+  orig: 107, 65
+  offset: 0, 0
+  index: -1
+dragon_luminesce_adult_l_wing1
+  rotate: false
+  xy: 446, 961
+  size: 195, 101
+  orig: 195, 101
+  offset: 0, 0
+  index: -1
+dragon_luminesce_e_ee2
+  rotate: false
+  xy: 647, 158
+  size: 253, 210
+  orig: 253, 210
+  offset: 0, 0
+  index: -1
+dragon_luminesce_adult_eyeb
+  rotate: true
+  xy: 750, 1110
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+dragon_luminesce_cri2b
+  rotate: false
+  xy: 523, 796
+  size: 125, 163
+  orig: 125, 163
+  offset: 0, 0
+  index: -1
+dragon_luminesce_e_tw
+  rotate: false
+  xy: 2, 2
+  size: 311, 347
+  orig: 311, 349
+  offset: 0, 1
+  index: -1
+dragon_luminesce_adult_eye
+  rotate: true
+  xy: 145, 1041
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+dragon_luminesce_child_fire3
+  rotate: false
+  xy: 946, 1077
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dragon_luminesce_e_smo2
+  rotate: false
+  xy: 637, 370
+  size: 125, 208
+  orig: 125, 208
+  offset: 0, 0
+  index: -1
+dragon_luminesce_e_tail
+  rotate: false
+  xy: 2, 1008
+  size: 141, 114
+  orig: 141, 114
+  offset: 0, 0
+  index: -1
+dragon_luminesce_adult_eye4
+  rotate: false
+  xy: 591, 1125
+  size: 18, 15
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+dragon_luminesce_cri6a
+  rotate: true
+  xy: 933, 894
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+dragon_luminesce_cri1c
+  rotate: false
+  xy: 245, 363
+  size: 239, 184
+  orig: 239, 188
+  offset: 0, 4
+  index: -1
+dragon_luminesce_baby_eye
+  rotate: false
+  xy: 980, 1077
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+dragon_luminesce_cri7c
+  rotate: true
+  xy: 738, 908
+  size: 102, 122
+  orig: 102, 122
+  offset: 0, 0
+  index: -1
+dragon_luminesce_adult_ear
+  rotate: true
+  xy: 925, 996
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+dragon_luminesce_adult_fire3
+  rotate: true
+  xy: 786, 1084
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+dragon_luminesce_baby_wing2b
+  rotate: true
+  xy: 968, 946
+  size: 56, 23
+  orig: 56, 23
+  offset: 0, 0
+  index: -1
+dragon_luminesce_e_arm_p
+  rotate: true
+  xy: 865, 902
+  size: 40, 66
+  orig: 40, 66
+  offset: 0, 0
+  index: -1
+dragon_luminesce_e_ring2
+  rotate: true
+  xy: 158, 676
+  size: 306, 90
+  orig: 306, 90
+  offset: 0, 0
+  index: -1
+dragon_luminesce_child_wing1a
+  rotate: true
+  xy: 967, 650
+  size: 90, 55
+  orig: 90, 55
+  offset: 0, 0
+  index: -1
+dragon_luminesce_child_body2
+  rotate: false
+  xy: 643, 1011
+  size: 62, 51
+  orig: 62, 51
+  offset: 0, 0
+  index: -1
+dragon_luminesce_adult_r_wing1
+  rotate: true
+  xy: 650, 780
+  size: 174, 86
+  orig: 174, 86
+  offset: 0, 0
+  index: -1
+dragon_luminesce_e_l_wing2
+  rotate: true
+  xy: 764, 370
+  size: 201, 116
+  orig: 201, 116
+  offset: 0, 0
+  index: -1
+dragon_luminesce_adult_l_leg2c
+  rotate: false
+  xy: 877, 1005
+  size: 21, 62
+  orig: 21, 62
+  offset: 0, 0
+  index: -1
+dragon_luminesce_child_heart
+  rotate: true
+  xy: 977, 96
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_luminesce_child_leg3
+  rotate: false
+  xy: 932, 727
+  size: 23, 82
+  orig: 23, 82
+  offset: 0, 0
+  index: -1
+dragon_luminesce_baby_chin
+  rotate: false
+  xy: 957, 793
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+dragon_luminesce_e1
+  rotate: true
+  xy: 315, 207
+  size: 154, 330
+  orig: 154, 330
+  offset: 0, 0
+  index: -1
+dragon_luminesce_cri2c
+  rotate: false
+  xy: 738, 745
+  size: 125, 161
+  orig: 125, 161
+  offset: 0, 0
+  index: -1
+dragon_luminesce_child_neck
+  rotate: true
+  xy: 428, 913
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+dragon_luminesce_adult_eye5
+  rotate: true
+  xy: 724, 745
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+dragon_luminesce_adult_l_leg2b
+  rotate: true
+  xy: 998, 999
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+dragon_luminesce_child_eye2
+  rotate: false
+  xy: 2, 1124
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+dragon_luminesce_child_chin
+  rotate: false
+  xy: 479, 941
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+dragon_luminesce_child_ear
+  rotate: false
+  xy: 637, 580
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+dragon_luminesce_adult_l_leg1c
+  rotate: false
+  xy: 925, 1042
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+dragon_luminesce_baby_wing2a
+  rotate: true
+  xy: 900, 1005
+  size: 56, 23
+  orig: 56, 23
+  offset: 0, 0
+  index: -1
+dragon_luminesce_cri1a
+  rotate: true
+  xy: 486, 363
+  size: 239, 149
+  orig: 239, 151
+  offset: 0, 2
+  index: -1
+dragon_luminesce_child_wing1b
+  rotate: true
+  xy: 967, 558
+  size: 90, 55
+  orig: 90, 55
+  offset: 0, 0
+  index: -1
+dragon_luminesce_cri6b
+  rotate: true
+  xy: 710, 1050
+  size: 58, 74
+  orig: 58, 74
+  offset: 0, 0
+  index: -1
+dragon_luminesce_child_head
+  rotate: false
+  xy: 650, 956
+  size: 86, 53
+  orig: 86, 53
+  offset: 0, 0
+  index: -1
+dragon_luminesce_e_l_wing1
+  rotate: true
+  xy: 902, 158
+  size: 201, 116
+  orig: 201, 116
+  offset: 0, 0
+  index: -1
+dragon_luminesce_baby_leg2
+  rotate: false
+  xy: 995, 873
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+dragon_luminesce_cri7a
+  rotate: true
+  xy: 957, 742
+  size: 49, 65
+  orig: 49, 101
+  offset: 0, 23
+  index: -1
+dragon_luminesce_baby_tail
+  rotate: false
+  xy: 906, 1067
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1

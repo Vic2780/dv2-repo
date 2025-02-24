@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>npc/vermont/body_1.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{336,352}}</string>
+                <key>offset</key>
+                <string>{-1,-9}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,18},{336,352}}</string>
+                <key>sourceSize</key>
+                <string>{338,370}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>vermont.pvr.ccz</string>
+            <key>size</key>
+            <string>{340,356}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:07cad8e88fb00425f1bd4f6299270d64:7eb94c8785ffae3e97802d4f137f7d1d:281a9360baa87a4a14dfb759c17ec3ce$</string>
+            <key>textureFileName</key>
+            <string>vermont.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

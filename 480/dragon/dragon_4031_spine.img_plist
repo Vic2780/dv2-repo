@@ -1,0 +1,536 @@
+dragon_4031_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_elder_child_love
+  rotate: false
+  xy: 133, 228
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_body2
+  rotate: false
+  xy: 1509, 155
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_leg2a
+  rotate: true
+  xy: 1270, 145
+  size: 44, 68
+  orig: 44, 68
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_neck
+  rotate: false
+  xy: 815, 157
+  size: 66, 73
+  orig: 66, 73
+  offset: 0, 0
+  index: -1
+dragon_elder_main2
+  rotate: false
+  xy: 1371, 116
+  size: 79, 27
+  orig: 79, 27
+  offset: 0, 0
+  index: -1
+dragon_elder_beam1
+  rotate: true
+  xy: 227, 79
+  size: 74, 370
+  orig: 74, 370
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_r_winga
+  rotate: false
+  xy: 853, 79
+  size: 127, 76
+  orig: 127, 76
+  offset: 0, 0
+  index: -1
+dragon_elder_baby_leg2
+  rotate: false
+  xy: 1215, 193
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_leghorn1
+  rotate: false
+  xy: 96, 228
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_leg2b
+  rotate: true
+  xy: 209, 228
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+dragon_elder_baby_mouth
+  rotate: false
+  xy: 167, 228
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_candy1
+  rotate: false
+  xy: 1236, 193
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+dragon_elder_beam2
+  rotate: true
+  xy: 227, 2
+  size: 75, 370
+  orig: 75, 370
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_twinkling2
+  rotate: true
+  xy: 447, 155
+  size: 99, 100
+  orig: 225, 224
+  offset: 63, 64
+  index: -1
+dragon_elder_baby_heart
+  rotate: true
+  xy: 1408, 145
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_elder_cri5
+  rotate: false
+  xy: 1461, 80
+  size: 137, 44
+  orig: 137, 44
+  offset: 0, 0
+  index: -1
+dragon_elder_child_leg1
+  rotate: false
+  xy: 958, 157
+  size: 38, 63
+  orig: 38, 63
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_l_winga
+  rotate: false
+  xy: 682, 153
+  size: 131, 98
+  orig: 131, 98
+  offset: 0, 0
+  index: -1
+dragon_elder_main3b
+  rotate: false
+  xy: 227, 226
+  size: 79, 27
+  orig: 79, 27
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_leg1a
+  rotate: true
+  xy: 1147, 225
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+dragon_elder_cri3c
+  rotate: false
+  xy: 1092, 71
+  size: 182, 59
+  orig: 182, 59
+  offset: 0, 0
+  index: -1
+dragon_elder_child_leg2
+  rotate: false
+  xy: 1056, 149
+  size: 34, 79
+  orig: 34, 79
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_l_wingb
+  rotate: false
+  xy: 549, 155
+  size: 131, 98
+  orig: 131, 98
+  offset: 0, 0
+  index: -1
+dragon_elder_baby_leg1
+  rotate: true
+  xy: 815, 232
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+dragon_elder_cri1
+  rotate: false
+  xy: 599, 2
+  size: 252, 79
+  orig: 252, 79
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_leg1b
+  rotate: true
+  xy: 1014, 216
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+dragon_elder_baby_eyeb1
+  rotate: false
+  xy: 1241, 222
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+dragon_elder_main3
+  rotate: false
+  xy: 308, 226
+  size: 79, 27
+  orig: 79, 27
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_taila
+  rotate: true
+  xy: 982, 79
+  size: 68, 83
+  orig: 68, 83
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_r_wingb
+  rotate: false
+  xy: 1486, 2
+  size: 127, 76
+  orig: 127, 76
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_leg2c
+  rotate: true
+  xy: 1202, 224
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_eff0
+  rotate: true
+  xy: 855, 232
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+dragon_elder_baby_wing
+  rotate: false
+  xy: 1555, 225
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+dragon_elder_child_neck
+  rotate: false
+  xy: 1442, 200
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_tailb
+  rotate: false
+  xy: 953, 222
+  size: 59, 32
+  orig: 59, 32
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_candy2
+  rotate: true
+  xy: 1186, 187
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+dragon_elder_baby_body
+  rotate: false
+  xy: 1449, 155
+  size: 58, 43
+  orig: 58, 43
+  offset: 0, 0
+  index: -1
+dragon_elder_child_eyeb
+  rotate: true
+  xy: 1393, 193
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+dragon_elder_child_chin
+  rotate: true
+  xy: 1273, 191
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+dragon_elder_cri2a
+  rotate: false
+  xy: 853, 2
+  size: 237, 75
+  orig: 237, 75
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_chin
+  rotate: false
+  xy: 1056, 230
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+dragon_elder_child_heart
+  rotate: true
+  xy: 1408, 145
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_elder_child_leg3
+  rotate: true
+  xy: 1567, 155
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_twinkling1
+  rotate: false
+  xy: 2, 2
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+dragon_elder_baby_leg4
+  rotate: true
+  xy: 810, 120
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_love
+  rotate: false
+  xy: 1067, 131
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+dragon_elder_cri2b
+  rotate: false
+  xy: 1092, 2
+  size: 207, 67
+  orig: 207, 67
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_leg1c
+  rotate: true
+  xy: 1536, 200
+  size: 43, 17
+  orig: 43, 17
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_beard
+  rotate: true
+  xy: 2, 228
+  size: 26, 92
+  orig: 26, 92
+  offset: 0, 0
+  index: -1
+dragon_elder_child_body
+  rotate: false
+  xy: 1092, 132
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1
+dragon_elder_main1b
+  rotate: false
+  xy: 1452, 126
+  size: 77, 27
+  orig: 77, 27
+  offset: 0, 0
+  index: -1
+dragon_elder_baby_head
+  rotate: true
+  xy: 1222, 132
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_leg2d
+  rotate: false
+  xy: 389, 226
+  size: 45, 19
+  orig: 45, 19
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_eye2
+  rotate: true
+  xy: 1600, 98
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_tailc
+  rotate: false
+  xy: 1491, 200
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+dragon_elder_main2b
+  rotate: false
+  xy: 1290, 116
+  size: 79, 27
+  orig: 79, 27
+  offset: 0, 0
+  index: -1
+dragon_elder_child_leg4
+  rotate: true
+  xy: 1340, 189
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_head
+  rotate: false
+  xy: 1340, 145
+  size: 66, 42
+  orig: 66, 42
+  offset: 0, 0
+  index: -1
+dragon_elder_baby_chin
+  rotate: false
+  xy: 1567, 194
+  size: 46, 29
+  orig: 46, 29
+  offset: 0, 0
+  index: -1
+dragon_elder_child_body2
+  rotate: true
+  xy: 1156, 132
+  size: 53, 64
+  orig: 53, 64
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_leghorn2
+  rotate: true
+  xy: 1595, 225
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+dragon_elder_cri2c
+  rotate: false
+  xy: 599, 83
+  size: 209, 68
+  orig: 209, 68
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_eyeb
+  rotate: false
+  xy: 1276, 71
+  size: 12, 65
+  orig: 12, 65
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_leg1d
+  rotate: false
+  xy: 1461, 63
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+dragon_elder_child_tail
+  rotate: true
+  xy: 1092, 192
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+dragon_elder_cri3a
+  rotate: false
+  xy: 1301, 63
+  size: 158, 51
+  orig: 158, 51
+  offset: 0, 0
+  index: -1
+dragon_elder_cri4
+  rotate: false
+  xy: 227, 155
+  size: 218, 69
+  orig: 218, 69
+  offset: 0, 0
+  index: -1
+dragon_elder_child_head
+  rotate: false
+  xy: 883, 222
+  size: 68, 32
+  orig: 68, 32
+  offset: 0, 0
+  index: -1
+dragon_elder_child_wing
+  rotate: false
+  xy: 998, 149
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+dragon_elder_baby_eyeb2
+  rotate: true
+  xy: 1147, 192
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_eye3
+  rotate: true
+  xy: 1600, 80
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+dragon_elder_baby_love
+  rotate: true
+  xy: 1067, 79
+  size: 50, 23
+  orig: 50, 23
+  offset: 0, 0
+  index: -1
+dragon_elder_adult_body1
+  rotate: false
+  xy: 883, 157
+  size: 73, 63
+  orig: 73, 63
+  offset: 0, 0
+  index: -1
+dragon_elder_cri3b
+  rotate: false
+  xy: 1301, 2
+  size: 183, 59
+  orig: 183, 59
+  offset: 0, 0
+  index: -1
+dragon_elder_baby_tail
+  rotate: false
+  xy: 810, 83
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+dragon_elder_main1
+  rotate: false
+  xy: 1531, 126
+  size: 77, 27
+  orig: 77, 27
+  offset: 0, 0
+  index: -1

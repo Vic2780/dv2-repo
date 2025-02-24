@@ -1,0 +1,46 @@
+skill_1_scratch_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skill_scratch6
+  rotate: true
+  xy: 822, 2
+  size: 147, 173
+  orig: 357, 341
+  offset: 54, 29
+  index: -1
+skill_scratch2
+  rotate: true
+  xy: 675, 2
+  size: 189, 145
+  orig: 357, 341
+  offset: 101, 135
+  index: -1
+skill_scratch4
+  rotate: false
+  xy: 197, 2
+  size: 283, 237
+  orig: 357, 341
+  offset: 46, 49
+  index: -1
+skill_scratch3
+  rotate: true
+  xy: 2, 2
+  size: 249, 193
+  orig: 357, 341
+  offset: 70, 88
+  index: -1
+skill_scratch5
+  rotate: false
+  xy: 482, 2
+  size: 191, 209
+  orig: 357, 341
+  offset: 55, 36
+  index: -1
+skill_scratch1
+  rotate: false
+  xy: 822, 151
+  size: 145, 93
+  orig: 357, 341
+  offset: 177, 196
+  index: -1

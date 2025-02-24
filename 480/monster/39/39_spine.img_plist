@@ -1,0 +1,256 @@
+39_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_ccave_groggyeye
+  rotate: true
+  xy: 435, 564
+  size: 191, 18
+  orig: 229, 80
+  offset: 20, 36
+  index: -1
+m_ccave_groggymause1
+  rotate: true
+  xy: 435, 757
+  size: 23, 69
+  orig: 59, 103
+  offset: 22, 12
+  index: -1
+m_ccave_leg5
+  rotate: false
+  xy: 157, 1542
+  size: 78, 138
+  orig: 124, 154
+  offset: 29, 5
+  index: -1
+m_ccave_groggyteeth
+  rotate: true
+  xy: 472, 930
+  size: 136, 32
+  orig: 152, 54
+  offset: 5, 7
+  index: -1
+m_ccave_teeth
+  rotate: true
+  xy: 237, 1539
+  size: 135, 38
+  orig: 155, 64
+  offset: 15, 11
+  index: -1
+m_ccave_hand3
+  rotate: true
+  xy: 187, 965
+  size: 138, 253
+  orig: 164, 283
+  offset: 14, 14
+  index: -1
+m_ccave_groggyarm3
+  rotate: false
+  xy: 365, 1220
+  size: 123, 147
+  orig: 153, 165
+  offset: 24, 9
+  index: -1
+m_ccave_groggyhand3
+  rotate: true
+  xy: 187, 1105
+  size: 113, 229
+  orig: 153, 261
+  offset: 21, 9
+  index: -1
+m_ccave_groggyleg5
+  rotate: false
+  xy: 472, 1068
+  size: 32, 51
+  orig: 84, 101
+  offset: 28, 18
+  index: -1
+m_ccave_groggyleg1
+  rotate: false
+  xy: 455, 564
+  size: 44, 82
+  orig: 74, 110
+  offset: 15, 7
+  index: -1
+m_ccave_leg4
+  rotate: true
+  xy: 2, 1542
+  size: 128, 153
+  orig: 168, 205
+  offset: 26, 12
+  index: -1
+m_ccave_hand2
+  rotate: false
+  xy: 187, 782
+  size: 222, 181
+  orig: 244, 217
+  offset: 14, 12
+  index: -1
+m_ccave_groggybody1
+  rotate: true
+  xy: 2, 743
+  size: 429, 183
+  orig: 457, 219
+  offset: 12, 20
+  index: -1
+m_ccave_eye
+  rotate: true
+  xy: 442, 930
+  size: 195, 28
+  orig: 221, 84
+  offset: 21, 22
+  index: -1
+m_ccave_body2
+  rotate: true
+  xy: 2, 1174
+  size: 366, 174
+  orig: 386, 200
+  offset: 17, 7
+  index: -1
+m_ccave_leg7
+  rotate: false
+  xy: 388, 1369
+  size: 116, 93
+  orig: 154, 125
+  offset: 14, 4
+  index: -1
+m_ccave_groggyhand4
+  rotate: false
+  xy: 433, 312
+  size: 71, 165
+  orig: 131, 207
+  offset: 31, 19
+  index: -1
+m_ccave_mause1
+  rotate: false
+  xy: 455, 648
+  size: 47, 82
+  orig: 71, 92
+  offset: 12, 8
+  index: -1
+m_ccave_groggyleg2
+  rotate: true
+  xy: 379, 1628
+  size: 39, 59
+  orig: 73, 103
+  offset: 11, 25
+  index: -1
+m_ccave_arm3
+  rotate: false
+  xy: 178, 1380
+  size: 122, 157
+  orig: 166, 203
+  offset: 36, 16
+  index: -1
+m_ccave_leg3
+  rotate: false
+  xy: 411, 782
+  size: 93, 146
+  orig: 133, 182
+  offset: 25, 22
+  index: -1
+m_ccave_groggybody2
+  rotate: false
+  xy: 440, 1628
+  size: 57, 52
+  orig: 95, 92
+  offset: 22, 16
+  index: -1
+m_ccave_hand1
+  rotate: false
+  xy: 2, 2
+  size: 318, 308
+  orig: 328, 336
+  offset: 6, 7
+  index: -1
+m_ccave_groggyarm1
+  rotate: true
+  xy: 322, 2
+  size: 236, 177
+  orig: 248, 199
+  offset: 8, 3
+  index: -1
+m_ccave_body1
+  rotate: true
+  xy: 2, 312
+  size: 429, 187
+  orig: 479, 223
+  offset: 22, 29
+  index: -1
+m_ccave_leg6
+  rotate: true
+  xy: 379, 1536
+  size: 90, 87
+  orig: 122, 127
+  offset: 21, 19
+  index: -1
+m_ccave_mause2
+  rotate: false
+  xy: 433, 479
+  size: 47, 83
+  orig: 69, 111
+  offset: 15, 11
+  index: -1
+m_ccave_groggymause2
+  rotate: false
+  xy: 418, 1127
+  size: 48, 77
+  orig: 80, 95
+  offset: 24, 8
+  index: -1
+m_ccave_groggyhand1
+  rotate: true
+  xy: 191, 312
+  size: 283, 240
+  orig: 341, 284
+  offset: 36, 12
+  index: -1
+m_ccave_groggyleg3
+  rotate: true
+  xy: 277, 1643
+  size: 27, 74
+  orig: 77, 122
+  offset: 25, 21
+  index: -1
+m_ccave_arm2
+  rotate: true
+  xy: 388, 1464
+  size: 67, 116
+  orig: 107, 150
+  offset: 20, 6
+  index: -1
+m_ccave_leg2
+  rotate: false
+  xy: 277, 1539
+  size: 100, 102
+  orig: 112, 124
+  offset: 12, 12
+  index: -1
+m_ccave_hand4
+  rotate: true
+  xy: 322, 240
+  size: 70, 165
+  orig: 106, 185
+  offset: 21, 13
+  index: -1
+m_ccave_arm1
+  rotate: false
+  xy: 191, 597
+  size: 242, 183
+  orig: 284, 207
+  offset: 36, 8
+  index: -1
+m_ccave_groggyhand2
+  rotate: false
+  xy: 178, 1220
+  size: 185, 158
+  orig: 201, 192
+  offset: 2, 7
+  index: -1
+m_ccave_leg1
+  rotate: false
+  xy: 302, 1380
+  size: 84, 154
+  orig: 116, 192
+  offset: 20, 18
+  index: -1

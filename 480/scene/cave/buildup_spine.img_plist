@@ -1,0 +1,256 @@
+buildup_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+inchanteffect0019
+  rotate: true
+  xy: 2, 192
+  size: 280, 158
+  orig: 360, 240
+  offset: 47, 4
+  index: -1
+inchanteffect0036
+  rotate: true
+  xy: 164, 1402
+  size: 114, 104
+  orig: 360, 240
+  offset: 128, 32
+  index: -1
+inchanteffect0008
+  rotate: false
+  xy: 380, 1330
+  size: 84, 84
+  orig: 360, 240
+  offset: 144, 40
+  index: -1
+inchanteffect0011
+  rotate: false
+  xy: 2, 1402
+  size: 160, 162
+  orig: 360, 240
+  offset: 106, 3
+  index: -1
+inchanteffect0015
+  rotate: false
+  xy: 260, 116
+  size: 198, 182
+  orig: 360, 240
+  offset: 88, 0
+  index: -1
+inchanteffect0032
+  rotate: false
+  xy: 385, 1042
+  size: 108, 104
+  orig: 360, 240
+  offset: 132, 28
+  index: -1
+inchanteffect0004
+  rotate: false
+  xy: 270, 1478
+  size: 92, 92
+  orig: 360, 240
+  offset: 140, 36
+  index: -1
+inchanteffect0029
+  rotate: true
+  xy: 385, 936
+  size: 104, 110
+  orig: 360, 240
+  offset: 133, 30
+  index: -1
+inchanteffect0021
+  rotate: true
+  xy: 162, 192
+  size: 256, 96
+  orig: 360, 240
+  offset: 59, 39
+  index: -1
+inchanteffect0025
+  rotate: false
+  xy: 258, 2
+  size: 252, 112
+  orig: 360, 240
+  offset: 62, 30
+  index: -1
+inchanteffect0007
+  rotate: true
+  xy: 312, 830
+  size: 88, 86
+  orig: 360, 240
+  offset: 142, 39
+  index: -1
+inchanteffect0018
+  rotate: false
+  xy: 2, 2
+  size: 254, 188
+  orig: 360, 240
+  offset: 60, 0
+  index: -1
+inchanteffect0031
+  rotate: false
+  xy: 204, 806
+  size: 106, 112
+  orig: 360, 240
+  offset: 131, 28
+  index: -1
+inchanteffect0035
+  rotate: true
+  xy: 277, 920
+  size: 112, 106
+  orig: 360, 240
+  offset: 131, 33
+  index: -1
+inchanteffect0010
+  rotate: false
+  xy: 369, 1246
+  size: 96, 82
+  orig: 360, 240
+  offset: 137, 42
+  index: -1
+inchanteffect0014
+  rotate: true
+  xy: 2, 946
+  size: 228, 198
+  orig: 360, 240
+  offset: 72, 0
+  index: -1
+inchanteffect0028
+  rotate: false
+  xy: 206, 706
+  size: 106, 98
+  orig: 360, 240
+  offset: 131, 32
+  index: -1
+inchanteffect0020
+  rotate: true
+  xy: 314, 490
+  size: 222, 92
+  orig: 360, 240
+  offset: 76, 39
+  index: -1
+inchanteffect0024
+  rotate: false
+  xy: 260, 300
+  size: 236, 110
+  orig: 360, 240
+  offset: 70, 33
+  index: -1
+inchanteffect0017
+  rotate: true
+  xy: 2, 1176
+  size: 224, 184
+  orig: 360, 240
+  offset: 75, 0
+  index: -1
+inchanteffect0006
+  rotate: false
+  xy: 314, 714
+  size: 88, 88
+  orig: 360, 240
+  offset: 142, 38
+  index: -1
+inchanteffect0030
+  rotate: false
+  xy: 404, 716
+  size: 106, 112
+  orig: 360, 240
+  offset: 131, 29
+  index: -1
+inchanteffect0034
+  rotate: false
+  xy: 400, 830
+  size: 110, 104
+  orig: 360, 240
+  offset: 132, 33
+  index: -1
+inchanteffect0013
+  rotate: true
+  xy: 2, 710
+  size: 234, 200
+  orig: 360, 240
+  offset: 70, 0
+  index: -1
+buildup1
+  rotate: false
+  xy: 408, 490
+  size: 73, 224
+  orig: 101, 240
+  offset: 10, 16
+  index: -1
+buildup
+  rotate: false
+  xy: 188, 1176
+  size: 69, 224
+  orig: 101, 240
+  offset: 14, 16
+  index: -1
+inchanteffect0027
+  rotate: false
+  xy: 369, 1148
+  size: 108, 96
+  orig: 360, 240
+  offset: 128, 33
+  index: -1
+inchanteffect0023
+  rotate: true
+  xy: 259, 1170
+  size: 192, 108
+  orig: 360, 240
+  offset: 91, 33
+  index: -1
+inchanteffect0009
+  rotate: false
+  xy: 380, 1416
+  size: 82, 82
+  orig: 360, 240
+  offset: 145, 41
+  index: -1
+inchanteffect0016
+  rotate: false
+  xy: 314, 412
+  size: 196, 76
+  orig: 360, 240
+  offset: 87, 45
+  index: -1
+inchanteffect0033
+  rotate: true
+  xy: 277, 1034
+  size: 110, 106
+  orig: 360, 240
+  offset: 132, 28
+  index: -1
+inchanteffect0005
+  rotate: false
+  xy: 364, 1500
+  size: 68, 68
+  orig: 360, 240
+  offset: 152, 48
+  index: -1
+buildup2
+  rotate: false
+  xy: 202, 946
+  size: 73, 222
+  orig: 101, 240
+  offset: 10, 18
+  index: -1
+inchanteffect0012
+  rotate: true
+  xy: 2, 474
+  size: 234, 202
+  orig: 360, 240
+  offset: 69, 0
+  index: -1
+inchanteffect0026
+  rotate: false
+  xy: 270, 1364
+  size: 108, 112
+  orig: 360, 240
+  offset: 126, 30
+  index: -1
+inchanteffect0022
+  rotate: true
+  xy: 206, 450
+  size: 254, 106
+  orig: 360, 240
+  offset: 61, 34
+  index: -1

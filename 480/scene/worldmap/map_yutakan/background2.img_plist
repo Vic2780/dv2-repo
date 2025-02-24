@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>scene/worldmap/map_yutakan/background2/bg.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{1326,517}}</string>
+                <key>offset</key>
+                <string>{-19,-174}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{86,435},{1326,517}}</string>
+                <key>sourceSize</key>
+                <string>{1536,1039}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>background2.pvr.ccz</string>
+            <key>size</key>
+            <string>{1330,521}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:5a81c018052b519a2a724522c682bde2:46cc0c6dfe818e2cb66531b2d8a5a6c0:b35b0148bfff4ad5414843c767b4b20c$</string>
+            <key>textureFileName</key>
+            <string>background2.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

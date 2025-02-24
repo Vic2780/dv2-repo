@@ -1,0 +1,39 @@
+spa_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+u_village_spas02
+  rotate: true
+  xy: 2, 61
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+u_village_spab02
+  rotate: true
+  xy: 2, 78
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+u_village_spawwwwwwwwwww
+  rotate: true
+  xy: 2, 2
+  size: 36, 25
+  orig: 38, 25
+  offset: 1, 0
+  index: -1
+u_village_spas01
+  rotate: false
+  xy: 18, 78
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+u_village_spab01
+  rotate: false
+  xy: 2, 40
+  size: 21, 19
+  orig: 21, 23
+  offset: 0, 4
+  index: -1

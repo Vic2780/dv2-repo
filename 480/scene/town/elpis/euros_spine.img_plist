@@ -1,0 +1,102 @@
+euros_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+u_town_euros_head1
+  rotate: false
+  xy: 565, 2
+  size: 62, 48
+  orig: 62, 48
+  offset: 0, 0
+  index: -1
+u_town_euros_arm2
+  rotate: true
+  xy: 759, 2
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+u_town_euros_tail
+  rotate: false
+  xy: 797, 2
+  size: 70, 24
+  orig: 70, 24
+  offset: 0, 0
+  index: -1
+u_town_euros_leg2
+  rotate: false
+  xy: 629, 2
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+u_town_euros_arm1
+  rotate: true
+  xy: 719, 2
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+u_town_euros_leg1
+  rotate: true
+  xy: 323, 2
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+u_town_euros_body
+  rotate: false
+  xy: 118, 2
+  size: 74, 59
+  orig: 74, 59
+  offset: 0, 0
+  index: -1
+u_town_euros_chest
+  rotate: false
+  xy: 679, 2
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+u_town_euros_neck
+  rotate: false
+  xy: 283, 2
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+u_town_euros_head4
+  rotate: false
+  xy: 373, 2
+  size: 62, 48
+  orig: 62, 48
+  offset: 0, 0
+  index: -1
+u_town_euros_wing2
+  rotate: false
+  xy: 194, 2
+  size: 87, 54
+  orig: 87, 54
+  offset: 0, 0
+  index: -1
+u_town_euros_head2
+  rotate: false
+  xy: 501, 2
+  size: 62, 48
+  orig: 62, 48
+  offset: 0, 0
+  index: -1
+u_town_euros_head3
+  rotate: false
+  xy: 437, 2
+  size: 62, 48
+  orig: 62, 48
+  offset: 0, 0
+  index: -1
+u_town_euros_wing1
+  rotate: false
+  xy: 2, 2
+  size: 114, 59
+  orig: 114, 59
+  offset: 0, 0
+  index: -1

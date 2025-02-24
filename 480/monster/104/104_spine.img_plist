@@ -1,0 +1,95 @@
+104_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_diamond_golem_hand111
+  rotate: false
+  xy: 667, 2
+  size: 177, 187
+  orig: 183, 191
+  offset: 3, 3
+  index: -1
+m_diamond_golem_groggy_head
+  rotate: true
+  xy: 1017, 2
+  size: 155, 118
+  orig: 159, 120
+  offset: 1, 2
+  index: -1
+m_diamond_golem_foot11
+  rotate: true
+  xy: 1017, 159
+  size: 60, 39
+  orig: 64, 39
+  offset: 1, 0
+  index: -1
+m_diamond_golem_foot111
+  rotate: true
+  xy: 1262, 116
+  size: 104, 107
+  orig: 108, 109
+  offset: 1, 2
+  index: -1
+m_diamond_golem_groggy_foot1
+  rotate: true
+  xy: 1103, 159
+  size: 50, 75
+  orig: 52, 77
+  offset: 0, 1
+  index: -1
+m_diamond_golem_foot1
+  rotate: false
+  xy: 1313, 2
+  size: 80, 99
+  orig: 82, 101
+  offset: 0, 1
+  index: -1
+m_diamond_golem_groggy_body1
+  rotate: false
+  xy: 359, 2
+  size: 306, 209
+  orig: 312, 209
+  offset: 3, 0
+  index: -1
+m_diamond_golem_groggy_hand111
+  rotate: false
+  xy: 1204, 2
+  size: 107, 112
+  orig: 107, 114
+  offset: 0, 2
+  index: -1
+m_diamond_golem_hand11
+  rotate: true
+  xy: 1058, 159
+  size: 59, 43
+  orig: 59, 47
+  offset: 0, 3
+  index: -1
+m_diamond_golem_body1
+  rotate: false
+  xy: 2, 2
+  size: 355, 219
+  orig: 363, 221
+  offset: 4, 1
+  index: -1
+m_diamond_golem_body2
+  rotate: true
+  xy: 1137, 2
+  size: 131, 65
+  orig: 137, 69
+  offset: 3, 2
+  index: -1
+m_diamond_golem_hand1
+  rotate: false
+  xy: 1180, 135
+  size: 80, 81
+  orig: 86, 87
+  offset: 2, 3
+  index: -1
+m_diamond_golem_head
+  rotate: true
+  xy: 846, 2
+  size: 181, 169
+  orig: 183, 173
+  offset: 1, 3
+  index: -1

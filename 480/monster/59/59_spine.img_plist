@@ -1,0 +1,123 @@
+59_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_coldybear_arm1
+  rotate: true
+  xy: 748, 112
+  size: 137, 164
+  orig: 137, 164
+  offset: 0, 0
+  index: -1
+m_coldybear_groggy_horn
+  rotate: false
+  xy: 259, 195
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+m_coldybear_arm2
+  rotate: false
+  xy: 1172, 2
+  size: 121, 140
+  orig: 121, 140
+  offset: 0, 0
+  index: -1
+m_coldybear_grorry_face
+  rotate: false
+  xy: 823, 2
+  size: 122, 95
+  orig: 128, 101
+  offset: 0, 3
+  index: -1
+m_coldybear_face
+  rotate: false
+  xy: 457, 161
+  size: 96, 74
+  orig: 96, 74
+  offset: 0, 0
+  index: -1
+m_coldybear_face0
+  rotate: true
+  xy: 1172, 144
+  size: 101, 68
+  orig: 101, 68
+  offset: 0, 0
+  index: -1
+m_coldybear_groggy_body2
+  rotate: false
+  xy: 95, 195
+  size: 102, 41
+  orig: 102, 41
+  offset: 0, 0
+  index: -1
+m_coldybear_groggy_arm2
+  rotate: true
+  xy: 199, 195
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+m_coldybear_face2
+  rotate: true
+  xy: 1242, 144
+  size: 104, 62
+  orig: 104, 72
+  offset: 0, 5
+  index: -1
+m_coldybear_groggy_arm1
+  rotate: false
+  xy: 303, 161
+  size: 152, 85
+  orig: 152, 87
+  offset: 0, 1
+  index: -1
+m_coldybear_head
+  rotate: false
+  xy: 481, 2
+  size: 179, 126
+  orig: 179, 126
+  offset: 0, 0
+  index: -1
+m_coldybear_horn
+  rotate: true
+  xy: 2, 195
+  size: 48, 91
+  orig: 48, 91
+  offset: 0, 0
+  index: -1
+m_coldybear_groggy_head
+  rotate: false
+  xy: 279, 2
+  size: 200, 157
+  orig: 200, 161
+  offset: 0, 4
+  index: -1
+m_coldybear_body2
+  rotate: false
+  xy: 2, 2
+  size: 275, 191
+  orig: 275, 191
+  offset: 0, 0
+  index: -1
+m_coldybear_body1
+  rotate: true
+  xy: 947, 2
+  size: 228, 223
+  orig: 230, 223
+  offset: 2, 0
+  index: -1
+m_coldybear_leg
+  rotate: true
+  xy: 662, 2
+  size: 108, 159
+  orig: 108, 159
+  offset: 0, 0
+  index: -1
+m_coldybear_groggy_body1
+  rotate: false
+  xy: 555, 130
+  size: 191, 118
+  orig: 233, 224
+  offset: 3, 16
+  index: -1

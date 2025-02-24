@@ -1,0 +1,242 @@
+193_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_earth_titan2_groggy_hand2
+  rotate: true
+  xy: 1699, 343
+  size: 84, 179
+  orig: 84, 179
+  offset: 0, 0
+  index: -1
+m_earth_titan2_head2_eff
+  rotate: true
+  xy: 562, 624
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+m_earth_titan2_foot2
+  rotate: true
+  xy: 1789, 516
+  size: 147, 143
+  orig: 147, 143
+  offset: 0, 0
+  index: -1
+m_earth_titan2_hand2
+  rotate: true
+  xy: 1807, 2
+  size: 173, 207
+  orig: 173, 207
+  offset: 0, 0
+  index: -1
+m_earth_titan2_eff01
+  rotate: true
+  xy: 128, 345
+  size: 305, 210
+  orig: 329, 220
+  offset: 15, 1
+  index: -1
+m_earth_titan2_groggy_head2
+  rotate: false
+  xy: 128, 652
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+m_earth_titan2_leg22
+  rotate: true
+  xy: 1934, 516
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+m_earth_titan2_groggy_hand1
+  rotate: true
+  xy: 1677, 2
+  size: 209, 128
+  orig: 209, 128
+  offset: 0, 0
+  index: -1
+m_earth_titan2_hand2_eff
+  rotate: false
+  xy: 1447, 465
+  size: 173, 207
+  orig: 173, 207
+  offset: 0, 0
+  index: -1
+m_earth_titan2_foot1
+  rotate: true
+  xy: 953, 545
+  size: 124, 143
+  orig: 124, 143
+  offset: 0, 0
+  index: -1
+m_earth_titan2_hand1
+  rotate: true
+  xy: 504, 2
+  size: 339, 338
+  orig: 339, 338
+  offset: 0, 0
+  index: -1
+m_earth_titan2_leg11
+  rotate: false
+  xy: 1789, 429
+  size: 81, 65
+  orig: 81, 65
+  offset: 0, 0
+  index: -1
+m_earth_titan2_leg2
+  rotate: true
+  xy: 1807, 177
+  size: 164, 196
+  orig: 164, 196
+  offset: 0, 0
+  index: -1
+m_earth_titan2_groggy_body
+  rotate: true
+  xy: 1267, 483
+  size: 187, 178
+  orig: 187, 178
+  offset: 0, 0
+  index: -1
+smog1
+  rotate: true
+  xy: 1617, 230
+  size: 217, 80
+  orig: 217, 80
+  offset: 0, 0
+  index: -1
+m_earth_titan2_body
+  rotate: true
+  xy: 953, 277
+  size: 266, 248
+  orig: 266, 248
+  offset: 0, 0
+  index: -1
+m_earth_titan2_head1_eff
+  rotate: false
+  xy: 1420, 237
+  size: 195, 226
+  orig: 195, 226
+  offset: 0, 0
+  index: -1
+m_earth_titan2_head2
+  rotate: true
+  xy: 605, 624
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+m_earth_titan2_groggyarm2
+  rotate: false
+  xy: 1196, 545
+  size: 69, 121
+  orig: 69, 121
+  offset: 0, 0
+  index: -1
+m_earth_titan2_leg1
+  rotate: false
+  xy: 1880, 343
+  size: 132, 171
+  orig: 132, 171
+  offset: 0, 0
+  index: -1
+m_earth_titan2_groggy_leg2
+  rotate: false
+  xy: 1098, 545
+  size: 96, 124
+  orig: 96, 124
+  offset: 0, 0
+  index: -1
+smog2
+  rotate: true
+  xy: 2, 345
+  size: 322, 124
+  orig: 322, 124
+  offset: 0, 0
+  index: -1
+m_earth_titan2_arm2
+  rotate: true
+  xy: 1263, 2
+  size: 233, 215
+  orig: 233, 215
+  offset: 0, 0
+  index: -1
+m_earth_titan2_arm2_eff
+  rotate: true
+  xy: 1203, 248
+  size: 233, 215
+  orig: 233, 215
+  offset: 0, 0
+  index: -1
+m_earth_titan2_head1
+  rotate: false
+  xy: 1480, 2
+  size: 195, 226
+  orig: 195, 226
+  offset: 0, 0
+  index: -1
+m_earth_titan2_eye
+  rotate: false
+  xy: 648, 624
+  size: 66, 23
+  orig: 66, 23
+  offset: 0, 0
+  index: -1
+m_earth_titan2_groggy_head
+  rotate: false
+  xy: 1622, 449
+  size: 165, 212
+  orig: 165, 212
+  offset: 0, 0
+  index: -1
+m_earth_titan2_hand1_eff
+  rotate: true
+  xy: 164, 2
+  size: 339, 338
+  orig: 339, 338
+  offset: 0, 0
+  index: -1
+m_earth_titan2_body_eff
+  rotate: false
+  xy: 1031, 2
+  size: 230, 244
+  orig: 266, 248
+  offset: 36, 4
+  index: -1
+m_earth_titan2_eyeeff
+  rotate: true
+  xy: 2, 2
+  size: 341, 160
+  orig: 349, 172
+  offset: 0, 6
+  index: -1
+m_earth_titan2_eff02
+  rotate: true
+  xy: 340, 343
+  size: 329, 220
+  orig: 329, 220
+  offset: 0, 0
+  index: -1
+m_earth_titan2_arm1_eff
+  rotate: false
+  xy: 844, 2
+  size: 185, 273
+  orig: 211, 273
+  offset: 0, 0
+  index: -1
+m_earth_titan2_arm1
+  rotate: false
+  xy: 740, 343
+  size: 211, 273
+  orig: 211, 273
+  offset: 0, 0
+  index: -1
+m_earth_titan2_groggy_arm1
+  rotate: false
+  xy: 562, 343
+  size: 176, 279
+  orig: 176, 279
+  offset: 0, 0
+  index: -1

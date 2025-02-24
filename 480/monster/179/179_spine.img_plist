@@ -1,0 +1,291 @@
+179_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_elder_gro_arm4
+  rotate: true
+  xy: 1666, 279
+  size: 78, 72
+  orig: 78, 154
+  offset: 0, 56
+  index: -1
+m_elder_smo
+  rotate: true
+  xy: 803, 2
+  size: 318, 179
+  orig: 328, 191
+  offset: 5, 8
+  index: -1
+m_elder_foot2
+  rotate: true
+  xy: 1743, 253
+  size: 99, 117
+  orig: 99, 117
+  offset: 0, 0
+  index: -1
+m_elder_tail
+  rotate: true
+  xy: 533, 2
+  size: 365, 268
+  orig: 365, 268
+  offset: 0, 0
+  index: -1
+m_elder_neck
+  rotate: false
+  xy: 1165, 306
+  size: 173, 212
+  orig: 173, 212
+  offset: 0, 0
+  index: -1
+m_elder_mouthacc1
+  rotate: false
+  xy: 1534, 252
+  size: 130, 227
+  orig: 152, 227
+  offset: 22, 0
+  index: -1
+m_elder_smo2
+  rotate: true
+  xy: 984, 2
+  size: 302, 216
+  orig: 314, 230
+  offset: 3, 7
+  index: -1
+m_elder_gro_fin2
+  rotate: false
+  xy: 1893, 128
+  size: 61, 70
+  orig: 65, 98
+  offset: 4, 23
+  index: -1
+m_elder_gro_brow22
+  rotate: false
+  xy: 1853, 357
+  size: 98, 89
+  orig: 106, 89
+  offset: 7, 0
+  index: -1
+m_elder_mouth1
+  rotate: true
+  xy: 1955, 258
+  size: 102, 86
+  orig: 102, 88
+  offset: 0, 0
+  index: -1
+m_elder_gro_wing
+  rotate: true
+  xy: 1658, 2
+  size: 212, 83
+  orig: 380, 301
+  offset: 2, 217
+  index: -1
+m_elder_arm2
+  rotate: false
+  xy: 1044, 306
+  size: 119, 218
+  orig: 119, 218
+  offset: 0, 0
+  index: -1
+m_elder_leg2
+  rotate: true
+  xy: 942, 362
+  size: 165, 100
+  orig: 165, 100
+  offset: 0, 0
+  index: -1
+m_elder_leg1
+  rotate: false
+  xy: 801, 369
+  size: 139, 152
+  orig: 139, 152
+  offset: 0, 0
+  index: -1
+m_elder_arm1
+  rotate: false
+  xy: 1743, 2
+  size: 211, 124
+  orig: 211, 176
+  offset: 0, 52
+  index: -1
+m_elder_gro_head
+  rotate: false
+  xy: 158, 391
+  size: 133, 135
+  orig: 169, 159
+  offset: 14, 12
+  index: -1
+m_elder_foot1
+  rotate: true
+  xy: 2, 391
+  size: 136, 154
+  orig: 136, 154
+  offset: 0, 0
+  index: -1
+m_elder_arm3
+  rotate: false
+  xy: 1743, 128
+  size: 148, 123
+  orig: 148, 123
+  offset: 0, 0
+  index: -1
+m_elder_brow22
+  rotate: false
+  xy: 1738, 456
+  size: 106, 69
+  orig: 106, 89
+  offset: 0, 7
+  index: -1
+m_elder_brow21
+  rotate: true
+  xy: 390, 384
+  size: 140, 158
+  orig: 140, 158
+  offset: 0, 0
+  index: -1
+m_elder_gro_arm1
+  rotate: false
+  xy: 1740, 354
+  size: 111, 100
+  orig: 211, 176
+  offset: 57, 65
+  index: -1
+m_elder_gro_mouthacc1
+  rotate: true
+  xy: 293, 384
+  size: 144, 95
+  orig: 152, 227
+  offset: 0, 48
+  index: -1
+m_elder_head
+  rotate: false
+  xy: 550, 369
+  size: 169, 159
+  orig: 169, 159
+  offset: 0, 0
+  index: -1
+m_elder_gro_arm11
+  rotate: true
+  xy: 882, 322
+  size: 38, 98
+  orig: 38, 98
+  offset: 0, 0
+  index: -1
+m_elder_arm4
+  rotate: false
+  xy: 721, 369
+  size: 78, 154
+  orig: 78, 154
+  offset: 0, 0
+  index: -1
+m_elder_body2
+  rotate: true
+  xy: 1477, 2
+  size: 248, 179
+  orig: 248, 179
+  offset: 0, 0
+  index: -1
+m_elder_mouth2
+  rotate: true
+  xy: 1953, 362
+  size: 102, 88
+  orig: 102, 88
+  offset: 0, 0
+  index: -1
+m_elder_eff2
+  rotate: true
+  xy: 984, 306
+  size: 54, 51
+  orig: 60, 59
+  offset: 2, 4
+  index: -1
+m_elder_eff1
+  rotate: true
+  xy: 1862, 253
+  size: 102, 91
+  orig: 104, 95
+  offset: 0, 2
+  index: -1
+m_elder_wing2
+  rotate: true
+  xy: 2, 2
+  size: 387, 226
+  orig: 387, 226
+  offset: 0, 0
+  index: -1
+m_elder_fin2
+  rotate: true
+  xy: 1853, 448
+  size: 65, 98
+  orig: 65, 98
+  offset: 0, 0
+  index: -1
+m_elder_gro_brow12
+  rotate: false
+  xy: 1666, 216
+  size: 75, 61
+  orig: 75, 83
+  offset: 0, 22
+  index: -1
+m_elder_fin1
+  rotate: true
+  xy: 1956, 2
+  size: 67, 85
+  orig: 67, 85
+  offset: 0, 0
+  index: -1
+m_elder_brow12
+  rotate: true
+  xy: 803, 322
+  size: 45, 77
+  orig: 75, 83
+  offset: 17, 0
+  index: -1
+m_elder_effcc
+  rotate: true
+  xy: 1429, 2
+  size: 267, 46
+  orig: 267, 48
+  offset: 0, 0
+  index: -1
+m_elder_brow11
+  rotate: true
+  xy: 1956, 163
+  size: 93, 79
+  orig: 93, 79
+  offset: 0, 0
+  index: -1
+m_elder_wing
+  rotate: true
+  xy: 230, 2
+  size: 380, 301
+  orig: 380, 301
+  offset: 0, 0
+  index: -1
+m_elder_gro_body1
+  rotate: false
+  xy: 1666, 359
+  size: 70, 109
+  orig: 294, 225
+  offset: 128, 24
+  index: -1
+m_elder_body1
+  rotate: true
+  xy: 1202, 2
+  size: 294, 225
+  orig: 294, 225
+  offset: 0, 0
+  index: -1
+m_elder_fin3
+  rotate: false
+  xy: 1956, 71
+  size: 82, 90
+  orig: 82, 90
+  offset: 0, 0
+  index: -1
+m_elder_mouthacc2
+  rotate: true
+  xy: 1340, 298
+  size: 230, 192
+  orig: 230, 192
+  offset: 0, 0
+  index: -1

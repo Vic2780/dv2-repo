@@ -1,0 +1,361 @@
+181_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_gatekeeper_finger4
+  rotate: false
+  xy: 1068, 102
+  size: 62, 93
+  orig: 62, 93
+  offset: 0, 0
+  index: -1
+m_gatekeeper_handl
+  rotate: false
+  xy: 512, 1669
+  size: 152, 151
+  orig: 152, 151
+  offset: 0, 0
+  index: -1
+m_gatekeeper_armlight1
+  rotate: false
+  xy: 740, 1042
+  size: 200, 146
+  orig: 200, 146
+  offset: 0, 0
+  index: -1
+m_gatekeeper_capel
+  rotate: false
+  xy: 272, 1167
+  size: 248, 352
+  orig: 248, 352
+  offset: 0, 0
+  index: -1
+m_gatekeeper_sword22
+  rotate: false
+  xy: 985, 1344
+  size: 137, 156
+  orig: 137, 156
+  offset: 0, 0
+  index: -1
+m_gatekeeper_sword2
+  rotate: true
+  xy: 797, 1688
+  size: 133, 156
+  orig: 137, 156
+  offset: 4, 0
+  index: -1
+m_gatekeeper_tail1
+  rotate: true
+  xy: 343, 1849
+  size: 174, 188
+  orig: 218, 188
+  offset: 44, 0
+  index: -1
+m_gatekeeper_caper
+  rotate: false
+  xy: 527, 851
+  size: 211, 344
+  orig: 211, 344
+  offset: 0, 0
+  index: -1
+m_gatekeeper_finger12
+  rotate: true
+  xy: 731, 1959
+  size: 77, 83
+  orig: 77, 83
+  offset: 0, 0
+  index: -1
+m_gatekeeper_sword21
+  rotate: true
+  xy: 799, 1553
+  size: 133, 156
+  orig: 137, 156
+  offset: 4, 0
+  index: -1
+m_gatekeeper_groggy_head
+  rotate: true
+  xy: 724, 324
+  size: 176, 236
+  orig: 176, 236
+  offset: 0, 0
+  index: -1
+m_gatekeeper_groggy_capec
+  rotate: false
+  xy: 2, 505
+  size: 523, 329
+  orig: 523, 329
+  offset: 0, 0
+  index: -1
+m_gatekeeper_groggy_capel
+  rotate: false
+  xy: 2, 1503
+  size: 248, 352
+  orig: 248, 352
+  offset: 0, 0
+  index: -1
+m_gatekeeper_hood1
+  rotate: true
+  xy: 522, 1197
+  size: 308, 280
+  orig: 308, 280
+  offset: 0, 0
+  index: -1
+m_gatekeeper_sword1
+  rotate: false
+  xy: 2, 1857
+  size: 181, 179
+  orig: 181, 179
+  offset: 0, 0
+  index: -1
+m_gatekeeper_sholder_r
+  rotate: true
+  xy: 957, 1608
+  size: 79, 151
+  orig: 79, 151
+  offset: 0, 0
+  index: -1
+m_gatekeeper_groggy_caper
+  rotate: false
+  xy: 527, 505
+  size: 211, 344
+  orig: 211, 344
+  offset: 0, 0
+  index: -1
+m_gatekeeper_smog2
+  rotate: false
+  xy: 533, 1822
+  size: 120, 170
+  orig: 120, 170
+  offset: 0, 0
+  index: -1
+m_gatekeeper_capec
+  rotate: false
+  xy: 2, 836
+  size: 523, 329
+  orig: 523, 329
+  offset: 0, 0
+  index: -1
+m_gatekeeper_tail3
+  rotate: true
+  xy: 804, 1190
+  size: 210, 174
+  orig: 218, 188
+  offset: 0, 8
+  index: -1
+m_gatekeeper_body11
+  rotate: false
+  xy: 1068, 2
+  size: 62, 98
+  orig: 62, 98
+  offset: 0, 0
+  index: -1
+sample
+  rotate: false
+  xy: 2, 2
+  size: 720, 501
+  orig: 768, 519
+  offset: 10, 10
+  index: -1
+m_gatekeeper_belt
+  rotate: false
+  xy: 985, 1502
+  size: 140, 104
+  orig: 140, 104
+  offset: 0, 0
+  index: -1
+m_gatekeeper_smog1
+  rotate: false
+  xy: 731, 1823
+  size: 97, 134
+  orig: 97, 134
+  offset: 0, 0
+  index: -1
+m_gatekeeper_neck
+  rotate: false
+  xy: 522, 1507
+  size: 194, 160
+  orig: 194, 160
+  offset: 0, 0
+  index: -1
+m_gatekeeper_arm_r
+  rotate: false
+  xy: 804, 1402
+  size: 179, 149
+  orig: 179, 149
+  offset: 0, 0
+  index: -1
+m_gatekeeper_groggy_finger12
+  rotate: true
+  xy: 903, 1905
+  size: 45, 71
+  orig: 45, 71
+  offset: 0, 0
+  index: -1
+m_gatekeeper_groggy_belt
+  rotate: true
+  xy: 1068, 197
+  size: 121, 44
+  orig: 121, 44
+  offset: 0, 0
+  index: -1
+m_gatekeeper_groggy_body1
+  rotate: true
+  xy: 718, 1507
+  size: 171, 79
+  orig: 171, 79
+  offset: 0, 0
+  index: -1
+m_gatekeeper_finger1
+  rotate: false
+  xy: 655, 1822
+  size: 74, 142
+  orig: 74, 142
+  offset: 0, 0
+  index: -1
+m_gatekeeper_armlight2
+  rotate: true
+  xy: 185, 1857
+  size: 179, 156
+  orig: 179, 156
+  offset: 0, 0
+  index: -1
+m_gatekeeper_groggy_finger
+  rotate: true
+  xy: 533, 1994
+  size: 30, 53
+  orig: 30, 53
+  offset: 0, 0
+  index: -1
+m_gatekeeper_finger41
+  rotate: false
+  xy: 910, 1952
+  size: 68, 79
+  orig: 68, 79
+  offset: 0, 0
+  index: -1
+m_gatekeeper_swordlight2
+  rotate: false
+  xy: 2, 1167
+  size: 268, 334
+  orig: 342, 334
+  offset: 2, 0
+  index: -1
+m_gatekeeper_head
+  rotate: false
+  xy: 740, 800
+  size: 203, 240
+  orig: 203, 240
+  offset: 0, 0
+  index: -1
+m_gatekeeper_swordlight1
+  rotate: false
+  xy: 252, 1521
+  size: 258, 326
+  orig: 342, 334
+  offset: 6, 0
+  index: -1
+m_gatekeeper_headlight
+  rotate: false
+  xy: 955, 1689
+  size: 137, 119
+  orig: 137, 119
+  offset: 0, 0
+  index: -1
+m_gatekeeper_hand_r
+  rotate: false
+  xy: 666, 1680
+  size: 129, 132
+  orig: 129, 132
+  offset: 0, 0
+  index: -1
+m_gatekeeper_groggy_finger4
+  rotate: false
+  xy: 1061, 1810
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+m_gatekeeper_finger2
+  rotate: false
+  xy: 830, 1823
+  size: 71, 137
+  orig: 71, 137
+  offset: 0, 0
+  index: -1
+m_gatekeeper_armlight3
+  rotate: true
+  xy: 971, 523
+  size: 192, 143
+  orig: 192, 143
+  offset: 0, 0
+  index: -1
+m_gatekeeper_groggy_finger1
+  rotate: false
+  xy: 903, 1823
+  size: 77, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+m_gatekeeper_groggy_armr
+  rotate: false
+  xy: 982, 1810
+  size: 77, 80
+  orig: 77, 80
+  offset: 0, 0
+  index: -1
+m_gatekeeper_smog3
+  rotate: false
+  xy: 985, 324
+  size: 145, 197
+  orig: 145, 197
+  offset: 0, 0
+  index: -1
+m_gatekeeper_swordlight3
+  rotate: false
+  xy: 724, 2
+  size: 342, 320
+  orig: 342, 334
+  offset: 0, 1
+  index: -1
+m_gatekeeper_groggy_hood1
+  rotate: true
+  xy: 740, 502
+  size: 296, 229
+  orig: 296, 229
+  offset: 0, 0
+  index: -1
+m_gatekeeper_finger3
+  rotate: false
+  xy: 816, 1962
+  size: 92, 72
+  orig: 92, 72
+  offset: 0, 0
+  index: -1
+m_gatekeeper_groggy_arml
+  rotate: true
+  xy: 980, 1177
+  size: 165, 140
+  orig: 165, 140
+  offset: 0, 0
+  index: -1
+m_gatekeeper_tail2
+  rotate: true
+  xy: 945, 983
+  size: 192, 174
+  orig: 218, 188
+  offset: 18, 9
+  index: -1
+m_gatekeeper_body1
+  rotate: false
+  xy: 945, 867
+  size: 185, 114
+  orig: 185, 114
+  offset: 0, 0
+  index: -1
+m_gatekeeper_waist
+  rotate: true
+  xy: 985, 717
+  size: 148, 145
+  orig: 148, 147
+  offset: 0, 2
+  index: -1

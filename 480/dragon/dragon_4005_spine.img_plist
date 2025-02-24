@@ -1,0 +1,879 @@
+dragon_4005_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_zephyros_child_necks
+  rotate: true
+  xy: 325, 520
+  size: 25, 29
+  orig: 35, 47
+  offset: 0, 18
+  index: -1
+dragon_zephyros_adult_leg6
+  rotate: false
+  xy: 1997, 465
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_headb
+  rotate: false
+  xy: 1261, 349
+  size: 38, 37
+  orig: 72, 65
+  offset: 13, 14
+  index: -1
+dragon_zephyros_adult_wing2
+  rotate: false
+  xy: 1088, 435
+  size: 133, 110
+  orig: 133, 110
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_leg1
+  rotate: false
+  xy: 511, 505
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_arm2h
+  rotate: false
+  xy: 627, 533
+  size: 14, 9
+  orig: 48, 35
+  offset: 5, 26
+  index: -1
+dragon_zephyros_adult_love
+  rotate: true
+  xy: 1858, 188
+  size: 16, 15
+  orig: 72, 65
+  offset: 5, 8
+  index: -1
+dragon_zephyros_baby_mouth
+  rotate: false
+  xy: 396, 520
+  size: 29, 17
+  orig: 59, 53
+  offset: 11, 0
+  index: -1
+dragon_zephyros_e_e_leg_eff
+  rotate: true
+  xy: 1785, 338
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+dragon_zephyros_e_e_tail_eff
+  rotate: true
+  xy: 1250, 435
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_ef7
+  rotate: true
+  xy: 989, 2
+  size: 192, 244
+  orig: 384, 326
+  offset: 102, 16
+  index: -1
+dragon_zephyros_adult_arm1
+  rotate: false
+  xy: 2026, 44
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_arm11
+  rotate: false
+  xy: 2026, 2
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_leg2
+  rotate: false
+  xy: 1293, 526
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+dragon_zephyros_child_arm1
+  rotate: false
+  xy: 1862, 518
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+dragon_zephyros_e_wing_p
+  rotate: false
+  xy: 1948, 348
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+dragon_zephyros_child_neck
+  rotate: true
+  xy: 462, 505
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_efbar1
+  rotate: false
+  xy: 434, 499
+  size: 119, 4
+  orig: 119, 8
+  offset: 0, 2
+  index: -1
+dragon_zephyros_adult_necks
+  rotate: false
+  xy: 174, 522
+  size: 28, 23
+  orig: 42, 59
+  offset: 0, 34
+  index: -1
+dragon_zephyros_adult_arm2
+  rotate: false
+  xy: 2005, 229
+  size: 41, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+dragon_zephyros_e_leg_p1
+  rotate: false
+  xy: 2010, 392
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_eye
+  rotate: false
+  xy: 2005, 266
+  size: 8, 9
+  orig: 72, 65
+  offset: 10, 11
+  index: -1
+dragon_zephyros_e_e_arm_tatoo
+  rotate: true
+  xy: 707, 344
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+dragon_zephyros_e_e_head_eff
+  rotate: false
+  xy: 750, 490
+  size: 58, 52
+  orig: 60, 66
+  offset: 2, 14
+  index: -1
+dragon_zephyros_adult_wing1b
+  rotate: false
+  xy: 1875, 188
+  size: 128, 88
+  orig: 134, 122
+  offset: 0, 18
+  index: -1
+dragon_zephyros_baby_tailb
+  rotate: false
+  xy: 1261, 388
+  size: 38, 25
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_arm2s
+  rotate: true
+  xy: 1980, 442
+  size: 14, 9
+  orig: 48, 35
+  offset: 5, 22
+  index: -1
+dragon_zephyros_adult_wing1s
+  rotate: true
+  xy: 1785, 208
+  size: 128, 88
+  orig: 134, 122
+  offset: 0, 18
+  index: -1
+dragon_zephyros_adult_ef6
+  rotate: true
+  xy: 1235, 2
+  size: 192, 244
+  orig: 384, 326
+  offset: 102, 16
+  index: -1
+dragon_zephyros_e_arm1_p
+  rotate: true
+  xy: 1223, 435
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+dragon_zephyros_child_arm2
+  rotate: true
+  xy: 2005, 188
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+dragon_zephyros_child_bodyb
+  rotate: false
+  xy: 1813, 493
+  size: 47, 47
+  orig: 89, 55
+  offset: 3, 0
+  index: -1
+dragon_zephyros_adult_tailb
+  rotate: true
+  xy: 1735, 368
+  size: 120, 76
+  orig: 120, 140
+  offset: 0, 0
+  index: -1
+dragon_zephyros_baby_leg1
+  rotate: true
+  xy: 1997, 499
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+dragon_zephyros_child_tailb
+  rotate: false
+  xy: 88, 522
+  size: 84, 23
+  orig: 86, 57
+  offset: 2, 0
+  index: -1
+dragon_zephyros_child_head
+  rotate: false
+  xy: 1543, 468
+  size: 67, 60
+  orig: 67, 62
+  offset: 0, 2
+  index: -1
+dragon_zephyros_eff_e_ef2
+  rotate: true
+  xy: 1037, 196
+  size: 151, 262
+  orig: 151, 266
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_bodyb
+  rotate: false
+  xy: 1418, 469
+  size: 54, 61
+  orig: 74, 67
+  offset: 0, 2
+  index: -1
+dragon_zephyros_adult_ef5
+  rotate: false
+  xy: 382, 2
+  size: 358, 306
+  orig: 384, 326
+  offset: 14, 6
+  index: -1
+dragon_zephyros_e_leg_p2
+  rotate: false
+  xy: 2019, 499
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_craw
+  rotate: false
+  xy: 1408, 532
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+dragon_zephyros_child_neckb
+  rotate: false
+  xy: 1795, 99
+  size: 27, 45
+  orig: 35, 47
+  offset: 0, 2
+  index: -1
+dragon_zephyros_adult_att
+  rotate: false
+  xy: 1070, 481
+  size: 16, 17
+  orig: 72, 65
+  offset: 5, 7
+  index: -1
+dragon_zephyros_baby_heart
+  rotate: true
+  xy: 555, 499
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_zephyros_eff_e_smo2
+  rotate: true
+  xy: 1698, 208
+  size: 158, 85
+  orig: 164, 99
+  offset: 4, 13
+  index: -1
+dragon_zephyros_adult_leg3
+  rotate: true
+  xy: 1723, 527
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_neckh
+  rotate: false
+  xy: 1293, 415
+  size: 6, 9
+  orig: 42, 59
+  offset: 9, 15
+  index: -1
+dragon_zephyros_baby_tail
+  rotate: false
+  xy: 989, 196
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+dragon_zephyros_eff_e_e02
+  rotate: false
+  xy: 742, 229
+  size: 293, 126
+  orig: 293, 126
+  offset: 0, 0
+  index: -1
+dragon_zephyros_e_body_p
+  rotate: false
+  xy: 659, 310
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_arm3h
+  rotate: true
+  xy: 2037, 317
+  size: 14, 9
+  orig: 52, 35
+  offset: 9, 26
+  index: -1
+dragon_zephyros_baby_love
+  rotate: true
+  xy: 1887, 486
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_ef1
+  rotate: true
+  xy: 1470, 208
+  size: 158, 226
+  orig: 158, 226
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_arm3
+  rotate: false
+  xy: 1723, 490
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_wing2b
+  rotate: false
+  xy: 1293, 426
+  size: 123, 98
+  orig: 133, 110
+  offset: 3, 0
+  index: -1
+dragon_zephyros_adult_mouth
+  rotate: false
+  xy: 1997, 528
+  size: 22, 17
+  orig: 72, 65
+  offset: 4, 0
+  index: -1
+dragon_zephyros_child_wing
+  rotate: true
+  xy: 1223, 468
+  size: 77, 68
+  orig: 77, 68
+  offset: 0, 0
+  index: -1
+dragon_zephyros_baby_leg2
+  rotate: true
+  xy: 234, 522
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+dragon_zephyros_e_tail_p
+  rotate: false
+  xy: 1976, 278
+  size: 37, 64
+  orig: 37, 64
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_stone2
+  rotate: true
+  xy: 1821, 188
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+dragon_zephyros_e_e_arm_eff
+  rotate: false
+  xy: 948, 535
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dragon_zephyros_e_e_wing_eff
+  rotate: true
+  xy: 382, 310
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_ef4
+  rotate: false
+  xy: 2, 2
+  size: 378, 324
+  orig: 384, 326
+  offset: 3, 1
+  index: -1
+dragon_zephyros_child_foot
+  rotate: true
+  xy: 2015, 301
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+dragon_zephyros_e_e_leg_eff2
+  rotate: false
+  xy: 1392, 526
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_neck
+  rotate: false
+  xy: 1679, 468
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+dragon_zephyros_eff_e_x01
+  rotate: false
+  xy: 742, 2
+  size: 245, 225
+  orig: 251, 225
+  offset: 0, 0
+  index: -1
+dragon_zephyros_child_leg1
+  rotate: false
+  xy: 434, 505
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_arm2b
+  rotate: false
+  xy: 1627, 530
+  size: 14, 15
+  orig: 48, 35
+  offset: 5, 20
+  index: -1
+dragon_zephyros_eff_e_x
+  rotate: true
+  xy: 659, 357
+  size: 131, 149
+  orig: 131, 149
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_mef1
+  rotate: false
+  xy: 2008, 429
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+dragon_zephyros_e_head_p
+  rotate: true
+  xy: 1612, 468
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+dragon_zephyros_child_heads
+  rotate: false
+  xy: 1949, 412
+  size: 29, 44
+  orig: 67, 62
+  offset: 11, 12
+  index: -1
+dragon_zephyros_e_e_tail_tatoo
+  rotate: false
+  xy: 627, 499
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_body
+  rotate: false
+  xy: 1872, 348
+  size: 74, 67
+  orig: 74, 67
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_arm3s
+  rotate: true
+  xy: 2037, 301
+  size: 14, 9
+  orig: 52, 35
+  offset: 9, 22
+  index: -1
+dragon_zephyros_adult_leg4
+  rotate: true
+  xy: 1795, 146
+  size: 51, 24
+  orig: 51, 24
+  offset: 0, 0
+  index: -1
+dragon_zephyros_child_tail
+  rotate: true
+  xy: 1813, 338
+  size: 86, 57
+  orig: 86, 57
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_wing2s
+  rotate: false
+  xy: 1875, 278
+  size: 99, 68
+  orig: 133, 110
+  offset: 27, 31
+  index: -1
+dragon_zephyros_child_eye
+  rotate: true
+  xy: 1327, 526
+  size: 19, 22
+  orig: 67, 62
+  offset: 30, 10
+  index: -1
+dragon_zephyros_child_wingb
+  rotate: false
+  xy: 879, 479
+  size: 67, 66
+  orig: 77, 68
+  offset: 3, 0
+  index: -1
+dragon_zephyros_adult_mef2
+  rotate: false
+  xy: 2016, 123
+  size: 30, 30
+  orig: 34, 34
+  offset: 1, 3
+  index: -1
+dragon_zephyros_child_body
+  rotate: false
+  xy: 659, 490
+  size: 89, 55
+  orig: 89, 55
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_hit
+  rotate: false
+  xy: 1609, 530
+  size: 16, 15
+  orig: 72, 65
+  offset: 5, 8
+  index: -1
+dragon_zephyros_adult_foot1
+  rotate: true
+  xy: 2026, 84
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_heads
+  rotate: true
+  xy: 707, 310
+  size: 32, 33
+  orig: 72, 65
+  offset: 18, 15
+  index: -1
+dragon_zephyros_baby_head
+  rotate: true
+  xy: 1942, 486
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+dragon_zephyros_eff_e_x00
+  rotate: false
+  xy: 1301, 196
+  size: 167, 228
+  orig: 167, 228
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_head
+  rotate: false
+  xy: 1813, 426
+  size: 72, 65
+  orig: 72, 65
+  offset: 0, 0
+  index: -1
+dragon_zephyros_child_leg2
+  rotate: false
+  xy: 1980, 403
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+dragon_zephyros_child_wings
+  rotate: false
+  xy: 810, 479
+  size: 67, 66
+  orig: 77, 68
+  offset: 3, 0
+  index: -1
+dragon_zephyros_baby_bodyb
+  rotate: false
+  xy: 1543, 530
+  size: 42, 15
+  orig: 50, 41
+  offset: 8, 0
+  index: -1
+dragon_zephyros_child_hand
+  rotate: false
+  xy: 1261, 415
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+dragon_zephyros_baby_headb
+  rotate: true
+  xy: 290, 520
+  size: 25, 33
+  orig: 59, 53
+  offset: 34, 15
+  index: -1
+dragon_zephyros_adult_stone1
+  rotate: false
+  xy: 1427, 532
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_foot2
+  rotate: false
+  xy: 356, 520
+  size: 38, 17
+  orig: 38, 17
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_efbar2
+  rotate: true
+  xy: 2016, 2
+  size: 119, 8
+  orig: 119, 8
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_bodyh
+  rotate: false
+  xy: 2016, 155
+  size: 24, 31
+  orig: 74, 67
+  offset: 0, 32
+  index: -1
+dragon_zephyros_child_bodys
+  rotate: false
+  xy: 1351, 526
+  size: 39, 11
+  orig: 89, 55
+  offset: 11, 0
+  index: -1
+dragon_zephyros_adult_ef3
+  rotate: false
+  xy: 248, 328
+  size: 184, 190
+  orig: 228, 260
+  offset: 19, 16
+  index: -1
+dragon_zephyros_eff_e_xsp2
+  rotate: false
+  xy: 1470, 368
+  size: 263, 98
+  orig: 263, 98
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_hand
+  rotate: true
+  xy: 204, 522
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_ef8
+  rotate: true
+  xy: 2, 328
+  size: 192, 244
+  orig: 384, 326
+  offset: 101, 16
+  index: -1
+dragon_zephyros_adult_tail
+  rotate: true
+  xy: 810, 357
+  size: 120, 140
+  orig: 120, 140
+  offset: 0, 0
+  index: -1
+dragon_zephyros_baby_body
+  rotate: false
+  xy: 1418, 426
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_bodys
+  rotate: false
+  xy: 1777, 490
+  size: 34, 45
+  orig: 74, 67
+  offset: 16, 2
+  index: -1
+dragon_zephyros_e_e_body_eff
+  rotate: true
+  xy: 2010, 344
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+dragon_zephyros_eff_e_e01
+  rotate: false
+  xy: 1481, 99
+  size: 312, 107
+  orig: 312, 107
+  offset: 0, 0
+  index: -1
+dragon_zephyros_eff_e_xsp
+  rotate: false
+  xy: 1481, 2
+  size: 341, 95
+  orig: 349, 95
+  offset: 1, 0
+  index: -1
+dragon_zephyros_eff_e_xx
+  rotate: true
+  xy: 1474, 468
+  size: 65, 67
+  orig: 65, 67
+  offset: 0, 0
+  index: -1
+dragon_zephyros_baby_eye
+  rotate: false
+  xy: 1862, 493
+  size: 23, 23
+  orig: 59, 53
+  offset: 21, 5
+  index: -1
+dragon_zephyros_baby_arm
+  rotate: false
+  xy: 248, 520
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+dragon_zephyros_child_heart
+  rotate: true
+  xy: 555, 499
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_zephyros_child_mouth
+  rotate: true
+  xy: 2015, 266
+  size: 33, 26
+  orig: 67, 62
+  offset: 27, 0
+  index: -1
+dragon_zephyros_adult_leg5
+  rotate: false
+  xy: 1949, 458
+  size: 37, 26
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_neckb
+  rotate: false
+  xy: 1976, 344
+  size: 32, 57
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+dragon_zephyros_child_headb
+  rotate: false
+  xy: 596, 499
+  size: 29, 46
+  orig: 67, 62
+  offset: 11, 10
+  index: -1
+dragon_zephyros_eff_e_x2
+  rotate: false
+  xy: 434, 310
+  size: 223, 187
+  orig: 227, 187
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_wing1
+  rotate: false
+  xy: 952, 357
+  size: 134, 122
+  orig: 134, 122
+  offset: 0, 0
+  index: -1
+dragon_zephyros_eff_e_smo
+  rotate: false
+  xy: 1088, 349
+  size: 171, 84
+  orig: 173, 84
+  offset: 2, 0
+  index: -1
+dragon_zephyros_adult_tails
+  rotate: false
+  xy: 948, 481
+  size: 120, 52
+  orig: 120, 140
+  offset: 0, 0
+  index: -1
+dragon_zephyros_adult_ef2
+  rotate: true
+  xy: 1824, 2
+  size: 184, 190
+  orig: 228, 260
+  offset: 18, 16
+  index: -1
+dragon_zephyros_child_tails
+  rotate: false
+  xy: 2, 522
+  size: 84, 23
+  orig: 86, 57
+  offset: 2, 0
+  index: -1
+dragon_zephyros_adult_arm3b
+  rotate: false
+  xy: 1587, 530
+  size: 20, 15
+  orig: 52, 35
+  offset: 3, 20
+  index: -1
+dragon_zephyros_child_love
+  rotate: true
+  xy: 1887, 417
+  size: 67, 60
+  orig: 67, 62
+  offset: 0, 2
+  index: -1

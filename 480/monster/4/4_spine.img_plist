@@ -1,0 +1,144 @@
+4_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_dforest_mause
+  rotate: true
+  xy: 980, 245
+  size: 100, 24
+  orig: 128, 56
+  offset: 16, 19
+  index: -1
+m_dforest_bone2
+  rotate: false
+  xy: 904, 311
+  size: 74, 87
+  orig: 114, 125
+  offset: 22, 19
+  index: -1
+m_dforest_arm1
+  rotate: true
+  xy: 521, 152
+  size: 130, 241
+  orig: 182, 287
+  offset: 23, 17
+  index: -1
+m_dforest_groggybone2
+  rotate: false
+  xy: 828, 311
+  size: 74, 87
+  orig: 114, 125
+  offset: 22, 19
+  index: -1
+m_dforest_groggyarm2
+  rotate: true
+  xy: 611, 2
+  size: 148, 246
+  orig: 194, 286
+  offset: 9, 16
+  index: -1
+m_dforest_smoke
+  rotate: false
+  xy: 361, 134
+  size: 158, 88
+  orig: 230, 128
+  offset: 30, 28
+  index: -1
+m_dforest_bone1
+  rotate: true
+  xy: 916, 400
+  size: 74, 86
+  orig: 128, 134
+  offset: 25, 24
+  index: -1
+m_dforest_groggybody
+  rotate: false
+  xy: 488, 284
+  size: 168, 184
+  orig: 204, 218
+  offset: 24, 6
+  index: -1
+m_dforset_nose
+  rotate: false
+  xy: 806, 152
+  size: 51, 19
+  orig: 79, 63
+  offset: 10, 21
+  index: -1
+m_dforest_groggyleg
+  rotate: false
+  xy: 2, 2
+  size: 359, 128
+  orig: 423, 188
+  offset: 44, 16
+  index: -1
+m_dforest_leg
+  rotate: false
+  xy: 2, 132
+  size: 357, 128
+  orig: 423, 188
+  offset: 46, 16
+  index: -1
+m_dforest_body
+  rotate: false
+  xy: 658, 284
+  size: 168, 184
+  orig: 204, 218
+  offset: 24, 6
+  index: -1
+m_dforest_head
+  rotate: true
+  xy: 2, 262
+  size: 220, 241
+  orig: 290, 301
+  offset: 32, 22
+  index: -1
+m_dforest_arm2
+  rotate: true
+  xy: 363, 2
+  size: 130, 246
+  orig: 194, 286
+  offset: 27, 16
+  index: -1
+m_dforest_groggyeye
+  rotate: false
+  xy: 828, 245
+  size: 135, 64
+  orig: 189, 108
+  offset: 30, 19
+  index: -1
+m_dforest_groggyarm1
+  rotate: false
+  xy: 859, 2
+  size: 136, 241
+  orig: 182, 287
+  offset: 23, 17
+  index: -1
+m_dforest_eye
+  rotate: false
+  xy: 361, 224
+  size: 127, 36
+  orig: 189, 108
+  offset: 30, 19
+  index: -1
+m_dforest_groggybone1
+  rotate: true
+  xy: 828, 400
+  size: 74, 86
+  orig: 128, 134
+  offset: 25, 24
+  index: -1
+m_dforest_groggyhead
+  rotate: true
+  xy: 245, 262
+  size: 220, 241
+  orig: 290, 301
+  offset: 23, 22
+  index: -1
+m_dforest_groggymause
+  rotate: true
+  xy: 764, 152
+  size: 128, 40
+  orig: 128, 56
+  offset: 0, 9
+  index: -1

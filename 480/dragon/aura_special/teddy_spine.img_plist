@@ -1,0 +1,46 @@
+teddy_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+teddy3
+  rotate: false
+  xy: 42, 183
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+teddy1
+  rotate: true
+  xy: 2, 183
+  size: 80, 38
+  orig: 86, 38
+  offset: 0, 0
+  index: -1
+star2
+  rotate: false
+  xy: 2, 117
+  size: 79, 64
+  orig: 95, 80
+  offset: 8, 8
+  index: -1
+star3
+  rotate: false
+  xy: 2, 2
+  size: 114, 113
+  orig: 124, 123
+  offset: 4, 5
+  index: -1
+teddy4
+  rotate: true
+  xy: 83, 117
+  size: 97, 41
+  orig: 97, 41
+  offset: 0, 0
+  index: -1
+teddy2
+  rotate: false
+  xy: 42, 226
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1

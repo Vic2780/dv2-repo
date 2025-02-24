@@ -1,0 +1,88 @@
+skill_25_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skill_berserk6
+  rotate: false
+  xy: 2, 1098
+  size: 185, 153
+  orig: 349, 349
+  offset: 121, 113
+  index: -1
+skill_berserk5
+  rotate: false
+  xy: 2, 261
+  size: 235, 185
+  orig: 349, 349
+  offset: 73, 61
+  index: -1
+skill_berserk8
+  rotate: false
+  xy: 2, 448
+  size: 221, 181
+  orig: 349, 349
+  offset: 110, 124
+  index: -1
+skill_berserk7
+  rotate: false
+  xy: 2, 2
+  size: 227, 257
+  orig: 349, 349
+  offset: 101, 26
+  index: -1
+skill_berserk9
+  rotate: false
+  xy: 2, 967
+  size: 249, 129
+  orig: 349, 349
+  offset: 69, 190
+  index: -1
+skill_berserk10
+  rotate: false
+  xy: 2, 812
+  size: 227, 153
+  orig: 349, 349
+  offset: 34, 161
+  index: -1
+skill_berserk11
+  rotate: true
+  xy: 2, 631
+  size: 179, 217
+  orig: 349, 349
+  offset: 10, 105
+  index: -1
+skill_berserk12
+  rotate: false
+  xy: 157, 1253
+  size: 93, 179
+  orig: 349, 349
+  offset: 4, 91
+  index: -1
+skill_berserk2
+  rotate: false
+  xy: 117, 1434
+  size: 103, 145
+  orig: 349, 349
+  offset: 83, 30
+  index: -1
+skill_berserk1
+  rotate: true
+  xy: 2, 1587
+  size: 123, 153
+  orig: 349, 349
+  offset: 75, 16
+  index: -1
+skill_berserk4
+  rotate: true
+  xy: 2, 1400
+  size: 185, 113
+  orig: 349, 349
+  offset: 111, 85
+  index: -1
+skill_berserk3
+  rotate: false
+  xy: 2, 1253
+  size: 153, 145
+  orig: 349, 349
+  offset: 98, 39
+  index: -1

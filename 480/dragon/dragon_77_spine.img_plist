@@ -1,0 +1,417 @@
+dragon_77_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_knight_adult_arm3
+  rotate: false
+  xy: 39, 1428
+  size: 27, 22
+  orig: 31, 22
+  offset: 1, 0
+  index: -1
+dragon_knight_baby_s
+  rotate: false
+  xy: 69, 1112
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_knight_child_leg2
+  rotate: true
+  xy: 81, 1007
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+dragon_knight_child_bleg3
+  rotate: true
+  xy: 102, 283
+  size: 29, 24
+  orig: 29, 26
+  offset: 0, 2
+  index: -1
+dragon_knight_adult_body
+  rotate: false
+  xy: 2, 464
+  size: 95, 59
+  orig: 99, 63
+  offset: 4, 4
+  index: -1
+dragon_knight_adult_eye2
+  rotate: true
+  xy: 116, 213
+  size: 21, 10
+  orig: 23, 10
+  offset: 2, 0
+  index: -1
+dragon_knight_baby_tail
+  rotate: false
+  xy: 69, 1348
+  size: 34, 28
+  orig: 38, 30
+  offset: 2, 2
+  index: -1
+dragon_knight_baby_leg4
+  rotate: false
+  xy: 105, 1428
+  size: 15, 15
+  orig: 17, 17
+  offset: 1, 2
+  index: -1
+dragon_knight_adult_arm1
+  rotate: false
+  xy: 88, 750
+  size: 37, 80
+  orig: 41, 86
+  offset: 1, 2
+  index: -1
+dragon_knight_baby_arm4
+  rotate: false
+  xy: 105, 1373
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+dragon_knight_child_head
+  rotate: true
+  xy: 2, 1043
+  size: 51, 74
+  orig: 61, 80
+  offset: 5, 3
+  index: -1
+dragon_knight_adult_wing2
+  rotate: true
+  xy: 2, 213
+  size: 68, 112
+  orig: 74, 120
+  offset: 1, 5
+  index: -1
+dragon_knight_child_leg3
+  rotate: true
+  xy: 102, 314
+  size: 25, 24
+  orig: 29, 26
+  offset: 2, 2
+  index: -1
+dragon_knight_adult_wing1
+  rotate: false
+  xy: 2, 2
+  size: 119, 146
+  orig: 119, 152
+  offset: 0, 3
+  index: -1
+dragon_knight_adult_smile
+  rotate: false
+  xy: 69, 1112
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_knight_adult_eye3
+  rotate: true
+  xy: 116, 259
+  size: 21, 8
+  orig: 23, 12
+  offset: 1, 2
+  index: -1
+dragon_knight_baby_arm6
+  rotate: false
+  xy: 2, 1392
+  size: 14, 13
+  orig: 16, 13
+  offset: 2, 0
+  index: -1
+dragon_knight_baby_arm5
+  rotate: true
+  xy: 67, 1407
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+dragon_knight_adult_head
+  rotate: false
+  xy: 69, 1298
+  size: 50, 48
+  orig: 52, 50
+  offset: 2, 0
+  index: -1
+dragon_knight_critical_ef2
+  rotate: true
+  xy: 2, 689
+  size: 128, 84
+  orig: 132, 88
+  offset: 3, 4
+  index: -1
+dragon_knight_adult_eye1
+  rotate: true
+  xy: 116, 236
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+dragon_knight_adult_tail
+  rotate: false
+  xy: 2, 370
+  size: 96, 92
+  orig: 102, 98
+  offset: 3, 2
+  index: -1
+dragon_knight_child_leg4
+  rotate: true
+  xy: 82, 888
+  size: 32, 41
+  orig: 36, 41
+  offset: 1, 0
+  index: -1
+dragon_knight_adult_neck
+  rotate: false
+  xy: 69, 1232
+  size: 50, 64
+  orig: 54, 64
+  offset: 1, 0
+  index: -1
+dragon_knight_child_eye1
+  rotate: false
+  xy: 85, 1428
+  size: 18, 19
+  orig: 20, 23
+  offset: 2, 2
+  index: -1
+dragon_knight_adult_leg4
+  rotate: false
+  xy: 32, 1411
+  size: 27, 15
+  orig: 29, 17
+  offset: 2, 2
+  index: -1
+dragon_knight_adult_armor1
+  rotate: true
+  xy: 82, 832
+  size: 54, 42
+  orig: 58, 46
+  offset: 3, 1
+  index: -1
+dragon_knight_baby_eye2
+  rotate: false
+  xy: 100, 1398
+  size: 26, 28
+  orig: 30, 32
+  offset: 2, 2
+  index: -1
+dragon_knight_baby_eye1
+  rotate: true
+  xy: 102, 341
+  size: 25, 24
+  orig: 27, 26
+  offset: 1, 1
+  index: -1
+dragon_knight_critical_ef3
+  rotate: true
+  xy: 2, 150
+  size: 61, 118
+  orig: 81, 132
+  offset: 8, 11
+  index: -1
+dragon_knight_child_leg5
+  rotate: false
+  xy: 99, 523
+  size: 27, 29
+  orig: 27, 31
+  offset: 0, 2
+  index: -1
+dragon_knight_child_wing2
+  rotate: true
+  xy: 2, 283
+  size: 85, 98
+  orig: 89, 108
+  offset: 2, 6
+  index: -1
+dragon_knight_child_eye2
+  rotate: true
+  xy: 69, 1378
+  size: 27, 29
+  orig: 31, 29
+  offset: 2, 0
+  index: -1
+dragon_knight_child_wing1
+  rotate: true
+  xy: 2, 609
+  size: 78, 92
+  orig: 82, 98
+  offset: 2, 2
+  index: -1
+dragon_knight_adult_arm4
+  rotate: false
+  xy: 96, 613
+  size: 30, 75
+  orig: 38, 81
+  offset: 3, 4
+  index: -1
+dragon_knight_child_tail
+  rotate: true
+  xy: 81, 1035
+  size: 75, 35
+  orig: 77, 37
+  offset: 0, 2
+  index: -1
+dragon_knight_critical_ef1
+  rotate: false
+  xy: 2, 819
+  size: 78, 168
+  orig: 94, 186
+  offset: 10, 10
+  index: -1
+dragon_knight_critical_ef8
+  rotate: true
+  xy: 2, 1096
+  size: 147, 65
+  orig: 153, 79
+  offset: 3, 0
+  index: -1
+dragon_knight_child_leg6
+  rotate: false
+  xy: 105, 1348
+  size: 21, 23
+  orig: 25, 23
+  offset: 3, 0
+  index: -1
+dragon_knight_child_s
+  rotate: false
+  xy: 69, 1112
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_knight_adult_leg2
+  rotate: true
+  xy: 2, 1428
+  size: 25, 18
+  orig: 31, 22
+  offset: 3, 4
+  index: -1
+dragon_knight_adult_arm5
+  rotate: false
+  xy: 37, 1392
+  size: 28, 17
+  orig: 30, 17
+  offset: 1, 0
+  index: -1
+dragon_knight_child_body
+  rotate: false
+  xy: 2, 525
+  size: 93, 82
+  orig: 95, 86
+  offset: 2, 3
+  index: -1
+dragon_knight_critical_ef9
+  rotate: true
+  xy: 2, 1245
+  size: 145, 65
+  orig: 153, 79
+  offset: 3, 0
+  index: -1
+dragon_knight_baby_leg2
+  rotate: false
+  xy: 22, 1428
+  size: 15, 23
+  orig: 17, 23
+  offset: 2, 0
+  index: -1
+dragon_knight_baby_arm2
+  rotate: false
+  xy: 102, 368
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+dragon_knight_adult_leg3
+  rotate: true
+  xy: 82, 922
+  size: 31, 39
+  orig: 35, 39
+  offset: 1, 0
+  index: -1
+dragon_knight_baby_leg1
+  rotate: true
+  xy: 2, 1407
+  size: 19, 28
+  orig: 21, 28
+  offset: 2, 0
+  index: -1
+dragon_knight_adult_arm2
+  rotate: false
+  xy: 100, 395
+  size: 26, 44
+  orig: 32, 50
+  offset: 3, 3
+  index: -1
+dragon_knight_adult_armor2
+  rotate: false
+  xy: 82, 955
+  size: 37, 50
+  orig: 39, 54
+  offset: 0, 2
+  index: -1
+dragon_knight_baby_arm1
+  rotate: true
+  xy: 88, 690
+  size: 31, 38
+  orig: 35, 38
+  offset: 3, 0
+  index: -1
+dragon_knight_baby_head
+  rotate: false
+  xy: 69, 1174
+  size: 57, 56
+  orig: 65, 64
+  offset: 3, 3
+  index: -1
+dragon_knight_child_leg1
+  rotate: false
+  xy: 97, 554
+  size: 29, 57
+  orig: 31, 59
+  offset: 2, 2
+  index: -1
+dragon_knight_child_bleg2
+  rotate: false
+  xy: 99, 486
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+dragon_knight_baby_leg3
+  rotate: false
+  xy: 68, 1428
+  size: 15, 22
+  orig: 19, 22
+  offset: 2, 0
+  index: -1
+dragon_knight_adult_leg1
+  rotate: false
+  xy: 100, 441
+  size: 26, 43
+  orig: 32, 45
+  offset: 3, 2
+  index: -1
+dragon_knight_child_bleg1
+  rotate: true
+  xy: 88, 723
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+dragon_knight_baby_arm3
+  rotate: false
+  xy: 18, 1392
+  size: 17, 12
+  orig: 17, 14
+  offset: 0, 2
+  index: -1
+dragon_knight_baby_body
+  rotate: false
+  xy: 2, 989
+  size: 77, 52
+  orig: 81, 54
+  offset: 3, 0
+  index: -1

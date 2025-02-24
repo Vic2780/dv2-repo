@@ -1,0 +1,270 @@
+127_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_raygonchild_arm4
+  rotate: true
+  xy: 1580, 177
+  size: 108, 151
+  orig: 108, 161
+  offset: 0, 0
+  index: -1
+m_raygonchild_hand1
+  rotate: false
+  xy: 670, 238
+  size: 116, 77
+  orig: 116, 77
+  offset: 0, 0
+  index: -1
+m_raygonchild_leg1
+  rotate: false
+  xy: 1276, 184
+  size: 89, 130
+  orig: 89, 130
+  offset: 0, 0
+  index: -1
+m_raygonchild_body2
+  rotate: true
+  xy: 707, 2
+  size: 219, 156
+  orig: 227, 254
+  offset: 8, 98
+  index: -1
+m_raygonchild_groggy_leg4
+  rotate: true
+  xy: 292, 267
+  size: 49, 54
+  orig: 155, 108
+  offset: 24, 27
+  index: -1
+m_raygonchild_arm
+  rotate: true
+  xy: 991, 213
+  size: 103, 126
+  orig: 109, 126
+  offset: 6, 0
+  index: -1
+m_raygonchild_leg3
+  rotate: false
+  xy: 1940, 2
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1
+m_raygonchild_body3
+  rotate: true
+  xy: 1201, 2
+  size: 184, 60
+  orig: 188, 134
+  offset: 0, 74
+  index: -1
+m_raygonchild_tail
+  rotate: false
+  xy: 1389, 2
+  size: 346, 173
+  orig: 346, 173
+  offset: 0, 0
+  index: -1
+m_raygonchild_groggy_arm1
+  rotate: true
+  xy: 1824, 283
+  size: 30, 39
+  orig: 106, 169
+  offset: 11, 66
+  index: -1
+m_raygonchild_leg4
+  rotate: false
+  xy: 1119, 195
+  size: 155, 108
+  orig: 155, 108
+  offset: 0, 0
+  index: -1
+m_raygonchild_leg2light
+  rotate: false
+  xy: 1695, 287
+  size: 66, 21
+  orig: 88, 155
+  offset: 11, 44
+  index: -1
+m_raygonchild_head
+  rotate: false
+  xy: 1029, 2
+  size: 170, 191
+  orig: 188, 209
+  offset: 18, 5
+  index: -1
+m_raygonchild_wing2
+  rotate: true
+  xy: 292, 2
+  size: 263, 184
+  orig: 263, 184
+  offset: 0, 0
+  index: -1
+m_raygonchild_groggy_arm2
+  rotate: false
+  xy: 1972, 211
+  size: 37, 79
+  orig: 89, 137
+  offset: 33, 20
+  index: -1
+m_raygonchild_groggy_wing11
+  rotate: false
+  xy: 1830, 169
+  size: 72, 103
+  orig: 308, 317
+  offset: 133, 155
+  index: -1
+m_raygonchild_body1
+  rotate: false
+  xy: 478, 2
+  size: 227, 234
+  orig: 227, 254
+  offset: 0, 0
+  index: -1
+m_raygonchild_groggy_wing12
+  rotate: true
+  xy: 348, 267
+  size: 48, 83
+  orig: 308, 317
+  offset: 31, 223
+  index: -1
+m_raygonchild_groggy_head
+  rotate: true
+  xy: 1917, 143
+  size: 66, 95
+  orig: 188, 209
+  offset: 33, 34
+  index: -1
+m_raygonchild_hand2
+  rotate: true
+  xy: 1367, 184
+  size: 127, 87
+  orig: 127, 87
+  offset: 0, 0
+  index: -1
+m_raygonchild_groggy_arm3
+  rotate: true
+  xy: 788, 223
+  size: 91, 62
+  orig: 109, 126
+  offset: 0, 39
+  index: -1
+m_raygonchild_groggy_leg1
+  rotate: true
+  xy: 1904, 211
+  size: 57, 66
+  orig: 89, 130
+  offset: 9, 25
+  index: -1
+m_raygonchild_arm2
+  rotate: true
+  xy: 852, 223
+  size: 89, 137
+  orig: 89, 137
+  offset: 0, 0
+  index: -1
+m_raygonchild_groggy_arm4
+  rotate: true
+  xy: 1580, 287
+  size: 24, 75
+  orig: 108, 161
+  offset: 45, 39
+  index: -1
+m_raygonchild_arm1
+  rotate: false
+  xy: 1737, 2
+  size: 94, 165
+  orig: 106, 169
+  offset: 0, 4
+  index: -1
+m_raygonchild_arm2light
+  rotate: false
+  xy: 433, 267
+  size: 73, 43
+  orig: 89, 137
+  offset: 2, 7
+  index: -1
+m_raygonchild_body4
+  rotate: true
+  xy: 1263, 2
+  size: 180, 124
+  orig: 188, 134
+  offset: 8, 0
+  index: -1
+m_raygonchild_headlight
+  rotate: false
+  xy: 865, 2
+  size: 162, 209
+  orig: 188, 209
+  offset: 0, 0
+  index: -1
+m_raygonchild_wing1light
+  rotate: false
+  xy: 1456, 177
+  size: 122, 139
+  orig: 308, 317
+  offset: 186, 0
+  index: -1
+m_raygonchild_groggy_eye
+  rotate: true
+  xy: 508, 238
+  size: 78, 79
+  orig: 188, 209
+  offset: 62, 28
+  index: -1
+m_raygonchild_groggy_leg2
+  rotate: false
+  xy: 1657, 287
+  size: 36, 23
+  orig: 88, 155
+  offset: 37, 54
+  index: -1
+m_raygonchild_groggy_eye_light
+  rotate: true
+  xy: 1940, 81
+  size: 60, 73
+  orig: 188, 209
+  offset: 77, 35
+  index: -1
+m_raygonchild_leg4light
+  rotate: false
+  xy: 1763, 283
+  size: 59, 32
+  orig: 155, 108
+  offset: 21, 38
+  index: -1
+m_raygonchild_eye
+  rotate: true
+  xy: 589, 238
+  size: 78, 79
+  orig: 188, 209
+  offset: 62, 28
+  index: -1
+m_raygonchild_wing1
+  rotate: false
+  xy: 2, 2
+  size: 288, 301
+  orig: 308, 317
+  offset: 0, 16
+  index: -1
+m_raygonchild_arm3light
+  rotate: false
+  xy: 1865, 274
+  size: 73, 42
+  orig: 109, 126
+  offset: 32, 10
+  index: -1
+m_raygonchild_mouth
+  rotate: true
+  xy: 1733, 177
+  size: 104, 95
+  orig: 188, 209
+  offset: 56, 6
+  index: -1
+m_raygonchild_leg2
+  rotate: false
+  xy: 1833, 2
+  size: 82, 155
+  orig: 88, 155
+  offset: 0, 0
+  index: -1

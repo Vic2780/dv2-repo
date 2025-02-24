@@ -1,0 +1,284 @@
+163_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_foremas_tail4
+  rotate: false
+  xy: 681, 612
+  size: 65, 116
+  orig: 65, 116
+  offset: 0, 0
+  index: -1
+m_foremas_gro_tail2
+  rotate: true
+  xy: 845, 925
+  size: 62, 80
+  orig: 62, 80
+  offset: 0, 0
+  index: -1
+m_foremas_gro_hand2
+  rotate: true
+  xy: 876, 488
+  size: 159, 144
+  orig: 249, 152
+  offset: 3, 2
+  index: -1
+m_foremas_leg111
+  rotate: true
+  xy: 755, 732
+  size: 52, 42
+  orig: 52, 42
+  offset: 0, 0
+  index: -1
+m_foremas_smo
+  rotate: false
+  xy: 523, 612
+  size: 156, 119
+  orig: 160, 123
+  offset: 2, 3
+  index: -1
+m_foremas_tail1
+  rotate: false
+  xy: 583, 733
+  size: 170, 190
+  orig: 170, 190
+  offset: 0, 0
+  index: -1
+m_foremas_hand1
+  rotate: false
+  xy: 731, 2
+  size: 290, 179
+  orig: 290, 179
+  offset: 0, 0
+  index: -1
+m_foremas_leg2
+  rotate: false
+  xy: 452, 956
+  size: 144, 164
+  orig: 144, 164
+  offset: 0, 0
+  index: -1
+m_foremas_leg33
+  rotate: true
+  xy: 910, 1055
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1
+m_foremas_acc1
+  rotate: false
+  xy: 108, 1020
+  size: 77, 95
+  orig: 97, 123
+  offset: 20, 28
+  index: -1
+m_foremas_hand22
+  rotate: true
+  xy: 420, 736
+  size: 218, 161
+  orig: 218, 161
+  offset: 0, 0
+  index: -1
+m_foremas_leg11
+  rotate: true
+  xy: 748, 649
+  size: 81, 53
+  orig: 81, 53
+  offset: 0, 0
+  index: -1
+m_foremas_body3
+  rotate: false
+  xy: 272, 998
+  size: 178, 124
+  orig: 178, 124
+  offset: 0, 0
+  index: -1
+m_foremas_head1
+  rotate: false
+  xy: 731, 183
+  size: 274, 122
+  orig: 274, 122
+  offset: 0, 0
+  index: -1
+m_foremas_gro_hand3
+  rotate: true
+  xy: 799, 753
+  size: 170, 160
+  orig: 170, 160
+  offset: 0, 0
+  index: -1
+m_foremas_hand33
+  rotate: false
+  xy: 598, 925
+  size: 149, 182
+  orig: 149, 182
+  offset: 0, 0
+  index: -1
+m_foremas_leg3
+  rotate: false
+  xy: 873, 649
+  size: 80, 63
+  orig: 80, 63
+  offset: 0, 0
+  index: -1
+m_foremas_hand2
+  rotate: true
+  xy: 266, 747
+  size: 249, 152
+  orig: 249, 152
+  offset: 0, 0
+  index: -1
+m_foremas_tail2
+  rotate: false
+  xy: 845, 989
+  size: 76, 64
+  orig: 76, 64
+  offset: 0, 0
+  index: -1
+m_foremas_acc1_p
+  rotate: true
+  xy: 961, 712
+  size: 89, 59
+  orig: 97, 123
+  offset: 0, 0
+  index: -1
+m_foremas_band
+  rotate: true
+  xy: 961, 803
+  size: 75, 59
+  orig: 75, 59
+  offset: 0, 0
+  index: -1
+m_foremas_eff2
+  rotate: false
+  xy: 2, 1020
+  size: 104, 98
+  orig: 104, 98
+  offset: 0, 0
+  index: -1
+m_foremas_leg222
+  rotate: false
+  xy: 962, 1017
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+m_foremas_head2
+  rotate: true
+  xy: 2, 756
+  size: 262, 146
+  orig: 262, 146
+  offset: 0, 0
+  index: -1
+m_foremas_body1
+  rotate: false
+  xy: 731, 307
+  size: 268, 179
+  orig: 268, 179
+  offset: 0, 0
+  index: -1
+m_foremas_gro_tail1
+  rotate: false
+  xy: 749, 925
+  size: 94, 180
+  orig: 170, 190
+  offset: 25, 6
+  index: -1
+m_foremas_gro_hand1
+  rotate: true
+  xy: 374, 488
+  size: 246, 147
+  orig: 290, 179
+  offset: 0, 3
+  index: -1
+m_foremas_eff3
+  rotate: false
+  xy: 2, 2
+  size: 727, 460
+  orig: 727, 460
+  offset: 0, 0
+  index: -1
+m_foremas_gro_acc1
+  rotate: false
+  xy: 187, 1018
+  size: 83, 103
+  orig: 97, 123
+  offset: 14, 3
+  index: -1
+m_foremas_leg1
+  rotate: true
+  xy: 803, 595
+  size: 156, 68
+  orig: 156, 68
+  offset: 0, 0
+  index: -1
+m_foremas_leg333
+  rotate: false
+  xy: 961, 880
+  size: 56, 80
+  orig: 56, 80
+  offset: 0, 0
+  index: -1
+m_foremas_gro_hand11
+  rotate: false
+  xy: 718, 488
+  size: 156, 105
+  orig: 266, 197
+  offset: 56, 92
+  index: -1
+m_foremas_acc2
+  rotate: true
+  xy: 748, 595
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+m_foremas_hand11
+  rotate: true
+  xy: 2, 488
+  size: 266, 197
+  orig: 266, 197
+  offset: 0, 0
+  index: -1
+m_foremas_gro_head1
+  rotate: true
+  xy: 150, 756
+  size: 260, 114
+  orig: 274, 122
+  offset: 2, 7
+  index: -1
+m_foremas_body2
+  rotate: true
+  xy: 201, 488
+  size: 257, 171
+  orig: 257, 171
+  offset: 0, 0
+  index: -1
+m_foremas_hand3
+  rotate: true
+  xy: 523, 464
+  size: 146, 193
+  orig: 146, 193
+  offset: 0, 0
+  index: -1
+m_foremas_tail3
+  rotate: false
+  xy: 845, 1055
+  size: 63, 65
+  orig: 63, 65
+  offset: 0, 0
+  index: -1
+m_foremas_leg22
+  rotate: false
+  xy: 927, 962
+  size: 80, 53
+  orig: 80, 53
+  offset: 0, 0
+  index: -1
+m_foremas_eff1
+  rotate: true
+  xy: 961, 649
+  size: 61, 60
+  orig: 63, 64
+  offset: 0, 2
+  index: -1

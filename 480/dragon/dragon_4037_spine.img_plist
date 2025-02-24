@@ -1,0 +1,627 @@
+dragon_4037_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_griffar_adult_lflame1
+  rotate: false
+  xy: 2, 2
+  size: 137, 228
+  orig: 137, 228
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_r_leg1a
+  rotate: true
+  xy: 716, 410
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_love3
+  rotate: true
+  xy: 928, 2
+  size: 108, 89
+  orig: 110, 89
+  offset: 0, 0
+  index: -1
+dragon_griffar_child_tailfire3
+  rotate: true
+  xy: 683, 351
+  size: 56, 34
+  orig: 56, 34
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_r_leg2b
+  rotate: true
+  xy: 297, 390
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_tailfire3
+  rotate: false
+  xy: 454, 305
+  size: 80, 65
+  orig: 80, 65
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_eye4
+  rotate: false
+  xy: 465, 131
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_br1
+  rotate: true
+  xy: 282, 131
+  size: 158, 170
+  orig: 158, 170
+  offset: 0, 0
+  index: -1
+dragon_griffar_child_wing2
+  rotate: false
+  xy: 2, 456
+  size: 96, 54
+  orig: 96, 54
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_l_leg1a
+  rotate: true
+  xy: 137, 466
+  size: 44, 73
+  orig: 44, 73
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_body5
+  rotate: false
+  xy: 310, 291
+  size: 76, 71
+  orig: 76, 71
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_r_leg1d
+  rotate: true
+  xy: 913, 254
+  size: 94, 44
+  orig: 94, 44
+  offset: 0, 0
+  index: -1
+dragon_griffar_child_chin
+  rotate: true
+  xy: 212, 466
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_rflame3
+  rotate: false
+  xy: 141, 2
+  size: 139, 217
+  orig: 141, 217
+  offset: 2, 0
+  index: -1
+dragon_griffar_baby_head
+  rotate: false
+  xy: 892, 427
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_chin
+  rotate: true
+  xy: 471, 470
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+dragon_griffar_baby_leg2
+  rotate: false
+  xy: 674, 458
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_l_leg2a
+  rotate: false
+  xy: 631, 458
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+dragon_griffar_child_head
+  rotate: false
+  xy: 723, 297
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+dragon_griffar_child_leg3
+  rotate: false
+  xy: 380, 436
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_head
+  rotate: true
+  xy: 953, 438
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_l_wingb
+  rotate: false
+  xy: 789, 145
+  size: 118, 125
+  orig: 118, 129
+  offset: 0, 4
+  index: -1
+dragon_griffar_adult_body1
+  rotate: false
+  xy: 141, 221
+  size: 99, 77
+  orig: 99, 77
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_l_leg1e
+  rotate: true
+  xy: 281, 390
+  size: 52, 14
+  orig: 52, 14
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_legfire1
+  rotate: true
+  xy: 719, 358
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_love4
+  rotate: false
+  xy: 138, 300
+  size: 92, 93
+  orig: 92, 93
+  offset: 0, 0
+  index: -1
+dragon_griffar_child_eye2
+  rotate: true
+  xy: 921, 490
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+dragon_griffar_baby_eye2
+  rotate: true
+  xy: 512, 470
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+dragon_griffar_child_body1
+  rotate: true
+  xy: 310, 364
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+dragon_griffar_child_neck
+  rotate: false
+  xy: 388, 291
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_neck
+  rotate: true
+  xy: 232, 300
+  size: 88, 76
+  orig: 88, 76
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_eye5
+  rotate: false
+  xy: 454, 131
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+dragon_griffar_child_leg4
+  rotate: false
+  xy: 839, 453
+  size: 51, 57
+  orig: 51, 57
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_lflame2
+  rotate: true
+  xy: 282, 2
+  size: 127, 224
+  orig: 133, 228
+  offset: 6, 4
+  index: -1
+dragon_griffar_adult_l_winga
+  rotate: true
+  xy: 590, 378
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_l_leg1d
+  rotate: false
+  xy: 789, 345
+  size: 94, 49
+  orig: 94, 49
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_body2
+  rotate: false
+  xy: 229, 395
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_r_leg2a
+  rotate: false
+  xy: 679, 409
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_l_leg2d
+  rotate: false
+  xy: 242, 278
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+dragon_griffar_child_body2
+  rotate: false
+  xy: 787, 396
+  size: 66, 55
+  orig: 66, 55
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_r_leg1c
+  rotate: true
+  xy: 1005, 481
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_love5
+  rotate: false
+  xy: 138, 395
+  size: 89, 69
+  orig: 89, 69
+  offset: 0, 0
+  index: -1
+dragon_griffar_child_anger
+  rotate: false
+  xy: 392, 483
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_r_leg2d
+  rotate: false
+  xy: 423, 477
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+dragon_griffar_baby_eye
+  rotate: false
+  xy: 531, 487
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+dragon_griffar_child_eye3
+  rotate: false
+  xy: 364, 485
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_eye2
+  rotate: false
+  xy: 476, 131
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+dragon_griffar_baby_eye3
+  rotate: false
+  xy: 531, 467
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+dragon_griffar_child_leg1
+  rotate: false
+  xy: 579, 458
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+dragon_griffar_baby_chin
+  rotate: false
+  xy: 471, 436
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_legfire3
+  rotate: false
+  xy: 782, 453
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_eye
+  rotate: false
+  xy: 487, 131
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_leg2fire3
+  rotate: false
+  xy: 520, 378
+  size: 68, 53
+  orig: 68, 53
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_love1
+  rotate: true
+  xy: 909, 145
+  size: 107, 52
+  orig: 107, 52
+  offset: 0, 0
+  index: -1
+dragon_griffar_child_tailfire1
+  rotate: true
+  xy: 100, 456
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_tailfire1
+  rotate: true
+  xy: 885, 350
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+dragon_griffar_child_eye
+  rotate: true
+  xy: 281, 444
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_lflame3
+  rotate: false
+  xy: 2, 232
+  size: 134, 222
+  orig: 134, 222
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_body3
+  rotate: false
+  xy: 613, 405
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_r_leg1b
+  rotate: true
+  xy: 325, 485
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_rflame1
+  rotate: true
+  xy: 718, 2
+  size: 141, 208
+  orig: 141, 208
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_body6
+  rotate: true
+  xy: 623, 297
+  size: 52, 98
+  orig: 52, 98
+  offset: 0, 0
+  index: -1
+dragon_griffar_baby_body2
+  rotate: true
+  xy: 732, 458
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+dragon_griffar_baby_leg4
+  rotate: false
+  xy: 855, 396
+  size: 24, 50
+  orig: 24, 50
+  offset: 0, 0
+  index: -1
+dragon_griffar_baby_heart
+  rotate: false
+  xy: 423, 436
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_legfire2
+  rotate: true
+  xy: 963, 203
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_br3
+  rotate: true
+  xy: 623, 145
+  size: 150, 164
+  orig: 150, 164
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_l_leg1c
+  rotate: true
+  xy: 451, 477
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_leg2fire2
+  rotate: false
+  xy: 613, 351
+  size: 68, 52
+  orig: 68, 52
+  offset: 0, 0
+  index: -1
+dragon_griffar_baby_tail
+  rotate: true
+  xy: 273, 466
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_love2
+  rotate: false
+  xy: 789, 272
+  size: 122, 71
+  orig: 122, 71
+  offset: 0, 0
+  index: -1
+dragon_griffar_child_tailfire2
+  rotate: false
+  xy: 520, 433
+  size: 57, 32
+  orig: 57, 32
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_tailfire2
+  rotate: false
+  xy: 536, 305
+  size: 75, 71
+  orig: 75, 71
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_eye3
+  rotate: false
+  xy: 297, 411
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_l_leg2c
+  rotate: true
+  xy: 928, 112
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_body4
+  rotate: false
+  xy: 959, 258
+  size: 60, 76
+  orig: 60, 76
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_rflame2
+  rotate: true
+  xy: 508, 2
+  size: 141, 208
+  orig: 141, 208
+  offset: 0, 0
+  index: -1
+dragon_griffar_baby_wing
+  rotate: true
+  xy: 242, 221
+  size: 55, 37
+  orig: 55, 37
+  offset: 0, 0
+  index: -1
+dragon_griffar_child_tail
+  rotate: true
+  xy: 963, 112
+  size: 89, 56
+  orig: 89, 56
+  offset: 0, 0
+  index: -1
+dragon_griffar_baby_leg1
+  rotate: false
+  xy: 325, 435
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_r_leg2c
+  rotate: true
+  xy: 892, 490
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+dragon_griffar_child_leg2
+  rotate: true
+  xy: 384, 364
+  size: 70, 66
+  orig: 70, 66
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_br2
+  rotate: true
+  xy: 454, 145
+  size: 158, 167
+  orig: 158, 167
+  offset: 0, 0
+  index: -1
+dragon_griffar_child_wing1
+  rotate: false
+  xy: 959, 336
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_leg2fire1
+  rotate: false
+  xy: 452, 372
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_r_leg1e
+  rotate: false
+  xy: 953, 481
+  size: 50, 14
+  orig: 50, 14
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_l_leg1b
+  rotate: false
+  xy: 248, 466
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+dragon_griffar_baby_body1
+  rotate: true
+  xy: 959, 388
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+dragon_griffar_adult_l_leg2b
+  rotate: true
+  xy: 579, 433
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1

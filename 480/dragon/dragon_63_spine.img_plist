@@ -1,0 +1,389 @@
+dragon_63_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_spine_adult_body2
+  rotate: false
+  xy: 159, 813
+  size: 66, 47
+  orig: 66, 47
+  offset: 0, 0
+  index: -1
+dragon_spinebaby_love_effect_heart
+  rotate: true
+  xy: 116, 603
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_spine_adult_tail
+  rotate: false
+  xy: 69, 813
+  size: 88, 76
+  orig: 88, 76
+  offset: 0, 0
+  index: -1
+dragon_spine_adult_fleg5
+  rotate: false
+  xy: 197, 725
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+dragon_spine_adult_leg3
+  rotate: false
+  xy: 169, 694
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+dragon_spine_adult_neck
+  rotate: false
+  xy: 169, 329
+  size: 56, 79
+  orig: 56, 79
+  offset: 0, 0
+  index: -1
+dragon_spine_baby_love
+  rotate: false
+  xy: 169, 725
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_spine_adult_body1
+  rotate: true
+  xy: 69, 603
+  size: 103, 45
+  orig: 103, 45
+  offset: 0, 0
+  index: -1
+dragon_spine_child_eye1
+  rotate: false
+  xy: 210, 574
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+dragon_spine_critical_ef2
+  rotate: true
+  xy: 69, 708
+  size: 103, 98
+  orig: 129, 110
+  offset: 20, 6
+  index: -1
+dragon_spine_adult_love
+  rotate: true
+  xy: 211, 556
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+dragon_spine_child_leg2
+  rotate: true
+  xy: 157, 648
+  size: 17, 39
+  orig: 17, 39
+  offset: 0, 0
+  index: -1
+dragon_spine_baby_leg2
+  rotate: false
+  xy: 211, 524
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1
+dragon_spine_baby_head
+  rotate: true
+  xy: 119, 417
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+dragon_spine_adult_fleg2
+  rotate: false
+  xy: 198, 594
+  size: 17, 40
+  orig: 17, 40
+  offset: 0, 0
+  index: -1
+dragon_spine_critical_ef1
+  rotate: true
+  xy: 108, 476
+  size: 82, 53
+  orig: 98, 65
+  offset: 10, 7
+  index: -1
+dragon_spine_adult_mouth
+  rotate: false
+  xy: 116, 696
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+dragon_spine_adult_wing2
+  rotate: false
+  xy: 81, 891
+  size: 83, 76
+  orig: 83, 76
+  offset: 0, 0
+  index: -1
+dragon_spine_baby_leg1
+  rotate: true
+  xy: 197, 748
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+dragon_spine_child_head
+  rotate: true
+  xy: 166, 923
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+dragon_spine_adult_eye1
+  rotate: true
+  xy: 217, 593
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+dragon_spine_child_body
+  rotate: false
+  xy: 163, 476
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+dragon_spine_adult_fleg1
+  rotate: false
+  xy: 169, 787
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_spine_baby_eye2
+  rotate: false
+  xy: 194, 672
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+dragon_spine_critical_ef4
+  rotate: true
+  xy: 2, 752
+  size: 145, 65
+  orig: 153, 79
+  offset: 3, 0
+  index: -1
+dragon_spine_child_neck
+  rotate: false
+  xy: 119, 355
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+dragon_spine_adult_wing1
+  rotate: true
+  xy: 2, 475
+  size: 126, 104
+  orig: 126, 104
+  offset: 0, 0
+  index: -1
+dragon_spine_adult_fleg6
+  rotate: true
+  xy: 157, 623
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+dragon_spine_baby_eye1
+  rotate: true
+  xy: 200, 691
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+dragon_spine_adult_fleg4
+  rotate: false
+  xy: 169, 753
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+dragon_spine_critical_ef3
+  rotate: false
+  xy: 2, 228
+  size: 121, 125
+  orig: 137, 131
+  offset: 8, 3
+  index: -1
+dragon_spine_adult_leg2
+  rotate: false
+  xy: 193, 443
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+dragon_spine_adult_down
+  rotate: false
+  xy: 132, 696
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+dragon_spine_child_leg3
+  rotate: true
+  xy: 155, 574
+  size: 18, 53
+  orig: 18, 53
+  offset: 0, 0
+  index: -1
+dragon_spine_baby_leg3
+  rotate: true
+  xy: 198, 636
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+dragon_spine_adult_attack
+  rotate: true
+  xy: 217, 426
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+dragon_spine_adult_wing4
+  rotate: false
+  xy: 2, 355
+  size: 115, 118
+  orig: 115, 118
+  offset: 0, 0
+  index: -1
+dragon_spine_baby_tail
+  rotate: true
+  xy: 200, 655
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+dragon_spine_love_effect_twinkling2
+  rotate: false
+  xy: 2, 2
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+dragon_spine_adult_fleg3
+  rotate: true
+  xy: 125, 329
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+dragon_spine_child_mouth
+  rotate: false
+  xy: 190, 763
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+dragon_spine_love_effect_twinkling1
+  rotate: true
+  xy: 125, 228
+  size: 99, 100
+  orig: 225, 224
+  offset: 63, 64
+  index: -1
+dragon_spine_baby_mouth
+  rotate: true
+  xy: 217, 410
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+dragon_spine_adult_wing3
+  rotate: true
+  xy: 2, 899
+  size: 72, 77
+  orig: 72, 77
+  offset: 0, 0
+  index: -1
+dragon_spine_baby_wing
+  rotate: false
+  xy: 157, 594
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+dragon_spine_baby_body2
+  rotate: false
+  xy: 156, 667
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+dragon_spine_adult_head
+  rotate: false
+  xy: 108, 560
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+dragon_spine_baby_body1
+  rotate: false
+  xy: 174, 410
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+dragon_spine_love_effect_heart
+  rotate: true
+  xy: 116, 603
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_spine_critical_ef5
+  rotate: true
+  xy: 2, 603
+  size: 147, 65
+  orig: 153, 79
+  offset: 3, 0
+  index: -1
+dragon_spine_adult_leg4
+  rotate: true
+  xy: 163, 552
+  size: 20, 46
+  orig: 20, 46
+  offset: 0, 0
+  index: -1
+dragon_spine_child_leg1
+  rotate: false
+  xy: 174, 443
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+dragon_spine_child_wing
+  rotate: false
+  xy: 166, 862
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+dragon_spine_adult_leg1
+  rotate: true
+  xy: 163, 524
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+dragon_spine_child_tail
+  rotate: false
+  xy: 116, 651
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1

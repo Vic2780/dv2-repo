@@ -1,0 +1,53 @@
+temple_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+bg_unknown_ground_island1
+  rotate: true
+  xy: 314, 2
+  size: 68, 44
+  orig: 68, 44
+  offset: 0, 0
+  index: -1
+bg_unknown_ground_floaters1
+  rotate: true
+  xy: 360, 64
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+bg_unknown_ground_island2
+  rotate: true
+  xy: 360, 2
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+bg_unknown_ground_effect2
+  rotate: true
+  xy: 2, 2
+  size: 97, 131
+  orig: 97, 131
+  offset: 0, 0
+  index: -1
+bg_unknown_ground_effect3
+  rotate: true
+  xy: 244, 2
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+bg_unknown_ground_effect1
+  rotate: true
+  xy: 135, 2
+  size: 97, 107
+  orig: 97, 131
+  offset: 0, 0
+  index: -1
+bg_unknown_ground_floaters2
+  rotate: false
+  xy: 244, 70
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1

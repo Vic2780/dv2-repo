@@ -1,0 +1,18 @@
+awake_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+evol_line_effect1
+  rotate: false
+  xy: 48, 2
+  size: 230, 16
+  orig: 230, 16
+  offset: 0, 0
+  index: -1
+evol_circle_effect1
+  rotate: false
+  xy: 2, 2
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1

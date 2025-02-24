@@ -1,0 +1,438 @@
+dragon_100_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_devil_child_wing2
+  rotate: false
+  xy: 319, 723
+  size: 46, 128
+  orig: 46, 128
+  offset: 0, 0
+  index: -1
+dragon_devil_baby_heart
+  rotate: false
+  xy: 366, 940
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_devil_adult_l_leg2d
+  rotate: true
+  xy: 455, 987
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: -1
+dragon_devil_adult_eye2
+  rotate: true
+  xy: 78, 1019
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+dragon_devil_baby_body2
+  rotate: false
+  xy: 272, 966
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+dragon_devil_child_wing1
+  rotate: false
+  xy: 446, 317
+  size: 53, 127
+  orig: 53, 127
+  offset: 0, 0
+  index: -1
+dragon_devil_critical1
+  rotate: false
+  xy: 2, 2
+  size: 230, 227
+  orig: 268, 261
+  offset: 30, 12
+  index: -1
+dragon_devil_child_eye2
+  rotate: false
+  xy: 474, 987
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+dragon_devil_child_head
+  rotate: false
+  xy: 367, 723
+  size: 56, 72
+  orig: 56, 72
+  offset: 0, 0
+  index: -1
+dragon_devil_child_eye1
+  rotate: false
+  xy: 479, 910
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+dragon_devil_adult_eye3
+  rotate: true
+  xy: 263, 457
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+dragon_devil_baby_eye2
+  rotate: true
+  xy: 414, 950
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+dragon_devil_adult_heart
+  rotate: false
+  xy: 366, 940
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_devil_child_chin
+  rotate: true
+  xy: 364, 1000
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+dragon_devil_critical4
+  rotate: true
+  xy: 2, 716
+  size: 235, 166
+  orig: 267, 182
+  offset: 23, 9
+  index: -1
+dragon_devil_child_eye3
+  rotate: false
+  xy: 391, 1000
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+dragon_devil_child_leg2
+  rotate: false
+  xy: 465, 609
+  size: 29, 89
+  orig: 29, 89
+  offset: 0, 0
+  index: -1
+dragon_devil_critical3
+  rotate: false
+  xy: 234, 2
+  size: 228, 227
+  orig: 268, 261
+  offset: 24, 4
+  index: -1
+dragon_devil_adult_tailb
+  rotate: false
+  xy: 333, 966
+  size: 29, 58
+  orig: 29, 58
+  offset: 0, 0
+  index: -1
+dragon_devil_child_tail
+  rotate: true
+  xy: 2, 953
+  size: 78, 74
+  orig: 78, 74
+  offset: 0, 0
+  index: -1
+dragon_devil_baby_head
+  rotate: true
+  xy: 199, 966
+  size: 56, 71
+  orig: 56, 71
+  offset: 0, 0
+  index: -1
+dragon_devil_adult_chin
+  rotate: false
+  xy: 480, 942
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+dragon_devil_adult_l_wing
+  rotate: false
+  xy: 170, 836
+  size: 147, 128
+  orig: 147, 128
+  offset: 0, 0
+  index: -1
+dragon_devil_child_leg1
+  rotate: false
+  xy: 464, 2
+  size: 44, 85
+  orig: 44, 85
+  offset: 0, 0
+  index: -1
+dragon_devil_adult_taila
+  rotate: false
+  xy: 464, 89
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+dragon_devil_adult_t
+  rotate: false
+  xy: 221, 231
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+dragon_devil_adult_r_wingb
+  rotate: false
+  xy: 336, 457
+  size: 127, 131
+  orig: 127, 131
+  offset: 0, 0
+  index: -1
+dragon_devil_child_body
+  rotate: false
+  xy: 319, 853
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1
+dragon_devil_child_leg3
+  rotate: false
+  xy: 475, 700
+  size: 33, 69
+  orig: 33, 69
+  offset: 0, 0
+  index: -1
+dragon_devil_critical6
+  rotate: true
+  xy: 170, 473
+  size: 231, 164
+  orig: 267, 182
+  offset: 20, 9
+  index: -1
+dragon_devil_adult_tailc
+  rotate: false
+  xy: 464, 192
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+dragon_devil_baby_leg
+  rotate: true
+  xy: 364, 981
+  size: 17, 47
+  orig: 17, 47
+  offset: 0, 0
+  index: -1
+dragon_devil_baby_chin
+  rotate: true
+  xy: 484, 839
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+dragon_devil_adult_eye
+  rotate: true
+  xy: 284, 457
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+dragon_devil_baby_wing1
+  rotate: false
+  xy: 425, 723
+  size: 36, 68
+  orig: 36, 68
+  offset: 0, 0
+  index: -1
+dragon_devil_child_t
+  rotate: false
+  xy: 221, 231
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+dragon_devil_baby_eye3
+  rotate: false
+  xy: 475, 802
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+dragon_devil_baby_tail
+  rotate: true
+  xy: 148, 966
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+dragon_devil_child_leg4
+  rotate: true
+  xy: 427, 910
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+dragon_devil_adult_body2
+  rotate: true
+  xy: 446, 231
+  size: 84, 62
+  orig: 84, 62
+  offset: 0, 0
+  index: -1
+dragon_devil_critical5
+  rotate: true
+  xy: 2, 473
+  size: 241, 166
+  orig: 267, 182
+  offset: 6, 9
+  index: -1
+dragon_devil_adult_l_leg1b
+  rotate: true
+  xy: 475, 771
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+dragon_devil_adult_taild
+  rotate: true
+  xy: 367, 797
+  size: 47, 57
+  orig: 47, 57
+  offset: 0, 0
+  index: -1
+dragon_devil_adult_head
+  rotate: false
+  xy: 464, 129
+  size: 42, 61
+  orig: 42, 61
+  offset: 0, 0
+  index: -1
+dragon_devil_adult_l_wingb
+  rotate: false
+  xy: 170, 706
+  size: 147, 128
+  orig: 147, 128
+  offset: 0, 0
+  index: -1
+dragon_devil_adult_body1
+  rotate: false
+  xy: 78, 953
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+dragon_devil_adult_r_wing
+  rotate: false
+  xy: 336, 590
+  size: 127, 131
+  orig: 127, 131
+  offset: 0, 0
+  index: -1
+dragon_devil_adult_l_leg1a
+  rotate: true
+  xy: 418, 999
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+dragon_devil_adult_l_leg2b
+  rotate: true
+  xy: 484, 869
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+dragon_devil_adult_neck
+  rotate: false
+  xy: 465, 446
+  size: 43, 89
+  orig: 43, 89
+  offset: 0, 0
+  index: -1
+dragon_devil_baby_eye
+  rotate: false
+  xy: 451, 950
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+dragon_devil_adult_eye4
+  rotate: true
+  xy: 242, 457
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+dragon_devil_adult_l_leg2a
+  rotate: false
+  xy: 465, 537
+  size: 43, 70
+  orig: 43, 70
+  offset: 0, 0
+  index: -1
+dragon_devil_baby_body1
+  rotate: true
+  xy: 319, 923
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+dragon_devil_adult_l_leg1c
+  rotate: false
+  xy: 414, 979
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+dragon_devil_child_neck
+  rotate: false
+  xy: 426, 793
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+dragon_devil_adult_l_leg2c
+  rotate: true
+  xy: 374, 909
+  size: 29, 51
+  orig: 29, 51
+  offset: 0, 0
+  index: -1
+dragon_devil_baby_wing2
+  rotate: false
+  xy: 435, 846
+  size: 47, 62
+  orig: 47, 62
+  offset: 0, 0
+  index: -1
+dragon_devil_adult_eye5
+  rotate: true
+  xy: 221, 457
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+dragon_devil_critical2
+  rotate: true
+  xy: 2, 231
+  size: 240, 217
+  orig: 268, 261
+  offset: 17, 12
+  index: -1
+dragon_devil_critical7
+  rotate: false
+  xy: 374, 846
+  size: 59, 61
+  orig: 69, 71
+  offset: 4, 4
+  index: -1
+dragon_devil_adult_l_leg1d
+  rotate: false
+  xy: 480, 963
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1

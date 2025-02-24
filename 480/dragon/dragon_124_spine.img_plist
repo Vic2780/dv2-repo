@@ -1,0 +1,347 @@
+dragon_124_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_cloud_adult_leg3
+  rotate: false
+  xy: 219, 450
+  size: 32, 58
+  orig: 32, 58
+  offset: 0, 0
+  index: -1
+dragon_cloud_critical1
+  rotate: true
+  xy: 2, 331
+  size: 195, 215
+  orig: 201, 215
+  offset: 0, 0
+  index: -1
+dragon_cloud_baby_body
+  rotate: true
+  xy: 219, 343
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+dragon_cloud_adult_arm1
+  rotate: false
+  xy: 2, 1372
+  size: 40, 63
+  orig: 40, 63
+  offset: 0, 0
+  index: -1
+dragon_cloud_adult_headattack
+  rotate: false
+  xy: 148, 1435
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+dragon_cloud_adult_head2
+  rotate: false
+  xy: 98, 1274
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+dragon_cloud_child_leg1
+  rotate: false
+  xy: 228, 270
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+dragon_cloud_child_headlove
+  rotate: true
+  xy: 197, 1420
+  size: 60, 46
+  orig: 60, 46
+  offset: 0, 0
+  index: -1
+dragon_cloud_adult_head1
+  rotate: true
+  xy: 98, 1320
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+dragon_cloud_adult_neck
+  rotate: true
+  xy: 170, 1200
+  size: 47, 81
+  orig: 47, 81
+  offset: 0, 0
+  index: -1
+dragon_cloud_adult_twinkling1
+  rotate: true
+  xy: 2, 106
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+dragon_cloud_baby_leg
+  rotate: false
+  xy: 228, 307
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+dragon_cloud_adult_leg4
+  rotate: true
+  xy: 228, 138
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+dragon_cloud_critical2
+  rotate: true
+  xy: 2, 528
+  size: 195, 207
+  orig: 201, 215
+  offset: 6, 0
+  index: -1
+dragon_cloud_adult_arm2
+  rotate: false
+  xy: 211, 548
+  size: 43, 59
+  orig: 43, 59
+  offset: 0, 0
+  index: -1
+dragon_cloud_adult_headtail
+  rotate: false
+  xy: 44, 1372
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+dragon_cloud_adult_tail
+  rotate: true
+  xy: 175, 1064
+  size: 134, 68
+  orig: 134, 68
+  offset: 0, 0
+  index: -1
+dragon_cloud_critical_r2
+  rotate: false
+  xy: 2, 2
+  size: 233, 102
+  orig: 233, 104
+  offset: 0, 2
+  index: -1
+dragon_cloud_baby_head2
+  rotate: false
+  xy: 193, 932
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+dragon_cloud_child_arm2
+  rotate: false
+  xy: 2, 1336
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+dragon_cloud_child_body
+  rotate: true
+  xy: 211, 609
+  size: 72, 42
+  orig: 72, 42
+  offset: 0, 0
+  index: -1
+dragon_cloud_baby_headlove
+  rotate: false
+  xy: 193, 871
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+dragon_cloud_critical3
+  rotate: true
+  xy: 2, 819
+  size: 171, 189
+  orig: 201, 215
+  offset: 27, 4
+  index: -1
+dragon_cloud_adult_arm3
+  rotate: true
+  xy: 228, 187
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+dragon_cloud_baby_head1
+  rotate: true
+  xy: 136, 1372
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+dragon_cloud_baby_tail
+  rotate: true
+  xy: 197, 1372
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+dragon_cloud_child_neck2
+  rotate: true
+  xy: 104, 1372
+  size: 62, 30
+  orig: 62, 30
+  offset: 0, 0
+  index: -1
+dragon_cloud_child_neck1
+  rotate: false
+  xy: 175, 993
+  size: 73, 30
+  orig: 73, 30
+  offset: 0, 0
+  index: -1
+dragon_cloud_child_arm1
+  rotate: false
+  xy: 228, 236
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+dragon_cloud_child_headtail
+  rotate: true
+  xy: 203, 798
+  size: 71, 48
+  orig: 71, 48
+  offset: 0, 0
+  index: -1
+dragon_cloud_child_tail
+  rotate: false
+  xy: 211, 683
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+dragon_cloud_adult_headattack2
+  rotate: false
+  xy: 99, 1436
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+dragon_cloud_baby_heart
+  rotate: false
+  xy: 2, 1437
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_cloud_child_heart
+  rotate: false
+  xy: 2, 1437
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_cloud_adult_headlove
+  rotate: false
+  xy: 50, 1436
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+dragon_cloud_adult_mouth
+  rotate: true
+  xy: 33, 1336
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+dragon_cloud_adult_body
+  rotate: true
+  xy: 170, 1249
+  size: 121, 67
+  orig: 121, 67
+  offset: 0, 0
+  index: -1
+dragon_cloud_baby_arm
+  rotate: false
+  xy: 237, 2
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+dragon_cloud_child_head2
+  rotate: true
+  xy: 2, 1274
+  size: 60, 46
+  orig: 60, 46
+  offset: 0, 0
+  index: -1
+dragon_cloud_adult_leg1
+  rotate: true
+  xy: 175, 1025
+  size: 37, 69
+  orig: 37, 69
+  offset: 0, 0
+  index: -1
+dragon_cloud_child_mouth
+  rotate: true
+  xy: 237, 31
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+dragon_cloud_child_head1
+  rotate: true
+  xy: 50, 1274
+  size: 60, 46
+  orig: 60, 46
+  offset: 0, 0
+  index: -1
+dragon_cloud_baby_headtail
+  rotate: false
+  xy: 219, 510
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+dragon_cloud_baby_neck
+  rotate: true
+  xy: 219, 398
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+dragon_cloud_adult_neck2
+  rotate: false
+  xy: 2, 1120
+  size: 166, 152
+  orig: 166, 152
+  offset: 0, 0
+  index: -1
+dragon_cloud_child_leg2
+  rotate: false
+  xy: 228, 106
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+dragon_cloud_adult_neck1
+  rotate: false
+  xy: 2, 992
+  size: 171, 126
+  orig: 171, 126
+  offset: 0, 0
+  index: -1
+dragon_cloud_adult_leg2
+  rotate: false
+  xy: 203, 765
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+dragon_cloud_critical_r1
+  rotate: false
+  xy: 2, 725
+  size: 199, 92
+  orig: 233, 104
+  offset: 18, 2
+  index: -1

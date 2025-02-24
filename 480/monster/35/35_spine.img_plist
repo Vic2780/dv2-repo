@@ -1,0 +1,298 @@
+35_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_mimameith_branch3
+  rotate: true
+  xy: 587, 2
+  size: 261, 64
+  orig: 265, 68
+  offset: 1, 1
+  index: -1
+m_mimameith_groggy_finger3
+  rotate: true
+  xy: 2, 1532
+  size: 93, 207
+  orig: 217, 273
+  offset: 6, 36
+  index: -1
+m_mimameith_finger1
+  rotate: true
+  xy: 43, 1874
+  size: 151, 115
+  orig: 217, 273
+  offset: 66, 101
+  index: -1
+m_mimameith_groggy_body3
+  rotate: true
+  xy: 528, 1682
+  size: 152, 123
+  orig: 254, 179
+  offset: 24, 6
+  index: -1
+m_mimameith_arm1
+  rotate: false
+  xy: 561, 1836
+  size: 92, 87
+  orig: 98, 89
+  offset: 3, 1
+  index: -1
+m_mimameith_groggy_branch3
+  rotate: false
+  xy: 43, 1722
+  size: 155, 52
+  orig: 265, 68
+  offset: 35, 16
+  index: -1
+m_mimameith_finger2
+  rotate: false
+  xy: 219, 1858
+  size: 57, 151
+  orig: 217, 273
+  offset: 40, 117
+  index: -1
+m_mimameith_body2
+  rotate: true
+  xy: 2, 827
+  size: 703, 336
+  orig: 703, 336
+  offset: 0, 0
+  index: -1
+m_mimameith_groggy_head2
+  rotate: false
+  xy: 434, 568
+  size: 220, 182
+  orig: 438, 232
+  offset: 68, 2
+  index: -1
+m_mimameith_groggy_vine2
+  rotate: true
+  xy: 553, 542
+  size: 17, 97
+  orig: 31, 113
+  offset: 9, 5
+  index: -1
+m_mimameith_head
+  rotate: false
+  xy: 2, 397
+  size: 430, 228
+  orig: 438, 232
+  offset: 8, 1
+  index: -1
+m_mimameith_vine4
+  rotate: false
+  xy: 340, 827
+  size: 37, 162
+  orig: 41, 164
+  offset: 2, 0
+  index: -1
+m_mimameith_vineback
+  rotate: false
+  xy: 2, 177
+  size: 549, 218
+  orig: 557, 230
+  offset: 3, 6
+  index: -1
+m_mimameith_finger3
+  rotate: true
+  xy: 2, 1627
+  size: 93, 207
+  orig: 217, 273
+  offset: 6, 36
+  index: -1
+m_mimameith_body3
+  rotate: false
+  xy: 340, 1055
+  size: 314, 262
+  orig: 314, 262
+  offset: 0, 0
+  index: -1
+m_mimameith_groggy_hand2
+  rotate: false
+  xy: 2, 1858
+  size: 39, 157
+  orig: 217, 273
+  offset: 124, 0
+  index: -1
+m_mimameith_smoke
+  rotate: false
+  xy: 340, 1319
+  size: 293, 131
+  orig: 293, 131
+  offset: 0, 0
+  index: -1
+m_mimameith_twinkle
+  rotate: false
+  xy: 380, 627
+  size: 50, 50
+  orig: 66, 60
+  offset: 7, 6
+  index: -1
+m_mimameith_leaf
+  rotate: true
+  xy: 380, 679
+  size: 62, 43
+  orig: 62, 49
+  offset: 0, 3
+  index: -1
+m_mimameith_groggy_waist
+  rotate: true
+  xy: 465, 1888
+  size: 136, 94
+  orig: 196, 134
+  offset: 39, 26
+  index: -1
+m_mimameith_groggy_hand
+  rotate: true
+  xy: 211, 1695
+  size: 161, 125
+  orig: 217, 273
+  offset: 41, 145
+  index: -1
+m_mimameith_body
+  rotate: false
+  xy: 380, 752
+  size: 275, 301
+  orig: 281, 305
+  offset: 3, 2
+  index: -1
+m_mimameith_groggy_chin
+  rotate: false
+  xy: 78, 1776
+  size: 119, 96
+  orig: 123, 102
+  offset: 3, 6
+  index: -1
+m_mimameith_branch2
+  rotate: true
+  xy: 553, 265
+  size: 275, 102
+  orig: 277, 126
+  offset: 2, 3
+  index: -1
+m_mimameith_groggy_finger2
+  rotate: false
+  xy: 160, 1874
+  size: 57, 151
+  orig: 217, 273
+  offset: 40, 117
+  index: -1
+m_mimameith_vine2
+  rotate: false
+  xy: 621, 1452
+  size: 27, 111
+  orig: 31, 113
+  offset: 1, 1
+  index: -1
+m_mimameith_groggy_body2
+  rotate: false
+  xy: 2, 2
+  size: 583, 173
+  orig: 617, 223
+  offset: 21, 0
+  index: -1
+m_mimameith_groggy_vine3
+  rotate: true
+  xy: 445, 1769
+  size: 59, 76
+  orig: 83, 144
+  offset: 10, 29
+  index: -1
+m_mimameith_chin
+  rotate: true
+  xy: 573, 1565
+  size: 115, 82
+  orig: 123, 102
+  offset: 5, 3
+  index: -1
+m_mimameith_hand
+  rotate: true
+  xy: 211, 1532
+  size: 161, 125
+  orig: 217, 273
+  offset: 41, 145
+  index: -1
+m_mimameith_groggy_finger1
+  rotate: true
+  xy: 338, 1769
+  size: 87, 105
+  orig: 217, 273
+  offset: 129, 112
+  index: -1
+m_mimameith_groggy_head1
+  rotate: false
+  xy: 2, 627
+  size: 376, 198
+  orig: 438, 232
+  offset: 5, 34
+  index: -1
+m_mimameith_vine3
+  rotate: false
+  xy: 278, 1858
+  size: 77, 142
+  orig: 83, 144
+  offset: 3, 0
+  index: -1
+m_mimameith_groggy_vine1
+  rotate: true
+  xy: 445, 1830
+  size: 56, 70
+  orig: 88, 112
+  offset: 15, 0
+  index: -1
+m_mimameith_waist
+  rotate: false
+  xy: 338, 1643
+  size: 188, 124
+  orig: 196, 134
+  offset: 5, 7
+  index: -1
+m_mimameith_vine1
+  rotate: true
+  xy: 2, 1776
+  size: 80, 74
+  orig: 88, 112
+  offset: 1, 38
+  index: -1
+m_mimameith_arm
+  rotate: false
+  xy: 357, 1918
+  size: 106, 107
+  orig: 112, 113
+  offset: 3, 3
+  index: -1
+m_mimameith_branch1
+  rotate: false
+  xy: 340, 1452
+  size: 279, 73
+  orig: 279, 83
+  offset: 0, 9
+  index: -1
+m_mimameith_groggy_hand1
+  rotate: false
+  xy: 434, 397
+  size: 117, 169
+  orig: 217, 273
+  offset: 87, 92
+  index: -1
+m_mimameith_groggy_arm
+  rotate: true
+  xy: 357, 1858
+  size: 58, 85
+  orig: 112, 113
+  offset: 45, 18
+  index: -1
+m_mimameith_groggy_vine4
+  rotate: false
+  xy: 553, 177
+  size: 29, 86
+  orig: 41, 164
+  offset: 8, 71
+  index: -1
+m_mimameith_groggy_branch2
+  rotate: false
+  xy: 340, 1527
+  size: 231, 114
+  orig: 277, 126
+  offset: 43, 12
+  index: -1

@@ -1,0 +1,39 @@
+effectevol_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+evolution_effect1
+  rotate: true
+  xy: 779, 2
+  size: 560, 233
+  orig: 638, 257
+  offset: 41, 0
+  index: -1
+level_drug1
+  rotate: false
+  xy: 2, 745
+  size: 534, 113
+  orig: 638, 253
+  offset: 62, 21
+  index: -1
+level_drug2
+  rotate: false
+  xy: 2, 532
+  size: 528, 211
+  orig: 638, 253
+  offset: 54, 19
+  index: -1
+evolution_effect2
+  rotate: true
+  xy: 2, 2
+  size: 528, 775
+  orig: 638, 803
+  offset: 68, 0
+  index: -1
+level_drug3
+  rotate: false
+  xy: 2, 860
+  size: 524, 123
+  orig: 638, 253
+  offset: 65, 24
+  index: -1

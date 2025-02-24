@@ -1,0 +1,102 @@
+yuria_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+sd_yuria_eye1
+  rotate: false
+  xy: 2, 109
+  size: 39, 15
+  orig: 39, 15
+  offset: 0, 0
+  index: -1
+sd_yuria_body1
+  rotate: false
+  xy: 2, 78
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+sd_yuria_eye2
+  rotate: true
+  xy: 117, 63
+  size: 36, 6
+  orig: 36, 6
+  offset: 0, 0
+  index: -1
+sd_yuria_mouth1
+  rotate: true
+  xy: 125, 73
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
+sd_yuria_eye3
+  rotate: false
+  xy: 69, 117
+  size: 35, 6
+  orig: 35, 6
+  offset: 0, 0
+  index: -1
+sd_yuria_eyebrow
+  rotate: false
+  xy: 69, 109
+  size: 35, 6
+  orig: 35, 6
+  offset: 0, 0
+  index: -1
+sd_yuria_head
+  rotate: false
+  xy: 70, 2
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+sd_yuria_mouth2
+  rotate: true
+  xy: 125, 63
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+sd_yuria_acc
+  rotate: true
+  xy: 117, 101
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+sd_yuria_emo
+  rotate: false
+  xy: 43, 78
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+sd_yuria_arm1
+  rotate: false
+  xy: 27, 78
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+sd_yuria_hair
+  rotate: false
+  xy: 2, 2
+  size: 66, 74
+  orig: 66, 74
+  offset: 0, 0
+  index: -1
+sd_yuria_arm2
+  rotate: true
+  xy: 43, 106
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+sd_yuria_body2
+  rotate: false
+  xy: 70, 63
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1

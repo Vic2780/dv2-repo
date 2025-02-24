@@ -1,0 +1,424 @@
+dragon_87_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_mechanization_adult_eye1
+  rotate: false
+  xy: 908, 112
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+dragon_mechanization_adult_tail1
+  rotate: false
+  xy: 46, 2
+  size: 63, 108
+  orig: 67, 116
+  offset: 2, 4
+  index: -1
+dragon_mechanization_adult_head
+  rotate: false
+  xy: 451, 86
+  size: 52, 38
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+dragon_mechanization_baby_eye1
+  rotate: true
+  xy: 1128, 71
+  size: 19, 18
+  orig: 21, 20
+  offset: 2, 2
+  index: -1
+dragon_mechanization_adult_jaw
+  rotate: false
+  xy: 117, 109
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+dragon_mechanization_adult_arm1
+  rotate: true
+  xy: 385, 91
+  size: 35, 64
+  orig: 37, 68
+  offset: 1, 2
+  index: -1
+dragon_mechanization_child_eye1
+  rotate: false
+  xy: 93, 112
+  size: 22, 13
+  orig: 24, 15
+  offset: 0, 1
+  index: -1
+dragon_mechanization_child_neck
+  rotate: false
+  xy: 886, 65
+  size: 37, 45
+  orig: 41, 45
+  offset: 3, 0
+  index: -1
+dragon_mechanization_adult_ef1
+  rotate: true
+  xy: 295, 92
+  size: 34, 46
+  orig: 36, 48
+  offset: 0, 2
+  index: -1
+dragon_mechanization_adult_eye3
+  rotate: false
+  xy: 886, 112
+  size: 20, 12
+  orig: 20, 14
+  offset: 0, 2
+  index: -1
+dragon_mechanization_baby_leg2
+  rotate: false
+  xy: 1001, 105
+  size: 24, 21
+  orig: 26, 21
+  offset: 1, 0
+  index: -1
+dragon_mechanization_child_tail2
+  rotate: false
+  xy: 226, 2
+  size: 53, 91
+  orig: 53, 95
+  offset: 0, 2
+  index: -1
+dragon_mechanization_baby_leg1
+  rotate: false
+  xy: 1027, 105
+  size: 21, 21
+  orig: 23, 23
+  offset: 1, 1
+  index: -1
+dragon_mechanization_adult_arm3
+  rotate: false
+  xy: 233, 95
+  size: 60, 30
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+dragon_mechanization_child_leg2
+  rotate: false
+  xy: 1081, 103
+  size: 36, 19
+  orig: 36, 21
+  offset: 0, 2
+  index: -1
+dragon_mechanization_child_body2
+  rotate: false
+  xy: 574, 78
+  size: 58, 47
+  orig: 62, 51
+  offset: 1, 3
+  index: -1
+dragon_mechanization_baby_tail
+  rotate: false
+  xy: 1091, 61
+  size: 35, 35
+  orig: 39, 43
+  offset: 1, 6
+  index: -1
+dragon_mechanization_adult_leg2
+  rotate: true
+  xy: 1063, 65
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+dragon_mechanization_child_tail1
+  rotate: false
+  xy: 2, 2
+  size: 42, 112
+  orig: 52, 112
+  offset: 6, 0
+  index: -1
+dragon_mechanization_child_head
+  rotate: true
+  xy: 751, 2
+  size: 66, 41
+  orig: 66, 43
+  offset: 0, 2
+  index: -1
+dragon_mechanization_adult_tail3
+  rotate: true
+  xy: 853, 2
+  size: 61, 143
+  orig: 77, 153
+  offset: 13, 6
+  index: -1
+dragon_mechanization_adult_ef2
+  rotate: true
+  xy: 475, 2
+  size: 79, 55
+  orig: 81, 55
+  offset: 2, 0
+  index: -1
+dragon_mechanization_baby_jaw2
+  rotate: false
+  xy: 998, 45
+  size: 25, 18
+  orig: 29, 22
+  offset: 3, 3
+  index: -1
+dragon_mechanization_baby_head
+  rotate: false
+  xy: 691, 2
+  size: 58, 68
+  orig: 66, 74
+  offset: 5, 4
+  index: -1
+dragon_mechanization_child_arm3
+  rotate: true
+  xy: 1130, 2
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+dragon_mechanization_adult_neck2
+  rotate: false
+  xy: 1119, 98
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+dragon_mechanization_child_wing
+  rotate: false
+  xy: 822, 69
+  size: 62, 46
+  orig: 62, 50
+  offset: 0, 4
+  index: -1
+dragon_mechanization_adult_wing2
+  rotate: true
+  xy: 177, 2
+  size: 95, 47
+  orig: 97, 51
+  offset: 1, 1
+  index: -1
+dragon_mechanization_critical_ef2
+  rotate: false
+  xy: 648, 2
+  size: 41, 69
+  orig: 53, 83
+  offset: 6, 8
+  index: -1
+dragon_mechanization_baby_body
+  rotate: true
+  xy: 661, 73
+  size: 53, 44
+  orig: 53, 48
+  offset: 0, 3
+  index: -1
+dragon_mechanization_adult_leg4
+  rotate: true
+  xy: 634, 75
+  size: 50, 25
+  orig: 54, 25
+  offset: 1, 0
+  index: -1
+dragon_mechanization_baby_arm2
+  rotate: true
+  xy: 1050, 105
+  size: 20, 29
+  orig: 24, 31
+  offset: 2, 2
+  index: -1
+dragon_mechanization_baby_neck
+  rotate: true
+  xy: 998, 2
+  size: 41, 38
+  orig: 47, 42
+  offset: 2, 3
+  index: -1
+dragon_mechanization_adult_leg1
+  rotate: false
+  xy: 707, 72
+  size: 30, 53
+  orig: 32, 53
+  offset: 1, 0
+  index: -1
+dragon_mechanization_adult_neck3
+  rotate: false
+  xy: 194, 99
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+dragon_mechanization_baby_arm1
+  rotate: true
+  xy: 164, 109
+  size: 16, 28
+  orig: 20, 32
+  offset: 2, 3
+  index: -1
+dragon_mechanization_child_body
+  rotate: true
+  xy: 794, 2
+  size: 65, 57
+  orig: 69, 61
+  offset: 3, 3
+  index: -1
+dragon_mechanization_child_leg3
+  rotate: false
+  xy: 1050, 40
+  size: 24, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+dragon_mechanization_adult_fire
+  rotate: true
+  xy: 1130, 36
+  size: 33, 28
+  orig: 37, 32
+  offset: 2, 0
+  index: -1
+dragon_mechanization_adult_wing1
+  rotate: true
+  xy: 532, 2
+  size: 74, 44
+  orig: 80, 50
+  offset: 6, 4
+  index: -1
+dragon_mechanization_adult_eye2
+  rotate: true
+  xy: 151, 109
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+dragon_mechanization_child_arm1
+  rotate: false
+  xy: 796, 69
+  size: 24, 49
+  orig: 26, 53
+  offset: 0, 3
+  index: -1
+dragon_mechanization_adult_neck1
+  rotate: true
+  xy: 1073, 2
+  size: 36, 29
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+dragon_mechanization_adult_leg3
+  rotate: false
+  xy: 1038, 65
+  size: 23, 38
+  orig: 23, 40
+  offset: 0, 1
+  index: -1
+dragon_mechanization_adult_chest
+  rotate: false
+  xy: 578, 2
+  size: 68, 71
+  orig: 74, 71
+  offset: 3, 0
+  index: -1
+dragon_mechanization_adult_arm2
+  rotate: false
+  xy: 925, 65
+  size: 37, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+dragon_mechanization_adult_waist2
+  rotate: false
+  xy: 505, 83
+  size: 67, 42
+  orig: 69, 50
+  offset: 0, 7
+  index: -1
+dragon_mechanization_baby_jaw
+  rotate: false
+  xy: 1025, 45
+  size: 23, 18
+  orig: 25, 20
+  offset: 1, 2
+  index: -1
+dragon_mechanization_child_jaw
+  rotate: false
+  xy: 46, 112
+  size: 45, 14
+  orig: 47, 18
+  offset: 0, 2
+  index: -1
+dragon_mechanization_adult_ef3
+  rotate: true
+  xy: 366, 2
+  size: 87, 57
+  orig: 91, 79
+  offset: 3, 0
+  index: -1
+dragon_mechanization_critical_ef1
+  rotate: false
+  xy: 425, 2
+  size: 48, 82
+  orig: 60, 94
+  offset: 6, 9
+  index: -1
+dragon_mechanization_adult_tail2
+  rotate: false
+  xy: 281, 2
+  size: 83, 88
+  orig: 83, 98
+  offset: 0, 2
+  index: -1
+dragon_mechanization_child_leg4
+  rotate: false
+  xy: 1076, 40
+  size: 34, 19
+  orig: 38, 21
+  offset: 2, 0
+  index: -1
+dragon_mechanization_adult_waist1
+  rotate: true
+  xy: 739, 72
+  size: 52, 55
+  orig: 54, 55
+  offset: 1, 0
+  index: -1
+dragon_mechanization_child_ef1
+  rotate: false
+  xy: 964, 65
+  size: 35, 45
+  orig: 35, 47
+  offset: 0, 2
+  index: -1
+dragon_mechanization_child_leg1
+  rotate: false
+  xy: 1038, 2
+  size: 33, 36
+  orig: 33, 40
+  offset: 0, 3
+  index: -1
+dragon_mechanization_adult_gun
+  rotate: false
+  xy: 1104, 2
+  size: 24, 36
+  orig: 30, 40
+  offset: 5, 2
+  index: -1
+dragon_mechanization_child_arm2
+  rotate: false
+  xy: 1001, 65
+  size: 35, 38
+  orig: 37, 42
+  offset: 1, 2
+  index: -1
+dragon_mechanization_critical_ef3
+  rotate: false
+  xy: 111, 2
+  size: 64, 105
+  orig: 70, 115
+  offset: 3, 6
+  index: -1
+dragon_mechanization_baby_ef1
+  rotate: false
+  xy: 343, 92
+  size: 40, 34
+  orig: 42, 38
+  offset: 2, 2
+  index: -1

@@ -1,0 +1,361 @@
+dragon_39_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_kangarabbit_adult_leg5
+  rotate: false
+  xy: 904, 2
+  size: 41, 16
+  orig: 41, 16
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_adult_mouth
+  rotate: false
+  xy: 904, 53
+  size: 33, 14
+  orig: 33, 14
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_adult_melon
+  rotate: true
+  xy: 705, 64
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_baby_wing
+  rotate: true
+  xy: 939, 44
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_child_tail
+  rotate: true
+  xy: 656, 2
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_child_melon
+  rotate: false
+  xy: 438, 79
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_child_body
+  rotate: false
+  xy: 349, 2
+  size: 55, 80
+  orig: 55, 80
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_adult_body
+  rotate: true
+  xy: 267, 2
+  size: 83, 80
+  orig: 83, 80
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_adult_attack
+  rotate: false
+  xy: 297, 87
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_child_leg4
+  rotate: false
+  xy: 922, 69
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_child_head
+  rotate: false
+  xy: 851, 2
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_child_ear
+  rotate: false
+  xy: 468, 79
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_child_poket
+  rotate: false
+  xy: 337, 87
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_child_wing
+  rotate: false
+  xy: 539, 2
+  size: 56, 70
+  orig: 56, 70
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_adult_neck
+  rotate: true
+  xy: 129, 87
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_baby_effect
+  rotate: false
+  xy: 597, 2
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_adult_poket
+  rotate: true
+  xy: 715, 2
+  size: 59, 37
+  orig: 59, 37
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_adult_leg1
+  rotate: true
+  xy: 904, 20
+  size: 15, 38
+  orig: 15, 38
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_child_leg5
+  rotate: false
+  xy: 374, 84
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_baby_leg2
+  rotate: false
+  xy: 896, 69
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_child_heart
+  rotate: false
+  xy: 546, 74
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_child_mouth
+  rotate: true
+  xy: 527, 79
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_adult_leg2
+  rotate: true
+  xy: 883, 56
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_child_leg2
+  rotate: true
+  xy: 941, 72
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_baby_ear
+  rotate: true
+  xy: 594, 74
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_baby_body
+  rotate: true
+  xy: 662, 64
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_child_eye
+  rotate: true
+  xy: 941, 91
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_adult_ear
+  rotate: true
+  xy: 503, 79
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_adult_leg3
+  rotate: false
+  xy: 944, 31
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_child_leg3
+  rotate: true
+  xy: 857, 56
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_adult_smile
+  rotate: false
+  xy: 597, 2
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_adult_tail
+  rotate: true
+  xy: 2, 2
+  size: 112, 125
+  orig: 112, 125
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_adult_leg6
+  rotate: false
+  xy: 857, 72
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_child_leg6
+  rotate: false
+  xy: 904, 37
+  size: 33, 14
+  orig: 33, 14
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_adult_head
+  rotate: false
+  xy: 217, 87
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_baby_eye
+  rotate: false
+  xy: 888, 91
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_adult_punch
+  rotate: true
+  xy: 407, 79
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_child_leg1
+  rotate: false
+  xy: 947, 2
+  size: 11, 27
+  orig: 11, 27
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_baby_tail
+  rotate: true
+  xy: 639, 64
+  size: 48, 21
+  orig: 48, 21
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_adult_leg4
+  rotate: false
+  xy: 754, 2
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_adult_eye
+  rotate: false
+  xy: 597, 64
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_adult_love
+  rotate: false
+  xy: 177, 87
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_baby_leg1
+  rotate: false
+  xy: 922, 89
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_adult_damaged
+  rotate: false
+  xy: 257, 87
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_adult_leg7
+  rotate: true
+  xy: 619, 64
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_baby_mouth
+  rotate: false
+  xy: 857, 104
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_baby_love
+  rotate: false
+  xy: 749, 63
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_child_love
+  rotate: false
+  xy: 804, 57
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_baby_head
+  rotate: true
+  xy: 798, 2
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_adult_eff
+  rotate: false
+  xy: 406, 2
+  size: 131, 75
+  orig: 131, 75
+  offset: 0, 0
+  index: -1
+dragon_kangarabbit_adult_wing
+  rotate: false
+  xy: 129, 2
+  size: 136, 83
+  orig: 136, 83
+  offset: 0, 0
+  index: -1

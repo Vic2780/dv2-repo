@@ -1,0 +1,417 @@
+dragon_9009_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_kaiserbalrog_adult_at5
+  rotate: true
+  xy: 1017, 269
+  size: 150, 145
+  orig: 272, 243
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_adult_wing2
+  rotate: false
+  xy: 2, 341
+  size: 324, 80
+  orig: 324, 80
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_adult_leg4
+  rotate: true
+  xy: 1889, 172
+  size: 67, 45
+  orig: 67, 45
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_critical_fire2
+  rotate: false
+  xy: 1748, 2
+  size: 75, 179
+  orig: 77, 179
+  offset: 2, 0
+  index: -1
+dragon_kaiserbalrog_adult_arm6
+  rotate: true
+  xy: 1922, 343
+  size: 69, 38
+  orig: 69, 38
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_adult_wing1
+  rotate: true
+  xy: 291, 2
+  size: 307, 107
+  orig: 307, 107
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_adult_fire2
+  rotate: true
+  xy: 1771, 183
+  size: 77, 116
+  orig: 105, 128
+  offset: 15, 7
+  index: -1
+dragon_kaiserbalrog_adult_fire1
+  rotate: false
+  xy: 1665, 264
+  size: 105, 128
+  orig: 105, 128
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_critical_start2
+  rotate: true
+  xy: 1370, 191
+  size: 71, 31
+  orig: 83, 47
+  offset: 6, 1
+  index: -1
+dragon_kaiserbalrog_critical_stone1
+  rotate: false
+  xy: 569, 285
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_adult_at2
+  rotate: false
+  xy: 816, 2
+  size: 187, 265
+  orig: 187, 265
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_adult_leg3
+  rotate: true
+  xy: 465, 285
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_critical_fire5
+  rotate: false
+  xy: 1517, 2
+  size: 75, 179
+  orig: 77, 179
+  offset: 2, 0
+  index: -1
+dragon_kaiserbalrog_adult_arm5
+  rotate: false
+  xy: 1825, 87
+  size: 115, 83
+  orig: 115, 83
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_adult_fire3
+  rotate: true
+  xy: 1889, 2
+  size: 75, 116
+  orig: 105, 128
+  offset: 18, 7
+  index: -1
+dragon_kaiserbalrog_adult_volcano2
+  rotate: true
+  xy: 507, 309
+  size: 107, 115
+  orig: 337, 287
+  offset: 88, 51
+  index: -1
+dragon_kaiserbalrog_adult_tail
+  rotate: true
+  xy: 1772, 262
+  size: 101, 104
+  orig: 101, 104
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_critical_start5
+  rotate: true
+  xy: 1889, 241
+  size: 33, 43
+  orig: 33, 47
+  offset: 0, 3
+  index: -1
+dragon_kaiserbalrog_adult_fog
+  rotate: true
+  xy: 400, 2
+  size: 281, 169
+  orig: 283, 171
+  offset: 1, 1
+  index: -1
+dragon_kaiserbalrog_adult_at3
+  rotate: false
+  xy: 1005, 2
+  size: 187, 215
+  orig: 187, 265
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_critical_start6
+  rotate: false
+  xy: 512, 285
+  size: 40, 18
+  orig: 40, 20
+  offset: 0, 2
+  index: -1
+dragon_kaiserbalrog_adult_horn2
+  rotate: true
+  xy: 328, 311
+  size: 110, 71
+  orig: 110, 71
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_adult_volcano3
+  rotate: false
+  xy: 624, 276
+  size: 209, 145
+  orig: 337, 287
+  offset: 48, 52
+  index: -1
+dragon_kaiserbalrog_adult_neck
+  rotate: false
+  xy: 1942, 79
+  size: 82, 98
+  orig: 82, 98
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_adult_at1
+  rotate: true
+  xy: 1382, 264
+  size: 157, 115
+  orig: 187, 265
+  offset: 30, 0
+  index: -1
+dragon_kaiserbalrog_adult_horn1
+  rotate: true
+  xy: 1164, 268
+  size: 143, 91
+  orig: 143, 91
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_adult_head
+  rotate: false
+  xy: 1299, 191
+  size: 69, 74
+  orig: 69, 74
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_adult_arm2
+  rotate: false
+  xy: 835, 269
+  size: 119, 152
+  orig: 119, 152
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_adult_mouth
+  rotate: false
+  xy: 1962, 341
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_adult_leg5
+  rotate: true
+  xy: 1878, 343
+  size: 69, 42
+  orig: 69, 42
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_critical_fire3
+  rotate: false
+  xy: 1671, 2
+  size: 75, 179
+  orig: 77, 179
+  offset: 2, 0
+  index: -1
+dragon_kaiserbalrog_adult_arm5word
+  rotate: false
+  xy: 1936, 179
+  size: 77, 59
+  orig: 115, 83
+  offset: 1, 6
+  index: -1
+dragon_kaiserbalrog_adult_volcano1
+  rotate: false
+  xy: 1617, 183
+  size: 101, 79
+  orig: 337, 287
+  offset: 83, 39
+  index: -1
+dragon_kaiserbalrog_adult_arm7
+  rotate: false
+  xy: 1936, 299
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_adult_body
+  rotate: true
+  xy: 1499, 264
+  size: 155, 164
+  orig: 155, 164
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_critical_fire1
+  rotate: false
+  xy: 1936, 240
+  size: 77, 57
+  orig: 77, 179
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_critical_start3
+  rotate: true
+  xy: 1403, 191
+  size: 69, 43
+  orig: 83, 47
+  offset: 6, 0
+  index: -1
+dragon_kaiserbalrog_critical_stone2
+  rotate: true
+  xy: 554, 285
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_adult_arm1
+  rotate: true
+  xy: 401, 310
+  size: 109, 104
+  orig: 109, 104
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_critical_fire6
+  rotate: false
+  xy: 1440, 2
+  size: 75, 179
+  orig: 77, 179
+  offset: 2, 0
+  index: -1
+dragon_kaiserbalrog_adult_ef3
+  rotate: true
+  xy: 1194, 2
+  size: 212, 83
+  orig: 220, 91
+  offset: 5, 3
+  index: -1
+dragon_kaiserbalrog_critical_start1
+  rotate: false
+  xy: 400, 285
+  size: 63, 23
+  orig: 83, 47
+  offset: 10, 1
+  index: -1
+dragon_kaiserbalrog_adult_leg2
+  rotate: true
+  xy: 1147, 219
+  size: 47, 62
+  orig: 47, 62
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_critical_fire4
+  rotate: false
+  xy: 1594, 2
+  size: 75, 179
+  orig: 77, 179
+  offset: 2, 0
+  index: -1
+dragon_kaiserbalrog_adult_eye
+  rotate: false
+  xy: 586, 276
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_adult_arm4
+  rotate: false
+  xy: 1257, 267
+  size: 123, 154
+  orig: 123, 156
+  offset: 0, 2
+  index: -1
+dragon_kaiserbalrog_adult_ef
+  rotate: true
+  xy: 1279, 2
+  size: 187, 159
+  orig: 209, 163
+  offset: 17, 0
+  index: -1
+dragon_kaiserbalrog_adult_tailfire2
+  rotate: false
+  xy: 1772, 365
+  size: 63, 56
+  orig: 65, 56
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_adult_tail2
+  rotate: false
+  xy: 1448, 183
+  size: 167, 79
+  orig: 167, 79
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_adult_tailfire1
+  rotate: false
+  xy: 1005, 219
+  size: 55, 48
+  orig: 65, 56
+  offset: 3, 0
+  index: -1
+dragon_kaiserbalrog_adult_teeth
+  rotate: false
+  xy: 291, 311
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_critical_start4
+  rotate: false
+  xy: 1062, 219
+  size: 83, 47
+  orig: 83, 47
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_adult_at4
+  rotate: true
+  xy: 571, 2
+  size: 272, 243
+  orig: 272, 243
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_adult_leg1
+  rotate: true
+  xy: 1211, 216
+  size: 49, 86
+  orig: 49, 86
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_adult_arm3
+  rotate: true
+  xy: 1720, 183
+  size: 79, 49
+  orig: 79, 49
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_adult_arm1word
+  rotate: true
+  xy: 1825, 2
+  size: 83, 62
+  orig: 109, 104
+  offset: 2, 8
+  index: -1
+dragon_kaiserbalrog_adult_tailfire3
+  rotate: true
+  xy: 1878, 276
+  size: 65, 56
+  orig: 65, 56
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_adult_volcano4
+  rotate: true
+  xy: 2, 2
+  size: 337, 287
+  orig: 337, 287
+  offset: 0, 0
+  index: -1
+dragon_kaiserbalrog_adult_tail3
+  rotate: true
+  xy: 956, 269
+  size: 152, 59
+  orig: 152, 59
+  offset: 0, 0
+  index: -1

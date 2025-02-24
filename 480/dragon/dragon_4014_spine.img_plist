@@ -1,0 +1,487 @@
+dragon_4014_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_chloro_child_wing
+  rotate: false
+  xy: 391, 425
+  size: 78, 54
+  orig: 78, 54
+  offset: 0, 0
+  index: -1
+dragon_chloro_gas4
+  rotate: false
+  xy: 2, 2
+  size: 283, 279
+  orig: 287, 281
+  offset: 1, 2
+  index: -1
+dragon_chloro_child_leg3
+  rotate: true
+  xy: 441, 658
+  size: 52, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+dragon_chloro_adult_fang
+  rotate: false
+  xy: 377, 457
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+dragon_chloro_child_fang
+  rotate: true
+  xy: 29, 808
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+dragon_chloro_baby_fang
+  rotate: false
+  xy: 238, 538
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+dragon_chloro_child_head
+  rotate: true
+  xy: 238, 734
+  size: 49, 65
+  orig: 49, 65
+  offset: 0, 0
+  index: -1
+dragon_chloro_adult_eye3
+  rotate: true
+  xy: 470, 805
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+dragon_chloro_baby_heart
+  rotate: true
+  xy: 471, 421
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_chloro_child_fang2
+  rotate: true
+  xy: 377, 474
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+dragon_chloro_child_note1
+  rotate: true
+  xy: 374, 757
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_chloro_adult_crack3
+  rotate: true
+  xy: 356, 550
+  size: 98, 52
+  orig: 98, 52
+  offset: 0, 0
+  index: -1
+dragon_chloro_adult_head
+  rotate: true
+  xy: 443, 542
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+dragon_chloro_adult_eye
+  rotate: true
+  xy: 83, 808
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+dragon_chloro_child_leg2
+  rotate: false
+  xy: 410, 550
+  size: 31, 63
+  orig: 31, 63
+  offset: 0, 0
+  index: -1
+dragon_chloro_adult_l_leg2a
+  rotate: false
+  xy: 404, 658
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+dragon_chloro_adult_eye2
+  rotate: true
+  xy: 68, 808
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+dragon_chloro_adult_neck
+  rotate: true
+  xy: 426, 481
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+dragon_chloro_baby_leg3
+  rotate: true
+  xy: 471, 700
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+dragon_chloro_gas5
+  rotate: false
+  xy: 2, 538
+  size: 234, 217
+  orig: 240, 223
+  offset: 3, 3
+  index: -1
+dragon_chloro_baby_eye3
+  rotate: false
+  xy: 484, 469
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_chloro_adult_l_leg2d
+  rotate: false
+  xy: 2, 808
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+dragon_chloro_adult_chin
+  rotate: false
+  xy: 441, 712
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+dragon_chloro_gas1
+  rotate: false
+  xy: 253, 283
+  size: 136, 172
+  orig: 142, 176
+  offset: 2, 2
+  index: -1
+dragon_chloro_adult_body1
+  rotate: false
+  xy: 305, 673
+  size: 64, 82
+  orig: 64, 82
+  offset: 0, 0
+  index: -1
+dragon_chloro_child_eye3
+  rotate: false
+  xy: 356, 650
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+dragon_chloro_adult_l_leg1a
+  rotate: false
+  xy: 371, 673
+  size: 31, 58
+  orig: 31, 58
+  offset: 0, 0
+  index: -1
+dragon_chloro_stone3
+  rotate: false
+  xy: 489, 786
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+dragon_chloro_child_eye
+  rotate: true
+  xy: 414, 755
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+dragon_chloro_adult_chest1
+  rotate: false
+  xy: 495, 561
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+dragon_chloro_baby_leg2
+  rotate: false
+  xy: 484, 497
+  size: 17, 43
+  orig: 17, 43
+  offset: 0, 0
+  index: -1
+dragon_chloro_baby_eye2
+  rotate: true
+  xy: 443, 733
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+dragon_chloro_adult_l_leg1d
+  rotate: false
+  xy: 473, 756
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+dragon_chloro_adult_l_leg2bt
+  rotate: false
+  xy: 470, 786
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_chloro_child_neck
+  rotate: true
+  xy: 193, 757
+  size: 58, 43
+  orig: 58, 43
+  offset: 0, 0
+  index: -1
+dragon_chloro_adult_eye5
+  rotate: true
+  xy: 495, 542
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+dragon_chloro_child_chest
+  rotate: false
+  xy: 277, 785
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+dragon_chloro_gas2
+  rotate: false
+  xy: 2, 283
+  size: 249, 253
+  orig: 251, 259
+  offset: 0, 3
+  index: -1
+dragon_chloro_child_eye2
+  rotate: false
+  xy: 409, 733
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+dragon_chloro_stone2
+  rotate: true
+  xy: 49, 808
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+dragon_chloro_adult_l_leg2c
+  rotate: false
+  xy: 473, 775
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+dragon_chloro_adult_chest2
+  rotate: false
+  xy: 465, 373
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+dragon_chloro_baby_chin
+  rotate: true
+  xy: 496, 613
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+dragon_chloro_sub1
+  rotate: false
+  xy: 2, 757
+  size: 136, 49
+  orig: 154, 53
+  offset: 15, 3
+  index: -1
+dragon_chloro_child_note2
+  rotate: false
+  xy: 410, 615
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_chloro_adult_l_wing
+  rotate: true
+  xy: 253, 457
+  size: 91, 122
+  orig: 91, 122
+  offset: 0, 0
+  index: -1
+dragon_chloro_adult_eye4
+  rotate: true
+  xy: 496, 595
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+dragon_chloro_baby_wing
+  rotate: false
+  xy: 471, 656
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+dragon_chloro_adult_crack1
+  rotate: true
+  xy: 465, 274
+  size: 97, 35
+  orig: 97, 35
+  offset: 0, 0
+  index: -1
+dragon_chloro_adult_tail
+  rotate: true
+  xy: 305, 550
+  size: 121, 49
+  orig: 121, 49
+  offset: 0, 0
+  index: -1
+dragon_chloro_baby_leg1
+  rotate: true
+  xy: 377, 789
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+dragon_chloro_child_tail
+  rotate: false
+  xy: 305, 757
+  size: 67, 31
+  orig: 67, 31
+  offset: 0, 0
+  index: -1
+dragon_chloro_adult_l_leg1c
+  rotate: false
+  xy: 404, 711
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+dragon_chloro_child_leg4
+  rotate: false
+  xy: 238, 785
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+dragon_chloro_adult_l_leg2b
+  rotate: true
+  xy: 371, 733
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+dragon_chloro_adult_heart
+  rotate: true
+  xy: 471, 421
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_chloro_sub2
+  rotate: true
+  xy: 391, 274
+  size: 149, 72
+  orig: 149, 72
+  offset: 0, 0
+  index: -1
+dragon_chloro_gas3
+  rotate: false
+  xy: 287, 2
+  size: 219, 270
+  orig: 219, 276
+  offset: 0, 3
+  index: -1
+dragon_chloro_stone1
+  rotate: true
+  xy: 471, 469
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+dragon_chloro_adult_crack2
+  rotate: false
+  xy: 304, 790
+  size: 71, 23
+  orig: 71, 23
+  offset: 0, 0
+  index: -1
+dragon_chloro_baby_eye
+  rotate: true
+  xy: 423, 789
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+dragon_chloro_baby_head
+  rotate: true
+  xy: 140, 757
+  size: 62, 51
+  orig: 62, 51
+  offset: 0, 0
+  index: -1
+dragon_chloro_adult_body2
+  rotate: true
+  xy: 377, 481
+  size: 67, 47
+  orig: 67, 47
+  offset: 0, 0
+  index: -1
+dragon_chloro_adult_l_leg1b
+  rotate: true
+  xy: 466, 719
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_chloro_baby_tail
+  rotate: false
+  xy: 436, 761
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+dragon_chloro_adult_r_wing
+  rotate: false
+  xy: 238, 550
+  size: 65, 106
+  orig: 65, 106
+  offset: 0, 0
+  index: -1
+dragon_chloro_baby_body
+  rotate: true
+  xy: 447, 600
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+dragon_chloro_child_chin
+  rotate: false
+  xy: 445, 786
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+dragon_chloro_child_body
+  rotate: false
+  xy: 238, 658
+  size: 65, 74
+  orig: 65, 74
+  offset: 0, 0
+  index: -1

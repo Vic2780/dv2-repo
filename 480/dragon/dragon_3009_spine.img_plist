@@ -1,0 +1,473 @@
+dragon_3009_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_colossus_child_mouse
+  rotate: false
+  xy: 785, 427
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_tail6
+  rotate: false
+  xy: 908, 456
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+dragon_colossus_baby_tail
+  rotate: true
+  xy: 115, 466
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+dragon_colossus_child_wing2
+  rotate: true
+  xy: 792, 273
+  size: 68, 93
+  orig: 68, 93
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_tail1
+  rotate: false
+  xy: 824, 390
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+dragon_colossus_child_leg10
+  rotate: true
+  xy: 946, 273
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_neck3
+  rotate: false
+  xy: 578, 482
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+dragon_colossus_baby_leg1
+  rotate: true
+  xy: 540, 482
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+dragon_colossus_child_leg8
+  rotate: false
+  xy: 942, 323
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+dragon_colossus_child_eye2
+  rotate: false
+  xy: 362, 497
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_ef1
+  rotate: false
+  xy: 695, 2
+  size: 269, 269
+  orig: 269, 269
+  offset: 0, 0
+  index: -1
+dragon_colossus_baby_wing
+  rotate: true
+  xy: 880, 459
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+dragon_colossus_baby_head
+  rotate: false
+  xy: 60, 466
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_tail7
+  rotate: true
+  xy: 894, 488
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+dragon_colossus_baby_leg3
+  rotate: true
+  xy: 946, 299
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+dragon_colossus_child_leg2
+  rotate: true
+  xy: 878, 352
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_eye1
+  rotate: true
+  xy: 389, 497
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_leg2
+  rotate: false
+  xy: 841, 343
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+dragon_colossus_child_tail1
+  rotate: true
+  xy: 718, 439
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+dragon_colossus_child_head
+  rotate: false
+  xy: 2, 466
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+dragon_colossus_child_leg7
+  rotate: true
+  xy: 887, 323
+  size: 27, 53
+  orig: 27, 53
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_leg7
+  rotate: false
+  xy: 806, 488
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+dragon_colossus_child_eye1
+  rotate: false
+  xy: 343, 497
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_wing2
+  rotate: false
+  xy: 540, 370
+  size: 106, 110
+  orig: 106, 110
+  offset: 0, 0
+  index: -1
+dragon_colossus_baby_eye1
+  rotate: true
+  xy: 738, 486
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_body2
+  rotate: false
+  xy: 695, 273
+  size: 95, 77
+  orig: 95, 77
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_tail4
+  rotate: false
+  xy: 826, 427
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+dragon_colossus_child_leg1
+  rotate: true
+  xy: 343, 466
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_leg5
+  rotate: true
+  xy: 918, 388
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_neck1
+  rotate: true
+  xy: 775, 483
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_rock
+  rotate: false
+  xy: 424, 292
+  size: 176, 76
+  orig: 176, 86
+  offset: 0, 10
+  index: -1
+dragon_colossus_adult_head
+  rotate: false
+  xy: 792, 343
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+dragon_colossus_baby_eye3
+  rotate: false
+  xy: 940, 396
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_mouse
+  rotate: true
+  xy: 611, 482
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+dragon_colossus_baby_heart
+  rotate: false
+  xy: 295, 466
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_colossus_baby_body
+  rotate: false
+  xy: 887, 273
+  size: 57, 48
+  orig: 57, 48
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_tail5
+  rotate: true
+  xy: 886, 386
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+dragon_colossus_child_wing1
+  rotate: false
+  xy: 648, 365
+  size: 68, 97
+  orig: 68, 97
+  offset: 0, 0
+  index: -1
+dragon_colossus_child_leg4
+  rotate: false
+  xy: 861, 388
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+dragon_colossus_child_leg9
+  rotate: false
+  xy: 869, 488
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+dragon_colossus_child_eye3
+  rotate: false
+  xy: 692, 352
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_tail2
+  rotate: false
+  xy: 775, 449
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_neck4
+  rotate: false
+  xy: 493, 483
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+dragon_colossus_child_leg3
+  rotate: false
+  xy: 847, 459
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_eye2
+  rotate: true
+  xy: 380, 497
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_leg3
+  rotate: true
+  xy: 695, 464
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_ef2
+  rotate: false
+  xy: 424, 2
+  size: 269, 288
+  orig: 269, 288
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_wing1
+  rotate: true
+  xy: 424, 370
+  size: 111, 114
+  orig: 111, 114
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_tail8
+  rotate: false
+  xy: 398, 483
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+dragon_colossus_baby_leg2
+  rotate: false
+  xy: 918, 352
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_leg1
+  rotate: true
+  xy: 240, 466
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_body1
+  rotate: false
+  xy: 718, 352
+  size: 65, 85
+  orig: 65, 85
+  offset: 0, 0
+  index: -1
+dragon_colossus_child_body
+  rotate: false
+  xy: 602, 292
+  size: 88, 71
+  orig: 88, 71
+  offset: 0, 0
+  index: -1
+dragon_colossus_child_heart
+  rotate: false
+  xy: 295, 466
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_tail3
+  rotate: false
+  xy: 813, 457
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+dragon_colossus_child_tail2
+  rotate: false
+  xy: 914, 420
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_neck5
+  rotate: true
+  xy: 149, 466
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+dragon_colossus_child_leg6
+  rotate: true
+  xy: 940, 359
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_leg6
+  rotate: false
+  xy: 892, 419
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_ef3
+  rotate: false
+  xy: 2, 2
+  size: 420, 462
+  orig: 422, 464
+  offset: 0, 2
+  index: -1
+dragon_colossus_child_neck
+  rotate: true
+  xy: 648, 464
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_leg4
+  rotate: true
+  xy: 176, 466
+  size: 31, 62
+  orig: 31, 62
+  offset: 0, 0
+  index: -1
+dragon_colossus_child_tail3
+  rotate: true
+  xy: 840, 488
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+dragon_colossus_adult_neck2
+  rotate: false
+  xy: 861, 428
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+dragon_colossus_child_leg5
+  rotate: false
+  xy: 785, 390
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+dragon_colossus_baby_eye2
+  rotate: true
+  xy: 717, 486
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+dragon_colossus_baby_mouse
+  rotate: false
+  xy: 448, 483
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1

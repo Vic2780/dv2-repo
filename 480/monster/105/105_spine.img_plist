@@ -1,0 +1,179 @@
+105_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_stone_heart_golem_acc1
+  rotate: false
+  xy: 946, 572
+  size: 52, 63
+  orig: 56, 65
+  offset: 1, 1
+  index: -1
+m_stone_heart_golem_body1
+  rotate: false
+  xy: 2, 515
+  size: 392, 267
+  orig: 404, 273
+  offset: 3, 3
+  index: -1
+m_stone_heart_golem_groggy_body2
+  rotate: true
+  xy: 572, 515
+  size: 168, 91
+  orig: 184, 107
+  offset: 7, 9
+  index: -1
+m_stone_heart_golem_hand11
+  rotate: false
+  xy: 762, 462
+  size: 143, 80
+  orig: 155, 86
+  offset: 7, 3
+  index: -1
+m_stone_heart_golem_leg1
+  rotate: true
+  xy: 673, 652
+  size: 150, 144
+  orig: 154, 150
+  offset: 2, 3
+  index: -1
+m_stone_heart_golem_groggy_sample
+  rotate: false
+  xy: 2, 2
+  size: 608, 511
+  orig: 768, 519
+  offset: 114, 2
+  index: -1
+m_stone_heart_golem_hand2
+  rotate: false
+  xy: 396, 675
+  size: 149, 147
+  orig: 155, 153
+  offset: 3, 2
+  index: -1
+m_stone_heart_golem_groggy_hand11
+  rotate: true
+  xy: 907, 462
+  size: 69, 37
+  orig: 77, 45
+  offset: 1, 0
+  index: -1
+m_stone_heart_golem_acc3
+  rotate: true
+  xy: 2, 784
+  size: 32, 48
+  orig: 38, 52
+  offset: 4, 2
+  index: -1
+m_stone_heart_golem_hand111
+  rotate: false
+  xy: 612, 336
+  size: 148, 153
+  orig: 152, 163
+  offset: 2, 6
+  index: -1
+m_stone_heart_golem_foot1
+  rotate: false
+  xy: 855, 544
+  size: 89, 91
+  orig: 91, 99
+  offset: 1, 4
+  index: -1
+m_stone_heart_golem_hand22
+  rotate: true
+  xy: 946, 458
+  size: 112, 67
+  orig: 122, 71
+  offset: 5, 1
+  index: -1
+m_stone_heart_golem_groggy_hand111
+  rotate: false
+  xy: 909, 637
+  size: 73, 115
+  orig: 77, 123
+  offset: 2, 4
+  index: -1
+m_stone_heart_golem_hand1
+  rotate: true
+  xy: 762, 344
+  size: 116, 178
+  orig: 122, 182
+  offset: 4, 1
+  index: -1
+m_stone_heart_golem_hand2222
+  rotate: false
+  xy: 612, 226
+  size: 202, 108
+  orig: 212, 112
+  offset: 4, 2
+  index: -1
+m_stone_heart_golem_groggy_hand1
+  rotate: false
+  xy: 942, 344
+  size: 66, 112
+  orig: 122, 124
+  offset: 43, 1
+  index: -1
+m_stone_heart_golem_leg22
+  rotate: false
+  xy: 819, 652
+  size: 88, 125
+  orig: 98, 131
+  offset: 5, 6
+  index: -1
+m_stone_heart_golem_groggy_hand222
+  rotate: true
+  xy: 665, 491
+  size: 159, 94
+  orig: 171, 104
+  offset: 6, 6
+  index: -1
+m_stone_heart_golem_acc2
+  rotate: false
+  xy: 975, 2
+  size: 23, 28
+  orig: 29, 32
+  offset: 3, 3
+  index: -1
+m_stone_heart_golem_body2
+  rotate: false
+  xy: 816, 226
+  size: 178, 116
+  orig: 190, 126
+  offset: 7, 5
+  index: -1
+m_stone_heart_golem_groggy_body1
+  rotate: false
+  xy: 612, 2
+  size: 361, 222
+  orig: 371, 230
+  offset: 6, 8
+  index: -1
+m_stone_heart_golem_leg11
+  rotate: false
+  xy: 819, 779
+  size: 79, 41
+  orig: 83, 47
+  offset: 2, 3
+  index: -1
+m_stone_heart_golem_groggy_hand2
+  rotate: true
+  xy: 547, 685
+  size: 127, 124
+  orig: 139, 128
+  offset: 8, 1
+  index: -1
+m_stone_heart_golem_hand222
+  rotate: false
+  xy: 396, 515
+  size: 174, 158
+  orig: 180, 164
+  offset: 3, 3
+  index: -1
+m_stone_heart_golem_leg2
+  rotate: true
+  xy: 761, 544
+  size: 106, 92
+  orig: 116, 100
+  offset: 5, 5
+  index: -1

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>scene/worldmap/map_elf/background1/bg.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{1088,891}}</string>
+                <key>offset</key>
+                <string>{-6,10}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{218,64},{1088,891}}</string>
+                <key>sourceSize</key>
+                <string>{1536,1039}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>background1.pvr.ccz</string>
+            <key>size</key>
+            <string>{1092,895}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:7b20e94051517360787728cff227e0ce:b1d97a11488ae947f2bb025218a5db5b:8e2a06cc92de87625f98e1fe9c9858ce$</string>
+            <key>textureFileName</key>
+            <string>background1.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

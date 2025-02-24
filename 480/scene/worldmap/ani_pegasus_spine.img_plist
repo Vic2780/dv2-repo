@@ -1,0 +1,74 @@
+ani_pegasus_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+w_elf_pegasus_body
+  rotate: false
+  xy: 2, 2
+  size: 49, 37
+  orig: 81, 77
+  offset: 8, 14
+  index: -1
+w_elf_pegasus_tale
+  rotate: true
+  xy: 176, 2
+  size: 17, 27
+  orig: 81, 77
+  offset: 1, 16
+  index: -1
+w_elf_pegasus_eye01
+  rotate: true
+  xy: 163, 31
+  size: 5, 9
+  orig: 81, 77
+  offset: 59, 47
+  index: -1
+w_elf_pegasus_foot1
+  rotate: false
+  xy: 205, 2
+  size: 15, 33
+  orig: 81, 77
+  offset: 8, 7
+  index: -1
+w_elf_pegasus_neck
+  rotate: true
+  xy: 53, 2
+  size: 35, 43
+  orig: 81, 77
+  offset: 31, 24
+  index: -1
+w_elf_pegasus_hand1
+  rotate: true
+  xy: 176, 21
+  size: 15, 27
+  orig: 81, 77
+  offset: 30, 0
+  index: -1
+w_elf_pegasus_head
+  rotate: true
+  xy: 98, 2
+  size: 31, 41
+  orig: 81, 77
+  offset: 50, 36
+  index: -1
+w_elf_pegasus_eye02
+  rotate: true
+  xy: 152, 31
+  size: 7, 9
+  orig: 81, 77
+  offset: 59, 45
+  index: -1
+w_elf_pegasus_eye03
+  rotate: false
+  xy: 141, 31
+  size: 9, 7
+  orig: 81, 77
+  offset: 57, 46
+  index: -1
+w_elf_pegasus_wing
+  rotate: true
+  xy: 141, 2
+  size: 27, 33
+  orig: 81, 77
+  offset: 11, 37
+  index: -1

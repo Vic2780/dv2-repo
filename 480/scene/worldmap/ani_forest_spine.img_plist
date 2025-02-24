@@ -1,0 +1,130 @@
+ani_forest_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+worldmap_forest_tree00
+  rotate: false
+  xy: 2, 975
+  size: 241, 137
+  orig: 275, 191
+  offset: 25, 29
+  index: -1
+worldmap_forest_tree04
+  rotate: false
+  xy: 2, 836
+  size: 241, 137
+  orig: 275, 191
+  offset: 22, 29
+  index: -1
+worldmap_forest_bird04
+  rotate: false
+  xy: 204, 1347
+  size: 23, 19
+  orig: 29, 29
+  offset: 1, 7
+  index: -1
+worldmap_forest_tree08
+  rotate: false
+  xy: 2, 141
+  size: 243, 137
+  orig: 275, 191
+  offset: 26, 29
+  index: -1
+worldmap_forest_base
+  rotate: true
+  xy: 2, 1322
+  size: 265, 173
+  orig: 275, 191
+  offset: 4, 5
+  index: -1
+worldmap_forest_leaf02
+  rotate: false
+  xy: 233, 1322
+  size: 14, 15
+  orig: 20, 23
+  offset: 2, 6
+  index: -1
+worldmap_forest_glass
+  rotate: false
+  xy: 2, 1253
+  size: 233, 67
+  orig: 275, 191
+  offset: 18, 24
+  index: -1
+worldmap_forest_bird03
+  rotate: false
+  xy: 204, 1368
+  size: 21, 19
+  orig: 29, 29
+  offset: 5, 3
+  index: -1
+worldmap_forest_tree03
+  rotate: false
+  xy: 2, 280
+  size: 243, 137
+  orig: 275, 191
+  offset: 22, 29
+  index: -1
+worldmap_forest_tree07
+  rotate: false
+  xy: 2, 558
+  size: 241, 137
+  orig: 275, 191
+  offset: 27, 29
+  index: -1
+worldmap_forest_leaf03
+  rotate: false
+  xy: 177, 1347
+  size: 25, 21
+  orig: 39, 35
+  offset: 6, 6
+  index: -1
+worldmap_forest_bird02
+  rotate: false
+  xy: 177, 1322
+  size: 27, 23
+  orig: 41, 37
+  offset: 11, 12
+  index: -1
+worldmap_forest_tree02
+  rotate: false
+  xy: 2, 2
+  size: 245, 137
+  orig: 275, 191
+  offset: 21, 29
+  index: -1
+worldmap_forest_tree06
+  rotate: false
+  xy: 2, 1114
+  size: 239, 137
+  orig: 275, 191
+  offset: 27, 29
+  index: -1
+worldmap_forest_tree01
+  rotate: false
+  xy: 2, 419
+  size: 243, 137
+  orig: 275, 191
+  offset: 25, 29
+  index: -1
+worldmap_forest_tree05
+  rotate: false
+  xy: 2, 697
+  size: 241, 137
+  orig: 275, 191
+  offset: 24, 29
+  index: -1
+worldmap_forest_bird01
+  rotate: false
+  xy: 206, 1322
+  size: 25, 23
+  orig: 41, 37
+  offset: 9, 6
+  index: -1
+worldmap_forest_leaf01
+  rotate: true
+  xy: 229, 1347
+  size: 17, 18
+  orig: 21, 30
+  offset: 4, 7
+  index: -1

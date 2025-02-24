@@ -1,0 +1,277 @@
+30_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_ecastle_handfire1
+  rotate: false
+  xy: 1410, 615
+  size: 486, 135
+  orig: 496, 135
+  offset: 10, 0
+  index: -1
+m_ecastle_head1
+  rotate: false
+  xy: 1106, 619
+  size: 182, 251
+  orig: 182, 251
+  offset: 0, 0
+  index: -1
+m_ecastle_body2
+  rotate: false
+  xy: 1091, 910
+  size: 317, 173
+  orig: 317, 173
+  offset: 0, 0
+  index: -1
+m_ecastle_finger2
+  rotate: true
+  xy: 635, 619
+  size: 58, 97
+  orig: 58, 99
+  offset: 0, 2
+  index: -1
+m_ecastle_groggyfinger1
+  rotate: false
+  xy: 722, 928
+  size: 34, 67
+  orig: 50, 73
+  offset: 8, 6
+  index: -1
+m_ecastle_mause
+  rotate: true
+  xy: 1382, 498
+  size: 98, 78
+  orig: 98, 78
+  offset: 0, 0
+  index: -1
+m_ecastle_eye
+  rotate: true
+  xy: 2022, 2
+  size: 67, 14
+  orig: 67, 14
+  offset: 0, 0
+  index: -1
+m_ecastle_head2
+  rotate: false
+  xy: 1898, 646
+  size: 127, 92
+  orig: 127, 92
+  offset: 0, 0
+  index: -1
+m_ecastle_handfire2
+  rotate: false
+  xy: 1410, 752
+  size: 482, 133
+  orig: 496, 135
+  offset: 11, 2
+  index: -1
+m_ecastle_finger1
+  rotate: true
+  xy: 1290, 852
+  size: 50, 90
+  orig: 50, 92
+  offset: 0, 2
+  index: -1
+m_ecastle_finger6
+  rotate: true
+  xy: 1939, 1017
+  size: 64, 67
+  orig: 64, 71
+  offset: 0, 4
+  index: -1
+m_ecastle_mantopiece2
+  rotate: false
+  xy: 1894, 802
+  size: 76, 62
+  orig: 80, 62
+  offset: 2, 0
+  index: -1
+m_ecastle_eyelight
+  rotate: true
+  xy: 635, 366
+  size: 107, 53
+  orig: 107, 53
+  offset: 0, 0
+  index: -1
+m_ecastle_groundfire1
+  rotate: false
+  xy: 710, 281
+  size: 768, 215
+  orig: 768, 215
+  offset: 0, 0
+  index: -1
+m_ecastle_groggybody2
+  rotate: false
+  xy: 772, 910
+  size: 317, 173
+  orig: 317, 173
+  offset: 0, 0
+  index: -1
+m_ecastle_groggyhead
+  rotate: false
+  xy: 1939, 866
+  size: 81, 149
+  orig: 83, 149
+  offset: 2, 0
+  index: -1
+m_ecastle_groggybody1
+  rotate: true
+  xy: 1918, 488
+  size: 156, 95
+  orig: 164, 103
+  offset: 5, 0
+  index: -1
+m_ecastle_finger4
+  rotate: true
+  xy: 1290, 791
+  size: 59, 87
+  orig: 59, 89
+  offset: 0, 0
+  index: -1
+m_ecastle_neck
+  rotate: false
+  xy: 1480, 245
+  size: 404, 245
+  orig: 404, 245
+  offset: 0, 0
+  index: -1
+m_ecastle_manto
+  rotate: false
+  xy: 2, 2
+  size: 706, 362
+  orig: 706, 362
+  offset: 0, 0
+  index: -1
+m_ecastle_groggymanto
+  rotate: false
+  xy: 635, 498
+  size: 595, 119
+  orig: 595, 119
+  offset: 0, 0
+  index: -1
+m_ecastle_hand1
+  rotate: true
+  xy: 1886, 312
+  size: 174, 141
+  orig: 174, 141
+  offset: 0, 0
+  index: -1
+m_ecastle_bone
+  rotate: true
+  xy: 1898, 2
+  size: 308, 122
+  orig: 308, 122
+  offset: 0, 0
+  index: -1
+m_ecastle_groundfire2
+  rotate: false
+  xy: 710, 2
+  size: 768, 277
+  orig: 768, 277
+  offset: 0, 0
+  index: -1
+m_ecastle_finger3
+  rotate: false
+  xy: 1232, 498
+  size: 56, 94
+  orig: 56, 94
+  offset: 0, 0
+  index: -1
+m_ecastle_groggyfinger4
+  rotate: false
+  xy: 1981, 740
+  size: 51, 63
+  orig: 53, 67
+  offset: 2, 0
+  index: -1
+m_ecastle_hand2
+  rotate: true
+  xy: 1788, 887
+  size: 188, 149
+  orig: 188, 149
+  offset: 0, 0
+  index: -1
+m_ecastle_groundfire3
+  rotate: false
+  xy: 2, 687
+  size: 768, 239
+  orig: 768, 245
+  offset: 0, 1
+  index: -1
+m_ecastle_bodyfire
+  rotate: false
+  xy: 2, 366
+  size: 631, 319
+  orig: 631, 321
+  offset: 0, 0
+  index: -1
+m_ecastle_ground2
+  rotate: false
+  xy: 1480, 2
+  size: 416, 241
+  orig: 416, 241
+  offset: 0, 0
+  index: -1
+m_ecastle_groggyfinger5
+  rotate: true
+  xy: 1232, 594
+  size: 22, 25
+  orig: 36, 31
+  offset: 8, 0
+  index: -1
+m_ecastle_ground1
+  rotate: false
+  xy: 1480, 492
+  size: 436, 121
+  orig: 436, 121
+  offset: 0, 0
+  index: -1
+m_ecastle_mantopiece1
+  rotate: false
+  xy: 2, 928
+  size: 718, 136
+  orig: 718, 136
+  offset: 0, 0
+  index: -1
+m_ecastle_ground3
+  rotate: false
+  xy: 772, 619
+  size: 332, 289
+  orig: 332, 289
+  offset: 0, 0
+  index: -1
+m_ecastle_groggybone
+  rotate: true
+  xy: 1290, 498
+  size: 291, 90
+  orig: 293, 98
+  offset: 0, 4
+  index: -1
+m_ecastle_finger5
+  rotate: true
+  xy: 1898, 740
+  size: 60, 81
+  orig: 60, 81
+  offset: 0, 0
+  index: -1
+m_ecastle_groggyfinger2
+  rotate: true
+  xy: 1410, 1059
+  size: 22, 32
+  orig: 26, 32
+  offset: 4, 0
+  index: -1
+m_ecastle_groggymause
+  rotate: true
+  xy: 758, 928
+  size: 14, 12
+  orig: 18, 16
+  offset: 2, 2
+  index: -1
+m_ecastle_body1
+  rotate: false
+  xy: 1410, 887
+  size: 376, 170
+  orig: 376, 170
+  offset: 0, 0
+  index: -1

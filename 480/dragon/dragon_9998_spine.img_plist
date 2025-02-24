@@ -1,0 +1,137 @@
+dragon_9998_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_9998_critical_smog
+  rotate: false
+  xy: 563, 154
+  size: 74, 37
+  orig: 74, 37
+  offset: 0, 0
+  index: -1
+dragon_noimage_eye
+  rotate: false
+  xy: 786, 158
+  size: 26, 17
+  orig: 122, 85
+  offset: 28, 37
+  index: -1
+dragon_noimage_f4
+  rotate: true
+  xy: 788, 126
+  size: 30, 27
+  orig: 38, 33
+  offset: 2, 4
+  index: -1
+dragon_noimage_closeeye
+  rotate: false
+  xy: 689, 154
+  size: 42, 27
+  orig: 122, 85
+  offset: 23, 33
+  index: -1
+dragon_noimage_mouth
+  rotate: false
+  xy: 639, 154
+  size: 48, 37
+  orig: 122, 85
+  offset: 21, 0
+  index: -1
+dragon_9998_critical_stone
+  rotate: false
+  xy: 383, 164
+  size: 178, 29
+  orig: 178, 29
+  offset: 0, 0
+  index: -1
+dragon_9998_critical_stone2
+  rotate: false
+  xy: 544, 112
+  size: 184, 40
+  orig: 184, 40
+  offset: 0, 0
+  index: -1
+dragon_noimage_att
+  rotate: true
+  xy: 765, 152
+  size: 24, 19
+  orig: 122, 85
+  offset: 28, 36
+  index: -1
+dragon_9998_critical_criimage
+  rotate: false
+  xy: 383, 2
+  size: 159, 160
+  orig: 159, 162
+  offset: 0, 1
+  index: -1
+dragon_noimage_f1
+  rotate: false
+  xy: 689, 183
+  size: 14, 9
+  orig: 38, 33
+  offset: 24, 24
+  index: -1
+dragon_noimage_neck
+  rotate: false
+  xy: 544, 2
+  size: 101, 108
+  orig: 119, 126
+  offset: 18, 18
+  index: -1
+dragon_noimage_neckdown
+  rotate: true
+  xy: 647, 2
+  size: 101, 72
+  orig: 119, 126
+  offset: 0, 0
+  index: -1
+dragon_noimage_dnager
+  rotate: false
+  xy: 196, 2
+  size: 185, 186
+  orig: 191, 192
+  offset: 3, 4
+  index: -1
+dragon_noimage_f2
+  rotate: true
+  xy: 786, 177
+  size: 16, 11
+  orig: 38, 33
+  offset: 19, 21
+  index: -1
+dragon_noimage_head
+  rotate: true
+  xy: 730, 2
+  size: 122, 73
+  orig: 122, 85
+  offset: 0, 12
+  index: -1
+dragon_noimage_f6
+  rotate: true
+  xy: 730, 126
+  size: 26, 31
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+dragon_noimage_circle
+  rotate: true
+  xy: 2, 2
+  size: 191, 192
+  orig: 191, 192
+  offset: 0, 0
+  index: -1
+dragon_noimage_f3
+  rotate: true
+  xy: 763, 126
+  size: 24, 23
+  orig: 38, 33
+  offset: 7, 7
+  index: -1
+dragon_noimage_f7
+  rotate: false
+  xy: 733, 154
+  size: 30, 31
+  orig: 38, 33
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,186 @@
+ani_veti_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+worldmap_veti_hand1
+  rotate: true
+  xy: 463, 114
+  size: 35, 41
+  orig: 45, 47
+  offset: 5, 2
+  index: -1
+worldmap_veti_arm1
+  rotate: false
+  xy: 463, 58
+  size: 41, 54
+  orig: 49, 62
+  offset: 4, 4
+  index: -1
+worldmap_veti_leg1
+  rotate: true
+  xy: 242, 195
+  size: 32, 46
+  orig: 38, 54
+  offset: 3, 4
+  index: -1
+worldmap_veti_bg_book
+  rotate: false
+  xy: 237, 2
+  size: 98, 115
+  orig: 128, 123
+  offset: 19, 1
+  index: -1
+worldmap_veti_frrrrr01
+  rotate: true
+  xy: 337, 40
+  size: 34, 114
+  orig: 62, 168
+  offset: 16, 7
+  index: -1
+worldmap_veti_body
+  rotate: false
+  xy: 321, 139
+  size: 59, 50
+  orig: 65, 62
+  offset: 2, 5
+  index: -1
+worldmap_veti_hand2
+  rotate: false
+  xy: 364, 198
+  size: 35, 40
+  orig: 41, 46
+  offset: 3, 3
+  index: -1
+worldmap_veti_hand222
+  rotate: false
+  xy: 290, 198
+  size: 35, 40
+  orig: 41, 46
+  offset: 3, 3
+  index: -1
+worldmap_veti_arm2
+  rotate: true
+  xy: 189, 201
+  size: 35, 51
+  orig: 47, 61
+  offset: 6, 5
+  index: -1
+worldmap_veti_leg2
+  rotate: true
+  xy: 401, 198
+  size: 31, 42
+  orig: 39, 54
+  offset: 3, 5
+  index: -1
+worldmap_veti_bg
+  rotate: false
+  xy: 2, 2
+  size: 233, 197
+  orig: 233, 197
+  offset: 0, 0
+  index: -1
+worldmap_veti_hip
+  rotate: false
+  xy: 433, 151
+  size: 56, 45
+  orig: 62, 59
+  offset: 3, 7
+  index: -1
+worldmap_veti_eye
+  rotate: true
+  xy: 491, 178
+  size: 23, 13
+  orig: 33, 23
+  offset: 6, 4
+  index: -1
+worldmap_veti_mouth3
+  rotate: true
+  xy: 445, 217
+  size: 21, 19
+  orig: 31, 21
+  offset: 4, 0
+  index: -1
+worldmap_veti_eye2
+  rotate: false
+  xy: 445, 198
+  size: 29, 17
+  orig: 33, 23
+  offset: 3, 3
+  index: -1
+worldmap_veti_snowman1
+  rotate: false
+  xy: 237, 119
+  size: 82, 74
+  orig: 94, 98
+  offset: 5, 9
+  index: -1
+worldmap_veti_arm11
+  rotate: false
+  xy: 463, 2
+  size: 41, 54
+  orig: 49, 62
+  offset: 4, 4
+  index: -1
+worldmap_veti_mouth
+  rotate: true
+  xy: 491, 151
+  size: 25, 13
+  orig: 31, 21
+  offset: 3, 3
+  index: -1
+worldmap_veti_head
+  rotate: true
+  xy: 382, 139
+  size: 50, 49
+  orig: 56, 59
+  offset: 3, 7
+  index: -1
+worldmap_veti_arm22
+  rotate: true
+  xy: 136, 201
+  size: 35, 51
+  orig: 47, 61
+  offset: 6, 5
+  index: -1
+worldmap_veti_frrrrr03
+  rotate: true
+  xy: 2, 201
+  size: 36, 132
+  orig: 62, 168
+  offset: 14, 16
+  index: -1
+worldmap_veti_mouth2
+  rotate: false
+  xy: 466, 217
+  size: 23, 17
+  orig: 31, 23
+  offset: 4, 3
+  index: -1
+worldmap_veti_hand22
+  rotate: false
+  xy: 327, 198
+  size: 35, 40
+  orig: 41, 46
+  offset: 3, 3
+  index: -1
+worldmap_veti_snowman2
+  rotate: false
+  xy: 405, 76
+  size: 56, 60
+  orig: 68, 74
+  offset: 6, 7
+  index: -1
+worldmap_veti_face
+  rotate: false
+  xy: 337, 76
+  size: 66, 61
+  orig: 72, 69
+  offset: 3, 5
+  index: -1
+worldmap_veti_frrrrr02
+  rotate: true
+  xy: 337, 2
+  size: 36, 124
+  orig: 62, 168
+  offset: 14, 10
+  index: -1

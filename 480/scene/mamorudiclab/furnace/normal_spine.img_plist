@@ -1,0 +1,74 @@
+normal_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+piece2
+  rotate: false
+  xy: 237, 247
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+piece3
+  rotate: false
+  xy: 239, 2
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+piece1
+  rotate: true
+  xy: 237, 258
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+smoke01
+  rotate: true
+  xy: 193, 279
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+furnace_b1
+  rotate: false
+  xy: 2, 2
+  size: 235, 188
+  orig: 235, 188
+  offset: 0, 0
+  index: -1
+stack
+  rotate: false
+  xy: 193, 192
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+smoke02
+  rotate: false
+  xy: 193, 247
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+piece4
+  rotate: false
+  xy: 239, 17
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+cover
+  rotate: false
+  xy: 2, 192
+  size: 189, 127
+  orig: 189, 127
+  offset: 0, 0
+  index: -1
+piece5
+  rotate: false
+  xy: 239, 10
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1

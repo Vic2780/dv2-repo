@@ -1,0 +1,543 @@
+dragon_187_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_angelwings_child_head
+  rotate: false
+  xy: 527, 462
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_eye5
+  rotate: false
+  xy: 449, 493
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_taillight2
+  rotate: false
+  xy: 625, 405
+  size: 74, 52
+  orig: 74, 52
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_r_ear
+  rotate: true
+  xy: 1189, 440
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+dragon_angelwings_critw2
+  rotate: false
+  xy: 2, 2
+  size: 367, 422
+  orig: 367, 422
+  offset: 0, 0
+  index: -1
+dragon_angelwings_child_eye3
+  rotate: false
+  xy: 1248, 483
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+dragon_angelwings_crimain3
+  rotate: false
+  xy: 1429, 421
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+dragon_angelwings_baby_ear
+  rotate: true
+  xy: 989, 476
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+dragon_angelwings_crimain5b
+  rotate: true
+  xy: 1192, 131
+  size: 182, 113
+  orig: 182, 113
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_r_armc
+  rotate: false
+  xy: 1223, 440
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+dragon_angelwings_baby_leg3
+  rotate: false
+  xy: 724, 470
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_l_armc
+  rotate: true
+  xy: 601, 462
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_r_lega
+  rotate: false
+  xy: 1307, 131
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_taillight1
+  rotate: false
+  xy: 890, 415
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+dragon_angelwings_child_wing
+  rotate: false
+  xy: 250, 426
+  size: 107, 77
+  orig: 107, 77
+  offset: 0, 0
+  index: -1
+dragon_angelwings_baby_eye
+  rotate: false
+  xy: 1272, 483
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+dragon_angelwings_child_leg1
+  rotate: true
+  xy: 1429, 357
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1
+dragon_angelwings_baby_body
+  rotate: false
+  xy: 625, 459
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+dragon_angelwings_baby_wing
+  rotate: false
+  xy: 811, 470
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+dragon_angelwings_crimain2
+  rotate: false
+  xy: 1245, 433
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_l_lega
+  rotate: false
+  xy: 216, 463
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+dragon_angelwings_crimain5a
+  rotate: true
+  xy: 982, 181
+  size: 227, 208
+  orig: 227, 208
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_r_legd
+  rotate: true
+  xy: 1289, 400
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_r_armb
+  rotate: true
+  xy: 1106, 472
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+dragon_angelwings_baby_leg2
+  rotate: true
+  xy: 865, 476
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+dragon_angelwings_child_leg2
+  rotate: true
+  xy: 1169, 131
+  size: 48, 17
+  orig: 48, 17
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_eye2
+  rotate: false
+  xy: 464, 493
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_l_legd
+  rotate: false
+  xy: 83, 490
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_l_armb
+  rotate: false
+  xy: 1245, 400
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+dragon_angelwings_baby_mouth
+  rotate: false
+  xy: 1462, 263
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+dragon_angelwings_baby_note
+  rotate: false
+  xy: 1136, 465
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_angelwings_critw4b
+  rotate: false
+  xy: 748, 181
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_taillight0
+  rotate: false
+  xy: 433, 405
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_body
+  rotate: true
+  xy: 527, 405
+  size: 55, 96
+  orig: 55, 96
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_chin
+  rotate: false
+  xy: 601, 490
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_smile
+  rotate: false
+  xy: 1077, 410
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_tailb
+  rotate: false
+  xy: 2, 463
+  size: 79, 43
+  orig: 79, 43
+  offset: 0, 0
+  index: -1
+dragon_angelwings_child_tail
+  rotate: false
+  xy: 1307, 166
+  size: 171, 59
+  orig: 171, 59
+  offset: 0, 0
+  index: -1
+dragon_angelwings_crifea
+  rotate: false
+  xy: 748, 2
+  size: 419, 177
+  orig: 419, 177
+  offset: 0, 0
+  index: -1
+dragon_angelwings_critw1
+  rotate: true
+  xy: 1307, 227
+  size: 128, 153
+  orig: 128, 153
+  offset: 0, 0
+  index: -1
+dragon_angelwings_child_eye
+  rotate: false
+  xy: 1318, 478
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+dragon_angelwings_child_ear1
+  rotate: true
+  xy: 577, 462
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_r_legc
+  rotate: false
+  xy: 938, 476
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+dragon_angelwings_child_body
+  rotate: true
+  xy: 371, 405
+  size: 101, 60
+  orig: 101, 60
+  offset: 0, 0
+  index: -1
+dragon_angelwings_child_chin
+  rotate: true
+  xy: 1173, 465
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+dragon_angelwings_baby_leg1
+  rotate: true
+  xy: 1039, 476
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+dragon_angelwings_child_leg3
+  rotate: false
+  xy: 819, 415
+  size: 69, 53
+  orig: 69, 53
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_eye3
+  rotate: false
+  xy: 119, 490
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+dragon_angelwings_child_ear2
+  rotate: false
+  xy: 83, 463
+  size: 69, 25
+  orig: 69, 25
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_l_legc
+  rotate: false
+  xy: 1462, 227
+  size: 15, 34
+  orig: 15, 34
+  offset: 0, 0
+  index: -1
+dragon_angelwings_critw4a
+  rotate: true
+  xy: 1169, 2
+  size: 127, 182
+  orig: 127, 182
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_r_wing
+  rotate: true
+  xy: 1302, 357
+  size: 119, 125
+  orig: 119, 125
+  offset: 0, 0
+  index: -1
+dragon_angelwings_baby_eye2
+  rotate: false
+  xy: 1270, 462
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_eye
+  rotate: false
+  xy: 1462, 279
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_angelwings_child_neck
+  rotate: true
+  xy: 1192, 400
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+dragon_angelwings_baby_head
+  rotate: false
+  xy: 1136, 410
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+dragon_angelwings_crimain1
+  rotate: false
+  xy: 1248, 461
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_l_wing
+  rotate: true
+  xy: 1353, 2
+  size: 162, 125
+  orig: 162, 125
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_r_legb
+  rotate: true
+  xy: 1207, 465
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_eye4
+  rotate: false
+  xy: 433, 493
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_taila
+  rotate: false
+  xy: 1192, 315
+  size: 108, 83
+  orig: 108, 107
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_r_arma
+  rotate: false
+  xy: 907, 469
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+dragon_angelwings_child_eye2
+  rotate: false
+  xy: 1294, 478
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_l_legb
+  rotate: true
+  xy: 966, 476
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+dragon_angelwings_crimain4
+  rotate: false
+  xy: 1013, 410
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+dragon_angelwings_baby_tail
+  rotate: true
+  xy: 680, 459
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_l_arma
+  rotate: false
+  xy: 958, 415
+  size: 53, 59
+  orig: 53, 59
+  offset: 0, 0
+  index: -1
+dragon_angelwings_baby_leg4
+  rotate: false
+  xy: 768, 467
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_l_ear
+  rotate: false
+  xy: 154, 463
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+dragon_angelwings_child_smile
+  rotate: false
+  xy: 1077, 410
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_taillight3
+  rotate: false
+  xy: 741, 415
+  size: 76, 50
+  orig: 76, 50
+  offset: 0, 0
+  index: -1
+dragon_angelwings_critw3
+  rotate: false
+  xy: 371, 2
+  size: 375, 401
+  orig: 375, 401
+  offset: 0, 0
+  index: -1
+dragon_angelwings_adult_head
+  rotate: false
+  xy: 1078, 472
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+dragon_angelwings_baby_headf
+  rotate: true
+  xy: 1273, 436
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+dragon_angelwings_cribot
+  rotate: false
+  xy: 2, 426
+  size: 246, 35
+  orig: 248, 35
+  offset: 1, 0
+  index: -1
+dragon_angelwings_adult_neck
+  rotate: true
+  xy: 701, 405
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+dragon_angelwings_baby_eye3
+  rotate: false
+  xy: 1226, 463
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1

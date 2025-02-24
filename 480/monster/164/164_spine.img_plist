@@ -1,0 +1,361 @@
+164_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_anogma_head_leg3_a2
+  rotate: true
+  xy: 1971, 171
+  size: 58, 62
+  orig: 64, 142
+  offset: 6, 43
+  index: -1
+m_anogma_bodyacc2
+  rotate: true
+  xy: 1547, 218
+  size: 38, 74
+  orig: 38, 74
+  offset: 0, 0
+  index: -1
+m_anogma_head_backleg2_a1
+  rotate: false
+  xy: 822, 297
+  size: 40, 113
+  orig: 44, 133
+  offset: 0, 20
+  index: -1
+m_anogma_head_leg4_a4
+  rotate: false
+  xy: 1623, 218
+  size: 47, 38
+  orig: 87, 132
+  offset: 40, 0
+  index: -1
+m_anogma_leg2
+  rotate: false
+  xy: 2, 324
+  size: 71, 86
+  orig: 425, 260
+  offset: 337, 13
+  index: -1
+m_anogma_head_leg1_a1
+  rotate: true
+  xy: 1963, 255
+  size: 42, 70
+  orig: 86, 130
+  offset: 44, 60
+  index: -1
+m_anogma_hand_gro
+  rotate: false
+  xy: 892, 264
+  size: 25, 30
+  orig: 113, 110
+  offset: 20, 11
+  index: -1
+m_anogma_head_leg2_a4
+  rotate: true
+  xy: 1771, 375
+  size: 35, 44
+  orig: 57, 150
+  offset: 14, 0
+  index: -1
+m_anogma_leftcloak2
+  rotate: false
+  xy: 1264, 264
+  size: 185, 136
+  orig: 295, 414
+  offset: 41, 30
+  index: -1
+m_anogma_head_leg3_a3
+  rotate: true
+  xy: 1901, 375
+  size: 34, 60
+  orig: 64, 142
+  offset: 30, 14
+  index: -1
+m_anogma_head
+  rotate: false
+  xy: 1641, 258
+  size: 128, 152
+  orig: 128, 152
+  offset: 0, 0
+  index: -1
+m_anogma_eye
+  rotate: false
+  xy: 1345, 232
+  size: 82, 24
+  orig: 128, 152
+  offset: 23, 30
+  index: -1
+m_anogma_head_leg1_a2
+  rotate: true
+  xy: 1849, 2
+  size: 60, 52
+  orig: 86, 130
+  offset: 17, 38
+  index: -1
+m_anogma_neck_gro
+  rotate: false
+  xy: 434, 299
+  size: 274, 110
+  orig: 360, 178
+  offset: 39, 42
+  index: -1
+m_anogma_gro_eye
+  rotate: false
+  xy: 1817, 375
+  size: 82, 34
+  orig: 128, 152
+  offset: 27, 30
+  index: -1
+m_anogma_head_leg3_a4
+  rotate: true
+  xy: 1810, 137
+  size: 32, 34
+  orig: 64, 142
+  offset: 29, 0
+  index: -1
+m_anogma_eff
+  rotate: false
+  xy: 1319, 2
+  size: 226, 228
+  orig: 232, 232
+  offset: 3, 3
+  index: -1
+m_anogma_arm2
+  rotate: false
+  xy: 273, 314
+  size: 159, 96
+  orig: 261, 232
+  offset: 97, 124
+  index: -1
+m_anogma_leftcloak1
+  rotate: true
+  xy: 286, 2
+  size: 295, 414
+  orig: 295, 414
+  offset: 0, 0
+  index: -1
+m_anogma_head_leg1_a3
+  rotate: true
+  xy: 1718, 218
+  size: 36, 52
+  orig: 86, 130
+  offset: 12, 13
+  index: -1
+m_anogma_bodyacc1
+  rotate: false
+  xy: 1963, 2
+  size: 71, 167
+  orig: 71, 167
+  offset: 0, 0
+  index: -1
+m_anogma_head_leg4_a1_gro
+  rotate: true
+  xy: 1672, 218
+  size: 37, 44
+  orig: 87, 132
+  offset: 11, 57
+  index: -1
+m_anogma_head_leg1_a2_gro
+  rotate: true
+  xy: 1866, 88
+  size: 52, 50
+  orig: 86, 130
+  offset: 16, 36
+  index: -1
+m_anogma_head_leg3_a1_gro
+  rotate: true
+  xy: 1429, 232
+  size: 24, 36
+  orig: 64, 142
+  offset: 0, 87
+  index: -1
+m_anogma_head_leg1_a4
+  rotate: false
+  xy: 1963, 375
+  size: 44, 34
+  orig: 86, 130
+  offset: 0, 0
+  index: -1
+m_anogma_leg
+  rotate: false
+  xy: 892, 2
+  size: 425, 260
+  orig: 425, 260
+  offset: 0, 0
+  index: -1
+m_anogma_neck1
+  rotate: true
+  xy: 2, 2
+  size: 320, 178
+  orig: 360, 178
+  offset: 40, 0
+  index: -1
+m_anogma_nose
+  rotate: true
+  xy: 1319, 232
+  size: 30, 24
+  orig: 128, 152
+  offset: 49, 15
+  index: -1
+m_anogma_rightarmor_gro
+  rotate: true
+  xy: 150, 324
+  size: 82, 121
+  orig: 176, 143
+  offset: 68, 3
+  index: -1
+m_anogma_head2
+  rotate: false
+  xy: 1772, 171
+  size: 114, 82
+  orig: 128, 152
+  offset: 7, 20
+  index: -1
+m_anogma_head_leg4_a1
+  rotate: false
+  xy: 1935, 299
+  size: 47, 74
+  orig: 87, 132
+  offset: 0, 58
+  index: -1
+m_anogma_head_leg2_a3_gro
+  rotate: true
+  xy: 1903, 47
+  size: 39, 54
+  orig: 57, 150
+  offset: 0, 30
+  index: -1
+m_anogma_arm1_add
+  rotate: false
+  xy: 944, 264
+  size: 201, 146
+  orig: 261, 232
+  offset: 60, 0
+  index: -1
+m_anogma_head_backleg3
+  rotate: false
+  xy: 1216, 264
+  size: 46, 145
+  orig: 46, 145
+  offset: 0, 0
+  index: -1
+m_anogma_leftarmor2
+  rotate: true
+  xy: 1888, 171
+  size: 82, 81
+  orig: 176, 143
+  offset: 0, 62
+  index: -1
+m_anogma_head_leg2_a1
+  rotate: false
+  xy: 1806, 2
+  size: 41, 70
+  orig: 57, 150
+  offset: 16, 80
+  index: -1
+m_anogma_neck2
+  rotate: true
+  xy: 182, 2
+  size: 310, 102
+  orig: 360, 178
+  offset: 0, 42
+  index: -1
+m_anogma_rightcloak
+  rotate: false
+  xy: 702, 2
+  size: 188, 293
+  orig: 188, 293
+  offset: 0, 0
+  index: -1
+m_anogma_body
+  rotate: false
+  xy: 1451, 258
+  size: 188, 152
+  orig: 188, 152
+  offset: 0, 0
+  index: -1
+m_anogma_hand
+  rotate: true
+  xy: 710, 297
+  size: 113, 110
+  orig: 113, 110
+  offset: 0, 0
+  index: -1
+m_anogma_head_leg4_a2
+  rotate: true
+  xy: 1810, 74
+  size: 61, 54
+  orig: 87, 132
+  offset: 11, 38
+  index: -1
+m_anogma_head_backleg2_a2
+  rotate: false
+  xy: 1762, 2
+  size: 42, 87
+  orig: 44, 133
+  offset: 2, 0
+  index: -1
+m_anogma_head_leg2_a2
+  rotate: false
+  xy: 1984, 299
+  size: 51, 68
+  orig: 57, 150
+  offset: 2, 48
+  index: -1
+m_anogma_head_leg3_a1
+  rotate: false
+  xy: 1762, 91
+  size: 46, 74
+  orig: 64, 142
+  offset: 0, 68
+  index: -1
+m_anogma_arm1
+  rotate: false
+  xy: 1547, 2
+  size: 213, 214
+  orig: 261, 232
+  offset: 0, 18
+  index: -1
+m_anogma_leftarmor1
+  rotate: false
+  xy: 1771, 256
+  size: 162, 117
+  orig: 176, 143
+  offset: 14, 0
+  index: -1
+m_anogma_head_leg4_a3
+  rotate: true
+  xy: 1903, 2
+  size: 43, 54
+  orig: 87, 132
+  offset: 44, 16
+  index: -1
+m_anogma_head_backleg1
+  rotate: false
+  xy: 1147, 264
+  size: 67, 146
+  orig: 67, 146
+  offset: 0, 0
+  index: -1
+m_anogma_leftarmor_gro
+  rotate: true
+  xy: 75, 324
+  size: 84, 73
+  orig: 176, 143
+  offset: 13, 46
+  index: -1
+m_anogma_gro_head
+  rotate: true
+  xy: 864, 297
+  size: 96, 78
+  orig: 128, 152
+  offset: 11, 71
+  index: -1
+m_anogma_head_leg2_a3
+  rotate: false
+  xy: 1918, 88
+  size: 41, 52
+  orig: 57, 150
+  offset: 0, 26
+  index: -1

@@ -1,0 +1,571 @@
+dragon_85_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_frankenstein_hand2
+  rotate: false
+  xy: 1454, 2
+  size: 73, 114
+  orig: 203, 152
+  offset: 81, 5
+  index: -1
+dragon_frankenstein_child_hand
+  rotate: true
+  xy: 1991, 57
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_adult_effect3
+  rotate: true
+  xy: 970, 2
+  size: 123, 195
+  orig: 203, 203
+  offset: 7, 8
+  index: -1
+dragon_frankenstein_smok01112
+  rotate: true
+  xy: 2, 2
+  size: 166, 49
+  orig: 170, 49
+  offset: 2, 0
+  index: -1
+dragon_frankenstein_baby_tail
+  rotate: false
+  xy: 1074, 127
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_adult_arm1
+  rotate: false
+  xy: 1776, 101
+  size: 44, 68
+  orig: 44, 68
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_adult_head
+  rotate: true
+  xy: 1302, 123
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_skill00
+  rotate: false
+  xy: 1121, 127
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_adult_eye
+  rotate: false
+  xy: 915, 163
+  size: 13, 7
+  orig: 47, 29
+  offset: 10, 6
+  index: -1
+dragon_frankenstein_baby_leg2
+  rotate: false
+  xy: 250, 142
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_baby_mouth
+  rotate: false
+  xy: 915, 127
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_ston04
+  rotate: false
+  xy: 1206, 159
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_adult_love
+  rotate: false
+  xy: 1185, 159
+  size: 19, 11
+  orig: 47, 29
+  offset: 9, 6
+  index: -1
+dragon_frankenstein_child_hair
+  rotate: false
+  xy: 155, 154
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_child_hand2
+  rotate: true
+  xy: 596, 127
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_baby_leg22
+  rotate: false
+  xy: 230, 142
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_child_foot
+  rotate: true
+  xy: 1933, 2
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_adult_tail
+  rotate: false
+  xy: 1822, 101
+  size: 83, 66
+  orig: 83, 66
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_child_body
+  rotate: false
+  xy: 1770, 2
+  size: 77, 97
+  orig: 77, 97
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_adult_arm22
+  rotate: true
+  xy: 1713, 113
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_child_arm1
+  rotate: false
+  xy: 472, 130
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_adult_ac
+  rotate: true
+  xy: 1154, 159
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_sk02
+  rotate: false
+  xy: 253, 2
+  size: 92, 134
+  orig: 92, 134
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_adult_leg1
+  rotate: false
+  xy: 1333, 123
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_child_leg5
+  rotate: false
+  xy: 1954, 122
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_adult_neck
+  rotate: false
+  xy: 1442, 118
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_smok02356
+  rotate: false
+  xy: 1364, 2
+  size: 88, 114
+  orig: 94, 116
+  offset: 6, 2
+  index: -1
+dragon_frankenstein_adult_effect4
+  rotate: true
+  xy: 773, 2
+  size: 123, 195
+  orig: 203, 203
+  offset: 7, 8
+  index: -1
+dragon_frankenstein_ston01
+  rotate: true
+  xy: 547, 130
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_child_leg55
+  rotate: false
+  xy: 1980, 131
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_adult_eye1
+  rotate: true
+  xy: 221, 154
+  size: 15, 7
+  orig: 47, 29
+  offset: 9, 6
+  index: -1
+dragon_frankenstein_adult_arm2
+  rotate: false
+  xy: 1933, 34
+  size: 56, 58
+  orig: 56, 58
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_adult_foot1
+  rotate: true
+  xy: 861, 127
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_hand1
+  rotate: false
+  xy: 1520, 118
+  size: 57, 48
+  orig: 203, 152
+  offset: 87, 5
+  index: -1
+dragon_frankenstein_child_arm2
+  rotate: false
+  xy: 883, 127
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_baby_leg11
+  rotate: false
+  xy: 1954, 94
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_ston05
+  rotate: true
+  xy: 189, 154
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_smok0111
+  rotate: true
+  xy: 520, 2
+  size: 126, 54
+  orig: 128, 56
+  offset: 1, 0
+  index: -1
+dragon_frankenstein_child_love
+  rotate: true
+  xy: 2029, 18
+  size: 24, 14
+  orig: 56, 38
+  offset: 11, 18
+  index: -1
+dragon_frankenstein_hand4
+  rotate: false
+  xy: 1954, 2
+  size: 73, 26
+  orig: 203, 152
+  offset: 81, 4
+  index: -1
+dragon_frankenstein_adult_effect1
+  rotate: true
+  xy: 1575, 2
+  size: 109, 193
+  orig: 203, 203
+  offset: 14, 10
+  index: -1
+dragon_frankenstein_adult_leg2
+  rotate: false
+  xy: 1991, 30
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_child_arm22
+  rotate: true
+  xy: 430, 132
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_baby_body
+  rotate: true
+  xy: 1907, 99
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_adult_hand1
+  rotate: false
+  xy: 983, 127
+  size: 56, 34
+  orig: 56, 34
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_smok011
+  rotate: true
+  xy: 228, 2
+  size: 138, 23
+  orig: 138, 23
+  offset: 0, 0
+  index: -1
+dragon_frankensteinadult_cloud
+  rotate: true
+  xy: 155, 2
+  size: 150, 71
+  orig: 150, 79
+  offset: 0, 8
+  index: -1
+dragon_frankenstein_adult_mouth
+  rotate: false
+  xy: 325, 138
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_adult_effect5
+  rotate: true
+  xy: 576, 2
+  size: 123, 195
+  orig: 203, 203
+  offset: 7, 8
+  index: -1
+dragon_frankenstein_baby_leg1
+  rotate: false
+  xy: 1985, 103
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_ston02
+  rotate: false
+  xy: 53, 164
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_child_arm33
+  rotate: false
+  xy: 512, 130
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_adult_eye2
+  rotate: true
+  xy: 210, 154
+  size: 15, 9
+  orig: 47, 29
+  offset: 9, 6
+  index: -1
+dragon_frankensteinadult_adult_love2
+  rotate: true
+  xy: 1529, 2
+  size: 114, 44
+  orig: 114, 44
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_adult_body
+  rotate: true
+  xy: 1849, 2
+  size: 95, 82
+  orig: 101, 82
+  offset: 6, 0
+  index: -1
+dragon_frankenstein_child_effect_anger
+  rotate: true
+  xy: 1579, 113
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_child_head2
+  rotate: false
+  xy: 1154, 127
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_child_eye
+  rotate: false
+  xy: 2003, 158
+  size: 18, 12
+  orig: 56, 38
+  offset: 17, 19
+  index: -1
+dragon_frankenstein_child_head
+  rotate: false
+  xy: 372, 132
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_child_arm3
+  rotate: false
+  xy: 826, 127
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_adult_sn
+  rotate: true
+  xy: 61, 164
+  size: 5, 16
+  orig: 5, 16
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_baby_eye
+  rotate: true
+  xy: 1500, 118
+  size: 52, 18
+  orig: 70, 56
+  offset: 9, 28
+  index: -1
+dragon_frankenstein_adult_foot2
+  rotate: false
+  xy: 731, 127
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_child_arm11
+  rotate: false
+  xy: 1041, 127
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_adult_effect2
+  rotate: true
+  xy: 1167, 2
+  size: 119, 195
+  orig: 203, 203
+  offset: 11, 8
+  index: -1
+dragon_frankenstein_smok01
+  rotate: true
+  xy: 438, 2
+  size: 126, 80
+  orig: 128, 80
+  offset: 1, 0
+  index: -1
+dragon_frankenstein_sk04
+  rotate: false
+  xy: 347, 2
+  size: 89, 128
+  orig: 89, 128
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_baby_hair
+  rotate: true
+  xy: 2029, 2
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_adult_wing
+  rotate: false
+  xy: 1220, 123
+  size: 80, 47
+  orig: 80, 47
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_hand3
+  rotate: false
+  xy: 656, 127
+  size: 73, 42
+  orig: 203, 152
+  offset: 81, 4
+  index: -1
+dragon_frankenstein_smok01113
+  rotate: false
+  xy: 628, 127
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_ston03
+  rotate: false
+  xy: 2025, 131
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_baby_love2
+  rotate: true
+  xy: 2003, 131
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_adult_hand2
+  rotate: false
+  xy: 270, 138
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_child_smo
+  rotate: true
+  xy: 1529, 2
+  size: 114, 44
+  orig: 114, 44
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_baby_leg3
+  rotate: true
+  xy: 2023, 44
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_child_wing
+  rotate: false
+  xy: 759, 127
+  size: 65, 41
+  orig: 65, 41
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_sk01
+  rotate: false
+  xy: 53, 2
+  size: 100, 160
+  orig: 102, 160
+  offset: 1, 0
+  index: -1
+dragon_frankenstein_baby_love
+  rotate: true
+  xy: 2022, 73
+  size: 56, 24
+  orig: 70, 56
+  offset: 7, 25
+  index: -1
+dragon_frankenstein_child_tail
+  rotate: false
+  xy: 1361, 123
+  size: 79, 45
+  orig: 79, 45
+  offset: 0, 0
+  index: -1
+dragon_frankenstein_baby_head
+  rotate: false
+  xy: 1641, 113
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1

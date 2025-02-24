@@ -1,0 +1,116 @@
+ani_dwarfraidfire_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+w_dwarf_raidadd_red
+  rotate: false
+  xy: 2, 2
+  size: 323, 234
+  orig: 323, 234
+  offset: 0, 0
+  index: -1
+w_dwarf_raidadd_book
+  rotate: false
+  xy: 1352, 137
+  size: 321, 94
+  orig: 323, 96
+  offset: 2, 2
+  index: -1
+w_dwarf_raidadd_vvv1
+  rotate: true
+  xy: 564, 155
+  size: 63, 104
+  orig: 63, 104
+  offset: 0, 0
+  index: -1
+w_dwarf_raidadd_ffff01
+  rotate: true
+  xy: 1043, 2
+  size: 149, 307
+  orig: 149, 347
+  offset: 0, 40
+  index: -1
+w_dwarf_raidadd_book2
+  rotate: true
+  xy: 376, 155
+  size: 80, 43
+  orig: 80, 43
+  offset: 0, 0
+  index: -1
+w_dwarf_raidadd_ffff02
+  rotate: true
+  xy: 647, 2
+  size: 149, 394
+  orig: 149, 404
+  offset: 0, 10
+  index: -1
+w_dwarf_raidadd_ffff03
+  rotate: true
+  xy: 327, 2
+  size: 151, 318
+  orig: 165, 332
+  offset: 0, 6
+  index: -1
+w_dwarf_raidadd_vvv2
+  rotate: true
+  xy: 421, 155
+  size: 77, 141
+  orig: 77, 141
+  offset: 0, 0
+  index: -1
+w_dwarf_raidadd_ffff04
+  rotate: true
+  xy: 1352, 2
+  size: 133, 336
+  orig: 133, 342
+  offset: 0, 6
+  index: -1
+w_dwarf_raidadd_crack1
+  rotate: false
+  xy: 564, 220
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+w_dwarf_raidadd_crack2
+  rotate: false
+  xy: 1049, 199
+  size: 92, 30
+  orig: 92, 30
+  offset: 0, 0
+  index: -1
+w_dwarf_raidadd_vvv3
+  rotate: false
+  xy: 327, 155
+  size: 47, 87
+  orig: 47, 87
+  offset: 0, 0
+  index: -1
+w_dwarf_raidadd_crack3
+  rotate: false
+  xy: 995, 153
+  size: 134, 44
+  orig: 134, 44
+  offset: 0, 0
+  index: -1
+w_dwarf_raidadd_crack4
+  rotate: false
+  xy: 1020, 199
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+w_dwarf_raidadd_crack5
+  rotate: true
+  xy: 995, 199
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+w_dwarf_raidadd_land
+  rotate: false
+  xy: 670, 153
+  size: 323, 89
+  orig: 323, 89
+  offset: 0, 0
+  index: -1

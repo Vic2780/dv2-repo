@@ -1,0 +1,403 @@
+dragon_16_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_underground_baby_heart
+  rotate: false
+  xy: 799, 205
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_underground_adult_body2
+  rotate: false
+  xy: 725, 209
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+dragon_underground_baby_body
+  rotate: false
+  xy: 2, 216
+  size: 57, 37
+  orig: 57, 37
+  offset: 0, 0
+  index: -1
+dragon_underground_adult_r_leg1a
+  rotate: true
+  xy: 243, 216
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+dragon_underground_child_leg1
+  rotate: false
+  xy: 104, 216
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+dragon_underground_adult_l_leg1c
+  rotate: false
+  xy: 725, 162
+  size: 71, 45
+  orig: 71, 45
+  offset: 0, 0
+  index: -1
+dragon_underground_critical6
+  rotate: false
+  xy: 662, 2
+  size: 360, 51
+  orig: 374, 73
+  offset: 13, 11
+  index: -1
+dragon_underground_child_head
+  rotate: true
+  xy: 1318, 205
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+dragon_underground_child_tail
+  rotate: false
+  xy: 521, 161
+  size: 71, 56
+  orig: 71, 56
+  offset: 0, 0
+  index: -1
+dragon_underground_adult_eye4
+  rotate: false
+  xy: 467, 241
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+dragon_underground_baby_tail
+  rotate: true
+  xy: 330, 216
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+dragon_underground_child_arm2
+  rotate: false
+  xy: 966, 55
+  size: 56, 74
+  orig: 56, 74
+  offset: 0, 0
+  index: -1
+dragon_underground_adult_tail2
+  rotate: false
+  xy: 798, 162
+  size: 67, 41
+  orig: 67, 41
+  offset: 0, 0
+  index: -1
+dragon_underground_adult_l_leg1a
+  rotate: true
+  xy: 594, 161
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+dragon_underground_adult_r_leg2a
+  rotate: true
+  xy: 288, 216
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+dragon_underground_baby_mouth
+  rotate: false
+  xy: 935, 162
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+dragon_underground_critical5
+  rotate: false
+  xy: 2, 161
+  size: 360, 53
+  orig: 374, 73
+  offset: 13, 9
+  index: -1
+dragon_underground_adult_eye
+  rotate: true
+  xy: 907, 242
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+dragon_underground_adult_eye3
+  rotate: false
+  xy: 445, 241
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+dragon_underground_baby_leg1
+  rotate: false
+  xy: 847, 205
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+dragon_underground_child_heart
+  rotate: false
+  xy: 799, 205
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_underground_baby_head
+  rotate: true
+  xy: 655, 162
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+dragon_underground_adult_heart
+  rotate: false
+  xy: 799, 205
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_underground_adult_l_leg2d
+  rotate: false
+  xy: 482, 221
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+dragon_underground_critical8
+  rotate: false
+  xy: 2, 2
+  size: 328, 157
+  orig: 328, 185
+  offset: 0, 8
+  index: -1
+dragon_underground_adult_r_leg2d
+  rotate: false
+  xy: 487, 241
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+dragon_underground_critical2
+  rotate: false
+  xy: 662, 55
+  size: 302, 105
+  orig: 302, 105
+  offset: 0, 0
+  index: -1
+dragon_underground_adult_l_leg2e
+  rotate: false
+  xy: 935, 196
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+dragon_underground_child_leg2
+  rotate: true
+  xy: 61, 216
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+dragon_underground_critical7
+  rotate: false
+  xy: 332, 2
+  size: 328, 157
+  orig: 328, 185
+  offset: 0, 8
+  index: -1
+dragon_underground_adult_body1
+  rotate: false
+  xy: 364, 161
+  size: 84, 68
+  orig: 84, 68
+  offset: 0, 0
+  index: -1
+dragon_underground_baby_eye2
+  rotate: true
+  xy: 362, 231
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+dragon_underground_child_eye2
+  rotate: false
+  xy: 426, 231
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+dragon_underground_adult_r_leg1b
+  rotate: true
+  xy: 762, 209
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+dragon_underground_adult_tail3
+  rotate: false
+  xy: 1314, 47
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+dragon_underground_adult_r_leg2e
+  rotate: false
+  xy: 966, 131
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+dragon_underground_critical1
+  rotate: false
+  xy: 966, 146
+  size: 286, 95
+  orig: 302, 105
+  offset: 16, 10
+  index: -1
+dragon_underground_adult_l_leg2b
+  rotate: false
+  xy: 579, 219
+  size: 19, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+dragon_underground_child_arm1
+  rotate: true
+  xy: 450, 161
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
+dragon_underground_baby_leg
+  rotate: true
+  xy: 932, 215
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+dragon_underground_baby_eye
+  rotate: false
+  xy: 384, 231
+  size: 40, 18
+  orig: 40, 18
+  offset: 0, 0
+  index: -1
+dragon_underground_adult_tail1
+  rotate: false
+  xy: 867, 162
+  size: 66, 41
+  orig: 66, 41
+  offset: 0, 0
+  index: -1
+dragon_underground_adult_head
+  rotate: true
+  xy: 1318, 146
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+dragon_underground_adult_r_leg1c
+  rotate: false
+  xy: 1314, 101
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+dragon_underground_baby_leg2
+  rotate: true
+  xy: 889, 205
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_underground_adult_r_leg2b
+  rotate: false
+  xy: 501, 221
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+dragon_underground_child_mouth
+  rotate: true
+  xy: 1356, 2
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+dragon_underground_critical4
+  rotate: false
+  xy: 1024, 2
+  size: 330, 43
+  orig: 374, 73
+  offset: 43, 9
+  index: -1
+dragon_underground_child_body
+  rotate: false
+  xy: 1254, 146
+  size: 62, 95
+  orig: 62, 95
+  offset: 0, 0
+  index: -1
+dragon_underground_adult_l_leg2c
+  rotate: true
+  xy: 527, 219
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+dragon_underground_adult_mouth
+  rotate: false
+  xy: 450, 221
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+dragon_underground_child_eye
+  rotate: true
+  xy: 889, 242
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+dragon_underground_adult_eye2
+  rotate: false
+  xy: 1356, 31
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+dragon_underground_adult_l_leg2a
+  rotate: true
+  xy: 192, 216
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+dragon_underground_adult_l_leg1b
+  rotate: false
+  xy: 140, 216
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+dragon_underground_adult_r_leg2c
+  rotate: false
+  xy: 556, 219
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+dragon_underground_critical3
+  rotate: false
+  xy: 1024, 47
+  size: 288, 97
+  orig: 302, 105
+  offset: 0, 8
+  index: -1

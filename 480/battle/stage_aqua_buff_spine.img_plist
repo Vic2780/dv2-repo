@@ -1,0 +1,18 @@
+stage_aqua_buff_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+aqua_buff1
+  rotate: true
+  xy: 2, 2
+  size: 109, 112
+  orig: 137, 128
+  offset: 15, 12
+  index: -1
+aqua_buff2
+  rotate: false
+  xy: 116, 2
+  size: 101, 104
+  orig: 137, 128
+  offset: 19, 16
+  index: -1

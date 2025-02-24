@@ -1,0 +1,46 @@
+jingle_bell_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+star
+  rotate: false
+  xy: 2, 209
+  size: 199, 176
+  orig: 215, 190
+  offset: 9, 7
+  index: -1
+bell1
+  rotate: true
+  xy: 54, 535
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+bell2
+  rotate: true
+  xy: 2, 535
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 2, 2
+  size: 205, 205
+  orig: 205, 205
+  offset: 0, 0
+  index: -1
+deco1
+  rotate: true
+  xy: 101, 387
+  size: 146, 97
+  orig: 146, 97
+  offset: 0, 0
+  index: -1
+deco2
+  rotate: true
+  xy: 2, 387
+  size: 146, 97
+  orig: 146, 97
+  offset: 0, 0
+  index: -1

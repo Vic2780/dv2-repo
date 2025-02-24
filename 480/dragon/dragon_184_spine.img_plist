@@ -1,0 +1,592 @@
+dragon_184_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_tutankha_critical_e01a
+  rotate: true
+  xy: 295, 375
+  size: 250, 257
+  orig: 276, 291
+  offset: 15, 34
+  index: -1
+dragon_tutankha_baby_tail
+  rotate: true
+  xy: 534, 1217
+  size: 47, 19
+  orig: 47, 19
+  offset: 0, 0
+  index: -1
+dragon_tutankha_adult_leg3
+  rotate: false
+  xy: 263, 695
+  size: 30, 54
+  orig: 30, 54
+  offset: 0, 0
+  index: -1
+dragon_tutankha_adult_arm4
+  rotate: false
+  xy: 502, 1548
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_eye
+  rotate: false
+  xy: 295, 361
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+dragon_tutankha_baby_leg
+  rotate: true
+  xy: 263, 882
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+dragon_tutankha_adult_eye
+  rotate: false
+  xy: 295, 361
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+dragon_tutankha_child_head
+  rotate: false
+  xy: 216, 1633
+  size: 61, 65
+  orig: 61, 65
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_head
+  rotate: false
+  xy: 487, 1651
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_leg1
+  rotate: false
+  xy: 249, 969
+  size: 42, 65
+  orig: 42, 65
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_critical_e02
+  rotate: false
+  xy: 293, 1217
+  size: 239, 189
+  orig: 239, 189
+  offset: 0, 0
+  index: -1
+sample
+  rotate: false
+  xy: 2, 639
+  size: 259, 248
+  orig: 259, 248
+  offset: 0, 0
+  index: -1
+dragon_tutankha_adult_damaged
+  rotate: true
+  xy: 363, 1967
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+dragon_tutankha_child_body
+  rotate: true
+  xy: 457, 1791
+  size: 52, 86
+  orig: 52, 86
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_critical_e05a
+  rotate: true
+  xy: 376, 2
+  size: 371, 177
+  orig: 371, 177
+  offset: 0, 0
+  index: -1
+dragon_tutankha_baby_question
+  rotate: false
+  xy: 241, 1444
+  size: 35, 65
+  orig: 39, 67
+  offset: 2, 2
+  index: -1
+dragon_tutankha_child_mouth
+  rotate: true
+  xy: 241, 1539
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+dragon_tutankha_baby_mouth
+  rotate: true
+  xy: 534, 1315
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+dragon_tutankha_child_arm2
+  rotate: true
+  xy: 534, 1339
+  size: 35, 15
+  orig: 35, 15
+  offset: 0, 0
+  index: -1
+dragon_tutankha_adult_love
+  rotate: false
+  xy: 304, 1908
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_arm1
+  rotate: true
+  xy: 502, 1408
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_critical_e06a
+  rotate: true
+  xy: 2, 1224
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+dragon_tutankha_child_leg1
+  rotate: false
+  xy: 502, 1494
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+dragon_tutankha_adult_leg2
+  rotate: true
+  xy: 245, 1310
+  size: 71, 39
+  orig: 71, 39
+  offset: 0, 0
+  index: -1
+dragon_tutankha_child_wing
+  rotate: true
+  xy: 304, 1837
+  size: 69, 76
+  orig: 69, 76
+  offset: 0, 0
+  index: -1
+dragon_tutankha_critical_e03
+  rotate: false
+  xy: 295, 811
+  size: 248, 192
+  orig: 290, 218
+  offset: 19, 25
+  index: -1
+dragon_tutankha_adult_attack
+  rotate: true
+  xy: 422, 1958
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+dragon_tutankha_adult_tail
+  rotate: true
+  xy: 216, 1825
+  size: 179, 86
+  orig: 179, 86
+  offset: 0, 0
+  index: -1
+dragon_tutankha_adult_wing
+  rotate: true
+  xy: 2, 1825
+  size: 188, 123
+  orig: 188, 123
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_critical_e05b
+  rotate: false
+  xy: 2, 2
+  size: 372, 175
+  orig: 372, 175
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_critical_e06b
+  rotate: true
+  xy: 2, 1067
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_leg4
+  rotate: false
+  xy: 216, 2006
+  size: 59, 26
+  orig: 59, 26
+  offset: 0, 0
+  index: -1
+dragon_tutankha_adult_mouth
+  rotate: true
+  xy: 216, 1538
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+dragon_tutankha_critical_e01b
+  rotate: true
+  xy: 2, 361
+  size: 276, 291
+  orig: 276, 291
+  offset: 0, 0
+  index: -1
+dragon_tutankha_critical_e02
+  rotate: false
+  xy: 295, 627
+  size: 254, 182
+  orig: 290, 218
+  offset: 16, 22
+  index: -1
+dragon_tutankha_child_neck
+  rotate: false
+  xy: 263, 751
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+dragon_tutankha_adult_arm3
+  rotate: true
+  xy: 195, 1791
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+dragon_tutankha_child_eye
+  rotate: true
+  xy: 127, 2013
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_arm4
+  rotate: false
+  xy: 502, 1548
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_smile
+  rotate: true
+  xy: 481, 1915
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_tutankha_adult_head
+  rotate: true
+  xy: 304, 1967
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_critical_e05
+  rotate: false
+  xy: 2, 179
+  size: 371, 180
+  orig: 371, 180
+  offset: 0, 0
+  index: -1
+dragon_tutankha_baby_arm
+  rotate: false
+  xy: 534, 1288
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+dragon_tutankha_child_leg3
+  rotate: true
+  xy: 245, 1242
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_critical_e01
+  rotate: false
+  xy: 2, 1538
+  size: 212, 158
+  orig: 212, 158
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_love
+  rotate: false
+  xy: 487, 1581
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+dragon_tutankha_adult_leg1
+  rotate: false
+  xy: 249, 1036
+  size: 42, 65
+  orig: 42, 65
+  offset: 0, 0
+  index: -1
+dragon_tutankha_adult_arm2
+  rotate: false
+  xy: 245, 1157
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_attack
+  rotate: true
+  xy: 382, 1891
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+dragon_tutankha_adult_body
+  rotate: true
+  xy: 348, 1767
+  size: 68, 107
+  orig: 68, 107
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_leg3
+  rotate: false
+  xy: 263, 639
+  size: 30, 54
+  orig: 30, 54
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_critical_e04
+  rotate: true
+  xy: 279, 1576
+  size: 189, 206
+  orig: 189, 206
+  offset: 0, 0
+  index: -1
+dragon_tutankha_child_arm1
+  rotate: true
+  xy: 249, 948
+  size: 19, 44
+  orig: 19, 44
+  offset: 0, 0
+  index: -1
+dragon_tutankha_child_love
+  rotate: false
+  xy: 216, 1566
+  size: 61, 65
+  orig: 61, 65
+  offset: 0, 0
+  index: -1
+dragon_tutankha_adult_leg4
+  rotate: false
+  xy: 216, 2006
+  size: 59, 26
+  orig: 59, 26
+  offset: 0, 0
+  index: -1
+dragon_tutankha_critical_e01
+  rotate: false
+  xy: 293, 1005
+  size: 244, 210
+  orig: 262, 222
+  offset: 6, 9
+  index: -1
+dragon_tutankha_baby_wing
+  rotate: true
+  xy: 263, 794
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+dragon_tutankha_adult_smile
+  rotate: true
+  xy: 481, 1915
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_tutankha_baby_eye
+  rotate: false
+  xy: 245, 1277
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_body
+  rotate: true
+  xy: 348, 1767
+  size: 68, 107
+  orig: 68, 107
+  offset: 0, 0
+  index: -1
+dragon_tutankha_child_leg2
+  rotate: false
+  xy: 263, 830
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+dragon_tutankha_child_arm4
+  rotate: false
+  xy: 534, 1376
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_arm3
+  rotate: true
+  xy: 195, 1791
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_damaged
+  rotate: false
+  xy: 487, 1721
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_neck
+  rotate: true
+  xy: 273, 1767
+  size: 56, 73
+  orig: 56, 73
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_critical_e01a
+  rotate: true
+  xy: 502, 1438
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_mouth
+  rotate: true
+  xy: 241, 1511
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_tail
+  rotate: true
+  xy: 127, 1825
+  size: 186, 87
+  orig: 186, 87
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_acc
+  rotate: true
+  xy: 455, 1845
+  size: 68, 70
+  orig: 68, 70
+  offset: 0, 0
+  index: -1
+dragon_tutankha_critical_e05
+  rotate: true
+  xy: 241, 1383
+  size: 59, 39
+  orig: 59, 41
+  offset: 0, 2
+  index: -1
+dragon_tutankha_baby_body
+  rotate: true
+  xy: 249, 906
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_leg2
+  rotate: true
+  xy: 245, 1310
+  size: 71, 39
+  orig: 71, 39
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_arm2
+  rotate: true
+  xy: 245, 1103
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+dragon_tutankha_baby_head
+  rotate: false
+  xy: 481, 1974
+  size: 52, 59
+  orig: 52, 59
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_critical_e03
+  rotate: false
+  xy: 2, 889
+  size: 245, 176
+  orig: 245, 176
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_critical_e01b
+  rotate: false
+  xy: 382, 1837
+  size: 71, 52
+  orig: 71, 52
+  offset: 0, 0
+  index: -1
+dragon_tutankha_child_heart
+  rotate: false
+  xy: 245, 1201
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_tutankha_critical_e04
+  rotate: false
+  xy: 282, 1408
+  size: 218, 166
+  orig: 290, 218
+  offset: 44, 22
+  index: -1
+dragon_tutankha_adult_neck
+  rotate: true
+  xy: 273, 1767
+  size: 56, 73
+  orig: 56, 73
+  offset: 0, 0
+  index: -1
+dragon_tutankha_adult_arm1
+  rotate: true
+  xy: 502, 1408
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+dragon_tutankha_child_tail
+  rotate: false
+  xy: 195, 1700
+  size: 76, 74
+  orig: 76, 74
+  offset: 0, 0
+  index: -1
+dragon_tutankha_child_arm3
+  rotate: false
+  xy: 534, 1266
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+dragon_tutankha_e_critical_e06
+  rotate: true
+  xy: 2, 1381
+  size: 155, 237
+  orig: 155, 241
+  offset: 0, 3
+  index: -1
+dragon_tutankha_e_wing
+  rotate: false
+  xy: 2, 1698
+  size: 191, 125
+  orig: 191, 125
+  offset: 0, 0
+  index: -1

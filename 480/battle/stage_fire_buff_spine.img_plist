@@ -1,0 +1,18 @@
+stage_fire_buff_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+fire_buff2
+  rotate: false
+  xy: 118, 2
+  size: 105, 108
+  orig: 137, 128
+  offset: 14, 14
+  index: -1
+fire_buff1
+  rotate: true
+  xy: 2, 2
+  size: 113, 114
+  orig: 137, 128
+  offset: 10, 10
+  index: -1

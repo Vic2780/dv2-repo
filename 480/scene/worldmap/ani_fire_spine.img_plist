@@ -1,0 +1,46 @@
+ani_fire_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+worldmap_mtfire_dust_left
+  rotate: false
+  xy: 52, 70
+  size: 33, 33
+  orig: 41, 41
+  offset: 5, 4
+  index: -1
+worldmap_mtfire_book
+  rotate: false
+  xy: 2, 2
+  size: 84, 66
+  orig: 116, 80
+  offset: 14, 5
+  index: -1
+worldmap_mtfire_wave02
+  rotate: false
+  xy: 88, 2
+  size: 37, 52
+  orig: 41, 54
+  offset: 4, 0
+  index: -1
+worldmap_mtfire_dust_s
+  rotate: true
+  xy: 87, 99
+  size: 10, 11
+  orig: 16, 19
+  offset: 3, 5
+  index: -1
+worldmap_mtfire_dust_right
+  rotate: false
+  xy: 88, 56
+  size: 33, 41
+  orig: 41, 51
+  offset: 4, 5
+  index: -1
+worldmap_mtfire_wave01
+  rotate: true
+  xy: 2, 70
+  size: 42, 48
+  orig: 44, 56
+  offset: 2, 0
+  index: -1

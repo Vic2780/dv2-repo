@@ -1,0 +1,67 @@
+skill_70_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skill_tough5
+  rotate: false
+  xy: 2, 272
+  size: 155, 191
+  orig: 273, 317
+  offset: 73, 54
+  index: -1
+skill_tough8
+  rotate: true
+  xy: 316, 424
+  size: 65, 72
+  orig: 75, 82
+  offset: 10, 9
+  index: -1
+skill_tough3
+  rotate: false
+  xy: 513, 2
+  size: 155, 191
+  orig: 273, 317
+  offset: 73, 54
+  index: -1
+skill_tough6
+  rotate: true
+  xy: 509, 388
+  size: 99, 94
+  orig: 131, 118
+  offset: 19, 13
+  index: -1
+skill_tough9
+  rotate: true
+  xy: 2, 2
+  size: 268, 250
+  orig: 278, 268
+  offset: 3, 13
+  index: -1
+skill_tough7
+  rotate: false
+  xy: 254, 2
+  size: 257, 263
+  orig: 273, 317
+  offset: 13, 11
+  index: -1
+skill_tough1
+  rotate: true
+  xy: 316, 267
+  size: 155, 191
+  orig: 273, 317
+  offset: 73, 54
+  index: -1
+skill_tough4
+  rotate: false
+  xy: 159, 272
+  size: 155, 191
+  orig: 273, 317
+  offset: 73, 54
+  index: -1
+skill_tough2
+  rotate: false
+  xy: 513, 195
+  size: 155, 191
+  orig: 273, 317
+  offset: 73, 54
+  index: -1

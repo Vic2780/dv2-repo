@@ -1,0 +1,95 @@
+aria_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+sd_aria_eye2
+  rotate: true
+  xy: 130, 27
+  size: 32, 6
+  orig: 32, 6
+  offset: 0, 0
+  index: -1
+sd_aria_mouth
+  rotate: false
+  xy: 169, 51
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+sd_aria_acc
+  rotate: false
+  xy: 105, 39
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+sd_aria_clothes1
+  rotate: false
+  xy: 130, 2
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+sd_aria_arm1
+  rotate: true
+  xy: 164, 15
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+sd_aria_leg
+  rotate: false
+  xy: 164, 26
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+sd_aria_arm2
+  rotate: true
+  xy: 164, 2
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+sd_aria_head
+  rotate: false
+  xy: 2, 2
+  size: 66, 57
+  orig: 66, 57
+  offset: 0, 0
+  index: -1
+sd_aria_hair1
+  rotate: true
+  xy: 138, 27
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+sd_aria_clothes2
+  rotate: true
+  xy: 70, 2
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+sd_aria_hair2
+  rotate: true
+  xy: 101, 2
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+sd_aria_eye1
+  rotate: false
+  xy: 70, 42
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+sd_aria_eyebrow
+  rotate: false
+  xy: 138, 55
+  size: 29, 5
+  orig: 29, 5
+  offset: 0, 0
+  index: -1

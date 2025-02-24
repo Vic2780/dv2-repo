@@ -1,0 +1,39 @@
+skill_adblocking_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skill_adbloking1
+  rotate: false
+  xy: 1266, 2
+  size: 314, 325
+  orig: 410, 409
+  offset: 58, 43
+  index: -1
+skill_adbloking4
+  rotate: false
+  xy: 318, 2
+  size: 314, 325
+  orig: 410, 409
+  offset: 59, 42
+  index: -1
+skill_adbloking5
+  rotate: false
+  xy: 2, 2
+  size: 314, 325
+  orig: 410, 409
+  offset: 58, 43
+  index: -1
+skill_adbloking2
+  rotate: false
+  xy: 950, 2
+  size: 314, 325
+  orig: 410, 409
+  offset: 58, 43
+  index: -1
+skill_adbloking3
+  rotate: false
+  xy: 634, 2
+  size: 314, 325
+  orig: 410, 409
+  offset: 58, 43
+  index: -1

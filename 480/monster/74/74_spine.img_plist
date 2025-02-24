@@ -1,0 +1,123 @@
+74_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_spike_gel_sprit_groggy_leg1
+  rotate: false
+  xy: 723, 321
+  size: 117, 136
+  orig: 131, 148
+  offset: 8, 4
+  index: -1
+m_spike_gel_sprit_light
+  rotate: false
+  xy: 423, 261
+  size: 60, 61
+  orig: 60, 69
+  offset: 0, 3
+  index: -1
+m_spike_gel_sprit_eye
+  rotate: false
+  xy: 624, 211
+  size: 137, 88
+  orig: 137, 88
+  offset: 0, 0
+  index: -1
+m_spike_gel_sprit_groggy_leg2
+  rotate: true
+  xy: 298, 261
+  size: 62, 123
+  orig: 68, 131
+  offset: 3, 3
+  index: -1
+m_spike_gel_sprit_groggy_leg3
+  rotate: false
+  xy: 2, 329
+  size: 176, 165
+  orig: 188, 173
+  offset: 6, 6
+  index: -1
+m_spike_gel_sprit_groggy_leg4
+  rotate: true
+  xy: 842, 321
+  size: 132, 115
+  orig: 140, 125
+  offset: 1, 6
+  index: -1
+m_spike_gel_sprit_groggy_leg5
+  rotate: true
+  xy: 774, 184
+  size: 135, 136
+  orig: 141, 146
+  offset: 3, 4
+  index: -1
+m_spike_gel_sprit_spike
+  rotate: true
+  xy: 298, 2
+  size: 257, 140
+  orig: 263, 148
+  offset: 3, 6
+  index: -1
+m_spike_gel_sprit_groggy_eye
+  rotate: false
+  xy: 485, 224
+  size: 137, 88
+  orig: 137, 88
+  offset: 0, 0
+  index: -1
+m_spike_gel_sprit_leg1
+  rotate: false
+  xy: 440, 2
+  size: 139, 220
+  orig: 143, 226
+  offset: 3, 3
+  index: -1
+m_spike_gel_sprit_leg4
+  rotate: true
+  xy: 774, 2
+  size: 180, 189
+  orig: 184, 191
+  offset: 3, 0
+  index: -1
+m_spike_gel_sprit_light2
+  rotate: true
+  xy: 912, 184
+  size: 57, 54
+  orig: 59, 62
+  offset: 1, 2
+  index: -1
+m_spike_gel_sprit_leg5
+  rotate: true
+  xy: 351, 325
+  size: 162, 171
+  orig: 164, 175
+  offset: 2, 3
+  index: -1
+m_spike_gel_sprit_leg2
+  rotate: false
+  xy: 581, 2
+  size: 191, 207
+  orig: 193, 207
+  offset: 0, 0
+  index: -1
+m_spike_gel_sprit_groggy_head
+  rotate: true
+  xy: 180, 329
+  size: 163, 169
+  orig: 171, 173
+  offset: 5, 3
+  index: -1
+m_spike_gel_sprit_leg3
+  rotate: false
+  xy: 524, 314
+  size: 197, 181
+  orig: 203, 185
+  offset: 0, 4
+  index: -1
+m_spike_gel_sprit_head
+  rotate: true
+  xy: 2, 2
+  size: 325, 294
+  orig: 325, 294
+  offset: 0, 0
+  index: -1

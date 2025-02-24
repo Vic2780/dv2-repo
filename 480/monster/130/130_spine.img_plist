@@ -1,0 +1,249 @@
+130_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_pinkbell_groggy_wing
+  rotate: false
+  xy: 2, 837
+  size: 425, 551
+  orig: 425, 551
+  offset: 0, 0
+  index: -1
+m_pinkbell_tail2
+  rotate: true
+  xy: 429, 284
+  size: 119, 104
+  orig: 119, 104
+  offset: 0, 0
+  index: -1
+m_pinkbell_arm1
+  rotate: false
+  xy: 367, 1430
+  size: 57, 131
+  orig: 65, 131
+  offset: 0, 0
+  index: -1
+m_pinkbell_hand
+  rotate: false
+  xy: 281, 1839
+  size: 76, 80
+  orig: 90, 88
+  offset: 14, 3
+  index: -1
+m_pinkbell_head
+  rotate: false
+  xy: 429, 1358
+  size: 98, 96
+  orig: 98, 96
+  offset: 0, 0
+  index: -1
+m_pinkbell_groggy_body1
+  rotate: true
+  xy: 281, 1757
+  size: 80, 78
+  orig: 114, 122
+  offset: 31, 8
+  index: -1
+m_pinkbell_leg2
+  rotate: true
+  xy: 367, 1563
+  size: 89, 56
+  orig: 89, 56
+  offset: 0, 0
+  index: -1
+m_pinkbell_hand2
+  rotate: false
+  xy: 205, 1975
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+m_pinkbell_groggy_head
+  rotate: true
+  xy: 137, 1757
+  size: 90, 64
+  orig: 98, 96
+  offset: 1, 22
+  index: -1
+m_pinkbell_arm2
+  rotate: true
+  xy: 205, 1896
+  size: 56, 70
+  orig: 56, 70
+  offset: 0, 0
+  index: -1
+m_pinkbell_groggy_tail2
+  rotate: true
+  xy: 429, 405
+  size: 119, 104
+  orig: 119, 104
+  offset: 0, 0
+  index: -1
+m_pinkbell_nail
+  rotate: false
+  xy: 218, 1847
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+m_pinkbell_mouth
+  rotate: true
+  xy: 425, 1586
+  size: 66, 38
+  orig: 66, 38
+  offset: 0, 0
+  index: -1
+m_pinkbell_groggy_tail
+  rotate: true
+  xy: 429, 713
+  size: 417, 100
+  orig: 493, 280
+  offset: 10, 83
+  index: -1
+m_pinkbell_groggy_leg3
+  rotate: true
+  xy: 497, 2
+  size: 43, 33
+  orig: 85, 113
+  offset: 25, 35
+  index: -1
+m_pinkbell_leg3
+  rotate: false
+  xy: 118, 1897
+  size: 85, 113
+  orig: 85, 113
+  offset: 0, 0
+  index: -1
+m_pinkbell_ef3
+  rotate: true
+  xy: 361, 1654
+  size: 343, 168
+  orig: 375, 254
+  offset: 31, 10
+  index: -1
+m_pinkbell_groggy_neck
+  rotate: false
+  xy: 367, 1390
+  size: 58, 38
+  orig: 74, 102
+  offset: 5, 19
+  index: -1
+m_pinkbell_groggy_arm1
+  rotate: true
+  xy: 137, 1849
+  size: 45, 79
+  orig: 65, 131
+  offset: 0, 40
+  index: -1
+m_pinkbell_body2
+  rotate: false
+  xy: 2, 1757
+  size: 133, 138
+  orig: 133, 138
+  offset: 0, 0
+  index: -1
+m_pinkbell_groggy_nail
+  rotate: false
+  xy: 262, 1975
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+m_pinkbell_neck
+  rotate: true
+  xy: 429, 526
+  size: 74, 102
+  orig: 74, 102
+  offset: 0, 0
+  index: -1
+m_pinkbell_tail
+  rotate: false
+  xy: 2, 2
+  size: 493, 280
+  orig: 493, 280
+  offset: 0, 0
+  index: -1
+m_pinkbell_ef2
+  rotate: false
+  xy: 2, 1390
+  size: 363, 190
+  orig: 375, 254
+  offset: 0, 10
+  index: -1
+m_pinkbell_body1
+  rotate: false
+  xy: 2, 1897
+  size: 114, 122
+  orig: 114, 122
+  offset: 0, 0
+  index: -1
+m_pinkbell_foot
+  rotate: false
+  xy: 277, 1921
+  size: 80, 52
+  orig: 80, 52
+  offset: 0, 0
+  index: -1
+m_pinkbell_groggy_foot
+  rotate: true
+  xy: 465, 1586
+  size: 64, 38
+  orig: 80, 52
+  offset: 14, 2
+  index: -1
+m_pinkbell_groggy_arm2
+  rotate: true
+  xy: 497, 90
+  size: 40, 26
+  orig: 56, 70
+  offset: 3, 30
+  index: -1
+m_pinkbell_eye
+  rotate: true
+  xy: 497, 47
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+m_pinkbell_groggy_leg1
+  rotate: false
+  xy: 429, 1132
+  size: 98, 224
+  orig: 128, 242
+  offset: 19, 18
+  index: -1
+m_pinkbell_ef1
+  rotate: false
+  xy: 2, 1582
+  size: 357, 173
+  orig: 375, 173
+  offset: 11, 0
+  index: -1
+m_pinkbell_leg1
+  rotate: true
+  xy: 426, 1456
+  size: 128, 106
+  orig: 128, 242
+  offset: 0, 0
+  index: -1
+m_pinkbell_wing
+  rotate: false
+  xy: 2, 284
+  size: 425, 551
+  orig: 425, 551
+  offset: 0, 0
+  index: -1
+m_pinkbell_groggy_hand
+  rotate: false
+  xy: 203, 1757
+  size: 76, 88
+  orig: 90, 88
+  offset: 0, 0
+  index: -1
+m_pinkbell_hair
+  rotate: true
+  xy: 429, 602
+  size: 109, 101
+  orig: 109, 101
+  offset: 0, 0
+  index: -1

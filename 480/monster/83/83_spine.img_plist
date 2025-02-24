@@ -1,0 +1,116 @@
+83_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_ctree_arm2
+  rotate: false
+  xy: 1141, 2
+  size: 230, 90
+  orig: 250, 100
+  offset: 15, 4
+  index: -1
+m_ctree_teeth
+  rotate: false
+  xy: 308, 134
+  size: 249, 93
+  orig: 261, 97
+  offset: 8, 0
+  index: -1
+m_ctree_head
+  rotate: false
+  xy: 2, 134
+  size: 304, 97
+  orig: 310, 109
+  offset: 3, 6
+  index: -1
+m_ctree_body
+  rotate: true
+  xy: 1523, 2
+  size: 90, 148
+  orig: 102, 158
+  offset: 9, 1
+  index: -1
+m_ctree_groggybody
+  rotate: true
+  xy: 1373, 2
+  size: 90, 148
+  orig: 102, 158
+  offset: 9, 1
+  index: -1
+m_ctree_leg
+  rotate: true
+  xy: 1349, 94
+  size: 135, 145
+  orig: 141, 147
+  offset: 0, 2
+  index: -1
+m_ctree_groggyarm2
+  rotate: false
+  xy: 1117, 97
+  size: 230, 90
+  orig: 250, 100
+  offset: 15, 4
+  index: -1
+m_ctree_mause
+  rotate: false
+  xy: 2, 2
+  size: 316, 130
+  orig: 320, 142
+  offset: 3, 5
+  index: -1
+m_ctree_eye
+  rotate: false
+  xy: 1234, 189
+  size: 104, 34
+  orig: 104, 48
+  offset: 0, 6
+  index: -1
+m_ctree_groggyhead
+  rotate: false
+  xy: 559, 128
+  size: 304, 103
+  orig: 310, 109
+  offset: 3, 6
+  index: -1
+m_ctree_groggymause
+  rotate: false
+  xy: 320, 2
+  size: 316, 124
+  orig: 320, 142
+  offset: 3, 5
+  index: -1
+m_ctree_groggyarm1
+  rotate: false
+  xy: 638, 2
+  size: 250, 102
+  orig: 264, 122
+  offset: 12, 5
+  index: -1
+m_ctree_arm1
+  rotate: false
+  xy: 865, 106
+  size: 250, 102
+  orig: 264, 122
+  offset: 12, 5
+  index: -1
+m_ctree_groggyteeth
+  rotate: false
+  xy: 890, 2
+  size: 249, 93
+  orig: 261, 97
+  offset: 7, 1
+  index: -1
+m_ctree_groggyeye
+  rotate: false
+  xy: 1117, 189
+  size: 115, 40
+  orig: 117, 42
+  offset: 2, 0
+  index: -1
+m_ctree_groggyleg
+  rotate: true
+  xy: 1496, 94
+  size: 135, 145
+  orig: 141, 147
+  offset: 0, 2
+  index: -1

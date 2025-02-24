@@ -1,0 +1,67 @@
+skill_140_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skill_murderous7
+  rotate: true
+  xy: 146, 378
+  size: 120, 100
+  orig: 164, 162
+  offset: 6, 51
+  index: -1
+skill_murderous9
+  rotate: true
+  xy: 2, 2
+  size: 196, 190
+  orig: 212, 208
+  offset: 10, 9
+  index: -1
+skill_murderous2
+  rotate: true
+  xy: 148, 618
+  size: 62, 86
+  orig: 212, 208
+  offset: 43, 70
+  index: -1
+skill_murderous1
+  rotate: false
+  xy: 2, 530
+  size: 144, 140
+  orig: 212, 208
+  offset: 42, 24
+  index: -1
+skill_murderous4
+  rotate: false
+  xy: 160, 300
+  size: 94, 70
+  orig: 212, 208
+  offset: 53, 24
+  index: -1
+skill_murderous3
+  rotate: false
+  xy: 148, 500
+  size: 100, 116
+  orig: 212, 208
+  offset: 86, 47
+  index: -1
+skill_murderous5
+  rotate: true
+  xy: 2, 378
+  size: 150, 142
+  orig: 164, 162
+  offset: 7, 9
+  index: -1
+skill_murderous6
+  rotate: true
+  xy: 160, 200
+  size: 98, 94
+  orig: 164, 162
+  offset: 59, 9
+  index: -1
+skill_murderous8
+  rotate: true
+  xy: 2, 200
+  size: 176, 156
+  orig: 212, 208
+  offset: 36, 26
+  index: -1

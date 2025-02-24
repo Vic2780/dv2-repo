@@ -1,0 +1,116 @@
+baruseu_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+sd_baruseu_eye
+  rotate: true
+  xy: 28, 66
+  size: 30, 8
+  orig: 30, 8
+  offset: 0, 0
+  index: -1
+sd_baruseu_leg2
+  rotate: false
+  xy: 92, 67
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+sd_baruseu_love
+  rotate: false
+  xy: 66, 2
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+sd_baruseu_acc
+  rotate: false
+  xy: 104, 25
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+sd_baruseu_body
+  rotate: false
+  xy: 2, 66
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+sd_baruseu_mustache
+  rotate: false
+  xy: 66, 67
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+sd_baruseu_beard
+  rotate: false
+  xy: 103, 52
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+sd_baruseu_breath
+  rotate: false
+  xy: 104, 2
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+sd_baruseu_leg1
+  rotate: false
+  xy: 108, 65
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+sd_baruseu_emo
+  rotate: true
+  xy: 38, 66
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+sd_baruseu_eyeborw
+  rotate: false
+  xy: 66, 40
+  size: 35, 12
+  orig: 35, 12
+  offset: 0, 0
+  index: -1
+sd_baruseu_glasses
+  rotate: false
+  xy: 104, 39
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+sd_baruseu_arm2
+  rotate: true
+  xy: 38, 86
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+sd_baruseu_eyeborw2
+  rotate: false
+  xy: 66, 54
+  size: 35, 11
+  orig: 35, 11
+  offset: 0, 0
+  index: -1
+sd_baruseu_arm1
+  rotate: true
+  xy: 66, 84
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+sd_baruseu_head
+  rotate: false
+  xy: 2, 2
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,417 @@
+dragon_185_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_mud_adult_tail
+  rotate: true
+  xy: 229, 864
+  size: 143, 79
+  orig: 143, 79
+  offset: 0, 0
+  index: -1
+dragon_mud_child_leg1
+  rotate: true
+  xy: 310, 975
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+dragon_mud_critical_dmg1
+  rotate: false
+  xy: 2, 433
+  size: 312, 429
+  orig: 314, 429
+  offset: 1, 0
+  index: -1
+dragon_mud_adult_leg8
+  rotate: false
+  xy: 451, 1042
+  size: 53, 29
+  orig: 53, 33
+  offset: 0, 2
+  index: -1
+dragon_mud_child_leg8
+  rotate: false
+  xy: 450, 1103
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+dragon_mud_adult_ground
+  rotate: true
+  xy: 442, 504
+  size: 196, 68
+  orig: 196, 68
+  offset: 0, 0
+  index: -1
+dragon_mud_baby_tail
+  rotate: false
+  xy: 450, 1160
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+dragon_mud_adult_head4
+  rotate: false
+  xy: 372, 943
+  size: 70, 29
+  orig: 70, 29
+  offset: 0, 0
+  index: -1
+dragon_mud_child_leg3
+  rotate: false
+  xy: 450, 1132
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+dragon_mud_baby_body
+  rotate: true
+  xy: 464, 828
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1
+dragon_mud_adult_eye
+  rotate: true
+  xy: 246, 1205
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+dragon_mud_adult_body
+  rotate: true
+  xy: 310, 864
+  size: 109, 60
+  orig: 109, 62
+  offset: 0, 0
+  index: -1
+dragon_mud_adult_leg4
+  rotate: true
+  xy: 451, 1005
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+dragon_mud_adult_sand2
+  rotate: true
+  xy: 316, 504
+  size: 290, 124
+  orig: 500, 186
+  offset: 63, 2
+  index: -1
+dragon_mud_adult_tail2
+  rotate: false
+  xy: 254, 1072
+  size: 95, 105
+  orig: 95, 105
+  offset: 0, 0
+  index: -1
+dragon_mud_child_leg4
+  rotate: true
+  xy: 425, 1158
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+dragon_mud_adult_wing2
+  rotate: true
+  xy: 125, 1074
+  size: 129, 127
+  orig: 129, 127
+  offset: 0, 0
+  index: -1
+dragon_mud_child_neck
+  rotate: false
+  xy: 382, 1116
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+dragon_mud_baby_leg4
+  rotate: true
+  xy: 286, 1222
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+dragon_mud_adult_leg6
+  rotate: false
+  xy: 422, 1116
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+dragon_mud_baby_mouth
+  rotate: false
+  xy: 246, 1222
+  size: 38, 16
+  orig: 46, 16
+  offset: 8, 0
+  index: -1
+dragon_mud_child_head1
+  rotate: false
+  xy: 384, 1065
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+dragon_mud_adult_leg5
+  rotate: false
+  xy: 24, 1213
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+dragon_mud_adult_head2
+  rotate: false
+  xy: 174, 1205
+  size: 70, 29
+  orig: 70, 29
+  offset: 0, 0
+  index: -1
+dragon_mud_baby_wing
+  rotate: false
+  xy: 486, 1106
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+dragon_mud_child_body
+  rotate: false
+  xy: 229, 1009
+  size: 93, 61
+  orig: 93, 61
+  offset: 0, 0
+  index: -1
+dragon_mud_child_eye
+  rotate: false
+  xy: 106, 1213
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+dragon_mud_adult_sand3
+  rotate: true
+  xy: 316, 2
+  size: 500, 184
+  orig: 500, 186
+  offset: 0, 0
+  index: -1
+dragon_mud_child_leg5
+  rotate: false
+  xy: 351, 1144
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+dragon_mud_baby_leg5
+  rotate: true
+  xy: 502, 2
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+dragon_mud_adult_leg7
+  rotate: false
+  xy: 437, 1073
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+dragon_mud_child_wing2
+  rotate: false
+  xy: 442, 702
+  size: 67, 83
+  orig: 67, 83
+  offset: 0, 0
+  index: -1
+dragon_mud_adult_mouth
+  rotate: true
+  xy: 486, 1073
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+dragon_mud_adult_leg2
+  rotate: false
+  xy: 351, 1199
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+dragon_mud_critical_att
+  rotate: false
+  xy: 2, 864
+  size: 225, 208
+  orig: 249, 254
+  offset: 19, 43
+  index: -1
+dragon_mud_adult_head3
+  rotate: false
+  xy: 372, 974
+  size: 70, 29
+  orig: 70, 29
+  offset: 0, 0
+  index: -1
+dragon_mud_baby_leg2
+  rotate: false
+  xy: 482, 1193
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+dragon_mud_child_mouth
+  rotate: true
+  xy: 484, 1160
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+dragon_mud_adult_neck
+  rotate: true
+  xy: 254, 1179
+  size: 41, 63
+  orig: 41, 63
+  offset: 0, 0
+  index: -1
+dragon_mud_adult_leg3
+  rotate: true
+  xy: 319, 1179
+  size: 52, 30
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+dragon_mud_adult_sand1
+  rotate: false
+  xy: 316, 796
+  size: 146, 62
+  orig: 500, 186
+  offset: 136, 8
+  index: -1
+dragon_mud_adult_wing1
+  rotate: false
+  xy: 2, 1074
+  size: 121, 137
+  orig: 121, 137
+  offset: 0, 0
+  index: -1
+dragon_mud_baby_heart
+  rotate: false
+  xy: 464, 787
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_mud_baby_head1
+  rotate: false
+  xy: 384, 1005
+  size: 65, 58
+  orig: 65, 60
+  offset: 0, 2
+  index: -1
+dragon_mud_baby_leg3
+  rotate: true
+  xy: 450, 1188
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+dragon_mud_child_note
+  rotate: true
+  xy: 382, 1162
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_mud_child_tail
+  rotate: false
+  xy: 444, 943
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+dragon_mud_child_leg6
+  rotate: false
+  xy: 448, 1208
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+dragon_mud_adult_heart
+  rotate: false
+  xy: 464, 787
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_mud_baby_leg1
+  rotate: true
+  xy: 64, 1213
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+dragon_mud_baby_eye
+  rotate: true
+  xy: 2, 1213
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+dragon_mud_adult_head1
+  rotate: true
+  xy: 351, 1072
+  size: 70, 29
+  orig: 70, 29
+  offset: 0, 0
+  index: -1
+dragon_mud_critical_dmg2
+  rotate: false
+  xy: 2, 2
+  size: 312, 429
+  orig: 314, 429
+  offset: 1, 0
+  index: -1
+dragon_mud_child_leg7
+  rotate: false
+  xy: 423, 1208
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+dragon_mud_child_head2
+  rotate: false
+  xy: 458, 892
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+dragon_mud_child_wing1
+  rotate: false
+  xy: 372, 860
+  size: 84, 81
+  orig: 84, 81
+  offset: 0, 0
+  index: -1
+dragon_mud_child_leg2
+  rotate: false
+  xy: 391, 1199
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+dragon_mud_adult_leg1
+  rotate: true
+  xy: 125, 1205
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+dragon_mud_baby_head2
+  rotate: true
+  xy: 324, 1005
+  size: 65, 58
+  orig: 65, 60
+  offset: 0, 2
+  index: -1

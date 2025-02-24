@@ -1,0 +1,95 @@
+old_decor_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+olddeco13
+  rotate: true
+  xy: 2, 2
+  size: 570, 467
+  orig: 624, 499
+  offset: 21, 11
+  index: -1
+olddeco01
+  rotate: false
+  xy: 900, 715
+  size: 120, 165
+  orig: 624, 499
+  offset: 272, 102
+  index: -1
+olddeco10
+  rotate: false
+  xy: 550, 574
+  size: 348, 315
+  orig: 624, 499
+  offset: 147, 64
+  index: -1
+olddeco06
+  rotate: true
+  xy: 940, 471
+  size: 120, 165
+  orig: 624, 499
+  offset: 272, 102
+  index: -1
+olddeco08
+  rotate: true
+  xy: 940, 2
+  size: 136, 173
+  orig: 624, 499
+  offset: 265, 102
+  index: -1
+olddeco11
+  rotate: false
+  xy: 2, 574
+  size: 546, 415
+  orig: 624, 499
+  offset: 24, 30
+  index: -1
+olddeco07
+  rotate: true
+  xy: 940, 140
+  size: 136, 173
+  orig: 624, 499
+  offset: 265, 102
+  index: -1
+olddeco02
+  rotate: true
+  xy: 900, 593
+  size: 120, 165
+  orig: 624, 499
+  offset: 272, 102
+  index: -1
+olddeco09
+  rotate: false
+  xy: 940, 278
+  size: 172, 191
+  orig: 624, 499
+  offset: 248, 102
+  index: -1
+olddeco04
+  rotate: true
+  xy: 717, 891
+  size: 120, 165
+  orig: 624, 499
+  offset: 272, 102
+  index: -1
+olddeco03
+  rotate: true
+  xy: 884, 891
+  size: 120, 165
+  orig: 624, 499
+  offset: 272, 102
+  index: -1
+olddeco05
+  rotate: true
+  xy: 550, 891
+  size: 120, 165
+  orig: 624, 499
+  offset: 272, 102
+  index: -1
+olddeco12
+  rotate: true
+  xy: 471, 2
+  size: 570, 467
+  orig: 624, 499
+  offset: 21, 11
+  index: -1

@@ -1,0 +1,151 @@
+dilis_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+sd_dilis_head1
+  rotate: false
+  xy: 2, 2
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: -1
+sd_dilis_shy
+  rotate: true
+  xy: 34, 92
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+sd_dilis_eye3
+  rotate: true
+  xy: 50, 92
+  size: 35, 8
+  orig: 35, 8
+  offset: 0, 0
+  index: -1
+sd_dilis_eyebrow2
+  rotate: true
+  xy: 54, 236
+  size: 30, 6
+  orig: 30, 6
+  offset: 0, 0
+  index: -1
+sd_dilis_hair2
+  rotate: false
+  xy: 40, 293
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+sd_dilis_body2
+  rotate: false
+  xy: 2, 293
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+sd_dilis_mouth2
+  rotate: false
+  xy: 49, 175
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+sd_dilis_arm2
+  rotate: false
+  xy: 34, 130
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+sd_dilis_eye2
+  rotate: false
+  xy: 2, 328
+  size: 35, 6
+  orig: 35, 6
+  offset: 0, 0
+  index: -1
+sd_dilis_hair1
+  rotate: true
+  xy: 40, 319
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+sd_dilis_body1
+  rotate: true
+  xy: 34, 64
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+sd_dilis_arm1
+  rotate: false
+  xy: 46, 271
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+sd_dilis_mouth3
+  rotate: true
+  xy: 53, 129
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+sd_dilis_eye1
+  rotate: true
+  xy: 43, 201
+  size: 33, 14
+  orig: 33, 14
+  offset: 0, 0
+  index: -1
+sd_dilis_heart
+  rotate: true
+  xy: 2, 201
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+sd_dilis_head2
+  rotate: false
+  xy: 2, 64
+  size: 30, 86
+  orig: 30, 86
+  offset: 0, 0
+  index: -1
+sd_dilis_leg
+  rotate: false
+  xy: 49, 152
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+sd_dilis_egg
+  rotate: true
+  xy: 2, 152
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+sd_dilis_mouth
+  rotate: true
+  xy: 59, 319
+  size: 5, 2
+  orig: 5, 2
+  offset: 0, 0
+  index: -1
+sd_dilis_manteau
+  rotate: false
+  xy: 2, 249
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+sd_dilis_eyebrow
+  rotate: true
+  xy: 46, 236
+  size: 33, 6
+  orig: 33, 6
+  offset: 0, 0
+  index: -1

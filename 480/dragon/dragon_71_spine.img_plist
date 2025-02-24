@@ -1,0 +1,494 @@
+dragon_71_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_bonehead_baby_eff
+  rotate: true
+  xy: 717, 402
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+dragon_bonehead_adult_chin
+  rotate: true
+  xy: 986, 379
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+dragon_bonehead_child_head
+  rotate: false
+  xy: 73, 441
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+dragon_bonehead_adult_eye
+  rotate: false
+  xy: 202, 489
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_bonehead_baby_leg2
+  rotate: true
+  xy: 922, 500
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+dragon_bonehead_adult_bone
+  rotate: false
+  xy: 736, 428
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+dragon_bonehead_child_bone
+  rotate: false
+  xy: 812, 241
+  size: 83, 86
+  orig: 83, 86
+  offset: 0, 0
+  index: -1
+dragon_bonehead_adult_r_leg1a
+  rotate: true
+  xy: 586, 474
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+dragon_bonehead_baby_tail
+  rotate: false
+  xy: 970, 419
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+dragon_bonehead_critical8
+  rotate: true
+  xy: 478, 243
+  size: 261, 50
+  orig: 307, 88
+  offset: 27, 12
+  index: -1
+dragon_bonehead_adult_r_leg2d
+  rotate: false
+  xy: 1006, 480
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+dragon_bonehead_adult_l_leg2a
+  rotate: false
+  xy: 979, 324
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+dragon_bonehead_adult_eye2
+  rotate: true
+  xy: 202, 502
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+dragon_bonehead_critical3
+  rotate: false
+  xy: 510, 2
+  size: 251, 235
+  orig: 307, 343
+  offset: 38, 108
+  index: -1
+dragon_bonehead_child_tail
+  rotate: true
+  xy: 812, 329
+  size: 60, 71
+  orig: 60, 71
+  offset: 0, 0
+  index: -1
+dragon_bonehead_adult_r_wing
+  rotate: false
+  xy: 2, 321
+  size: 153, 118
+  orig: 153, 118
+  offset: 0, 0
+  index: -1
+dragon_bonehead_adult_l_leg2b
+  rotate: true
+  xy: 953, 460
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+dragon_bonehead_child_leg3
+  rotate: true
+  xy: 800, 391
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+dragon_bonehead_baby_leg1
+  rotate: false
+  xy: 1030, 221
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+dragon_bonehead_adult_neck_down
+  rotate: false
+  xy: 2, 441
+  size: 69, 69
+  orig: 75, 69
+  offset: 6, 0
+  index: -1
+dragon_bonehead_adult_head
+  rotate: false
+  xy: 161, 430
+  size: 61, 57
+  orig: 61, 57
+  offset: 0, 0
+  index: -1
+dragon_bonehead_adult_r_leg2a
+  rotate: false
+  xy: 931, 379
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+dragon_bonehead_baby_bone
+  rotate: false
+  xy: 730, 241
+  size: 80, 131
+  orig: 80, 131
+  offset: 0, 0
+  index: -1
+dragon_bonehead_adult_l_leg1a
+  rotate: false
+  xy: 992, 241
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+dragon_bonehead_baby_eyes3
+  rotate: false
+  xy: 161, 489
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+dragon_bonehead_adult_r_leg1b
+  rotate: false
+  xy: 895, 475
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+dragon_bonehead_baby_wing
+  rotate: false
+  xy: 1006, 458
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+dragon_bonehead_critical4
+  rotate: false
+  xy: 229, 2
+  size: 279, 239
+  orig: 307, 343
+  offset: 19, 59
+  index: -1
+dragon_bonehead_adult_eye3
+  rotate: true
+  xy: 570, 486
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+dragon_bonehead_child_eye2
+  rotate: true
+  xy: 794, 495
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+dragon_bonehead_adult_l_leg1b
+  rotate: true
+  xy: 867, 437
+  size: 36, 39
+  orig: 38, 39
+  offset: 2, 0
+  index: -1
+dragon_bonehead_adult_l_wing
+  rotate: true
+  xy: 636, 239
+  size: 161, 92
+  orig: 161, 92
+  offset: 0, 0
+  index: -1
+dragon_bonehead_child_wing2
+  rotate: false
+  xy: 897, 241
+  size: 93, 53
+  orig: 93, 53
+  offset: 0, 0
+  index: -1
+dragon_bonehead_adult_l_leg2c
+  rotate: false
+  xy: 922, 460
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+dragon_bonehead_child_leg4
+  rotate: false
+  xy: 1004, 2
+  size: 41, 78
+  orig: 41, 78
+  offset: 0, 0
+  index: -1
+dragon_bonehead_adult_body2
+  rotate: true
+  xy: 885, 329
+  size: 60, 44
+  orig: 60, 44
+  offset: 0, 0
+  index: -1
+dragon_bonehead_baby_leg4
+  rotate: false
+  xy: 697, 463
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+dragon_bonehead_baby_eyes
+  rotate: true
+  xy: 1019, 324
+  size: 38, 22
+  orig: 38, 22
+  offset: 0, 0
+  index: -1
+dragon_bonehead_adult_tail3
+  rotate: false
+  xy: 897, 296
+  size: 78, 30
+  orig: 78, 30
+  offset: 0, 0
+  index: -1
+dragon_bonehead_baby_eyes2
+  rotate: false
+  xy: 530, 486
+  size: 38, 22
+  orig: 38, 22
+  offset: 0, 0
+  index: -1
+dragon_bonehead_child_chin
+  rotate: true
+  xy: 1018, 419
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+dragon_bonehead_critical6
+  rotate: true
+  xy: 586, 239
+  size: 233, 48
+  orig: 307, 88
+  offset: 48, 12
+  index: -1
+dragon_bonehead_adult_eye4
+  rotate: false
+  xy: 816, 495
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+dragon_bonehead_critical1
+  rotate: true
+  xy: 229, 243
+  size: 267, 247
+  orig: 307, 343
+  offset: 21, 66
+  index: -1
+dragon_bonehead_adult_r_leg2b
+  rotate: true
+  xy: 983, 456
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+dragon_bonehead_baby_body
+  rotate: true
+  xy: 799, 443
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+dragon_bonehead_adult_r_leg1c
+  rotate: true
+  xy: 1004, 221
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+dragon_bonehead_child_body
+  rotate: false
+  xy: 636, 402
+  size: 79, 59
+  orig: 79, 59
+  offset: 0, 0
+  index: -1
+dragon_bonehead_child_heart
+  rotate: false
+  xy: 922, 419
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_bonehead_child_eye3
+  rotate: false
+  xy: 717, 428
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+dragon_bonehead_critical5
+  rotate: false
+  xy: 763, 2
+  size: 239, 237
+  orig: 307, 343
+  offset: 38, 0
+  index: -1
+dragon_bonehead_adult_l_leg1c
+  rotate: false
+  xy: 1020, 364
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+dragon_bonehead_adult_tail2
+  rotate: true
+  xy: 736, 492
+  size: 17, 56
+  orig: 17, 56
+  offset: 0, 0
+  index: -1
+dragon_bonehead_child_wing1
+  rotate: true
+  xy: 730, 374
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+dragon_bonehead_adult_neck
+  rotate: false
+  xy: 1004, 82
+  size: 41, 68
+  orig: 41, 68
+  offset: 0, 0
+  index: -1
+dragon_bonehead_child_neck
+  rotate: false
+  xy: 1004, 152
+  size: 40, 67
+  orig: 40, 67
+  offset: 0, 0
+  index: -1
+dragon_bonehead_adult_l_leg2d
+  rotate: false
+  xy: 977, 296
+  size: 55, 26
+  orig: 55, 26
+  offset: 0, 0
+  index: -1
+dragon_bonehead_adult_body1
+  rotate: false
+  xy: 157, 321
+  size: 68, 80
+  orig: 68, 80
+  offset: 0, 0
+  index: -1
+dragon_bonehead_child_eye
+  rotate: false
+  xy: 1030, 255
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+dragon_bonehead_critical7
+  rotate: true
+  xy: 530, 239
+  size: 245, 54
+  orig: 307, 88
+  offset: 35, 12
+  index: -1
+dragon_bonehead_critical2
+  rotate: false
+  xy: 2, 2
+  size: 225, 317
+  orig: 307, 343
+  offset: 39, 0
+  index: -1
+dragon_bonehead_adult_r_leg2c
+  rotate: false
+  xy: 864, 475
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+dragon_bonehead_child_leg1
+  rotate: false
+  xy: 138, 441
+  size: 21, 62
+  orig: 21, 62
+  offset: 0, 0
+  index: -1
+dragon_bonehead_baby_leg3
+  rotate: true
+  xy: 931, 328
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+dragon_bonehead_adult_r_leg1d
+  rotate: true
+  xy: 717, 450
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+dragon_bonehead_baby_head
+  rotate: true
+  xy: 636, 463
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+dragon_bonehead_child_leg2
+  rotate: true
+  xy: 157, 403
+  size: 25, 70
+  orig: 25, 70
+  offset: 0, 0
+  index: -1
+dragon_bonehead_adult_heart
+  rotate: false
+  xy: 922, 419
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_bonehead_adult_l_leg1d
+  rotate: true
+  xy: 941, 500
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+dragon_bonehead_adult_tail1
+  rotate: true
+  xy: 867, 391
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,137 @@
+72_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_flight_armor3
+  rotate: false
+  xy: 623, 1215
+  size: 109, 177
+  orig: 111, 187
+  offset: 1, 5
+  index: -1
+m_flight_piece6
+  rotate: true
+  xy: 2, 922
+  size: 564, 463
+  orig: 646, 515
+  offset: 46, 27
+  index: -1
+m_flight_groggyground4
+  rotate: false
+  xy: 766, 1353
+  size: 146, 113
+  orig: 184, 131
+  offset: 30, 9
+  index: -1
+m_flight_piece3
+  rotate: false
+  xy: 925, 447
+  size: 86, 299
+  orig: 100, 341
+  offset: 5, 20
+  index: -1
+m_flight_armor2
+  rotate: false
+  xy: 702, 264
+  size: 256, 181
+  orig: 286, 185
+  offset: 22, 1
+  index: -1
+m_flight_groggyground5
+  rotate: true
+  xy: 702, 447
+  size: 179, 221
+  orig: 225, 257
+  offset: 29, 10
+  index: -1
+m_flight_groggyground1
+  rotate: true
+  xy: 734, 1215
+  size: 136, 135
+  orig: 158, 181
+  offset: 12, 25
+  index: -1
+m_flight_piece4
+  rotate: false
+  xy: 546, 1137
+  size: 75, 312
+  orig: 89, 348
+  offset: 2, 16
+  index: -1
+m_flight_eye
+  rotate: false
+  xy: 914, 1408
+  size: 93, 90
+  orig: 95, 120
+  offset: 2, 0
+  index: -1
+m_flight_armor1
+  rotate: true
+  xy: 467, 922
+  size: 213, 165
+  orig: 225, 177
+  offset: 8, 9
+  index: -1
+m_flight_light
+  rotate: false
+  xy: 623, 1394
+  size: 141, 103
+  orig: 175, 183
+  offset: 23, 40
+  index: -1
+m_flight_groggyground6
+  rotate: true
+  xy: 871, 1215
+  size: 79, 143
+  orig: 93, 173
+  offset: 4, 18
+  index: -1
+m_flight_groggyground2
+  rotate: false
+  xy: 914, 1296
+  size: 92, 110
+  orig: 128, 134
+  offset: 18, 11
+  index: -1
+m_flight_body
+  rotate: false
+  xy: 702, 2
+  size: 260, 260
+  orig: 296, 302
+  offset: 22, 19
+  index: -1
+m_flight_piece5
+  rotate: false
+  xy: 672, 748
+  size: 346, 465
+  orig: 364, 479
+  offset: 11, 9
+  index: -1
+m_flight_piece1
+  rotate: false
+  xy: 2, 2
+  size: 698, 511
+  orig: 710, 519
+  offset: 9, 2
+  index: -1
+m_flight_groggyground7
+  rotate: true
+  xy: 672, 628
+  size: 106, 194
+  orig: 122, 222
+  offset: 9, 4
+  index: -1
+m_flight_groggyground3
+  rotate: true
+  xy: 467, 1137
+  size: 315, 77
+  orig: 353, 107
+  offset: 22, 12
+  index: -1
+m_flight_piece2
+  rotate: false
+  xy: 2, 515
+  size: 668, 405
+  orig: 688, 419
+  offset: 11, 10
+  index: -1

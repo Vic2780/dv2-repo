@@ -1,0 +1,305 @@
+189_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_ecristal2_groggyarm4
+  rotate: true
+  xy: 107, 962
+  size: 62, 122
+  orig: 62, 122
+  offset: 0, 0
+  index: -1
+m_ecristal2_arm21
+  rotate: true
+  xy: 156, 1200
+  size: 98, 170
+  orig: 98, 170
+  offset: 0, 0
+  index: -1
+m_ecristal2_arm1
+  rotate: false
+  xy: 156, 1400
+  size: 109, 265
+  orig: 109, 265
+  offset: 0, 0
+  index: -1
+m_ecristal2_scythe
+  rotate: false
+  xy: 2, 2
+  size: 799, 536
+  orig: 809, 536
+  offset: 10, 0
+  index: -1
+m_ecristal2_head1
+  rotate: false
+  xy: 897, 1336
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+m_ecristal2_groggybody2
+  rotate: false
+  xy: 934, 1449
+  size: 73, 66
+  orig: 77, 66
+  offset: 3, 0
+  index: -1
+m_ecristal2_groggyarm32
+  rotate: true
+  xy: 156, 1300
+  size: 98, 167
+  orig: 98, 167
+  offset: 0, 0
+  index: -1
+m_ecristal2_shadow
+  rotate: true
+  xy: 267, 1400
+  size: 260, 82
+  orig: 260, 82
+  offset: 0, 0
+  index: -1
+m_ecristal2_hand1
+  rotate: true
+  xy: 803, 464
+  size: 120, 177
+  orig: 122, 177
+  offset: 2, 0
+  index: -1
+m_ecristal2_groggyhead1
+  rotate: false
+  xy: 351, 1601
+  size: 107, 84
+  orig: 107, 84
+  offset: 0, 0
+  index: -1
+m_ecristal2_arm22
+  rotate: true
+  xy: 803, 258
+  size: 116, 195
+  orig: 116, 195
+  offset: 0, 0
+  index: -1
+m_ecristal2_arm4
+  rotate: false
+  xy: 730, 1336
+  size: 131, 250
+  orig: 131, 252
+  offset: 0, 1
+  index: -1
+m_ecristal2_groggyscythe
+  rotate: false
+  xy: 2, 540
+  size: 669, 420
+  orig: 669, 428
+  offset: 0, 0
+  index: -1
+smog1
+  rotate: false
+  xy: 460, 1601
+  size: 217, 80
+  orig: 217, 80
+  offset: 0, 0
+  index: -1
+m_ecristal2_groggyarm22
+  rotate: false
+  xy: 973, 1051
+  size: 34, 155
+  orig: 34, 155
+  offset: 0, 0
+  index: -1
+m_ecristal2_head2
+  rotate: true
+  xy: 2, 1027
+  size: 171, 348
+  orig: 171, 348
+  offset: 0, 0
+  index: -1
+m_ecristal2_eye_eff
+  rotate: true
+  xy: 863, 1449
+  size: 132, 69
+  orig: 134, 69
+  offset: 0, 0
+  index: -1
+m_ecristal2_body3
+  rotate: true
+  xy: 2, 1208
+  size: 432, 152
+  orig: 434, 152
+  offset: 2, 0
+  index: -1
+m_ecristal2_arm31
+  rotate: true
+  xy: 2, 962
+  size: 63, 103
+  orig: 63, 103
+  offset: 0, 0
+  index: -1
+m_ecristal2_hand2
+  rotate: true
+  xy: 278, 962
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: -1
+smog2
+  rotate: true
+  xy: 673, 703
+  size: 322, 124
+  orig: 322, 124
+  offset: 0, 0
+  index: -1
+m_ecristal2_groggyfinger
+  rotate: false
+  xy: 982, 464
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+m_ecristal2_groggyhand1
+  rotate: true
+  xy: 651, 1027
+  size: 74, 134
+  orig: 74, 134
+  offset: 0, 0
+  index: -1
+m_ecristal2_manto12
+  rotate: true
+  xy: 352, 1093
+  size: 250, 286
+  orig: 250, 286
+  offset: 0, 0
+  index: -1
+m_ecristal2_groggyarm1
+  rotate: true
+  xy: 799, 859
+  size: 81, 175
+  orig: 81, 175
+  offset: 0, 0
+  index: -1
+m_ecristal2_groggybody3
+  rotate: false
+  xy: 803, 376
+  size: 194, 86
+  orig: 206, 86
+  offset: 12, 0
+  index: -1
+m_ecristal2_groggymanto11
+  rotate: false
+  xy: 679, 1601
+  size: 100, 77
+  orig: 100, 77
+  offset: 0, 0
+  index: -1
+m_ecristal2_groggymanto2
+  rotate: true
+  xy: 934, 1517
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+m_ecristal2_arm32
+  rotate: true
+  xy: 802, 586
+  size: 129, 212
+  orig: 129, 214
+  offset: 0, 0
+  index: -1
+m_ecristal2_groggyhead2
+  rotate: true
+  xy: 799, 717
+  size: 140, 215
+  orig: 140, 217
+  offset: 0, 0
+  index: -1
+m_ecristal2_groggyarm31
+  rotate: false
+  xy: 2, 1642
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+m_ecristal2_body1
+  rotate: true
+  xy: 673, 540
+  size: 161, 127
+  orig: 161, 127
+  offset: 0, 0
+  index: -1
+m_ecristal2_scythe_eff2
+  rotate: false
+  xy: 351, 1345
+  size: 377, 254
+  orig: 377, 256
+  offset: 0, 0
+  index: -1
+m_ecristal2_mause
+  rotate: false
+  xy: 231, 962
+  size: 45, 60
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+m_ecristal2_groggyarm21
+  rotate: true
+  xy: 781, 1588
+  size: 99, 114
+  orig: 101, 114
+  offset: 2, 0
+  index: -1
+m_ecristal2_finger
+  rotate: false
+  xy: 1000, 258
+  size: 14, 44
+  orig: 14, 44
+  offset: 0, 0
+  index: -1
+m_ecristal2_manto2
+  rotate: false
+  xy: 352, 962
+  size: 297, 129
+  orig: 299, 129
+  offset: 2, 0
+  index: -1
+m_ecristal2_eyelight
+  rotate: true
+  xy: 976, 859
+  size: 104, 38
+  orig: 104, 38
+  offset: 0, 0
+  index: -1
+m_ecristal2_scythe_eff
+  rotate: false
+  xy: 640, 1110
+  size: 329, 224
+  orig: 377, 256
+  offset: 42, 32
+  index: -1
+m_ecristal2_groggyeye
+  rotate: true
+  xy: 973, 965
+  size: 84, 35
+  orig: 84, 35
+  offset: 0, 0
+  index: -1
+m_ecristal2_body2
+  rotate: false
+  xy: 803, 2
+  size: 209, 254
+  orig: 209, 254
+  offset: 0, 0
+  index: -1
+m_ecristal2_manto11
+  rotate: false
+  xy: 799, 942
+  size: 172, 166
+  orig: 176, 166
+  offset: 4, 0
+  index: -1
+m_ecristal2_eye
+  rotate: true
+  xy: 982, 485
+  size: 83, 17
+  orig: 83, 17
+  offset: 0, 0
+  index: -1

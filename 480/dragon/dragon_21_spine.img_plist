@@ -1,0 +1,634 @@
+dragon_21_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_angel_baby_hong
+  rotate: false
+  xy: 984, 948
+  size: 23, 19
+  orig: 73, 53
+  offset: 0, 9
+  index: -1
+dragon_angel_e_tail_p
+  rotate: false
+  xy: 934, 561
+  size: 86, 73
+  orig: 86, 73
+  offset: 0, 0
+  index: -1
+dragon_angel_baby_body
+  rotate: false
+  xy: 794, 1073
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+dragon_angel_effect_e_spark1
+  rotate: false
+  xy: 2, 945
+  size: 265, 173
+  orig: 287, 203
+  offset: 21, 15
+  index: -1
+dragon_angel_child_love
+  rotate: false
+  xy: 941, 724
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+dragon_angel_adult_leg2
+  rotate: false
+  xy: 251, 709
+  size: 19, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+dragon_angel_baby_swerat
+  rotate: false
+  xy: 1003, 84
+  size: 16, 18
+  orig: 16, 20
+  offset: 0, 1
+  index: -1
+dragon_angel_effect_e_star1
+  rotate: true
+  xy: 547, 795
+  size: 127, 55
+  orig: 257, 321
+  offset: 31, 0
+  index: -1
+dragon_angel_effect_e_b2
+  rotate: false
+  xy: 630, 785
+  size: 206, 46
+  orig: 320, 220
+  offset: 63, 34
+  index: -1
+dragon_angel_effect_e_wing_eff3
+  rotate: true
+  xy: 349, 795
+  size: 132, 196
+  orig: 164, 254
+  offset: 6, 57
+  index: -1
+dragon_angel_baby_tears
+  rotate: true
+  xy: 972, 1071
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+dragon_angel_effect_e_spark2
+  rotate: false
+  xy: 718, 2
+  size: 283, 201
+  orig: 287, 203
+  offset: 1, 1
+  index: -1
+dragon_angel_e_head_p
+  rotate: false
+  xy: 943, 910
+  size: 39, 62
+  orig: 39, 62
+  offset: 0, 0
+  index: -1
+dragon_angel_effect_e_cross
+  rotate: false
+  xy: 2, 393
+  size: 271, 291
+  orig: 271, 291
+  offset: 0, 0
+  index: -1
+dragon_angel_adult_arm2
+  rotate: true
+  xy: 985, 423
+  size: 25, 35
+  orig: 25, 49
+  offset: 0, 14
+  index: -1
+dragon_angel_effect_e_cc03
+  rotate: false
+  xy: 361, 396
+  size: 239, 253
+  orig: 241, 257
+  offset: 2, 3
+  index: -1
+dragon_angel_child_body
+  rotate: false
+  xy: 877, 871
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+dragon_angel_effect_e_star4
+  rotate: true
+  xy: 604, 833
+  size: 85, 141
+  orig: 257, 321
+  offset: 172, 180
+  index: -1
+dragon_angel_baby_leg3
+  rotate: true
+  xy: 665, 371
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+dragon_angel_adult_hit
+  rotate: true
+  xy: 480, 1077
+  size: 45, 78
+  orig: 45, 86
+  offset: 0, 8
+  index: -1
+dragon_angel_child_leg3
+  rotate: false
+  xy: 984, 920
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+dragon_angel_baby_eye
+  rotate: true
+  xy: 999, 788
+  size: 29, 21
+  orig: 73, 53
+  offset: 20, 6
+  index: -1
+dragon_angel_adult_head
+  rotate: true
+  xy: 560, 1077
+  size: 45, 78
+  orig: 45, 86
+  offset: 0, 8
+  index: -1
+dragon_angel_adult_hair
+  rotate: false
+  xy: 886, 1010
+  size: 29, 64
+  orig: 45, 86
+  offset: 16, 0
+  index: -1
+dragon_angel_effect_e_smo3
+  rotate: false
+  xy: 396, 210
+  size: 267, 184
+  orig: 275, 186
+  offset: 0, 2
+  index: -1
+dragon_angel_effect_e_wing_eff2
+  rotate: false
+  xy: 628, 920
+  size: 104, 144
+  orig: 164, 254
+  offset: 10, 0
+  index: -1
+dragon_angel_critical_lightt
+  rotate: false
+  xy: 275, 393
+  size: 84, 341
+  orig: 84, 341
+  offset: 0, 0
+  index: -1
+dragon_angel_child_neck
+  rotate: false
+  xy: 985, 279
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+dragon_angel_baby_head
+  rotate: true
+  xy: 665, 296
+  size: 73, 53
+  orig: 73, 53
+  offset: 0, 0
+  index: -1
+dragon_angel_adult_body
+  rotate: true
+  xy: 665, 210
+  size: 84, 51
+  orig: 84, 51
+  offset: 0, 0
+  index: -1
+dragon_angel_effect_e_cc02
+  rotate: false
+  xy: 941, 855
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+dragon_angel_adult_leg3
+  rotate: true
+  xy: 604, 795
+  size: 27, 24
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+dragon_angel_e_tail_tip
+  rotate: true
+  xy: 349, 736
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+dragon_angel_baby_tail
+  rotate: false
+  xy: 985, 334
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+dragon_angel_effect_e_eff02
+  rotate: false
+  xy: 602, 396
+  size: 116, 219
+  orig: 116, 219
+  offset: 0, 0
+  index: -1
+dragon_angel_adult_mouth
+  rotate: false
+  xy: 873, 1010
+  size: 11, 12
+  orig: 45, 86
+  offset: 5, 38
+  index: -1
+dragon_angel_child_head
+  rotate: true
+  xy: 877, 806
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+dragon_angel_e_body_p
+  rotate: true
+  xy: 873, 964
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+dragon_angel_e_arm_eff
+  rotate: false
+  xy: 985, 380
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_angel_adult_arm3
+  rotate: false
+  xy: 883, 1076
+  size: 32, 45
+  orig: 34, 47
+  offset: 2, 2
+  index: -1
+dragon_angel_effect_e_star3
+  rotate: false
+  xy: 329, 929
+  size: 149, 159
+  orig: 257, 321
+  offset: 88, 76
+  index: -1
+dragon_angel_effect_e_smo2
+  rotate: false
+  xy: 720, 279
+  size: 263, 172
+  orig: 275, 186
+  offset: 2, 6
+  index: -1
+dragon_angel_adult_neck
+  rotate: true
+  xy: 877, 923
+  size: 39, 64
+  orig: 39, 64
+  offset: 0, 0
+  index: -1
+dragon_angel_child_heart
+  rotate: true
+  xy: 845, 1024
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_angel_critical_circle
+  rotate: false
+  xy: 480, 929
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+dragon_angel_child_leg4
+  rotate: true
+  xy: 982, 1054
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+dragon_angel_child_mouth
+  rotate: true
+  xy: 251, 921
+  size: 21, 16
+  orig: 63, 62
+  offset: 33, 3
+  index: -1
+dragon_angel_child_eye
+  rotate: true
+  xy: 251, 686
+  size: 21, 22
+  orig: 63, 62
+  offset: 24, 12
+  index: -1
+dragon_angel_adult_tail
+  rotate: true
+  xy: 934, 453
+  size: 106, 86
+  orig: 106, 86
+  offset: 0, 0
+  index: -1
+dragon_angel_adult_wing1
+  rotate: false
+  xy: 602, 617
+  size: 86, 31
+  orig: 86, 31
+  offset: 0, 0
+  index: -1
+dragon_angel_adult_ringlight
+  rotate: true
+  xy: 996, 889
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+dragon_angel_adult_leg4
+  rotate: true
+  xy: 630, 650
+  size: 15, 41
+  orig: 15, 41
+  offset: 0, 0
+  index: -1
+dragon_angel_e_eff2
+  rotate: false
+  xy: 982, 1014
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+dragon_angel_effect_e_b1
+  rotate: false
+  xy: 329, 1090
+  size: 148, 32
+  orig: 320, 220
+  offset: 91, 43
+  index: -1
+dragon_angel_adult_wing2
+  rotate: false
+  xy: 734, 963
+  size: 137, 59
+  orig: 137, 59
+  offset: 0, 0
+  index: -1
+dragon_angel_adult_ring
+  rotate: true
+  xy: 1003, 57
+  size: 25, 17
+  orig: 29, 23
+  offset: 2, 3
+  index: -1
+dragon_angel_effect_e_cc01
+  rotate: false
+  xy: 747, 833
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+dragon_angel_child_wing1
+  rotate: true
+  xy: 640, 1066
+  size: 56, 72
+  orig: 56, 72
+  offset: 0, 0
+  index: -1
+dragon_angel_effect_e_star2
+  rotate: false
+  xy: 2, 686
+  size: 247, 257
+  orig: 257, 321
+  offset: 0, 0
+  index: -1
+dragon_angel_effect_e_b4
+  rotate: false
+  xy: 396, 2
+  size: 320, 206
+  orig: 320, 220
+  offset: 0, 2
+  index: -1
+dragon_angel_baby_mouth
+  rotate: false
+  xy: 269, 1109
+  size: 25, 13
+  orig: 73, 53
+  offset: 9, 0
+  index: -1
+dragon_angel_e_eff
+  rotate: true
+  xy: 941, 788
+  size: 65, 56
+  orig: 65, 56
+  offset: 0, 0
+  index: -1
+dragon_angel_adult_heart
+  rotate: true
+  xy: 845, 1024
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_angel_child_wing2
+  rotate: true
+  xy: 1003, 2
+  size: 53, 17
+  orig: 53, 17
+  offset: 0, 0
+  index: -1
+dragon_angel_adult_hair2
+  rotate: false
+  xy: 917, 1014
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+dragon_angel_baby_wing
+  rotate: false
+  xy: 972, 1088
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+dragon_angel_baby_leg1
+  rotate: false
+  xy: 939, 1071
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+dragon_angel_effect_e_smo1
+  rotate: false
+  xy: 361, 651
+  size: 267, 142
+  orig: 275, 186
+  offset: 8, 7
+  index: -1
+dragon_angel_effect_e_wing_eff1
+  rotate: true
+  xy: 251, 736
+  size: 160, 96
+  orig: 164, 254
+  offset: 4, 41
+  index: -1
+dragon_angel_e_wing3_p
+  rotate: true
+  xy: 941, 636
+  size: 86, 70
+  orig: 86, 70
+  offset: 0, 0
+  index: -1
+dragon_angel_adult_ton
+  rotate: false
+  xy: 734, 920
+  size: 11, 14
+  orig: 45, 86
+  offset: 2, 33
+  index: -1
+dragon_angel_child_leg1
+  rotate: false
+  xy: 999, 819
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+dragon_angel_effect_e_eff01
+  rotate: true
+  xy: 630, 667
+  size: 116, 219
+  orig: 116, 219
+  offset: 0, 0
+  index: -1
+dragon_angel_adult_wing3
+  rotate: true
+  xy: 851, 667
+  size: 137, 88
+  orig: 137, 88
+  offset: 0, 0
+  index: -1
+dragon_angel_effect_e_cross_cc
+  rotate: true
+  xy: 269, 898
+  size: 209, 58
+  orig: 211, 60
+  offset: 0, 1
+  index: -1
+dragon_angel_e_neck_p
+  rotate: true
+  xy: 329, 898
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+dragon_angel_adult_att
+  rotate: true
+  xy: 714, 1073
+  size: 45, 78
+  orig: 45, 86
+  offset: 0, 8
+  index: -1
+dragon_angel_adult_eye
+  rotate: false
+  xy: 838, 785
+  size: 11, 14
+  orig: 45, 86
+  offset: 7, 44
+  index: -1
+dragon_angel_baby_leg2
+  rotate: false
+  xy: 251, 898
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+dragon_angel_adult_leg1
+  rotate: false
+  xy: 951, 1014
+  size: 29, 55
+  orig: 29, 55
+  offset: 0, 0
+  index: -1
+dragon_angel_e_leg1_p
+  rotate: false
+  xy: 917, 1068
+  size: 20, 53
+  orig: 20, 53
+  offset: 0, 0
+  index: -1
+dragon_angel_effect_e_b3
+  rotate: false
+  xy: 718, 205
+  size: 276, 72
+  orig: 320, 220
+  offset: 27, 20
+  index: -1
+dragon_angel_child_leg2
+  rotate: true
+  xy: 838, 806
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+dragon_angel_child_tail
+  rotate: true
+  xy: 935, 974
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+dragon_angel_critical_circleline
+  rotate: false
+  xy: 720, 453
+  size: 212, 212
+  orig: 768, 576
+  offset: 34, 164
+  index: -1
+dragon_angel_e_arm3_p
+  rotate: false
+  xy: 848, 1072
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+dragon_angel_adult_arm1
+  rotate: true
+  xy: 690, 617
+  size: 31, 25
+  orig: 31, 27
+  offset: 0, 2
+  index: -1
+dragon_angel_effect_e_star5
+  rotate: false
+  xy: 734, 1024
+  size: 109, 47
+  orig: 257, 321
+  offset: 120, 274
+  index: -1
+dragon_angel_baby_love
+  rotate: false
+  xy: 996, 856
+  size: 23, 31
+  orig: 73, 53
+  offset: 24, 3
+  index: -1
+dragon_angel_critical_sunshine
+  rotate: false
+  xy: 2, 2
+  size: 392, 389
+  orig: 392, 389
+  offset: 0, 0
+  index: -1

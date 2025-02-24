@@ -1,0 +1,74 @@
+ani_elf_wood_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+w_elf_elewood_rock
+  rotate: true
+  xy: 108, 2
+  size: 113, 102
+  orig: 287, 258
+  offset: 130, 51
+  index: -1
+w_elf_elewood_waterdust
+  rotate: true
+  xy: 401, 81
+  size: 44, 45
+  orig: 62, 59
+  offset: 9, 7
+  index: -1
+w_elf_elewood_eye
+  rotate: false
+  xy: 297, 98
+  size: 51, 26
+  orig: 287, 258
+  offset: 109, 109
+  index: -1
+w_elf_elewood_hair
+  rotate: true
+  xy: 401, 2
+  size: 25, 60
+  orig: 287, 258
+  offset: 123, 136
+  index: -1
+w_elf_elewood_mouth
+  rotate: false
+  xy: 350, 98
+  size: 49, 26
+  orig: 287, 258
+  offset: 110, 94
+  index: -1
+w_elf_elewood_face
+  rotate: false
+  xy: 212, 2
+  size: 83, 100
+  orig: 287, 258
+  offset: 95, 75
+  index: -1
+w_elf_elewood_treebook
+  rotate: true
+  xy: 2, 2
+  size: 123, 104
+  orig: 287, 258
+  offset: 80, 13
+  index: -1
+w_elf_elewood_hand
+  rotate: false
+  xy: 435, 29
+  size: 43, 48
+  orig: 287, 258
+  offset: 60, 85
+  index: -1
+w_elf_elewood_water
+  rotate: false
+  xy: 297, 2
+  size: 93, 94
+  orig: 145, 134
+  offset: 26, 21
+  index: -1
+w_elf_elewood_dust
+  rotate: false
+  xy: 392, 29
+  size: 41, 50
+  orig: 287, 258
+  offset: 132, 58
+  index: -1

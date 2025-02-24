@@ -1,0 +1,557 @@
+dragon_4097_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_libera_adult_foot1
+  rotate: false
+  xy: 487, 934
+  size: 16, 36
+  orig: 16, 36
+  offset: 0, 0
+  index: -1
+dragon_libera_baby_body
+  rotate: false
+  xy: 459, 1119
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+dragon_libera_adult_wind2
+  rotate: false
+  xy: 182, 1789
+  size: 198, 143
+  orig: 254, 161
+  offset: 0, 15
+  index: -1
+dragon_libera_baby_leg2
+  rotate: false
+  xy: 465, 1862
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+dragon_libera_cri_cc3
+  rotate: false
+  xy: 370, 1705
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+dragon_libera_cri_f1
+  rotate: false
+  xy: 307, 560
+  size: 182, 52
+  orig: 214, 68
+  offset: 8, 0
+  index: -1
+dragon_libera_adult_body2
+  rotate: true
+  xy: 459, 1464
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+dragon_libera_adult_leg1
+  rotate: false
+  xy: 459, 1327
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+dragon_libera_cri_a3
+  rotate: true
+  xy: 2, 1000
+  size: 346, 217
+  orig: 374, 219
+  offset: 20, 0
+  index: -1
+dragon_libera_adult_hair2
+  rotate: false
+  xy: 468, 1284
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+dragon_libera_adult_eye
+  rotate: false
+  xy: 370, 1772
+  size: 10, 9
+  orig: 58, 31
+  offset: 39, 10
+  index: -1
+dragon_libera_child_foot1
+  rotate: false
+  xy: 486, 1038
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+dragon_libera_adult_leg2
+  rotate: false
+  xy: 2, 2012
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+dragon_libera_child_body
+  rotate: false
+  xy: 438, 1772
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+dragon_libera_child_tail
+  rotate: true
+  xy: 419, 1086
+  size: 69, 36
+  orig: 69, 36
+  offset: 0, 0
+  index: -1
+dragon_libera_baby_eye
+  rotate: true
+  xy: 461, 1971
+  size: 23, 22
+  orig: 49, 50
+  offset: 8, 9
+  index: -1
+dragon_libera_cri_a2
+  rotate: true
+  xy: 2, 1348
+  size: 352, 165
+  orig: 374, 219
+  offset: 15, 37
+  index: -1
+dragon_libera_adult_hand
+  rotate: false
+  xy: 440, 1889
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+dragon_libera_child_hair4
+  rotate: false
+  xy: 488, 1675
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+dragon_libera_baby_arm1
+  rotate: false
+  xy: 488, 1601
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+dragon_libera_child_head
+  rotate: true
+  xy: 419, 1217
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+dragon_libera_child_arm1
+  rotate: true
+  xy: 463, 1996
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+dragon_libera_heart
+  rotate: true
+  xy: 459, 1372
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_libera_adult_attack
+  rotate: true
+  xy: 493, 1862
+  size: 14, 13
+  orig: 58, 31
+  offset: 36, 8
+  index: -1
+dragon_libera_adult_foot2
+  rotate: false
+  xy: 431, 2008
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+dragon_libera_cri_e3
+  rotate: false
+  xy: 221, 624
+  size: 285, 238
+  orig: 363, 324
+  offset: 46, 25
+  index: -1
+dragon_libera_child_mouth
+  rotate: true
+  xy: 488, 1638
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+dragon_libera_cri_p2
+  rotate: false
+  xy: 208, 1934
+  size: 108, 93
+  orig: 108, 107
+  offset: 0, 0
+  index: -1
+dragon_libera_adult_wind3
+  rotate: true
+  xy: 322, 1319
+  size: 212, 135
+  orig: 254, 161
+  offset: 15, 0
+  index: -1
+dragon_libera_baby_leg1
+  rotate: false
+  xy: 221, 1319
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+dragon_libera_cri_s3
+  rotate: true
+  xy: 2, 1702
+  size: 240, 178
+  orig: 248, 238
+  offset: 8, 21
+  index: -1
+dragon_libera_baby_love
+  rotate: false
+  xy: 471, 1252
+  size: 35, 30
+  orig: 49, 50
+  offset: 0, 2
+  index: -1
+dragon_libera_adult_hair3
+  rotate: false
+  xy: 492, 1464
+  size: 14, 40
+  orig: 14, 40
+  offset: 0, 0
+  index: -1
+dragon_libera_baby_mouth
+  rotate: true
+  xy: 169, 1609
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+dragon_libera_child_neck
+  rotate: true
+  xy: 452, 1174
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+dragon_libera_baby_hair1
+  rotate: true
+  xy: 462, 1908
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+dragon_libera_cri_a1
+  rotate: true
+  xy: 365, 2
+  size: 326, 141
+  orig: 374, 219
+  offset: 15, 25
+  index: -1
+dragon_libera_child_foot2
+  rotate: false
+  xy: 255, 1319
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+dragon_libera_child_hair1
+  rotate: false
+  xy: 459, 1420
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+dragon_libera_adult_love
+  rotate: true
+  xy: 169, 1628
+  size: 14, 11
+  orig: 58, 31
+  offset: 38, 9
+  index: -1
+dragon_libera_child_arm2
+  rotate: false
+  xy: 288, 1319
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+dragon_libera_child_leg1
+  rotate: true
+  xy: 438, 1830
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+dragon_libera_adult_mouth
+  rotate: false
+  xy: 459, 1512
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+dragon_libera_cri_e2
+  rotate: false
+  xy: 2, 328
+  size: 303, 294
+  orig: 363, 324
+  offset: 26, 7
+  index: -1
+dragon_libera_cri_p1
+  rotate: true
+  xy: 370, 1533
+  size: 170, 116
+  orig: 170, 116
+  offset: 0, 0
+  index: -1
+dragon_libera_cri_s2
+  rotate: false
+  xy: 221, 864
+  size: 222, 220
+  orig: 248, 238
+  offset: 2, 17
+  index: -1
+dragon_libera_adult_tail
+  rotate: false
+  xy: 318, 1934
+  size: 111, 89
+  orig: 111, 89
+  offset: 0, 0
+  index: -1
+dragon_libera_adult_arm1
+  rotate: false
+  xy: 471, 1217
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+dragon_libera_child_leg2
+  rotate: true
+  xy: 169, 1586
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+dragon_libera_adult_hair4
+  rotate: true
+  xy: 445, 997
+  size: 68, 39
+  orig: 68, 39
+  offset: 0, 0
+  index: -1
+dragon_libera_cri_b2
+  rotate: true
+  xy: 221, 1086
+  size: 231, 196
+  orig: 233, 196
+  offset: 2, 0
+  index: -1
+dragon_libera_adult_head
+  rotate: true
+  xy: 419, 1157
+  size: 58, 31
+  orig: 58, 31
+  offset: 0, 0
+  index: -1
+dragon_libera_cri_e1
+  rotate: false
+  xy: 2, 2
+  size: 361, 324
+  orig: 363, 324
+  offset: 2, 0
+  index: -1
+dragon_libera_cri_s1
+  rotate: true
+  xy: 307, 330
+  size: 228, 196
+  orig: 248, 238
+  offset: 0, 0
+  index: -1
+dragon_libera_cri_a4
+  rotate: true
+  xy: 2, 624
+  size: 374, 217
+  orig: 374, 219
+  offset: 0, 2
+  index: -1
+dragon_libera_child_hair2
+  rotate: true
+  xy: 419, 1281
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+dragon_libera_adult_arm2
+  rotate: true
+  xy: 488, 1560
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+dragon_libera_child_wing
+  rotate: true
+  xy: 487, 864
+  size: 68, 19
+  orig: 68, 19
+  offset: 0, 0
+  index: -1
+dragon_libera_cri_cc1
+  rotate: false
+  xy: 382, 1838
+  size: 50, 63
+  orig: 64, 65
+  offset: 0, 2
+  index: -1
+dragon_libera_child_arm3
+  rotate: false
+  xy: 440, 1908
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+dragon_libera_child_love
+  rotate: true
+  xy: 474, 1830
+  size: 30, 24
+  orig: 62, 50
+  offset: 5, 5
+  index: -1
+dragon_libera_baby_hair3
+  rotate: false
+  xy: 486, 997
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+dragon_libera_adult_wind1
+  rotate: true
+  xy: 169, 1348
+  size: 236, 151
+  orig: 254, 161
+  offset: 18, 10
+  index: -1
+dragon_libera_cri_cc2
+  rotate: false
+  xy: 436, 1705
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+dragon_libera_adult_body1
+  rotate: false
+  xy: 382, 1772
+  size: 54, 64
+  orig: 54, 64
+  offset: 0, 0
+  index: -1
+dragon_libera_adult_hair1
+  rotate: false
+  xy: 382, 1903
+  size: 56, 29
+  orig: 56, 29
+  offset: 0, 0
+  index: -1
+dragon_libera_cri_b1
+  rotate: true
+  xy: 182, 1586
+  size: 201, 186
+  orig: 233, 196
+  offset: 20, 3
+  index: -1
+dragon_libera_child_eye
+  rotate: false
+  xy: 487, 972
+  size: 18, 18
+  orig: 62, 50
+  offset: 14, 10
+  index: -1
+dragon_libera_cri_f2
+  rotate: false
+  xy: 2, 1944
+  size: 204, 66
+  orig: 214, 68
+  offset: 0, 1
+  index: -1
+dragon_libera_adult_hit
+  rotate: true
+  xy: 169, 1644
+  size: 12, 11
+  orig: 58, 31
+  offset: 37, 9
+  index: -1
+dragon_libera_baby_tail
+  rotate: true
+  xy: 431, 1971
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+dragon_libera_child_arm4
+  rotate: true
+  xy: 462, 1939
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+dragon_libera_adult_wing
+  rotate: true
+  xy: 445, 864
+  size: 131, 40
+  orig: 131, 40
+  offset: 0, 0
+  index: -1
+dragon_libera_child_leg3
+  rotate: false
+  xy: 434, 1861
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+dragon_libera_baby_head
+  rotate: false
+  xy: 457, 1067
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+dragon_libera_baby_hair2
+  rotate: false
+  xy: 431, 1934
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+dragon_libera_adult_neck
+  rotate: false
+  xy: 322, 1533
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+dragon_libera_child_hair3
+  rotate: false
+  xy: 488, 1512
+  size: 18, 46
+  orig: 18, 46
+  offset: 0, 0
+  index: -1
+dragon_libera_baby_arm2
+  rotate: true
+  xy: 35, 2012
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1

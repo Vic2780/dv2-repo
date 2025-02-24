@@ -1,0 +1,193 @@
+28_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_ccastle_body1
+  rotate: false
+  xy: 2, 1099
+  size: 185, 153
+  orig: 187, 161
+  offset: 0, 3
+  index: -1
+m_ccastle_groggyribbon
+  rotate: true
+  xy: 189, 1162
+  size: 45, 57
+  orig: 47, 63
+  offset: 2, 0
+  index: -1
+m_ccastle_arm1
+  rotate: false
+  xy: 215, 597
+  size: 30, 52
+  orig: 46, 72
+  offset: 10, 15
+  index: -1
+m_ccastle_groggyarm2
+  rotate: true
+  xy: 195, 940
+  size: 58, 56
+  orig: 68, 76
+  offset: 6, 9
+  index: -1
+m_ccastle_ribbon
+  rotate: true
+  xy: 189, 1000
+  size: 45, 59
+  orig: 47, 63
+  offset: 2, 0
+  index: -1
+m_ccastle_groggyhair
+  rotate: false
+  xy: 2, 607
+  size: 193, 165
+  orig: 197, 171
+  offset: 0, 6
+  index: -1
+m_ccastle_body2
+  rotate: false
+  xy: 2, 170
+  size: 239, 134
+  orig: 245, 142
+  offset: 6, 0
+  index: -1
+m_ccastle_groggyhead
+  rotate: false
+  xy: 2, 2
+  size: 249, 166
+  orig: 257, 186
+  offset: 5, 5
+  index: -1
+m_ccastle_metal
+  rotate: false
+  xy: 117, 1254
+  size: 70, 115
+  orig: 78, 131
+  offset: 0, 1
+  index: -1
+m_ccastle_groggyarm1
+  rotate: false
+  xy: 215, 533
+  size: 33, 62
+  orig: 47, 72
+  offset: 5, 4
+  index: -1
+m_ccastle_groggyleg
+  rotate: true
+  xy: 189, 1209
+  size: 49, 53
+  orig: 63, 83
+  offset: 8, 14
+  index: -1
+m_ccastle_groggybody1
+  rotate: false
+  xy: 2, 944
+  size: 185, 153
+  orig: 187, 161
+  offset: 0, 3
+  index: -1
+m_ccastle_dollbody
+  rotate: true
+  xy: 2, 1260
+  size: 117, 113
+  orig: 135, 121
+  offset: 8, 8
+  index: -1
+m_ccastle_eye
+  rotate: true
+  xy: 189, 1304
+  size: 90, 42
+  orig: 104, 62
+  offset: 8, 11
+  index: -1
+m_ccastle_dollarm
+  rotate: false
+  xy: 189, 1260
+  size: 52, 42
+  orig: 62, 46
+  offset: 8, 2
+  index: -1
+m_ccastle_groggyeye
+  rotate: true
+  xy: 215, 442
+  size: 89, 34
+  orig: 127, 64
+  offset: 21, 15
+  index: -1
+m_ccastle_groggydollbody
+  rotate: false
+  xy: 195, 813
+  size: 56, 65
+  orig: 88, 81
+  offset: 21, 10
+  index: -1
+m_ccastle_head
+  rotate: false
+  xy: 2, 442
+  size: 211, 163
+  orig: 251, 177
+  offset: 31, 12
+  index: -1
+m_ccastle_arm3
+  rotate: true
+  xy: 189, 1104
+  size: 56, 57
+  orig: 68, 69
+  offset: 5, 6
+  index: -1
+m_ccastle_mause
+  rotate: false
+  xy: 147, 1371
+  size: 27, 23
+  orig: 35, 37
+  offset: 4, 6
+  index: -1
+m_ccastle_groggybody2
+  rotate: false
+  xy: 2, 306
+  size: 235, 134
+  orig: 245, 142
+  offset: 5, 0
+  index: -1
+m_ccastle_groggymause
+  rotate: false
+  xy: 117, 1371
+  size: 28, 25
+  orig: 38, 47
+  offset: 4, 12
+  index: -1
+m_ccastle_hair
+  rotate: false
+  xy: 2, 774
+  size: 191, 168
+  orig: 221, 204
+  offset: 18, 19
+  index: -1
+m_ccastle_leg1
+  rotate: false
+  xy: 197, 737
+  size: 53, 74
+  orig: 77, 84
+  offset: 11, 6
+  index: -1
+m_ccastle_arm2
+  rotate: false
+  xy: 189, 1047
+  size: 58, 55
+  orig: 78, 77
+  offset: 5, 15
+  index: -1
+m_ccastle_groggyarm3
+  rotate: false
+  xy: 195, 880
+  size: 56, 58
+  orig: 68, 66
+  offset: 4, 6
+  index: -1
+m_ccastle_groggymetal
+  rotate: false
+  xy: 197, 651
+  size: 54, 84
+  orig: 78, 104
+  offset: 9, 9
+  index: -1

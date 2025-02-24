@@ -1,0 +1,375 @@
+55_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_dwaterfall_eye3
+  rotate: false
+  xy: 458, 933
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+m_dwaterfall_mushroom5
+  rotate: false
+  xy: 316, 841
+  size: 61, 96
+  orig: 61, 96
+  offset: 0, 0
+  index: -1
+m_dwaterfall_groggymushroom4
+  rotate: true
+  xy: 316, 727
+  size: 112, 62
+  orig: 112, 62
+  offset: 0, 0
+  index: -1
+m_dwaterfall_hat12
+  rotate: false
+  xy: 2, 2
+  size: 366, 224
+  orig: 366, 224
+  offset: 0, 0
+  index: -1
+m_dwaterfall_groggymushroom1
+  rotate: false
+  xy: 346, 1049
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+m_dwaterfall_hat21
+  rotate: false
+  xy: 379, 860
+  size: 77, 56
+  orig: 77, 56
+  offset: 0, 0
+  index: -1
+m_dwaterfall_body1
+  rotate: true
+  xy: 180, 850
+  size: 137, 98
+  orig: 137, 98
+  offset: 0, 0
+  index: -1
+m_dwaterfall_groggyarm2
+  rotate: false
+  xy: 452, 1018
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+m_dwaterfall_groggymushroom6
+  rotate: true
+  xy: 379, 918
+  size: 41, 77
+  orig: 41, 77
+  offset: 0, 0
+  index: -1
+m_dwaterfall_moss1
+  rotate: true
+  xy: 2, 977
+  size: 101, 122
+  orig: 101, 122
+  offset: 0, 0
+  index: -1
+m_dwaterfall_groggymause1
+  rotate: true
+  xy: 261, 739
+  size: 106, 53
+  orig: 106, 55
+  offset: 0, 0
+  index: -1
+m_dwaterfall_groggymushroom3
+  rotate: false
+  xy: 341, 991
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+m_dwaterfall_groggyeye3
+  rotate: true
+  xy: 458, 860
+  size: 71, 36
+  orig: 71, 38
+  offset: 0, 2
+  index: -1
+m_dwaterfall_mushroom6
+  rotate: false
+  xy: 172, 989
+  size: 103, 99
+  orig: 103, 99
+  offset: 0, 0
+  index: -1
+m_dwaterfall_eye1
+  rotate: false
+  xy: 380, 816
+  size: 101, 42
+  orig: 101, 42
+  offset: 0, 0
+  index: -1
+m_dwaterfall_groggyhat22
+  rotate: true
+  xy: 405, 989
+  size: 66, 45
+  orig: 66, 45
+  offset: 0, 0
+  index: -1
+m_dwaterfall_mushroom3
+  rotate: false
+  xy: 277, 991
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+m_dwaterfall_groggybody3
+  rotate: true
+  xy: 280, 847
+  size: 110, 34
+  orig: 110, 34
+  offset: 0, 0
+  index: -1
+m_dwaterfall_body4
+  rotate: false
+  xy: 432, 563
+  size: 74, 56
+  orig: 74, 56
+  offset: 0, 0
+  index: -1
+m_dwaterfall_moss4
+  rotate: false
+  xy: 38, 712
+  size: 59, 128
+  orig: 59, 128
+  offset: 0, 0
+  index: -1
+m_dwaterfall_groggyhat21
+  rotate: false
+  xy: 474, 720
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+m_dwaterfall_mushroom41
+  rotate: true
+  xy: 2, 959
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+m_dwaterfall_groggyarm1
+  rotate: false
+  xy: 370, 175
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+m_dwaterfall_groggymushroom5
+  rotate: true
+  xy: 277, 1049
+  size: 33, 67
+  orig: 33, 67
+  offset: 0, 0
+  index: -1
+m_dwaterfall_hat11
+  rotate: false
+  xy: 367, 574
+  size: 63, 127
+  orig: 63, 127
+  offset: 0, 0
+  index: -1
+m_dwaterfall_body5
+  rotate: false
+  xy: 380, 720
+  size: 92, 94
+  orig: 92, 94
+  offset: 0, 0
+  index: -1
+m_dwaterfall_eye2
+  rotate: true
+  xy: 496, 838
+  size: 42, 10
+  orig: 42, 10
+  offset: 0, 0
+  index: -1
+m_dwaterfall_arm1
+  rotate: false
+  xy: 99, 594
+  size: 173, 143
+  orig: 173, 143
+  offset: 0, 0
+  index: -1
+m_dwaterfall_hat3
+  rotate: true
+  xy: 274, 594
+  size: 131, 91
+  orig: 131, 91
+  offset: 0, 0
+  index: -1
+m_dwaterfall_mushroom4
+  rotate: false
+  xy: 38, 850
+  size: 140, 125
+  orig: 140, 125
+  offset: 0, 0
+  index: -1
+m_dwaterfall_mause2
+  rotate: false
+  xy: 367, 703
+  size: 43, 15
+  orig: 43, 15
+  offset: 0, 0
+  index: -1
+m_dwaterfall_mushroom1
+  rotate: true
+  xy: 474, 778
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+m_dwaterfall_groggybody5
+  rotate: true
+  xy: 316, 939
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+m_dwaterfall_mause1
+  rotate: true
+  xy: 126, 977
+  size: 106, 44
+  orig: 106, 44
+  offset: 0, 0
+  index: -1
+m_dwaterfall_groggymoss1
+  rotate: true
+  xy: 426, 490
+  size: 71, 80
+  orig: 71, 80
+  offset: 0, 0
+  index: -1
+m_dwaterfall_hat22
+  rotate: true
+  xy: 426, 350
+  size: 138, 80
+  orig: 138, 80
+  offset: 0, 0
+  index: -1
+m_dwaterfall_body2
+  rotate: false
+  xy: 99, 739
+  size: 160, 109
+  orig: 160, 109
+  offset: 0, 0
+  index: -1
+m_dwaterfall_groggyhat12
+  rotate: false
+  xy: 99, 228
+  size: 242, 180
+  orig: 242, 180
+  offset: 0, 0
+  index: -1
+m_dwaterfall_moss2
+  rotate: false
+  xy: 320, 412
+  size: 104, 160
+  orig: 104, 160
+  offset: 0, 0
+  index: -1
+m_dwaterfall_groggymause2
+  rotate: false
+  xy: 452, 963
+  size: 53, 53
+  orig: 55, 57
+  offset: 1, 1
+  index: -1
+m_dwaterfall_groggyeye2
+  rotate: false
+  xy: 320, 574
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+m_dwaterfall_groggymushroom2
+  rotate: false
+  xy: 24, 959
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+m_dwaterfall_mause3
+  rotate: false
+  xy: 374, 961
+  size: 70, 26
+  orig: 70, 26
+  offset: 0, 0
+  index: -1
+m_dwaterfall_groggyhat4
+  rotate: true
+  xy: 432, 621
+  size: 97, 71
+  orig: 97, 71
+  offset: 0, 0
+  index: -1
+m_dwaterfall_arm2
+  rotate: false
+  xy: 99, 410
+  size: 219, 182
+  orig: 221, 182
+  offset: 0, 0
+  index: -1
+m_dwaterfall_body3
+  rotate: true
+  xy: 343, 228
+  size: 182, 77
+  orig: 182, 77
+  offset: 0, 0
+  index: -1
+m_dwaterfall_groggymushroom41
+  rotate: false
+  xy: 488, 2
+  size: 9, 35
+  orig: 9, 35
+  offset: 0, 0
+  index: -1
+m_dwaterfall_hat4
+  rotate: true
+  xy: 426, 175
+  size: 173, 80
+  orig: 173, 80
+  offset: 0, 0
+  index: -1
+m_dwaterfall_groggyhat11
+  rotate: false
+  xy: 280, 959
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+m_dwaterfall_moss3
+  rotate: true
+  xy: 2, 228
+  size: 482, 95
+  orig: 482, 95
+  offset: 0, 0
+  index: -1
+m_dwaterfall_mushroom2
+  rotate: false
+  xy: 483, 813
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+m_dwaterfall_groggybody2
+  rotate: true
+  xy: 370, 2
+  size: 171, 116
+  orig: 171, 116
+  offset: 0, 0
+  index: -1
+m_dwaterfall_groggymoss3
+  rotate: true
+  xy: 2, 712
+  size: 245, 34
+  orig: 245, 34
+  offset: 0, 0
+  index: -1

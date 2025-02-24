@@ -1,0 +1,473 @@
+dragon_122_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_flower_adult_b_flower3
+  rotate: true
+  xy: 462, 481
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+dragon_flower_critical1
+  rotate: false
+  xy: 359, 304
+  size: 59, 83
+  orig: 59, 83
+  offset: 0, 0
+  index: -1
+dragon_flower_child_eye3
+  rotate: true
+  xy: 359, 470
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+dragon_flower_baby_body
+  rotate: false
+  xy: 459, 350
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1
+dragon_flower_child_body
+  rotate: false
+  xy: 546, 251
+  size: 62, 48
+  orig: 62, 48
+  offset: 0, 0
+  index: -1
+dragon_flower_child_tail
+  rotate: false
+  xy: 384, 460
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+dragon_flower_baby_note2
+  rotate: true
+  xy: 316, 475
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_r_leg2b
+  rotate: false
+  xy: 558, 494
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_body
+  rotate: false
+  xy: 546, 141
+  size: 92, 48
+  orig: 92, 48
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_l_leg1c
+  rotate: true
+  xy: 610, 251
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_neck
+  rotate: false
+  xy: 384, 389
+  size: 33, 69
+  orig: 33, 69
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_chin
+  rotate: true
+  xy: 625, 215
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_eye4
+  rotate: true
+  xy: 612, 495
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_l_leg2d
+  rotate: true
+  xy: 520, 486
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+dragon_flower_child_head
+  rotate: true
+  xy: 260, 397
+  size: 76, 83
+  orig: 76, 83
+  offset: 0, 0
+  index: -1
+dragon_flower_baby_eye2
+  rotate: true
+  xy: 442, 460
+  size: 45, 18
+  orig: 45, 18
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_eye
+  rotate: false
+  xy: 439, 384
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+dragon_flower_child_leg2
+  rotate: true
+  xy: 569, 363
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+dragon_flower_child_heart
+  rotate: false
+  xy: 419, 393
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_flower_critical4
+  rotate: false
+  xy: 2, 267
+  size: 256, 211
+  orig: 256, 211
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_l_leg2a
+  rotate: true
+  xy: 582, 303
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+dragon_flower_child_leg1
+  rotate: false
+  xy: 462, 440
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_r_leg1b
+  rotate: false
+  xy: 621, 363
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_n_flower
+  rotate: true
+  xy: 345, 397
+  size: 71, 37
+  orig: 71, 37
+  offset: 0, 0
+  index: -1
+dragon_flower_baby_leg2
+  rotate: false
+  xy: 502, 486
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_l_wing
+  rotate: true
+  xy: 538, 2
+  size: 137, 96
+  orig: 137, 96
+  offset: 0, 0
+  index: -1
+dragon_flower_baby_leg1
+  rotate: true
+  xy: 610, 284
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_eye5
+  rotate: true
+  xy: 514, 420
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+dragon_flower_baby_eye3
+  rotate: false
+  xy: 467, 393
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+dragon_flower_child_leg3
+  rotate: true
+  xy: 582, 337
+  size: 24, 53
+  orig: 24, 53
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_tailb
+  rotate: true
+  xy: 523, 301
+  size: 48, 57
+  orig: 48, 57
+  offset: 0, 0
+  index: -1
+dragon_flower_critical5
+  rotate: false
+  xy: 273, 2
+  size: 263, 176
+  orig: 263, 176
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_heart
+  rotate: false
+  xy: 419, 393
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_l_leg1a
+  rotate: true
+  xy: 572, 415
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+dragon_flower_child_neck
+  rotate: false
+  xy: 461, 301
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+dragon_flower_baby_chin
+  rotate: true
+  xy: 237, 480
+  size: 30, 16
+  orig: 30, 20
+  offset: 0, 4
+  index: -1
+dragon_flower_baby_leg3
+  rotate: true
+  xy: 581, 479
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+dragon_flower_baby_wing
+  rotate: false
+  xy: 530, 415
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_head
+  rotate: true
+  xy: 420, 304
+  size: 78, 37
+  orig: 78, 37
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_l_leg2b
+  rotate: false
+  xy: 359, 494
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_eye2
+  rotate: false
+  xy: 420, 384
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+dragon_flower_child_leg4
+  rotate: false
+  xy: 618, 396
+  size: 20, 48
+  orig: 20, 48
+  offset: 0, 0
+  index: -1
+dragon_flower_child_wing1
+  rotate: false
+  xy: 515, 390
+  size: 51, 23
+  orig: 51, 23
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_b_flower2
+  rotate: true
+  xy: 125, 480
+  size: 26, 56
+  orig: 32, 56
+  offset: 6, 0
+  index: -1
+dragon_flower_baby_tail
+  rotate: true
+  xy: 260, 267
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+dragon_flower_critical2
+  rotate: false
+  xy: 461, 180
+  size: 83, 119
+  orig: 83, 119
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_r_leg2c
+  rotate: false
+  xy: 558, 450
+  size: 21, 42
+  orig: 21, 42
+  offset: 0, 0
+  index: -1
+dragon_flower_baby_leg4
+  rotate: false
+  xy: 530, 450
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+dragon_flower_child_eye
+  rotate: false
+  xy: 612, 470
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_eye3
+  rotate: false
+  xy: 579, 498
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_r_leg2a
+  rotate: true
+  xy: 183, 480
+  size: 26, 52
+  orig: 26, 52
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_l_leg1b
+  rotate: false
+  xy: 581, 444
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+dragon_flower_critical3
+  rotate: true
+  xy: 273, 180
+  size: 122, 186
+  orig: 122, 186
+  offset: 0, 0
+  index: -1
+dragon_flower_baby_eye
+  rotate: false
+  xy: 467, 420
+  size: 45, 18
+  orig: 45, 18
+  offset: 0, 0
+  index: -1
+dragon_flower_child_chin
+  rotate: true
+  xy: 612, 446
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_r_leg1c
+  rotate: true
+  xy: 502, 440
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_r_leg2d
+  rotate: true
+  xy: 625, 191
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_tailc
+  rotate: true
+  xy: 2, 480
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_r_leg1a
+  rotate: true
+  xy: 419, 434
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_r_wing
+  rotate: false
+  xy: 260, 304
+  size: 97, 91
+  orig: 97, 91
+  offset: 0, 0
+  index: -1
+dragon_flower_child_eye2
+  rotate: false
+  xy: 536, 486
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_b_flower1
+  rotate: true
+  xy: 515, 351
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+dragon_flower_baby_head
+  rotate: false
+  xy: 546, 191
+  size: 77, 58
+  orig: 77, 64
+  offset: 0, 6
+  index: -1
+dragon_flower_adult_taila
+  rotate: false
+  xy: 66, 480
+  size: 57, 29
+  orig: 57, 29
+  offset: 0, 0
+  index: -1
+dragon_flower_critical6
+  rotate: false
+  xy: 2, 2
+  size: 269, 263
+  orig: 269, 263
+  offset: 0, 0
+  index: -1
+dragon_flower_adult_l_leg2c
+  rotate: true
+  xy: 568, 391
+  size: 22, 48
+  orig: 22, 48
+  offset: 0, 0
+  index: -1
+dragon_flower_child_wing2
+  rotate: false
+  xy: 260, 475
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1

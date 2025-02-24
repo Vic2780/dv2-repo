@@ -1,0 +1,221 @@
+103_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_crystal_golem_hand1f4
+  rotate: false
+  xy: 563, 221
+  size: 134, 75
+  orig: 134, 77
+  offset: 0, 2
+  index: -1
+m_crystal_golem_groggy_hand11
+  rotate: false
+  xy: 1747, 135
+  size: 41, 63
+  orig: 43, 65
+  offset: 0, 2
+  index: -1
+m_crystal_golem_hand2f4
+  rotate: false
+  xy: 1790, 150
+  size: 73, 64
+  orig: 75, 64
+  offset: 2, 0
+  index: -1
+m_crystal_golem_bodyf3
+  rotate: false
+  xy: 563, 2
+  size: 239, 217
+  orig: 239, 217
+  offset: 0, 0
+  index: -1
+m_crystal_golem_groggy_hand2
+  rotate: false
+  xy: 1030, 155
+  size: 108, 150
+  orig: 114, 156
+  offset: 3, 3
+  index: -1
+m_crystal_golem_hand1
+  rotate: true
+  xy: 804, 2
+  size: 175, 224
+  orig: 175, 224
+  offset: 0, 0
+  index: -1
+m_crystal_golem_groggy_hand22
+  rotate: true
+  xy: 1628, 223
+  size: 60, 69
+  orig: 62, 71
+  offset: 0, 1
+  index: -1
+m_crystal_golem_hand1f3
+  rotate: true
+  xy: 1140, 155
+  size: 149, 91
+  orig: 149, 95
+  offset: 0, 3
+  index: -1
+m_crystal_golem_hand2f3
+  rotate: false
+  xy: 1659, 135
+  size: 86, 86
+  orig: 88, 92
+  offset: 2, 1
+  index: -1
+m_crystal_golem_bodyf4
+  rotate: false
+  xy: 1276, 2
+  size: 191, 173
+  orig: 191, 173
+  offset: 0, 0
+  index: -1
+m_crystal_golem_foot1
+  rotate: false
+  xy: 1699, 223
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+m_crystal_golem_hand2
+  rotate: true
+  xy: 1030, 2
+  size: 151, 244
+  orig: 151, 244
+  offset: 0, 0
+  index: -1
+m_crystal_golem_body
+  rotate: true
+  xy: 2, 2
+  size: 303, 375
+  orig: 303, 375
+  offset: 0, 0
+  index: -1
+m_crystal_golem_groggy_foot1
+  rotate: true
+  xy: 1628, 190
+  size: 22, 29
+  orig: 26, 35
+  offset: 3, 3
+  index: -1
+m_crystal_golem_hand11
+  rotate: false
+  xy: 1233, 177
+  size: 101, 125
+  orig: 103, 125
+  offset: 0, 0
+  index: -1
+m_crystal_golem_hand1f2
+  rotate: true
+  xy: 1791, 2
+  size: 146, 98
+  orig: 146, 104
+  offset: 0, 3
+  index: -1
+m_crystal_golem_bodyf1
+  rotate: false
+  xy: 1417, 252
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+m_crystal_golem_hand2f2
+  rotate: false
+  xy: 1469, 190
+  size: 79, 71
+  orig: 79, 77
+  offset: 0, 3
+  index: -1
+m_crystal_golem_bodyf5
+  rotate: true
+  xy: 928, 179
+  size: 115, 99
+  orig: 117, 103
+  offset: 2, 4
+  index: -1
+m_crystal_golem_foot2
+  rotate: false
+  xy: 1550, 190
+  size: 76, 74
+  orig: 76, 74
+  offset: 0, 0
+  index: -1
+m_crystal_golem_hand222
+  rotate: false
+  xy: 1336, 177
+  size: 79, 98
+  orig: 79, 98
+  offset: 0, 0
+  index: -1
+m_crystal_golem_hand22
+  rotate: false
+  xy: 1659, 2
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+m_crystal_golem_groggy_foot2
+  rotate: false
+  xy: 1467, 263
+  size: 35, 40
+  orig: 35, 46
+  offset: 0, 4
+  index: -1
+m_crystal_golem_groggy_hand222
+  rotate: false
+  xy: 1815, 216
+  size: 43, 43
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+m_crystal_golem_hand1f1
+  rotate: false
+  xy: 699, 221
+  size: 89, 71
+  orig: 89, 71
+  offset: 0, 0
+  index: -1
+m_crystal_golem_hand1f5
+  rotate: false
+  xy: 1504, 263
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+m_crystal_golem_hand2f1
+  rotate: false
+  xy: 1760, 216
+  size: 53, 62
+  orig: 53, 62
+  offset: 0, 0
+  index: -1
+m_crystal_golem_groggy_body
+  rotate: false
+  xy: 379, 2
+  size: 182, 295
+  orig: 190, 299
+  offset: 4, 1
+  index: -1
+m_crystal_golem_hand2f5
+  rotate: false
+  xy: 1417, 177
+  size: 50, 73
+  orig: 50, 73
+  offset: 0, 0
+  index: -1
+m_crystal_golem_bodyf2
+  rotate: true
+  xy: 1469, 2
+  size: 186, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+m_crystal_golem_groggy_hand1
+  rotate: false
+  xy: 804, 179
+  size: 122, 126
+  orig: 128, 130
+  offset: 3, 3
+  index: -1

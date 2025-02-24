@@ -1,0 +1,46 @@
+ani_elf_tree_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+w_elf_tree_water02
+  rotate: false
+  xy: 405, 453
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+w_elf_tree_waterfall
+  rotate: false
+  xy: 405, 581
+  size: 22, 83
+  orig: 22, 83
+  offset: 0, 0
+  index: -1
+w_elf_treebook
+  rotate: false
+  xy: 2, 453
+  size: 401, 244
+  orig: 401, 244
+  offset: 0, 0
+  index: -1
+w_elf_treebase
+  rotate: false
+  xy: 2, 2
+  size: 458, 449
+  orig: 458, 449
+  offset: 0, 0
+  index: -1
+w_elf_tree_water01
+  rotate: true
+  xy: 405, 499
+  size: 59, 47
+  orig: 59, 47
+  offset: 0, 0
+  index: -1
+w_elf_treeleaf
+  rotate: false
+  xy: 405, 560
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1

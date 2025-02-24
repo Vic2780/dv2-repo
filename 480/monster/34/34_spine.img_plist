@@ -1,0 +1,165 @@
+34_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_darkmurderer_groggy_collar2
+  rotate: false
+  xy: 862, 199
+  size: 33, 35
+  orig: 89, 59
+  offset: 3, 8
+  index: -1
+m_darkmurderer_cape
+  rotate: false
+  xy: 1144, 2
+  size: 155, 153
+  orig: 161, 157
+  offset: 3, 0
+  index: -1
+m_darkmurderer_eye
+  rotate: true
+  xy: 524, 183
+  size: 40, 80
+  orig: 98, 118
+  offset: 27, 18
+  index: -1
+m_darkmurderer_collar2
+  rotate: true
+  xy: 1301, 76
+  size: 79, 55
+  orig: 89, 59
+  offset: 7, 1
+  index: -1
+m_darkmurderer_twinkle
+  rotate: false
+  xy: 606, 199
+  size: 51, 54
+  orig: 65, 68
+  offset: 6, 7
+  index: -1
+m_darkmurderer_groggy_horn
+  rotate: false
+  xy: 772, 199
+  size: 44, 41
+  orig: 68, 69
+  offset: 6, 0
+  index: -1
+m_darkmurderer_groggy_collar1
+  rotate: false
+  xy: 818, 199
+  size: 42, 38
+  orig: 80, 80
+  offset: 33, 41
+  index: -1
+m_darkmurderer_shadow
+  rotate: false
+  xy: 2, 158
+  size: 355, 88
+  orig: 373, 96
+  offset: 18, 8
+  index: -1
+m_darkmurderer_skirt
+  rotate: false
+  xy: 2, 2
+  size: 380, 154
+  orig: 384, 158
+  offset: 1, 1
+  index: -1
+m_darkmurderer_groggy_horn2
+  rotate: true
+  xy: 718, 199
+  size: 42, 52
+  orig: 56, 68
+  offset: 11, 1
+  index: -1
+m_darkmurderer_groggy_hand
+  rotate: false
+  xy: 1026, 130
+  size: 106, 101
+  orig: 118, 111
+  offset: 5, 1
+  index: -1
+m_darkmurderer_horn
+  rotate: true
+  xy: 659, 199
+  size: 50, 57
+  orig: 68, 69
+  offset: 9, 1
+  index: -1
+m_darkmurderer_groggy_arm
+  rotate: true
+  xy: 439, 230
+  size: 22, 34
+  orig: 100, 94
+  offset: 77, 39
+  index: -1
+m_darkmurderer_chest
+  rotate: false
+  xy: 384, 2
+  size: 251, 179
+  orig: 269, 181
+  offset: 15, 2
+  index: -1
+m_darkmurderer_arm
+  rotate: true
+  xy: 1254, 157
+  size: 96, 88
+  orig: 100, 94
+  offset: 3, 3
+  index: -1
+m_darkmurderer_groggy_skirt
+  rotate: false
+  xy: 637, 2
+  size: 288, 86
+  orig: 384, 158
+  offset: 78, 45
+  index: -1
+m_darkmurderer_backcollar
+  rotate: false
+  xy: 927, 2
+  size: 215, 126
+  orig: 215, 128
+  offset: 0, 0
+  index: -1
+m_darkmurderer_hand
+  rotate: true
+  xy: 904, 130
+  size: 105, 120
+  orig: 115, 124
+  offset: 6, 4
+  index: -1
+m_darkmurderer_groggy_head
+  rotate: true
+  xy: 1301, 2
+  size: 72, 68
+  orig: 98, 118
+  offset: 11, 40
+  index: -1
+m_darkmurderer_groggy_cape
+  rotate: false
+  xy: 439, 183
+  size: 83, 45
+  orig: 161, 157
+  offset: 54, 84
+  index: -1
+m_darkmurderer_collar1
+  rotate: false
+  xy: 359, 183
+  size: 78, 66
+  orig: 80, 80
+  offset: 2, 3
+  index: -1
+m_darkmurderer_head
+  rotate: true
+  xy: 1134, 157
+  size: 96, 118
+  orig: 98, 118
+  offset: 2, 0
+  index: -1
+m_darkmurderer_groggy_chest
+  rotate: false
+  xy: 637, 90
+  size: 265, 107
+  orig: 269, 181
+  offset: 1, 63
+  index: -1

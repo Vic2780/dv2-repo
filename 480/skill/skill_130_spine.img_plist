@@ -1,0 +1,46 @@
+skill_130_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skill_weakpoint1
+  rotate: false
+  xy: 2, 352
+  size: 144, 140
+  orig: 212, 208
+  offset: 42, 24
+  index: -1
+skill_weakpoint2
+  rotate: true
+  xy: 180, 194
+  size: 94, 70
+  orig: 212, 208
+  offset: 53, 24
+  index: -1
+skill_weakpoint3
+  rotate: false
+  xy: 180, 290
+  size: 62, 86
+  orig: 212, 208
+  offset: 43, 70
+  index: -1
+skill_weakpoint4
+  rotate: false
+  xy: 148, 378
+  size: 100, 116
+  orig: 212, 208
+  offset: 86, 47
+  index: -1
+skill_weakpoint5
+  rotate: false
+  xy: 2, 194
+  size: 176, 156
+  orig: 212, 208
+  offset: 36, 26
+  index: -1
+skill_weakpoint6
+  rotate: false
+  xy: 2, 2
+  size: 196, 190
+  orig: 212, 208
+  offset: 10, 9
+  index: -1

@@ -1,0 +1,39 @@
+skill_12_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skill_unbeatable5
+  rotate: true
+  xy: 1095, 2
+  size: 256, 255
+  orig: 280, 275
+  offset: 13, 10
+  index: -1
+skill_unbeatable3
+  rotate: true
+  xy: 552, 2
+  size: 266, 265
+  orig: 280, 275
+  offset: 5, 6
+  index: -1
+skill_unbeatable1
+  rotate: false
+  xy: 2, 2
+  size: 276, 273
+  orig: 280, 275
+  offset: 0, 2
+  index: -1
+skill_unbeatable4
+  rotate: false
+  xy: 280, 2
+  size: 270, 271
+  orig: 280, 275
+  offset: 4, 3
+  index: -1
+skill_unbeatable2
+  rotate: false
+  xy: 819, 2
+  size: 274, 265
+  orig: 280, 275
+  offset: 2, 6
+  index: -1

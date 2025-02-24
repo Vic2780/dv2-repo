@@ -1,0 +1,60 @@
+skill_24_ad_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skill_ad_mimic7
+  rotate: true
+  xy: 2, 1146
+  size: 171, 132
+  orig: 265, 252
+  offset: 68, 0
+  index: -1
+skill_ad_mimic8
+  rotate: true
+  xy: 136, 1146
+  size: 117, 102
+  orig: 265, 252
+  offset: 74, 0
+  index: -1
+skill_ad_mimic2
+  rotate: false
+  xy: 2, 805
+  size: 189, 182
+  orig: 265, 252
+  offset: 52, 12
+  index: -1
+skill_ad_mimic3
+  rotate: false
+  xy: 2, 627
+  size: 193, 176
+  orig: 265, 252
+  offset: 53, 13
+  index: -1
+skill_ad_mimic4
+  rotate: false
+  xy: 2, 2
+  size: 245, 204
+  orig: 265, 252
+  offset: 9, 29
+  index: -1
+skill_ad_mimic5
+  rotate: true
+  xy: 2, 208
+  size: 227, 242
+  orig: 265, 252
+  offset: 38, 0
+  index: -1
+skill_ad_mimic1
+  rotate: false
+  xy: 2, 437
+  size: 195, 188
+  orig: 265, 252
+  offset: 55, 6
+  index: -1
+skill_ad_mimic6
+  rotate: true
+  xy: 2, 989
+  size: 155, 180
+  orig: 265, 252
+  offset: 59, 5
+  index: -1

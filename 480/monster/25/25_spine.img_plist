@@ -1,0 +1,361 @@
+25_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_zeus_jr_groggycloude
+  rotate: false
+  xy: 1320, 204
+  size: 431, 33
+  orig: 431, 33
+  offset: 0, 0
+  index: -1
+m_zeus_jr_groggylaurel12
+  rotate: true
+  xy: 993, 491
+  size: 46, 68
+  orig: 46, 68
+  offset: 0, 0
+  index: -1
+m_zeus_jr_laurel11
+  rotate: false
+  xy: 1063, 491
+  size: 44, 42
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+m_zeus_jr_groggyhead2
+  rotate: false
+  xy: 1753, 243
+  size: 133, 105
+  orig: 133, 105
+  offset: 0, 0
+  index: -1
+m_zeus_jr_groggymouth
+  rotate: true
+  xy: 917, 491
+  size: 46, 74
+  orig: 46, 74
+  offset: 0, 0
+  index: -1
+m_zeus_jr_arm3
+  rotate: true
+  xy: 1867, 438
+  size: 77, 72
+  orig: 77, 72
+  offset: 0, 0
+  index: -1
+m_zeus_jr_mouth
+  rotate: true
+  xy: 1967, 2
+  size: 68, 79
+  orig: 68, 79
+  offset: 0, 0
+  index: -1
+m_zeus_jr_spear11
+  rotate: true
+  xy: 1299, 356
+  size: 92, 143
+  orig: 92, 143
+  offset: 0, 0
+  index: -1
+m_zeus_jr_cloud
+  rotate: false
+  xy: 2, 2
+  size: 521, 267
+  orig: 521, 287
+  offset: 0, 20
+  index: -1
+m_zeus_jr_neck
+  rotate: false
+  xy: 1119, 305
+  size: 178, 138
+  orig: 178, 138
+  offset: 0, 0
+  index: -1
+m_zeus_jr_stone1
+  rotate: false
+  xy: 2, 271
+  size: 459, 254
+  orig: 459, 254
+  offset: 0, 0
+  index: -1
+m_zeus_jr_head2
+  rotate: false
+  xy: 1720, 2
+  size: 245, 188
+  orig: 245, 188
+  offset: 0, 0
+  index: -1
+m_zeus_jr_leg2
+  rotate: false
+  xy: 1967, 72
+  size: 78, 112
+  orig: 78, 116
+  offset: 0, 0
+  index: -1
+m_zeus_jr_groggyarm3
+  rotate: false
+  xy: 1888, 269
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+m_zeus_jr_laurel2
+  rotate: false
+  xy: 1677, 239
+  size: 74, 109
+  orig: 74, 109
+  offset: 0, 0
+  index: -1
+m_zeus_jr_eyebrow2
+  rotate: true
+  xy: 2002, 429
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+m_zeus_jr_groggylaurel2
+  rotate: true
+  xy: 1659, 460
+  size: 61, 104
+  orig: 61, 104
+  offset: 0, 0
+  index: -1
+m_zeus_jr_groggyhand2
+  rotate: false
+  xy: 917, 279
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+m_zeus_jr_tear
+  rotate: true
+  xy: 1888, 243
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+m_zeus_jr_foot1
+  rotate: false
+  xy: 1454, 450
+  size: 82, 87
+  orig: 82, 87
+  offset: 0, 0
+  index: -1
+m_zeus_jr_groggyhead1
+  rotate: false
+  xy: 1888, 291
+  size: 140, 50
+  orig: 140, 50
+  offset: 0, 0
+  index: -1
+m_zeus_jr_arm4
+  rotate: true
+  xy: 1867, 350
+  size: 86, 66
+  orig: 86, 66
+  offset: 0, 0
+  index: -1
+m_zeus_jr_hand1
+  rotate: true
+  xy: 1941, 466
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+m_zeus_jr_eye
+  rotate: true
+  xy: 2030, 291
+  size: 142, 16
+  orig: 142, 16
+  offset: 0, 0
+  index: -1
+m_zeus_jr_wing1
+  rotate: false
+  xy: 641, 279
+  size: 164, 231
+  orig: 164, 231
+  offset: 0, 0
+  index: -1
+m_zeus_jr_arm1
+  rotate: true
+  xy: 1119, 445
+  size: 94, 103
+  orig: 94, 103
+  offset: 0, 0
+  index: -1
+m_zeus_jr_groggyleg2
+  rotate: false
+  xy: 2002, 398
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+m_zeus_jr_eyebrow1
+  rotate: false
+  xy: 1867, 517
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+m_zeus_jr_groggylaurel11
+  rotate: false
+  xy: 2009, 462
+  size: 34, 42
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+m_zeus_jr_groggywing2
+  rotate: false
+  xy: 1907, 192
+  size: 139, 97
+  orig: 139, 97
+  offset: 0, 0
+  index: -1
+m_zeus_jr_groggyeye
+  rotate: false
+  xy: 1753, 192
+  size: 152, 49
+  orig: 154, 51
+  offset: 0, 1
+  index: -1
+m_zeus_jr_arm2
+  rotate: true
+  xy: 1444, 356
+  size: 92, 103
+  orig: 92, 103
+  offset: 0, 0
+  index: -1
+m_zeus_jr_groggywing1
+  rotate: false
+  xy: 1765, 468
+  size: 100, 65
+  orig: 100, 65
+  offset: 0, 0
+  index: -1
+m_zeus_jr_leg3
+  rotate: true
+  xy: 1549, 344
+  size: 105, 115
+  orig: 105, 115
+  offset: 0, 0
+  index: -1
+m_zeus_jr_stone2
+  rotate: false
+  xy: 943, 2
+  size: 375, 301
+  orig: 375, 301
+  offset: 0, 0
+  index: -1
+m_zeus_jr_head1
+  rotate: false
+  xy: 1320, 239
+  size: 189, 115
+  orig: 189, 117
+  offset: 0, 0
+  index: -1
+m_zeus_jr_foot2
+  rotate: false
+  xy: 1935, 343
+  size: 75, 53
+  orig: 75, 53
+  offset: 0, 0
+  index: -1
+m_zeus_jr_pants1
+  rotate: false
+  xy: 1352, 450
+  size: 100, 88
+  orig: 100, 88
+  offset: 0, 0
+  index: -1
+m_zeus_jr_spear12
+  rotate: true
+  xy: 525, 2
+  size: 275, 416
+  orig: 275, 416
+  offset: 0, 0
+  index: -1
+m_zeus_jr_groggyleg1
+  rotate: false
+  xy: 2009, 506
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+m_zeus_jr_body
+  rotate: false
+  xy: 917, 305
+  size: 200, 184
+  orig: 200, 184
+  offset: 0, 0
+  index: -1
+m_zeus_jr_hand2
+  rotate: false
+  xy: 1941, 398
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+m_zeus_jr_wing2
+  rotate: false
+  xy: 463, 279
+  size: 176, 233
+  orig: 176, 233
+  offset: 0, 0
+  index: -1
+m_zeus_jr_stone3
+  rotate: true
+  xy: 807, 279
+  size: 257, 108
+  orig: 257, 108
+  offset: 0, 0
+  index: -1
+m_zeus_jr_groggyspear2
+  rotate: false
+  xy: 1109, 491
+  size: 8, 29
+  orig: 8, 29
+  offset: 0, 0
+  index: -1
+m_zeus_jr_leg4
+  rotate: true
+  xy: 1666, 350
+  size: 108, 111
+  orig: 108, 111
+  offset: 0, 0
+  index: -1
+m_zeus_jr_groggystone1
+  rotate: false
+  xy: 1320, 2
+  size: 398, 200
+  orig: 398, 200
+  offset: 0, 0
+  index: -1
+m_zeus_jr_leg1
+  rotate: false
+  xy: 1779, 350
+  size: 86, 116
+  orig: 86, 116
+  offset: 0, 0
+  index: -1
+m_zeus_jr_pants2
+  rotate: false
+  xy: 1511, 239
+  size: 164, 103
+  orig: 164, 103
+  offset: 0, 0
+  index: -1
+m_zeus_jr_laurel12
+  rotate: true
+  xy: 1538, 451
+  size: 70, 119
+  orig: 70, 119
+  offset: 0, 0
+  index: -1
+m_zeus_jr_groggyspear11
+  rotate: true
+  xy: 1224, 450
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1

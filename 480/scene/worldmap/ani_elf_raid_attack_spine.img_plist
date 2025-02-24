@@ -1,0 +1,81 @@
+ani_elf_raid_attack_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+w_elf_raid_black2
+  rotate: false
+  xy: 1046, 2
+  size: 75, 51
+  orig: 75, 51
+  offset: 0, 0
+  index: -1
+w_elf_raid_attack_white
+  rotate: false
+  xy: 2, 2
+  size: 222, 438
+  orig: 490, 450
+  offset: 140, 0
+  index: -1
+w_elf_raid_attack_line
+  rotate: false
+  xy: 226, 380
+  size: 438, 29
+  orig: 452, 69
+  offset: 14, 18
+  index: -1
+w_elf_raid_attack_a02
+  rotate: true
+  xy: 947, 122
+  size: 231, 179
+  orig: 253, 239
+  offset: 22, 41
+  index: -1
+w_elf_raid_attack_a01
+  rotate: false
+  xy: 700, 122
+  size: 245, 215
+  orig: 253, 239
+  offset: 6, 0
+  index: -1
+w_elf_raid_attack_a04
+  rotate: false
+  xy: 226, 411
+  size: 149, 99
+  orig: 253, 239
+  offset: 98, 76
+  index: -1
+w_elf_raid_attack_redone
+  rotate: false
+  xy: 226, 2
+  size: 254, 376
+  orig: 490, 450
+  offset: 129, 21
+  index: -1
+w_elf_raid_attack_ring
+  rotate: false
+  xy: 700, 2
+  size: 344, 118
+  orig: 390, 164
+  offset: 19, 20
+  index: -1
+w_elf_raid_attack_yellowone
+  rotate: false
+  xy: 482, 2
+  size: 216, 372
+  orig: 490, 450
+  offset: 142, 32
+  index: -1
+w_ether_max
+  rotate: true
+  xy: 927, 355
+  size: 155, 177
+  orig: 167, 191
+  offset: 4, 7
+  index: -1
+w_elf_raid_attack_a03
+  rotate: false
+  xy: 700, 339
+  size: 225, 169
+  orig: 253, 239
+  offset: 28, 41
+  index: -1

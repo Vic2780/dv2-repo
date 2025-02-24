@@ -1,0 +1,235 @@
+85_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_etree_groggyteeth
+  rotate: true
+  xy: 438, 570
+  size: 99, 24
+  orig: 99, 24
+  offset: 0, 0
+  index: -1
+m_etree_head31
+  rotate: false
+  xy: 435, 1483
+  size: 234, 113
+  orig: 234, 113
+  offset: 0, 0
+  index: -1
+m_etree_smoke2
+  rotate: false
+  xy: 363, 1351
+  size: 357, 130
+  orig: 377, 164
+  offset: 20, 7
+  index: -1
+m_etree_teeth
+  rotate: true
+  xy: 438, 469
+  size: 99, 29
+  orig: 99, 29
+  offset: 0, 0
+  index: -1
+m_etree_groggymause
+  rotate: true
+  xy: 802, 1032
+  size: 87, 45
+  orig: 87, 45
+  offset: 0, 0
+  index: -1
+m_etree_groggybody12
+  rotate: true
+  xy: 722, 1454
+  size: 106, 122
+  orig: 106, 122
+  offset: 0, 0
+  index: -1
+m_etree_groggyeye
+  rotate: true
+  xy: 347, 1562
+  size: 194, 86
+  orig: 194, 86
+  offset: 0, 0
+  index: -1
+m_etree_head22
+  rotate: true
+  xy: 2, 2
+  size: 465, 472
+  orig: 465, 502
+  offset: 0, 30
+  index: -1
+m_etree_groggyhead21
+  rotate: false
+  xy: 2, 469
+  size: 434, 370
+  orig: 434, 378
+  offset: 0, 8
+  index: -1
+m_etree_head32
+  rotate: true
+  xy: 2, 1461
+  size: 298, 343
+  orig: 298, 343
+  offset: 0, 0
+  index: -1
+m_etree_mouth11
+  rotate: true
+  xy: 438, 783
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+m_etree_groggyleg
+  rotate: true
+  xy: 794, 1165
+  size: 287, 58
+  orig: 287, 58
+  offset: 0, 0
+  index: -1
+m_etree_groggyhead
+  rotate: true
+  xy: 802, 866
+  size: 164, 45
+  orig: 164, 45
+  offset: 0, 0
+  index: -1
+m_etree_arm12
+  rotate: false
+  xy: 437, 866
+  size: 363, 297
+  orig: 363, 299
+  offset: 0, 2
+  index: -1
+m_etree_arm22
+  rotate: false
+  xy: 464, 573
+  size: 390, 291
+  orig: 390, 323
+  offset: 0, 0
+  index: -1
+m_etree_body11
+  rotate: true
+  xy: 438, 727
+  size: 54, 23
+  orig: 54, 23
+  offset: 0, 0
+  index: -1
+m_etree_mouth12
+  rotate: true
+  xy: 358, 1862
+  size: 171, 98
+  orig: 171, 98
+  offset: 0, 0
+  index: -1
+m_etree_groggyhead22
+  rotate: true
+  xy: 2, 1151
+  size: 308, 359
+  orig: 308, 359
+  offset: 0, 0
+  index: -1
+m_etree_groggyhead31
+  rotate: false
+  xy: 435, 1598
+  size: 234, 113
+  orig: 234, 113
+  offset: 0, 0
+  index: -1
+m_etree_arm11
+  rotate: true
+  xy: 655, 1719
+  size: 155, 183
+  orig: 155, 183
+  offset: 0, 0
+  index: -1
+m_etree_eyelight
+  rotate: false
+  xy: 678, 1876
+  size: 120, 120
+  orig: 166, 132
+  offset: 35, 11
+  index: -1
+m_etree_groggyarm21
+  rotate: true
+  xy: 435, 1713
+  size: 147, 218
+  orig: 147, 218
+  offset: 0, 0
+  index: -1
+m_etree_arm21
+  rotate: true
+  xy: 458, 1876
+  size: 147, 218
+  orig: 147, 218
+  offset: 0, 0
+  index: -1
+m_etree_leg
+  rotate: false
+  xy: 476, 2
+  size: 383, 133
+  orig: 383, 133
+  offset: 0, 0
+  index: -1
+m_etree_smoke1
+  rotate: false
+  xy: 435, 1165
+  size: 357, 184
+  orig: 393, 184
+  offset: 27, 0
+  index: -1
+m_etree_body12
+  rotate: true
+  xy: 2, 841
+  size: 308, 433
+  orig: 308, 433
+  offset: 0, 0
+  index: -1
+m_etree_head
+  rotate: true
+  xy: 123, 1761
+  size: 240, 233
+  orig: 240, 233
+  offset: 0, 0
+  index: -1
+m_etree_groggyarm11
+  rotate: true
+  xy: 671, 1562
+  size: 155, 183
+  orig: 155, 183
+  offset: 0, 0
+  index: -1
+m_etree_groggyhead32
+  rotate: true
+  xy: 2, 1761
+  size: 241, 119
+  orig: 241, 119
+  offset: 0, 0
+  index: -1
+m_etree_eye
+  rotate: true
+  xy: 363, 1151
+  size: 98, 70
+  orig: 98, 70
+  offset: 0, 0
+  index: -1
+m_etree_groggybody11
+  rotate: true
+  xy: 438, 671
+  size: 54, 23
+  orig: 54, 23
+  offset: 0, 0
+  index: -1
+m_etree_head21
+  rotate: true
+  xy: 476, 137
+  size: 434, 378
+  orig: 434, 378
+  offset: 0, 0
+  index: -1
+m_etree_groggymouth11
+  rotate: false
+  xy: 438, 803
+  size: 18, 16
+  orig: 18, 20
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,452 @@
+dragon_170_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_aurora_baby_body
+  rotate: false
+  xy: 940, 292
+  size: 35, 55
+  orig: 35, 55
+  offset: 0, 0
+  index: -1
+dragon_aurora_baby_arm2
+  rotate: true
+  xy: 700, 356
+  size: 21, 63
+  orig: 21, 63
+  offset: 0, 0
+  index: -1
+dragon_aurora_baby_wing2
+  rotate: false
+  xy: 669, 405
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+dragon_aurora_critical_damaged2
+  rotate: false
+  xy: 466, 2
+  size: 269, 269
+  orig: 269, 269
+  offset: 0, 0
+  index: -1
+dragon_aurora_adult_twinkling2
+  rotate: false
+  xy: 466, 273
+  size: 99, 100
+  orig: 225, 224
+  offset: 63, 64
+  index: -1
+dragon_aurora_critical_damaged1
+  rotate: true
+  xy: 2, 2
+  size: 422, 462
+  orig: 422, 464
+  offset: 0, 2
+  index: -1
+dragon_aurora_child_arm2
+  rotate: false
+  xy: 1508, 227
+  size: 27, 109
+  orig: 27, 109
+  offset: 0, 0
+  index: -1
+dragon_aurora_adult_light1
+  rotate: false
+  xy: 1260, 227
+  size: 194, 184
+  orig: 194, 338
+  offset: 0, 0
+  index: -1
+dragon_aurora_baby_arm1
+  rotate: true
+  xy: 531, 405
+  size: 19, 64
+  orig: 19, 64
+  offset: 0, 0
+  index: -1
+dragon_aurora_child_note2
+  rotate: false
+  xy: 949, 349
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_aurora_baby_wing3
+  rotate: true
+  xy: 1013, 292
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+dragon_aurora_adult_arm3
+  rotate: false
+  xy: 977, 292
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+dragon_aurora_adult_neck
+  rotate: false
+  xy: 918, 356
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+dragon_aurora_adult_head4
+  rotate: true
+  xy: 697, 314
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+dragon_aurora_child_wing4
+  rotate: false
+  xy: 1508, 338
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+dragon_aurora_adult_light2
+  rotate: true
+  xy: 1051, 2
+  size: 194, 260
+  orig: 194, 338
+  offset: 0, 0
+  index: -1
+dragon_aurora_adult_head1
+  rotate: true
+  xy: 1614, 384
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+dragon_aurora_adult_leg3
+  rotate: true
+  xy: 632, 405
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+dragon_aurora_child_body
+  rotate: true
+  xy: 1537, 324
+  size: 41, 80
+  orig: 41, 80
+  offset: 0, 0
+  index: -1
+dragon_aurora_child_wing1
+  rotate: false
+  xy: 882, 390
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+dragon_aurora_baby_head2
+  rotate: true
+  xy: 1648, 258
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+dragon_aurora_adult_wing2
+  rotate: true
+  xy: 1456, 227
+  size: 143, 50
+  orig: 143, 50
+  offset: 0, 0
+  index: -1
+dragon_aurora_child_tail
+  rotate: false
+  xy: 466, 375
+  size: 63, 49
+  orig: 63, 49
+  offset: 0, 0
+  index: -1
+dragon_aurora_adult_feelers
+  rotate: false
+  xy: 1456, 372
+  size: 76, 37
+  orig: 76, 37
+  offset: 0, 0
+  index: -1
+dragon_aurora_adult_twinkling1
+  rotate: true
+  xy: 1034, 198
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+dragon_aurora_adult_head3
+  rotate: true
+  xy: 1534, 384
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+dragon_aurora_child_wing3
+  rotate: false
+  xy: 531, 375
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+dragon_aurora_adult_light3
+  rotate: true
+  xy: 737, 2
+  size: 194, 312
+  orig: 194, 338
+  offset: 0, 26
+  index: -1
+dragon_aurora_child_arm1
+  rotate: true
+  xy: 1537, 295
+  size: 27, 109
+  orig: 27, 109
+  offset: 0, 0
+  index: -1
+dragon_aurora_adult_arm4
+  rotate: true
+  xy: 700, 379
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+dragon_aurora_adult_eye
+  rotate: false
+  xy: 1303, 198
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+dragon_aurora_adult_body
+  rotate: false
+  xy: 737, 292
+  size: 73, 62
+  orig: 73, 62
+  offset: 0, 0
+  index: -1
+dragon_aurora_baby_wing1
+  rotate: true
+  xy: 851, 392
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+dragon_aurora_child_leg2
+  rotate: true
+  xy: 597, 405
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+dragon_aurora_critical_missile2
+  rotate: true
+  xy: 737, 245
+  size: 45, 295
+  orig: 45, 295
+  offset: 0, 0
+  index: -1
+dragon_aurora_child_mouth
+  rotate: true
+  xy: 1654, 384
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+dragon_aurora_adult_arm1
+  rotate: true
+  xy: 765, 356
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+dragon_aurora_adult_mouth
+  rotate: true
+  xy: 1013, 311
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+dragon_aurora_adult_leg4
+  rotate: false
+  xy: 913, 391
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+dragon_aurora_child_head2
+  rotate: false
+  xy: 812, 292
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+dragon_aurora_baby_twinkling
+  rotate: true
+  xy: 1313, 2
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+dragon_aurora_baby_leg2
+  rotate: false
+  xy: 801, 388
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+dragon_aurora_adult_leg1
+  rotate: true
+  xy: 817, 356
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+dragon_aurora_child_note1
+  rotate: false
+  xy: 986, 344
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_aurora_adult_wing4
+  rotate: true
+  xy: 1633, 140
+  size: 116, 74
+  orig: 116, 74
+  offset: 0, 0
+  index: -1
+dragon_aurora_baby_eye
+  rotate: false
+  xy: 1018, 360
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+dragon_aurora_adult_wing1
+  rotate: false
+  xy: 567, 366
+  size: 131, 37
+  orig: 131, 37
+  offset: 0, 0
+  index: -1
+dragon_aurora_baby_leg1
+  rotate: true
+  xy: 1535, 367
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+dragon_aurora_baby_aurora
+  rotate: false
+  xy: 567, 273
+  size: 142, 39
+  orig: 142, 39
+  offset: 0, 0
+  index: -1
+dragon_aurora_baby_head1
+  rotate: true
+  xy: 1648, 321
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+dragon_aurora_child_eye
+  rotate: false
+  xy: 1018, 336
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+dragon_aurora_adult_arm2
+  rotate: true
+  xy: 869, 356
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+dragon_aurora_critical_missile4
+  rotate: false
+  xy: 1539, 2
+  size: 45, 291
+  orig: 45, 295
+  offset: 0, 1
+  index: -1
+dragon_aurora_adult_wing3
+  rotate: true
+  xy: 1633, 2
+  size: 136, 74
+  orig: 136, 74
+  offset: 0, 0
+  index: -1
+dragon_aurora_adult_tail
+  rotate: false
+  xy: 567, 314
+  size: 128, 50
+  orig: 128, 50
+  offset: 0, 0
+  index: -1
+dragon_aurora_baby_mouth
+  rotate: false
+  xy: 817, 387
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+dragon_aurora_child_leg1
+  rotate: true
+  xy: 1260, 198
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+dragon_aurora_critical_missile1
+  rotate: false
+  xy: 1586, 2
+  size: 45, 291
+  orig: 45, 295
+  offset: 0, 1
+  index: -1
+dragon_aurora_adult_leg2
+  rotate: true
+  xy: 1619, 324
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+dragon_aurora_baby_tail
+  rotate: true
+  xy: 711, 273
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+dragon_aurora_child_head1
+  rotate: false
+  xy: 876, 292
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+dragon_aurora_critical_missile3
+  rotate: true
+  xy: 737, 198
+  size: 45, 295
+  orig: 45, 295
+  offset: 0, 0
+  index: -1
+dragon_aurora_adult_head2
+  rotate: true
+  xy: 1574, 384
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+dragon_aurora_child_wing2
+  rotate: false
+  xy: 752, 390
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,417 @@
+dragon_22_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_alien_adult_leg4
+  rotate: true
+  xy: 282, 1631
+  size: 29, 71
+  orig: 29, 71
+  offset: 0, 0
+  index: -1
+dragon_alien_child_wing1
+  rotate: false
+  xy: 175, 1696
+  size: 75, 66
+  orig: 75, 66
+  offset: 0, 0
+  index: -1
+dragon_alien_child_neck
+  rotate: false
+  xy: 302, 1277
+  size: 50, 59
+  orig: 50, 59
+  offset: 0, 0
+  index: -1
+dragon_alien_child_ufo2
+  rotate: false
+  xy: 2, 802
+  size: 240, 74
+  orig: 240, 74
+  offset: 0, 0
+  index: -1
+dragon_alien_critical_b3
+  rotate: false
+  xy: 2, 603
+  size: 351, 197
+  orig: 373, 215
+  offset: 4, 4
+  index: -1
+dragon_alien_child_leg2
+  rotate: false
+  xy: 175, 1588
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+dragon_alien_child_love2
+  rotate: false
+  xy: 175, 1764
+  size: 65, 41
+  orig: 65, 41
+  offset: 0, 0
+  index: -1
+dragon_alien_adult_wing2
+  rotate: false
+  xy: 175, 1612
+  size: 86, 82
+  orig: 86, 82
+  offset: 0, 0
+  index: -1
+dragon_alien_adult_note2
+  rotate: true
+  xy: 252, 1850
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_alien_child_love1
+  rotate: false
+  xy: 242, 1779
+  size: 65, 41
+  orig: 65, 41
+  offset: 0, 0
+  index: -1
+dragon_alien_critical_d1
+  rotate: true
+  xy: 195, 1363
+  size: 163, 97
+  orig: 167, 107
+  offset: 0, 10
+  index: -1
+dragon_alien_adult_wing1
+  rotate: false
+  xy: 242, 1822
+  size: 53, 26
+  orig: 53, 26
+  offset: 0, 0
+  index: -1
+dragon_alien_adult_note1
+  rotate: true
+  xy: 175, 1914
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_alien_baby_mouth2
+  rotate: true
+  xy: 232, 918
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+dragon_alien_adult_arm1
+  rotate: true
+  xy: 283, 1607
+  size: 22, 67
+  orig: 30, 67
+  offset: 8, 0
+  index: -1
+dragon_alien_child_arm1
+  rotate: true
+  xy: 195, 878
+  size: 27, 46
+  orig: 27, 52
+  offset: 0, 6
+  index: -1
+dragon_alien_baby_mouth1
+  rotate: false
+  xy: 232, 943
+  size: 9, 5
+  orig: 23, 9
+  offset: 12, 1
+  index: -1
+dragon_alien_child_tail1
+  rotate: false
+  xy: 195, 1208
+  size: 115, 65
+  orig: 115, 65
+  offset: 0, 0
+  index: -1
+dragon_alien_child_moith
+  rotate: false
+  xy: 302, 1662
+  size: 23, 11
+  orig: 65, 41
+  offset: 9, 0
+  index: -1
+dragon_alien_baby_smile
+  rotate: false
+  xy: 294, 1489
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_alien_adult_leg2
+  rotate: true
+  xy: 297, 1845
+  size: 20, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+dragon_alien_critical_b4
+  rotate: false
+  xy: 2, 404
+  size: 351, 197
+  orig: 373, 215
+  offset: 3, 6
+  index: -1
+dragon_alien_critical_ki
+  rotate: false
+  xy: 2, 1588
+  size: 171, 353
+  orig: 197, 421
+  offset: 4, 66
+  index: -1
+dragon_alien_child_head
+  rotate: false
+  xy: 175, 1807
+  size: 65, 41
+  orig: 65, 41
+  offset: 0, 0
+  index: -1
+dragon_alien_critical_b1
+  rotate: false
+  xy: 2, 203
+  size: 351, 199
+  orig: 373, 215
+  offset: 4, 5
+  index: -1
+dragon_alien_adult_eye
+  rotate: true
+  xy: 281, 1662
+  size: 12, 19
+  orig: 28, 59
+  offset: 7, 8
+  index: -1
+dragon_alien_critical_d2
+  rotate: false
+  xy: 195, 1019
+  size: 153, 99
+  orig: 167, 107
+  offset: 0, 3
+  index: -1
+dragon_alien_baby_eye
+  rotate: false
+  xy: 289, 1915
+  size: 26, 29
+  orig: 50, 59
+  offset: 7, 7
+  index: -1
+dragon_alien_adult_neck
+  rotate: false
+  xy: 312, 1208
+  size: 41, 67
+  orig: 41, 67
+  offset: 0, 0
+  index: -1
+dragon_alien_child_ufo1
+  rotate: false
+  xy: 195, 957
+  size: 158, 60
+  orig: 240, 74
+  offset: 40, 14
+  index: -1
+dragon_alien_critical_b6
+  rotate: true
+  xy: 2, 878
+  size: 353, 191
+  orig: 373, 215
+  offset: 1, 9
+  index: -1
+dragon_alien_baby_tail2
+  rotate: false
+  xy: 215, 1914
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+dragon_alien_adult_arm2
+  rotate: true
+  xy: 252, 1744
+  size: 33, 73
+  orig: 33, 73
+  offset: 0, 0
+  index: -1
+dragon_alien_adult_wing1_l
+  rotate: true
+  xy: 327, 1744
+  size: 53, 26
+  orig: 53, 26
+  offset: 0, 0
+  index: -1
+dragon_alien_child_leg1
+  rotate: true
+  xy: 295, 1867
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+dragon_alien_child_body
+  rotate: false
+  xy: 283, 1551
+  size: 70, 54
+  orig: 70, 54
+  offset: 0, 0
+  index: -1
+dragon_alien_child_leg3
+  rotate: true
+  xy: 252, 1887
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+dragon_alien_baby_hong
+  rotate: false
+  xy: 232, 907
+  size: 10, 9
+  orig: 50, 59
+  offset: 5, 11
+  index: -1
+dragon_alien_baby_leg1
+  rotate: false
+  xy: 263, 1654
+  size: 16, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+dragon_alien_baby_tlight
+  rotate: false
+  xy: 309, 1799
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+dragon_alien_child_eye
+  rotate: false
+  xy: 218, 1891
+  size: 25, 21
+  orig: 65, 41
+  offset: 16, 7
+  index: -1
+dragon_alien_critical_b2
+  rotate: true
+  xy: 2, 1233
+  size: 353, 191
+  orig: 373, 215
+  offset: 2, 7
+  index: -1
+dragon_alien_baby_arm1
+  rotate: true
+  xy: 263, 1639
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+dragon_alien_adult_wing2_l
+  rotate: false
+  xy: 195, 1528
+  size: 86, 82
+  orig: 86, 82
+  offset: 0, 0
+  index: -1
+dragon_alien_adult_tail_l
+  rotate: false
+  xy: 195, 907
+  size: 35, 48
+  orig: 105, 86
+  offset: 70, 4
+  index: -1
+dragon_alien_child_ufo_l
+  rotate: false
+  xy: 195, 1120
+  size: 153, 86
+  orig: 153, 86
+  offset: 0, 0
+  index: -1
+dragon_alien_adult_head
+  rotate: true
+  xy: 294, 1429
+  size: 28, 59
+  orig: 28, 59
+  offset: 0, 0
+  index: -1
+dragon_alien_adult_leg3
+  rotate: true
+  xy: 263, 1612
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+dragon_alien_critical_b5
+  rotate: false
+  xy: 2, 2
+  size: 351, 199
+  orig: 373, 215
+  offset: 2, 3
+  index: -1
+dragon_alien_baby_head
+  rotate: false
+  xy: 302, 1338
+  size: 50, 59
+  orig: 50, 59
+  offset: 0, 0
+  index: -1
+dragon_alien_adult_damaged
+  rotate: true
+  xy: 294, 1459
+  size: 28, 59
+  orig: 28, 59
+  offset: 0, 0
+  index: -1
+dragon_alien_adult_mouth
+  rotate: true
+  xy: 317, 1894
+  size: 22, 25
+  orig: 28, 59
+  offset: 5, 1
+  index: -1
+dragon_alien_adult_tail
+  rotate: false
+  xy: 195, 1275
+  size: 105, 86
+  orig: 105, 86
+  offset: 0, 0
+  index: -1
+dragon_alien_critical_d3
+  rotate: true
+  xy: 244, 802
+  size: 153, 105
+  orig: 167, 107
+  offset: 14, 0
+  index: -1
+dragon_alien_child_arm2
+  rotate: false
+  xy: 218, 1850
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+dragon_alien_baby_body
+  rotate: true
+  xy: 175, 1867
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+dragon_alien_baby_tail1
+  rotate: false
+  xy: 252, 1915
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+dragon_alien_adult_body
+  rotate: false
+  xy: 263, 1682
+  size: 84, 60
+  orig: 84, 60
+  offset: 0, 0
+  index: -1
+dragon_alien_adult_love
+  rotate: true
+  xy: 294, 1399
+  size: 28, 59
+  orig: 28, 59
+  offset: 0, 0
+  index: -1

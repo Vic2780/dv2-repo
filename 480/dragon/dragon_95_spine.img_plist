@@ -1,0 +1,354 @@
+dragon_95_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_jaryong_baby_love
+  rotate: false
+  xy: 258, 320
+  size: 71, 80
+  orig: 71, 80
+  offset: 0, 0
+  index: -1
+dragon_jaryong_child_head
+  rotate: false
+  xy: 844, 2
+  size: 68, 77
+  orig: 68, 77
+  offset: 0, 0
+  index: -1
+dragon_jaryong_baby_body
+  rotate: false
+  xy: 844, 271
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+dragon_jaryong_child_mouth
+  rotate: false
+  xy: 669, 196
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+dragon_jaryong_baby_leg2
+  rotate: true
+  xy: 532, 473
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+dragon_jaryong_adult_cloth
+  rotate: false
+  xy: 743, 180
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+dragon_jaryong_critical04
+  rotate: false
+  xy: 567, 279
+  size: 275, 218
+  orig: 275, 228
+  offset: 0, 0
+  index: -1
+dragon_jaryong_child_arm4
+  rotate: true
+  xy: 792, 2
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+dragon_jaryong_baby_head
+  rotate: false
+  xy: 331, 320
+  size: 71, 80
+  orig: 71, 80
+  offset: 0, 0
+  index: -1
+dragon_jaryong_child_effect1
+  rotate: false
+  xy: 787, 191
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_jaryong_adult_damaged
+  rotate: true
+  xy: 184, 404
+  size: 97, 89
+  orig: 97, 89
+  offset: 0, 0
+  index: -1
+dragon_jaryong_adult_tail4
+  rotate: false
+  xy: 844, 195
+  size: 65, 74
+  orig: 65, 74
+  offset: 0, 0
+  index: -1
+dragon_jaryong_child_tail
+  rotate: false
+  xy: 275, 402
+  size: 86, 98
+  orig: 86, 98
+  offset: 0, 0
+  index: -1
+dragon_jaryong_adult_leg2
+  rotate: true
+  xy: 718, 243
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+dragon_jaryong_child_effect2
+  rotate: true
+  xy: 743, 241
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_jaryong_adult_mouth
+  rotate: true
+  xy: 718, 196
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+dragon_jaryong_baby_eye
+  rotate: false
+  xy: 718, 222
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+dragon_jaryong_adult_leg1
+  rotate: true
+  xy: 791, 129
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+dragon_jaryong_adult_critical
+  rotate: true
+  xy: 258, 2
+  size: 316, 179
+  orig: 316, 179
+  offset: 0, 0
+  index: -1
+dragon_jaryong_adult_body
+  rotate: false
+  xy: 669, 2
+  size: 121, 70
+  orig: 121, 70
+  offset: 0, 0
+  index: -1
+dragon_jaryong_adult_hair2
+  rotate: true
+  xy: 745, 74
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+dragon_jaryong_adult_eye
+  rotate: true
+  xy: 551, 320
+  size: 11, 12
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+dragon_jaryong_adult_head
+  rotate: true
+  xy: 93, 404
+  size: 97, 89
+  orig: 97, 89
+  offset: 0, 0
+  index: -1
+dragon_jaryong_adult_arm2
+  rotate: false
+  xy: 745, 123
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+dragon_jaryong_critical02
+  rotate: true
+  xy: 2, 2
+  size: 400, 254
+  orig: 406, 254
+  offset: 0, 0
+  index: -1
+dragon_jaryong_child_arm2
+  rotate: true
+  xy: 786, 241
+  size: 29, 56
+  orig: 29, 56
+  offset: 0, 0
+  index: -1
+dragon_jaryong_adult_leg3
+  rotate: true
+  xy: 669, 241
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+dragon_jaryong_child_leg2
+  rotate: false
+  xy: 890, 411
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+dragon_jaryong_child_love
+  rotate: false
+  xy: 481, 320
+  size: 68, 77
+  orig: 68, 77
+  offset: 0, 0
+  index: -1
+dragon_jaryong_adult_arm1
+  rotate: true
+  xy: 404, 320
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+dragon_jaryong_adult_tail2
+  rotate: true
+  xy: 439, 279
+  size: 39, 59
+  orig: 39, 59
+  offset: 0, 0
+  index: -1
+dragon_jaryong_baby_tail
+  rotate: false
+  xy: 792, 41
+  size: 47, 86
+  orig: 47, 86
+  offset: 0, 0
+  index: -1
+dragon_jaryong_adult_arm1copy
+  rotate: true
+  xy: 844, 147
+  size: 46, 66
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+dragon_jaryong_adult_arm3
+  rotate: false
+  xy: 844, 329
+  size: 63, 37
+  orig: 63, 37
+  offset: 0, 0
+  index: -1
+dragon_jaryong_critical03
+  rotate: true
+  xy: 439, 2
+  size: 275, 228
+  orig: 275, 228
+  offset: 0, 0
+  index: -1
+dragon_jaryong_child_arm3
+  rotate: false
+  xy: 532, 399
+  size: 32, 72
+  orig: 32, 72
+  offset: 0, 0
+  index: -1
+dragon_jaryong_adult_leg4
+  rotate: true
+  xy: 539, 279
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+dragon_jaryong_adult_neck
+  rotate: true
+  xy: 669, 147
+  size: 47, 72
+  orig: 47, 72
+  offset: 0, 0
+  index: -1
+dragon_jaryong_adult_hair1
+  rotate: true
+  xy: 669, 74
+  size: 71, 74
+  orig: 71, 74
+  offset: 0, 0
+  index: -1
+dragon_jaryong_adult_tail3
+  rotate: false
+  xy: 844, 368
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+dragon_jaryong_adult_love
+  rotate: true
+  xy: 2, 404
+  size: 97, 89
+  orig: 97, 89
+  offset: 0, 0
+  index: -1
+dragon_jaryong_child_body
+  rotate: true
+  xy: 454, 399
+  size: 96, 76
+  orig: 96, 76
+  offset: 0, 0
+  index: -1
+dragon_jaryong_child_eye
+  rotate: true
+  xy: 697, 196
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+dragon_jaryong_adult_tail1
+  rotate: false
+  xy: 844, 81
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+dragon_jaryong_baby_arm
+  rotate: true
+  xy: 890, 457
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+dragon_jaryong_adult_attack
+  rotate: true
+  xy: 363, 402
+  size: 97, 89
+  orig: 97, 89
+  offset: 0, 0
+  index: -1
+dragon_jaryong_baby_leg
+  rotate: true
+  xy: 500, 279
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+dragon_jaryong_critical01
+  rotate: true
+  xy: 258, 2
+  size: 316, 179
+  orig: 316, 179
+  offset: 0, 0
+  index: -1
+dragon_jaryong_child_arm1
+  rotate: false
+  xy: 844, 411
+  size: 44, 89
+  orig: 44, 89
+  offset: 0, 0
+  index: -1
+dragon_jaryong_child_leg1
+  rotate: true
+  xy: 791, 169
+  size: 20, 51
+  orig: 20, 51
+  offset: 0, 0
+  index: -1

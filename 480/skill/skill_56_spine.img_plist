@@ -1,0 +1,18 @@
+skill_56_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skill_skillblock2
+  rotate: false
+  xy: 278, 2
+  size: 285, 164
+  orig: 293, 178
+  offset: 8, 2
+  index: -1
+skill_skillblock1
+  rotate: true
+  xy: 2, 2
+  size: 227, 274
+  orig: 237, 278
+  offset: 4, 0
+  index: -1

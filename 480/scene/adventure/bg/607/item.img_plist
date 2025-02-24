@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>scene/adventure/bg/607/item/bg_item.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{384,188}}</string>
+                <key>offset</key>
+                <string>{0,-36}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,72},{384,188}}</string>
+                <key>sourceSize</key>
+                <string>{384,260}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>item.pvr.ccz</string>
+            <key>size</key>
+            <string>{388,192}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:f271a3c937a81de792df47390caec4c7:c1f97cad3766e64439d730c3b73d6b2c:54f8d40ec1ee1033b45aba984a1f0003$</string>
+            <key>textureFileName</key>
+            <string>item.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

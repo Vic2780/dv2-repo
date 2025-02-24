@@ -1,0 +1,515 @@
+dragon_68_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_xmas_child_heart
+  rotate: false
+  xy: 1067, 324
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_xmas_child_l_wing
+  rotate: true
+  xy: 804, 300
+  size: 47, 103
+  orig: 47, 103
+  offset: 0, 0
+  index: -1
+dragon_xmas_child_neck
+  rotate: false
+  xy: 1340, 114
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+dragon_xmas_baby_hat
+  rotate: false
+  xy: 1272, 285
+  size: 20, 47
+  orig: 20, 47
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_taila
+  rotate: true
+  xy: 1185, 280
+  size: 52, 33
+  orig: 52, 33
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_l_leg1b
+  rotate: false
+  xy: 1245, 230
+  size: 28, 53
+  orig: 28, 53
+  offset: 0, 0
+  index: -1
+dragon_xmas_baby_eye3
+  rotate: false
+  xy: 1334, 255
+  size: 47, 22
+  orig: 47, 22
+  offset: 0, 0
+  index: -1
+dragon_xmas_child_r_leg1
+  rotate: true
+  xy: 1293, 72
+  size: 40, 71
+  orig: 40, 71
+  offset: 0, 0
+  index: -1
+dragon_xmas_child_eye3
+  rotate: false
+  xy: 867, 349
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_r_leg2d
+  rotate: false
+  xy: 804, 349
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_chin
+  rotate: false
+  xy: 1297, 340
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+dragon_xmas_child_chin
+  rotate: true
+  xy: 1368, 305
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_heart
+  rotate: false
+  xy: 1067, 324
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_xmas_baby_l_leg1
+  rotate: false
+  xy: 1383, 255
+  size: 18, 41
+  orig: 18, 41
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_eye5
+  rotate: false
+  xy: 836, 349
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_r_wing
+  rotate: false
+  xy: 1293, 2
+  size: 95, 68
+  orig: 95, 68
+  offset: 0, 0
+  index: -1
+dragon_xmas_child_l_leg1
+  rotate: false
+  xy: 1403, 204
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+dragon_xmas_baby_ribbon
+  rotate: false
+  xy: 1336, 178
+  size: 60, 38
+  orig: 60, 38
+  offset: 0, 0
+  index: -1
+dragon_xmas_critical3
+  rotate: false
+  xy: 942, 2
+  size: 219, 286
+  orig: 383, 392
+  offset: 54, 36
+  index: -1
+dragon_xmas_baby_question
+  rotate: true
+  xy: 1118, 290
+  size: 35, 65
+  orig: 39, 67
+  offset: 2, 2
+  index: -1
+dragon_xmas_adult_body
+  rotate: true
+  xy: 1163, 190
+  size: 88, 54
+  orig: 88, 54
+  offset: 0, 0
+  index: -1
+dragon_xmas_child_r_wing
+  rotate: true
+  xy: 689, 300
+  size: 54, 113
+  orig: 54, 113
+  offset: 0, 0
+  index: -1
+dragon_xmas_child_bell
+  rotate: false
+  xy: 1392, 341
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+dragon_xmas_child_eye2
+  rotate: false
+  xy: 1349, 351
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+dragon_xmas_child_hat
+  rotate: false
+  xy: 1219, 190
+  size: 24, 66
+  orig: 24, 66
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_taild
+  rotate: true
+  xy: 1179, 334
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+dragon_xmas_baby_hat2
+  rotate: false
+  xy: 1370, 342
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_l_leg2a
+  rotate: true
+  xy: 1336, 218
+  size: 35, 65
+  orig: 35, 65
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_eye4
+  rotate: false
+  xy: 891, 349
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_r_leg2c
+  rotate: false
+  xy: 1305, 231
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_eye
+  rotate: false
+  xy: 1371, 279
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_r_leg1c
+  rotate: false
+  xy: 1386, 304
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+dragon_xmas_baby_eye1
+  rotate: true
+  xy: 1247, 285
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_l_leg2d
+  rotate: false
+  xy: 1386, 323
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+dragon_xmas_baby_body
+  rotate: true
+  xy: 1398, 165
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+dragon_xmas_child_r_leg2
+  rotate: true
+  xy: 1278, 114
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: -1
+dragon_xmas_child_body
+  rotate: false
+  xy: 942, 290
+  size: 65, 73
+  orig: 65, 73
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_star2
+  rotate: true
+  xy: 909, 337
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+dragon_xmas_baby_r_leg2
+  rotate: false
+  xy: 1234, 334
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_hat
+  rotate: true
+  xy: 1009, 290
+  size: 32, 107
+  orig: 32, 107
+  offset: 0, 0
+  index: -1
+dragon_xmas_baby_bell
+  rotate: false
+  xy: 1421, 315
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_bell
+  rotate: false
+  xy: 1423, 336
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+dragon_xmas_critical4
+  rotate: false
+  xy: 689, 2
+  size: 251, 296
+  orig: 383, 392
+  offset: 59, 44
+  index: -1
+dragon_xmas_adult_l_leg1a
+  rotate: true
+  xy: 1403, 268
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_neck
+  rotate: false
+  xy: 1236, 93
+  size: 40, 78
+  orig: 40, 78
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_tailc
+  rotate: false
+  xy: 1254, 334
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_r_leg2b
+  rotate: false
+  xy: 1332, 351
+  size: 15, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+dragon_xmas_baby_l_leg2
+  rotate: true
+  xy: 1297, 321
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_r_leg1b
+  rotate: false
+  xy: 1275, 231
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+dragon_xmas_child_l_leg2
+  rotate: true
+  xy: 1390, 2
+  size: 69, 52
+  orig: 69, 52
+  offset: 0, 0
+  index: -1
+dragon_xmas_child_tail
+  rotate: false
+  xy: 1163, 93
+  size: 71, 95
+  orig: 71, 95
+  offset: 0, 0
+  index: -1
+dragon_xmas_baby_tail
+  rotate: false
+  xy: 1115, 327
+  size: 62, 36
+  orig: 62, 36
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_head
+  rotate: true
+  xy: 1392, 73
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_l_wing
+  rotate: false
+  xy: 1163, 2
+  size: 128, 89
+  orig: 128, 89
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_ribb
+  rotate: true
+  xy: 1328, 305
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+dragon_xmas_critical1
+  rotate: true
+  xy: 2, 2
+  size: 361, 386
+  orig: 383, 392
+  offset: 21, 6
+  index: -1
+dragon_xmas_adult_l_leg2c
+  rotate: true
+  xy: 1392, 137
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_tailb
+  rotate: false
+  xy: 1294, 278
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+dragon_xmas_child_head
+  rotate: false
+  xy: 1009, 324
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_eye3
+  rotate: true
+  xy: 852, 349
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_star1
+  rotate: false
+  xy: 1220, 305
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+dragon_xmas_child_eye1
+  rotate: true
+  xy: 1410, 341
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+dragon_xmas_baby_head
+  rotate: false
+  xy: 1277, 175
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+dragon_xmas_baby_r_leg1
+  rotate: false
+  xy: 1366, 72
+  size: 17, 38
+  orig: 17, 38
+  offset: 0, 0
+  index: -1
+dragon_xmas_baby_eye2
+  rotate: true
+  xy: 1220, 258
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+dragon_xmas_child_eye4
+  rotate: false
+  xy: 1421, 304
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_r_leg2a
+  rotate: false
+  xy: 1245, 173
+  size: 30, 55
+  orig: 30, 55
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_r_leg1a
+  rotate: false
+  xy: 909, 300
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_l_leg1c
+  rotate: false
+  xy: 1332, 332
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_l_leg2b
+  rotate: true
+  xy: 1278, 93
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+dragon_xmas_adult_eye2
+  rotate: true
+  xy: 1163, 280
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+dragon_xmas_baby_chin
+  rotate: false
+  xy: 1328, 279
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+dragon_xmas_critical2
+  rotate: false
+  xy: 390, 2
+  size: 297, 354
+  orig: 383, 392
+  offset: 40, 14
+  index: -1

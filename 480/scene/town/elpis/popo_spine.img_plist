@@ -1,0 +1,116 @@
+popo_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+sd_popo_eye2
+  rotate: true
+  xy: 49, 99
+  size: 35, 8
+  orig: 35, 8
+  offset: 0, 0
+  index: -1
+sd_popo_eye3
+  rotate: true
+  xy: 2, 194
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+sd_popo_body1
+  rotate: false
+  xy: 18, 194
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+sd_popo_mouth
+  rotate: true
+  xy: 59, 99
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
+sd_popo_hair
+  rotate: false
+  xy: 2, 133
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+sd_popo_head
+  rotate: false
+  xy: 2, 2
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+sd_popo_arm1
+  rotate: false
+  xy: 50, 58
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+sd_popo_arm2
+  rotate: false
+  xy: 49, 143
+  size: 6, 15
+  orig: 6, 15
+  offset: 0, 0
+  index: -1
+sd_popo_head_hair1
+  rotate: true
+  xy: 42, 165
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+sd_popo_mouth2
+  rotate: false
+  xy: 49, 136
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+sd_popo_leg
+  rotate: false
+  xy: 50, 80
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+sd_popo_body2
+  rotate: false
+  xy: 2, 99
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+sd_popo_heart
+  rotate: false
+  xy: 2, 58
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+sd_popo_eyebrow
+  rotate: true
+  xy: 42, 133
+  size: 30, 5
+  orig: 30, 5
+  offset: 0, 0
+  index: -1
+sd_popo_head_hair2
+  rotate: true
+  xy: 44, 194
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+sd_popo_eye1
+  rotate: false
+  xy: 2, 171
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1

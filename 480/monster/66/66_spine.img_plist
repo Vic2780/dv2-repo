@@ -1,0 +1,158 @@
+66_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_earth_titan_groggy_head2
+  rotate: false
+  xy: 342, 308
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+m_earth_titan_head1
+  rotate: false
+  xy: 414, 283
+  size: 195, 226
+  orig: 195, 226
+  offset: 0, 0
+  index: -1
+m_earth_titan_groggy_arm1
+  rotate: false
+  xy: 342, 2
+  size: 176, 279
+  orig: 176, 279
+  offset: 0, 0
+  index: -1
+m_earth_titan_body
+  rotate: true
+  xy: 733, 2
+  size: 266, 248
+  orig: 266, 248
+  offset: 0, 0
+  index: -1
+m_earth_titan_groggy_leg2
+  rotate: false
+  xy: 1133, 268
+  size: 96, 124
+  orig: 96, 124
+  offset: 0, 0
+  index: -1
+m_earth_titan_arm1
+  rotate: false
+  xy: 520, 2
+  size: 211, 273
+  orig: 211, 273
+  offset: 0, 0
+  index: -1
+m_earth_titan_eye
+  rotate: false
+  xy: 342, 283
+  size: 66, 23
+  orig: 66, 23
+  offset: 0, 0
+  index: -1
+m_earth_titan_groggy_head
+  rotate: true
+  xy: 2, 343
+  size: 165, 212
+  orig: 165, 212
+  offset: 0, 0
+  index: -1
+m_earth_titan_groggy_hand1
+  rotate: true
+  xy: 828, 270
+  size: 209, 128
+  orig: 209, 128
+  offset: 0, 0
+  index: -1
+m_earth_titan_foot2
+  rotate: false
+  xy: 983, 2
+  size: 147, 143
+  orig: 147, 143
+  offset: 0, 0
+  index: -1
+m_earth_titan_leg1
+  rotate: false
+  xy: 1231, 325
+  size: 132, 171
+  orig: 132, 171
+  offset: 0, 0
+  index: -1
+m_earth_titan_leg11
+  rotate: true
+  xy: 1322, 116
+  size: 81, 65
+  orig: 81, 65
+  offset: 0, 0
+  index: -1
+m_earth_titan_foot1
+  rotate: true
+  xy: 1235, 199
+  size: 124, 143
+  orig: 124, 143
+  offset: 0, 0
+  index: -1
+m_earth_titan_hand2
+  rotate: false
+  xy: 958, 270
+  size: 173, 207
+  orig: 173, 207
+  offset: 0, 0
+  index: -1
+m_earth_titan_groggy_body
+  rotate: false
+  xy: 1133, 2
+  size: 187, 178
+  orig: 187, 178
+  offset: 0, 0
+  index: -1
+m_earth_titan_leg22
+  rotate: true
+  xy: 1322, 2
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+m_earth_titan_head2
+  rotate: false
+  xy: 1133, 394
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+m_earth_titan_groggyarm2
+  rotate: false
+  xy: 983, 147
+  size: 69, 121
+  orig: 69, 121
+  offset: 0, 0
+  index: -1
+m_earth_titan_hand1
+  rotate: true
+  xy: 2, 2
+  size: 339, 338
+  orig: 339, 338
+  offset: 0, 0
+  index: -1
+m_earth_titan_arm2
+  rotate: true
+  xy: 611, 277
+  size: 233, 215
+  orig: 233, 215
+  offset: 0, 0
+  index: -1
+m_earth_titan_groggy_hand2
+  rotate: true
+  xy: 1054, 182
+  size: 84, 179
+  orig: 84, 179
+  offset: 0, 0
+  index: -1
+m_earth_titan_leg2
+  rotate: true
+  xy: 216, 343
+  size: 164, 196
+  orig: 164, 196
+  offset: 0, 0
+  index: -1

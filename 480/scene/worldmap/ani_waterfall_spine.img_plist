@@ -1,0 +1,67 @@
+ani_waterfall_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+worldmap_waterfall_under
+  rotate: false
+  xy: 72, 343
+  size: 44, 42
+  orig: 160, 122
+  offset: 53, 17
+  index: -1
+worldmap_waterfall_body
+  rotate: false
+  xy: 190, 293
+  size: 48, 48
+  orig: 160, 122
+  offset: 51, 43
+  index: -1
+worldmap_waterfall_book
+  rotate: false
+  xy: 2, 2
+  size: 260, 289
+  orig: 260, 289
+  offset: 0, 0
+  index: -1
+worldmap_waterfall_burnning
+  rotate: false
+  xy: 2, 293
+  size: 50, 50
+  orig: 160, 122
+  offset: 103, 72
+  index: -1
+worldmap_waterfall_arm
+  rotate: false
+  xy: 46, 345
+  size: 24, 34
+  orig: 160, 122
+  offset: 38, 39
+  index: -1
+worldmap_waterfall_eye
+  rotate: false
+  xy: 118, 343
+  size: 48, 28
+  orig: 160, 122
+  offset: 51, 52
+  index: -1
+worldmap_waterfall_hand
+  rotate: false
+  xy: 240, 293
+  size: 18, 48
+  orig: 160, 122
+  offset: 31, 14
+  index: -1
+worldmap_waterfall_effect
+  rotate: false
+  xy: 54, 293
+  size: 134, 48
+  orig: 160, 122
+  offset: 4, 23
+  index: -1
+worldmap_waterfall_top
+  rotate: true
+  xy: 2, 345
+  size: 36, 42
+  orig: 160, 122
+  offset: 57, 60
+  index: -1

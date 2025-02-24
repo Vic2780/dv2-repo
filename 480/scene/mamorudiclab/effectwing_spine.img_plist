@@ -1,0 +1,53 @@
+effectwing_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+e_wing6
+  rotate: false
+  xy: 133, 1202
+  size: 264, 228
+  orig: 478, 414
+  offset: 44, 29
+  index: -1
+e_wing4
+  rotate: false
+  xy: 2, 906
+  size: 354, 294
+  orig: 478, 414
+  offset: 43, 47
+  index: -1
+e_wing5
+  rotate: true
+  xy: 133, 1432
+  size: 336, 218
+  orig: 478, 414
+  offset: 43, 46
+  index: -1
+e_wing2
+  rotate: false
+  xy: 2, 284
+  size: 394, 298
+  orig: 478, 414
+  offset: 46, 47
+  index: -1
+e_wing3
+  rotate: false
+  xy: 2, 2
+  size: 402, 280
+  orig: 478, 414
+  offset: 44, 47
+  index: -1
+e_wing1
+  rotate: false
+  xy: 2, 584
+  size: 392, 320
+  orig: 478, 414
+  offset: 47, 45
+  index: -1
+txt_evolution
+  rotate: true
+  xy: 2, 1202
+  size: 737, 129
+  orig: 737, 129
+  offset: 0, 0
+  index: -1

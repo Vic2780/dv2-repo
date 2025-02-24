@@ -1,0 +1,256 @@
+176_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_purplepick_eye
+  rotate: false
+  xy: 1676, 958
+  size: 92, 62
+  orig: 230, 260
+  offset: 80, 80
+  index: -1
+m_purplepick_wing2
+  rotate: false
+  xy: 926, 2
+  size: 480, 389
+  orig: 480, 389
+  offset: 0, 0
+  index: -1
+m_purplepick_body
+  rotate: true
+  xy: 1408, 328
+  size: 300, 320
+  orig: 300, 320
+  offset: 0, 0
+  index: -1
+m_purplepick_gro_fin2
+  rotate: true
+  xy: 377, 970
+  size: 28, 72
+  orig: 56, 98
+  offset: 10, 25
+  index: -1
+m_purplepick_gro_head
+  rotate: false
+  xy: 1925, 2
+  size: 114, 152
+  orig: 230, 260
+  offset: 71, 9
+  index: -1
+m_purplepick_effect1
+  rotate: false
+  xy: 467, 457
+  size: 414, 312
+  orig: 418, 314
+  offset: 2, 2
+  index: -1
+m_purplepick_arm1
+  rotate: false
+  xy: 1612, 630
+  size: 133, 209
+  orig: 133, 209
+  offset: 0, 0
+  index: -1
+m_purplepick_neck2
+  rotate: false
+  xy: 938, 823
+  size: 179, 182
+  orig: 179, 182
+  offset: 0, 0
+  index: -1
+m_purplepick_tail2
+  rotate: false
+  xy: 883, 625
+  size: 253, 196
+  orig: 267, 202
+  offset: 0, 0
+  index: -1
+m_purplepick_taileff
+  rotate: false
+  xy: 1898, 614
+  size: 147, 156
+  orig: 267, 202
+  offset: 117, 45
+  index: -1
+m_purplepick_gro_arm1
+  rotate: true
+  xy: 1712, 858
+  size: 98, 112
+  orig: 98, 112
+  offset: 0, 0
+  index: -1
+m_purplepick_fin0
+  rotate: false
+  xy: 377, 686
+  size: 82, 83
+  orig: 82, 83
+  offset: 0, 0
+  index: -1
+m_purplepick_arm2
+  rotate: true
+  xy: 1826, 878
+  size: 138, 187
+  orig: 138, 187
+  offset: 0, 0
+  index: -1
+m_purplepick_fur
+  rotate: true
+  xy: 1376, 630
+  size: 184, 234
+  orig: 192, 234
+  offset: 0, 0
+  index: -1
+m_purplepick_head
+  rotate: true
+  xy: 926, 393
+  size: 230, 260
+  orig: 230, 260
+  offset: 0, 0
+  index: -1
+m_purplepick_tail1
+  rotate: true
+  xy: 1747, 614
+  size: 242, 149
+  orig: 242, 149
+  offset: 0, 0
+  index: -1
+m_purplepick_gro_band
+  rotate: false
+  xy: 2015, 878
+  size: 30, 96
+  orig: 30, 96
+  offset: 0, 0
+  index: -1
+m_purplepick_fin1
+  rotate: true
+  xy: 1578, 958
+  size: 62, 96
+  orig: 62, 96
+  offset: 0, 0
+  index: -1
+m_purplepick_smo
+  rotate: true
+  xy: 377, 577
+  size: 107, 75
+  orig: 107, 77
+  offset: 0, 0
+  index: -1
+m_purplepick_wing_p
+  rotate: true
+  xy: 377, 771
+  size: 197, 391
+  orig: 463, 573
+  offset: 87, 0
+  index: -1
+m_purplepick_effect0002
+  rotate: false
+  xy: 467, 2
+  size: 457, 453
+  orig: 461, 461
+  offset: 1, 6
+  index: -1
+m_purplepick_gro_wing
+  rotate: true
+  xy: 1138, 625
+  size: 200, 236
+  orig: 200, 236
+  offset: 0, 0
+  index: -1
+m_purplepick_neck
+  rotate: false
+  xy: 770, 827
+  size: 166, 193
+  orig: 166, 193
+  offset: 0, 0
+  index: -1
+m_purplepick_leg
+  rotate: false
+  xy: 1578, 841
+  size: 132, 115
+  orig: 132, 115
+  offset: 0, 0
+  index: -1
+m_purplepick_bodyeff
+  rotate: false
+  xy: 1376, 816
+  size: 200, 160
+  orig: 300, 320
+  offset: 83, 4
+  index: -1
+m_purplepick_hand
+  rotate: true
+  xy: 1954, 307
+  size: 133, 91
+  orig: 133, 91
+  offset: 0, 0
+  index: -1
+m_purplepick_wing
+  rotate: false
+  xy: 2, 2
+  size: 463, 573
+  orig: 463, 573
+  offset: 0, 0
+  index: -1
+m_purplepick_fin2
+  rotate: false
+  xy: 1954, 442
+  size: 56, 98
+  orig: 56, 98
+  offset: 0, 0
+  index: -1
+m_purplepick_gro_body
+  rotate: false
+  xy: 1730, 328
+  size: 222, 284
+  orig: 300, 320
+  offset: 78, 32
+  index: -1
+m_purplepick_gro_fur
+  rotate: true
+  xy: 1119, 827
+  size: 178, 224
+  orig: 192, 234
+  offset: 14, 5
+  index: -1
+m_purplepick_gro_hand
+  rotate: true
+  xy: 883, 457
+  size: 77, 35
+  orig: 133, 91
+  offset: 38, 50
+  index: -1
+m_purplepick_headeff
+  rotate: false
+  xy: 1188, 393
+  size: 208, 230
+  orig: 230, 260
+  offset: 14, 24
+  index: -1
+m_purplepick_mouth
+  rotate: false
+  xy: 1925, 156
+  size: 106, 149
+  orig: 106, 149
+  offset: 0, 0
+  index: -1
+m_purplepick_effect2
+  rotate: false
+  xy: 2, 577
+  size: 373, 423
+  orig: 373, 431
+  offset: 0, 8
+  index: -1
+m_purplepick_effect0001
+  rotate: true
+  xy: 1408, 2
+  size: 324, 515
+  orig: 340, 551
+  offset: 7, 17
+  index: -1
+m_purplepick_foot
+  rotate: true
+  xy: 1898, 772
+  size: 104, 140
+  orig: 104, 140
+  offset: 0, 0
+  index: -1

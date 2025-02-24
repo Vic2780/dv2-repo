@@ -1,0 +1,53 @@
+skill_80_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skill_encourage2
+  rotate: false
+  xy: 359, 337
+  size: 61, 18
+  orig: 97, 56
+  offset: 25, 19
+  index: -1
+skill_encourage1
+  rotate: false
+  xy: 272, 2
+  size: 199, 266
+  orig: 443, 420
+  offset: 114, 98
+  index: -1
+skill_encourage4
+  rotate: false
+  xy: 266, 270
+  size: 91, 87
+  orig: 113, 113
+  offset: 12, 9
+  index: -1
+skill_encourage3
+  rotate: true
+  xy: 433, 270
+  size: 73, 33
+  orig: 83, 65
+  offset: 10, 18
+  index: -1
+skill_encourage6
+  rotate: true
+  xy: 2, 2
+  size: 261, 268
+  orig: 443, 420
+  offset: 113, 98
+  index: -1
+skill_encourage5
+  rotate: false
+  xy: 2, 265
+  size: 262, 70
+  orig: 302, 112
+  offset: 21, 20
+  index: -1
+skill_encourage7
+  rotate: true
+  xy: 359, 270
+  size: 65, 72
+  orig: 75, 82
+  offset: 10, 9
+  index: -1

@@ -1,0 +1,200 @@
+132_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_coelacanth_arm4
+  rotate: false
+  xy: 1896, 227
+  size: 120, 77
+  orig: 120, 77
+  offset: 0, 0
+  index: -1
+m_coelacanth_mouth
+  rotate: false
+  xy: 1828, 306
+  size: 48, 55
+  orig: 56, 55
+  offset: 8, 0
+  index: -1
+m_coelacanth_tail1
+  rotate: true
+  xy: 558, 264
+  size: 92, 260
+  orig: 92, 260
+  offset: 0, 0
+  index: -1
+m_coelacanth_body1
+  rotate: true
+  xy: 1248, 2
+  size: 201, 189
+  orig: 201, 189
+  offset: 0, 0
+  index: -1
+m_coelacanth_eye
+  rotate: true
+  xy: 2, 333
+  size: 26, 53
+  orig: 100, 167
+  offset: 26, 26
+  index: -1
+m_coelacanth_groggy_body2
+  rotate: true
+  xy: 688, 2
+  size: 249, 167
+  orig: 389, 217
+  offset: 3, 34
+  index: -1
+m_coelacanth_groggy_arm6
+  rotate: false
+  xy: 1905, 171
+  size: 86, 54
+  orig: 158, 68
+  offset: 52, 0
+  index: -1
+m_coelacanth_arm1
+  rotate: true
+  xy: 140, 2
+  size: 281, 146
+  orig: 281, 146
+  offset: 0, 0
+  index: -1
+m_coelacanth_arm5
+  rotate: true
+  xy: 1201, 221
+  size: 137, 127
+  orig: 137, 127
+  offset: 0, 0
+  index: -1
+m_coelacanth_neckless
+  rotate: true
+  xy: 1724, 195
+  size: 165, 102
+  orig: 165, 108
+  offset: 0, 0
+  index: -1
+m_coelacanth_tail2
+  rotate: true
+  xy: 2, 2
+  size: 329, 136
+  orig: 329, 136
+  offset: 0, 0
+  index: -1
+m_coelacanth_groggy_body3
+  rotate: true
+  xy: 1439, 2
+  size: 193, 87
+  orig: 375, 191
+  offset: 66, 103
+  index: -1
+m_coelacanth_arm6
+  rotate: false
+  xy: 273, 285
+  size: 158, 68
+  orig: 158, 68
+  offset: 0, 0
+  index: -1
+m_coelacanth_body2
+  rotate: false
+  xy: 857, 2
+  size: 389, 217
+  orig: 389, 217
+  offset: 0, 0
+  index: -1
+m_coelacanth_head
+  rotate: false
+  xy: 1905, 2
+  size: 100, 167
+  orig: 100, 167
+  offset: 0, 0
+  index: -1
+m_coelacanth_arm2
+  rotate: false
+  xy: 1020, 221
+  size: 179, 137
+  orig: 179, 137
+  offset: 0, 0
+  index: -1
+m_coelacanth_groggy_head
+  rotate: false
+  xy: 926, 221
+  size: 92, 139
+  orig: 100, 167
+  offset: 5, 6
+  index: -1
+m_coelacanth_groggy_neck
+  rotate: true
+  xy: 1532, 195
+  size: 166, 190
+  orig: 192, 260
+  offset: 0, 48
+  index: -1
+m_coelacanth_groggy_arm3
+  rotate: true
+  xy: 820, 253
+  size: 106, 104
+  orig: 200, 128
+  offset: 59, 1
+  index: -1
+m_coelacanth_groggy_tail1
+  rotate: false
+  xy: 594, 2
+  size: 92, 260
+  orig: 92, 260
+  offset: 0, 0
+  index: -1
+m_coelacanth_body3
+  rotate: false
+  xy: 1528, 2
+  size: 375, 191
+  orig: 375, 191
+  offset: 0, 0
+  index: -1
+m_coelacanth_arm3
+  rotate: false
+  xy: 1330, 205
+  size: 200, 128
+  orig: 200, 128
+  offset: 0, 0
+  index: -1
+m_coelacanth_groggy_arm4
+  rotate: false
+  xy: 1878, 306
+  size: 84, 51
+  orig: 120, 77
+  offset: 15, 6
+  index: -1
+m_coelacanth_groggy_tail2
+  rotate: true
+  xy: 1828, 195
+  size: 63, 66
+  orig: 329, 136
+  offset: 266, 37
+  index: -1
+m_coelacanth_groggy_neckless
+  rotate: false
+  xy: 140, 285
+  size: 131, 70
+  orig: 165, 108
+  offset: 30, 9
+  index: -1
+m_coelacanth_neck
+  rotate: false
+  xy: 400, 2
+  size: 192, 260
+  orig: 192, 260
+  offset: 0, 0
+  index: -1
+m_coelacanth_groggy_body1
+  rotate: false
+  xy: 433, 264
+  size: 123, 97
+  orig: 201, 189
+  offset: 75, 9
+  index: -1
+m_coelacanth_groggy_arm1
+  rotate: true
+  xy: 288, 2
+  size: 261, 110
+  orig: 281, 146
+  offset: 3, 0
+  index: -1

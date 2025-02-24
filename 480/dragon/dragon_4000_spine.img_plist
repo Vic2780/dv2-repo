@@ -1,0 +1,445 @@
+dragon_4000_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_pinkbell_child_arm1
+  rotate: true
+  xy: 220, 227
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_critical_cri3
+  rotate: false
+  xy: 2, 717
+  size: 197, 87
+  orig: 197, 87
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_adult_r_armc
+  rotate: true
+  xy: 219, 502
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_child_body1
+  rotate: true
+  xy: 201, 745
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_child_leg
+  rotate: true
+  xy: 214, 1468
+  size: 24, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_baby_mouth
+  rotate: false
+  xy: 49, 1612
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_child_wing1
+  rotate: false
+  xy: 2, 1491
+  size: 103, 119
+  orig: 103, 119
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_critical_cri9
+  rotate: false
+  xy: 2, 1163
+  size: 171, 159
+  orig: 171, 159
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_baby_eye
+  rotate: false
+  xy: 170, 1468
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_baby_leg1
+  rotate: true
+  xy: 223, 1339
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_adult_tailfin
+  rotate: false
+  xy: 175, 1225
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_adult_wing
+  rotate: true
+  xy: 2, 181
+  size: 162, 216
+  orig: 162, 216
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_adult_l_armb
+  rotate: true
+  xy: 170, 1362
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_child_eye2
+  rotate: false
+  xy: 221, 1549
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_child_mouth
+  rotate: false
+  xy: 224, 1295
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_baby_arm1
+  rotate: false
+  xy: 96, 1612
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_baby_head
+  rotate: true
+  xy: 207, 645
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_adult_l_legd
+  rotate: false
+  xy: 223, 1359
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_adult_eye2
+  rotate: true
+  xy: 203, 1494
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_child_head
+  rotate: false
+  xy: 175, 1278
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_critical_cri4
+  rotate: false
+  xy: 2, 345
+  size: 215, 165
+  orig: 215, 165
+  offset: 0, 0
+  index: -1
+dragon_love_effect_heart
+  rotate: false
+  xy: 175, 1321
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_baby_leg2
+  rotate: true
+  xy: 191, 1362
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_critical_cri1
+  rotate: true
+  xy: 207, 527
+  size: 116, 47
+  orig: 116, 47
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_adult_eye
+  rotate: true
+  xy: 203, 1549
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_baby_eye2
+  rotate: false
+  xy: 203, 1522
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_adult_r_arma
+  rotate: true
+  xy: 2, 1612
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_critical_cri10
+  rotate: false
+  xy: 2, 1324
+  size: 166, 165
+  orig: 166, 165
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_adult_l_armc
+  rotate: true
+  xy: 219, 396
+  size: 30, 35
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_baby_arm2
+  rotate: false
+  xy: 232, 1225
+  size: 22, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_critical_cri7
+  rotate: false
+  xy: 2, 806
+  size: 189, 186
+  orig: 189, 186
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_child_neck
+  rotate: false
+  xy: 220, 301
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_adult_critical
+  rotate: true
+  xy: 207, 695
+  size: 48, 47
+  orig: 50, 49
+  offset: 1, 1
+  index: -1
+dragon_pinkbell_child_arm2
+  rotate: true
+  xy: 220, 269
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_child_eye
+  rotate: true
+  xy: 75, 1612
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_adult_l_legb
+  rotate: true
+  xy: 28, 1612
+  size: 18, 19
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_baby_heart
+  rotate: false
+  xy: 175, 1321
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_baby_wing1
+  rotate: false
+  xy: 193, 893
+  size: 55, 81
+  orig: 55, 81
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_child_antenna
+  rotate: false
+  xy: 201, 801
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_adult_eye4
+  rotate: false
+  xy: 203, 1574
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_critical_cri2
+  rotate: true
+  xy: 183, 1058
+  size: 165, 69
+  orig: 165, 69
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_adult_r_armb
+  rotate: true
+  xy: 229, 1574
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_adult_tail
+  rotate: true
+  xy: 107, 1491
+  size: 97, 94
+  orig: 97, 94
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_adult_l_arma
+  rotate: true
+  xy: 224, 1314
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_critical_cri8
+  rotate: false
+  xy: 2, 512
+  size: 203, 203
+  orig: 203, 203
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_adult_l_legc
+  rotate: true
+  xy: 221, 1494
+  size: 23, 27
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_baby_wing2
+  rotate: false
+  xy: 193, 976
+  size: 55, 80
+  orig: 55, 80
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_adult_eye3
+  rotate: true
+  xy: 232, 1246
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_critical_cri5
+  rotate: false
+  xy: 2, 2
+  size: 251, 177
+  orig: 251, 177
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_adult_antenna
+  rotate: false
+  xy: 220, 181
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_adult_head
+  rotate: false
+  xy: 219, 471
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_child_tail
+  rotate: false
+  xy: 170, 1386
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_child_tailfin
+  rotate: false
+  xy: 174, 1590
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_adult_body
+  rotate: false
+  xy: 193, 826
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_adult_heart
+  rotate: false
+  xy: 175, 1321
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_baby_tail
+  rotate: false
+  xy: 219, 428
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_baby_body
+  rotate: false
+  xy: 219, 357
+  size: 35, 37
+  orig: 37, 45
+  offset: 2, 8
+  index: -1
+dragon_pinkbell_adult_neck
+  rotate: true
+  xy: 220, 332
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_child_body2
+  rotate: true
+  xy: 112, 1590
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_baby_antenna
+  rotate: false
+  xy: 232, 1273
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_adult_mouth
+  rotate: false
+  xy: 221, 1596
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_critical_cri6
+  rotate: true
+  xy: 2, 994
+  size: 167, 179
+  orig: 167, 179
+  offset: 0, 0
+  index: -1
+dragon_pinkbell_adult_l_lega
+  rotate: false
+  xy: 152, 1590
+  size: 20, 40
+  orig: 20, 42
+  offset: 0, 0
+  index: -1

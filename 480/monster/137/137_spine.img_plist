@@ -1,0 +1,326 @@
+137_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_orientalbunny_ear2
+  rotate: false
+  xy: 312, 848
+  size: 67, 103
+  orig: 67, 103
+  offset: 0, 0
+  index: -1
+m_orientalbunny_ribbon2_p
+  rotate: false
+  xy: 484, 272
+  size: 19, 49
+  orig: 19, 91
+  offset: 0, 0
+  index: -1
+m_orientalbunny_string1
+  rotate: true
+  xy: 386, 742
+  size: 82, 62
+  orig: 82, 62
+  offset: 0, 0
+  index: -1
+m_orientalbunny_foot2
+  rotate: false
+  xy: 282, 953
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+m_orientalbunny_gro_mouth
+  rotate: false
+  xy: 158, 979
+  size: 37, 26
+  orig: 47, 44
+  offset: 2, 18
+  index: -1
+m_orientalbunny_gro_leg
+  rotate: true
+  xy: 481, 426
+  size: 47, 25
+  orig: 77, 63
+  offset: 19, 3
+  index: -1
+m_orientalbunny_acc2
+  rotate: false
+  xy: 481, 356
+  size: 25, 68
+  orig: 25, 68
+  offset: 0, 0
+  index: -1
+m_orientalbunny_string
+  rotate: false
+  xy: 354, 178
+  size: 146, 92
+  orig: 146, 92
+  offset: 0, 0
+  index: -1
+m_orientalbunny_acc3
+  rotate: false
+  xy: 2, 244
+  size: 327, 241
+  orig: 359, 241
+  offset: 18, 0
+  index: -1
+m_orientalbunny_face1
+  rotate: true
+  xy: 459, 481
+  size: 59, 47
+  orig: 59, 47
+  offset: 0, 0
+  index: -1
+m_orientalbunny_gro_arm2
+  rotate: true
+  xy: 450, 742
+  size: 37, 56
+  orig: 89, 58
+  offset: 0, 2
+  index: -1
+m_orientalbunny_gro_tear
+  rotate: true
+  xy: 365, 822
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+m_orientalbunny_foot1
+  rotate: false
+  xy: 393, 356
+  size: 83, 47
+  orig: 83, 47
+  offset: 0, 0
+  index: -1
+m_orientalbunny_hand2
+  rotate: true
+  xy: 448, 826
+  size: 44, 36
+  orig: 48, 38
+  offset: 3, 0
+  index: -1
+m_orientalbunny_body
+  rotate: false
+  xy: 2, 839
+  size: 154, 155
+  orig: 154, 155
+  offset: 0, 0
+  index: -1
+m_orientalbunny_mouth
+  rotate: false
+  xy: 459, 542
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+m_orientalbunny_ribbon3
+  rotate: false
+  xy: 365, 625
+  size: 24, 106
+  orig: 26, 110
+  offset: 0, 4
+  index: -1
+m_orientalbunny_hair2
+  rotate: false
+  xy: 343, 953
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+m_orientalbunny_teeth
+  rotate: false
+  xy: 455, 917
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+m_orientalbunny_string2
+  rotate: false
+  xy: 331, 272
+  size: 60, 132
+  orig: 60, 132
+  offset: 0, 0
+  index: -1
+m_orientalbunny_arm1
+  rotate: false
+  xy: 455, 588
+  size: 51, 59
+  orig: 51, 59
+  offset: 0, 0
+  index: -1
+m_orientalbunny_hair3
+  rotate: true
+  xy: 450, 781
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+m_orientalbunny_hand1
+  rotate: true
+  xy: 439, 949
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+m_orientalbunny_gro_body
+  rotate: false
+  xy: 455, 872
+  size: 30, 43
+  orig: 154, 155
+  offset: 84, 33
+  index: -1
+m_orientalbunny_gro_ear2
+  rotate: false
+  xy: 381, 826
+  size: 65, 59
+  orig: 67, 103
+  offset: 2, 12
+  index: -1
+m_orientalbunny_gro_eye
+  rotate: true
+  xy: 365, 485
+  size: 138, 32
+  orig: 174, 164
+  offset: 18, 56
+  index: -1
+m_orientalbunny_hair1
+  rotate: false
+  xy: 381, 887
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+m_orientalbunny_gro_leg2
+  rotate: false
+  xy: 202, 944
+  size: 78, 61
+  orig: 78, 61
+  offset: 0, 0
+  index: -1
+m_orientalbunny_arm2
+  rotate: true
+  xy: 399, 580
+  size: 81, 54
+  orig: 89, 58
+  offset: 8, 0
+  index: -1
+m_orientalbunny_gro_acc3
+  rotate: true
+  xy: 208, 487
+  size: 359, 155
+  orig: 359, 241
+  offset: 0, 66
+  index: -1
+m_orientalbunny_head
+  rotate: true
+  xy: 354, 2
+  size: 174, 152
+  orig: 174, 164
+  offset: 0, 0
+  index: -1
+m_orientalbunny_gro_face1
+  rotate: true
+  xy: 473, 945
+  size: 35, 31
+  orig: 59, 47
+  offset: 13, 9
+  index: -1
+m_orientalbunny_gro_head
+  rotate: false
+  xy: 202, 848
+  size: 108, 94
+  orig: 174, 164
+  offset: 36, 70
+  index: -1
+m_orientalbunny_gro_acc1
+  rotate: true
+  xy: 399, 481
+  size: 97, 58
+  orig: 97, 86
+  offset: 0, 0
+  index: -1
+m_orientalbunny_arm3
+  rotate: true
+  xy: 331, 406
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+m_orientalbunny_eye
+  rotate: true
+  xy: 158, 839
+  size: 138, 42
+  orig: 174, 164
+  offset: 15, 38
+  index: -1
+m_orientalbunny_leg
+  rotate: true
+  xy: 391, 663
+  size: 77, 63
+  orig: 77, 63
+  offset: 0, 0
+  index: -1
+m_orientalbunny_ear1
+  rotate: true
+  xy: 398, 405
+  size: 74, 81
+  orig: 74, 81
+  offset: 0, 0
+  index: -1
+m_orientalbunny_stick_p
+  rotate: true
+  xy: 2, 487
+  size: 350, 204
+  orig: 350, 240
+  offset: 0, 36
+  index: -1
+m_orientalbunny_ribbon2
+  rotate: false
+  xy: 365, 733
+  size: 19, 87
+  orig: 19, 91
+  offset: 0, 4
+  index: -1
+m_orientalbunny_string3
+  rotate: true
+  xy: 456, 717
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+m_orientalbunny_acc1
+  rotate: false
+  xy: 393, 272
+  size: 89, 82
+  orig: 97, 86
+  offset: 5, 4
+  index: -1
+m_orientalbunny_ribbon3_p
+  rotate: false
+  xy: 429, 887
+  size: 24, 60
+  orig: 26, 110
+  offset: 2, 0
+  index: -1
+m_orientalbunny_face2
+  rotate: true
+  xy: 456, 649
+  size: 66, 45
+  orig: 66, 45
+  offset: 0, 0
+  index: -1
+m_orientalbunny_gro_hand2
+  rotate: true
+  xy: 399, 953
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+m_orientalbunny_stick
+  rotate: false
+  xy: 2, 2
+  size: 350, 240
+  orig: 350, 240
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,634 @@
+dragon_9_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_frost_critical2b
+  rotate: false
+  xy: 213, 657
+  size: 326, 137
+  orig: 326, 137
+  offset: 0, 0
+  index: -1
+dragon_frost_adult_tail2
+  rotate: false
+  xy: 974, 936
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+dragon_frost_e_tail_p
+  rotate: true
+  xy: 749, 1203
+  size: 41, 71
+  orig: 41, 71
+  offset: 0, 0
+  index: -1
+dragon_frost_critical2
+  rotate: false
+  xy: 469, 468
+  size: 300, 125
+  orig: 326, 137
+  offset: 13, 0
+  index: -1
+dragon_frost_adult_tw
+  rotate: true
+  xy: 906, 589
+  size: 107, 101
+  orig: 107, 101
+  offset: 0, 0
+  index: -1
+dragon_frost_child_wing2
+  rotate: false
+  xy: 906, 698
+  size: 98, 76
+  orig: 98, 76
+  offset: 0, 0
+  index: -1
+dragon_frost_adult_head
+  rotate: false
+  xy: 162, 1163
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+dragon_frost_e_cri_effect
+  rotate: true
+  xy: 574, 136
+  size: 124, 383
+  orig: 124, 383
+  offset: 0, 0
+  index: -1
+dragon_frost_adult_l_foot2
+  rotate: false
+  xy: 572, 1274
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+dragon_frost_child_eye3
+  rotate: true
+  xy: 925, 1286
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+dragon_frost_adult_wing1
+  rotate: false
+  xy: 845, 1003
+  size: 145, 146
+  orig: 145, 146
+  offset: 0, 0
+  index: -1
+dragon_frost_e_cri_eff_cross_eff2
+  rotate: false
+  xy: 213, 431
+  size: 254, 224
+  orig: 254, 224
+  offset: 0, 0
+  index: -1
+dragon_frost_e_cri_smoeff_c4
+  rotate: true
+  xy: 324, 1113
+  size: 190, 131
+  orig: 190, 131
+  offset: 0, 0
+  index: -1
+dragon_frost_baby_legrf
+  rotate: false
+  xy: 705, 1082
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+dragon_frost_child_heart
+  rotate: true
+  xy: 950, 314
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_frost_adult_l_hand2
+  rotate: false
+  xy: 777, 1292
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+dragon_frost_e_cri_eff_ston2
+  rotate: true
+  xy: 469, 431
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+dragon_frost_adult_wingb2
+  rotate: true
+  xy: 788, 589
+  size: 195, 116
+  orig: 195, 116
+  offset: 0, 0
+  index: -1
+dragon_frost_e_body_p
+  rotate: false
+  xy: 918, 776
+  size: 99, 62
+  orig: 99, 62
+  offset: 0, 0
+  index: -1
+dragon_frost_e_arm_p
+  rotate: true
+  xy: 744, 1246
+  size: 44, 63
+  orig: 44, 63
+  offset: 0, 0
+  index: -1
+dragon_frost_adult_wing2
+  rotate: true
+  xy: 621, 1111
+  size: 133, 126
+  orig: 133, 126
+  offset: 0, 0
+  index: -1
+dragon_frost_baby_eye3
+  rotate: true
+  xy: 906, 1276
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+dragon_frost_child_tail
+  rotate: false
+  xy: 928, 1151
+  size: 76, 81
+  orig: 76, 81
+  offset: 0, 0
+  index: -1
+dragon_frost_critical5b
+  rotate: false
+  xy: 2, 2
+  size: 237, 408
+  orig: 237, 408
+  offset: 0, 0
+  index: -1
+dragon_frost_baby_legrb
+  rotate: true
+  xy: 554, 450
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+dragon_frost_adult_l_leg3
+  rotate: true
+  xy: 727, 1082
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+dragon_frost_adult_l_arm1
+  rotate: true
+  xy: 822, 1224
+  size: 40, 59
+  orig: 40, 59
+  offset: 0, 0
+  index: -1
+dragon_frost_e_cri_eff_cross_eff1
+  rotate: false
+  xy: 241, 2
+  size: 331, 260
+  orig: 331, 260
+  offset: 0, 0
+  index: -1
+dragon_frost_adult_tail3
+  rotate: false
+  xy: 979, 1234
+  size: 37, 53
+  orig: 37, 53
+  offset: 0, 0
+  index: -1
+dragon_frost_child_head
+  rotate: true
+  xy: 967, 2
+  size: 73, 50
+  orig: 73, 50
+  offset: 0, 0
+  index: -1
+dragon_frost_critical3
+  rotate: true
+  xy: 255, 796
+  size: 315, 153
+  orig: 343, 165
+  offset: 14, 0
+  index: -1
+dragon_frost_child_mouth
+  rotate: true
+  xy: 847, 1266
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+dragon_frost_child_leg1
+  rotate: false
+  xy: 685, 1246
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+dragon_frost_child_body
+  rotate: true
+  xy: 927, 389
+  size: 77, 62
+  orig: 77, 62
+  offset: 0, 0
+  index: -1
+dragon_frost_adult_l_foot1
+  rotate: false
+  xy: 554, 431
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+dragon_frost_adult_mouth
+  rotate: true
+  xy: 991, 314
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+dragon_frost_adult_l_leg2
+  rotate: false
+  xy: 883, 1276
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+dragon_frost_adult_l_hand1
+  rotate: false
+  xy: 744, 1292
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+dragon_frost_critical3b
+  rotate: false
+  xy: 241, 264
+  size: 343, 165
+  orig: 343, 165
+  offset: 0, 0
+  index: -1
+dragon_frost_e_cri_eff_ston3
+  rotate: true
+  xy: 539, 1274
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+dragon_frost_adult_damaged
+  rotate: false
+  xy: 266, 1163
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+dragon_frost_adult_damaged_f
+  rotate: false
+  xy: 967, 77
+  size: 50, 59
+  orig: 50, 59
+  offset: 0, 0
+  index: -1
+dragon_frost_e_cri_smoeff_c3
+  rotate: false
+  xy: 771, 468
+  size: 210, 119
+  orig: 220, 119
+  offset: 3, 0
+  index: -1
+dragon_frost_baby_body
+  rotate: true
+  xy: 883, 1224
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+dragon_frost_baby_leglf
+  rotate: false
+  xy: 862, 1266
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+dragon_frost_e_cri_boom_eff1
+  rotate: true
+  xy: 552, 786
+  size: 323, 97
+  orig: 323, 97
+  offset: 0, 0
+  index: -1
+dragon_frost_e_cri_e_cc_eff2
+  rotate: false
+  xy: 918, 840
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+dragon_frost_e_head_p
+  rotate: true
+  xy: 959, 188
+  size: 68, 57
+  orig: 68, 57
+  offset: 0, 0
+  index: -1
+dragon_frost_child_leg2
+  rotate: false
+  xy: 255, 1113
+  size: 55, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+dragon_frost_adult_tail4
+  rotate: true
+  xy: 469, 595
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+dragon_frost_baby_effect
+  rotate: true
+  xy: 996, 289
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+dragon_frost_e_cri_boom_eff2
+  rotate: true
+  xy: 651, 786
+  size: 294, 114
+  orig: 298, 114
+  offset: 3, 0
+  index: -1
+dragon_frost_baby_leglb
+  rotate: false
+  xy: 996, 258
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+dragon_frost_critical4
+  rotate: true
+  xy: 574, 2
+  size: 132, 391
+  orig: 158, 417
+  offset: 13, 13
+  index: -1
+dragon_frost_e_wing_p
+  rotate: false
+  xy: 983, 511
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+dragon_frost_adult_neck
+  rotate: true
+  xy: 959, 138
+  size: 48, 58
+  orig: 48, 58
+  offset: 0, 0
+  index: -1
+dragon_frost_adult_eye
+  rotate: true
+  xy: 749, 1110
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+dragon_frost_e_cri_smoeff_c2
+  rotate: true
+  xy: 767, 786
+  size: 332, 76
+  orig: 332, 78
+  offset: 0, 2
+  index: -1
+dragon_frost_adult_body1
+  rotate: false
+  xy: 834, 1151
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+dragon_frost_e_cri_e_cc_eff1
+  rotate: false
+  xy: 983, 552
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dragon_frost_e_cri_eff_ston4
+  rotate: false
+  xy: 950, 262
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+dragon_frost_adult_heart
+  rotate: true
+  xy: 950, 314
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_frost_e_cri_boomeff0
+  rotate: true
+  xy: 410, 796
+  size: 304, 140
+  orig: 304, 140
+  offset: 0, 0
+  index: -1
+dragon_frost_adult_body2
+  rotate: false
+  xy: 457, 1274
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+dragon_frost_critical6
+  rotate: false
+  xy: 541, 595
+  size: 245, 189
+  orig: 245, 193
+  offset: 0, 0
+  index: -1
+dragon_frost_critical1
+  rotate: false
+  xy: 586, 389
+  size: 339, 77
+  orig: 481, 109
+  offset: 71, 0
+  index: -1
+dragon_frost_adult_l_leg1
+  rotate: true
+  xy: 974, 970
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+dragon_frost_child_cheek
+  rotate: false
+  xy: 513, 461
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+dragon_frost_baby_tail
+  rotate: true
+  xy: 651, 1082
+  size: 27, 52
+  orig: 27, 52
+  offset: 0, 0
+  index: -1
+dragon_frost_child_eye
+  rotate: true
+  xy: 961, 1286
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+dragon_frost_critical4b
+  rotate: false
+  xy: 2, 798
+  size: 158, 417
+  orig: 158, 417
+  offset: 0, 0
+  index: -1
+dragon_frost_child_eye2
+  rotate: true
+  xy: 943, 1286
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+dragon_frost_e_cri_smoeff_c1
+  rotate: true
+  xy: 845, 786
+  size: 215, 71
+  orig: 215, 71
+  offset: 0, 0
+  index: -1
+dragon_frost_baby_mouth
+  rotate: false
+  xy: 950, 362
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+dragon_frost_baby_note1
+  rotate: true
+  xy: 499, 1274
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_frost_e_cri_boom_eff3
+  rotate: false
+  xy: 2, 1217
+  size: 320, 90
+  orig: 320, 96
+  offset: 0, 0
+  index: -1
+dragon_frost_critical5
+  rotate: false
+  xy: 2, 412
+  size: 209, 384
+  orig: 237, 408
+  offset: 14, 13
+  index: -1
+dragon_frost_e_cri_eff_ston1
+  rotate: false
+  xy: 983, 468
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+dragon_frost_baby_eye
+  rotate: false
+  xy: 979, 1289
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+dragon_frost_adult_attack
+  rotate: true
+  xy: 925, 1234
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+dragon_frost_adult_l_arm2
+  rotate: false
+  xy: 809, 1266
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+dragon_frost_baby_eye2
+  rotate: false
+  xy: 213, 412
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+dragon_frost_baby_head
+  rotate: true
+  xy: 918, 936
+  size: 65, 54
+  orig: 65, 54
+  offset: 0, 0
+  index: -1
+dragon_frost_adult_tail1
+  rotate: true
+  xy: 621, 1246
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+dragon_frost_adult_emotion
+  rotate: false
+  xy: 214, 1163
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+dragon_frost_e_cri_e_cross_eff3
+  rotate: false
+  xy: 586, 262
+  size: 362, 125
+  orig: 364, 131
+  offset: 0, 6
+  index: -1
+dragon_frost_critical1b
+  rotate: true
+  xy: 162, 798
+  size: 363, 91
+  orig: 481, 109
+  offset: 59, 0
+  index: -1
+dragon_frost_child_wing1
+  rotate: false
+  xy: 749, 1120
+  size: 83, 81
+  orig: 83, 81
+  offset: 0, 0
+  index: -1
+dragon_frost_e_neck_p
+  rotate: true
+  xy: 513, 431
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+dragon_frost_adult_wingb1
+  rotate: false
+  xy: 457, 1111
+  size: 162, 161
+  orig: 162, 161
+  offset: 0, 0
+  index: -1

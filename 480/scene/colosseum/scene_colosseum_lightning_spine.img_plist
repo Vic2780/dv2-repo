@@ -1,0 +1,39 @@
+scene_colosseum_lightning_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+scene_colosseum_lightning1
+  rotate: false
+  xy: 594, 2
+  size: 134, 308
+  orig: 170, 480
+  offset: 24, 104
+  index: -1
+scene_colosseum_lightning4
+  rotate: false
+  xy: 2, 2
+  size: 168, 480
+  orig: 170, 480
+  offset: 2, 0
+  index: -1
+scene_colosseum_lightning5
+  rotate: false
+  xy: 332, 2
+  size: 124, 470
+  orig: 170, 480
+  offset: 20, 10
+  index: -1
+scene_colosseum_lightning2
+  rotate: false
+  xy: 458, 2
+  size: 134, 390
+  orig: 170, 480
+  offset: 33, 75
+  index: -1
+scene_colosseum_lightning3
+  rotate: false
+  xy: 172, 2
+  size: 158, 480
+  orig: 170, 480
+  offset: 12, 0
+  index: -1

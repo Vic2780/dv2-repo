@@ -1,0 +1,571 @@
+dragon_107_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_argo_baby_wing2
+  rotate: false
+  xy: 216, 1000
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+dragon_argo_child_tail1
+  rotate: false
+  xy: 117, 489
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+dragon_argo_adult_bodyfire3
+  rotate: false
+  xy: 114, 905
+  size: 46, 61
+  orig: 46, 61
+  offset: 0, 0
+  index: -1
+dragon_argo_adult_leg4
+  rotate: true
+  xy: 166, 1067
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+dragon_argo_adult_attack
+  rotate: true
+  xy: 205, 768
+  size: 57, 49
+  orig: 57, 49
+  offset: 0, 0
+  index: -1
+dragon_argo_critical22
+  rotate: true
+  xy: 215, 1063
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+dragon_argo_baby_tail1
+  rotate: false
+  xy: 111, 1022
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+dragon_argo_critical33
+  rotate: false
+  xy: 117, 577
+  size: 89, 71
+  orig: 89, 71
+  offset: 0, 0
+  index: -1
+dragon_argo_child_mouth
+  rotate: false
+  xy: 53, 1175
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+dragon_argo_child_wing2
+  rotate: false
+  xy: 2, 1010
+  size: 107, 68
+  orig: 107, 68
+  offset: 0, 0
+  index: -1
+dragon_argo_child_love2
+  rotate: false
+  xy: 208, 272
+  size: 46, 61
+  orig: 46, 61
+  offset: 0, 0
+  index: -1
+dragon_argo_child_leg4
+  rotate: false
+  xy: 172, 825
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+dragon_argo_adult_love
+  rotate: true
+  xy: 205, 650
+  size: 57, 49
+  orig: 57, 49
+  offset: 0, 0
+  index: -1
+dragon_argo_baby_mouth
+  rotate: true
+  xy: 187, 361
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+dragon_argo_adult_wing3
+  rotate: true
+  xy: 2, 234
+  size: 163, 106
+  orig: 163, 106
+  offset: 0, 0
+  index: -1
+dragon_argo_baby_tail2
+  rotate: false
+  xy: 201, 457
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+dragon_argo_baby_love
+  rotate: false
+  xy: 172, 872
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+dragon_argo_baby_arm1
+  rotate: false
+  xy: 169, 1146
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+dragon_argo_adult_tail1
+  rotate: true
+  xy: 2, 399
+  size: 127, 113
+  orig: 127, 113
+  offset: 0, 0
+  index: -1
+dragon_argo_baby_wing3
+  rotate: false
+  xy: 209, 1098
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+dragon_argo_critical32
+  rotate: false
+  xy: 2, 904
+  size: 110, 104
+  orig: 110, 104
+  offset: 0, 0
+  index: -1
+dragon_argo_critical13
+  rotate: false
+  xy: 169, 1183
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+dragon_argo_child_leg1
+  rotate: false
+  xy: 171, 731
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+dragon_argo_child_ear12
+  rotate: true
+  xy: 171, 797
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+dragon_argo_adult_ear12
+  rotate: false
+  xy: 169, 1123
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+dragon_argo_adult_wing2
+  rotate: false
+  xy: 2, 119
+  size: 158, 113
+  orig: 158, 113
+  offset: 0, 0
+  index: -1
+dragon_argo_baby_lovemouth
+  rotate: false
+  xy: 126, 1190
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+dragon_argo_child_neck
+  rotate: false
+  xy: 208, 196
+  size: 46, 74
+  orig: 46, 74
+  offset: 0, 0
+  index: -1
+dragon_argo_adult_leg5
+  rotate: true
+  xy: 181, 315
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+dragon_argo_child_head
+  rotate: false
+  xy: 208, 577
+  size: 46, 61
+  orig: 46, 61
+  offset: 0, 0
+  index: -1
+dragon_argo_child_wing1
+  rotate: true
+  xy: 169, 2
+  size: 110, 77
+  orig: 110, 77
+  offset: 0, 0
+  index: -1
+dragon_argo_child_leg5
+  rotate: true
+  xy: 168, 985
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+dragon_argo_child_eye
+  rotate: false
+  xy: 197, 1182
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+dragon_argo_baby_leg1
+  rotate: true
+  xy: 85, 1080
+  size: 61, 38
+  orig: 61, 38
+  offset: 0, 0
+  index: -1
+dragon_argo_adult_leg1
+  rotate: false
+  xy: 125, 1075
+  size: 38, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+dragon_argo_baby_tail3
+  rotate: false
+  xy: 201, 398
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+dragon_argo_critical21
+  rotate: false
+  xy: 166, 1022
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+dragon_argo_child_body
+  rotate: true
+  xy: 208, 114
+  size: 80, 46
+  orig: 80, 46
+  offset: 0, 0
+  index: -1
+dragon_argo_critical12
+  rotate: false
+  xy: 192, 1149
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+dragon_argo_adult_body2
+  rotate: false
+  xy: 85, 1143
+  size: 48, 33
+  orig: 48, 33
+  offset: 0, 0
+  index: -1
+dragon_argo_adult_leg6
+  rotate: true
+  xy: 84, 1178
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+dragon_argo_baby_ear2
+  rotate: true
+  xy: 162, 164
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+dragon_argo_child_tail3
+  rotate: false
+  xy: 117, 396
+  size: 82, 91
+  orig: 82, 91
+  offset: 0, 0
+  index: -1
+dragon_argo_adult_bodyfire1
+  rotate: false
+  xy: 200, 512
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+dragon_argo_child_leg2
+  rotate: false
+  xy: 172, 650
+  size: 31, 79
+  orig: 31, 79
+  offset: 0, 0
+  index: -1
+dragon_argo_adult_ear11
+  rotate: true
+  xy: 223, 1149
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+dragon_argo_adult_ear2
+  rotate: false
+  xy: 114, 789
+  size: 55, 47
+  orig: 55, 51
+  offset: 0, 4
+  index: -1
+dragon_argo_child_ear11
+  rotate: false
+  xy: 233, 1182
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+dragon_argo_baby_eye
+  rotate: false
+  xy: 215, 1182
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+dragon_argo_adult_wing1
+  rotate: false
+  xy: 2, 2
+  size: 165, 115
+  orig: 165, 115
+  offset: 0, 0
+  index: -1
+dragon_argo_adult_leg2
+  rotate: false
+  xy: 114, 968
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+dragon_argo_critical31
+  rotate: true
+  xy: 2, 655
+  size: 123, 116
+  orig: 123, 116
+  offset: 0, 0
+  index: -1
+dragon_argo_baby_heart
+  rotate: false
+  xy: 168, 944
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_argo_child_note2
+  rotate: true
+  xy: 211, 1026
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_argo_child_tail2
+  rotate: false
+  xy: 2, 1080
+  size: 81, 93
+  orig: 81, 93
+  offset: 0, 0
+  index: -1
+dragon_argo_baby_body1
+  rotate: false
+  xy: 204, 827
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+dragon_argo_child_ear2
+  rotate: true
+  xy: 162, 119
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+dragon_argo_adult_body1
+  rotate: false
+  xy: 110, 340
+  size: 75, 54
+  orig: 75, 54
+  offset: 0, 0
+  index: -1
+dragon_argo_adult_head
+  rotate: true
+  xy: 205, 709
+  size: 57, 49
+  orig: 57, 49
+  offset: 0, 0
+  index: -1
+dragon_argo_adult_bodyfire2
+  rotate: false
+  xy: 114, 838
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+dragon_argo_adult_leg7
+  rotate: true
+  xy: 181, 273
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+dragon_argo_adult_tail3
+  rotate: true
+  xy: 2, 780
+  size: 122, 110
+  orig: 122, 110
+  offset: 0, 0
+  index: -1
+dragon_argo_adult_neck
+  rotate: false
+  xy: 120, 650
+  size: 50, 78
+  orig: 50, 78
+  offset: 0, 0
+  index: -1
+dragon_argo_baby_body2
+  rotate: false
+  xy: 206, 1123
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+dragon_argo_baby_arm2
+  rotate: false
+  xy: 226, 870
+  size: 18, 36
+  orig: 18, 36
+  offset: 0, 0
+  index: -1
+dragon_argo_child_love
+  rotate: false
+  xy: 208, 335
+  size: 46, 61
+  orig: 46, 61
+  offset: 0, 0
+  index: -1
+dragon_argo_adult_mouth
+  rotate: true
+  xy: 240, 1154
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+dragon_argo_critical11
+  rotate: true
+  xy: 240, 1123
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+dragon_argo_adult_damaged
+  rotate: true
+  xy: 120, 730
+  size: 57, 49
+  orig: 57, 49
+  offset: 0, 0
+  index: -1
+dragon_argo_child_leg3
+  rotate: true
+  xy: 165, 1095
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+dragon_argo_baby_head1
+  rotate: false
+  xy: 162, 908
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+dragon_argo_adult_leg3
+  rotate: true
+  xy: 181, 231
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+dragon_argo_adult_lovefire
+  rotate: false
+  xy: 135, 1136
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+dragon_argo_critical23
+  rotate: true
+  xy: 216, 908
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+dragon_argo_baby_wing1
+  rotate: false
+  xy: 216, 977
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+dragon_argo_baby_ear1
+  rotate: false
+  xy: 187, 340
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+dragon_argo_child_wing3
+  rotate: true
+  xy: 110, 234
+  size: 104, 69
+  orig: 104, 69
+  offset: 0, 0
+  index: -1
+dragon_argo_baby_head2
+  rotate: false
+  xy: 2, 1175
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+dragon_argo_child_note1
+  rotate: true
+  xy: 216, 945
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_argo_adult_tail2
+  rotate: true
+  xy: 2, 528
+  size: 125, 113
+  orig: 125, 113
+  offset: 0, 0
+  index: -1
+dragon_argo_adult_eye
+  rotate: false
+  xy: 208, 640
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,60 @@
+fight_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+fight_bg
+  rotate: false
+  xy: 584, 2
+  size: 580, 188
+  orig: 580, 188
+  offset: 0, 0
+  index: -1
+fight_tt
+  rotate: false
+  xy: 1273, 2
+  size: 87, 92
+  orig: 87, 92
+  offset: 0, 0
+  index: -1
+fight_nukkim
+  rotate: false
+  xy: 1362, 2
+  size: 59, 88
+  orig: 59, 88
+  offset: 0, 0
+  index: -1
+fight_hh
+  rotate: false
+  xy: 1166, 98
+  size: 104, 92
+  orig: 104, 92
+  offset: 0, 0
+  index: -1
+fight_ff
+  rotate: false
+  xy: 1272, 98
+  size: 95, 92
+  orig: 95, 92
+  offset: 0, 0
+  index: -1
+fight_ii
+  rotate: false
+  xy: 1369, 92
+  size: 55, 87
+  orig: 55, 87
+  offset: 0, 0
+  index: -1
+fight_bg_rhite
+  rotate: false
+  xy: 2, 2
+  size: 580, 188
+  orig: 580, 188
+  offset: 0, 0
+  index: -1
+fight_gg
+  rotate: false
+  xy: 1166, 2
+  size: 105, 94
+  orig: 105, 94
+  offset: 0, 0
+  index: -1

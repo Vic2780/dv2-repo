@@ -1,0 +1,25 @@
+skill_20_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skill_lmmune2
+  rotate: false
+  xy: 216, 2
+  size: 171, 198
+  orig: 233, 238
+  offset: 22, 18
+  index: -1
+skill_lmmune3
+  rotate: true
+  xy: 389, 2
+  size: 66, 57
+  orig: 96, 83
+  offset: 11, 11
+  index: -1
+skill_lmmune1
+  rotate: true
+  xy: 2, 2
+  size: 211, 212
+  orig: 233, 238
+  offset: 11, 12
+  index: -1

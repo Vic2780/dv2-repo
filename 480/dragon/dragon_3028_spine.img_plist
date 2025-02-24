@@ -1,0 +1,655 @@
+dragon_3028_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_hellgast_adult_hearttt
+  rotate: false
+  xy: 337, 1523
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_hellgast_baby_hair3
+  rotate: true
+  xy: 392, 809
+  size: 27, 35
+  orig: 67, 49
+  offset: 39, 14
+  index: -1
+dragon_hellgast_adult_git1
+  rotate: false
+  xy: 125, 1419
+  size: 89, 28
+  orig: 89, 28
+  offset: 0, 0
+  index: -1
+dragon_hellgast_child_lwing2
+  rotate: true
+  xy: 392, 693
+  size: 114, 115
+  orig: 152, 201
+  offset: 12, 86
+  index: -1
+dragon_hellgast_adult_rwing1
+  rotate: false
+  xy: 2, 1139
+  size: 131, 149
+  orig: 165, 291
+  offset: 10, 136
+  index: -1
+dragon_hellgast_adult_wing1
+  rotate: true
+  xy: 329, 1357
+  size: 72, 107
+  orig: 80, 107
+  offset: 0, 0
+  index: -1
+dragon_hellgast_adult_eye2
+  rotate: true
+  xy: 493, 809
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+dragon_hellgast_adult_body
+  rotate: false
+  xy: 135, 1235
+  size: 89, 53
+  orig: 89, 53
+  offset: 0, 0
+  index: -1
+dragon_hellgast_child_hair3
+  rotate: false
+  xy: 202, 1561
+  size: 65, 46
+  orig: 85, 52
+  offset: 20, 3
+  index: -1
+dragon_hellgast_adult_leg3
+  rotate: false
+  xy: 320, 1564
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+dragon_hellgast_child_tail1
+  rotate: false
+  xy: 2, 1600
+  size: 57, 62
+  orig: 77, 62
+  offset: 20, 0
+  index: -1
+dragon_hellgast_adult_love1
+  rotate: true
+  xy: 385, 1523
+  size: 43, 29
+  orig: 43, 31
+  offset: 0, 2
+  index: -1
+dragon_heegast_critical_sk4
+  rotate: false
+  xy: 271, 312
+  size: 135, 137
+  orig: 297, 297
+  offset: 78, 83
+  index: -1
+dragon_hellgast_baby_love
+  rotate: false
+  xy: 348, 1431
+  size: 59, 44
+  orig: 59, 50
+  offset: 0, 6
+  index: -1
+dragon_hellgast_child_rwing6
+  rotate: true
+  xy: 408, 471
+  size: 104, 99
+  orig: 132, 201
+  offset: 26, 78
+  index: -1
+dragon_hellgast_baby_jair1
+  rotate: false
+  xy: 209, 1518
+  size: 67, 41
+  orig: 67, 49
+  offset: 0, 0
+  index: -1
+dragon_hellgast_adult_hand
+  rotate: false
+  xy: 479, 1607
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+dragon_hellgast_adult_lwing5
+  rotate: false
+  xy: 2, 1445
+  size: 119, 153
+  orig: 165, 291
+  offset: 13, 0
+  index: -1
+dragon_hellgast_adult_hair3
+  rotate: false
+  xy: 217, 1347
+  size: 110, 88
+  orig: 138, 104
+  offset: 0, 16
+  index: -1
+dragon_hellgast_adult_lwing6
+  rotate: false
+  xy: 255, 719
+  size: 135, 117
+  orig: 165, 291
+  offset: 14, 88
+  index: -1
+dragon_hellgast_child_note1
+  rotate: true
+  xy: 367, 1602
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_hellgast_child_head
+  rotate: true
+  xy: 139, 1596
+  size: 63, 49
+  orig: 65, 49
+  offset: 2, 0
+  index: -1
+dragon_hellgast_adult_neck
+  rotate: false
+  xy: 218, 1609
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+dragon_hellgast_child_rwing5
+  rotate: true
+  xy: 139, 1117
+  size: 116, 111
+  orig: 132, 201
+  offset: 16, 0
+  index: -1
+dragon_hellgast_adult_rwing2
+  rotate: false
+  xy: 2, 823
+  size: 133, 163
+  orig: 165, 291
+  offset: 15, 128
+  index: -1
+dragon_hellgast_adult_arm1
+  rotate: true
+  xy: 429, 809
+  size: 17, 62
+  orig: 17, 62
+  offset: 0, 0
+  index: -1
+dragon_hellgast_adult_att
+  rotate: true
+  xy: 448, 1564
+  size: 43, 29
+  orig: 43, 31
+  offset: 0, 2
+  index: -1
+dragon_hellgast_adult_eye
+  rotate: true
+  xy: 496, 1145
+  size: 13, 11
+  orig: 43, 31
+  offset: 10, 10
+  index: -1
+dragon_hellgast_adult_lwing1
+  rotate: false
+  xy: 2, 988
+  size: 135, 149
+  orig: 165, 291
+  offset: 6, 136
+  index: -1
+dragon_hellgast_adult_leg2
+  rotate: true
+  xy: 481, 1480
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+dragon_heegast_critical_sk6
+  rotate: false
+  xy: 2, 572
+  size: 251, 249
+  orig: 297, 297
+  offset: 14, 26
+  index: -1
+dragon_heegast_critical_sk1
+  rotate: false
+  xy: 299, 1437
+  size: 47, 47
+  orig: 297, 297
+  offset: 119, 127
+  index: -1
+dragon_hellgast_child_rwing1
+  rotate: false
+  xy: 392, 1034
+  size: 114, 109
+  orig: 132, 201
+  offset: 7, 87
+  index: -1
+dragon_hellgast_child_lwing3
+  rotate: true
+  xy: 382, 944
+  size: 88, 125
+  orig: 152, 201
+  offset: 34, 76
+  index: -1
+dragon_hellgast_adult_lwing4
+  rotate: true
+  xy: 139, 970
+  size: 145, 113
+  orig: 165, 291
+  offset: 12, 49
+  index: -1
+dragon_hellgast_baby_git
+  rotate: true
+  xy: 479, 1564
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+dragon_hellgast_child_git
+  rotate: false
+  xy: 278, 1521
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+dragon_hellgast_child_lwing6
+  rotate: true
+  xy: 385, 838
+  size: 104, 99
+  orig: 152, 201
+  offset: 47, 59
+  index: -1
+dragon_hellgast_adult_foot
+  rotate: true
+  xy: 368, 570
+  size: 46, 19
+  orig: 56, 19
+  offset: 0, 0
+  index: -1
+dragon_hellgast_adult_head
+  rotate: true
+  xy: 417, 1568
+  size: 43, 29
+  orig: 43, 31
+  offset: 0, 2
+  index: -1
+dragon_hellgast_child_rwing4
+  rotate: false
+  xy: 252, 1131
+  size: 124, 103
+  orig: 132, 201
+  offset: 0, 41
+  index: -1
+dragon_hellgast_child_body
+  rotate: false
+  xy: 123, 1545
+  size: 77, 49
+  orig: 77, 49
+  offset: 0, 0
+  index: -1
+dragon_heegast_critical_sk5
+  rotate: false
+  xy: 301, 2
+  size: 201, 207
+  orig: 297, 297
+  offset: 45, 46
+  index: -1
+dragon_heegast_critical_circle
+  rotate: false
+  xy: 2, 2
+  size: 297, 297
+  orig: 297, 297
+  offset: 0, 0
+  index: -1
+dragon_hellgast_adult_wing2
+  rotate: true
+  xy: 252, 838
+  size: 104, 131
+  orig: 104, 131
+  offset: 0, 0
+  index: -1
+dragon_hellgast_child_hair1
+  rotate: false
+  xy: 209, 1478
+  size: 81, 38
+  orig: 85, 52
+  offset: 2, 10
+  index: -1
+dragon_hellgast_adult_mouth
+  rotate: false
+  xy: 479, 1626
+  size: 25, 15
+  orig: 43, 31
+  offset: 2, 1
+  index: -1
+dragon_hellgast_child_tail2
+  rotate: false
+  xy: 447, 1520
+  size: 33, 42
+  orig: 77, 62
+  offset: 0, 3
+  index: -1
+dragon_hellgast_baby_eye
+  rotate: false
+  xy: 342, 1236
+  size: 19, 20
+  orig: 59, 50
+  offset: 16, 18
+  index: -1
+dragon_hellgast_adult_love2
+  rotate: true
+  xy: 363, 1236
+  size: 15, 13
+  orig: 43, 31
+  offset: 7, 10
+  index: -1
+dragon_hellgast_adult_rwing3
+  rotate: true
+  xy: 301, 211
+  size: 99, 157
+  orig: 165, 291
+  offset: 0, 120
+  index: -1
+dragon_hellgast_adult_rwing6
+  rotate: false
+  xy: 271, 451
+  size: 135, 117
+  orig: 165, 291
+  offset: 14, 88
+  index: -1
+dragon_hellgast_adult_hair1
+  rotate: false
+  xy: 254, 1049
+  size: 136, 80
+  orig: 138, 104
+  offset: 1, 24
+  index: -1
+dragon_hellgast_child_neck
+  rotate: false
+  xy: 436, 1434
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+dragon_hellgast_baby_leg
+  rotate: false
+  xy: 367, 1568
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+dragon_heegast_critical_sk7
+  rotate: false
+  xy: 2, 301
+  size: 267, 269
+  orig: 297, 297
+  offset: 12, 14
+  index: -1
+dragon_hellgast_adult_git2
+  rotate: false
+  xy: 216, 1437
+  size: 81, 39
+  orig: 81, 39
+  offset: 0, 0
+  index: -1
+dragon_hellgast_child_note2
+  rotate: false
+  xy: 444, 1477
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_heegast_critical_sk2
+  rotate: false
+  xy: 438, 1357
+  size: 69, 75
+  orig: 297, 297
+  offset: 110, 115
+  index: -1
+dragon_hellgast_child_lwing4
+  rotate: false
+  xy: 254, 944
+  size: 126, 103
+  orig: 152, 201
+  offset: 0, 42
+  index: -1
+dragon_hellgast_baby_tail
+  rotate: true
+  xy: 190, 1609
+  size: 53, 26
+  orig: 53, 34
+  offset: 0, 8
+  index: -1
+dragon_hellgast_child_leg2
+  rotate: true
+  xy: 448, 1609
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+dragon_hellgast_child_rwing3
+  rotate: false
+  xy: 125, 1290
+  size: 90, 127
+  orig: 132, 201
+  offset: 33, 74
+  index: -1
+dragon_hellgast_adult_rwing4
+  rotate: true
+  xy: 137, 823
+  size: 145, 113
+  orig: 165, 291
+  offset: 12, 49
+  index: -1
+dragon_hellgast_baby_arm
+  rotate: true
+  xy: 460, 211
+  size: 61, 47
+  orig: 63, 51
+  offset: 0, 4
+  index: -1
+dragon_hellgast_adult_wing3
+  rotate: true
+  xy: 411, 1477
+  size: 44, 31
+  orig: 56, 39
+  offset: 9, 0
+  index: -1
+dragon_hellgast_adult_lwing3
+  rotate: false
+  xy: 408, 312
+  size: 99, 157
+  orig: 165, 291
+  offset: 0, 120
+  index: -1
+dragon_hellgast_child_mouth
+  rotate: true
+  xy: 368, 665
+  size: 37, 19
+  orig: 65, 49
+  offset: 22, 3
+  index: -1
+dragon_hellgast_adult_leg1
+  rotate: false
+  xy: 270, 1606
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+dragon_hellgast_baby_head2
+  rotate: true
+  xy: 319, 1606
+  size: 37, 30
+  orig: 59, 50
+  offset: 12, 19
+  index: -1
+dragon_hellgast_baby_head
+  rotate: false
+  xy: 350, 1477
+  size: 59, 44
+  orig: 59, 50
+  offset: 0, 6
+  index: -1
+dragon_hellgast_adult_arm2
+  rotate: false
+  xy: 292, 1486
+  size: 56, 33
+  orig: 56, 39
+  offset: 0, 6
+  index: -1
+dragon_hellgast_baby_hair2
+  rotate: false
+  xy: 269, 1561
+  size: 49, 43
+  orig: 67, 49
+  offset: 18, 6
+  index: -1
+dragon_hellgast_adult_tail
+  rotate: false
+  xy: 255, 572
+  size: 111, 145
+  orig: 111, 145
+  offset: 0, 0
+  index: -1
+dragon_hellgast_adult_sjill
+  rotate: false
+  xy: 407, 1613
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+dragon_hellgast_child_hair2
+  rotate: true
+  xy: 451, 1258
+  size: 85, 52
+  orig: 85, 52
+  offset: 0, 0
+  index: -1
+dragon_hellgast_child_loveeye
+  rotate: true
+  xy: 482, 1434
+  size: 21, 25
+  orig: 65, 49
+  offset: 24, 16
+  index: -1
+dragon_hellgast_adult_craw
+  rotate: false
+  xy: 319, 1645
+  size: 22, 15
+  orig: 56, 19
+  offset: 34, 3
+  index: -1
+dragon_hellgast_child_eye
+  rotate: true
+  xy: 482, 1457
+  size: 21, 25
+  orig: 65, 49
+  offset: 24, 16
+  index: -1
+dragon_hellgast_child_rwing2
+  rotate: true
+  xy: 392, 577
+  size: 114, 115
+  orig: 132, 201
+  offset: 12, 86
+  index: -1
+dragon_hellgast_baby_hearttttt
+  rotate: false
+  xy: 337, 1523
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_heegast_critical_sk3
+  rotate: false
+  xy: 342, 1258
+  size: 107, 97
+  orig: 297, 297
+  offset: 95, 104
+  index: -1
+dragon_hellgast_child_lwing5
+  rotate: false
+  xy: 378, 1145
+  size: 116, 111
+  orig: 152, 201
+  offset: 16, 0
+  index: -1
+dragon_hellgast_adult_hit
+  rotate: true
+  xy: 416, 1523
+  size: 43, 29
+  orig: 43, 31
+  offset: 0, 2
+  index: -1
+dragon_hellgast_adult_lwing2
+  rotate: false
+  xy: 2, 823
+  size: 133, 163
+  orig: 165, 291
+  offset: 15, 128
+  index: -1
+dragon_hellgast_baby_mouth
+  rotate: true
+  xy: 368, 618
+  size: 45, 20
+  orig: 59, 50
+  offset: 13, 3
+  index: -1
+dragon_hellgast_baby_tail2
+  rotate: true
+  xy: 482, 1518
+  size: 33, 18
+  orig: 53, 34
+  offset: 20, 0
+  index: -1
+dragon_hellgast_adult_bodyfront
+  rotate: true
+  xy: 409, 1431
+  size: 35, 25
+  orig: 89, 53
+  offset: 1, 26
+  index: -1
+dragon_hellgast_adult_hair2
+  rotate: true
+  xy: 123, 1449
+  size: 94, 84
+  orig: 138, 104
+  offset: 9, 0
+  index: -1
+dragon_hellgast_baby_body
+  rotate: false
+  xy: 61, 1600
+  size: 76, 59
+  orig: 110, 59
+  offset: 0, 0
+  index: -1
+dragon_hellgast_adult_rwing5
+  rotate: false
+  xy: 2, 1290
+  size: 121, 153
+  orig: 165, 291
+  offset: 11, 0
+  index: -1
+dragon_hellgast_child_lwing1
+  rotate: false
+  xy: 226, 1236
+  size: 114, 109
+  orig: 152, 201
+  offset: 8, 87
+  index: -1
+dragon_hellgast_child_leg1
+  rotate: false
+  xy: 460, 274
+  size: 33, 36
+  orig: 39, 42
+  offset: 0, 0
+  index: -1

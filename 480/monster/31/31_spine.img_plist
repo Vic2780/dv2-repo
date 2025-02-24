@@ -1,0 +1,263 @@
+31_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_atreeu_groggyhead2
+  rotate: false
+  xy: 381, 2
+  size: 129, 98
+  orig: 193, 122
+  offset: 30, 15
+  index: -1
+m_atreeu_leg
+  rotate: false
+  xy: 2, 1063
+  size: 232, 100
+  orig: 248, 140
+  offset: 11, 6
+  index: -1
+m_atreeu_fire21
+  rotate: true
+  xy: 2, 302
+  size: 164, 363
+  orig: 192, 385
+  offset: 9, 9
+  index: -1
+m_atreeu_head1
+  rotate: true
+  xy: 236, 1103
+  size: 107, 78
+  orig: 135, 104
+  offset: 18, 8
+  index: -1
+m_atreeu_arm1
+  rotate: true
+  xy: 243, 866
+  size: 114, 75
+  orig: 116, 81
+  offset: 2, 3
+  index: -1
+m_atreeu_body2
+  rotate: false
+  xy: 304, 1259
+  size: 195, 93
+  orig: 207, 119
+  offset: 8, 7
+  index: -1
+m_atreeu_fire11
+  rotate: true
+  xy: 213, 1533
+  size: 101, 82
+  orig: 131, 108
+  offset: 12, 11
+  index: -1
+m_atreeu_manto
+  rotate: false
+  xy: 2, 583
+  size: 318, 175
+  orig: 336, 215
+  offset: 11, 28
+  index: -1
+m_atreeu_groggybody2
+  rotate: false
+  xy: 316, 1164
+  size: 184, 93
+  orig: 208, 99
+  offset: 17, 3
+  index: -1
+m_atreeu_neck1
+  rotate: true
+  xy: 322, 583
+  size: 96, 37
+  orig: 110, 63
+  offset: 14, 15
+  index: -1
+m_atreeu_groggyhand2
+  rotate: false
+  xy: 199, 1250
+  size: 32, 30
+  orig: 36, 44
+  offset: 2, 5
+  index: -1
+m_atreeu_groggyhead3
+  rotate: false
+  xy: 329, 1354
+  size: 172, 154
+  orig: 182, 162
+  offset: 4, 8
+  index: -1
+m_atreeu_groggyleg
+  rotate: false
+  xy: 2, 1330
+  size: 181, 58
+  orig: 209, 92
+  offset: 12, 22
+  index: -1
+m_atreeu_head2
+  rotate: false
+  xy: 329, 1510
+  size: 168, 124
+  orig: 176, 140
+  offset: 5, 8
+  index: -1
+m_atreeu_groggyarm2
+  rotate: false
+  xy: 322, 681
+  size: 34, 45
+  orig: 50, 79
+  offset: 4, 12
+  index: -1
+m_atreeu_arm2
+  rotate: false
+  xy: 361, 527
+  size: 149, 107
+  orig: 163, 107
+  offset: 14, 0
+  index: -1
+m_atreeu_body3
+  rotate: false
+  xy: 316, 1011
+  size: 193, 151
+  orig: 199, 159
+  offset: 3, 0
+  index: -1
+m_atreeu_groggybody3
+  rotate: true
+  xy: 375, 227
+  size: 171, 134
+  orig: 199, 152
+  offset: 16, 3
+  index: -1
+m_atreeu_neck2
+  rotate: true
+  xy: 199, 1282
+  size: 146, 102
+  orig: 152, 106
+  offset: 3, 0
+  index: -1
+m_atreeu_groggysword
+  rotate: true
+  xy: 2, 760
+  size: 104, 292
+  orig: 134, 316
+  offset: 18, 5
+  index: -1
+m_atreeu_groggyhead4
+  rotate: false
+  xy: 260, 1430
+  size: 67, 88
+  orig: 95, 98
+  offset: 11, 8
+  index: -1
+m_atreeu_fire23
+  rotate: true
+  xy: 2, 148
+  size: 152, 371
+  orig: 192, 385
+  offset: 22, 12
+  index: -1
+m_atreeu_head3
+  rotate: false
+  xy: 2, 1390
+  size: 172, 155
+  orig: 190, 169
+  offset: 12, 8
+  index: -1
+m_atreeu_groggyarm1
+  rotate: true
+  xy: 243, 982
+  size: 119, 71
+  orig: 119, 81
+  offset: 0, 7
+  index: -1
+m_atreeu_sword
+  rotate: true
+  xy: 2, 468
+  size: 113, 357
+  orig: 161, 379
+  offset: 23, 5
+  index: -1
+m_atreeu_fire13
+  rotate: true
+  xy: 176, 1430
+  size: 101, 82
+  orig: 131, 108
+  offset: 12, 11
+  index: -1
+m_atreeu_groggyhead1
+  rotate: false
+  xy: 2, 1547
+  size: 121, 90
+  orig: 143, 100
+  offset: 13, 5
+  index: -1
+m_atreeu_hand1
+  rotate: true
+  xy: 199, 1165
+  size: 83, 32
+  orig: 95, 52
+  offset: 4, 12
+  index: -1
+m_atreeu_head4
+  rotate: false
+  xy: 367, 400
+  size: 132, 125
+  orig: 150, 149
+  offset: 5, 18
+  index: -1
+m_atreeu_fire22
+  rotate: true
+  xy: 2, 2
+  size: 144, 377
+  orig: 192, 385
+  offset: 34, 8
+  index: -1
+m_atreeu_groggymanto
+  rotate: true
+  xy: 322, 740
+  size: 269, 185
+  orig: 281, 203
+  offset: 3, 17
+  index: -1
+m_atreeu_groggyneck2
+  rotate: false
+  xy: 361, 636
+  size: 147, 102
+  orig: 175, 106
+  offset: 7, 0
+  index: -1
+m_atreeu_headfire
+  rotate: true
+  xy: 381, 102
+  size: 123, 128
+  orig: 125, 150
+  offset: 0, 11
+  index: -1
+m_atreeu_body1
+  rotate: false
+  xy: 2, 1165
+  size: 195, 163
+  orig: 215, 203
+  offset: 14, 23
+  index: -1
+m_atreeu_groggybody1
+  rotate: true
+  xy: 2, 866
+  size: 195, 239
+  orig: 235, 263
+  offset: 22, 12
+  index: -1
+m_atreeu_fire12
+  rotate: true
+  xy: 125, 1547
+  size: 89, 86
+  orig: 131, 108
+  offset: 17, 12
+  index: -1
+m_atreeu_hand2
+  rotate: true
+  xy: 233, 1212
+  size: 51, 69
+  orig: 75, 91
+  offset: 12, 12
+  index: -1

@@ -1,0 +1,662 @@
+dragon_3011_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_blizzard_adult_body
+  rotate: false
+  xy: 1816, 121
+  size: 118, 60
+  orig: 118, 74
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_critical5
+  rotate: false
+  xy: 1816, 2
+  size: 135, 117
+  orig: 135, 117
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_mouth
+  rotate: true
+  xy: 1894, 417
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+dragon_blizzard_baby_tail
+  rotate: true
+  xy: 1928, 196
+  size: 45, 24
+  orig: 45, 24
+  offset: 0, 0
+  index: -1
+dragon_blizzard_child_body
+  rotate: true
+  xy: 1645, 153
+  size: 83, 44
+  orig: 83, 44
+  offset: 0, 0
+  index: -1
+dragon_blizzard_child_leg1
+  rotate: false
+  xy: 1691, 196
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+dragon_blizzard_adult_leg3
+  rotate: false
+  xy: 1721, 195
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+dragon_blizzard_critical4
+  rotate: true
+  xy: 878, 2
+  size: 261, 125
+  orig: 263, 125
+  offset: 0, 0
+  index: -1
+dragon_blizzard_child_effect1
+  rotate: true
+  xy: 1551, 153
+  size: 99, 37
+  orig: 99, 37
+  offset: 0, 0
+  index: -1
+sample
+  rotate: true
+  xy: 231, 2
+  size: 270, 236
+  orig: 270, 270
+  offset: 0, 15
+  index: -1
+dragon_blizzard_e_critical8
+  rotate: false
+  xy: 921, 265
+  size: 179, 187
+  orig: 179, 187
+  offset: 0, 0
+  index: -1
+dragon_blizzard_adult_tail1
+  rotate: true
+  xy: 1363, 422
+  size: 86, 59
+  orig: 86, 59
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_critical1
+  rotate: true
+  xy: 1454, 2
+  size: 149, 148
+  orig: 149, 148
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_leg1
+  rotate: true
+  xy: 697, 483
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+dragon_blizzard_baby_head1
+  rotate: false
+  xy: 1894, 323
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+dragon_blizzard_critical5b
+  rotate: false
+  xy: 1686, 2
+  size: 128, 139
+  orig: 244, 375
+  offset: 46, 169
+  index: -1
+dragon_blizzard_adult_effect2
+  rotate: false
+  xy: 1736, 240
+  size: 14, 39
+  orig: 14, 39
+  offset: 0, 0
+  index: -1
+dragon_blizzard_child_neck
+  rotate: false
+  xy: 1213, 167
+  size: 52, 94
+  orig: 52, 94
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_critical4
+  rotate: false
+  xy: 695, 2
+  size: 181, 263
+  orig: 221, 269
+  offset: 20, 3
+  index: -1
+dragon_blizzard_baby_body
+  rotate: true
+  xy: 1777, 464
+  size: 43, 55
+  orig: 43, 55
+  offset: 0, 0
+  index: -1
+dragon_blizzard_child_head1
+  rotate: false
+  xy: 1736, 394
+  size: 55, 68
+  orig: 55, 68
+  offset: 0, 0
+  index: -1
+dragon_blizzard_child_tail
+  rotate: true
+  xy: 1753, 143
+  size: 71, 58
+  orig: 71, 58
+  offset: 0, 0
+  index: -1
+dragon_blizzard_baby_mouth
+  rotate: false
+  xy: 1590, 241
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+dragon_blizzard_adult_headhit
+  rotate: false
+  xy: 1810, 256
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+dragon_blizzard_adult_head1
+  rotate: false
+  xy: 1877, 256
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+dragon_blizzard_child_mouth
+  rotate: true
+  xy: 814, 483
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+dragon_blizzard_adult_arm1
+  rotate: false
+  xy: 1860, 390
+  size: 32, 62
+  orig: 32, 62
+  offset: 0, 0
+  index: -1
+dragon_blizzard_child_arm1
+  rotate: true
+  xy: 1691, 143
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_arm3
+  rotate: false
+  xy: 1661, 238
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+dragon_blizzard_baby_arm1
+  rotate: false
+  xy: 1936, 164
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_leg3a
+  rotate: true
+  xy: 1102, 431
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_arm1a
+  rotate: true
+  xy: 1894, 379
+  size: 36, 56
+  orig: 36, 56
+  offset: 0, 0
+  index: -1
+dragon_blizzard_criticala1
+  rotate: true
+  xy: 343, 274
+  size: 236, 147
+  orig: 236, 147
+  offset: 0, 0
+  index: -1
+dragon_blizzard_adult_leg4
+  rotate: false
+  xy: 1627, 241
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+dragon_blizzard_adult_arm2
+  rotate: false
+  xy: 1524, 261
+  size: 141, 155
+  orig: 141, 155
+  offset: 0, 0
+  index: -1
+dragon_blizzard_critical2b
+  rotate: true
+  xy: 697, 267
+  size: 214, 157
+  orig: 244, 375
+  offset: 20, 11
+  index: -1
+dragon_blizzard_e_body
+  rotate: true
+  xy: 1604, 2
+  size: 149, 80
+  orig: 149, 88
+  offset: 0, 0
+  index: -1
+dragon_blizzard_critical1b
+  rotate: true
+  xy: 220, 282
+  size: 226, 121
+  orig: 244, 375
+  offset: 15, 2
+  index: -1
+dragon_blizzard_adult_headdamage
+  rotate: false
+  xy: 1793, 394
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_leg4
+  rotate: false
+  xy: 1627, 241
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+dragon_blizzard_adult_effect3
+  rotate: true
+  xy: 1834, 461
+  size: 42, 41
+  orig: 42, 43
+  offset: 0, 1
+  index: -1
+dragon_blizzard_child_leg2
+  rotate: true
+  xy: 748, 483
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+dragon_blizzard_critical3
+  rotate: true
+  xy: 469, 2
+  size: 266, 118
+  orig: 266, 118
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_effect3
+  rotate: true
+  xy: 1834, 461
+  size: 42, 41
+  orig: 42, 43
+  offset: 0, 1
+  index: -1
+dragon_blizzard_e_arm2
+  rotate: false
+  xy: 492, 270
+  size: 203, 225
+  orig: 203, 225
+  offset: 0, 0
+  index: -1
+dragon_blizzard_baby_love
+  rotate: true
+  xy: 1106, 454
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_critical7
+  rotate: true
+  xy: 2, 289
+  size: 217, 216
+  orig: 217, 216
+  offset: 0, 0
+  index: -1
+dragon_blizzard_adult_tail2
+  rotate: false
+  xy: 1590, 153
+  size: 53, 86
+  orig: 53, 86
+  offset: 0, 0
+  index: -1
+dragon_blizzard_adult_loveeffect3
+  rotate: false
+  xy: 1272, 422
+  size: 89, 88
+  orig: 89, 88
+  offset: 0, 0
+  index: -1
+dragon_blizzard_baby_head2
+  rotate: false
+  xy: 1752, 216
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+dragon_blizzard_critical4b
+  rotate: false
+  xy: 1251, 263
+  size: 114, 157
+  orig: 244, 375
+  offset: 81, 113
+  index: -1
+dragon_blizzard_child_love
+  rotate: false
+  xy: 1667, 324
+  size: 55, 68
+  orig: 55, 68
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_loveeffect3
+  rotate: false
+  xy: 1272, 422
+  size: 89, 88
+  orig: 89, 88
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_critical3
+  rotate: true
+  xy: 2, 2
+  size: 285, 126
+  orig: 301, 164
+  offset: 8, 19
+  index: -1
+dragon_blizzard_e_tail1
+  rotate: true
+  xy: 1363, 422
+  size: 86, 59
+  orig: 86, 59
+  offset: 0, 0
+  index: -1
+dragon_blizzard_adult_neck
+  rotate: true
+  xy: 1162, 431
+  size: 78, 108
+  orig: 98, 108
+  offset: 0, 0
+  index: -1
+dragon_blizzard_child_head2
+  rotate: false
+  xy: 1724, 324
+  size: 55, 68
+  orig: 55, 68
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_critical10
+  rotate: false
+  xy: 1297, 2
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+dragon_blizzard_adult_arm3
+  rotate: false
+  xy: 1661, 238
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+dragon_blizzard_critical2
+  rotate: true
+  xy: 589, 2
+  size: 266, 104
+  orig: 268, 104
+  offset: 2, 0
+  index: -1
+dragon_blizzard_adult_love
+  rotate: false
+  xy: 1667, 257
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+dragon_blizzard_adult_head2
+  rotate: false
+  xy: 1827, 323
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_effect2
+  rotate: false
+  xy: 1736, 240
+  size: 14, 39
+  orig: 14, 39
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_love
+  rotate: false
+  xy: 1005, 173
+  size: 102, 90
+  orig: 132, 90
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_arm1
+  rotate: false
+  xy: 1860, 390
+  size: 32, 62
+  orig: 32, 62
+  offset: 0, 0
+  index: -1
+dragon_blizzard_child_arm2
+  rotate: true
+  xy: 1734, 281
+  size: 41, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_critical6
+  rotate: true
+  xy: 1005, 2
+  size: 169, 146
+  orig: 169, 146
+  offset: 0, 0
+  index: -1
+dragon_blizzard_adult_loveeffect2
+  rotate: false
+  xy: 857, 457
+  size: 92, 53
+  orig: 92, 53
+  offset: 0, 0
+  index: -1
+dragon_blizzard_criticalq2
+  rotate: true
+  xy: 951, 454
+  size: 56, 153
+  orig: 56, 153
+  offset: 0, 0
+  index: -1
+dragon_blizzard_adult_leg1
+  rotate: true
+  xy: 697, 483
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_headdamage
+  rotate: false
+  xy: 1424, 418
+  size: 102, 90
+  orig: 132, 90
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_loveeffect2
+  rotate: false
+  xy: 857, 457
+  size: 92, 53
+  orig: 92, 53
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_critical2
+  rotate: false
+  xy: 1267, 167
+  size: 141, 92
+  orig: 141, 92
+  offset: 0, 0
+  index: -1
+dragon_blizzard_critical6b
+  rotate: false
+  xy: 1153, 2
+  size: 142, 163
+  orig: 244, 375
+  offset: 11, 198
+  index: -1
+dragon_blizzard_e_tail2
+  rotate: true
+  xy: 1813, 183
+  size: 71, 113
+  orig: 75, 115
+  offset: 4, 0
+  index: -1
+dragon_blizzard_adult_leg2
+  rotate: true
+  xy: 837, 483
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_head1
+  rotate: false
+  xy: 1632, 418
+  size: 102, 90
+  orig: 132, 90
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_leg3
+  rotate: false
+  xy: 1721, 195
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+dragon_blizzard_child_effect2
+  rotate: true
+  xy: 1781, 324
+  size: 68, 44
+  orig: 68, 44
+  offset: 0, 0
+  index: -1
+dragon_blizzard_baby_arm2
+  rotate: false
+  xy: 1936, 121
+  size: 17, 41
+  orig: 17, 41
+  offset: 0, 0
+  index: -1
+dragon_blizzard_adult_mouth
+  rotate: true
+  xy: 788, 483
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_neck
+  rotate: true
+  xy: 1410, 159
+  size: 100, 139
+  orig: 118, 139
+  offset: 0, 0
+  index: -1
+dragon_blizzard_adult_effect1
+  rotate: true
+  xy: 492, 497
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_effect1
+  rotate: true
+  xy: 492, 497
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_loveeffect1
+  rotate: false
+  xy: 1877, 454
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_critical9
+  rotate: false
+  xy: 1367, 261
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+dragon_blizzard_critical3b
+  rotate: true
+  xy: 1102, 265
+  size: 164, 147
+  orig: 244, 375
+  offset: 21, 63
+  index: -1
+dragon_blizzard_adult_loveeffect1
+  rotate: false
+  xy: 1877, 454
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+dragon_love_effect_heart
+  rotate: true
+  xy: 1736, 464
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_head2
+  rotate: false
+  xy: 1528, 418
+  size: 102, 90
+  orig: 132, 90
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_leg2
+  rotate: true
+  xy: 837, 483
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+dragon_blizzard_criticalq1
+  rotate: false
+  xy: 856, 267
+  size: 63, 188
+  orig: 63, 188
+  offset: 0, 0
+  index: -1
+dragon_blizzard_e_headhit
+  rotate: false
+  xy: 1109, 173
+  size: 102, 90
+  orig: 132, 90
+  offset: 0, 0
+  index: -1
+dragon_blizzard_critical1
+  rotate: true
+  xy: 130, 2
+  size: 278, 99
+  orig: 278, 99
+  offset: 0, 0
+  index: -1

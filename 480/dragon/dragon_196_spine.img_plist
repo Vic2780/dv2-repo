@@ -1,0 +1,571 @@
+dragon_196_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_ilios_adult_arm3fire01
+  rotate: false
+  xy: 469, 2
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+dragon_ilios_critical03
+  rotate: false
+  xy: 2, 1146
+  size: 211, 129
+  orig: 219, 129
+  offset: 8, 0
+  index: -1
+dragon_ilios_child_head
+  rotate: false
+  xy: 363, 665
+  size: 59, 89
+  orig: 59, 89
+  offset: 0, 0
+  index: -1
+dragon_ilios_child_tailfire02
+  rotate: false
+  xy: 391, 1003
+  size: 44, 64
+  orig: 44, 64
+  offset: 0, 0
+  index: -1
+dragon_ilios_adult_mouth
+  rotate: true
+  xy: 484, 1042
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+dragon_ilios_baby_leg
+  rotate: false
+  xy: 493, 748
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+dragon_ilios_baby_tail
+  rotate: true
+  xy: 469, 664
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+dragon_ilios_adult_arm2fire02
+  rotate: true
+  xy: 281, 490
+  size: 135, 84
+  orig: 135, 84
+  offset: 0, 0
+  index: -1
+dragon_ilios_adult_bodyfire03
+  rotate: true
+  xy: 318, 1279
+  size: 95, 80
+  orig: 95, 80
+  offset: 0, 0
+  index: -1
+dragon_ilios_baby_arm
+  rotate: false
+  xy: 437, 1103
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+dragon_ilios_child_arm2
+  rotate: false
+  xy: 469, 69
+  size: 34, 64
+  orig: 34, 64
+  offset: 0, 0
+  index: -1
+dragon_ilios_baby_armfire03
+  rotate: false
+  xy: 469, 248
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+dragon_ilios_adult_leg4
+  rotate: true
+  xy: 469, 135
+  size: 63, 20
+  orig: 63, 20
+  offset: 0, 0
+  index: -1
+dragon_ilios_adult_tailfire02
+  rotate: false
+  xy: 460, 516
+  size: 49, 62
+  orig: 49, 62
+  offset: 0, 0
+  index: -1
+dragon_ilios_adult_arm1fire01
+  rotate: false
+  xy: 281, 1007
+  size: 108, 110
+  orig: 108, 110
+  offset: 0, 0
+  index: -1
+dragon_ilios_child_tail
+  rotate: true
+  xy: 299, 1222
+  size: 55, 100
+  orig: 55, 100
+  offset: 0, 0
+  index: -1
+dragon_ilios_baby_mouth
+  rotate: true
+  xy: 484, 1079
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+dragon_ilios_child_leg2
+  rotate: false
+  xy: 469, 693
+  size: 37, 53
+  orig: 37, 53
+  offset: 0, 0
+  index: -1
+dragon_ilios_critical02
+  rotate: false
+  xy: 2, 1277
+  size: 201, 123
+  orig: 219, 129
+  offset: 0, 0
+  index: -1
+dragon_ilios_adult_tail
+  rotate: true
+  xy: 420, 289
+  size: 164, 89
+  orig: 164, 89
+  offset: 0, 0
+  index: -1
+dragon_ilios_child_love
+  rotate: true
+  xy: 420, 455
+  size: 59, 89
+  orig: 59, 89
+  offset: 0, 0
+  index: -1
+dragon_ilios_adult_arm1
+  rotate: false
+  xy: 424, 665
+  size: 43, 81
+  orig: 43, 81
+  offset: 0, 0
+  index: -1
+dragon_ilios_baby_tailfire01
+  rotate: false
+  xy: 473, 1180
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+dragon_ilios_adult_love
+  rotate: false
+  xy: 363, 756
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+dragon_ilios_child_arm1fire01
+  rotate: true
+  xy: 232, 1408
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+dragon_ilios_adult_bodyfire02
+  rotate: false
+  xy: 367, 516
+  size: 91, 83
+  orig: 101, 83
+  offset: 0, 0
+  index: -1
+dragon_ilios_baby_armfire02
+  rotate: false
+  xy: 433, 1182
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+dragon_ilios_baby_eye
+  rotate: false
+  xy: 416, 1421
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+dragon_ilios_critical07
+  rotate: false
+  xy: 2, 736
+  size: 277, 242
+  orig: 287, 248
+  offset: 1, 6
+  index: -1
+dragon_ilios_child_mouth
+  rotate: false
+  xy: 473, 1107
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+dragon_ilios_adult_tailfire01
+  rotate: false
+  xy: 401, 1222
+  size: 43, 59
+  orig: 43, 59
+  offset: 0, 0
+  index: -1
+dragon_ilios_adult_damaged
+  rotate: false
+  xy: 450, 937
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+dragon_ilios_child_eye
+  rotate: false
+  xy: 438, 1398
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+dragon_ilios_adult_arm2
+  rotate: true
+  xy: 384, 1121
+  size: 62, 43
+  orig: 62, 43
+  offset: 0, 0
+  index: -1
+dragon_ilios_baby_tailfire02
+  rotate: false
+  xy: 473, 1147
+  size: 26, 31
+  orig: 26, 35
+  offset: 0, 4
+  index: -1
+dragon_ilios_adult_bodyfire01
+  rotate: true
+  xy: 299, 1119
+  size: 101, 83
+  orig: 101, 83
+  offset: 0, 0
+  index: -1
+dragon_ilios_baby_armfire01
+  rotate: false
+  xy: 376, 1407
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+dragon_ilios_adult_smile
+  rotate: false
+  xy: 391, 880
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_ilios_child_arm2fire03
+  rotate: true
+  xy: 290, 1408
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+dragon_ilios_baby_body
+  rotate: true
+  xy: 461, 580
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+dragon_ilios_adult_arm3fire03
+  rotate: false
+  xy: 400, 1344
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+dragon_ilios_child_leg3
+  rotate: true
+  xy: 384, 1185
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+dragon_ilios_critical05
+  rotate: true
+  xy: 289, 2
+  size: 285, 178
+  orig: 287, 248
+  offset: 1, 7
+  index: -1
+dragon_ilios_adult_leg1
+  rotate: true
+  xy: 424, 748
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+dragon_ilios_critical06
+  rotate: false
+  xy: 2, 246
+  size: 285, 242
+  orig: 287, 248
+  offset: 1, 5
+  index: -1
+dragon_ilios_child_tailfire01
+  rotate: false
+  xy: 429, 1121
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+dragon_ilios_adult_arm2fire01
+  rotate: true
+  xy: 215, 1146
+  size: 131, 82
+  orig: 131, 82
+  offset: 0, 0
+  index: -1
+dragon_ilios_critical01
+  rotate: true
+  xy: 289, 289
+  size: 193, 129
+  orig: 219, 129
+  offset: 8, 0
+  index: -1
+dragon_ilios_child_note1
+  rotate: true
+  xy: 367, 484
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_ilios_adult_arm3fire02
+  rotate: false
+  xy: 447, 1322
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+dragon_ilios_child_arm2fire02
+  rotate: false
+  xy: 400, 1283
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+dragon_ilios_critical04
+  rotate: false
+  xy: 2, 980
+  size: 277, 164
+  orig: 287, 248
+  offset: 9, 4
+  index: -1
+dragon_ilios_adult_leg2
+  rotate: false
+  xy: 318, 1376
+  size: 64, 29
+  orig: 64, 29
+  offset: 0, 0
+  index: -1
+dragon_ilios_adult_arm3
+  rotate: true
+  xy: 446, 1222
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+dragon_ilios_adult_attack
+  rotate: true
+  xy: 391, 942
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+dragon_ilios_baby_tailfire03
+  rotate: false
+  xy: 416, 1388
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+dragon_ilios_adult_body
+  rotate: false
+  xy: 281, 760
+  size: 73, 130
+  orig: 73, 130
+  offset: 0, 0
+  index: -1
+dragon_ilios_child_arm1fire03
+  rotate: false
+  xy: 437, 1042
+  size: 45, 59
+  orig: 47, 59
+  offset: 2, 0
+  index: -1
+dragon_ilios_adult_eye
+  rotate: true
+  xy: 407, 484
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+dragon_ilios_child_leg4
+  rotate: false
+  xy: 446, 1274
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+dragon_ilios_baby_heart
+  rotate: true
+  xy: 469, 200
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_ilios_baby_head
+  rotate: false
+  xy: 412, 813
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1
+dragon_ilios_adult_arm1fire03
+  rotate: true
+  xy: 281, 892
+  size: 113, 108
+  orig: 113, 108
+  offset: 0, 0
+  index: -1
+dragon_ilios_critical09
+  rotate: false
+  xy: 2, 490
+  size: 277, 244
+  orig: 287, 248
+  offset: 0, 4
+  index: -1
+dragon_ilios_baby_love
+  rotate: false
+  xy: 356, 813
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1
+dragon_ilios_child_arm1
+  rotate: false
+  xy: 347, 1407
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+dragon_ilios_adult_neck
+  rotate: false
+  xy: 2, 1402
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+dragon_ilios_child_tailfire03
+  rotate: true
+  xy: 448, 994
+  size: 46, 61
+  orig: 46, 61
+  offset: 0, 0
+  index: -1
+dragon_ilios_child_body
+  rotate: true
+  xy: 367, 601
+  size: 62, 92
+  orig: 62, 92
+  offset: 0, 0
+  index: -1
+dragon_ilios_adult_arm4
+  rotate: true
+  xy: 391, 1069
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+dragon_ilios_child_note2
+  rotate: true
+  xy: 447, 1361
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_ilios_child_arm1fire02
+  rotate: false
+  xy: 116, 1402
+  size: 47, 53
+  orig: 47, 57
+  offset: 0, 0
+  index: -1
+dragon_ilios_adult_head
+  rotate: false
+  xy: 450, 880
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+dragon_ilios_child_arm2fire01
+  rotate: false
+  xy: 67, 1402
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+dragon_ilios_adult_arm2fire03
+  rotate: true
+  xy: 281, 627
+  size: 131, 80
+  orig: 131, 80
+  offset: 0, 0
+  index: -1
+dragon_ilios_child_leg1
+  rotate: true
+  xy: 461, 627
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+dragon_ilios_child_neck
+  rotate: false
+  xy: 468, 809
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+dragon_ilios_adult_tailfire03
+  rotate: true
+  xy: 165, 1408
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+dragon_ilios_adult_arm1fire02
+  rotate: false
+  xy: 205, 1279
+  size: 111, 127
+  orig: 111, 127
+  offset: 0, 0
+  index: -1
+dragon_ilios_adult_leg3
+  rotate: true
+  xy: 469, 38
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+dragon_ilios_critical08
+  rotate: false
+  xy: 2, 2
+  size: 285, 242
+  orig: 287, 248
+  offset: 0, 5
+  index: -1

@@ -1,0 +1,627 @@
+dragon_180_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_bunnesce_child_fire1
+  rotate: false
+  xy: 1520, 525
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_child_leg2
+  rotate: false
+  xy: 1999, 51
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_ecri_cri7b
+  rotate: true
+  xy: 891, 485
+  size: 65, 107
+  orig: 65, 107
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_baby_leg
+  rotate: false
+  xy: 1525, 207
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_child_head
+  rotate: true
+  xy: 1144, 509
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_critical03
+  rotate: false
+  xy: 294, 357
+  size: 246, 59
+  orig: 248, 59
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_e_head_p
+  rotate: false
+  xy: 1292, 343
+  size: 74, 56
+  orig: 74, 56
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_adult_tail1
+  rotate: false
+  xy: 1088, 378
+  size: 75, 98
+  orig: 75, 98
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_adult_head
+  rotate: true
+  xy: 1165, 419
+  size: 67, 52
+  orig: 67, 52
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_child_tail
+  rotate: true
+  xy: 1166, 337
+  size: 80, 47
+  orig: 80, 47
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_adult_leg1
+  rotate: true
+  xy: 406, 531
+  size: 32, 65
+  orig: 32, 65
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_e_tail_p1
+  rotate: false
+  xy: 1413, 451
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_ecri_e_ee2
+  rotate: false
+  xy: 2, 351
+  size: 253, 210
+  orig: 253, 210
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_ecri_e_tw
+  rotate: false
+  xy: 2, 2
+  size: 311, 347
+  orig: 311, 349
+  offset: 0, 1
+  index: -1
+dragon_bunnesce_baby_head
+  rotate: false
+  xy: 1411, 390
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_child_eye
+  rotate: false
+  xy: 1392, 524
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_ecri_e_smo2
+  rotate: false
+  xy: 1872, 2
+  size: 125, 208
+  orig: 125, 208
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_adult_arm2
+  rotate: true
+  xy: 1557, 525
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_adult_heart
+  rotate: false
+  xy: 1344, 524
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_child_mouth
+  rotate: false
+  xy: 1175, 488
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_ecri_cri7a
+  rotate: true
+  xy: 1368, 343
+  size: 45, 82
+  orig: 45, 84
+  offset: 0, 2
+  index: -1
+dragon_bunnesce_adult_wing2
+  rotate: false
+  xy: 897, 378
+  size: 189, 105
+  orig: 189, 105
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_e_critical_e_smo0
+  rotate: false
+  xy: 1711, 491
+  size: 165, 72
+  orig: 165, 72
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_ecri_e_ring1
+  rotate: false
+  xy: 1217, 299
+  size: 266, 42
+  orig: 266, 42
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_baby_ear
+  rotate: false
+  xy: 569, 531
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_child_arm1
+  rotate: true
+  xy: 639, 533
+  size: 23, 47
+  orig: 23, 47
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_ecri_cri6c
+  rotate: false
+  xy: 1219, 401
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_adult_neck
+  rotate: true
+  xy: 1898, 435
+  size: 54, 67
+  orig: 54, 67
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_adult_fire3
+  rotate: true
+  xy: 542, 357
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_e_leg_p
+  rotate: true
+  xy: 473, 531
+  size: 32, 60
+  orig: 32, 60
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_e_tail_p2
+  rotate: true
+  xy: 1999, 133
+  size: 62, 23
+  orig: 62, 23
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_ecri_e_ee1
+  rotate: true
+  xy: 1547, 2
+  size: 241, 323
+  orig: 249, 323
+  offset: 8, 0
+  index: -1
+dragon_bunnesce_critical04
+  rotate: true
+  xy: 766, 2
+  size: 206, 449
+  orig: 206, 449
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_child_fire3
+  rotate: false
+  xy: 535, 531
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_e_wing_p
+  rotate: true
+  xy: 294, 418
+  size: 145, 110
+  orig: 145, 110
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_baby_love
+  rotate: false
+  xy: 1352, 463
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_e_wing2
+  rotate: true
+  xy: 1711, 300
+  size: 189, 105
+  orig: 189, 105
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_ecri_cri6b
+  rotate: false
+  xy: 1878, 491
+  size: 55, 71
+  orig: 55, 71
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_ecri_smo000
+  rotate: false
+  xy: 1217, 2
+  size: 328, 203
+  orig: 334, 209
+  offset: 6, 0
+  index: -1
+dragon_bunnesce_adult_fire2
+  rotate: false
+  xy: 1278, 509
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_child_wing2
+  rotate: false
+  xy: 1000, 485
+  size: 75, 56
+  orig: 75, 56
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_adult_arm3
+  rotate: false
+  xy: 1595, 525
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_e_critical_e_smo00
+  rotate: true
+  xy: 788, 368
+  size: 105, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_critical06
+  rotate: false
+  xy: 916, 210
+  size: 299, 125
+  orig: 311, 149
+  offset: 11, 13
+  index: -1
+dragon_bunnesce_adult_leg2
+  rotate: false
+  xy: 596, 533
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_child_twinkling1
+  rotate: true
+  xy: 1485, 300
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_e_body_p
+  rotate: false
+  xy: 708, 476
+  size: 80, 57
+  orig: 80, 57
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_critical01
+  rotate: false
+  xy: 916, 337
+  size: 248, 39
+  orig: 248, 59
+  offset: 0, 14
+  index: -1
+dragon_bunnesce_adult_dameged
+  rotate: false
+  xy: 1283, 401
+  size: 67, 52
+  orig: 67, 52
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_e_arm_p
+  rotate: false
+  xy: 1456, 451
+  size: 27, 55
+  orig: 27, 55
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_child_arm2
+  rotate: true
+  xy: 1872, 212
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_child_fire2
+  rotate: false
+  xy: 1452, 343
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_adult_eye
+  rotate: false
+  xy: 1967, 478
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_adult_tail2
+  rotate: false
+  xy: 790, 475
+  size: 99, 42
+  orig: 99, 42
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_ecri_cri4
+  rotate: true
+  xy: 257, 351
+  size: 212, 35
+  orig: 212, 35
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_critical05
+  rotate: true
+  xy: 315, 2
+  size: 206, 449
+  orig: 206, 449
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_ecri_cri6a
+  rotate: true
+  xy: 1967, 428
+  size: 48, 58
+  orig: 48, 58
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_adult_attack
+  rotate: false
+  xy: 1283, 455
+  size: 67, 52
+  orig: 67, 52
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_child_love
+  rotate: true
+  xy: 1077, 509
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_adult_ear
+  rotate: true
+  xy: 1989, 478
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_adult_wing1
+  rotate: true
+  xy: 1818, 245
+  size: 188, 105
+  orig: 188, 105
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_adult_body
+  rotate: false
+  xy: 598, 476
+  size: 108, 55
+  orig: 108, 55
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_baby_eye
+  rotate: false
+  xy: 1637, 525
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_adult_mouth
+  rotate: false
+  xy: 1047, 543
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_critical07
+  rotate: false
+  xy: 315, 210
+  size: 307, 145
+  orig: 311, 149
+  offset: 0, 4
+  index: -1
+dragon_bunnesce_child_leg1
+  rotate: true
+  xy: 1471, 525
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_ecri_e_ring2
+  rotate: false
+  xy: 1217, 207
+  size: 306, 90
+  orig: 306, 90
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_adult_leg3
+  rotate: true
+  xy: 1000, 543
+  size: 20, 45
+  orig: 20, 45
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_child_neck
+  rotate: true
+  xy: 1413, 508
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_ecri_e_smo00
+  rotate: false
+  xy: 624, 210
+  size: 290, 156
+  orig: 290, 166
+  offset: 0, 9
+  index: -1
+dragon_bunnesce_critical02
+  rotate: false
+  xy: 1525, 245
+  size: 244, 53
+  orig: 248, 59
+  offset: 0, 6
+  index: -1
+dragon_bunnesce_ecri_e_smo1
+  rotate: true
+  xy: 406, 418
+  size: 111, 190
+  orig: 113, 216
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_baby_tail
+  rotate: false
+  xy: 1999, 2
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_adult_arm1
+  rotate: true
+  xy: 1219, 465
+  size: 33, 62
+  orig: 33, 62
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_child_body
+  rotate: false
+  xy: 1818, 435
+  size: 78, 54
+  orig: 78, 54
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_child_twinkling2
+  rotate: true
+  xy: 1925, 212
+  size: 99, 100
+  orig: 225, 224
+  offset: 63, 64
+  index: -1
+dragon_bunnesce_ecri_cri7c
+  rotate: false
+  xy: 1925, 313
+  size: 94, 113
+  orig: 94, 113
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_child_ear
+  rotate: false
+  xy: 1999, 96
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_e_neck_p
+  rotate: false
+  xy: 1989, 525
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_adult_love
+  rotate: true
+  xy: 1935, 491
+  size: 67, 52
+  orig: 67, 52
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_e_wing1
+  rotate: false
+  xy: 598, 368
+  size: 188, 106
+  orig: 188, 106
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_baby_arm
+  rotate: true
+  xy: 1132, 488
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_baby_mouth
+  rotate: false
+  xy: 1197, 488
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_baby_smile
+  rotate: false
+  xy: 1352, 401
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_adult_fire1
+  rotate: false
+  xy: 1211, 500
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_child_wing1
+  rotate: false
+  xy: 1215, 343
+  size: 75, 56
+  orig: 75, 56
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_adult_leg4
+  rotate: false
+  xy: 1088, 478
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_baby_body
+  rotate: true
+  xy: 1771, 245
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+dragon_bunnesce_e_tail2
+  rotate: false
+  xy: 790, 519
+  size: 98, 42
+  orig: 98, 42
+  offset: 0, 0
+  index: -1

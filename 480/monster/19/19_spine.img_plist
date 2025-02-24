@@ -1,0 +1,172 @@
+19_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_pagan_groggy_hand
+  rotate: true
+  xy: 1160, 226
+  size: 22, 54
+  orig: 58, 56
+  offset: 12, 0
+  index: -1
+m_pagan_groggy_wing
+  rotate: true
+  xy: 539, 2
+  size: 112, 264
+  orig: 128, 268
+  offset: 0, 0
+  index: -1
+m_pagan_body
+  rotate: false
+  xy: 2, 2
+  size: 265, 250
+  orig: 265, 250
+  offset: 0, 0
+  index: -1
+m_pagan_acef
+  rotate: false
+  xy: 608, 206
+  size: 103, 48
+  orig: 107, 48
+  offset: 0, 0
+  index: -1
+m_pagan_arm2
+  rotate: true
+  xy: 1245, 178
+  size: 64, 86
+  orig: 64, 86
+  offset: 0, 0
+  index: -1
+m_pagan_groggy_head
+  rotate: false
+  xy: 1253, 2
+  size: 132, 131
+  orig: 148, 211
+  offset: 13, 27
+  index: -1
+m_pagan_eyegf
+  rotate: false
+  xy: 1253, 135
+  size: 92, 41
+  orig: 148, 211
+  offset: 29, 51
+  index: -1
+m_pagan_ef2
+  rotate: false
+  xy: 411, 132
+  size: 195, 99
+  orig: 195, 101
+  offset: 0, 2
+  index: -1
+m_pagan_eye
+  rotate: false
+  xy: 411, 233
+  size: 80, 21
+  orig: 148, 211
+  offset: 35, 60
+  index: -1
+m_pagan_groggy_body
+  rotate: false
+  xy: 805, 2
+  size: 233, 158
+  orig: 265, 250
+  offset: 2, 0
+  index: -1
+m_pagan_ring
+  rotate: false
+  xy: 774, 116
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+m_pagan_groggy_hand2
+  rotate: true
+  xy: 493, 233
+  size: 19, 23
+  orig: 65, 47
+  offset: 11, 2
+  index: -1
+m_pagan_hand
+  rotate: false
+  xy: 713, 206
+  size: 58, 38
+  orig: 58, 56
+  offset: 0, 18
+  index: -1
+m_pagan_hand2
+  rotate: false
+  xy: 1333, 207
+  size: 65, 47
+  orig: 65, 47
+  offset: 0, 0
+  index: -1
+m_pagan_groggy_tail2
+  rotate: false
+  xy: 1160, 152
+  size: 83, 72
+  orig: 113, 86
+  offset: 0, 6
+  index: -1
+m_pagan_ef1
+  rotate: true
+  xy: 269, 132
+  size: 122, 140
+  orig: 122, 140
+  offset: 0, 0
+  index: -1
+m_pagan_ac
+  rotate: false
+  xy: 1347, 135
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+m_pagan_tail2
+  rotate: false
+  xy: 930, 162
+  size: 113, 86
+  orig: 113, 86
+  offset: 0, 0
+  index: -1
+m_pagan_wing
+  rotate: true
+  xy: 269, 2
+  size: 128, 268
+  orig: 128, 268
+  offset: 0, 0
+  index: -1
+m_pagan_tail1
+  rotate: true
+  xy: 1045, 152
+  size: 101, 113
+  orig: 101, 113
+  offset: 0, 0
+  index: -1
+m_pagan_groggy2_hand
+  rotate: true
+  xy: 539, 116
+  size: 14, 56
+  orig: 14, 56
+  offset: 0, 0
+  index: -1
+m_pagan_head
+  rotate: true
+  xy: 1040, 2
+  size: 148, 211
+  orig: 148, 211
+  offset: 0, 0
+  index: -1
+m_pagan_groggy_arm1
+  rotate: true
+  xy: 774, 162
+  size: 88, 154
+  orig: 92, 164
+  offset: 0, 4
+  index: -1
+m_pagan_arm1
+  rotate: true
+  xy: 608, 116
+  size: 88, 164
+  orig: 92, 164
+  offset: 0, 0
+  index: -1

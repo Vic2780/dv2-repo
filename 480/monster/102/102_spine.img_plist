@@ -1,0 +1,221 @@
+102_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_iron_golem_head1
+  rotate: false
+  xy: 2, 2
+  size: 306, 245
+  orig: 306, 245
+  offset: 0, 0
+  index: -1
+m_iron_golem_groggyfinger2
+  rotate: false
+  xy: 502, 199
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+m_iron_golem_hand2
+  rotate: false
+  xy: 757, 2
+  size: 82, 166
+  orig: 82, 166
+  offset: 0, 0
+  index: -1
+m_iron_golem_leg1
+  rotate: true
+  xy: 420, 199
+  size: 47, 80
+  orig: 47, 80
+  offset: 0, 0
+  index: -1
+m_iron_golem_groggyhead3
+  rotate: false
+  xy: 941, 169
+  size: 60, 73
+  orig: 60, 73
+  offset: 0, 0
+  index: -1
+m_iron_golem_groggyhead21
+  rotate: false
+  xy: 844, 169
+  size: 95, 76
+  orig: 95, 76
+  offset: 0, 0
+  index: -1
+m_iron_golem_groggyhand2
+  rotate: true
+  xy: 706, 199
+  size: 33, 76
+  orig: 33, 76
+  offset: 0, 0
+  index: -1
+m_iron_golem_finger3
+  rotate: false
+  xy: 1003, 157
+  size: 71, 88
+  orig: 71, 88
+  offset: 0, 0
+  index: -1
+m_iron_golem_groggyfinger3
+  rotate: true
+  xy: 645, 199
+  size: 39, 59
+  orig: 39, 59
+  offset: 0, 0
+  index: -1
+m_iron_golem_hand3
+  rotate: false
+  xy: 310, 2
+  size: 108, 232
+  orig: 108, 232
+  offset: 0, 0
+  index: -1
+m_iron_golem_groggyleg1
+  rotate: true
+  xy: 1558, 59
+  size: 30, 63
+  orig: 30, 63
+  offset: 0, 0
+  index: -1
+m_iron_golem_groggyhand1
+  rotate: true
+  xy: 757, 170
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+m_iron_golem_finger4
+  rotate: true
+  xy: 1339, 2
+  size: 136, 97
+  orig: 136, 97
+  offset: 0, 0
+  index: -1
+m_iron_golem_hair1
+  rotate: false
+  xy: 529, 199
+  size: 78, 41
+  orig: 78, 41
+  offset: 0, 0
+  index: -1
+m_iron_golem_groggyfinger4
+  rotate: true
+  xy: 1602, 145
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+m_iron_golem_head3
+  rotate: false
+  xy: 420, 2
+  size: 335, 195
+  orig: 335, 195
+  offset: 0, 0
+  index: -1
+m_iron_golem_groggyleg2
+  rotate: false
+  xy: 1558, 91
+  size: 62, 52
+  orig: 62, 52
+  offset: 0, 0
+  index: -1
+m_iron_golem_groggyhead1
+  rotate: false
+  xy: 985, 2
+  size: 248, 153
+  orig: 248, 153
+  offset: 0, 0
+  index: -1
+m_iron_golem_arm1
+  rotate: false
+  xy: 1226, 157
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+m_iron_golem_finger5
+  rotate: false
+  xy: 1286, 145
+  size: 135, 101
+  orig: 135, 101
+  offset: 0, 0
+  index: -1
+m_iron_golem_finger1
+  rotate: false
+  xy: 1438, 2
+  size: 118, 120
+  orig: 118, 120
+  offset: 0, 0
+  index: -1
+m_iron_golem_head22
+  rotate: false
+  xy: 841, 2
+  size: 142, 165
+  orig: 142, 165
+  offset: 0, 0
+  index: -1
+m_iron_golem_hair2
+  rotate: true
+  xy: 1551, 145
+  size: 95, 49
+  orig: 95, 49
+  offset: 0, 0
+  index: -1
+m_iron_golem_hand1
+  rotate: true
+  xy: 1235, 2
+  size: 141, 102
+  orig: 141, 102
+  offset: 0, 0
+  index: -1
+m_iron_golem_groggyfinger1
+  rotate: false
+  xy: 1076, 157
+  size: 27, 83
+  orig: 27, 83
+  offset: 0, 0
+  index: -1
+m_iron_golem_head4
+  rotate: true
+  xy: 609, 199
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+m_iron_golem_leg2
+  rotate: false
+  xy: 1105, 157
+  size: 119, 80
+  orig: 119, 80
+  offset: 0, 0
+  index: -1
+m_iron_golem_groggyhand3
+  rotate: false
+  xy: 1496, 124
+  size: 53, 118
+  orig: 53, 118
+  offset: 0, 0
+  index: -1
+m_iron_golem_head21
+  rotate: true
+  xy: 1423, 140
+  size: 96, 71
+  orig: 96, 71
+  offset: 0, 0
+  index: -1
+m_iron_golem_finger2
+  rotate: false
+  xy: 784, 170
+  size: 58, 77
+  orig: 58, 77
+  offset: 0, 0
+  index: -1
+m_iron_golem_hair3
+  rotate: false
+  xy: 1558, 2
+  size: 68, 55
+  orig: 68, 55
+  offset: 0, 0
+  index: -1

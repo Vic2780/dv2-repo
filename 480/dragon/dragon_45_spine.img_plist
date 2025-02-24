@@ -1,0 +1,508 @@
+dragon_45_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_mummy_baby_wing
+  rotate: false
+  xy: 1940, 399
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+dragon_mummy_adult_body1
+  rotate: false
+  xy: 1055, 414
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1
+dragon_mummy_critical01
+  rotate: true
+  xy: 1135, 271
+  size: 204, 190
+  orig: 206, 190
+  offset: 2, 0
+  index: -1
+dragon_mummy_adult_eye4
+  rotate: true
+  xy: 2030, 191
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+dragon_mummy_baby_head
+  rotate: true
+  xy: 1987, 2
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+dragon_mummy_adult_r_leg1c
+  rotate: false
+  xy: 182, 447
+  size: 41, 18
+  orig: 41, 18
+  offset: 0, 0
+  index: -1
+dragon_mummy_baby_note1
+  rotate: true
+  xy: 1885, 441
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_mummy_adult_l_leg2a
+  rotate: true
+  xy: 1715, 389
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+dragon_mummy_critical06
+  rotate: false
+  xy: 2, 2
+  size: 387, 443
+  orig: 389, 443
+  offset: 1, 0
+  index: -1
+dragon_mummy_adult_l_leg1c
+  rotate: false
+  xy: 1599, 439
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+dragon_mummy_child_eye3
+  rotate: false
+  xy: 1621, 303
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+dragon_mummy_child_leg1
+  rotate: true
+  xy: 572, 440
+  size: 30, 68
+  orig: 30, 70
+  offset: 0, 0
+  index: -1
+dragon_mummy_child_wing1
+  rotate: false
+  xy: 1327, 419
+  size: 79, 56
+  orig: 79, 56
+  offset: 0, 0
+  index: -1
+dragon_mummy_adult_r_leg2a
+  rotate: true
+  xy: 1658, 438
+  size: 37, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+dragon_mummy_baby_chin
+  rotate: true
+  xy: 673, 440
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+dragon_mummy_critical02
+  rotate: false
+  xy: 1669, 2
+  size: 216, 196
+  orig: 220, 198
+  offset: 4, 1
+  index: -1
+dragon_mummy_child_haed
+  rotate: false
+  xy: 1519, 377
+  size: 78, 70
+  orig: 78, 70
+  offset: 0, 0
+  index: -1
+dragon_mummy_adult_chin
+  rotate: false
+  xy: 285, 447
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+dragon_mummy_adult_l_leg2b
+  rotate: false
+  xy: 744, 440
+  size: 22, 19
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+dragon_mummy_adult_eye5
+  rotate: true
+  xy: 2030, 209
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+dragon_mummy_adult_head
+  rotate: false
+  xy: 1987, 133
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+dragon_mummy_child_leg2
+  rotate: false
+  xy: 1987, 191
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+dragon_mummy_adult_tailc
+  rotate: true
+  xy: 461, 440
+  size: 31, 74
+  orig: 31, 74
+  offset: 0, 0
+  index: -1
+dragon_mummy_child_tail
+  rotate: true
+  xy: 1560, 262
+  size: 113, 59
+  orig: 113, 65
+  offset: 0, 0
+  index: -1
+dragon_mummy_child_body
+  rotate: true
+  xy: 1439, 376
+  size: 99, 78
+  orig: 99, 78
+  offset: 0, 0
+  index: -1
+dragon_mummy_critical07
+  rotate: false
+  xy: 391, 2
+  size: 375, 436
+  orig: 375, 440
+  offset: 0, 0
+  index: -1
+dragon_mummy_baby_leg2
+  rotate: false
+  xy: 1519, 449
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+dragon_mummy_adult_r_leg1a
+  rotate: true
+  xy: 1828, 389
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+dragon_mummy_baby_body
+  rotate: false
+  xy: 1967, 380
+  size: 50, 39
+  orig: 56, 47
+  offset: 6, 0
+  index: -1
+dragon_mummy_adult_eye1
+  rotate: false
+  xy: 2030, 252
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_mummy_adult_eye2
+  rotate: false
+  xy: 2030, 239
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_mummy_critical03
+  rotate: false
+  xy: 1669, 200
+  size: 214, 187
+  orig: 220, 187
+  offset: 4, 0
+  index: -1
+dragon_mummy_adult_tailb
+  rotate: true
+  xy: 1764, 434
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+dragon_mummy_critical10
+  rotate: false
+  xy: 1410, 2
+  size: 257, 258
+  orig: 279, 272
+  offset: 14, 14
+  index: -1
+dragon_mummy_baby_tail
+  rotate: false
+  xy: 1850, 429
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+dragon_mummy_adult_l_leg2c
+  rotate: true
+  xy: 133, 447
+  size: 21, 47
+  orig: 21, 51
+  offset: 0, 0
+  index: -1
+dragon_mummy_child_bon1
+  rotate: false
+  xy: 1119, 414
+  size: 12, 42
+  orig: 12, 42
+  offset: 0, 0
+  index: -1
+dragon_mummy_adult_r_leg2b
+  rotate: false
+  xy: 360, 447
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+dragon_mummy_critical08
+  rotate: false
+  xy: 768, 2
+  size: 365, 410
+  orig: 365, 412
+  offset: 0, 0
+  index: -1
+dragon_mummy_child_leg3
+  rotate: false
+  xy: 1987, 69
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1
+dragon_mummy_adult_neck3
+  rotate: false
+  xy: 1715, 434
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+dragon_mummy_child_smile
+  rotate: false
+  xy: 1599, 377
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_mummy_adult_bon1
+  rotate: true
+  xy: 699, 467
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
+dragon_mummy_critical04
+  rotate: false
+  xy: 768, 414
+  size: 285, 60
+  orig: 313, 98
+  offset: 11, 16
+  index: -1
+dragon_mummy_adult_l_leg1a
+  rotate: false
+  xy: 1987, 257
+  size: 39, 60
+  orig: 41, 60
+  offset: 2, 0
+  index: -1
+dragon_mummy_baby_leg1
+  rotate: true
+  xy: 1408, 419
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+dragon_mummy_child_eye1
+  rotate: false
+  xy: 48, 447
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+dragon_mummy_adult_taila
+  rotate: false
+  xy: 1967, 319
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+dragon_mummy_child_bon2
+  rotate: true
+  xy: 1925, 441
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+dragon_mummy_adult_l_leg2d
+  rotate: false
+  xy: 1621, 338
+  size: 46, 22
+  orig: 46, 68
+  offset: 0, 0
+  index: -1
+dragon_mummy_adult_l_wing
+  rotate: true
+  xy: 1327, 271
+  size: 146, 110
+  orig: 146, 114
+  offset: 0, 4
+  index: -1
+dragon_mummy_adult_eye3
+  rotate: false
+  xy: 2030, 226
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_mummy_adult_r_leg1b
+  rotate: false
+  xy: 642, 440
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+dragon_mummy_child_leg4
+  rotate: true
+  xy: 1658, 389
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+dragon_mummy_adult_heart
+  rotate: false
+  xy: 1621, 262
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_mummy_adult_neck2
+  rotate: false
+  xy: 537, 440
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+dragon_mummy_critical11
+  rotate: false
+  xy: 1885, 317
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+dragon_mummy_adult_r_leg2c
+  rotate: true
+  xy: 699, 440
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+dragon_mummy_baby_eye3
+  rotate: false
+  xy: 260, 447
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_mummy_critical09
+  rotate: false
+  xy: 1135, 2
+  size: 273, 267
+  orig: 285, 269
+  offset: 3, 2
+  index: -1
+dragon_mummy_adult_l_leg1b
+  rotate: true
+  xy: 94, 447
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+dragon_mummy_adult_body2
+  rotate: false
+  xy: 1885, 399
+  size: 53, 40
+  orig: 53, 48
+  offset: 0, 8
+  index: -1
+dragon_mummy_child_eye2
+  rotate: false
+  xy: 2, 447
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+dragon_mummy_baby_eye
+  rotate: false
+  xy: 335, 447
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+dragon_mummy_critical05
+  rotate: true
+  xy: 1887, 2
+  size: 313, 98
+  orig: 313, 98
+  offset: 0, 0
+  index: -1
+dragon_mummy_adult_neck1
+  rotate: false
+  xy: 1806, 431
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+dragon_mummy_child_chin
+  rotate: false
+  xy: 225, 447
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+dragon_mummy_adult_taild
+  rotate: true
+  xy: 391, 440
+  size: 35, 68
+  orig: 35, 68
+  offset: 0, 0
+  index: -1
+dragon_mummy_child_wing2
+  rotate: false
+  xy: 1773, 389
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+dragon_mummy_adult_r_wing
+  rotate: false
+  xy: 1439, 262
+  size: 119, 112
+  orig: 119, 116
+  offset: 0, 4
+  index: -1
+dragon_mummy_adult_r_leg2d
+  rotate: false
+  xy: 1553, 449
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+dragon_mummy_baby_eye2
+  rotate: false
+  xy: 310, 447
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1

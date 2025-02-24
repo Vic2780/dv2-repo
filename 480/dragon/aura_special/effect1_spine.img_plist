@@ -1,0 +1,46 @@
+effect1_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+snow1
+  rotate: false
+  xy: 145, 252
+  size: 87, 54
+  orig: 119, 68
+  offset: 14, 8
+  index: -1
+snow2
+  rotate: true
+  xy: 173, 2
+  size: 108, 66
+  orig: 134, 76
+  offset: 11, 9
+  index: -1
+snow3
+  rotate: true
+  xy: 145, 112
+  size: 138, 93
+  orig: 158, 93
+  offset: 10, 0
+  index: -1
+snow4
+  rotate: false
+  xy: 2, 228
+  size: 141, 84
+  orig: 171, 104
+  offset: 23, 10
+  index: -1
+snow5
+  rotate: false
+  xy: 2, 2
+  size: 169, 81
+  orig: 203, 113
+  offset: 19, 20
+  index: -1
+twincle
+  rotate: false
+  xy: 2, 85
+  size: 141, 141
+  orig: 141, 141
+  offset: 0, 0
+  index: -1

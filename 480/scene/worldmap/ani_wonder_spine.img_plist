@@ -1,0 +1,228 @@
+ani_wonder_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+worldmap_merchant_eye
+  rotate: true
+  xy: 544, 78
+  size: 45, 11
+  orig: 133, 167
+  offset: 45, 100
+  index: -1
+worldmap_merchant_foot2
+  rotate: false
+  xy: 471, 61
+  size: 25, 15
+  orig: 133, 167
+  offset: 66, 3
+  index: -1
+worldmap_merchant_arm02
+  rotate: false
+  xy: 658, 2
+  size: 43, 53
+  orig: 133, 167
+  offset: 83, 27
+  index: -1
+worldmap_merchant_z2
+  rotate: true
+  xy: 678, 98
+  size: 28, 23
+  orig: 40, 53
+  offset: 3, 3
+  index: -1
+worldmap_merchant_dot
+  rotate: true
+  xy: 577, 57
+  size: 12, 20
+  orig: 22, 26
+  offset: 5, 3
+  index: -1
+worldmap_merchant_wolrdcupetc01
+  rotate: true
+  xy: 329, 89
+  size: 35, 54
+  orig: 35, 54
+  offset: 0, 0
+  index: -1
+worldmap_merchant_foot01
+  rotate: false
+  xy: 525, 59
+  size: 25, 17
+  orig: 133, 167
+  offset: 46, 3
+  index: -1
+worldmap_merchant_leg02
+  rotate: false
+  xy: 2, 99
+  size: 65, 27
+  orig: 133, 167
+  offset: 36, 8
+  index: -1
+worldmap_merchant_z1
+  rotate: true
+  xy: 649, 98
+  size: 28, 27
+  orig: 40, 53
+  offset: 9, 24
+  index: -1
+worldmap_merchant_arm1
+  rotate: false
+  xy: 606, 57
+  size: 41, 49
+  orig: 133, 167
+  offset: 15, 30
+  index: -1
+worldmap_merchant_hand1
+  rotate: false
+  xy: 489, 78
+  size: 53, 45
+  orig: 133, 167
+  offset: 18, 22
+  index: -1
+worldmap_merchant_body
+  rotate: true
+  xy: 263, 2
+  size: 85, 77
+  orig: 133, 167
+  offset: 26, 11
+  index: -1
+worldmap_merchant_wolrdcupetc02
+  rotate: false
+  xy: 572, 74
+  size: 32, 50
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+worldmap_merchant_head02
+  rotate: false
+  xy: 176, 2
+  size: 85, 91
+  orig: 133, 167
+  offset: 26, 68
+  index: -1
+worldmap_merchant_eyebrow
+  rotate: true
+  xy: 557, 74
+  size: 51, 13
+  orig: 133, 167
+  offset: 42, 109
+  index: -1
+worldmap_merchant_arm2
+  rotate: true
+  xy: 649, 57
+  size: 39, 49
+  orig: 133, 167
+  offset: 82, 30
+  index: -1
+worldmap_merchant_leg
+  rotate: false
+  xy: 69, 99
+  size: 65, 27
+  orig: 133, 167
+  offset: 36, 8
+  index: -1
+worldmap_merchant_hand2
+  rotate: false
+  xy: 434, 79
+  size: 53, 45
+  orig: 133, 167
+  offset: 65, 22
+  index: -1
+worldmap_merchant_top
+  rotate: false
+  xy: 531, 2
+  size: 125, 53
+  orig: 133, 167
+  offset: 4, 93
+  index: -1
+worldmap_merchant_hand02
+  rotate: false
+  xy: 136, 95
+  size: 49, 29
+  orig: 133, 167
+  offset: 67, 36
+  index: -1
+worldmap_merchant_wolrdcupetc03
+  rotate: false
+  xy: 385, 79
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+worldmap_merchant_body02
+  rotate: true
+  xy: 87, 2
+  size: 91, 87
+  orig: 133, 167
+  offset: 21, 11
+  index: -1
+worldmap_merchant_under
+  rotate: false
+  xy: 342, 2
+  size: 127, 75
+  orig: 133, 167
+  offset: 3, 49
+  index: -1
+worldmap_merchant_head
+  rotate: false
+  xy: 2, 2
+  size: 83, 95
+  orig: 133, 167
+  offset: 27, 69
+  index: -1
+worldmap_merchant_foot1
+  rotate: false
+  xy: 552, 57
+  size: 23, 15
+  orig: 133, 167
+  offset: 48, 3
+  index: -1
+worldmap_merchant_arm01
+  rotate: false
+  xy: 486, 2
+  size: 43, 55
+  orig: 133, 167
+  offset: 11, 25
+  index: -1
+worldmap_merchant_mouth
+  rotate: false
+  xy: 342, 79
+  size: 25, 7
+  orig: 133, 167
+  offset: 54, 88
+  index: -1
+worldmap_merchant_mustache
+  rotate: true
+  xy: 471, 2
+  size: 57, 13
+  orig: 133, 167
+  offset: 39, 90
+  index: -1
+worldmap_merchant_shadow
+  rotate: false
+  xy: 261, 95
+  size: 66, 28
+  orig: 80, 38
+  offset: 9, 4
+  index: -1
+worldmap_merchant_hand01
+  rotate: false
+  xy: 187, 95
+  size: 49, 29
+  orig: 133, 167
+  offset: 21, 33
+  index: -1
+worldmap_merchant_foot02
+  rotate: false
+  xy: 498, 59
+  size: 25, 17
+  orig: 133, 167
+  offset: 66, 3
+  index: -1
+worldmap_merchant_mouth2
+  rotate: true
+  xy: 238, 95
+  size: 29, 21
+  orig: 133, 167
+  offset: 53, 78
+  index: -1

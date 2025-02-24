@@ -1,0 +1,424 @@
+dragon_73_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_hammer_child_body
+  rotate: true
+  xy: 840, 128
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+dragon_hammer_baby_leg4
+  rotate: true
+  xy: 1057, 203
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+dragon_hammer_child_leg3
+  rotate: false
+  xy: 1002, 126
+  size: 28, 56
+  orig: 28, 56
+  offset: 0, 0
+  index: -1
+dragon_hammer_child_chin
+  rotate: true
+  xy: 967, 75
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+dragon_hammer_child_wing2
+  rotate: false
+  xy: 472, 169
+  size: 59, 80
+  orig: 59, 80
+  offset: 0, 0
+  index: -1
+dragon_hammer_adult_body1
+  rotate: true
+  xy: 533, 167
+  size: 86, 65
+  orig: 86, 65
+  offset: 0, 0
+  index: -1
+dragon_hammer_child_tail
+  rotate: false
+  xy: 784, 128
+  size: 54, 90
+  orig: 54, 90
+  offset: 0, 0
+  index: -1
+dragon_hammer_child_head
+  rotate: true
+  xy: 900, 78
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+dragon_hammer_baby_wing1
+  rotate: true
+  xy: 1032, 118
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+dragon_hammer_baby_body
+  rotate: false
+  xy: 1057, 2
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+dragon_hammer_child_leg4
+  rotate: false
+  xy: 914, 127
+  size: 27, 64
+  orig: 27, 64
+  offset: 0, 0
+  index: -1
+dragon_hammer_child_neck
+  rotate: false
+  xy: 943, 2
+  size: 46, 71
+  orig: 46, 71
+  offset: 0, 0
+  index: -1
+dragon_hammer_adult_l_leg1b
+  rotate: true
+  xy: 1057, 104
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+dragon_hammer_baby_chin
+  rotate: true
+  xy: 997, 189
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+dragon_hammer_adult_r_leg1a
+  rotate: true
+  xy: 1061, 174
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+dragon_hammer_baby_eye
+  rotate: false
+  xy: 1083, 231
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_hammer_baby_eye2
+  rotate: false
+  xy: 600, 234
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+dragon_hammer_adult_neck
+  rotate: false
+  xy: 729, 128
+  size: 53, 113
+  orig: 53, 113
+  offset: 0, 0
+  index: -1
+dragon_hammer_child_wing1
+  rotate: true
+  xy: 860, 205
+  size: 49, 74
+  orig: 49, 74
+  offset: 0, 0
+  index: -1
+dragon_hammer_adult_head
+  rotate: true
+  xy: 98, 215
+  size: 37, 53
+  orig: 37, 53
+  offset: 0, 0
+  index: -1
+dragon_hammer_adult_r_wing
+  rotate: true
+  xy: 266, 169
+  size: 81, 158
+  orig: 81, 158
+  offset: 0, 0
+  index: -1
+dragon_hammer_adult_l_leg1c
+  rotate: true
+  xy: 784, 220
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+dragon_hammer_adult_eye4
+  rotate: true
+  xy: 623, 244
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+dragon_hammer_baby_wing2
+  rotate: true
+  xy: 600, 200
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+dragon_hammer_adult_l_wing
+  rotate: false
+  xy: 115, 2
+  size: 88, 171
+  orig: 88, 171
+  offset: 0, 0
+  index: -1
+dragon_hammer_adult_r_leg2b
+  rotate: true
+  xy: 1057, 75
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+dragon_hammer_baby_eye3
+  rotate: true
+  xy: 1057, 231
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+dragon_hammer_adult_eye
+  rotate: false
+  xy: 671, 244
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+dragon_hammer_adult_l_leg1a
+  rotate: false
+  xy: 1026, 75
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+dragon_hammer_baby_note2
+  rotate: false
+  xy: 1019, 2
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_hammer_baby_tail
+  rotate: false
+  xy: 115, 175
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+dragon_hammer_child_eye
+  rotate: true
+  xy: 1077, 59
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+dragon_hammer_adult_r_leg1d
+  rotate: false
+  xy: 991, 59
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+dragon_hammer_baby_head
+  rotate: true
+  xy: 936, 193
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+dragon_hammer_adult_eye5
+  rotate: false
+  xy: 636, 244
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+dragon_hammer_critical2
+  rotate: true
+  xy: 2, 2
+  size: 211, 111
+  orig: 211, 113
+  offset: 0, 2
+  index: -1
+dragon_hammer_adult_smaile
+  rotate: false
+  xy: 943, 127
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_hammer_adult_r_leg2c
+  rotate: true
+  xy: 600, 165
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+dragon_hammer_adult_l_leg2b
+  rotate: false
+  xy: 991, 2
+  size: 26, 53
+  orig: 26, 53
+  offset: 0, 0
+  index: -1
+dragon_hammer_child_eye2
+  rotate: true
+  xy: 1059, 59
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+dragon_hammer_adult_eye2
+  rotate: false
+  xy: 648, 244
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+dragon_hammer_child_smaile
+  rotate: false
+  xy: 943, 127
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_hammer_critical3
+  rotate: false
+  xy: 205, 2
+  size: 320, 165
+  orig: 320, 165
+  offset: 0, 0
+  index: -1
+dragon_hammer_adult_tail
+  rotate: true
+  xy: 623, 128
+  size: 114, 104
+  orig: 114, 104
+  offset: 0, 0
+  index: -1
+dragon_hammer_baby_leg2
+  rotate: true
+  xy: 1061, 152
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+dragon_hammer_adult_l_leg2c
+  rotate: true
+  xy: 527, 128
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+dragon_hammer_baby_leg1
+  rotate: false
+  xy: 73, 215
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+dragon_hammer_child_eye3
+  rotate: false
+  xy: 1055, 133
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_hammer_adult_r_leg1b
+  rotate: false
+  xy: 829, 220
+  size: 29, 32
+  orig: 33, 34
+  offset: 0, 2
+  index: -1
+dragon_hammer_adult_eye3
+  rotate: false
+  xy: 661, 244
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+dragon_hammer_adult_body2
+  rotate: true
+  xy: 199, 175
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+dragon_hammer_adult_r_leg2a
+  rotate: true
+  xy: 552, 128
+  size: 35, 69
+  orig: 35, 69
+  offset: 0, 0
+  index: -1
+dragon_hammer_adult_l_leg2a
+  rotate: false
+  xy: 900, 2
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
+dragon_hammer_baby_leg3
+  rotate: false
+  xy: 1032, 152
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+dragon_hammer_child_leg2
+  rotate: false
+  xy: 426, 169
+  size: 44, 81
+  orig: 44, 81
+  offset: 0, 0
+  index: -1
+dragon_hammer_adult_l_leg1d
+  rotate: false
+  xy: 1025, 59
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+dragon_hammer_adult_chin
+  rotate: false
+  xy: 2, 215
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+dragon_hammer_adult_r_leg1c
+  rotate: false
+  xy: 39, 215
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+dragon_hammer_child_leg1
+  rotate: false
+  xy: 153, 175
+  size: 44, 78
+  orig: 44, 78
+  offset: 0, 0
+  index: -1
+dragon_hammer_critical1
+  rotate: true
+  xy: 527, 2
+  size: 124, 371
+  orig: 124, 371
+  offset: 0, 0
+  index: -1

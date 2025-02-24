@@ -1,0 +1,284 @@
+90_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_marionette_groggy_body1
+  rotate: false
+  xy: 297, 116
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+m_marionette_groggy_veil
+  rotate: false
+  xy: 2, 2
+  size: 352, 112
+  orig: 352, 112
+  offset: 0, 0
+  index: -1
+m_marionette_bighand004
+  rotate: false
+  xy: 282, 493
+  size: 71, 122
+  orig: 71, 122
+  offset: 0, 0
+  index: -1
+m_marionette_eye
+  rotate: false
+  xy: 256, 1755
+  size: 93, 49
+  orig: 93, 49
+  offset: 0, 0
+  index: -1
+m_marionette_groggy_hair00
+  rotate: true
+  xy: 345, 850
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+m_marionette_body1
+  rotate: true
+  xy: 282, 427
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+m_marionette_hair2
+  rotate: false
+  xy: 275, 1066
+  size: 50, 104
+  orig: 50, 104
+  offset: 0, 0
+  index: -1
+m_marionette_groggy_hair0
+  rotate: false
+  xy: 327, 1066
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+m_marionette_bighand001
+  rotate: false
+  xy: 256, 1916
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+m_marionette_groggy_head
+  rotate: true
+  xy: 192, 1806
+  size: 108, 139
+  orig: 108, 139
+  offset: 0, 0
+  index: -1
+m_marionette_groggy_bighand003
+  rotate: true
+  xy: 297, 167
+  size: 47, 57
+  orig: 47, 57
+  offset: 0, 0
+  index: -1
+m_marionette_groggy_arm2
+  rotate: false
+  xy: 282, 405
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+m_marionette_arm2
+  rotate: false
+  xy: 326, 1237
+  size: 18, 44
+  orig: 18, 44
+  offset: 0, 0
+  index: -1
+m_marionette_veil
+  rotate: true
+  xy: 2, 676
+  size: 390, 271
+  orig: 390, 271
+  offset: 0, 0
+  index: -1
+m_marionette_line3
+  rotate: false
+  xy: 2, 1068
+  size: 230, 153
+  orig: 230, 153
+  offset: 0, 0
+  index: -1
+m_marionette_dressback
+  rotate: true
+  xy: 2, 1223
+  size: 179, 213
+  orig: 179, 213
+  offset: 0, 0
+  index: -1
+m_marionette_hari_back
+  rotate: false
+  xy: 2, 405
+  size: 278, 269
+  orig: 278, 269
+  offset: 0, 0
+  index: -1
+m_marionette_body2
+  rotate: false
+  xy: 2, 1582
+  size: 202, 154
+  orig: 202, 154
+  offset: 0, 0
+  index: -1
+m_marionette_bighand002
+  rotate: false
+  xy: 234, 1172
+  size: 90, 129
+  orig: 90, 129
+  offset: 0, 0
+  index: -1
+m_marionette_bighand0001
+  rotate: true
+  xy: 214, 1495
+  size: 169, 145
+  orig: 169, 145
+  offset: 0, 0
+  index: -1
+m_marionette_groggy_arm1
+  rotate: false
+  xy: 234, 1068
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+m_marionette_line1
+  rotate: true
+  xy: 2, 1404
+  size: 176, 210
+  orig: 176, 210
+  offset: 0, 0
+  index: -1
+m_marionette_bighand005
+  rotate: true
+  xy: 206, 1666
+  size: 87, 140
+  orig: 87, 140
+  offset: 0, 0
+  index: -1
+m_marionette_hair3
+  rotate: false
+  xy: 297, 216
+  size: 55, 157
+  orig: 55, 157
+  offset: 0, 0
+  index: -1
+m_marionette_leg
+  rotate: false
+  xy: 327, 1088
+  size: 30, 98
+  orig: 30, 98
+  offset: 0, 0
+  index: -1
+m_marionette_arm1
+  rotate: false
+  xy: 297, 375
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+m_marionette_hand
+  rotate: false
+  xy: 343, 991
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+m_marionette_effect_eye
+  rotate: true
+  xy: 282, 617
+  size: 69, 71
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+m_marionette_groggy_body2
+  rotate: false
+  xy: 117, 1916
+  size: 137, 104
+  orig: 137, 104
+  offset: 0, 0
+  index: -1
+m_marionette_groggy_dressback
+  rotate: false
+  xy: 2, 1916
+  size: 113, 107
+  orig: 113, 107
+  offset: 0, 0
+  index: -1
+m_marionette_groggy_bighand002
+  rotate: true
+  xy: 275, 969
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+m_marionette_effectline
+  rotate: false
+  xy: 2, 116
+  size: 293, 287
+  orig: 293, 287
+  offset: 0, 0
+  index: -1
+m_marionette_line2
+  rotate: false
+  xy: 217, 1303
+  size: 143, 190
+  orig: 143, 190
+  offset: 0, 0
+  index: -1
+m_marionette_bighand003
+  rotate: false
+  xy: 275, 688
+  size: 82, 160
+  orig: 82, 160
+  offset: 0, 0
+  index: -1
+m_marionette_hair1
+  rotate: false
+  xy: 275, 850
+  size: 68, 117
+  orig: 68, 117
+  offset: 0, 0
+  index: -1
+m_marionette_groggy_eye
+  rotate: true
+  xy: 343, 969
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+m_marionette_groggy_leg
+  rotate: true
+  xy: 275, 1035
+  size: 29, 66
+  orig: 29, 66
+  offset: 0, 0
+  index: -1
+m_marionette_head
+  rotate: false
+  xy: 2, 1738
+  size: 188, 176
+  orig: 188, 176
+  offset: 0, 0
+  index: -1
+m_marionette_groggy_mouth
+  rotate: false
+  xy: 234, 1111
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+m_marionette_mouth
+  rotate: true
+  xy: 326, 1188
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1

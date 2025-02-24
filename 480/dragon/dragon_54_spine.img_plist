@@ -1,0 +1,473 @@
+dragon_54_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_white_adult_ear
+  rotate: true
+  xy: 331, 778
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+dragon_white_child_tail
+  rotate: false
+  xy: 331, 343
+  size: 92, 59
+  orig: 92, 59
+  offset: 0, 0
+  index: -1
+dragon_white_adult_damaged
+  rotate: false
+  xy: 1027, 906
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+dragon_white_e_cri_eff1
+  rotate: false
+  xy: 469, 197
+  size: 354, 207
+  orig: 414, 215
+  offset: 29, 8
+  index: -1
+dragon_white_child_arm1
+  rotate: true
+  xy: 1067, 197
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+dragon_white_critical02
+  rotate: false
+  xy: 852, 602
+  size: 185, 175
+  orig: 215, 209
+  offset: 16, 7
+  index: -1
+dragon_white_e_cri_light2
+  rotate: true
+  xy: 2, 343
+  size: 475, 327
+  orig: 483, 347
+  offset: 6, 8
+  index: -1
+dragon_white_child_body
+  rotate: false
+  xy: 825, 891
+  size: 86, 67
+  orig: 86, 67
+  offset: 0, 0
+  index: -1
+dragon_white_e_cri_light1
+  rotate: false
+  xy: 2, 2
+  size: 465, 339
+  orig: 471, 345
+  offset: 6, 6
+  index: -1
+dragon_white_adult_arm2
+  rotate: false
+  xy: 989, 930
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+dragon_white_e_cri_bubble4
+  rotate: false
+  xy: 646, 969
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+dragon_white_child_ear2
+  rotate: false
+  xy: 1057, 397
+  size: 29, 61
+  orig: 29, 61
+  offset: 0, 0
+  index: -1
+dragon_white_adult_wing
+  rotate: false
+  xy: 331, 675
+  size: 135, 101
+  orig: 135, 101
+  offset: 0, 0
+  index: -1
+dragon_white_critical05
+  rotate: true
+  xy: 625, 406
+  size: 292, 225
+  orig: 292, 273
+  offset: 0, 22
+  index: -1
+dragon_white_baby_tail
+  rotate: true
+  xy: 1039, 744
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+dragon_white_e_head
+  rotate: true
+  xy: 1057, 510
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+dragon_white_child_arm2
+  rotate: true
+  xy: 570, 675
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+dragon_white_critical07
+  rotate: false
+  xy: 331, 406
+  size: 292, 267
+  orig: 292, 273
+  offset: 0, 0
+  index: -1
+dragon_white_baby_heart
+  rotate: true
+  xy: 913, 941
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+dragon_white_adult_mouth
+  rotate: true
+  xy: 1070, 91
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+dragon_white_adult_tail
+  rotate: false
+  xy: 825, 779
+  size: 97, 110
+  orig: 97, 110
+  offset: 0, 0
+  index: -1
+dragon_white_child_love
+  rotate: false
+  xy: 366, 959
+  size: 54, 63
+  orig: 54, 63
+  offset: 0, 0
+  index: -1
+dragon_white_e_arm2
+  rotate: false
+  xy: 1026, 939
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dragon_white_adult_leg2
+  rotate: false
+  xy: 468, 744
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+dragon_white_child_effect
+  rotate: true
+  xy: 946, 884
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_white_baby_body
+  rotate: true
+  xy: 1039, 694
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+dragon_white_child_wing
+  rotate: false
+  xy: 478, 969
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+dragon_white_e_cri_bubble2
+  rotate: false
+  xy: 545, 969
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+dragon_white_e_arm1
+  rotate: true
+  xy: 1039, 602
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+dragon_white_e_cri_eff2
+  rotate: false
+  xy: 469, 2
+  size: 388, 193
+  orig: 414, 215
+  offset: 4, 13
+  index: -1
+dragon_white_e_leg2
+  rotate: true
+  xy: 956, 982
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+dragon_white_adult_arm1
+  rotate: false
+  xy: 1039, 642
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+dragon_white_baby_eye
+  rotate: true
+  xy: 1067, 265
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+dragon_white_e_leg1
+  rotate: true
+  xy: 758, 969
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+dragon_white_critical03
+  rotate: false
+  xy: 859, 2
+  size: 209, 193
+  orig: 215, 209
+  offset: 1, 3
+  index: -1
+dragon_white_baby_arm
+  rotate: true
+  xy: 989, 967
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+dragon_white_adult_arm3
+  rotate: true
+  xy: 825, 700
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+dragon_white_child_head
+  rotate: false
+  xy: 422, 959
+  size: 54, 63
+  orig: 54, 63
+  offset: 0, 0
+  index: -1
+dragon_white_e_cri_bubble3
+  rotate: false
+  xy: 597, 969
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+dragon_white_adult_head
+  rotate: true
+  xy: 913, 891
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+dragon_white_child_leg1
+  rotate: true
+  xy: 1070, 2
+  size: 47, 16
+  orig: 47, 16
+  offset: 0, 0
+  index: -1
+dragon_white_adult_leg4
+  rotate: true
+  xy: 1057, 460
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+dragon_white_adult_attack
+  rotate: true
+  xy: 956, 932
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+dragon_white_adult_love
+  rotate: false
+  xy: 1032, 873
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+dragon_white_adult_leg1
+  rotate: false
+  xy: 425, 343
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+dragon_white_baby_mouth
+  rotate: true
+  xy: 1070, 51
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+dragon_white_critical04
+  rotate: true
+  xy: 366, 778
+  size: 179, 163
+  orig: 215, 209
+  offset: 14, 17
+  index: -1
+dragon_white_baby_love
+  rotate: true
+  xy: 905, 960
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1
+dragon_white_adult_eye
+  rotate: false
+  xy: 1057, 590
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+dragon_white_critical01
+  rotate: false
+  xy: 852, 397
+  size: 203, 203
+  orig: 215, 209
+  offset: 9, 0
+  index: -1
+dragon_white_baby_leg
+  rotate: true
+  xy: 825, 744
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+dragon_white_baby_head
+  rotate: false
+  xy: 694, 969
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1
+dragon_white_e_tail
+  rotate: false
+  xy: 1067, 237
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+dragon_white_adult_neck
+  rotate: true
+  xy: 468, 675
+  size: 67, 54
+  orig: 67, 54
+  offset: 0, 0
+  index: -1
+dragon_white_critical06
+  rotate: false
+  xy: 531, 700
+  size: 292, 267
+  orig: 292, 273
+  offset: 0, 0
+  index: -1
+dragon_white_e_wing
+  rotate: false
+  xy: 1036, 779
+  size: 50, 92
+  orig: 50, 92
+  offset: 0, 0
+  index: -1
+dragon_white_adult_leg3
+  rotate: true
+  xy: 524, 675
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+dragon_white_e_cri_bubble1
+  rotate: false
+  xy: 825, 197
+  size: 240, 198
+  orig: 240, 198
+  offset: 0, 0
+  index: -1
+dragon_white_baby_ear
+  rotate: false
+  xy: 989, 855
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+dragon_white_child_ear1
+  rotate: true
+  xy: 924, 855
+  size: 27, 63
+  orig: 27, 63
+  offset: 0, 0
+  index: -1
+dragon_white_child_leg2
+  rotate: false
+  xy: 987, 892
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+dragon_white_e_cri_eff3
+  rotate: false
+  xy: 2, 820
+  size: 362, 199
+  orig: 414, 215
+  offset: 28, 10
+  index: -1
+dragon_white_child_eye
+  rotate: true
+  xy: 1067, 287
+  size: 38, 18
+  orig: 38, 18
+  offset: 0, 0
+  index: -1
+dragon_white_adult_light
+  rotate: true
+  xy: 1057, 556
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+dragon_white_adult_heart
+  rotate: true
+  xy: 913, 941
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+dragon_white_adult_body
+  rotate: false
+  xy: 924, 779
+  size: 110, 74
+  orig: 110, 74
+  offset: 0, 0
+  index: -1
+dragon_white_e_body
+  rotate: true
+  xy: 825, 960
+  size: 62, 78
+  orig: 62, 78
+  offset: 0, 0
+  index: -1

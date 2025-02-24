@@ -1,0 +1,529 @@
+dragon_32_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_smart_child_neck
+  rotate: false
+  xy: 1118, 266
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+dragon_smart_baby_leg1
+  rotate: false
+  xy: 1133, 2
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+dragon_smart_baby_tail
+  rotate: false
+  xy: 1062, 440
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+dragon_smart_adult_eye4
+  rotate: true
+  xy: 1041, 388
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+dragon_smart_baby_glass2
+  rotate: false
+  xy: 1104, 405
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+dragon_smart_child_bookef1
+  rotate: false
+  xy: 1133, 191
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+dragon_smart_adult_leg5
+  rotate: true
+  xy: 1087, 433
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+dragon_smart_baby_mouse
+  rotate: false
+  xy: 607, 467
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+dragon_smart_adult_glass1
+  rotate: false
+  xy: 461, 499
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+dragon_smart_child_leg4
+  rotate: true
+  xy: 1093, 472
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+dragon_smart_adult_head
+  rotate: false
+  xy: 1118, 337
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+dragon_smart_child_glass2
+  rotate: true
+  xy: 1025, 388
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+dragon_smart_adult_book2
+  rotate: true
+  xy: 714, 491
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+dragon_smart_child_tail1
+  rotate: false
+  xy: 970, 458
+  size: 62, 52
+  orig: 62, 52
+  offset: 0, 0
+  index: -1
+dragon_smart_critical_dmg1
+  rotate: false
+  xy: 424, 2
+  size: 269, 288
+  orig: 269, 288
+  offset: 0, 0
+  index: -1
+dragon_smart_adult_tail2
+  rotate: false
+  xy: 1056, 344
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+dragon_smart_child_light
+  rotate: false
+  xy: 777, 491
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_smart_adult_leg7
+  rotate: true
+  xy: 1133, 112
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+dragon_smart_adult_eye1
+  rotate: true
+  xy: 1133, 255
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+dragon_smart_child_eye1
+  rotate: false
+  xy: 757, 491
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+dragon_smart_adult_leg2
+  rotate: true
+  xy: 1068, 474
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+dragon_smart_critical_dmg2
+  rotate: false
+  xy: 2, 2
+  size: 420, 462
+  orig: 422, 464
+  offset: 0, 2
+  index: -1
+dragon_smart_baby_eye3
+  rotate: false
+  xy: 1133, 211
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+dragon_smart_child_leg1
+  rotate: false
+  xy: 1120, 469
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+dragon_smart_child_magic3
+  rotate: true
+  xy: 424, 292
+  size: 173, 284
+  orig: 173, 284
+  offset: 0, 0
+  index: -1
+dragon_smart_adult_bookatk2
+  rotate: false
+  xy: 710, 431
+  size: 132, 58
+  orig: 134, 58
+  offset: 0, 0
+  index: -1
+dragon_smart_adult_eye5
+  rotate: true
+  xy: 1087, 460
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+dragon_smart_child_mouse
+  rotate: true
+  xy: 1133, 78
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+dragon_smart_adult_light
+  rotate: true
+  xy: 1118, 441
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+dragon_smart_child_leg6
+  rotate: false
+  xy: 647, 467
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+dragon_smart_baby_book
+  rotate: false
+  xy: 461, 467
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+dragon_smart_child_leg5
+  rotate: false
+  xy: 1069, 405
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+dragon_smart_baby_leg2
+  rotate: false
+  xy: 1034, 405
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+dragon_smart_child_book2
+  rotate: true
+  xy: 996, 388
+  size: 13, 27
+  orig: 13, 27
+  offset: 0, 0
+  index: -1
+dragon_smart_child_magic2
+  rotate: false
+  xy: 710, 288
+  size: 173, 141
+  orig: 173, 141
+  offset: 0, 0
+  index: -1
+dragon_smart_adult_eye2
+  rotate: false
+  xy: 1045, 266
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+dragon_smart_adult_leg3
+  rotate: false
+  xy: 687, 467
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+dragon_smart_adult_body
+  rotate: true
+  xy: 885, 403
+  size: 47, 86
+  orig: 47, 86
+  offset: 0, 0
+  index: -1
+dragon_smart_critical_bookatk1
+  rotate: false
+  xy: 710, 431
+  size: 132, 58
+  orig: 134, 58
+  offset: 0, 0
+  index: -1
+dragon_smart_child_wing
+  rotate: false
+  xy: 2, 466
+  size: 82, 44
+  orig: 82, 44
+  offset: 0, 0
+  index: -1
+dragon_smart_adult_bookatk1
+  rotate: false
+  xy: 885, 288
+  size: 109, 113
+  orig: 111, 119
+  offset: 0, 4
+  index: -1
+dragon_smart_baby_eye1
+  rotate: true
+  xy: 1133, 167
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+dragon_smart_adult_book1
+  rotate: false
+  xy: 1118, 385
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+dragon_smart_child_eye2
+  rotate: false
+  xy: 737, 491
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+dragon_smart_adult_neck
+  rotate: false
+  xy: 1034, 440
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+dragon_smart_child_leg7
+  rotate: false
+  xy: 563, 494
+  size: 46, 16
+  orig: 46, 16
+  offset: 0, 0
+  index: -1
+dragon_smart_baby_body
+  rotate: false
+  xy: 412, 467
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+dragon_smart_adult_tail1
+  rotate: false
+  xy: 86, 466
+  size: 89, 36
+  orig: 89, 36
+  offset: 0, 0
+  index: -1
+dragon_smart_child_leg2
+  rotate: true
+  xy: 1034, 479
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+dragon_smart_child_tail2
+  rotate: false
+  xy: 305, 466
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+dragon_smart_baby_glass1
+  rotate: true
+  xy: 1133, 230
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+dragon_smart_child_wow
+  rotate: true
+  xy: 611, 503
+  size: 7, 35
+  orig: 7, 35
+  offset: 0, 0
+  index: -1
+dragon_smart_baby_head
+  rotate: false
+  xy: 844, 452
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1
+dragon_smart_adult_tail4
+  rotate: false
+  xy: 996, 288
+  size: 58, 98
+  orig: 58, 98
+  offset: 0, 0
+  index: -1
+dragon_smart_child_magic5
+  rotate: false
+  xy: 695, 2
+  size: 173, 284
+  orig: 173, 284
+  offset: 0, 0
+  index: -1
+dragon_smart_adult_mouse
+  rotate: false
+  xy: 844, 431
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+dragon_smart_baby_smile
+  rotate: true
+  xy: 908, 452
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_smart_adult_eye3
+  rotate: true
+  xy: 1093, 502
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+dragon_smart_child_head
+  rotate: false
+  xy: 973, 403
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+dragon_smart_adult_leg4
+  rotate: false
+  xy: 513, 467
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+dragon_smart_child_body
+  rotate: true
+  xy: 1056, 266
+  size: 76, 60
+  orig: 76, 60
+  offset: 0, 0
+  index: -1
+dragon_smart_child_magic1
+  rotate: false
+  xy: 1045, 2
+  size: 86, 142
+  orig: 86, 142
+  offset: 0, 0
+  index: -1
+dragon_smart_baby_wing
+  rotate: false
+  xy: 1118, 416
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+dragon_smart_child_glass1
+  rotate: false
+  xy: 687, 491
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+dragon_smart_child_eye3
+  rotate: false
+  xy: 861, 431
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+dragon_smart_child_bookef2
+  rotate: true
+  xy: 177, 466
+  size: 41, 65
+  orig: 41, 65
+  offset: 0, 0
+  index: -1
+dragon_smart_child_magic4
+  rotate: false
+  xy: 870, 2
+  size: 173, 284
+  orig: 173, 284
+  offset: 0, 0
+  index: -1
+dragon_smart_adult_glass2
+  rotate: false
+  xy: 480, 499
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+dragon_smart_child_book1
+  rotate: true
+  xy: 360, 466
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+dragon_smart_adult_wing
+  rotate: false
+  xy: 1045, 146
+  size: 86, 118
+  orig: 86, 118
+  offset: 0, 0
+  index: -1
+dragon_smart_child_leg3
+  rotate: false
+  xy: 1133, 41
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+dragon_smart_adult_leg6
+  rotate: false
+  xy: 563, 467
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+dragon_smart_adult_leg1
+  rotate: true
+  xy: 1118, 303
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+dragon_smart_baby_eye2
+  rotate: true
+  xy: 1133, 143
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+dragon_smart_adult_tail3
+  rotate: false
+  xy: 244, 466
+  size: 59, 33
+  orig: 59, 33
+  offset: 0, 0
+  index: -1

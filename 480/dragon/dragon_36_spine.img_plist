@@ -1,0 +1,361 @@
+dragon_36_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_ligon_child_love
+  rotate: true
+  xy: 347, 693
+  size: 67, 95
+  orig: 67, 95
+  offset: 0, 0
+  index: -1
+dragon_ligon_adult_head
+  rotate: true
+  xy: 453, 415
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+dragon_ligon_skill02
+  rotate: true
+  xy: 347, 488
+  size: 203, 90
+  orig: 205, 118
+  offset: 1, 10
+  index: -1
+dragon_ligon_adult_mouth
+  rotate: false
+  xy: 253, 488
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+dragon_ligon_baby_body
+  rotate: false
+  xy: 418, 1071
+  size: 57, 33
+  orig: 57, 33
+  offset: 0, 0
+  index: -1
+dragon_ligon_child_body
+  rotate: true
+  xy: 453, 262
+  size: 81, 55
+  orig: 81, 55
+  offset: 0, 0
+  index: -1
+dragon_ligon_child_leg5
+  rotate: true
+  xy: 475, 1143
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+dragon_ligon_child_tail
+  rotate: true
+  xy: 186, 1164
+  size: 37, 50
+  orig: 37, 50
+  offset: 0, 0
+  index: -1
+dragon_ligon_skill01
+  rotate: true
+  xy: 188, 977
+  size: 185, 103
+  orig: 209, 131
+  offset: 12, 16
+  index: -1
+dragon_ligon_adult_effect2
+  rotate: true
+  xy: 293, 1107
+  size: 99, 100
+  orig: 225, 224
+  offset: 63, 64
+  index: -1
+dragon_ligon_child_eye
+  rotate: false
+  xy: 228, 247
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+dragon_ligon_child_leg6
+  rotate: true
+  xy: 476, 820
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+dragon_ligon_baby_eye
+  rotate: true
+  xy: 172, 766
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+dragon_ligon_adult_damaged
+  rotate: true
+  xy: 439, 560
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+dragon_ligon_adult_wind2
+  rotate: false
+  xy: 293, 977
+  size: 123, 128
+  orig: 123, 128
+  offset: 0, 0
+  index: -1
+dragon_ligon_adult_leg4
+  rotate: true
+  xy: 466, 885
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+dragon_ligon_skill03
+  rotate: true
+  xy: 2, 519
+  size: 325, 168
+  orig: 327, 180
+  offset: 0, 9
+  index: -1
+dragon_ligon_adult_leg1
+  rotate: true
+  xy: 228, 488
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+dragon_ligon_baby_leg1
+  rotate: false
+  xy: 476, 849
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+dragon_ligon_adult_wing
+  rotate: false
+  xy: 360, 886
+  size: 104, 86
+  orig: 104, 86
+  offset: 0, 0
+  index: -1
+dragon_ligon_adult_leg6
+  rotate: false
+  xy: 451, 865
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+dragon_ligon_child_leg2
+  rotate: false
+  xy: 451, 820
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+dragon_ligon_skill04
+  rotate: false
+  xy: 2, 2
+  size: 277, 243
+  orig: 289, 253
+  offset: 10, 10
+  index: -1
+dragon_ligon_adult_body
+  rotate: true
+  xy: 360, 762
+  size: 122, 89
+  orig: 122, 89
+  offset: 0, 0
+  index: -1
+dragon_ligon_baby_leg2
+  rotate: false
+  xy: 486, 898
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+dragon_ligon_child_head
+  rotate: false
+  xy: 418, 974
+  size: 67, 95
+  orig: 67, 95
+  offset: 0, 0
+  index: -1
+dragon_ligon_adult_eye
+  rotate: false
+  xy: 2, 1200
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+dragon_ligon_skill06
+  rotate: false
+  xy: 281, 2
+  size: 210, 258
+  orig: 236, 280
+  offset: 14, 16
+  index: -1
+dragon_ligon_adult_leg2
+  rotate: true
+  xy: 238, 1164
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+dragon_ligon_skill05
+  rotate: false
+  xy: 2, 247
+  size: 224, 270
+  orig: 236, 280
+  offset: 9, 10
+  index: -1
+dragon_ligon_child_wing
+  rotate: true
+  xy: 439, 488
+  size: 70, 62
+  orig: 70, 62
+  offset: 0, 0
+  index: -1
+dragon_ligon_child_effect
+  rotate: false
+  xy: 439, 630
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_ligon_baby_leg3
+  rotate: true
+  xy: 290, 488
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+dragon_ligon_skill07
+  rotate: false
+  xy: 2, 846
+  size: 184, 307
+  orig: 196, 317
+  offset: 11, 7
+  index: -1
+dragon_ligon_baby_wing
+  rotate: false
+  xy: 172, 800
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1
+dragon_ligon_adult_leg5
+  rotate: true
+  xy: 487, 874
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+dragon_ligon_child_leg4
+  rotate: true
+  xy: 475, 1106
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+dragon_ligon_adult_neck
+  rotate: false
+  xy: 81, 1155
+  size: 58, 45
+  orig: 58, 45
+  offset: 0, 0
+  index: -1
+dragon_ligon_adult_tail
+  rotate: true
+  xy: 395, 1107
+  size: 94, 78
+  orig: 94, 78
+  offset: 0, 0
+  index: -1
+dragon_ligon_child_leg1
+  rotate: true
+  xy: 477, 1071
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+dragon_ligon_baby_head
+  rotate: false
+  xy: 451, 756
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+dragon_ligon_adult_leg7
+  rotate: false
+  xy: 141, 1155
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+dragon_ligon_skill08
+  rotate: false
+  xy: 172, 519
+  size: 173, 245
+  orig: 181, 245
+  offset: 8, 0
+  index: -1
+dragon_ligon_adult_love
+  rotate: true
+  xy: 453, 345
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+dragon_ligon_child_leg3
+  rotate: true
+  xy: 475, 1179
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+dragon_ligon_baby_effect
+  rotate: false
+  xy: 439, 630
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_ligon_baby_love
+  rotate: false
+  xy: 444, 692
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+dragon_ligon_baby_tail
+  rotate: false
+  xy: 320, 488
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+dragon_ligon_adult_wind1
+  rotate: false
+  xy: 188, 766
+  size: 170, 209
+  orig: 170, 209
+  offset: 0, 0
+  index: -1
+dragon_ligon_adult_leg3
+  rotate: true
+  xy: 2, 1155
+  size: 43, 77
+  orig: 43, 77
+  offset: 0, 0
+  index: -1
+dragon_ligon_adult_effect1
+  rotate: false
+  xy: 228, 262
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1

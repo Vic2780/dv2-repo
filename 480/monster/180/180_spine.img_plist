@@ -1,0 +1,200 @@
+180_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_sunset_arm4
+  rotate: true
+  xy: 854, 232
+  size: 135, 159
+  orig: 135, 159
+  offset: 0, 0
+  index: -1
+m_sunset_gro_head
+  rotate: true
+  xy: 736, 276
+  size: 120, 116
+  orig: 288, 302
+  offset: 124, 28
+  index: -1
+m_sunset_tail
+  rotate: false
+  xy: 429, 2
+  size: 402, 272
+  orig: 402, 272
+  offset: 0, 0
+  index: -1
+m_sunset_wing2p
+  rotate: false
+  xy: 833, 2
+  size: 157, 228
+  orig: 425, 518
+  offset: 200, 163
+  index: -1
+m_sunset_eye
+  rotate: false
+  xy: 558, 944
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+m_sunset_headp
+  rotate: false
+  xy: 668, 1016
+  size: 100, 104
+  orig: 288, 302
+  offset: 93, 198
+  index: -1
+m_sunset_mouth
+  rotate: true
+  xy: 560, 1016
+  size: 104, 106
+  orig: 288, 302
+  offset: 139, 17
+  index: -1
+m_sunset_neck
+  rotate: true
+  xy: 2, 522
+  size: 448, 408
+  orig: 448, 408
+  offset: 0, 0
+  index: -1
+m_sunset_arm1
+  rotate: false
+  xy: 854, 510
+  size: 150, 152
+  orig: 150, 152
+  offset: 0, 0
+  index: -1
+m_sunset_hair
+  rotate: true
+  xy: 191, 972
+  size: 148, 176
+  orig: 288, 302
+  offset: 140, 0
+  index: -1
+m_sunset_foot2
+  rotate: false
+  xy: 896, 369
+  size: 98, 139
+  orig: 98, 139
+  offset: 0, 0
+  index: -1
+m_sunset_gro_neck
+  rotate: true
+  xy: 412, 522
+  size: 334, 186
+  orig: 448, 408
+  offset: 36, 60
+  index: -1
+m_sunset_gro_tail
+  rotate: true
+  xy: 854, 664
+  size: 124, 146
+  orig: 402, 272
+  offset: 188, 72
+  index: -1
+m_sunset_gro_wing2
+  rotate: false
+  xy: 2, 972
+  size: 187, 138
+  orig: 425, 518
+  offset: 169, 311
+  index: -1
+m_sunset_body
+  rotate: true
+  xy: 600, 775
+  size: 239, 245
+  orig: 239, 245
+  offset: 0, 0
+  index: -1
+m_sunset_arm2
+  rotate: true
+  xy: 736, 398
+  size: 110, 158
+  orig: 146, 166
+  offset: 36, 0
+  index: -1
+m_sunset_gro_arm2
+  rotate: false
+  xy: 847, 790
+  size: 132, 104
+  orig: 146, 166
+  offset: 0, 62
+  index: -1
+m_sunset_gro_hair
+  rotate: true
+  xy: 847, 896
+  size: 110, 122
+  orig: 288, 302
+  offset: 170, 47
+  index: -1
+m_sunset_foot
+  rotate: false
+  xy: 369, 972
+  size: 80, 139
+  orig: 80, 139
+  offset: 0, 0
+  index: -1
+m_sunset_fin1
+  rotate: true
+  xy: 451, 1052
+  size: 56, 107
+  orig: 56, 107
+  offset: 0, 0
+  index: -1
+m_sunset_wing
+  rotate: false
+  xy: 429, 276
+  size: 305, 235
+  orig: 305, 235
+  offset: 0, 0
+  index: -1
+m_sunset_arm3
+  rotate: true
+  xy: 412, 858
+  size: 84, 185
+  orig: 84, 185
+  offset: 0, 0
+  index: -1
+m_sunset_leg
+  rotate: false
+  xy: 451, 944
+  size: 105, 106
+  orig: 107, 106
+  offset: 2, 0
+  index: -1
+m_sunset_wing2
+  rotate: false
+  xy: 2, 2
+  size: 425, 518
+  orig: 425, 518
+  offset: 0, 0
+  index: -1
+m_sunset_gro_leg
+  rotate: true
+  xy: 770, 1016
+  size: 95, 66
+  orig: 107, 106
+  offset: 0, 1
+  index: -1
+m_sunset_fin2
+  rotate: false
+  xy: 838, 1016
+  size: 48, 92
+  orig: 48, 92
+  offset: 0, 0
+  index: -1
+m_sunset_gro_foot
+  rotate: false
+  xy: 888, 1008
+  size: 68, 53
+  orig: 80, 139
+  offset: 0, 22
+  index: -1
+m_sunset_head
+  rotate: false
+  xy: 600, 513
+  size: 252, 260
+  orig: 288, 302
+  offset: 0, 19
+  index: -1

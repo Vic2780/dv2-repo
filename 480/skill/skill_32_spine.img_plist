@@ -1,0 +1,39 @@
+skill_32_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skill_poison4
+  rotate: true
+  xy: 2, 2
+  size: 156, 151
+  orig: 212, 239
+  offset: 16, 59
+  index: -1
+skill_poison5
+  rotate: false
+  xy: 2, 160
+  size: 144, 139
+  orig: 212, 239
+  offset: 28, 54
+  index: -1
+skill_poison2
+  rotate: false
+  xy: 2, 438
+  size: 61, 60
+  orig: 65, 70
+  offset: 3, 8
+  index: -1
+skill_poison3
+  rotate: false
+  xy: 2, 301
+  size: 144, 135
+  orig: 212, 239
+  offset: 30, 56
+  index: -1
+skill_poison1
+  rotate: false
+  xy: 65, 438
+  size: 61, 60
+  orig: 65, 70
+  offset: 3, 7
+  index: -1

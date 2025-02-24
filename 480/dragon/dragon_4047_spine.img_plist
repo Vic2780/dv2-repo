@@ -1,0 +1,445 @@
+dragon_4047_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_mushroom_baby_ear2
+  rotate: false
+  xy: 218, 654
+  size: 14, 37
+  orig: 14, 37
+  offset: 0, 0
+  index: -1
+dragon_mushroom_adult_capb
+  rotate: false
+  xy: 184, 708
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: -1
+dragon_mushroom_baby_body
+  rotate: true
+  xy: 206, 324
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+dragon_mushroom_adult_chin
+  rotate: false
+  xy: 234, 644
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+dragon_mushroom_adult_eye
+  rotate: false
+  xy: 170, 137
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_mushroom_critical_exp4
+  rotate: true
+  xy: 126, 480
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+dragon_mushroom_adult_cap
+  rotate: true
+  xy: 178, 486
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+dragon_mushroom_adult_mush2
+  rotate: true
+  xy: 206, 599
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+dragon_mushroom_adult_tw2
+  rotate: true
+  xy: 170, 2
+  size: 133, 52
+  orig: 133, 52
+  offset: 0, 0
+  index: -1
+dragon_mushroom_child_tail
+  rotate: true
+  xy: 2, 573
+  size: 94, 47
+  orig: 94, 47
+  offset: 0, 0
+  index: -1
+dragon_mushroom_adult_l_leg2b
+  rotate: false
+  xy: 235, 296
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+dragon_mushroom_child_cap
+  rotate: true
+  xy: 61, 656
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+dragon_mushroom_adult_neck
+  rotate: true
+  xy: 202, 370
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+dragon_mushroom_adult_head
+  rotate: true
+  xy: 114, 370
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+dragon_mushroom_adult_l_leg1b
+  rotate: true
+  xy: 192, 629
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+dragon_mushroom_adult_l_leg2a
+  rotate: false
+  xy: 224, 2
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+dragon_mushroom_adult_l_leg1a
+  rotate: true
+  xy: 181, 296
+  size: 26, 52
+  orig: 26, 52
+  offset: 0, 0
+  index: -1
+dragon_mushroom_child_eye
+  rotate: false
+  xy: 237, 625
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_mushroom_baby_mouth2
+  rotate: false
+  xy: 235, 316
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+dragon_mushroom_adult_l_leg2c
+  rotate: false
+  xy: 224, 85
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+dragon_mushroom_adult_l_leg1c
+  rotate: true
+  xy: 126, 540
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+dragon_mushroom_adult_emotion1
+  rotate: true
+  xy: 250, 657
+  size: 12, 4
+  orig: 12, 4
+  offset: 0, 0
+  index: -1
+dragon_mushroom_child_eye2
+  rotate: false
+  xy: 237, 606
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+sample
+  rotate: false
+  xy: 2, 2
+  size: 166, 150
+  orig: 166, 150
+  offset: 0, 0
+  index: -1
+dragon_mushroom_adult_tail
+  rotate: false
+  xy: 2, 321
+  size: 110, 97
+  orig: 110, 97
+  offset: 0, 0
+  index: -1
+dragon_mushroom_adult_ear
+  rotate: false
+  xy: 223, 693
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+dragon_mushroom_child_leg2
+  rotate: false
+  xy: 84, 492
+  size: 40, 72
+  orig: 40, 72
+  offset: 0, 0
+  index: -1
+dragon_mushroom_adult_smile
+  rotate: false
+  xy: 125, 656
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_mushroom_baby_head
+  rotate: true
+  xy: 153, 566
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+dragon_mushroom_child_leg1
+  rotate: false
+  xy: 152, 154
+  size: 29, 74
+  orig: 29, 74
+  offset: 0, 0
+  index: -1
+dragon_mushroom_child_capb
+  rotate: false
+  xy: 2, 669
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+dragon_mushroom_baby_leg1
+  rotate: false
+  xy: 184, 656
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+dragon_mushroom_baby_eyes2
+  rotate: false
+  xy: 100, 631
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+dragon_mushroom_child_ear
+  rotate: false
+  xy: 234, 657
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+dragon_mushroom_baby_cap
+  rotate: false
+  xy: 2, 492
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+dragon_mushroom_adult_body
+  rotate: false
+  xy: 2, 420
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+dragon_mushroom_child_eye3
+  rotate: false
+  xy: 166, 540
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+dragon_mushroom_child_body
+  rotate: false
+  xy: 181, 230
+  size: 73, 64
+  orig: 73, 64
+  offset: 0, 0
+  index: -1
+dragon_mushroom_adult_tw3
+  rotate: false
+  xy: 2, 230
+  size: 119, 89
+  orig: 119, 89
+  offset: 0, 0
+  index: -1
+dragon_mushroom_child_leg3
+  rotate: true
+  xy: 183, 194
+  size: 29, 71
+  orig: 29, 71
+  offset: 0, 0
+  index: -1
+dragon_mushroom_baby_eyes
+  rotate: false
+  xy: 146, 631
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+dragon_mushroom_baby_tail
+  rotate: true
+  xy: 224, 48
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+dragon_mushroom_adult_emotion2
+  rotate: true
+  xy: 238, 587
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+dragon_mushroom_baby_leg2
+  rotate: true
+  xy: 206, 421
+  size: 29, 48
+  orig: 29, 48
+  offset: 0, 0
+  index: -1
+dragon_mushroom_adult_mush1
+  rotate: false
+  xy: 206, 567
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+dragon_mushroom_baby_capb
+  rotate: false
+  xy: 183, 137
+  size: 71, 55
+  orig: 71, 55
+  offset: 0, 0
+  index: -1
+dragon_mushroom_baby_mouth
+  rotate: false
+  xy: 84, 566
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+dragon_mushroom_adult_tw1
+  rotate: false
+  xy: 2, 154
+  size: 148, 74
+  orig: 148, 74
+  offset: 0, 0
+  index: -1
+dragon_mushroom_critical_exp0
+  rotate: false
+  xy: 158, 411
+  size: 41, 43
+  orig: 41, 45
+  offset: 0, 1
+  index: -1
+dragon_mushroom_child_chin
+  rotate: true
+  xy: 239, 688
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+dragon_mushroom_child_leg4
+  rotate: false
+  xy: 51, 573
+  size: 47, 81
+  orig: 47, 81
+  offset: 0, 0
+  index: -1
+dragon_mushroom_adult_r_wing
+  rotate: false
+  xy: 99, 420
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+dragon_mushroom_critical_exp2
+  rotate: false
+  xy: 212, 486
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+dragon_mushroom_child_head
+  rotate: false
+  xy: 152, 324
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+dragon_mushroom_critical_exp1
+  rotate: false
+  xy: 189, 538
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+dragon_mushroom_baby_ear1
+  rotate: true
+  xy: 158, 456
+  size: 14, 44
+  orig: 14, 44
+  offset: 0, 0
+  index: -1
+dragon_mushroom_child_wing2
+  rotate: true
+  xy: 114, 321
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+dragon_mushroom_baby_sweat
+  rotate: false
+  xy: 238, 567
+  size: 16, 18
+  orig: 16, 20
+  offset: 0, 1
+  index: -1
+dragon_mushroom_adult_l_wing
+  rotate: true
+  xy: 123, 230
+  size: 78, 56
+  orig: 78, 56
+  offset: 0, 0
+  index: -1
+dragon_mushroom_child_heart
+  rotate: false
+  xy: 154, 370
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_mushroom_baby_leg4
+  rotate: false
+  xy: 212, 527
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+dragon_mushroom_baby_eyes3
+  rotate: false
+  xy: 204, 452
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+dragon_mushroom_critical_exp3
+  rotate: true
+  xy: 100, 566
+  size: 63, 51
+  orig: 75, 53
+  offset: 6, 0
+  index: -1

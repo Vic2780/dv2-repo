@@ -1,0 +1,172 @@
+174_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_icetiton_rightarm2
+  rotate: true
+  xy: 387, 283
+  size: 160, 114
+  orig: 240, 306
+  offset: 47, 192
+  index: -1
+m_icetiton_rightleg2_gro
+  rotate: true
+  xy: 387, 445
+  size: 36, 68
+  orig: 124, 188
+  offset: 22, 21
+  index: -1
+m_icetiton_lefthand2
+  rotate: false
+  xy: 264, 2
+  size: 250, 279
+  orig: 260, 299
+  offset: 6, 20
+  index: -1
+m_icetiton_lefttleg2_a
+  rotate: true
+  xy: 503, 394
+  size: 105, 116
+  orig: 123, 188
+  offset: 0, 0
+  index: -1
+m_icetiton_lefttleg2_a_gro
+  rotate: true
+  xy: 621, 394
+  size: 89, 116
+  orig: 123, 188
+  offset: 0, 0
+  index: -1
+m_icetiton_head
+  rotate: true
+  xy: 1316, 2
+  size: 268, 137
+  orig: 268, 137
+  offset: 0, 0
+  index: -1
+m_icetiton_head_gro
+  rotate: false
+  xy: 1239, 272
+  size: 222, 123
+  orig: 268, 137
+  offset: 29, 8
+  index: -1
+m_icetiton_body
+  rotate: false
+  xy: 516, 2
+  size: 283, 241
+  orig: 295, 241
+  offset: 12, 0
+  index: -1
+m_icetiton_eye
+  rotate: false
+  xy: 2, 472
+  size: 26, 27
+  orig: 268, 137
+  offset: 121, 49
+  index: -1
+m_icetiton_lefthand1_gro
+  rotate: false
+  xy: 801, 244
+  size: 240, 235
+  orig: 260, 299
+  offset: 15, 34
+  index: -1
+m_icetiton_leftleg1_gro
+  rotate: true
+  xy: 739, 394
+  size: 57, 38
+  orig: 123, 188
+  offset: 51, 106
+  index: -1
+m_icetiton_rightarm_gro
+  rotate: false
+  xy: 257, 394
+  size: 128, 106
+  orig: 240, 306
+  offset: 50, 158
+  index: -1
+m_icetiton_rightleg1_gro
+  rotate: false
+  xy: 1387, 397
+  size: 72, 66
+  orig: 124, 188
+  offset: 12, 98
+  index: -1
+m_icetiton_head2
+  rotate: false
+  xy: 1239, 397
+  size: 146, 81
+  orig: 268, 137
+  offset: 95, 56
+  index: -1
+m_icetiton_eye_eff
+  rotate: true
+  xy: 739, 453
+  size: 36, 37
+  orig: 268, 137
+  offset: 116, 44
+  index: -1
+m_icetiton_body_gro
+  rotate: false
+  xy: 516, 245
+  size: 251, 147
+  orig: 295, 241
+  offset: 11, 27
+  index: -1
+m_icetiton_righthand_gro
+  rotate: true
+  xy: 1067, 2
+  size: 241, 247
+  orig: 261, 299
+  offset: 8, 26
+  index: -1
+m_icetiton_headback
+  rotate: false
+  xy: 1043, 421
+  size: 162, 79
+  orig: 268, 137
+  offset: 49, 24
+  index: -1
+m_icetiton_rightarm1
+  rotate: true
+  xy: 801, 2
+  size: 240, 264
+  orig: 240, 306
+  offset: 0, 0
+  index: -1
+m_icetiton_lefthand1
+  rotate: false
+  xy: 2, 2
+  size: 260, 281
+  orig: 260, 299
+  offset: 0, 0
+  index: -1
+m_icetiton_body2
+  rotate: false
+  xy: 2, 285
+  size: 253, 185
+  orig: 295, 241
+  offset: 0, 0
+  index: -1
+m_icetiton_lefttleg2_b
+  rotate: false
+  xy: 457, 445
+  size: 41, 36
+  orig: 123, 188
+  offset: 47, 98
+  index: -1
+m_icetiton_rightleg1
+  rotate: true
+  xy: 264, 283
+  size: 88, 116
+  orig: 124, 188
+  offset: 0, 72
+  index: -1
+m_icetiton_leftarm_gro
+  rotate: false
+  xy: 1043, 245
+  size: 194, 174
+  orig: 240, 306
+  offset: 41, 105
+  index: -1

@@ -1,0 +1,543 @@
+dragon_4003_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_figer_adult_note1
+  rotate: true
+  xy: 905, 123
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_figer_child_eye
+  rotate: false
+  xy: 760, 86
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_l_leg1a
+  rotate: true
+  xy: 948, 106
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_r_nflame
+  rotate: false
+  xy: 773, 174
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_eye4
+  rotate: false
+  xy: 405, 166
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_figer_child_wing2
+  rotate: true
+  xy: 714, 98
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_note2
+  rotate: true
+  xy: 905, 86
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_l_leg2c
+  rotate: true
+  xy: 1148, 152
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+dragon_figer_child_head
+  rotate: true
+  xy: 796, 2
+  size: 64, 41
+  orig: 64, 41
+  offset: 0, 0
+  index: -1
+dragon_figer_child_chin
+  rotate: true
+  xy: 1012, 155
+  size: 55, 38
+  orig: 55, 38
+  offset: 0, 0
+  index: -1
+dragon_figer_baby_mouth
+  rotate: false
+  xy: 139, 228
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+dragon_figer_critical_cria3
+  rotate: false
+  xy: 948, 54
+  size: 255, 50
+  orig: 255, 50
+  offset: 0, 0
+  index: -1
+dragon_figer_baby_tail
+  rotate: false
+  xy: 1068, 106
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+dragon_figer_baby_nflame
+  rotate: false
+  xy: 50, 230
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+dragon_figer_child_eye3
+  rotate: false
+  xy: 718, 86
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_critical2
+  rotate: true
+  xy: 50, 2
+  size: 226, 71
+  orig: 226, 71
+  offset: 0, 0
+  index: -1
+dragon_figer_child_leg4
+  rotate: true
+  xy: 343, 222
+  size: 31, 74
+  orig: 31, 74
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_r_leg1a
+  rotate: true
+  xy: 839, 2
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+dragon_figer_baby_leg1
+  rotate: false
+  xy: 1120, 106
+  size: 22, 46
+  orig: 22, 46
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_tooth
+  rotate: true
+  xy: 704, 98
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+dragon_figer_critical_crib2
+  rotate: true
+  xy: 308, 2
+  size: 218, 95
+  orig: 218, 95
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_r_leg2c
+  rotate: false
+  xy: 1185, 189
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+dragon_figer_child_tail
+  rotate: true
+  xy: 773, 98
+  size: 74, 64
+  orig: 74, 64
+  offset: 0, 0
+  index: -1
+dragon_figer_child_n_flame2
+  rotate: false
+  xy: 1148, 189
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_l_leg2d
+  rotate: false
+  xy: 796, 68
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_eye
+  rotate: false
+  xy: 405, 203
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dragon_figer_baby_eye3
+  rotate: false
+  xy: 612, 123
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+dragon_figer_baby_leg4a
+  rotate: false
+  xy: 309, 222
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_eye5
+  rotate: false
+  xy: 405, 154
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_r_leg1b
+  rotate: false
+  xy: 220, 222
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_head
+  rotate: true
+  xy: 1015, 106
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_tail
+  rotate: true
+  xy: 547, 2
+  size: 119, 72
+  orig: 119, 72
+  offset: 0, 0
+  index: -1
+dragon_figer_baby_head
+  rotate: false
+  xy: 1052, 155
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_r_leg2d
+  rotate: true
+  xy: 596, 123
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_l_leg1b
+  rotate: true
+  xy: 1184, 106
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_l_leg2a
+  rotate: true
+  xy: 839, 50
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+dragon_figer_baby_heart
+  rotate: false
+  xy: 1051, 212
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_figer_baby_eye2
+  rotate: false
+  xy: 85, 230
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_body1
+  rotate: true
+  xy: 654, 154
+  size: 94, 74
+  orig: 94, 74
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_l_wing
+  rotate: false
+  xy: 506, 154
+  size: 146, 95
+  orig: 146, 95
+  offset: 0, 0
+  index: -1
+dragon_figer_baby_wing
+  rotate: false
+  xy: 265, 222
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+dragon_figer_baby_eye
+  rotate: false
+  xy: 103, 230
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_btooth
+  rotate: false
+  xy: 704, 105
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+dragon_figer_critical_crib3
+  rotate: false
+  xy: 405, 2
+  size: 140, 150
+  orig: 140, 150
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_body2
+  rotate: true
+  xy: 1144, 106
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+dragon_figer_child_leg1
+  rotate: false
+  xy: 679, 2
+  size: 37, 94
+  orig: 37, 94
+  offset: 0, 0
+  index: -1
+dragon_figer_critical_cria1
+  rotate: false
+  xy: 898, 2
+  size: 317, 50
+  orig: 317, 50
+  offset: 0, 0
+  index: -1
+dragon_figer_child_heart
+  rotate: false
+  xy: 1051, 212
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_figer_baby_tooth
+  rotate: true
+  xy: 621, 116
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+dragon_figer_baby_body
+  rotate: true
+  xy: 898, 155
+  size: 66, 51
+  orig: 66, 51
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_eye2
+  rotate: false
+  xy: 405, 191
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_r_leg1c
+  rotate: false
+  xy: 730, 235
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+dragon_figer_child_leg2
+  rotate: true
+  xy: 634, 116
+  size: 36, 78
+  orig: 36, 78
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_l_nflame
+  rotate: true
+  xy: 718, 2
+  size: 82, 76
+  orig: 82, 76
+  offset: 0, 0
+  index: -1
+dragon_figer_baby_leg3
+  rotate: true
+  xy: 199, 228
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+dragon_figer_child_body
+  rotate: false
+  xy: 839, 86
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_l_leg1c
+  rotate: false
+  xy: 547, 123
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_r_wing
+  rotate: true
+  xy: 419, 154
+  size: 100, 85
+  orig: 100, 85
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_chin
+  rotate: false
+  xy: 1002, 219
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+dragon_figer_critical_crib4
+  rotate: false
+  xy: 621, 2
+  size: 56, 112
+  orig: 56, 112
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_r_leg2a
+  rotate: true
+  xy: 898, 223
+  size: 31, 52
+  orig: 31, 52
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_neck
+  rotate: false
+  xy: 837, 174
+  size: 59, 71
+  orig: 59, 71
+  offset: 0, 0
+  index: -1
+dragon_figer_child_neck
+  rotate: false
+  xy: 1099, 210
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_l_leg2b
+  rotate: true
+  xy: 121, 230
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+dragon_figer_baby_leg2
+  rotate: true
+  xy: 897, 54
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+dragon_figer_critical_cria2
+  rotate: true
+  xy: 2, 2
+  size: 248, 46
+  orig: 248, 46
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_eye3
+  rotate: false
+  xy: 405, 179
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dragon_figer_baby_chin
+  rotate: true
+  xy: 1107, 154
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_figer_child_eye2
+  rotate: false
+  xy: 739, 86
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_critical1
+  rotate: true
+  xy: 123, 2
+  size: 224, 77
+  orig: 224, 77
+  offset: 0, 0
+  index: -1
+dragon_figer_child_leg3
+  rotate: false
+  xy: 730, 153
+  size: 41, 80
+  orig: 41, 80
+  offset: 0, 0
+  index: -1
+dragon_figer_baby_leg4b
+  rotate: true
+  xy: 177, 228
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+dragon_figer_critical_crib1
+  rotate: true
+  xy: 202, 2
+  size: 218, 104
+  orig: 218, 104
+  offset: 0, 0
+  index: -1
+dragon_figer_adult_r_leg2b
+  rotate: false
+  xy: 679, 98
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+dragon_figer_child_tooth
+  rotate: true
+  xy: 405, 215
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+dragon_figer_child_n_flame1
+  rotate: true
+  xy: 952, 219
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+dragon_figer_child_wing1
+  rotate: true
+  xy: 951, 155
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1

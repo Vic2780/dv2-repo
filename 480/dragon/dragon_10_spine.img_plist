@@ -1,0 +1,683 @@
+dragon_10_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_ness_baby_body
+  rotate: true
+  xy: 764, 1921
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+dragon_ness_child_mouth
+  rotate: false
+  xy: 162, 1166
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+dragon_ness_critical03
+  rotate: true
+  xy: 2, 1603
+  size: 401, 143
+  orig: 401, 143
+  offset: 0, 0
+  index: -1
+dragon_ness_adult_l_leg1b
+  rotate: false
+  xy: 768, 1032
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+dragon_ness_baby_r_leg2
+  rotate: true
+  xy: 804, 2
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+dragon_ness_child_l_leg2
+  rotate: false
+  xy: 788, 1238
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+dragon_ness_child_r_leg2
+  rotate: false
+  xy: 768, 1084
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+dragon_ness_evolution_basic2
+  rotate: true
+  xy: 276, 635
+  size: 317, 229
+  orig: 317, 237
+  offset: 0, 8
+  index: -1
+sample
+  rotate: false
+  xy: 276, 954
+  size: 193, 187
+  orig: 193, 187
+  offset: 0, 0
+  index: -1
+dragon_ness_evolution_weff3
+  rotate: true
+  xy: 500, 234
+  size: 311, 272
+  orig: 405, 304
+  offset: 92, 2
+  index: -1
+dragon_ness_evolution_body_p
+  rotate: false
+  xy: 213, 2002
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+dragon_ness_child_neck
+  rotate: true
+  xy: 675, 1943
+  size: 64, 54
+  orig: 64, 54
+  offset: 0, 0
+  index: -1
+dragon_ness_adult_ce1
+  rotate: false
+  xy: 521, 1386
+  size: 239, 244
+  orig: 239, 244
+  offset: 0, 0
+  index: -1
+dragon_ness_baby_eye3
+  rotate: false
+  xy: 788, 1600
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+dragon_ness_baby_l_leg2
+  rotate: false
+  xy: 340, 2022
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+dragon_ness_evolution_head_p
+  rotate: true
+  xy: 778, 797
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+dragon_ness_child_tail1
+  rotate: false
+  xy: 761, 1122
+  size: 60, 114
+  orig: 60, 114
+  offset: 0, 0
+  index: -1
+dragon_ness_adult_tail1
+  rotate: false
+  xy: 66, 2006
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: -1
+dragon_ness_critical08
+  rotate: false
+  xy: 774, 516
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+dragon_ness_child_eye2
+  rotate: false
+  xy: 378, 2022
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+dragon_ness_child_body
+  rotate: false
+  xy: 523, 1855
+  size: 96, 86
+  orig: 96, 86
+  offset: 0, 0
+  index: -1
+dragon_ness_adult_fin
+  rotate: false
+  xy: 523, 1747
+  size: 125, 106
+  orig: 125, 106
+  offset: 0, 0
+  index: -1
+dragon_ness_adult_body
+  rotate: false
+  xy: 359, 234
+  size: 104, 68
+  orig: 104, 68
+  offset: 0, 0
+  index: -1
+dragon_ness_child_head
+  rotate: true
+  xy: 774, 276
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+dragon_ness_evolution_smoeff
+  rotate: false
+  xy: 359, 2
+  size: 380, 230
+  orig: 380, 230
+  offset: 0, 0
+  index: -1
+dragon_ness_evolution_weff2
+  rotate: true
+  xy: 270, 304
+  size: 329, 228
+  orig: 405, 304
+  offset: 76, 0
+  index: -1
+dragon_ness_critical04
+  rotate: true
+  xy: 2, 691
+  size: 492, 158
+  orig: 502, 158
+  offset: 0, 0
+  index: -1
+dragon_ness_evolution_r_leg1
+  rotate: false
+  xy: 788, 1281
+  size: 31, 83
+  orig: 31, 83
+  offset: 0, 0
+  index: -1
+dragon_ness_adult_eye
+  rotate: true
+  xy: 471, 1122
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+dragon_ness_adult_attack
+  rotate: true
+  xy: 332, 1428
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+dragon_ness_baby_r_leg1
+  rotate: true
+  xy: 762, 1575
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+dragon_ness_evolution_cbasic1
+  rotate: true
+  xy: 741, 2
+  size: 205, 61
+  orig: 205, 61
+  offset: 0, 0
+  index: -1
+dragon_ness_child_l_leg1
+  rotate: true
+  xy: 762, 1367
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1
+dragon_ness_baby_neck
+  rotate: true
+  xy: 774, 333
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+dragon_ness_evolution_horn_p
+  rotate: false
+  xy: 2, 2006
+  size: 62, 37
+  orig: 62, 37
+  offset: 0, 0
+  index: -1
+dragon_ness_evolution_r_leg1b
+  rotate: true
+  xy: 764, 1848
+  size: 71, 48
+  orig: 71, 48
+  offset: 0, 0
+  index: -1
+dragon_ness_adult_tailfin1
+  rotate: false
+  xy: 311, 2002
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+dragon_ness_evolution_e1
+  rotate: false
+  xy: 147, 1509
+  size: 199, 312
+  orig: 199, 328
+  offset: 0, 0
+  index: -1
+dragon_ness_evolution_l_leg1b
+  rotate: true
+  xy: 616, 1943
+  size: 85, 57
+  orig: 85, 57
+  offset: 0, 0
+  index: -1
+dragon_ness_evolution_l_leg1
+  rotate: false
+  xy: 749, 1779
+  size: 71, 67
+  orig: 71, 67
+  offset: 0, 0
+  index: -1
+dragon_ness_adult_tail4
+  rotate: true
+  xy: 698, 1858
+  size: 75, 64
+  orig: 75, 64
+  offset: 0, 0
+  index: -1
+dragon_ness_evolution_weff1
+  rotate: false
+  xy: 2, 2
+  size: 355, 300
+  orig: 405, 304
+  offset: 49, 4
+  index: -1
+dragon_ness_critical09
+  rotate: true
+  xy: 522, 1943
+  size: 83, 92
+  orig: 83, 92
+  offset: 0, 0
+  index: -1
+dragon_ness_evolution_basic1
+  rotate: false
+  xy: 471, 975
+  size: 295, 145
+  orig: 317, 237
+  offset: 19, 0
+  index: -1
+dragon_ness_evolution_neckfin2
+  rotate: false
+  xy: 268, 1143
+  size: 59, 40
+  orig: 59, 40
+  offset: 0, 0
+  index: -1
+dragon_ness_evolution_tailfin2_P
+  rotate: false
+  xy: 621, 1858
+  size: 75, 83
+  orig: 75, 83
+  offset: 0, 0
+  index: -1
+dragon_ness_adult_mouth
+  rotate: true
+  xy: 804, 28
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+dragon_ness_adult_l_leg2b
+  rotate: false
+  xy: 774, 482
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+dragon_ness_adult_horn
+  rotate: true
+  xy: 762, 1529
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+dragon_ness_adult_eye2
+  rotate: true
+  xy: 471, 954
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+dragon_ness_adult_r_leg2b
+  rotate: true
+  xy: 799, 1084
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+dragon_ness_critical05
+  rotate: false
+  xy: 348, 1704
+  size: 173, 166
+  orig: 173, 166
+  offset: 0, 0
+  index: -1
+dragon_ness_adult_r_leg2
+  rotate: true
+  xy: 675, 2009
+  size: 23, 54
+  orig: 23, 54
+  offset: 0, 0
+  index: -1
+dragon_ness_baby_head
+  rotate: false
+  xy: 768, 975
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+dragon_ness_critical10
+  rotate: false
+  xy: 774, 209
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+dragon_ness_critical06
+  rotate: false
+  xy: 147, 1823
+  size: 198, 177
+  orig: 200, 177
+  offset: 1, 0
+  index: -1
+dragon_ness_adult_tailfin2
+  rotate: true
+  xy: 650, 1765
+  size: 91, 97
+  orig: 91, 97
+  offset: 0, 0
+  index: -1
+dragon_ness_critical01
+  rotate: false
+  xy: 507, 832
+  size: 312, 141
+  orig: 312, 143
+  offset: 0, 2
+  index: -1
+dragon_ness_baby_tail2
+  rotate: false
+  xy: 741, 209
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+dragon_ness_child_fin2
+  rotate: false
+  xy: 653, 1632
+  size: 104, 91
+  orig: 104, 91
+  offset: 0, 0
+  index: -1
+dragon_ness_evolution_horn_p22
+  rotate: false
+  xy: 653, 1725
+  size: 98, 38
+  orig: 98, 38
+  offset: 0, 0
+  index: -1
+dragon_ness_evolution_e2
+  rotate: false
+  xy: 145, 1185
+  size: 185, 322
+  orig: 199, 328
+  offset: 2, 6
+  index: -1
+dragon_ness_baby_tail
+  rotate: true
+  xy: 265, 2002
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+dragon_ness_adult_damaged
+  rotate: false
+  xy: 122, 2031
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+dragon_ness_evolution_cbasic2
+  rotate: true
+  xy: 162, 691
+  size: 372, 112
+  orig: 372, 112
+  offset: 0, 0
+  index: -1
+dragon_ness_adult_tail3
+  rotate: false
+  xy: 731, 1935
+  size: 31, 56
+  orig: 31, 56
+  offset: 0, 0
+  index: -1
+dragon_ness_evolution_weff4
+  rotate: true
+  xy: 2, 304
+  size: 385, 266
+  orig: 405, 304
+  offset: 0, 1
+  index: -1
+dragon_ness_adult_r_leg1
+  rotate: false
+  xy: 465, 234
+  size: 24, 68
+  orig: 24, 68
+  offset: 0, 0
+  index: -1
+dragon_ness_adult_neck
+  rotate: false
+  xy: 774, 385
+  size: 45, 95
+  orig: 45, 95
+  offset: 0, 0
+  index: -1
+dragon_ness_critical02
+  rotate: true
+  xy: 2, 1185
+  size: 416, 141
+  orig: 416, 143
+  offset: 0, 2
+  index: -1
+dragon_ness_evolution_smoeff2
+  rotate: false
+  xy: 489, 1122
+  size: 270, 262
+  orig: 274, 262
+  offset: 0, 0
+  index: -1
+dragon_ness_child_fin
+  rotate: false
+  xy: 162, 1065
+  size: 104, 99
+  orig: 104, 99
+  offset: 0, 0
+  index: -1
+dragon_ness_baby_l_leg1
+  rotate: true
+  xy: 489, 1386
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+dragon_ness_adult_neckfin2
+  rotate: false
+  xy: 763, 2014
+  size: 51, 23
+  orig: 51, 23
+  offset: 0, 0
+  index: -1
+dragon_ness_adult_r_leg1b
+  rotate: false
+  xy: 778, 547
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+dragon_ness_adult_neckfin
+  rotate: false
+  xy: 753, 1725
+  size: 68, 52
+  orig: 68, 52
+  offset: 0, 0
+  index: -1
+dragon_ness_baby_heart
+  rotate: false
+  xy: 764, 1973
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_ness_child_r_leg1
+  rotate: true
+  xy: 731, 1993
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+dragon_ness_evolution_tail4_p
+  rotate: false
+  xy: 778, 732
+  size: 38, 63
+  orig: 38, 63
+  offset: 0, 0
+  index: -1
+dragon_ness_adult_l_leg2
+  rotate: false
+  xy: 762, 1473
+  size: 22, 54
+  orig: 22, 54
+  offset: 0, 0
+  index: -1
+dragon_ness_evolution_fin
+  rotate: false
+  xy: 523, 1632
+  size: 128, 113
+  orig: 128, 113
+  offset: 0, 0
+  index: -1
+dragon_ness_evolution_horn_p2
+  rotate: true
+  xy: 761, 1238
+  size: 127, 25
+  orig: 127, 25
+  offset: 0, 0
+  index: -1
+dragon_ness_adult_head
+  rotate: true
+  xy: 786, 1473
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+dragon_ness_child_eye
+  rotate: false
+  xy: 403, 2022
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+dragon_ness_baby_eye2
+  rotate: false
+  xy: 122, 2006
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_ness_critical11
+  rotate: false
+  xy: 347, 1872
+  size: 173, 148
+  orig: 173, 148
+  offset: 0, 0
+  index: -1
+dragon_ness_child_tail2
+  rotate: false
+  xy: 147, 2002
+  size: 64, 41
+  orig: 64, 41
+  offset: 0, 0
+  index: -1
+dragon_ness_adult_tail2
+  rotate: false
+  xy: 762, 1425
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+dragon_ness_critical07
+  rotate: true
+  xy: 332, 1143
+  size: 283, 155
+  orig: 283, 155
+  offset: 0, 0
+  index: -1
+dragon_ness_baby_eye
+  rotate: false
+  xy: 788, 1575
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+dragon_ness_adult_heart
+  rotate: false
+  xy: 764, 1973
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_ness_baby_mouth
+  rotate: true
+  xy: 802, 1366
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+dragon_ness_evolution_neckfin_p
+  rotate: true
+  xy: 759, 1632
+  size: 89, 62
+  orig: 89, 62
+  offset: 0, 0
+  index: -1
+dragon_ness_critical12
+  rotate: true
+  xy: 507, 547
+  size: 283, 269
+  orig: 285, 275
+  offset: 0, 2
+  index: -1
+dragon_ness_evolution_e3
+  rotate: false
+  xy: 348, 1428
+  size: 171, 274
+  orig: 199, 328
+  offset: 12, 20
+  index: -1
+dragon_ness_adult_l_leg1
+  rotate: false
+  xy: 778, 663
+  size: 35, 67
+  orig: 35, 67
+  offset: 0, 0
+  index: -1
+dragon_ness_evolution_neck_p
+  rotate: false
+  xy: 778, 593
+  size: 36, 68
+  orig: 36, 68
+  offset: 0, 0
+  index: -1

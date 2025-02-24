@@ -1,0 +1,25 @@
+130_effect_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_pinkbell_ef2
+  rotate: false
+  xy: 2, 2
+  size: 363, 190
+  orig: 375, 254
+  offset: 0, 10
+  index: -1
+m_pinkbell_ef1
+  rotate: false
+  xy: 367, 2
+  size: 357, 173
+  orig: 375, 173
+  offset: 11, 0
+  index: -1
+m_pinkbell_ef3
+  rotate: false
+  xy: 726, 2
+  size: 343, 168
+  orig: 375, 254
+  offset: 31, 10
+  index: -1

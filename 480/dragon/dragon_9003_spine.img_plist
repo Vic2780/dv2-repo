@@ -1,0 +1,284 @@
+dragon_9003_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_elfguard_adult_eye1
+  rotate: false
+  xy: 78, 850
+  size: 42, 14
+  orig: 42, 14
+  offset: 0, 0
+  index: -1
+dragon_elfguard_critical01
+  rotate: true
+  xy: 411, 640
+  size: 157, 67
+  orig: 157, 67
+  offset: 0, 0
+  index: -1
+dragon_elfguard_critical08
+  rotate: true
+  xy: 258, 347
+  size: 179, 229
+  orig: 179, 229
+  offset: 0, 0
+  index: -1
+dragon_elfguard_adult_hair2
+  rotate: false
+  xy: 199, 791
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+dragon_elfguard_adult_hood2
+  rotate: false
+  xy: 403, 799
+  size: 71, 65
+  orig: 71, 65
+  offset: 0, 0
+  index: -1
+dragon_elfguard_adult_attack04
+  rotate: false
+  xy: 221, 554
+  size: 188, 188
+  orig: 188, 188
+  offset: 0, 0
+  index: -1
+dragon_elfguard_critical02
+  rotate: false
+  xy: 2, 554
+  size: 217, 201
+  orig: 217, 201
+  offset: 0, 0
+  index: -1
+dragon_elfguard_adult_head
+  rotate: true
+  xy: 339, 744
+  size: 75, 62
+  orig: 75, 62
+  offset: 0, 0
+  index: -1
+dragon_elfguard_adult_attack01
+  rotate: true
+  xy: 482, 2
+  size: 95, 23
+  orig: 95, 23
+  offset: 0, 0
+  index: -1
+dragon_elfguard_adult_mouth1
+  rotate: true
+  xy: 403, 744
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+dragon_elfguard_adult_leg
+  rotate: false
+  xy: 493, 99
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+dragon_elfguard_adult_arm2
+  rotate: true
+  xy: 493, 132
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+dragon_elfguard_critical03
+  rotate: true
+  xy: 411, 528
+  size: 110, 99
+  orig: 110, 99
+  offset: 0, 0
+  index: -1
+dragon_elfguard_adult_bow
+  rotate: true
+  xy: 258, 528
+  size: 24, 96
+  orig: 28, 110
+  offset: 0, 6
+  index: -1
+dragon_elfguard_adult_hair_a
+  rotate: true
+  xy: 476, 799
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+dragon_elfguard_adult_arrow
+  rotate: false
+  xy: 482, 99
+  size: 9, 57
+  orig: 9, 59
+  offset: 0, 2
+  index: -1
+dragon_elfguard_adult_hair4
+  rotate: false
+  xy: 480, 640
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+dragon_elfguard_adult_hair1
+  rotate: false
+  xy: 297, 298
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+dragon_elfguard_adult_attack02
+  rotate: true
+  xy: 2, 821
+  size: 35, 74
+  orig: 35, 74
+  offset: 0, 0
+  index: -1
+dragon_elfguard_adult_hood1
+  rotate: false
+  xy: 356, 528
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+dragon_elfguard_critical04
+  rotate: true
+  xy: 327, 2
+  size: 343, 153
+  orig: 405, 153
+  offset: 19, 0
+  index: -1
+dragon_elfguard_adult_hand2
+  rotate: false
+  xy: 476, 852
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+dragon_elfguard_adult_quiver
+  rotate: true
+  xy: 78, 821
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+dragon_elfguard_adult_hair3
+  rotate: false
+  xy: 480, 674
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_elfguard_adult_arm1
+  rotate: false
+  xy: 125, 845
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+dragon_elfguard_adult_foot2
+  rotate: true
+  xy: 125, 821
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+dragon_elfguard_critical05
+  rotate: true
+  xy: 2, 757
+  size: 62, 195
+  orig: 62, 195
+  offset: 0, 0
+  index: -1
+dragon_elfguard_adult_eyebrow1
+  rotate: false
+  xy: 480, 661
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1
+dragon_elfguard_adult_body
+  rotate: false
+  xy: 258, 298
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+dragon_elfguard_adult_eye2
+  rotate: false
+  xy: 258, 340
+  size: 34, 5
+  orig: 34, 5
+  offset: 0, 0
+  index: -1
+dragon_elfguard_critical06
+  rotate: false
+  xy: 2, 298
+  size: 254, 254
+  orig: 254, 254
+  offset: 0, 0
+  index: -1
+dragon_elfguard_adult_hand1
+  rotate: false
+  xy: 397, 528
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+dragon_elfguard_adult_attack03
+  rotate: true
+  xy: 221, 744
+  size: 104, 116
+  orig: 104, 116
+  offset: 0, 0
+  index: -1
+dragon_elfguard_adult_hair_b
+  rotate: true
+  xy: 339, 846
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+dragon_elfguard_adult_eye3
+  rotate: true
+  xy: 505, 674
+  size: 32, 5
+  orig: 32, 5
+  offset: 0, 0
+  index: -1
+dragon_elfguard_critical07
+  rotate: false
+  xy: 2, 2
+  size: 323, 294
+  orig: 323, 294
+  offset: 0, 0
+  index: -1
+dragon_elfguard_adult_foot1
+  rotate: false
+  xy: 199, 757
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+dragon_elfguard_adult_eyebrow2
+  rotate: true
+  xy: 393, 821
+  size: 33, 8
+  orig: 33, 8
+  offset: 0, 0
+  index: -1
+dragon_elfguard_adult_mouth2
+  rotate: false
+  xy: 482, 158
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+dragon_elfguard_adult_bowstring
+  rotate: true
+  xy: 339, 821
+  size: 23, 52
+  orig: 23, 52
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,249 @@
+61_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_zhakabrous_groggy_arm1
+  rotate: false
+  xy: 1834, 455
+  size: 92, 62
+  orig: 92, 62
+  offset: 0, 0
+  index: -1
+m_zhakabrous_hand1
+  rotate: false
+  xy: 1684, 227
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+m_zhakabrous_groggy_rleg2
+  rotate: false
+  xy: 1777, 523
+  size: 63, 39
+  orig: 63, 39
+  offset: 0, 0
+  index: -1
+m_zhakabrous_arm0
+  rotate: false
+  xy: 1832, 2
+  size: 199, 214
+  orig: 199, 214
+  offset: 0, 0
+  index: -1
+m_zhakabrous_spk1
+  rotate: false
+  xy: 1914, 329
+  size: 108, 99
+  orig: 110, 99
+  offset: 2, 0
+  index: -1
+m_zhakabrous_foot
+  rotate: false
+  xy: 1304, 264
+  size: 90, 115
+  orig: 90, 115
+  offset: 0, 0
+  index: -1
+m_zhakabrous_groggy_doggi
+  rotate: false
+  xy: 1031, 2
+  size: 271, 392
+  orig: 271, 392
+  offset: 0, 0
+  index: -1
+m_zhakabrous_rleg2
+  rotate: false
+  xy: 208, 449
+  size: 144, 119
+  orig: 144, 119
+  offset: 0, 0
+  index: -1
+m_zhakabrous_groggy_arm2
+  rotate: true
+  xy: 1928, 430
+  size: 104, 87
+  orig: 104, 87
+  offset: 0, 0
+  index: -1
+m_zhakabrous_doggi
+  rotate: false
+  xy: 2, 2
+  size: 369, 445
+  orig: 369, 445
+  offset: 0, 0
+  index: -1
+m_zhakabrous_spk2
+  rotate: false
+  xy: 1565, 2
+  size: 68, 230
+  orig: 68, 230
+  offset: 0, 0
+  index: -1
+m_zhakabrous_arm1
+  rotate: true
+  xy: 1056, 396
+  size: 155, 185
+  orig: 155, 185
+  offset: 0, 0
+  index: -1
+m_zhakabrous_groggy_lleg
+  rotate: false
+  xy: 1778, 83
+  size: 48, 55
+  orig: 48, 57
+  offset: 0, 0
+  index: -1
+m_zhakabrous_lleg
+  rotate: true
+  xy: 1396, 264
+  size: 113, 147
+  orig: 113, 147
+  offset: 0, 0
+  index: -1
+m_zhakabrous_ac1
+  rotate: false
+  xy: 2, 449
+  size: 204, 120
+  orig: 204, 120
+  offset: 0, 0
+  index: -1
+m_zhakabrous_sm
+  rotate: true
+  xy: 1778, 2
+  size: 79, 50
+  orig: 79, 50
+  offset: 0, 0
+  index: -1
+m_zhakabrous_groggy_head1
+  rotate: false
+  xy: 804, 408
+  size: 176, 162
+  orig: 176, 164
+  offset: 0, 0
+  index: -1
+m_zhakabrous_groggy_hand1
+  rotate: true
+  xy: 1834, 358
+  size: 95, 76
+  orig: 95, 76
+  offset: 0, 0
+  index: -1
+m_zhakabrous_groggy_body
+  rotate: true
+  xy: 1526, 379
+  size: 180, 91
+  orig: 180, 91
+  offset: 0, 0
+  index: -1
+m_zhakabrous_arm2
+  rotate: true
+  xy: 1914, 218
+  size: 109, 111
+  orig: 109, 111
+  offset: 0, 0
+  index: -1
+m_zhakabrous_spk3
+  rotate: true
+  xy: 1722, 375
+  size: 146, 110
+  orig: 148, 112
+  offset: 2, 2
+  index: -1
+m_zhakabrous_head1
+  rotate: true
+  xy: 1304, 2
+  size: 260, 259
+  orig: 260, 259
+  offset: 0, 0
+  index: -1
+m_zhakabrous_eye1
+  rotate: true
+  xy: 982, 408
+  size: 156, 72
+  orig: 156, 72
+  offset: 0, 0
+  index: -1
+m_zhakabrous_groggy_head2
+  rotate: false
+  xy: 1722, 523
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+m_zhakabrous_belt
+  rotate: false
+  xy: 1243, 396
+  size: 281, 152
+  orig: 281, 152
+  offset: 0, 0
+  index: -1
+m_zhakabrous_groggy_arm0
+  rotate: false
+  xy: 493, 443
+  size: 148, 129
+  orig: 148, 129
+  offset: 0, 0
+  index: -1
+m_zhakabrous_groggy_sk
+  rotate: true
+  xy: 1635, 2
+  size: 223, 141
+  orig: 223, 141
+  offset: 0, 0
+  index: -1
+m_zhakabrous_groggy_rleg1
+  rotate: true
+  xy: 1778, 140
+  size: 80, 42
+  orig: 80, 42
+  offset: 0, 0
+  index: -1
+m_zhakabrous_spk4
+  rotate: true
+  xy: 1832, 218
+  size: 138, 80
+  orig: 140, 80
+  offset: 2, 0
+  index: -1
+m_zhakabrous_eye2
+  rotate: true
+  xy: 354, 449
+  size: 119, 137
+  orig: 119, 137
+  offset: 0, 0
+  index: -1
+m_zhakabrous_head2
+  rotate: true
+  xy: 1619, 378
+  size: 178, 101
+  orig: 178, 101
+  offset: 0, 0
+  index: -1
+m_zhakabrous_sp
+  rotate: false
+  xy: 1545, 264
+  size: 137, 112
+  orig: 137, 112
+  offset: 0, 0
+  index: -1
+m_zhakabrous_body
+  rotate: true
+  xy: 755, 2
+  size: 404, 274
+  orig: 404, 274
+  offset: 0, 0
+  index: -1
+m_zhakabrous_rleg1
+  rotate: false
+  xy: 643, 443
+  size: 159, 125
+  orig: 159, 125
+  offset: 0, 0
+  index: -1
+m_zhakabrous_sk
+  rotate: true
+  xy: 373, 2
+  size: 439, 380
+  orig: 443, 380
+  offset: 4, 0
+  index: -1

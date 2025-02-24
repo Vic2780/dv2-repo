@@ -1,0 +1,25 @@
+skill_26_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skill_cleanse2
+  rotate: false
+  xy: 313, 134
+  size: 109, 108
+  orig: 137, 134
+  offset: 14, 11
+  index: -1
+skill_cleanse3
+  rotate: false
+  xy: 313, 2
+  size: 138, 130
+  orig: 152, 146
+  offset: 6, 8
+  index: -1
+skill_cleanse1
+  rotate: true
+  xy: 2, 2
+  size: 172, 309
+  orig: 196, 323
+  offset: 13, 0
+  index: -1

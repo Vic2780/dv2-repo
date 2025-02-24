@@ -1,0 +1,172 @@
+120_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_volcano_leg
+  rotate: true
+  xy: 301, 2
+  size: 342, 204
+  orig: 348, 204
+  offset: 3, 0
+  index: -1
+m_volcano_groggy_arm2
+  rotate: false
+  xy: 457, 1188
+  size: 51, 31
+  orig: 105, 173
+  offset: 11, 89
+  index: -1
+m_volcano_arm3
+  rotate: false
+  xy: 397, 933
+  size: 84, 122
+  orig: 84, 122
+  offset: 0, 0
+  index: -1
+m_volcano_groggy_chim
+  rotate: false
+  xy: 500, 1308
+  size: 8, 21
+  orig: 8, 23
+  offset: 0, 0
+  index: -1
+m_volcano_eye
+  rotate: false
+  xy: 397, 1057
+  size: 91, 50
+  orig: 93, 54
+  offset: 2, 4
+  index: -1
+m_volcano_tail
+  rotate: true
+  xy: 2, 766
+  size: 463, 208
+  orig: 463, 208
+  offset: 0, 0
+  index: -1
+m_volcano_wing2
+  rotate: true
+  xy: 301, 346
+  size: 305, 183
+  orig: 307, 185
+  offset: 2, 2
+  index: -1
+m_volcano_hak
+  rotate: false
+  xy: 437, 1308
+  size: 61, 50
+  orig: 63, 50
+  offset: 2, 0
+  index: -1
+m_volcano_groggy_arm1
+  rotate: true
+  xy: 396, 1188
+  size: 35, 59
+  orig: 117, 113
+  offset: 45, 48
+  index: -1
+m_volcano_arm2
+  rotate: false
+  xy: 268, 1229
+  size: 105, 173
+  orig: 105, 173
+  offset: 0, 0
+  index: -1
+m_volcano_groggy_wing1
+  rotate: false
+  xy: 2, 384
+  size: 297, 380
+  orig: 305, 380
+  offset: 3, 0
+  index: -1
+m_volcano_head
+  rotate: false
+  xy: 212, 1073
+  size: 182, 154
+  orig: 182, 154
+  offset: 0, 0
+  index: -1
+m_volcano_wing1
+  rotate: false
+  xy: 2, 2
+  size: 297, 380
+  orig: 305, 380
+  offset: 3, 0
+  index: -1
+m_volcano_body
+  rotate: true
+  xy: 2, 1231
+  size: 322, 264
+  orig: 322, 266
+  offset: 0, 2
+  index: -1
+m_volcano_horn
+  rotate: false
+  xy: 397, 765
+  size: 98, 166
+  orig: 100, 168
+  offset: 0, 2
+  index: -1
+m_volcano_arm1
+  rotate: true
+  xy: 268, 1404
+  size: 117, 113
+  orig: 117, 113
+  offset: 0, 0
+  index: -1
+m_volcano_groggy_body
+  rotate: true
+  xy: 375, 1229
+  size: 154, 60
+  orig: 322, 266
+  offset: 140, 158
+  index: -1
+m_volcano_mouse
+  rotate: false
+  xy: 396, 1109
+  size: 91, 77
+  orig: 91, 77
+  offset: 0, 0
+  index: -1
+m_volcano_groggy_head
+  rotate: false
+  xy: 268, 1523
+  size: 98, 28
+  orig: 182, 154
+  offset: 39, 54
+  index: -1
+m_volcano_groggy_eye
+  rotate: false
+  xy: 383, 1485
+  size: 93, 50
+  orig: 93, 54
+  offset: 0, 4
+  index: -1
+m_volcano_groggy_wing2
+  rotate: true
+  xy: 212, 766
+  size: 305, 183
+  orig: 307, 185
+  offset: 2, 2
+  index: -1
+m_volcano_groggy_horn
+  rotate: false
+  xy: 383, 1385
+  size: 98, 98
+  orig: 100, 168
+  offset: 0, 3
+  index: -1
+m_volcano_arm4
+  rotate: true
+  xy: 301, 653
+  size: 110, 179
+  orig: 110, 179
+  offset: 0, 0
+  index: -1
+m_volcano_groggy_wing3
+  rotate: true
+  xy: 437, 1225
+  size: 81, 67
+  orig: 307, 185
+  offset: 194, 58
+  index: -1

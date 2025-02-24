@@ -1,0 +1,67 @@
+ani_cloud_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+worldmap_cloud_shadow01
+  rotate: true
+  xy: 2, 258
+  size: 207, 249
+  orig: 375, 335
+  offset: 88, 47
+  index: -1
+worldmap_cloud_l022
+  rotate: false
+  xy: 642, 258
+  size: 205, 132
+  orig: 229, 146
+  offset: 11, 13
+  index: -1
+worldmap_cloud_l012
+  rotate: true
+  xy: 253, 258
+  size: 215, 131
+  orig: 235, 157
+  offset: 9, 13
+  index: -1
+worldmap_cloud_r022
+  rotate: false
+  xy: 642, 392
+  size: 195, 103
+  orig: 203, 137
+  offset: 8, 15
+  index: -1
+worldmap_cloud_r012
+  rotate: false
+  xy: 386, 402
+  size: 156, 89
+  orig: 172, 115
+  offset: 7, 9
+  index: -1
+worldmap_cloud_left2
+  rotate: false
+  xy: 692, 2
+  size: 167, 254
+  orig: 375, 254
+  offset: 0, 0
+  index: -1
+worldmap_cloud_right2
+  rotate: true
+  xy: 386, 253
+  size: 147, 254
+  orig: 375, 254
+  offset: 228, 0
+  index: -1
+worldmap_cloud_shadow02
+  rotate: false
+  xy: 379, 2
+  size: 311, 249
+  orig: 375, 335
+  offset: 36, 47
+  index: -1
+worldmap_cloud_all2
+  rotate: false
+  xy: 2, 2
+  size: 375, 254
+  orig: 375, 254
+  offset: 0, 0
+  index: -1

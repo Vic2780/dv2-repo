@@ -1,0 +1,529 @@
+dragon_4040_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_blackarmor_adult_arm2
+  rotate: false
+  xy: 800, 2
+  size: 65, 108
+  orig: 65, 108
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_tail3
+  rotate: false
+  xy: 711, 120
+  size: 59, 34
+  orig: 59, 34
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_twinkling2
+  rotate: false
+  xy: 998, 105
+  size: 99, 100
+  orig: 225, 224
+  offset: 63, 64
+  index: -1
+dragon_blackarmor_adult_arrow1
+  rotate: false
+  xy: 1364, 91
+  size: 238, 75
+  orig: 306, 107
+  offset: 30, 9
+  index: -1
+dragon_blackarmor_child_chin
+  rotate: true
+  xy: 1521, 60
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_critical_shoot2
+  rotate: true
+  xy: 228, 2
+  size: 183, 54
+  orig: 543, 70
+  offset: 17, 7
+  index: -1
+dragon_blackarmor_child_eye2
+  rotate: false
+  xy: 944, 105
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_baby_leg3
+  rotate: false
+  xy: 372, 156
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_arm6
+  rotate: true
+  xy: 1364, 29
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_eye2
+  rotate: false
+  xy: 982, 105
+  size: 13, 13
+  orig: 15, 15
+  offset: 1, 2
+  index: -1
+dragon_blackarmor_child_cloth
+  rotate: false
+  xy: 1548, 60
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_legarmor
+  rotate: false
+  xy: 1768, 135
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_child_tail
+  rotate: false
+  xy: 659, 156
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_child_leg1a
+  rotate: false
+  xy: 1180, 185
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_leg2
+  rotate: true
+  xy: 1763, 171
+  size: 48, 43
+  orig: 48, 47
+  offset: 0, 4
+  index: -1
+dragon_blackarmor_child_wing
+  rotate: false
+  xy: 1034, 2
+  size: 32, 95
+  orig: 32, 95
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_child_leg1b
+  rotate: false
+  xy: 1855, 135
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_baby_arm2a
+  rotate: false
+  xy: 1211, 185
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_baby_body
+  rotate: true
+  xy: 1602, 175
+  size: 49, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_neck
+  rotate: false
+  xy: 1808, 135
+  size: 45, 67
+  orig: 45, 67
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_wing1
+  rotate: true
+  xy: 284, 2
+  size: 182, 86
+  orig: 182, 86
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_leg6
+  rotate: false
+  xy: 1048, 207
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_child_bodyb
+  rotate: true
+  xy: 1566, 175
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_child_leg4
+  rotate: false
+  xy: 1732, 135
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_arm1
+  rotate: true
+  xy: 1099, 185
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_child_body
+  rotate: true
+  xy: 405, 156
+  size: 69, 83
+  orig: 69, 83
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_child_twinkling1
+  rotate: true
+  xy: 2, 2
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_eye
+  rotate: false
+  xy: 867, 107
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_baby_mouth
+  rotate: false
+  xy: 1027, 207
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_wing2
+  rotate: true
+  xy: 711, 2
+  size: 116, 87
+  orig: 116, 87
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_arrow2
+  rotate: false
+  xy: 1099, 96
+  size: 234, 87
+  orig: 306, 107
+  offset: 31, 4
+  index: -1
+dragon_blackarmor_baby_tail
+  rotate: true
+  xy: 1632, 135
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_cloth
+  rotate: false
+  xy: 1145, 185
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_arm5
+  rotate: true
+  xy: 1393, 168
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_child_twinkling2
+  rotate: false
+  xy: 998, 105
+  size: 99, 100
+  orig: 225, 224
+  offset: 63, 64
+  index: -1
+dragon_blackarmor_adult_head1
+  rotate: true
+  xy: 1656, 172
+  size: 53, 70
+  orig: 53, 70
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_shoulder
+  rotate: false
+  xy: 1335, 86
+  size: 27, 80
+  orig: 27, 80
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_body1
+  rotate: false
+  xy: 944, 2
+  size: 88, 101
+  orig: 88, 101
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_leg1
+  rotate: false
+  xy: 1685, 135
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_critical_shoot1
+  rotate: false
+  xy: 1393, 2
+  size: 505, 56
+  orig: 543, 70
+  offset: 16, 6
+  index: -1
+dragon_blackarmor_child_body2
+  rotate: false
+  xy: 358, 186
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_head2
+  rotate: false
+  xy: 1234, 185
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_tassel
+  rotate: true
+  xy: 1356, 168
+  size: 57, 35
+  orig: 57, 35
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_baby_heart
+  rotate: false
+  xy: 310, 186
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_baby_arm2b
+  rotate: false
+  xy: 282, 187
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_belt
+  rotate: true
+  xy: 1728, 172
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_body2
+  rotate: false
+  xy: 1501, 168
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_baby_chin
+  rotate: false
+  xy: 998, 207
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_leg5
+  rotate: false
+  xy: 1855, 184
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_baby_head
+  rotate: false
+  xy: 1272, 2
+  size: 79, 82
+  orig: 79, 82
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_armarmor
+  rotate: false
+  xy: 867, 2
+  size: 75, 103
+  orig: 75, 103
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_arm4
+  rotate: false
+  xy: 1068, 2
+  size: 65, 92
+  orig: 65, 92
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_baby_eyes2
+  rotate: false
+  xy: 1592, 60
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_baby_arm1a
+  rotate: false
+  xy: 1272, 185
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_critical_dmg1
+  rotate: true
+  xy: 372, 2
+  size: 152, 337
+  orig: 204, 351
+  offset: 12, 9
+  index: -1
+dragon_blackarmor_adult_arrow3
+  rotate: false
+  xy: 772, 120
+  size: 224, 103
+  orig: 306, 107
+  offset: 31, 4
+  index: -1
+dragon_blackarmor_adult_shining
+  rotate: false
+  xy: 1135, 2
+  size: 83, 83
+  orig: 89, 89
+  offset: 4, 3
+  index: -1
+dragon_blackarmor_adult_tail1
+  rotate: true
+  xy: 1220, 2
+  size: 83, 50
+  orig: 83, 50
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_child_eye
+  rotate: false
+  xy: 963, 105
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_leg4
+  rotate: false
+  xy: 1392, 60
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_baby_leg4
+  rotate: false
+  xy: 1490, 60
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_tail2
+  rotate: false
+  xy: 228, 187
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_mouth
+  rotate: true
+  xy: 1364, 2
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_baby_eyes
+  rotate: true
+  xy: 1604, 88
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_twinkling1
+  rotate: true
+  xy: 2, 2
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_arm3
+  rotate: true
+  xy: 729, 156
+  size: 68, 37
+  orig: 68, 37
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_baby_eyes3
+  rotate: false
+  xy: 1445, 60
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_baby_cloth
+  rotate: true
+  xy: 1571, 60
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_arrowat
+  rotate: false
+  xy: 1636, 60
+  size: 264, 73
+  orig: 306, 107
+  offset: 18, 10
+  index: -1
+dragon_blackarmor_baby_arm1b
+  rotate: true
+  xy: 1320, 185
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_child_head
+  rotate: false
+  xy: 490, 156
+  size: 84, 68
+  orig: 84, 68
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_child_leg2a
+  rotate: true
+  xy: 576, 156
+  size: 68, 81
+  orig: 68, 81
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_child_neck
+  rotate: true
+  xy: 1294, 185
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_child_leg2b
+  rotate: false
+  xy: 1454, 168
+  size: 45, 56
+  orig: 45, 56
+  offset: 0, 0
+  index: -1
+dragon_blackarmor_adult_leg3
+  rotate: true
+  xy: 1604, 132
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1

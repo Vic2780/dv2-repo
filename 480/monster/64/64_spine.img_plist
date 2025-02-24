@@ -1,0 +1,186 @@
+64_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_sharp_wing_tail12
+  rotate: false
+  xy: 331, 121
+  size: 162, 83
+  orig: 162, 83
+  offset: 0, 0
+  index: -1
+m_sharp_wing_groggymouth1
+  rotate: false
+  xy: 473, 605
+  size: 28, 31
+  orig: 28, 35
+  offset: 0, 4
+  index: -1
+m_sharp_wing_groggyhead21
+  rotate: true
+  xy: 285, 810
+  size: 124, 213
+  orig: 132, 213
+  offset: 8, 0
+  index: -1
+m_sharp_wing_mouth1
+  rotate: true
+  xy: 126, 990
+  size: 59, 49
+  orig: 59, 49
+  offset: 0, 0
+  index: -1
+m_sharp_wing_groggybody
+  rotate: false
+  xy: 285, 1058
+  size: 199, 111
+  orig: 199, 111
+  offset: 0, 0
+  index: -1
+m_sharp_wing_head1
+  rotate: false
+  xy: 322, 333
+  size: 173, 116
+  orig: 173, 116
+  offset: 0, 0
+  index: -1
+m_sharp_wing_wing6
+  rotate: true
+  xy: 321, 605
+  size: 203, 150
+  orig: 203, 150
+  offset: 0, 0
+  index: -1
+m_sharp_wing_body
+  rotate: false
+  xy: 321, 451
+  size: 182, 152
+  orig: 182, 152
+  offset: 0, 0
+  index: -1
+m_sharp_wing_tail11
+  rotate: true
+  xy: 146, 1058
+  size: 193, 137
+  orig: 193, 137
+  offset: 0, 0
+  index: -1
+m_sharp_wing_wing2
+  rotate: false
+  xy: 2, 199
+  size: 318, 210
+  orig: 318, 210
+  offset: 0, 0
+  index: -1
+m_sharp_wing_head22
+  rotate: false
+  xy: 2, 1058
+  size: 142, 193
+  orig: 142, 197
+  offset: 0, 4
+  index: -1
+m_sharp_wing_groggyfoot1
+  rotate: true
+  xy: 220, 990
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+m_sharp_wing_mouth2
+  rotate: true
+  xy: 177, 990
+  size: 59, 41
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+m_sharp_wing_wing1
+  rotate: false
+  xy: 2, 411
+  size: 317, 223
+  orig: 317, 223
+  offset: 0, 0
+  index: -1
+m_sharp_wing_wing5
+  rotate: false
+  xy: 2, 844
+  size: 263, 144
+  orig: 263, 144
+  offset: 0, 0
+  index: -1
+m_sharp_wing_head21
+  rotate: true
+  xy: 267, 936
+  size: 120, 212
+  orig: 120, 212
+  offset: 0, 0
+  index: -1
+m_sharp_wing_eye
+  rotate: true
+  xy: 473, 638
+  size: 62, 24
+  orig: 62, 24
+  offset: 0, 0
+  index: -1
+m_sharp_wing_foot2
+  rotate: false
+  xy: 379, 1171
+  size: 90, 72
+  orig: 90, 72
+  offset: 0, 0
+  index: -1
+m_sharp_wing_groggytail11
+  rotate: false
+  xy: 322, 206
+  size: 175, 125
+  orig: 175, 125
+  offset: 0, 0
+  index: -1
+m_sharp_wing_leg1
+  rotate: true
+  xy: 63, 990
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+m_sharp_wing_wing4
+  rotate: false
+  xy: 2, 636
+  size: 281, 206
+  orig: 281, 206
+  offset: 0, 0
+  index: -1
+m_sharp_wing_foot1
+  rotate: true
+  xy: 285, 1171
+  size: 79, 92
+  orig: 79, 92
+  offset: 0, 0
+  index: -1
+m_sharp_wing_groggyeye
+  rotate: true
+  xy: 473, 702
+  size: 66, 16
+  orig: 66, 16
+  offset: 0, 0
+  index: -1
+m_sharp_wing_groggyhead1
+  rotate: false
+  xy: 331, 2
+  size: 170, 117
+  orig: 170, 117
+  offset: 0, 0
+  index: -1
+m_sharp_wing_wing3
+  rotate: false
+  xy: 2, 2
+  size: 327, 195
+  orig: 327, 195
+  offset: 0, 0
+  index: -1
+m_sharp_wing_leg2
+  rotate: true
+  xy: 2, 990
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1

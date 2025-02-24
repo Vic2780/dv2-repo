@@ -1,0 +1,53 @@
+84_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_dtree_groggybody2
+  rotate: false
+  xy: 2, 2
+  size: 195, 169
+  orig: 233, 197
+  offset: 25, 13
+  index: -1
+m_dtree_hair2
+  rotate: true
+  xy: 744, 136
+  size: 22, 13
+  orig: 42, 31
+  offset: 10, 9
+  index: -1
+m_dtree_body1
+  rotate: false
+  xy: 570, 2
+  size: 172, 160
+  orig: 178, 182
+  offset: 1, 11
+  index: -1
+m_dtree_groggyhair
+  rotate: false
+  xy: 849, 2
+  size: 80, 103
+  orig: 144, 131
+  offset: 0, 15
+  index: -1
+m_dtree_body2
+  rotate: false
+  xy: 199, 2
+  size: 195, 169
+  orig: 233, 197
+  offset: 25, 13
+  index: -1
+m_dtree_groggybody1
+  rotate: false
+  xy: 396, 2
+  size: 172, 160
+  orig: 178, 188
+  offset: 1, 11
+  index: -1
+m_dtree_hair
+  rotate: true
+  xy: 744, 2
+  size: 132, 103
+  orig: 144, 131
+  offset: 0, 15
+  index: -1

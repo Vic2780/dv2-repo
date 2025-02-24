@@ -1,0 +1,179 @@
+50_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_crocodile_eye
+  rotate: true
+  xy: 680, 2
+  size: 132, 51
+  orig: 134, 51
+  offset: 2, 0
+  index: -1
+m_crocodile_head1
+  rotate: false
+  xy: 387, 2
+  size: 291, 146
+  orig: 291, 146
+  offset: 0, 0
+  index: -1
+m_crocodile_hand2
+  rotate: true
+  xy: 686, 136
+  size: 104, 72
+  orig: 104, 72
+  offset: 0, 0
+  index: -1
+m_crocodile_arm2
+  rotate: true
+  xy: 143, 181
+  size: 68, 120
+  orig: 72, 122
+  offset: 4, 2
+  index: -1
+m_crocodile_groggy_body
+  rotate: true
+  xy: 864, 130
+  size: 102, 89
+  orig: 110, 191
+  offset: 0, 15
+  index: -1
+m_crocodile_groggy_leg2
+  rotate: true
+  xy: 90, 195
+  size: 53, 51
+  orig: 95, 59
+  offset: 27, 1
+  index: -1
+m_crocodile_foot1
+  rotate: false
+  xy: 1020, 130
+  size: 69, 57
+  orig: 69, 57
+  offset: 0, 0
+  index: -1
+m_crocodile_leg1
+  rotate: false
+  xy: 955, 123
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+m_crocodile_groggy_tail2
+  rotate: true
+  xy: 522, 150
+  size: 97, 42
+  orig: 135, 98
+  offset: 19, 1
+  index: -1
+m_crocodile_head2
+  rotate: false
+  xy: 733, 2
+  size: 288, 119
+  orig: 288, 119
+  offset: 0, 0
+  index: -1
+m_crocodile_tail
+  rotate: true
+  xy: 114, 2
+  size: 177, 143
+  orig: 179, 143
+  offset: 1, 0
+  index: -1
+m_crocodile_smok
+  rotate: false
+  xy: 259, 2
+  size: 126, 159
+  orig: 126, 173
+  offset: 0, 0
+  index: -1
+m_crocodile_groggy_leg3
+  rotate: true
+  xy: 1018, 189
+  size: 35, 72
+  orig: 53, 86
+  offset: 10, 11
+  index: -1
+m_crocodile_foot2
+  rotate: true
+  xy: 1023, 76
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+m_crocodile_leg2
+  rotate: true
+  xy: 566, 150
+  size: 95, 59
+  orig: 95, 59
+  offset: 0, 0
+  index: -1
+m_crocodile_groggy_tail
+  rotate: false
+  xy: 627, 150
+  size: 57, 91
+  orig: 179, 143
+  offset: 90, 38
+  index: -1
+m_crocodile_body
+  rotate: false
+  xy: 2, 2
+  size: 110, 191
+  orig: 110, 191
+  offset: 0, 0
+  index: -1
+m_crocodile_groggy_hand2
+  rotate: true
+  xy: 265, 163
+  size: 86, 60
+  orig: 104, 72
+  offset: 9, 0
+  index: -1
+m_crocodile_leg3
+  rotate: true
+  xy: 2, 195
+  size: 53, 86
+  orig: 53, 86
+  offset: 0, 0
+  index: -1
+m_crocodile_groggy_foot2
+  rotate: false
+  xy: 986, 183
+  size: 30, 22
+  orig: 52, 66
+  offset: 17, 22
+  index: -1
+m_crocodile_groggy_head1
+  rotate: true
+  xy: 760, 130
+  size: 119, 102
+  orig: 291, 146
+  offset: 47, 44
+  index: -1
+m_crocodile_tail2
+  rotate: false
+  xy: 387, 150
+  size: 133, 98
+  orig: 135, 98
+  offset: 0, 0
+  index: -1
+m_crocodile_hand1
+  rotate: false
+  xy: 1023, 2
+  size: 67, 72
+  orig: 81, 74
+  offset: 14, 0
+  index: -1
+m_crocodile_arm1
+  rotate: false
+  xy: 955, 189
+  size: 29, 46
+  orig: 81, 74
+  offset: 0, 5
+  index: -1
+m_crocodile_groggy_arm2
+  rotate: false
+  xy: 327, 163
+  size: 58, 82
+  orig: 72, 122
+  offset: 8, 28
+  index: -1

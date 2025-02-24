@@ -1,0 +1,438 @@
+41_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_ecave_arm1
+  rotate: false
+  xy: 1761, 453
+  size: 155, 279
+  orig: 155, 279
+  offset: 0, 0
+  index: -1
+m_ecave_groggyhead21
+  rotate: true
+  xy: 1948, 410
+  size: 38, 65
+  orig: 38, 65
+  offset: 0, 0
+  index: -1
+m_ecave_leg42
+  rotate: false
+  xy: 1067, 557
+  size: 64, 180
+  orig: 64, 180
+  offset: 0, 0
+  index: -1
+m_ecave_leg5
+  rotate: true
+  xy: 1853, 249
+  size: 68, 161
+  orig: 68, 171
+  offset: 0, 0
+  index: -1
+m_ecave_groggymouth2
+  rotate: false
+  xy: 1142, 308
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+m_ecave_hand11
+  rotate: false
+  xy: 969, 366
+  size: 86, 190
+  orig: 86, 190
+  offset: 0, 0
+  index: -1
+m_ecave_groggymouth61
+  rotate: false
+  xy: 1688, 166
+  size: 66, 83
+  orig: 76, 83
+  offset: 10, 0
+  index: -1
+m_ecave_grogghand31
+  rotate: false
+  xy: 1852, 319
+  size: 94, 131
+  orig: 94, 131
+  offset: 0, 0
+  index: -1
+m_ecave_head22
+  rotate: true
+  xy: 547, 2
+  size: 376, 289
+  orig: 376, 289
+  offset: 0, 0
+  index: -1
+m_ecave_leg41
+  rotate: false
+  xy: 876, 562
+  size: 68, 173
+  orig: 68, 173
+  offset: 0, 0
+  index: -1
+m_ecave_groggyhand32
+  rotate: true
+  xy: 498, 591
+  size: 147, 341
+  orig: 147, 341
+  offset: 0, 0
+  index: -1
+m_ecave_body
+  rotate: true
+  xy: 1058, 2
+  size: 304, 293
+  orig: 304, 293
+  offset: 0, 0
+  index: -1
+m_ecave_hand13
+  rotate: true
+  xy: 318, 384
+  size: 205, 356
+  orig: 205, 356
+  offset: 0, 0
+  index: -1
+m_ecave_mouth2
+  rotate: false
+  xy: 1057, 366
+  size: 77, 189
+  orig: 77, 189
+  offset: 0, 0
+  index: -1
+m_ecave_groggyeye1
+  rotate: true
+  xy: 1226, 308
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+m_ecave_groggyleg41
+  rotate: false
+  xy: 1192, 308
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+m_ecave_groggymouth3
+  rotate: false
+  xy: 1825, 250
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+m_ecave_groggymouth52
+  rotate: true
+  xy: 1596, 646
+  size: 92, 130
+  orig: 92, 130
+  offset: 0, 0
+  index: -1
+m_ecave_groggyhand11
+  rotate: true
+  xy: 1853, 168
+  size: 79, 166
+  orig: 79, 166
+  offset: 0, 0
+  index: -1
+m_ecave_mouth62
+  rotate: true
+  xy: 317, 594
+  size: 135, 179
+  orig: 135, 179
+  offset: 0, 0
+  index: -1
+m_ecave_eye2
+  rotate: true
+  xy: 2, 594
+  size: 140, 41
+  orig: 140, 41
+  offset: 0, 0
+  index: -1
+m_ecave_hand31
+  rotate: true
+  xy: 1596, 548
+  size: 96, 155
+  orig: 96, 155
+  offset: 0, 0
+  index: -1
+m_ecave_mouth12
+  rotate: false
+  xy: 1510, 553
+  size: 84, 160
+  orig: 84, 160
+  offset: 0, 0
+  index: -1
+m_ecave_mouth51
+  rotate: true
+  xy: 1547, 519
+  size: 27, 66
+  orig: 27, 66
+  offset: 0, 0
+  index: -1
+m_ecave_groggyhead12
+  rotate: true
+  xy: 838, 2
+  size: 362, 218
+  orig: 362, 218
+  offset: 0, 0
+  index: -1
+m_ecave_leg2
+  rotate: false
+  xy: 1133, 557
+  size: 92, 167
+  orig: 92, 167
+  offset: 0, 0
+  index: -1
+m_ecave_groggyhand13
+  rotate: false
+  xy: 1251, 308
+  size: 107, 235
+  orig: 107, 235
+  offset: 0, 0
+  index: -1
+m_ecave_groggyleg1
+  rotate: false
+  xy: 1761, 297
+  size: 89, 154
+  orig: 89, 154
+  offset: 0, 0
+  index: -1
+m_ecave_groggymouth11
+  rotate: false
+  xy: 1665, 129
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+m_ecave_mouth3
+  rotate: false
+  xy: 1584, 168
+  size: 62, 128
+  orig: 62, 128
+  offset: 0, 0
+  index: -1
+m_ecave_groggyeye2
+  rotate: true
+  xy: 45, 594
+  size: 140, 35
+  orig: 140, 35
+  offset: 0, 0
+  index: -1
+m_ecave_mouth41
+  rotate: true
+  xy: 1699, 129
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+m_ecave_hand2
+  rotate: false
+  xy: 1360, 298
+  size: 107, 248
+  orig: 107, 248
+  offset: 0, 0
+  index: -1
+m_ecave_head21
+  rotate: true
+  xy: 1918, 612
+  size: 63, 85
+  orig: 63, 87
+  offset: 0, 2
+  index: -1
+m_ecave_leg32
+  rotate: false
+  xy: 854, 366
+  size: 113, 194
+  orig: 113, 194
+  offset: 0, 0
+  index: -1
+m_ecave_head12
+  rotate: true
+  xy: 2, 2
+  size: 590, 314
+  orig: 590, 314
+  offset: 0, 0
+  index: -1
+m_ecave_leg31
+  rotate: false
+  xy: 946, 562
+  size: 119, 170
+  orig: 119, 170
+  offset: 0, 0
+  index: -1
+m_ecave_groggymouth42
+  rotate: false
+  xy: 1765, 250
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+m_ecave_hand42
+  rotate: false
+  xy: 1136, 366
+  size: 113, 185
+  orig: 113, 185
+  offset: 0, 0
+  index: -1
+m_ecave_eye1
+  rotate: false
+  xy: 1584, 129
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+m_ecave_groggymouth62
+  rotate: false
+  xy: 1948, 319
+  size: 79, 89
+  orig: 79, 89
+  offset: 0, 0
+  index: -1
+m_ecave_groggyhead11
+  rotate: false
+  xy: 1469, 298
+  size: 290, 219
+  orig: 290, 219
+  offset: 0, 0
+  index: -1
+m_ecave_leg1
+  rotate: true
+  xy: 82, 594
+  size: 137, 233
+  orig: 137, 233
+  offset: 0, 0
+  index: -1
+m_ecave_arm2
+  rotate: true
+  xy: 1227, 553
+  size: 182, 281
+  orig: 182, 281
+  offset: 0, 0
+  index: -1
+m_ecave_groggymouth51
+  rotate: false
+  xy: 2005, 612
+  size: 18, 66
+  orig: 18, 66
+  offset: 0, 0
+  index: -1
+m_ecave_mouth61
+  rotate: true
+  xy: 1688, 251
+  size: 44, 75
+  orig: 44, 75
+  offset: 0, 0
+  index: -1
+m_ecave_groggyhead22
+  rotate: false
+  xy: 1761, 2
+  size: 255, 164
+  orig: 255, 164
+  offset: 0, 0
+  index: -1
+m_ecave_groggyhand2
+  rotate: false
+  xy: 1688, 2
+  size: 71, 125
+  orig: 71, 125
+  offset: 0, 0
+  index: -1
+m_ecave_hand12
+  rotate: true
+  xy: 1756, 168
+  size: 80, 95
+  orig: 80, 95
+  offset: 0, 0
+  index: -1
+m_ecave_mouth11
+  rotate: true
+  xy: 1624, 129
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+m_ecave_groggyarm1
+  rotate: true
+  xy: 1469, 519
+  size: 32, 76
+  orig: 32, 76
+  offset: 0, 0
+  index: -1
+m_ecave_groggyleg31
+  rotate: false
+  xy: 1584, 63
+  size: 86, 63
+  orig: 86, 63
+  offset: 0, 0
+  index: -1
+m_ecave_head11
+  rotate: true
+  xy: 1353, 2
+  size: 294, 229
+  orig: 294, 229
+  offset: 0, 0
+  index: -1
+m_ecave_groggyhand41
+  rotate: false
+  xy: 1648, 168
+  size: 38, 128
+  orig: 38, 128
+  offset: 0, 0
+  index: -1
+m_ecave_mouth52
+  rotate: false
+  xy: 1918, 452
+  size: 107, 158
+  orig: 107, 158
+  offset: 0, 0
+  index: -1
+m_ecave_groggyhand12
+  rotate: true
+  xy: 1058, 308
+  size: 56, 82
+  orig: 56, 82
+  offset: 0, 0
+  index: -1
+m_ecave_groggymouth12
+  rotate: true
+  xy: 1918, 677
+  size: 47, 84
+  orig: 47, 84
+  offset: 0, 0
+  index: -1
+m_ecave_hand41
+  rotate: false
+  xy: 841, 585
+  size: 33, 134
+  orig: 33, 134
+  offset: 0, 0
+  index: -1
+m_ecave_mouth42
+  rotate: true
+  xy: 1584, 2
+  size: 59, 102
+  orig: 59, 102
+  offset: 0, 0
+  index: -1
+m_ecave_mouth7
+  rotate: false
+  xy: 676, 380
+  size: 176, 203
+  orig: 176, 203
+  offset: 0, 0
+  index: -1
+m_ecave_groggymouth41
+  rotate: false
+  xy: 1794, 250
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+m_ecave_hand32
+  rotate: false
+  xy: 318, 2
+  size: 227, 380
+  orig: 227, 380
+  offset: 0, 0
+  index: -1

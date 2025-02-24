@@ -1,0 +1,67 @@
+nelson_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+sd_nelson_leg1
+  rotate: true
+  xy: 107, 2
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+sd_nelson_arm2
+  rotate: true
+  xy: 107, 61
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+sd_nelson_body
+  rotate: false
+  xy: 73, 2
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+sd_nelson_eyebrow
+  rotate: true
+  xy: 73, 34
+  size: 35, 11
+  orig: 35, 11
+  offset: 0, 0
+  index: -1
+sd_nelson_arm1
+  rotate: true
+  xy: 107, 19
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+sd_nelson_eye2
+  rotate: true
+  xy: 99, 34
+  size: 33, 6
+  orig: 33, 6
+  offset: 0, 0
+  index: -1
+sd_nelson_eye1
+  rotate: true
+  xy: 86, 34
+  size: 35, 11
+  orig: 35, 11
+  offset: 0, 0
+  index: -1
+sd_nelson_leg2
+  rotate: false
+  xy: 107, 33
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+sd_nelson_head
+  rotate: true
+  xy: 2, 2
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,263 @@
+131_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_shaman_groggy_arm3
+  rotate: false
+  xy: 122, 453
+  size: 38, 48
+  orig: 98, 92
+  offset: 31, 34
+  index: -1
+m_shaman_arm2
+  rotate: true
+  xy: 915, 405
+  size: 105, 111
+  orig: 105, 111
+  offset: 0, 0
+  index: -1
+m_shaman_leg3
+  rotate: true
+  xy: 1759, 362
+  size: 142, 166
+  orig: 142, 166
+  offset: 0, 0
+  index: -1
+m_shaman_magic
+  rotate: true
+  xy: 676, 2
+  size: 413, 118
+  orig: 427, 132
+  offset: 7, 8
+  index: -1
+m_shaman_mouth
+  rotate: false
+  xy: 310, 433
+  size: 79, 77
+  orig: 83, 77
+  offset: 4, 0
+  index: -1
+m_shaman_foot2
+  rotate: true
+  xy: 1533, 412
+  size: 94, 59
+  orig: 94, 59
+  offset: 0, 0
+  index: -1
+m_shaman_groggy_head
+  rotate: false
+  xy: 1834, 2
+  size: 100, 149
+  orig: 166, 201
+  offset: 24, 20
+  index: -1
+m_shaman_groggy_foot1
+  rotate: false
+  xy: 2, 453
+  size: 118, 57
+  orig: 134, 83
+  offset: 0, 2
+  index: -1
+m_shaman_groggy_neckl
+  rotate: true
+  xy: 1181, 257
+  size: 20, 27
+  orig: 86, 87
+  offset: 19, 1
+  index: -1
+m_shaman_groggy_body
+  rotate: true
+  xy: 251, 2
+  size: 429, 423
+  orig: 429, 423
+  offset: 0, 0
+  index: -1
+m_shaman_groggy_body2
+  rotate: false
+  xy: 796, 2
+  size: 383, 401
+  orig: 429, 423
+  offset: 5, 18
+  index: -1
+m_shaman_hand1
+  rotate: true
+  xy: 1939, 2
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1
+m_shaman_arm3
+  rotate: true
+  xy: 1443, 412
+  size: 98, 88
+  orig: 98, 92
+  offset: 0, 4
+  index: -1
+m_shaman_groggy_hand2
+  rotate: false
+  xy: 469, 433
+  size: 70, 77
+  orig: 76, 77
+  offset: 3, 0
+  index: -1
+m_shaman_neckl
+  rotate: true
+  xy: 1936, 75
+  size: 86, 87
+  orig: 86, 87
+  offset: 0, 0
+  index: -1
+m_shaman_leg4
+  rotate: true
+  xy: 1443, 211
+  size: 199, 132
+  orig: 209, 132
+  offset: 0, 0
+  index: -1
+m_shaman_groggy-eye
+  rotate: false
+  xy: 162, 453
+  size: 82, 39
+  orig: 166, 201
+  offset: 81, 68
+  index: -1
+m_shaman_groggy_foot2
+  rotate: false
+  xy: 246, 453
+  size: 62, 39
+  orig: 94, 59
+  offset: 0, 4
+  index: -1
+m_shaman_hand2
+  rotate: false
+  xy: 391, 433
+  size: 76, 77
+  orig: 76, 77
+  offset: 0, 0
+  index: -1
+m_shaman_eye
+  rotate: false
+  xy: 1181, 279
+  size: 20, 39
+  orig: 166, 201
+  offset: 82, 68
+  index: -1
+m_shaman_groggy_arm1
+  rotate: true
+  xy: 1028, 405
+  size: 103, 184
+  orig: 143, 204
+  offset: 40, 20
+  index: -1
+m_shaman_leg1
+  rotate: true
+  xy: 1577, 193
+  size: 187, 158
+  orig: 187, 158
+  offset: 0, 0
+  index: -1
+m_shaman_arm4
+  rotate: false
+  xy: 1939, 163
+  size: 71, 137
+  orig: 71, 137
+  offset: 0, 0
+  index: -1
+m_shaman_leg5
+  rotate: true
+  xy: 1737, 190
+  size: 170, 62
+  orig: 170, 62
+  offset: 0, 0
+  index: -1
+m_shaman_head
+  rotate: false
+  xy: 1539, 2
+  size: 158, 189
+  orig: 166, 201
+  offset: 0, 12
+  index: -1
+m_shaman_tail
+  rotate: true
+  xy: 2, 2
+  size: 449, 247
+  orig: 449, 247
+  offset: 0, 0
+  index: -1
+m_shaman_groggy_leg1
+  rotate: false
+  xy: 1594, 382
+  size: 163, 114
+  orig: 187, 158
+  offset: 0, 24
+  index: -1
+m_shaman_leg6
+  rotate: true
+  xy: 1801, 190
+  size: 162, 136
+  orig: 170, 150
+  offset: 2, 0
+  index: -1
+m_shaman_body
+  rotate: false
+  xy: 1344, 211
+  size: 89, 37
+  orig: 429, 423
+  offset: 282, 327
+  index: -1
+m_shaman_arm1
+  rotate: false
+  xy: 1699, 2
+  size: 133, 186
+  orig: 143, 204
+  offset: 0, 0
+  index: -1
+m_shaman_groggy_tail
+  rotate: true
+  xy: 1214, 257
+  size: 249, 227
+  orig: 449, 247
+  offset: 198, 17
+  index: -1
+m_shaman_leg2
+  rotate: false
+  xy: 740, 417
+  size: 173, 92
+  orig: 173, 92
+  offset: 0, 0
+  index: -1
+m_shaman_gorggy_neck
+  rotate: false
+  xy: 1344, 2
+  size: 193, 207
+  orig: 193, 261
+  offset: 0, 54
+  index: -1
+m_shaman_foot1
+  rotate: false
+  xy: 616, 433
+  size: 122, 73
+  orig: 134, 83
+  offset: 0, 0
+  index: -1
+m_shaman_groggy-arm2
+  rotate: false
+  xy: 1927, 354
+  size: 89, 69
+  orig: 105, 111
+  offset: 11, 21
+  index: -1
+m_shaman_groggy_leg2
+  rotate: false
+  xy: 541, 433
+  size: 73, 74
+  orig: 173, 92
+  offset: 53, 12
+  index: -1
+m_shaman_neck
+  rotate: false
+  xy: 1181, 2
+  size: 161, 253
+  orig: 193, 261
+  offset: 19, 0
+  index: -1

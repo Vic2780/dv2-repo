@@ -1,0 +1,277 @@
+173_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_gogon_rightleg_b
+  rotate: true
+  xy: 365, 713
+  size: 91, 139
+  orig: 113, 213
+  offset: 22, 0
+  index: -1
+m_gogon_righthorn1
+  rotate: true
+  xy: 416, 921
+  size: 91, 85
+  orig: 155, 153
+  offset: 0, 0
+  index: -1
+m_gogon_tail
+  rotate: false
+  xy: 330, 2
+  size: 173, 177
+  orig: 173, 177
+  offset: 0, 0
+  index: -1
+m_gogon_rightleg_b_gro
+  rotate: true
+  xy: 447, 1166
+  size: 61, 49
+  orig: 113, 213
+  offset: 52, 7
+  index: -1
+m_gogon_head1
+  rotate: false
+  xy: 2, 572
+  size: 225, 280
+  orig: 239, 280
+  offset: 14, 0
+  index: -1
+m_gogon_noseacc2_gro
+  rotate: true
+  xy: 435, 510
+  size: 81, 58
+  orig: 85, 130
+  offset: 3, 48
+  index: -1
+m_gogon_leftarm_c_gro
+  rotate: true
+  xy: 323, 921
+  size: 90, 91
+  orig: 112, 135
+  offset: 0, 0
+  index: -1
+m_gogon_rightarm_c1
+  rotate: false
+  xy: 209, 867
+  size: 112, 135
+  orig: 112, 135
+  offset: 0, 0
+  index: -1
+m_gogon_rightarm_b_gro
+  rotate: true
+  xy: 209, 1004
+  size: 76, 91
+  orig: 104, 181
+  offset: 24, 10
+  index: -1
+m_gogon_leftleg_b_gro
+  rotate: true
+  xy: 132, 1204
+  size: 29, 41
+  orig: 113, 213
+  offset: 35, 33
+  index: -1
+m_gogon_rightarm_c_gro
+  rotate: false
+  xy: 310, 1161
+  size: 84, 75
+  orig: 112, 135
+  offset: 24, 4
+  index: -1
+m_gogon_leftarm_b2
+  rotate: true
+  xy: 401, 240
+  size: 38, 91
+  orig: 104, 181
+  offset: 2, 36
+  index: -1
+m_gogon_leftarm_b1
+  rotate: true
+  xy: 252, 496
+  size: 104, 181
+  orig: 104, 181
+  offset: 0, 0
+  index: -1
+m_gogon_body
+  rotate: false
+  xy: 2, 2
+  size: 326, 281
+  orig: 326, 281
+  offset: 0, 0
+  index: -1
+m_gogon_eff1
+  rotate: false
+  xy: 2, 854
+  size: 205, 227
+  orig: 205, 227
+  offset: 0, 0
+  index: -1
+m_gogon_neck2
+  rotate: false
+  xy: 330, 181
+  size: 162, 57
+  orig: 248, 287
+  offset: 22, 230
+  index: -1
+m_gogon_rightleg_a
+  rotate: true
+  xy: 229, 756
+  size: 109, 129
+  orig: 113, 213
+  offset: 0, 84
+  index: -1
+m_gogon_ear_gro
+  rotate: false
+  xy: 175, 1204
+  size: 45, 20
+  orig: 95, 62
+  offset: 24, 39
+  index: -1
+m_gogon_noseacc2
+  rotate: false
+  xy: 71, 1204
+  size: 59, 28
+  orig: 85, 130
+  offset: 18, 45
+  index: -1
+m_gogon_eff2
+  rotate: false
+  xy: 360, 806
+  size: 124, 113
+  orig: 128, 113
+  offset: 0, 0
+  index: -1
+m_gogon_righthorn2
+  rotate: true
+  xy: 365, 602
+  size: 109, 139
+  orig: 155, 153
+  offset: 46, 14
+  index: -1
+m_gogon_leftarm_a_gro
+  rotate: false
+  xy: 323, 867
+  size: 31, 40
+  orig: 133, 152
+  offset: 0, 55
+  index: -1
+m_gogon_eff3
+  rotate: false
+  xy: 310, 1077
+  size: 87, 82
+  orig: 87, 82
+  offset: 0, 0
+  index: -1
+m_gogon_neck_gro
+  rotate: false
+  xy: 2, 1083
+  size: 222, 119
+  orig: 248, 287
+  offset: 14, 166
+  index: -1
+m_gogon_eye1
+  rotate: true
+  xy: 440, 398
+  size: 55, 64
+  orig: 239, 280
+  offset: 32, 106
+  index: -1
+m_gogon_head_gro
+  rotate: true
+  xy: 252, 285
+  size: 209, 186
+  orig: 239, 280
+  offset: 14, 75
+  index: -1
+m_gogon_ear
+  rotate: false
+  xy: 302, 1013
+  size: 95, 62
+  orig: 95, 62
+  offset: 0, 0
+  index: -1
+m_gogon_rightarm_c2
+  rotate: false
+  xy: 280, 1189
+  size: 28, 33
+  orig: 112, 135
+  offset: 84, 0
+  index: -1
+m_gogon_rightarm_a
+  rotate: false
+  xy: 229, 602
+  size: 134, 152
+  orig: 134, 152
+  offset: 0, 0
+  index: -1
+m_gogon_noseacc1
+  rotate: false
+  xy: 399, 1014
+  size: 85, 82
+  orig: 85, 130
+  offset: 0, 48
+  index: -1
+m_gogon_head2
+  rotate: false
+  xy: 440, 280
+  size: 49, 116
+  orig: 239, 280
+  offset: 0, 72
+  index: -1
+m_gogon_leftarm_b_gro
+  rotate: true
+  xy: 399, 1098
+  size: 66, 85
+  orig: 104, 181
+  offset: 2, 32
+  index: -1
+m_gogon_neck1
+  rotate: false
+  xy: 2, 285
+  size: 248, 285
+  orig: 248, 287
+  offset: 0, 0
+  index: -1
+m_gogon_righthorn_gro
+  rotate: true
+  xy: 330, 240
+  size: 43, 69
+  orig: 155, 153
+  offset: 34, 7
+  index: -1
+m_gogon_eye2
+  rotate: true
+  xy: 440, 455
+  size: 53, 64
+  orig: 239, 280
+  offset: 156, 106
+  index: -1
+m_gogon_rightarm_a_gro
+  rotate: true
+  xy: 226, 1189
+  size: 44, 52
+  orig: 134, 152
+  offset: 32, 54
+  index: -1
+m_gogon_noseacc_add
+  rotate: false
+  xy: 396, 1166
+  size: 49, 70
+  orig: 85, 130
+  offset: 18, 0
+  index: -1
+m_gogon_lefthorn_gro
+  rotate: false
+  xy: 226, 1082
+  size: 82, 105
+  orig: 156, 153
+  offset: 3, 16
+  index: -1
+m_gogon_nose
+  rotate: false
+  xy: 2, 1204
+  size: 67, 34
+  orig: 239, 280
+  offset: 95, 30
+  index: -1

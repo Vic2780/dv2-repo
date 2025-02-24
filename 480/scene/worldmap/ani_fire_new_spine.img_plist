@@ -1,0 +1,193 @@
+ani_fire_new_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+worldmap_mtfire_back7
+  rotate: true
+  xy: 1650, 53
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+worldmap_mtfire_wave01
+  rotate: true
+  xy: 1582, 56
+  size: 42, 48
+  orig: 44, 56
+  offset: 2, 0
+  index: -1
+worldmap_mtfire_dust_right
+  rotate: false
+  xy: 1668, 2
+  size: 33, 41
+  orig: 41, 51
+  offset: 4, 5
+  index: -1
+worldmap_mtfire_back3
+  rotate: false
+  xy: 1387, 89
+  size: 12, 10
+  orig: 20, 16
+  offset: 4, 1
+  index: -1
+worldmap_mtfire_book2
+  rotate: true
+  xy: 1621, 2
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+worldmap_mtfire_g06
+  rotate: true
+  xy: 797, 2
+  size: 93, 109
+  orig: 131, 175
+  offset: 22, 27
+  index: -1
+worldmap_mtfire_g02
+  rotate: true
+  xy: 1272, 2
+  size: 89, 113
+  orig: 131, 175
+  offset: 21, 16
+  index: -1
+worldmap_mtfire_wave02
+  rotate: false
+  xy: 1582, 2
+  size: 37, 52
+  orig: 41, 54
+  offset: 4, 0
+  index: -1
+worldmap_mtfire_reddd
+  rotate: false
+  xy: 1019, 2
+  size: 136, 92
+  orig: 136, 92
+  offset: 0, 0
+  index: -1
+worldmap_mtfire_back4
+  rotate: true
+  xy: 1502, 84
+  size: 14, 12
+  orig: 20, 16
+  offset: 3, 0
+  index: -1
+worldmap_mtfire_g09
+  rotate: true
+  xy: 349, 2
+  size: 95, 111
+  orig: 131, 175
+  offset: 19, 32
+  index: -1
+worldmap_mtfire_book
+  rotate: true
+  xy: 1502, 2
+  size: 80, 78
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+worldmap_mtfire_g05
+  rotate: true
+  xy: 908, 2
+  size: 93, 109
+  orig: 131, 175
+  offset: 21, 24
+  index: -1
+worldmap_mtfire_g12
+  rotate: true
+  xy: 117, 2
+  size: 95, 117
+  orig: 131, 175
+  offset: 17, 38
+  index: -1
+worldmap_mtfire_g01
+  rotate: true
+  xy: 1387, 2
+  size: 85, 113
+  orig: 131, 175
+  offset: 22, 15
+  index: -1
+worldmap_mtfire_back1
+  rotate: false
+  xy: 1272, 93
+  size: 6, 6
+  orig: 20, 16
+  offset: 7, 2
+  index: -1
+worldmap_mtfire_dust_left
+  rotate: false
+  xy: 1668, 45
+  size: 33, 33
+  orig: 41, 41
+  offset: 5, 4
+  index: -1
+worldmap_mtfire_back5
+  rotate: true
+  xy: 1632, 80
+  size: 18, 16
+  orig: 20, 16
+  offset: 1, 0
+  index: -1
+worldmap_mtfire_g08
+  rotate: true
+  xy: 462, 2
+  size: 95, 109
+  orig: 131, 175
+  offset: 19, 30
+  index: -1
+worldmap_mtfire_g04
+  rotate: true
+  xy: 684, 2
+  size: 93, 111
+  orig: 131, 175
+  offset: 21, 21
+  index: -1
+worldmap_mtfire_g11
+  rotate: true
+  xy: 2, 2
+  size: 97, 113
+  orig: 131, 175
+  offset: 16, 36
+  index: -1
+worldmap_mtfire_back6
+  rotate: true
+  xy: 1650, 75
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+worldmap_mtfire_back2
+  rotate: false
+  xy: 1414, 89
+  size: 8, 8
+  orig: 20, 16
+  offset: 6, 1
+  index: -1
+worldmap_mtfire_g07
+  rotate: true
+  xy: 573, 2
+  size: 95, 109
+  orig: 131, 175
+  offset: 20, 29
+  index: -1
+worldmap_mtfire_dust_s
+  rotate: true
+  xy: 1401, 89
+  size: 10, 11
+  orig: 16, 19
+  offset: 3, 5
+  index: -1
+worldmap_mtfire_g03
+  rotate: true
+  xy: 1157, 2
+  size: 91, 113
+  orig: 131, 175
+  offset: 20, 18
+  index: -1
+worldmap_mtfire_g10
+  rotate: true
+  xy: 236, 2
+  size: 95, 111
+  orig: 131, 175
+  offset: 19, 34
+  index: -1

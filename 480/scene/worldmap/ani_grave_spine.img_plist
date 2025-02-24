@@ -1,0 +1,60 @@
+ani_grave_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+w_drawf_grave_screw01
+  rotate: false
+  xy: 212, 74
+  size: 31, 30
+  orig: 199, 164
+  offset: 119, 50
+  index: -1
+w_drawf_grave_dust02
+  rotate: false
+  xy: 175, 2
+  size: 107, 70
+  orig: 199, 164
+  offset: 92, 2
+  index: -1
+w_drawf_grave_dust01
+  rotate: false
+  xy: 2, 50
+  size: 117, 72
+  orig: 199, 164
+  offset: 0, 9
+  index: -1
+w_drawf_grave_dust04
+  rotate: false
+  xy: 121, 50
+  size: 41, 48
+  orig: 199, 164
+  offset: 40, 113
+  index: -1
+w_drawf_grave_dust03
+  rotate: false
+  xy: 2, 2
+  size: 171, 46
+  orig: 199, 164
+  offset: 28, 5
+  index: -1
+w_drawf_grave_dust05
+  rotate: true
+  xy: 164, 74
+  size: 41, 46
+  orig: 199, 164
+  offset: 15, 91
+  index: -1
+w_drawf_grave_screw02
+  rotate: true
+  xy: 245, 74
+  size: 27, 32
+  orig: 199, 164
+  offset: 137, 34
+  index: -1
+w_drawf_grave_base
+  rotate: true
+  xy: 284, 2
+  size: 93, 84
+  orig: 199, 164
+  offset: 91, 14
+  index: -1

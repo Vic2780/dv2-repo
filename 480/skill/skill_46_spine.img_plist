@@ -1,0 +1,39 @@
+skill_46_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+skill_fracture4
+  rotate: true
+  xy: 2, 403
+  size: 140, 158
+  orig: 140, 158
+  offset: 0, 0
+  index: -1
+skill_fracture2
+  rotate: true
+  xy: 118, 545
+  size: 142, 122
+  orig: 226, 176
+  offset: 0, 0
+  index: -1
+skill_fracture5
+  rotate: true
+  xy: 2, 2
+  size: 221, 235
+  orig: 231, 239
+  offset: 10, 4
+  index: -1
+skill_fracture3
+  rotate: true
+  xy: 2, 545
+  size: 154, 114
+  orig: 182, 142
+  offset: 19, 11
+  index: -1
+skill_fracture1
+  rotate: false
+  xy: 2, 225
+  size: 226, 176
+  orig: 226, 176
+  offset: 0, 0
+  index: -1

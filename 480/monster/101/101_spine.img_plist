@@ -1,0 +1,158 @@
+101_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_golem_hand1
+  rotate: false
+  xy: 633, 2
+  size: 160, 173
+  orig: 166, 179
+  offset: 3, 3
+  index: -1
+m_golem_groggy_hand1
+  rotate: false
+  xy: 795, 2
+  size: 130, 155
+  orig: 132, 167
+  offset: 0, 7
+  index: -1
+m_golem_hand111
+  rotate: true
+  xy: 1164, 182
+  size: 54, 96
+  orig: 62, 104
+  offset: 5, 4
+  index: -1
+m_golem_body4
+  rotate: true
+  xy: 2, 2
+  size: 235, 226
+  orig: 245, 236
+  offset: 0, 0
+  index: -1
+m_golem_foot1
+  rotate: true
+  xy: 1204, 93
+  size: 87, 78
+  orig: 89, 80
+  offset: 1, 2
+  index: -1
+m_golem_groggy_hand2
+  rotate: false
+  xy: 336, 189
+  size: 69, 64
+  orig: 71, 70
+  offset: 1, 3
+  index: -1
+m_golem_groggybody1
+  rotate: true
+  xy: 927, 2
+  size: 150, 130
+  orig: 150, 130
+  offset: 0, 0
+  index: -1
+m_golem_groggy_foot1
+  rotate: false
+  xy: 407, 189
+  size: 57, 64
+  orig: 59, 68
+  offset: 0, 3
+  index: -1
+m_golem_body3
+  rotate: false
+  xy: 816, 159
+  size: 253, 94
+  orig: 253, 94
+  offset: 0, 0
+  index: -1
+m_golem_hand22
+  rotate: false
+  xy: 1071, 137
+  size: 91, 104
+  orig: 93, 110
+  offset: 1, 3
+  index: -1
+m_golem_groggybody2
+  rotate: false
+  xy: 1059, 2
+  size: 90, 133
+  orig: 90, 133
+  offset: 0, 0
+  index: -1
+m_golem_hand222
+  rotate: true
+  xy: 625, 180
+  size: 54, 97
+  orig: 64, 105
+  offset: 5, 6
+  index: -1
+m_golem_groggy_foot2
+  rotate: true
+  xy: 565, 180
+  size: 60, 58
+  orig: 66, 64
+  offset: 3, 4
+  index: -1
+m_golem_body2
+  rotate: false
+  xy: 336, 2
+  size: 123, 185
+  orig: 123, 185
+  offset: 0, 0
+  index: -1
+m_golem_groggy_hand11
+  rotate: true
+  xy: 2, 239
+  size: 15, 28
+  orig: 15, 32
+  offset: 0, 2
+  index: -1
+m_golem_groggybody3
+  rotate: true
+  xy: 230, 2
+  size: 227, 104
+  orig: 227, 104
+  offset: 0, 0
+  index: -1
+m_golem_hand2
+  rotate: false
+  xy: 1151, 2
+  size: 120, 89
+  orig: 126, 95
+  offset: 3, 3
+  index: -1
+m_golem_groggy_hand22
+  rotate: false
+  xy: 1151, 93
+  size: 51, 37
+  orig: 53, 45
+  offset: 0, 4
+  index: -1
+m_golem_body1
+  rotate: true
+  xy: 461, 2
+  size: 176, 170
+  orig: 176, 170
+  offset: 0, 0
+  index: -1
+m_golem_foot2
+  rotate: false
+  xy: 724, 177
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+m_golem_hand11
+  rotate: true
+  xy: 501, 180
+  size: 67, 62
+  orig: 71, 68
+  offset: 2, 3
+  index: -1
+m_golem_groggy_hand222
+  rotate: false
+  xy: 466, 180
+  size: 33, 68
+  orig: 37, 74
+  offset: 2, 3
+  index: -1

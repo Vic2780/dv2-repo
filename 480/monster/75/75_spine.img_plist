@@ -1,0 +1,403 @@
+75_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+m_berserked_dark_frosty_foot1light
+  rotate: false
+  xy: 891, 168
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_arm4light
+  rotate: false
+  xy: 569, 480
+  size: 96, 210
+  orig: 96, 212
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_tail2
+  rotate: true
+  xy: 237, 646
+  size: 347, 95
+  orig: 347, 95
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_groggywing21
+  rotate: false
+  xy: 1058, 250
+  size: 34, 128
+  orig: 44, 128
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_tail1
+  rotate: true
+  xy: 2, 353
+  size: 342, 185
+  orig: 342, 185
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_groggyneck
+  rotate: false
+  xy: 454, 935
+  size: 62, 66
+  orig: 62, 66
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_arm4
+  rotate: false
+  xy: 518, 694
+  size: 101, 183
+  orig: 101, 183
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_groggytail1
+  rotate: true
+  xy: 922, 168
+  size: 80, 172
+  orig: 80, 172
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_groggyarm2
+  rotate: true
+  xy: 965, 983
+  size: 29, 64
+  orig: 29, 64
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_body1light
+  rotate: true
+  xy: 769, 844
+  size: 113, 79
+  orig: 113, 79
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_wing22
+  rotate: false
+  xy: 667, 480
+  size: 110, 190
+  orig: 110, 190
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_groggyfinger2
+  rotate: true
+  xy: 667, 672
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_groggyarm3
+  rotate: true
+  xy: 619, 951
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_head2
+  rotate: true
+  xy: 891, 2
+  size: 164, 203
+  orig: 164, 203
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_wing21
+  rotate: true
+  xy: 918, 588
+  size: 75, 176
+  orig: 75, 176
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_groggywing12
+  rotate: false
+  xy: 1048, 665
+  size: 46, 71
+  orig: 46, 71
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_groggytail2
+  rotate: true
+  xy: 963, 665
+  size: 156, 83
+  orig: 156, 83
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_head1
+  rotate: true
+  xy: 2, 964
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_tail1light
+  rotate: false
+  xy: 1044, 440
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_groggywing11
+  rotate: true
+  xy: 725, 214
+  size: 209, 195
+  orig: 209, 195
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_foot2light
+  rotate: false
+  xy: 1044, 549
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_groggyarm1
+  rotate: false
+  xy: 744, 692
+  size: 113, 150
+  orig: 113, 150
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_necklight
+  rotate: true
+  xy: 334, 935
+  size: 87, 118
+  orig: 99, 118
+  offset: 1, 0
+  index: -1
+m_berserked_dark_frosty_groggyleg1
+  rotate: true
+  xy: 1044, 514
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_finger2
+  rotate: false
+  xy: 1050, 808
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_finger2light
+  rotate: false
+  xy: 1050, 869
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_groggyeye
+  rotate: true
+  xy: 597, 214
+  size: 43, 116
+  orig: 45, 118
+  offset: 1, 2
+  index: -1
+m_berserked_dark_frosty_hand
+  rotate: true
+  xy: 69, 964
+  size: 53, 112
+  orig: 53, 112
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_neck
+  rotate: false
+  xy: 920, 440
+  size: 122, 146
+  orig: 122, 146
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_groggybody2
+  rotate: false
+  xy: 965, 917
+  size: 79, 64
+  orig: 79, 64
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_foot2
+  rotate: false
+  xy: 621, 692
+  size: 121, 160
+  orig: 121, 160
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_groggybody1
+  rotate: false
+  xy: 340, 523
+  size: 227, 169
+  orig: 227, 169
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_arm3light
+  rotate: true
+  xy: 769, 960
+  size: 62, 124
+  orig: 62, 124
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_finger1
+  rotate: true
+  xy: 965, 823
+  size: 92, 83
+  orig: 92, 83
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_foot1
+  rotate: false
+  xy: 859, 692
+  size: 102, 159
+  orig: 102, 159
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_body2
+  rotate: false
+  xy: 779, 425
+  size: 139, 152
+  orig: 139, 152
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_tail2light
+  rotate: false
+  xy: 534, 480
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_arm2
+  rotate: true
+  xy: 518, 951
+  size: 68, 99
+  orig: 68, 99
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_handlight
+  rotate: false
+  xy: 189, 353
+  size: 149, 291
+  orig: 155, 293
+  offset: 2, 0
+  index: -1
+m_berserked_dark_frosty_leg1light
+  rotate: false
+  xy: 189, 646
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_body1
+  rotate: false
+  xy: 597, 2
+  size: 292, 210
+  orig: 292, 210
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_eye
+  rotate: false
+  xy: 183, 964
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_groggyhead2
+  rotate: false
+  xy: 922, 250
+  size: 134, 188
+  orig: 134, 188
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_arm1
+  rotate: false
+  xy: 340, 264
+  size: 192, 257
+  orig: 192, 257
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_leg2
+  rotate: true
+  xy: 779, 579
+  size: 111, 137
+  orig: 111, 137
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_wing3
+  rotate: false
+  xy: 2, 2
+  size: 325, 349
+  orig: 325, 349
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_wing3light
+  rotate: false
+  xy: 329, 2
+  size: 266, 260
+  orig: 266, 260
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_groggyarm4
+  rotate: false
+  xy: 656, 854
+  size: 111, 127
+  orig: 111, 131
+  offset: 0, 4
+  index: -1
+m_berserked_dark_frosty_groggyhead1
+  rotate: false
+  xy: 895, 960
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_groggywing3
+  rotate: true
+  xy: 534, 264
+  size: 214, 189
+  orig: 214, 189
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_leg1
+  rotate: true
+  xy: 850, 853
+  size: 105, 113
+  orig: 105, 113
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_wing12
+  rotate: true
+  xy: 334, 694
+  size: 239, 182
+  orig: 239, 182
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_groggyhand
+  rotate: false
+  xy: 725, 425
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_leg2light
+  rotate: false
+  xy: 761, 425
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_wing11
+  rotate: false
+  xy: 2, 697
+  size: 233, 265
+  orig: 233, 265
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_arm3
+  rotate: true
+  xy: 518, 879
+  size: 70, 136
+  orig: 70, 136
+  offset: 0, 0
+  index: -1
+m_berserked_dark_frosty_groggywing22
+  rotate: false
+  xy: 1048, 738
+  size: 41, 68
+  orig: 41, 68
+  offset: 0, 0
+  index: -1
