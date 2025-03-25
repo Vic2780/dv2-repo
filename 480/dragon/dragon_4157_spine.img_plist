@@ -1,0 +1,508 @@
+dragon_4157_spine.pvr.ccz
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dragon_blackjd_baby_tail
+  rotate: true
+  xy: 966, 44
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_leg2
+  rotate: true
+  xy: 966, 2
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+dragon_blackjd_child_leg1
+  rotate: true
+  xy: 911, 34
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_hair3
+  rotate: true
+  xy: 161, 86
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_brow
+  rotate: true
+  xy: 768, 69
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+dragon_blackjd_baby_leg5
+  rotate: false
+  xy: 996, 32
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+dragon_blackjd_child_belt2
+  rotate: true
+  xy: 966, 25
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_leg6
+  rotate: true
+  xy: 136, 86
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+dragon_blackjd_baby_ear2
+  rotate: true
+  xy: 937, 86
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+dragon_blackjd_baby_eye2
+  rotate: true
+  xy: 675, 70
+  size: 41, 15
+  orig: 41, 15
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_foot3
+  rotate: true
+  xy: 923, 56
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_belt
+  rotate: true
+  xy: 476, 72
+  size: 40, 17
+  orig: 40, 17
+  offset: 0, 0
+  index: -1
+dragon_blackjd_baby_brow
+  rotate: true
+  xy: 893, 88
+  size: 24, 12
+  orig: 26, 14
+  offset: 1, 1
+  index: -1
+dragon_blackjd_child_arm3
+  rotate: false
+  xy: 941, 23
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+dragon_blackjd_baby_wind
+  rotate: false
+  xy: 605, 70
+  size: 31, 42
+  orig: 33, 42
+  offset: 1, 0
+  index: -1
+dragon_blackjd_adult_heart
+  rotate: false
+  xy: 428, 73
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_eff1
+  rotate: true
+  xy: 204, 2
+  size: 82, 130
+  orig: 82, 200
+  offset: 0, 70
+  index: -1
+dragon_blackjd_adult_hair2
+  rotate: true
+  xy: 80, 86
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+dragon_blackjd_baby_hari
+  rotate: true
+  xy: 743, 102
+  size: 10, 29
+  orig: 10, 29
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_body
+  rotate: false
+  xy: 336, 2
+  size: 68, 70
+  orig: 68, 70
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_eye2
+  rotate: true
+  xy: 222, 86
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_leg3
+  rotate: true
+  xy: 2, 86
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_foot2
+  rotate: true
+  xy: 285, 86
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+dragon_blackjd_child_ear1
+  rotate: false
+  xy: 48, 86
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+dragon_blackjd_child_arm4
+  rotate: true
+  xy: 995, 65
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+dragon_blackjd_baby_leg2
+  rotate: false
+  xy: 910, 2
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_ear1
+  rotate: false
+  xy: 338, 74
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+dragon_blackjd_child_eye2
+  rotate: true
+  xy: 787, 67
+  size: 44, 19
+  orig: 44, 19
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_leg7
+  rotate: true
+  xy: 907, 88
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_belt3
+  rotate: false
+  xy: 966, 84
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+dragon_blackjd_baby_eye3
+  rotate: true
+  xy: 658, 70
+  size: 41, 15
+  orig: 41, 15
+  offset: 0, 0
+  index: -1
+dragon_blackjd_child_body
+  rotate: true
+  xy: 828, 56
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+dragon_blackjd_child_eye
+  rotate: true
+  xy: 808, 67
+  size: 44, 18
+  orig: 44, 18
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_hair
+  rotate: true
+  xy: 880, 2
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+dragon_blackjd_baby_skeleton
+  rotate: false
+  xy: 495, 72
+  size: 19, 34
+  orig: 23, 38
+  offset: 1, 1
+  index: -1
+dragon_blackjd_adult_eff2
+  rotate: true
+  xy: 2, 2
+  size: 82, 200
+  orig: 82, 200
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_foot1
+  rotate: false
+  xy: 880, 34
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+dragon_blackjd_child_belt
+  rotate: true
+  xy: 726, 69
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_eye3
+  rotate: true
+  xy: 743, 69
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+dragon_blackjd_child_arm1
+  rotate: true
+  xy: 907, 56
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_leg4
+  rotate: false
+  xy: 266, 86
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+dragon_blackjd_child_head
+  rotate: true
+  xy: 709, 2
+  size: 65, 59
+  orig: 65, 59
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_belt2
+  rotate: true
+  xy: 206, 86
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+dragon_blackjd_child_eyebrow
+  rotate: false
+  xy: 966, 101
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_gold_belt_acc
+  rotate: true
+  xy: 638, 70
+  size: 41, 18
+  orig: 41, 18
+  offset: 0, 0
+  index: -1
+dragon_blackjd_child_hair
+  rotate: true
+  xy: 941, 2
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+dragon_blackjd_child_tail
+  rotate: false
+  xy: 876, 56
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+dragon_blackjd_child_effect_z
+  rotate: false
+  xy: 562, 71
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+dragon_blackjd_child_arm5
+  rotate: true
+  xy: 991, 83
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+dragon_blackjd_baby_leg3
+  rotate: false
+  xy: 947, 60
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_ear2
+  rotate: true
+  xy: 372, 74
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_tongue
+  rotate: false
+  xy: 990, 101
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+dragon_blackjd_baby_head
+  rotate: true
+  xy: 514, 2
+  size: 67, 63
+  orig: 67, 63
+  offset: 0, 0
+  index: -1
+dragon_blackjd_child_ear2
+  rotate: true
+  xy: 111, 86
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_leg1
+  rotate: false
+  xy: 709, 69
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+dragon_blackjd_baby_ear1
+  rotate: true
+  xy: 966, 66
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+dragon_blackjd_baby_eye
+  rotate: true
+  xy: 692, 70
+  size: 41, 15
+  orig: 41, 15
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_eff3
+  rotate: true
+  xy: 579, 2
+  size: 66, 128
+  orig: 82, 200
+  offset: 0, 0
+  index: -1
+dragon_blackjd_baby_otl
+  rotate: true
+  xy: 770, 2
+  size: 63, 54
+  orig: 65, 62
+  offset: 0, 8
+  index: -1
+dragon_blackjd_adult_tail
+  rotate: false
+  xy: 406, 2
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_eye4
+  rotate: false
+  xy: 304, 86
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+dragon_blackjd_baby_leg4
+  rotate: false
+  xy: 947, 41
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_gold_belt2_acc
+  rotate: false
+  xy: 403, 74
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+dragon_blackjd_child_foot1
+  rotate: false
+  xy: 995, 52
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_leg5
+  rotate: false
+  xy: 184, 86
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_head
+  rotate: true
+  xy: 450, 2
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_body2
+  rotate: true
+  xy: 516, 71
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+dragon_blackjd_child_arm2
+  rotate: false
+  xy: 876, 88
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_mouth
+  rotate: true
+  xy: 927, 2
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+dragon_blackjd_baby_body1
+  rotate: false
+  xy: 826, 2
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+dragon_blackjd_adult_eye1
+  rotate: true
+  xy: 244, 86
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+dragon_blackjd_baby_leg1
+  rotate: false
+  xy: 996, 2
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1

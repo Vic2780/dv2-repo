@@ -7,7 +7,7 @@
             <key>dragon/dragon_3003/box_adult.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,239},{73,70}}</string>
+                <string>{{2,311},{73,70}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -20,7 +20,7 @@
             <key>dragon/dragon_3003/box_baby.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,167},{73,70}}</string>
+                <string>{{2,239},{73,70}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -31,6 +31,19 @@
                 <string>{73,70}</string>
             </dict>
             <key>dragon/dragon_3003/box_child.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,167},{73,70}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{73,70}}</string>
+                <key>sourceSize</key>
+                <string>{73,70}</string>
+            </dict>
+            <key>dragon/dragon_3003/box_evolution.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{2,95},{73,70}}</string>
@@ -59,7 +72,7 @@
             <key>dragon/dragon_3003/egg_small.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,311},{51,57}}</string>
+                <string>{{2,383},{51,57}}</string>
                 <key>offset</key>
                 <string>{-2,0}</string>
                 <key>rotated</key>
@@ -77,9 +90,9 @@
             <key>realTextureFileName</key>
             <string>dragon_3003.pvr.ccz</string>
             <key>size</key>
-            <string>{85,364}</string>
+            <string>{85,436}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:25d6c81781f480f4f47940777d8069d5:c50be5b00b761c76902e7f923ea8b7e4:4c11e061cc37494d345b82f14ac91d7c$</string>
+            <string>$TexturePacker:SmartUpdate:fce79693842a1a7cf6d0dd625b987077:e93b273d828bfdc911ae99e786d58da0:4c11e061cc37494d345b82f14ac91d7c$</string>
             <key>textureFileName</key>
             <string>dragon_3003.pvr.ccz</string>
         </dict>

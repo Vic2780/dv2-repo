@@ -1,0 +1,662 @@
+dragon_4193_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_kuzmara_baby_wing2_fire_effect
+  rotate: false
+  xy: 302, 96
+  size: 48, 44
+  orig: 48, 46
+  offset: 0, 1
+  index: -1
+dragon_kuzmara_adult_arm_l_fire_effect
+  rotate: true
+  xy: 313, 1477
+  size: 50, 37
+  orig: 52, 39
+  offset: 1, 1
+  index: -1
+dragon_kuzmara_child_wing2_fire
+  rotate: true
+  xy: 169, 1712
+  size: 71, 102
+  orig: 71, 104
+  offset: 0, 1
+  index: -1
+dragon_kuzmara_critical_l_wing2
+  rotate: true
+  xy: 173, 842
+  size: 163, 169
+  orig: 163, 169
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_child_arm1
+  rotate: false
+  xy: 143, 1439
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_adult_wing1_fire_effect
+  rotate: true
+  xy: 2, 1411
+  size: 135, 139
+  orig: 137, 141
+  offset: 1, 1
+  index: -1
+dragon_kuzmara_adult_head2
+  rotate: true
+  xy: 231, 1909
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_baby_tail
+  rotate: true
+  xy: 284, 357
+  size: 38, 62
+  orig: 38, 66
+  offset: 0, 2
+  index: -1
+dragon_kuzmara_adult_foot2
+  rotate: false
+  xy: 143, 1491
+  size: 26, 48
+  orig: 26, 48
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_critical_light2
+  rotate: false
+  xy: 166, 1785
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_adult_arm_l1
+  rotate: true
+  xy: 143, 1541
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_child_head1
+  rotate: false
+  xy: 298, 142
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_child_wing1
+  rotate: true
+  xy: 79, 1908
+  size: 76, 74
+  orig: 76, 74
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_baby_wing1_fire_effect
+  rotate: false
+  xy: 302, 2
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_baby_wing1_fire
+  rotate: false
+  xy: 302, 49
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_critical_r_wing2
+  rotate: true
+  xy: 173, 1171
+  size: 162, 169
+  orig: 162, 169
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_critical_star1
+  rotate: false
+  xy: 119, 1831
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_child_leg4
+  rotate: false
+  xy: 77, 1831
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_adult_arm_l_fire
+  rotate: true
+  xy: 313, 1529
+  size: 50, 37
+  orig: 52, 39
+  offset: 1, 1
+  index: -1
+dragon_kuzmara_adult_wing1_fire
+  rotate: true
+  xy: 172, 1454
+  size: 135, 139
+  orig: 137, 141
+  offset: 1, 1
+  index: -1
+dragon_kuzmara_adult_leg_l1
+  rotate: true
+  xy: 298, 199
+  size: 27, 52
+  orig: 27, 52
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_child_body1
+  rotate: true
+  xy: 315, 804
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_adult_body2
+  rotate: true
+  xy: 2, 1899
+  size: 88, 75
+  orig: 88, 75
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_adult_leg_r2
+  rotate: false
+  xy: 329, 1421
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_child_tail
+  rotate: false
+  xy: 264, 578
+  size: 85, 98
+  orig: 85, 98
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_critical_ring3
+  rotate: false
+  xy: 2, 214
+  size: 286, 100
+  orig: 304, 106
+  offset: 4, 1
+  index: -1
+dragon_kuzmara_child_horn2
+  rotate: false
+  xy: 231, 1940
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_baby_eye3
+  rotate: false
+  xy: 2, 1878
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_child_arm2
+  rotate: false
+  xy: 135, 1627
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_adult_foot1_fire
+  rotate: true
+  xy: 117, 1874
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_adult_wing1
+  rotate: false
+  xy: 2, 1741
+  size: 95, 88
+  orig: 95, 88
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_critical_ring6
+  rotate: false
+  xy: 2, 494
+  size: 260, 92
+  orig: 304, 106
+  offset: 13, 2
+  index: -1
+dragon_kuzmara_critical_l_wing3
+  rotate: true
+  xy: 2, 753
+  size: 163, 169
+  orig: 163, 169
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_child_hair
+  rotate: false
+  xy: 259, 1899
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_baby_hair
+  rotate: true
+  xy: 108, 1669
+  size: 67, 59
+  orig: 67, 59
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_child_wing1_fire
+  rotate: true
+  xy: 173, 715
+  size: 125, 89
+  orig: 127, 89
+  offset: 1, 0
+  index: -1
+dragon_kuzmara_critical_ring2
+  rotate: false
+  xy: 2, 110
+  size: 294, 102
+  orig: 304, 106
+  offset: 3, 0
+  index: -1
+dragon_kuzmara_adult_arm_l2
+  rotate: false
+  xy: 2, 1989
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_child_head2
+  rotate: true
+  xy: 205, 2006
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_child_wing2
+  rotate: true
+  xy: 264, 762
+  size: 40, 83
+  orig: 40, 83
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_baby_eye2
+  rotate: false
+  xy: 36, 1878
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_adult_hair_effect
+  rotate: true
+  xy: 274, 435
+  size: 89, 76
+  orig: 89, 78
+  offset: 0, 1
+  index: -1
+dragon_kuzmara_critical_r_wing3
+  rotate: true
+  xy: 2, 1083
+  size: 162, 169
+  orig: 162, 169
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_adult_eye1
+  rotate: false
+  xy: 315, 829
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_adult_tail
+  rotate: false
+  xy: 173, 1335
+  size: 154, 117
+  orig: 154, 117
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_baby_wing1
+  rotate: true
+  xy: 311, 2015
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_child_body2
+  rotate: false
+  xy: 264, 526
+  size: 86, 50
+  orig: 86, 50
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_critical_light1
+  rotate: false
+  xy: 259, 1806
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_adult_arm_r1
+  rotate: true
+  xy: 329, 1442
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_critical_l_wing4
+  rotate: true
+  xy: 2, 588
+  size: 163, 169
+  orig: 163, 169
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_adult_arm_r_fire
+  rotate: true
+  xy: 304, 1975
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_child_arm3
+  rotate: false
+  xy: 99, 1791
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_adult_foot2_fire_effect
+  rotate: false
+  xy: 117, 1986
+  size: 25, 48
+  orig: 27, 50
+  offset: 1, 1
+  index: -1
+dragon_kuzmara_baby_leg
+  rotate: false
+  xy: 329, 1335
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_child_leg1
+  rotate: true
+  xy: 27, 1831
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_baby_wing2_fire
+  rotate: true
+  xy: 305, 1627
+  size: 48, 44
+  orig: 48, 46
+  offset: 0, 1
+  index: -1
+dragon_kuzmara_adult_wing2
+  rotate: false
+  xy: 264, 678
+  size: 84, 82
+  orig: 84, 82
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_child_wing2_fire_effect
+  rotate: true
+  xy: 2, 1669
+  size: 70, 104
+  orig: 72, 106
+  offset: 1, 1
+  index: -1
+dragon_kuzmara_baby_eye1
+  rotate: false
+  xy: 70, 1878
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_adult_leg_r1
+  rotate: false
+  xy: 135, 1575
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_adult_hair
+  rotate: true
+  xy: 273, 1715
+  size: 89, 76
+  orig: 89, 78
+  offset: 0, 1
+  index: -1
+dragon_kuzmara_critical_r_wing4
+  rotate: true
+  xy: 173, 1007
+  size: 162, 169
+  orig: 162, 169
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_child_eye1
+  rotate: false
+  xy: 313, 1454
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_baby_wing2
+  rotate: true
+  xy: 271, 2015
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_adult_hand1
+  rotate: false
+  xy: 231, 1878
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_adult_neck
+  rotate: false
+  xy: 231, 1975
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_child_leg2
+  rotate: true
+  xy: 166, 1878
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_adult_eye2
+  rotate: true
+  xy: 328, 829
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_baby_arm2
+  rotate: false
+  xy: 329, 1378
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_critical_ring5
+  rotate: false
+  xy: 2, 404
+  size: 270, 88
+  orig: 304, 106
+  offset: 21, 2
+  index: -1
+dragon_kuzmara_adult_wing2_fire_effect
+  rotate: true
+  xy: 2, 1548
+  size: 119, 131
+  orig: 119, 131
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_adult_arm_r2
+  rotate: true
+  xy: 305, 1677
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_critical_r_wing1
+  rotate: true
+  xy: 2, 1247
+  size: 162, 169
+  orig: 162, 169
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_adult_foot1_effect
+  rotate: false
+  xy: 171, 1984
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_child_eye2
+  rotate: true
+  xy: 259, 1785
+  size: 14, 12
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_child_hair_effect
+  rotate: false
+  xy: 155, 1908
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_adult_head1
+  rotate: false
+  xy: 290, 228
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_adult_leg_l2
+  rotate: false
+  xy: 205, 1984
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_adult_foot1
+  rotate: false
+  xy: 35, 1989
+  size: 29, 51
+  orig: 29, 51
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_critical_ring1
+  rotate: false
+  xy: 2, 316
+  size: 280, 86
+  orig: 304, 106
+  offset: 0, 1
+  index: -1
+dragon_kuzmara_adult_wing2_fire
+  rotate: true
+  xy: 172, 1591
+  size: 119, 131
+  orig: 119, 131
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_critical_l_wing1
+  rotate: true
+  xy: 2, 918
+  size: 163, 169
+  orig: 163, 169
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_child_wing1_fire_effect
+  rotate: true
+  xy: 173, 588
+  size: 125, 89
+  orig: 127, 89
+  offset: 1, 0
+  index: -1
+dragon_kuzmara_baby_arm1
+  rotate: false
+  xy: 2, 1831
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_child_neck
+  rotate: true
+  xy: 284, 397
+  size: 36, 62
+  orig: 36, 62
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_baby_hair_effect
+  rotate: true
+  xy: 290, 288
+  size: 67, 59
+  orig: 67, 59
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_adult_body1
+  rotate: false
+  xy: 313, 1581
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_baby_head
+  rotate: true
+  xy: 108, 1738
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_critical_ring4
+  rotate: false
+  xy: 2, 2
+  size: 298, 106
+  orig: 304, 106
+  offset: 5, 0
+  index: -1
+dragon_kuzmara_adult_foot2_fire
+  rotate: false
+  xy: 144, 1986
+  size: 25, 48
+  orig: 27, 50
+  offset: 1, 1
+  index: -1
+dragon_kuzmara_adult_hand2
+  rotate: true
+  xy: 143, 1411
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_baby_body
+  rotate: false
+  xy: 66, 1989
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_child_leg3
+  rotate: true
+  xy: 264, 804
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+dragon_kuzmara_adult_arm_r_fire_effect
+  rotate: true
+  xy: 271, 1975
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1

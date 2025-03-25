@@ -1,0 +1,1334 @@
+dragon_4192_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_talissah_child_eye1
+  rotate: false
+  xy: 308, 2008
+  size: 17, 15
+  orig: 17, 17
+  offset: 0, 1
+  index: -1
+dragon_talissah_e_head2_chain
+  rotate: false
+  xy: 244, 2005
+  size: 9, 41
+  orig: 9, 41
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_body1_armor
+  rotate: true
+  xy: 313, 784
+  size: 80, 45
+  orig: 80, 45
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_body2
+  rotate: false
+  xy: 182, 192
+  size: 127, 81
+  orig: 127, 81
+  offset: 0, 0
+  index: -1
+dragon_talissah_child_neck
+  rotate: false
+  xy: 315, 1363
+  size: 47, 72
+  orig: 47, 72
+  offset: 0, 0
+  index: -1
+dragon_talissah_child_wing2_effect
+  rotate: true
+  xy: 131, 440
+  size: 114, 89
+  orig: 114, 91
+  offset: 0, 1
+  index: -1
+dragon_talissah_e_body1
+  rotate: false
+  xy: 236, 784
+  size: 75, 80
+  orig: 75, 80
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_tail2
+  rotate: false
+  xy: 2, 1846
+  size: 61, 160
+  orig: 61, 160
+  offset: 0, 0
+  index: -1
+dragon_talissah_child_wing2_effect2
+  rotate: false
+  xy: 334, 1910
+  size: 26, 27
+  orig: 26, 29
+  offset: 0, 1
+  index: -1
+dragon_talissah_e_hair
+  rotate: true
+  xy: 157, 1809
+  size: 99, 93
+  orig: 99, 95
+  offset: 0, 1
+  index: -1
+dragon_talissah_child_wing2_effect3
+  rotate: false
+  xy: 288, 275
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_tail1
+  rotate: true
+  xy: 93, 1843
+  size: 115, 62
+  orig: 115, 62
+  offset: 0, 0
+  index: -1
+dragon_talissah_child_wing2_effect1
+  rotate: false
+  xy: 239, 1488
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_talissah_child_wing1_effect2
+  rotate: true
+  xy: 305, 1938
+  size: 26, 27
+  orig: 26, 29
+  offset: 0, 1
+  index: -1
+dragon_talissah_adult_wing2_effect
+  rotate: true
+  xy: 2, 470
+  size: 185, 127
+  orig: 185, 129
+  offset: 0, 1
+  index: -1
+dragon_talissah_e_critical_cloud2
+  rotate: false
+  xy: 222, 567
+  size: 89, 75
+  orig: 113, 103
+  offset: 21, 12
+  index: -1
+dragon_talissah_e_critical_cloud3
+  rotate: true
+  xy: 131, 672
+  size: 111, 99
+  orig: 113, 103
+  offset: 0, 4
+  index: -1
+dragon_talissah_e_wing2
+  rotate: true
+  xy: 2, 280
+  size: 188, 126
+  orig: 188, 128
+  offset: 0, 0
+  index: -1
+dragon_talissah_child_wing1_effect3
+  rotate: true
+  xy: 341, 1517
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_critical_cloud4
+  rotate: false
+  xy: 135, 1116
+  size: 107, 97
+  orig: 113, 103
+  offset: 3, 5
+  index: -1
+dragon_talissah_e_critical_cloud5
+  rotate: true
+  xy: 135, 898
+  size: 107, 99
+  orig: 113, 103
+  offset: 6, 4
+  index: -1
+dragon_talissah_child_wing1_effect1
+  rotate: false
+  xy: 337, 997
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+dragon_talissah_child_head_effect1
+  rotate: false
+  xy: 222, 644
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_critical_cloud1
+  rotate: false
+  xy: 243, 1248
+  size: 69, 69
+  orig: 113, 103
+  offset: 29, 15
+  index: -1
+dragon_talissah_child_head_effect4
+  rotate: false
+  xy: 356, 1985
+  size: 9, 14
+  orig: 11, 14
+  offset: 1, 0
+  index: -1
+dragon_talissah_e_wing1
+  rotate: true
+  xy: 2, 1028
+  size: 182, 131
+  orig: 182, 131
+  offset: 0, 0
+  index: -1
+dragon_talissah_adult_head_effect2
+  rotate: true
+  xy: 355, 268
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+dragon_talissah_child_head_effect2
+  rotate: false
+  xy: 65, 1992
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+dragon_talissah_adult_head_effect4
+  rotate: false
+  xy: 255, 2008
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+dragon_talissah_child_head_effect3
+  rotate: false
+  xy: 345, 1770
+  size: 18, 27
+  orig: 20, 27
+  offset: 1, 0
+  index: -1
+dragon_talissah_adult_head_effect3
+  rotate: true
+  xy: 312, 1772
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_critical_cloud6
+  rotate: false
+  xy: 134, 1314
+  size: 105, 95
+  orig: 113, 103
+  offset: 8, 2
+  index: -1
+dragon_talissah_e_critical_cloud7
+  rotate: false
+  xy: 134, 1411
+  size: 103, 97
+  orig: 113, 103
+  offset: 9, 0
+  index: -1
+dragon_talissah_baby_hair_effect
+  rotate: false
+  xy: 236, 866
+  size: 79, 79
+  orig: 81, 81
+  offset: 1, 1
+  index: -1
+dragon_talissah_adult_head_effect1
+  rotate: false
+  xy: 341, 1598
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+dragon_talissah_baby_body
+  rotate: true
+  xy: 262, 1488
+  size: 58, 45
+  orig: 58, 45
+  offset: 0, 0
+  index: -1
+dragon_talissah_child_hair
+  rotate: false
+  xy: 273, 299
+  size: 92, 88
+  orig: 94, 90
+  offset: 1, 1
+  index: -1
+dragon_talissah_adult_hair
+  rotate: false
+  xy: 222, 478
+  size: 91, 87
+  orig: 91, 89
+  offset: 0, 1
+  index: -1
+dragon_talissah_child_hand1
+  rotate: true
+  xy: 341, 1837
+  size: 38, 17
+  orig: 38, 17
+  offset: 0, 0
+  index: -1
+dragon_talissah_baby_wing_effect2
+  rotate: false
+  xy: 308, 2025
+  size: 9, 10
+  orig: 9, 12
+  offset: 0, 1
+  index: -1
+dragon_talissah_baby_wing_effect1
+  rotate: false
+  xy: 358, 2001
+  size: 7, 8
+  orig: 9, 10
+  offset: 1, 1
+  index: -1
+dragon_talissah_adult_wing2_effect2
+  rotate: false
+  xy: 313, 1842
+  size: 26, 32
+  orig: 28, 32
+  offset: 1, 0
+  index: -1
+dragon_talissah_child_hand2
+  rotate: false
+  xy: 313, 1479
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+dragon_talissah_adult_wing2_effect4
+  rotate: true
+  xy: 255, 2033
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+dragon_talissah_baby_wing_effect3
+  rotate: true
+  xy: 336, 2033
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+dragon_talissah_adult_wing2_effect3
+  rotate: false
+  xy: 297, 2037
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+dragon_talissah_child_wing1
+  rotate: true
+  xy: 2, 1710
+  size: 134, 88
+  orig: 134, 90
+  offset: 0, 1
+  index: -1
+dragon_talissah_adult_wing1
+  rotate: true
+  xy: 2, 1393
+  size: 179, 130
+  orig: 179, 130
+  offset: 0, 0
+  index: -1
+dragon_talissah_adult_wing2_effect1
+  rotate: false
+  xy: 257, 1956
+  size: 12, 25
+  orig: 14, 27
+  offset: 1, 1
+  index: -1
+dragon_talissah_child_wing2
+  rotate: true
+  xy: 131, 556
+  size: 114, 89
+  orig: 114, 91
+  offset: 0, 1
+  index: -1
+dragon_talissah_adult_wing2
+  rotate: true
+  xy: 2, 657
+  size: 185, 127
+  orig: 185, 129
+  offset: 0, 1
+  index: -1
+dragon_talissah_adult_leg2
+  rotate: false
+  xy: 271, 1930
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_critical_boom4
+  rotate: true
+  xy: 302, 1548
+  size: 60, 37
+  orig: 180, 137
+  offset: 64, 9
+  index: -1
+dragon_talissah_adult_leg3
+  rotate: false
+  xy: 315, 478
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_critical_boom5
+  rotate: false
+  xy: 241, 1390
+  size: 72, 47
+  orig: 180, 137
+  offset: 55, 6
+  index: -1
+dragon_talissah_adult_leg4
+  rotate: false
+  xy: 315, 1311
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_critical_boom2
+  rotate: false
+  xy: 302, 1966
+  size: 30, 19
+  orig: 180, 137
+  offset: 76, 14
+  index: -1
+dragon_talissah_e_critical_boom3
+  rotate: true
+  xy: 313, 1700
+  size: 34, 19
+  orig: 180, 137
+  offset: 74, 14
+  index: -1
+dragon_talissah_e_critical_boom1
+  rotate: true
+  xy: 350, 389
+  size: 24, 15
+  orig: 180, 137
+  offset: 79, 16
+  index: -1
+dragon_talissah_adult_leg1
+  rotate: false
+  xy: 255, 1644
+  size: 37, 58
+  orig: 37, 58
+  offset: 0, 0
+  index: -1
+dragon_talissah_adult_head1
+  rotate: false
+  xy: 257, 1610
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+dragon_talissah_baby_horn
+  rotate: false
+  xy: 271, 1896
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_leg4_wedge
+  rotate: false
+  xy: 271, 1981
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+dragon_talissah_critical_ring2
+  rotate: true
+  xy: 252, 1802
+  size: 90, 20
+  orig: 150, 30
+  offset: 29, 6
+  index: -1
+dragon_talissah_adult_head2
+  rotate: true
+  xy: 323, 268
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_critical_boom8
+  rotate: true
+  xy: 311, 1028
+  size: 78, 51
+  orig: 180, 137
+  offset: 53, 4
+  index: -1
+dragon_talissah_critical_ring4
+  rotate: false
+  xy: 182, 275
+  size: 104, 22
+  orig: 150, 30
+  offset: 23, 4
+  index: -1
+dragon_talissah_e_critical_boom9
+  rotate: false
+  xy: 2, 2
+  size: 178, 137
+  orig: 180, 137
+  offset: 2, 0
+  index: -1
+dragon_talissah_critical_ring3
+  rotate: true
+  xy: 250, 1704
+  size: 96, 20
+  orig: 150, 30
+  offset: 27, 6
+  index: -1
+dragon_talissah_e_critical_boom6
+  rotate: false
+  xy: 232, 735
+  size: 76, 47
+  orig: 180, 137
+  offset: 53, 6
+  index: -1
+dragon_talissah_e_wing_effect2
+  rotate: false
+  xy: 341, 1482
+  size: 24, 33
+  orig: 24, 35
+  offset: 0, 1
+  index: -1
+dragon_talissah_e_critical_boom7
+  rotate: false
+  xy: 179, 389
+  size: 76, 49
+  orig: 180, 137
+  offset: 53, 6
+  index: -1
+dragon_talissah_e_leg1_wedge
+  rotate: false
+  xy: 334, 1939
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_wing_effect1
+  rotate: false
+  xy: 134, 1540
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+dragon_talissah_child_shoulder
+  rotate: false
+  xy: 305, 1910
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+dragon_talissah_critical_ring5
+  rotate: false
+  xy: 134, 1510
+  size: 126, 28
+  orig: 150, 30
+  offset: 12, 0
+  index: -1
+dragon_talissah_e_wing_effect4
+  rotate: true
+  xy: 278, 1999
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_wing_effect3
+  rotate: false
+  xy: 216, 2005
+  size: 26, 41
+  orig: 26, 43
+  offset: 0, 1
+  index: -1
+dragon_talissah_critical_ring1
+  rotate: true
+  xy: 317, 944
+  size: 82, 18
+  orig: 150, 30
+  offset: 34, 7
+  index: -1
+dragon_talissah_adult_tail1
+  rotate: true
+  xy: 92, 1726
+  size: 115, 57
+  orig: 115, 57
+  offset: 0, 0
+  index: -1
+dragon_talissah_critical_ring6
+  rotate: true
+  xy: 120, 1574
+  size: 134, 28
+  orig: 150, 30
+  offset: 7, 0
+  index: -1
+dragon_talissah_critical_ring8
+  rotate: true
+  xy: 92, 1574
+  size: 150, 26
+  orig: 150, 30
+  offset: 0, 3
+  index: -1
+dragon_talissah_critical_ring7
+  rotate: true
+  xy: 65, 1846
+  size: 144, 26
+  orig: 150, 30
+  offset: 3, 3
+  index: -1
+dragon_talissah_adult_tail2
+  rotate: false
+  xy: 130, 280
+  size: 47, 158
+  orig: 47, 158
+  offset: 0, 0
+  index: -1
+dragon_talissah_adult_hair_effect
+  rotate: false
+  xy: 257, 389
+  size: 91, 87
+  orig: 91, 89
+  offset: 0, 1
+  index: -1
+dragon_talissah_baby_wing_effect
+  rotate: true
+  xy: 334, 1649
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+dragon_talissah_child_body
+  rotate: false
+  xy: 150, 1637
+  size: 103, 65
+  orig: 103, 65
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_head1_wedge
+  rotate: false
+  xy: 257, 1983
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+dragon_talissah_child_leg
+  rotate: true
+  xy: 313, 594
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_leg1_chain
+  rotate: false
+  xy: 337, 944
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_head2_wedge
+  rotate: false
+  xy: 327, 1987
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+dragon_talissah_baby_tail
+  rotate: false
+  xy: 310, 143
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+dragon_talissah_baby_eye1
+  rotate: true
+  xy: 278, 2012
+  size: 19, 17
+  orig: 21, 17
+  offset: 1, 0
+  index: -1
+dragon_talissah_baby_arm1
+  rotate: false
+  xy: 313, 1800
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_arm3_wedge
+  rotate: false
+  xy: 341, 1877
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+dragon_talissah_baby_eye2
+  rotate: false
+  xy: 327, 2010
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_critical_ring4
+  rotate: false
+  xy: 182, 275
+  size: 104, 22
+  orig: 150, 30
+  offset: 23, 4
+  index: -1
+dragon_talissah_baby_arm2
+  rotate: true
+  xy: 115, 2012
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_critical_ring5
+  rotate: false
+  xy: 134, 1510
+  size: 126, 28
+  orig: 150, 30
+  offset: 12, 0
+  index: -1
+dragon_talissah_e_critical_ring2
+  rotate: true
+  xy: 252, 1802
+  size: 90, 20
+  orig: 150, 30
+  offset: 29, 6
+  index: -1
+dragon_talissah_baby_eye3
+  rotate: false
+  xy: 279, 2033
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_critical_ring3
+  rotate: true
+  xy: 250, 1704
+  size: 96, 20
+  orig: 150, 30
+  offset: 27, 6
+  index: -1
+dragon_talissah_e_wing1_effect
+  rotate: true
+  xy: 2, 844
+  size: 182, 131
+  orig: 182, 131
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_critical_ring1
+  rotate: true
+  xy: 317, 944
+  size: 82, 18
+  orig: 150, 30
+  offset: 34, 7
+  index: -1
+dragon_talissah_child_tail
+  rotate: true
+  xy: 244, 1108
+  size: 77, 64
+  orig: 77, 64
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_leg4_chain
+  rotate: false
+  xy: 222, 440
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_critical_ring8
+  rotate: true
+  xy: 92, 1574
+  size: 150, 26
+  orig: 150, 30
+  offset: 0, 3
+  index: -1
+dragon_talissah_e_critical_ring6
+  rotate: true
+  xy: 120, 1574
+  size: 134, 28
+  orig: 150, 30
+  offset: 7, 0
+  index: -1
+dragon_talissah_child_hair_effect
+  rotate: false
+  xy: 179, 299
+  size: 92, 88
+  orig: 94, 90
+  offset: 1, 1
+  index: -1
+dragon_talissah_e_critical_ring7
+  rotate: true
+  xy: 65, 1846
+  size: 144, 26
+  orig: 150, 30
+  offset: 3, 3
+  index: -1
+dragon_talissah_e_arm2_wedge
+  rotate: false
+  xy: 271, 1958
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+dragon_talissah_child_head
+  rotate: false
+  xy: 313, 640
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1
+dragon_talissah_baby_head
+  rotate: true
+  xy: 257, 1548
+  size: 60, 43
+  orig: 60, 43
+  offset: 0, 0
+  index: -1
+dragon_talissah_child_wing1_effect
+  rotate: true
+  xy: 2, 1574
+  size: 134, 88
+  orig: 134, 90
+  offset: 0, 1
+  index: -1
+dragon_talissah_child_horn
+  rotate: false
+  xy: 340, 1800
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_horn
+  rotate: true
+  xy: 244, 1187
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_leg1_armor
+  rotate: false
+  xy: 62, 2012
+  size: 51, 34
+  orig: 51, 34
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_tail_chain
+  rotate: false
+  xy: 350, 441
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+dragon_talissah_critical_cloud6
+  rotate: false
+  xy: 150, 1540
+  size: 105, 95
+  orig: 113, 103
+  offset: 8, 2
+  index: -1
+dragon_talissah_critical_cloud7
+  rotate: true
+  xy: 151, 1704
+  size: 103, 97
+  orig: 113, 103
+  offset: 9, 0
+  index: -1
+dragon_talissah_adult_wing1_effect
+  rotate: true
+  xy: 2, 1212
+  size: 179, 130
+  orig: 179, 130
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_tail_wedge
+  rotate: true
+  xy: 302, 1987
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+dragon_talissah_adult_wing_effect2
+  rotate: true
+  xy: 331, 1743
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+dragon_talissah_critical_cloud2
+  rotate: true
+  xy: 232, 644
+  size: 89, 75
+  orig: 113, 103
+  offset: 21, 12
+  index: -1
+dragon_talissah_adult_wing_effect1
+  rotate: false
+  xy: 134, 1540
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+dragon_talissah_critical_cloud1
+  rotate: false
+  xy: 241, 1319
+  size: 69, 69
+  orig: 113, 103
+  offset: 29, 15
+  index: -1
+dragon_talissah_adult_wing_effect4
+  rotate: true
+  xy: 278, 1999
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+dragon_talissah_critical_cloud4
+  rotate: false
+  xy: 134, 1215
+  size: 107, 97
+  orig: 113, 103
+  offset: 3, 5
+  index: -1
+dragon_talissah_e_head1_crown
+  rotate: true
+  xy: 274, 1800
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+dragon_talissah_adult_wing_effect3
+  rotate: false
+  xy: 216, 2005
+  size: 26, 41
+  orig: 26, 43
+  offset: 0, 1
+  index: -1
+dragon_talissah_critical_cloud3
+  rotate: true
+  xy: 135, 785
+  size: 111, 99
+  orig: 113, 103
+  offset: 0, 4
+  index: -1
+dragon_talissah_e_hair_effect
+  rotate: false
+  xy: 157, 1910
+  size: 98, 93
+  orig: 100, 95
+  offset: 1, 1
+  index: -1
+dragon_talissah_critical_cloud5
+  rotate: true
+  xy: 135, 1007
+  size: 107, 99
+  orig: 113, 103
+  offset: 6, 4
+  index: -1
+dragon_talissah_e_arm2_chain
+  rotate: false
+  xy: 294, 1649
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_neck
+  rotate: false
+  xy: 310, 2
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: -1
+dragon_talissah_baby_leg1
+  rotate: true
+  xy: 272, 1772
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+dragon_talissah_baby_hair
+  rotate: false
+  xy: 236, 947
+  size: 79, 79
+  orig: 81, 81
+  offset: 1, 1
+  index: -1
+dragon_talissah_e_arm2
+  rotate: true
+  xy: 157, 2005
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_arm3
+  rotate: true
+  xy: 310, 719
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+dragon_talissah_baby_leg2
+  rotate: false
+  xy: 313, 1439
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_eye2
+  rotate: false
+  xy: 222, 658
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_arm2_armor
+  rotate: true
+  xy: 272, 1704
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_arm1
+  rotate: true
+  xy: 310, 83
+  size: 58, 55
+  orig: 58, 55
+  offset: 0, 0
+  index: -1
+dragon_talissah_adult_horn1
+  rotate: true
+  xy: 244, 1187
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+dragon_talissah_baby_head_effect2
+  rotate: false
+  xy: 345, 2004
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+dragon_talissah_adult_body1
+  rotate: false
+  xy: 236, 1028
+  size: 73, 78
+  orig: 73, 78
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_eye1
+  rotate: false
+  xy: 345, 2020
+  size: 11, 11
+  orig: 13, 11
+  offset: 1, 0
+  index: -1
+dragon_talissah_baby_head_effect4
+  rotate: false
+  xy: 355, 284
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+dragon_talissah_baby_head_effect3
+  rotate: false
+  xy: 340, 1985
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_arm3_chain
+  rotate: false
+  xy: 274, 1849
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_head_effect2
+  rotate: true
+  xy: 355, 268
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+dragon_talissah_adult_body2
+  rotate: false
+  xy: 182, 192
+  size: 127, 81
+  orig: 127, 81
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_head_effect4
+  rotate: false
+  xy: 255, 2008
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_head_effect3
+  rotate: true
+  xy: 312, 1772
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+dragon_talissah_critical_boom2
+  rotate: false
+  xy: 334, 1964
+  size: 30, 19
+  orig: 180, 137
+  offset: 76, 14
+  index: -1
+dragon_talissah_baby_head_effect1
+  rotate: false
+  xy: 252, 1894
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_talissah_critical_boom4
+  rotate: false
+  xy: 304, 1610
+  size: 54, 37
+  orig: 180, 137
+  offset: 64, 9
+  index: -1
+dragon_talissah_baby_shoulder
+  rotate: false
+  xy: 120, 1710
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+dragon_talissah_critical_boom3
+  rotate: true
+  xy: 310, 1736
+  size: 34, 19
+  orig: 180, 137
+  offset: 74, 14
+  index: -1
+dragon_talissah_critical_boom5
+  rotate: false
+  xy: 239, 1439
+  size: 72, 47
+  orig: 180, 137
+  offset: 55, 6
+  index: -1
+dragon_talissah_e_head_effect1
+  rotate: false
+  xy: 341, 1598
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+dragon_talissah_critical_boom1
+  rotate: true
+  xy: 350, 415
+  size: 24, 15
+  orig: 180, 137
+  offset: 79, 16
+  index: -1
+dragon_talissah_baby_wing
+  rotate: true
+  xy: 334, 1696
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+dragon_talissah_adult_arm2
+  rotate: true
+  xy: 157, 2005
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+dragon_talissah_critical_boom6
+  rotate: true
+  xy: 317, 866
+  size: 76, 47
+  orig: 180, 137
+  offset: 53, 6
+  index: -1
+dragon_talissah_adult_arm3
+  rotate: true
+  xy: 312, 1168
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+dragon_talissah_critical_boom8
+  rotate: true
+  xy: 311, 188
+  size: 78, 51
+  orig: 180, 137
+  offset: 53, 4
+  index: -1
+dragon_talissah_critical_boom7
+  rotate: true
+  xy: 314, 1233
+  size: 76, 49
+  orig: 180, 137
+  offset: 53, 6
+  index: -1
+dragon_talissah_critical_boom9
+  rotate: false
+  xy: 2, 141
+  size: 178, 137
+  orig: 180, 137
+  offset: 2, 0
+  index: -1
+dragon_talissah_adult_eye2
+  rotate: false
+  xy: 222, 658
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_leg2
+  rotate: true
+  xy: 313, 1876
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+dragon_talissah_adult_arm1
+  rotate: true
+  xy: 310, 1108
+  size: 58, 55
+  orig: 58, 55
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_head2
+  rotate: true
+  xy: 309, 1514
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_leg3
+  rotate: true
+  xy: 93, 1960
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_leg4
+  rotate: false
+  xy: 315, 542
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+dragon_talissah_child_arm2
+  rotate: true
+  xy: 309, 685
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_wing2_effect1
+  rotate: false
+  xy: 257, 1956
+  size: 12, 25
+  orig: 14, 27
+  offset: 1, 1
+  index: -1
+dragon_talissah_child_arm3
+  rotate: true
+  xy: 341, 1437
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+dragon_talissah_adult_eye1
+  rotate: false
+  xy: 349, 2033
+  size: 11, 11
+  orig: 13, 11
+  offset: 1, 0
+  index: -1
+dragon_talissah_e_leg1
+  rotate: true
+  xy: 2, 2008
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_wing2_effect2
+  rotate: false
+  xy: 313, 1842
+  size: 26, 32
+  orig: 28, 32
+  offset: 1, 0
+  index: -1
+dragon_talissah_e_head1
+  rotate: false
+  xy: 257, 1610
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_wing2_effect3
+  rotate: true
+  xy: 297, 2012
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+dragon_talissah_child_arm1
+  rotate: true
+  xy: 341, 1549
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_wing2_effect
+  rotate: true
+  xy: 182, 2
+  size: 188, 126
+  orig: 188, 128
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_wing2_effect4
+  rotate: true
+  xy: 255, 2033
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+dragon_talissah_adult_neck
+  rotate: false
+  xy: 310, 2
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: -1
+dragon_talissah_child_eye2
+  rotate: false
+  xy: 322, 2033
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+dragon_talissah_child_eye3
+  rotate: false
+  xy: 350, 463
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+dragon_talissah_e_head1_chain
+  rotate: false
+  xy: 257, 1910
+  size: 12, 44
+  orig: 12, 44
+  offset: 0, 0
+  index: -1

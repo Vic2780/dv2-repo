@@ -1,0 +1,263 @@
+dragon_9013_critical2_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_ragid_critical2_wide01
+  rotate: false
+  xy: 1154, 720
+  size: 144, 132
+  orig: 300, 300
+  offset: 75, 79
+  index: -1
+dragon_ragid_critical2_sphere10
+  rotate: false
+  xy: 992, 230
+  size: 164, 164
+  orig: 188, 188
+  offset: 12, 11
+  index: -1
+dragon_ragid_critical2_sphere14
+  rotate: false
+  xy: 496, 262
+  size: 164, 166
+  orig: 188, 188
+  offset: 11, 12
+  index: -1
+dragon_ragid_critical2_wide09
+  rotate: false
+  xy: 256, 2
+  size: 256, 258
+  orig: 300, 300
+  offset: 20, 20
+  index: -1
+dragon_ragid_critical2_sphere01
+  rotate: false
+  xy: 588, 596
+  size: 126, 116
+  orig: 188, 188
+  offset: 29, 23
+  index: -1
+dragon_ragid_critical2_sphere18
+  rotate: true
+  xy: 1158, 230
+  size: 164, 160
+  orig: 188, 188
+  offset: 12, 14
+  index: -1
+dragon_ragid_critical2_sphere05
+  rotate: true
+  xy: 662, 428
+  size: 164, 162
+  orig: 188, 188
+  offset: 12, 15
+  index: -1
+dragon_ragid_critical2_sphere09
+  rotate: false
+  xy: 506, 834
+  size: 160, 164
+  orig: 188, 188
+  offset: 12, 12
+  index: -1
+dragon_ragid_critical2_sphere20
+  rotate: false
+  xy: 424, 674
+  size: 162, 158
+  orig: 188, 188
+  offset: 11, 20
+  index: -1
+dragon_ragid_critical2_sphere24
+  rotate: false
+  xy: 990, 878
+  size: 132, 122
+  orig: 188, 188
+  offset: 28, 37
+  index: -1
+dragon_ragid_critical2_wide10
+  rotate: false
+  xy: 514, 2
+  size: 238, 258
+  orig: 300, 300
+  offset: 27, 20
+  index: -1
+dragon_ragid_critical2_wide02
+  rotate: false
+  xy: 2, 834
+  size: 172, 162
+  orig: 300, 300
+  offset: 57, 66
+  index: -1
+dragon_ragid_critical2_sphere13
+  rotate: true
+  xy: 1156, 558
+  size: 160, 162
+  orig: 188, 188
+  offset: 13, 13
+  index: -1
+dragon_ragid_critical2_sphere17
+  rotate: false
+  xy: 668, 834
+  size: 158, 162
+  orig: 188, 188
+  offset: 17, 12
+  index: -1
+dragon_ragid_critical2_wide06
+  rotate: false
+  xy: 2, 2
+  size: 252, 288
+  orig: 300, 300
+  offset: 27, 8
+  index: -1
+dragon_ragid_critical2_sphere04
+  rotate: false
+  xy: 496, 430
+  size: 164, 164
+  orig: 188, 188
+  offset: 11, 12
+  index: -1
+dragon_ragid_critical2_sphere08
+  rotate: false
+  xy: 828, 744
+  size: 160, 162
+  orig: 188, 188
+  offset: 13, 13
+  index: -1
+dragon_ragid_critical2_sphere23
+  rotate: true
+  xy: 992, 396
+  size: 158, 164
+  orig: 188, 188
+  offset: 14, 11
+  index: -1
+dragon_ragid_critical2_wide11
+  rotate: true
+  xy: 256, 262
+  size: 194, 238
+  orig: 300, 300
+  offset: 28, 28
+  index: -1
+dragon_ragid_critical2_wide03
+  rotate: false
+  xy: 254, 458
+  size: 228, 214
+  orig: 300, 300
+  offset: 28, 35
+  index: -1
+dragon_ragid_critical2_sphere12
+  rotate: false
+  xy: 828, 584
+  size: 162, 158
+  orig: 188, 188
+  offset: 11, 13
+  index: -1
+dragon_ragid_critical2_wide07
+  rotate: false
+  xy: 754, 2
+  size: 222, 252
+  orig: 300, 300
+  offset: 37, 28
+  index: -1
+dragon_ragid_critical2_sphere16
+  rotate: true
+  xy: 992, 718
+  size: 158, 160
+  orig: 188, 188
+  offset: 14, 16
+  index: -1
+dragon_ragid_critical2_sphere03
+  rotate: true
+  xy: 176, 834
+  size: 164, 166
+  orig: 188, 188
+  offset: 12, 13
+  index: -1
+dragon_ragid_critical2_sphere07
+  rotate: false
+  xy: 828, 422
+  size: 162, 160
+  orig: 188, 188
+  offset: 11, 13
+  index: -1
+dragon_ragid_critical2_sphere22
+  rotate: false
+  xy: 828, 256
+  size: 162, 164
+  orig: 188, 188
+  offset: 12, 13
+  index: -1
+dragon_ragid_critical2_wide04
+  rotate: false
+  xy: 978, 2
+  size: 236, 226
+  orig: 300, 300
+  offset: 47, 43
+  index: -1
+dragon_ragid_critical2_sphere11
+  rotate: true
+  xy: 254, 674
+  size: 158, 168
+  orig: 188, 188
+  offset: 11, 11
+  index: -1
+dragon_ragid_critical2_wide00
+  rotate: true
+  xy: 716, 594
+  size: 108, 110
+  orig: 300, 300
+  offset: 90, 93
+  index: -1
+dragon_ragid_critical2_sphere15
+  rotate: false
+  xy: 344, 834
+  size: 160, 164
+  orig: 188, 188
+  offset: 15, 13
+  index: -1
+dragon_ragid_critical2_sphere19
+  rotate: false
+  xy: 662, 262
+  size: 164, 164
+  orig: 188, 188
+  offset: 12, 13
+  index: -1
+dragon_ragid_critical2_wide08
+  rotate: true
+  xy: 2, 580
+  size: 252, 250
+  orig: 300, 300
+  offset: 24, 24
+  index: -1
+dragon_ragid_critical2_sphere21
+  rotate: true
+  xy: 992, 556
+  size: 160, 162
+  orig: 188, 188
+  offset: 15, 16
+  index: -1
+dragon_ragid_critical2_sphere02
+  rotate: false
+  xy: 1154, 854
+  size: 132, 128
+  orig: 188, 188
+  offset: 27, 27
+  index: -1
+dragon_ragid_critical2_sphere25
+  rotate: false
+  xy: 588, 718
+  size: 126, 114
+  orig: 188, 188
+  offset: 34, 41
+  index: -1
+dragon_ragid_critical2_sphere06
+  rotate: false
+  xy: 1158, 396
+  size: 160, 160
+  orig: 188, 188
+  offset: 11, 17
+  index: -1
+dragon_ragid_critical2_wide05
+  rotate: false
+  xy: 2, 292
+  size: 250, 286
+  orig: 300, 300
+  offset: 38, 9
+  index: -1

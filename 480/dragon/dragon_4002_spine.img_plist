@@ -2,367 +2,647 @@ dragon_4002_spine.pvr.ccz
 format: RGBA4444
 filter: Linear,Linear
 repeat: none
-dragon_coelacanth_adult_damaged
-  rotate: true
-  xy: 1499, 310
-  size: 33, 50
-  orig: 33, 50
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_adult_attack
-  rotate: true
-  xy: 1438, 345
-  size: 33, 50
-  orig: 33, 50
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_child_mouth
-  rotate: false
-  xy: 859, 377
-  size: 41, 26
-  orig: 41, 26
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_child_tail1
-  rotate: true
-  xy: 1270, 272
-  size: 75, 51
-  orig: 75, 51
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_critical01
-  rotate: false
-  xy: 1033, 2
-  size: 223, 220
-  orig: 223, 230
-  offset: 0, 1
-  index: -1
-dragon_coelacanth_child_arm2
-  rotate: true
-  xy: 1323, 272
-  size: 65, 32
-  orig: 65, 32
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_adult_body2
-  rotate: false
-  xy: 1501, 94
-  size: 62, 59
-  orig: 62, 59
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_child_leg2
-  rotate: false
-  xy: 947, 377
-  size: 43, 20
-  orig: 43, 20
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_baby_tail1
-  rotate: true
-  xy: 1497, 200
-  size: 36, 64
-  orig: 36, 64
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_adult_tail2
-  rotate: true
-  xy: 1484, 238
-  size: 35, 56
-  orig: 35, 56
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_child_neck
-  rotate: true
-  xy: 1044, 345
-  size: 44, 86
-  orig: 44, 86
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_critical02
-  rotate: false
-  xy: 810, 2
-  size: 221, 230
-  orig: 223, 230
-  offset: 1, 0
-  index: -1
-dragon_coelacanth_adult_leg2
-  rotate: true
-  xy: 1447, 275
-  size: 33, 52
-  orig: 33, 52
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_adult_critical01
-  rotate: false
-  xy: 1258, 2
-  size: 240, 133
-  orig: 248, 203
-  offset: 3, 0
-  index: -1
-dragon_coelacanth_baby_arm
-  rotate: false
-  xy: 810, 377
-  size: 47, 26
-  orig: 47, 26
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_adult_love
-  rotate: true
-  xy: 1501, 275
-  size: 33, 50
-  orig: 33, 50
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_child_leg3
-  rotate: true
-  xy: 1419, 327
-  size: 29, 17
-  orig: 29, 17
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_baby_head
-  rotate: false
-  xy: 1357, 272
-  size: 50, 53
-  orig: 50, 53
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_child_tail2
-  rotate: false
-  xy: 1371, 198
-  size: 44, 45
-  orig: 44, 45
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_adult_arm2
-  rotate: false
-  xy: 1337, 201
-  size: 32, 50
-  orig: 32, 50
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_critical03
-  rotate: true
-  xy: 406, 2
-  size: 401, 402
-  orig: 407, 406
-  offset: 4, 4
-  index: -1
-dragon_coelacanth_adult_leg3
-  rotate: false
-  xy: 1532, 385
-  size: 19, 17
-  orig: 19, 17
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_adult_critical02
-  rotate: false
-  xy: 810, 234
-  size: 232, 141
-  orig: 248, 203
-  offset: 4, 1
-  index: -1
-dragon_coelacanth_child_body
-  rotate: false
-  xy: 1258, 137
-  size: 78, 62
-  orig: 78, 62
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_adult_arm3
-  rotate: true
-  xy: 1371, 368
-  size: 33, 47
-  orig: 33, 47
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_adult_leg1
-  rotate: false
-  xy: 1532, 345
-  size: 27, 38
-  orig: 27, 38
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_adult_neck
-  rotate: false
-  xy: 1500, 2
-  size: 57, 90
-  orig: 57, 90
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_critical04
-  rotate: true
-  xy: 2, 2
-  size: 401, 402
-  orig: 407, 406
-  offset: 5, 4
-  index: -1
-dragon_coelacanth_adult_critical03
-  rotate: false
-  xy: 1044, 224
-  size: 224, 119
-  orig: 248, 203
-  offset: 13, 4
-  index: -1
-dragon_coelacanth_baby_eye
-  rotate: false
-  xy: 1490, 375
-  size: 21, 20
-  orig: 21, 20
-  offset: 0, 0
-  index: -1
 dragon_coelacanth_adult_arm1
-  rotate: true
-  xy: 902, 377
+  rotate: false
+  xy: 1607, 371
   size: 23, 43
   orig: 23, 43
   offset: 0, 0
   index: -1
-dragon_coelacanth_adult_mouth
-  rotate: false
-  xy: 1513, 375
-  size: 17, 20
-  orig: 17, 20
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_adult_tail3
-  rotate: false
-  xy: 1501, 155
-  size: 61, 43
-  orig: 61, 43
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_baby_tail2
+dragon_coelacanth_adult_arm2
   rotate: true
-  xy: 1490, 345
-  size: 28, 40
-  orig: 28, 40
+  xy: 1584, 955
+  size: 32, 50
+  orig: 32, 50
   offset: 0, 0
   index: -1
-dragon_coelacanth_child_eye
-  rotate: false
-  xy: 992, 377
-  size: 28, 17
-  orig: 28, 17
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_child_love
-  rotate: false
-  xy: 1132, 345
-  size: 78, 49
-  orig: 78, 49
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_baby_heart
-  rotate: false
-  xy: 1371, 327
-  size: 46, 39
-  orig: 46, 39
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_child_tail3
+dragon_coelacanth_adult_arm3
   rotate: true
-  xy: 1337, 339
-  size: 59, 32
-  orig: 59, 32
+  xy: 1271, 984
+  size: 33, 47
+  orig: 33, 47
   offset: 0, 0
   index: -1
-dragon_coelacanth_baby_body
+dragon_coelacanth_adult_attack
   rotate: false
-  xy: 1267, 349
-  size: 68, 51
-  orig: 68, 51
+  xy: 1123, 909
+  size: 33, 50
+  orig: 33, 50
   offset: 0, 0
   index: -1
-dragon_coelacanth_adult_head
+dragon_coelacanth_adult_body1
+  rotate: false
+  xy: 898, 912
+  size: 77, 59
+  orig: 77, 59
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_adult_body2
   rotate: true
-  xy: 1447, 310
+  xy: 1158, 924
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_adult_critical01
+  rotate: false
+  xy: 428, 811
+  size: 241, 134
+  orig: 248, 203
+  offset: 3, 0
+  index: -1
+dragon_coelacanth_adult_critical02
+  rotate: false
+  xy: 1226, 279
+  size: 234, 143
+  orig: 248, 203
+  offset: 3, 0
+  index: -1
+dragon_coelacanth_adult_critical03
+  rotate: true
+  xy: 1461, 758
+  size: 225, 121
+  orig: 248, 203
+  offset: 13, 3
+  index: -1
+dragon_coelacanth_adult_critical04
+  rotate: true
+  xy: 1226, 1
+  size: 137, 410
+  orig: 137, 425
+  offset: 0, 15
+  index: -1
+dragon_coelacanth_adult_critical05
+  rotate: true
+  xy: 809, 428
+  size: 137, 424
+  orig: 137, 425
+  offset: 0, 1
+  index: -1
+dragon_coelacanth_adult_critical06
+  rotate: true
+  xy: 1, 811
+  size: 137, 425
+  orig: 137, 425
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_adult_critical07
+  rotate: false
+  xy: 809, 1
+  size: 137, 425
+  orig: 137, 425
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_adult_critical08
+  rotate: false
+  xy: 948, 1
+  size: 137, 425
+  orig: 137, 425
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_adult_damaged
+  rotate: false
+  xy: 1121, 961
   size: 33, 50
   orig: 33, 50
   offset: 0, 0
   index: -1
 dragon_coelacanth_adult_eye
-  rotate: false
-  xy: 1406, 245
+  rotate: true
+  xy: 1320, 1010
   size: 9, 14
   orig: 9, 14
   offset: 0, 0
   index: -1
-dragon_coelacanth_baby_love
-  rotate: true
-  xy: 1212, 345
-  size: 50, 53
-  orig: 50, 53
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_adult_body1
+dragon_coelacanth_adult_head
   rotate: false
-  xy: 1338, 137
-  size: 77, 59
-  orig: 77, 59
+  xy: 1383, 923
+  size: 33, 50
+  orig: 33, 50
   offset: 0, 0
   index: -1
-dragon_coelacanth_adult_tail4
-  rotate: true
-  xy: 1417, 137
-  size: 48, 82
-  orig: 48, 82
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_adult_tail1
-  rotate: true
-  xy: 1270, 201
-  size: 69, 65
-  orig: 69, 65
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_baby_mouth
-  rotate: true
-  xy: 1542, 238
-  size: 28, 21
-  orig: 28, 21
-  offset: 0, 0
-  index: -1
-dragon_coelacanth_child_question
-  rotate: true
-  xy: 1417, 238
-  size: 35, 65
-  orig: 39, 67
-  offset: 2, 2
-  index: -1
-dragon_coelacanth_child_arm1
+dragon_coelacanth_adult_leg1
   rotate: false
-  xy: 1409, 275
-  size: 36, 50
-  orig: 36, 50
+  xy: 1607, 458
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_adult_leg2
+  rotate: true
+  xy: 1584, 920
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_adult_leg3
+  rotate: true
+  xy: 612, 947
+  size: 19, 17
+  orig: 19, 17
   offset: 0, 0
   index: -1
 dragon_coelacanth_adult_leg4
   rotate: false
-  xy: 1022, 377
+  xy: 1499, 985
   size: 20, 17
   orig: 20, 17
   offset: 0, 0
   index: -1
+dragon_coelacanth_adult_love
+  rotate: false
+  xy: 1418, 922
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_adult_mouth
+  rotate: true
+  xy: 1521, 985
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_adult_neck
+  rotate: true
+  xy: 986, 845
+  size: 57, 90
+  orig: 57, 90
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_adult_tail1
+  rotate: true
+  xy: 141, 950
+  size: 69, 65
+  orig: 69, 65
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_adult_tail2
+  rotate: false
+  xy: 1283, 926
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_adult_tail3
+  rotate: false
+  xy: 1320, 923
+  size: 61, 43
+  orig: 61, 43
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_adult_tail4
+  rotate: true
+  xy: 759, 968
+  size: 48, 82
+  orig: 48, 82
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_baby_arm
+  rotate: true
+  xy: 1607, 279
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_baby_body
+  rotate: false
+  xy: 689, 968
+  size: 68, 51
+  orig: 68, 51
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_baby_eye
+  rotate: false
+  xy: 1476, 985
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_baby_head
+  rotate: true
+  xy: 843, 968
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_baby_heart
+  rotate: true
+  xy: 1597, 578
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
 dragon_coelacanth_baby_leg
   rotate: false
-  xy: 1337, 253
+  xy: 1381, 1002
   size: 35, 17
   orig: 35, 17
   offset: 0, 0
   index: -1
+dragon_coelacanth_baby_love
+  rotate: true
+  xy: 977, 959
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_baby_mouth
+  rotate: false
+  xy: 1418, 974
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_baby_tail1
+  rotate: false
+  xy: 1597, 694
+  size: 36, 64
+  orig: 36, 64
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_baby_tail2
+  rotate: false
+  xy: 1607, 416
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_child_arm1
+  rotate: true
+  xy: 1219, 983
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_child_arm2
+  rotate: false
+  xy: 671, 811
+  size: 65, 32
+  orig: 65, 32
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_child_body
+  rotate: false
+  xy: 1078, 845
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_child_eye
+  rotate: false
+  xy: 1418, 997
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_child_head
+  rotate: true
+  xy: 1584, 760
+  size: 78, 49
+  orig: 78, 49
+  offset: 0, 0
+  index: -1
 dragon_coelacanth_child_leg1
   rotate: false
-  xy: 1374, 245
+  xy: 1381, 975
   size: 30, 25
   orig: 30, 25
   offset: 0, 0
   index: -1
-dragon_coelacanth_child_head
+dragon_coelacanth_child_leg2
   rotate: false
-  xy: 1417, 187
+  xy: 1156, 988
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_child_leg3
+  rotate: false
+  xy: 631, 947
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_child_love
+  rotate: true
+  xy: 1584, 840
   size: 78, 49
   orig: 78, 49
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_child_mouth
+  rotate: true
+  xy: 1607, 328
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_child_neck
+  rotate: true
+  xy: 1220, 880
+  size: 44, 86
+  orig: 44, 86
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_child_question
+  rotate: false
+  xy: 1597, 626
+  size: 37, 66
+  orig: 39, 67
+  offset: 1, 1
+  index: -1
+dragon_coelacanth_child_tail1
+  rotate: false
+  xy: 612, 968
+  size: 75, 51
+  orig: 75, 51
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_child_tail2
+  rotate: false
+  xy: 1032, 960
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_child_tail3
+  rotate: false
+  xy: 738, 811
+  size: 59, 32
+  orig: 59, 32
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_critical01
+  rotate: false
+  xy: 1236, 656
+  size: 223, 222
+  orig: 223, 230
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_critical02
+  rotate: false
+  xy: 1235, 424
+  size: 222, 230
+  orig: 223, 230
+  offset: 1, 0
+  index: -1
+dragon_coelacanth_critical03
+  rotate: false
+  xy: 1, 1
+  size: 402, 403
+  orig: 407, 406
+  offset: 4, 3
+  index: -1
+dragon_coelacanth_critical03_e
+  rotate: false
+  xy: 1, 406
+  size: 402, 403
+  orig: 407, 406
+  offset: 4, 3
+  index: -1
+dragon_coelacanth_critical04
+  rotate: false
+  xy: 405, 1
+  size: 402, 403
+  orig: 407, 406
+  offset: 5, 3
+  index: -1
+dragon_coelacanth_critical04_e
+  rotate: false
+  xy: 405, 406
+  size: 402, 403
+  orig: 407, 406
+  offset: 5, 3
+  index: -1
+dragon_coelacanth_e_arm1
+  rotate: false
+  xy: 1607, 371
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_e_arm1_e
+  rotate: false
+  xy: 1078, 960
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_e_arm2
+  rotate: true
+  xy: 1584, 955
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_e_arm3
+  rotate: true
+  xy: 986, 904
+  size: 53, 67
+  orig: 53, 67
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_e_arm3_e
+  rotate: true
+  xy: 898, 973
+  size: 45, 73
+  orig: 45, 73
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_e_attack
+  rotate: false
+  xy: 208, 950
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_e_body1
+  rotate: false
+  xy: 898, 845
+  size: 86, 65
+  orig: 86, 65
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_e_body2
+  rotate: false
+  xy: 1219, 926
+  size: 62, 55
+  orig: 62, 59
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_e_body2_e
+  rotate: false
+  xy: 448, 947
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_e_critical01
+  rotate: true
+  xy: 1461, 515
+  size: 241, 134
+  orig: 248, 203
+  offset: 3, 0
+  index: -1
+dragon_coelacanth_e_critical02
+  rotate: true
+  xy: 1462, 279
+  size: 234, 143
+  orig: 248, 203
+  offset: 3, 0
+  index: -1
+dragon_coelacanth_e_critical03
+  rotate: false
+  xy: 671, 845
+  size: 225, 121
+  orig: 248, 203
+  offset: 13, 3
+  index: -1
+dragon_coelacanth_e_critical04
+  rotate: true
+  xy: 1226, 140
+  size: 137, 410
+  orig: 137, 425
+  offset: 0, 15
+  index: -1
+dragon_coelacanth_e_critical05
+  rotate: true
+  xy: 809, 567
+  size: 137, 424
+  orig: 137, 425
+  offset: 0, 1
+  index: -1
+dragon_coelacanth_e_critical06
+  rotate: false
+  xy: 1087, 1
+  size: 137, 425
+  orig: 137, 425
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_e_critical07
+  rotate: true
+  xy: 809, 706
+  size: 137, 425
+  orig: 137, 425
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_e_critical08
+  rotate: false
+  xy: 948, 1
+  size: 137, 425
+  orig: 137, 425
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_e_damaged
+  rotate: false
+  xy: 268, 950
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_e_eye
+  rotate: true
+  xy: 1320, 1010
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_e_head
+  rotate: false
+  xy: 328, 950
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_e_leg1
+  rotate: false
+  xy: 1607, 458
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_e_leg2
+  rotate: true
+  xy: 1320, 968
+  size: 40, 59
+  orig: 40, 59
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_e_leg3
+  rotate: true
+  xy: 612, 947
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_e_leg4
+  rotate: false
+  xy: 1448, 985
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_e_love
+  rotate: false
+  xy: 388, 950
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_e_mouth
+  rotate: true
+  xy: 1521, 985
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_e_neck
+  rotate: true
+  xy: 1, 950
+  size: 68, 138
+  orig: 68, 138
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_e_tail1
+  rotate: true
+  xy: 1158, 845
+  size: 77, 60
+  orig: 77, 60
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_e_tail1_e
+  rotate: false
+  xy: 1308, 880
+  size: 84, 41
+  orig: 84, 41
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_e_tail2
+  rotate: false
+  xy: 1597, 515
+  size: 39, 61
+  orig: 39, 61
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_e_tail2_e
+  rotate: true
+  xy: 1394, 880
+  size: 40, 65
+  orig: 40, 65
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_e_tail3
+  rotate: false
+  xy: 1055, 909
+  size: 66, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1
+dragon_coelacanth_e_tail4
+  rotate: true
+  xy: 521, 947
+  size: 59, 89
+  orig: 59, 89
   offset: 0, 0
   index: -1

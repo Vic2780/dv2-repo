@@ -1,0 +1,1096 @@
+dragon_4201_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_love_effect_anger
+  rotate: false
+  xy: 994, 616
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_love_effect_note1
+  rotate: false
+  xy: 905, 1264
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+dragon_love_effect_note2
+  rotate: true
+  xy: 961, 1245
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_mir_critica04
+  rotate: false
+  xy: 788, 1119
+  size: 74, 72
+  orig: 74, 72
+  offset: 0, 0
+  index: -1
+dragon_mir_critica05
+  rotate: true
+  xy: 744, 1196
+  size: 72, 71
+  orig: 72, 71
+  offset: 0, 0
+  index: -1
+dragon_mir_critica06
+  rotate: false
+  xy: 307, 804
+  size: 275, 172
+  orig: 275, 172
+  offset: 0, 0
+  index: -1
+dragon_mir_critica07
+  rotate: false
+  xy: 286, 1152
+  size: 205, 155
+  orig: 205, 155
+  offset: 0, 0
+  index: -1
+dragon_mir_critica08
+  rotate: true
+  xy: 584, 804
+  size: 236, 149
+  orig: 236, 149
+  offset: 0, 0
+  index: -1
+dragon_mir_critical01
+  rotate: false
+  xy: 1, 1101
+  size: 283, 292
+  orig: 320, 319
+  offset: 8, 27
+  index: -1
+dragon_mir_critical02_lit
+  rotate: false
+  xy: 1, 797
+  size: 304, 302
+  orig: 306, 305
+  offset: 1, 1
+  index: -1
+dragon_mir_critical03_lit
+  rotate: false
+  xy: 1, 1
+  size: 431, 396
+  orig: 446, 403
+  offset: 6, 0
+  index: -1
+dragon_miru_adult_arm_l1
+  rotate: false
+  xy: 174, 1395
+  size: 56, 24
+  orig: 56, 24
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_arm_l2
+  rotate: true
+  xy: 915, 1188
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_arm_r1
+  rotate: false
+  xy: 969, 1125
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_arm_r2
+  rotate: true
+  xy: 966, 1211
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_bigbell
+  rotate: false
+  xy: 905, 1306
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_bigbell_lit
+  rotate: true
+  xy: 809, 1270
+  size: 53, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_body1
+  rotate: false
+  xy: 286, 1309
+  size: 129, 116
+  orig: 129, 116
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_body2
+  rotate: false
+  xy: 939, 1
+  size: 81, 123
+  orig: 81, 123
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_body3
+  rotate: false
+  xy: 788, 624
+  size: 101, 107
+  orig: 101, 107
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_body4
+  rotate: true
+  xy: 728, 625
+  size: 117, 58
+  orig: 117, 58
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_body5
+  rotate: true
+  xy: 939, 126
+  size: 133, 77
+  orig: 133, 77
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_body6
+  rotate: false
+  xy: 673, 1325
+  size: 71, 91
+  orig: 71, 91
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_body7
+  rotate: true
+  xy: 740, 569
+  size: 53, 125
+  orig: 53, 125
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_body_gold1
+  rotate: false
+  xy: 998, 1306
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_body_gold2
+  rotate: false
+  xy: 1013, 359
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_closeeye
+  rotate: true
+  xy: 740, 394
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_crown
+  rotate: false
+  xy: 886, 1001
+  size: 65, 47
+  orig: 65, 47
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_damageeye
+  rotate: true
+  xy: 1, 1395
+  size: 30, 28
+  orig: 31, 28
+  offset: 1, 0
+  index: -1
+dragon_miru_adult_effect1
+  rotate: true
+  xy: 746, 1325
+  size: 67, 56
+  orig: 67, 56
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_eyes
+  rotate: false
+  xy: 286, 1136
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_feather1
+  rotate: true
+  xy: 746, 1394
+  size: 17, 62
+  orig: 17, 62
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_feather2
+  rotate: false
+  xy: 740, 321
+  size: 14, 49
+  orig: 14, 49
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_haed
+  rotate: true
+  xy: 911, 293
+  size: 124, 77
+  orig: 124, 77
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_hair1
+  rotate: true
+  xy: 893, 881
+  size: 82, 68
+  orig: 82, 68
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_hair2
+  rotate: false
+  xy: 892, 534
+  size: 99, 49
+  orig: 101, 49
+  offset: 2, 0
+  index: -1
+dragon_miru_adult_hair3
+  rotate: false
+  xy: 806, 989
+  size: 78, 54
+  orig: 78, 54
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_hand1
+  rotate: true
+  xy: 930, 1340
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_hand2
+  rotate: false
+  xy: 920, 1405
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_horn1
+  rotate: false
+  xy: 891, 694
+  size: 112, 47
+  orig: 112, 47
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_horn2
+  rotate: true
+  xy: 963, 876
+  size: 71, 52
+  orig: 71, 52
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_sidehair
+  rotate: false
+  xy: 939, 261
+  size: 70, 15
+  orig: 70, 15
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_smileeye
+  rotate: true
+  xy: 990, 402
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_stone1
+  rotate: false
+  xy: 990, 359
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_stone2
+  rotate: true
+  xy: 493, 1287
+  size: 20, 50
+  orig: 20, 50
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_stone3
+  rotate: true
+  xy: 31, 1395
+  size: 29, 56
+  orig: 29, 56
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_stone4
+  rotate: false
+  xy: 867, 569
+  size: 22, 41
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+dragon_miru_adult_stone5
+  rotate: true
+  xy: 232, 1395
+  size: 28, 52
+  orig: 28, 52
+  offset: 0, 0
+  index: -1
+dragon_miru_baby_arm_l1
+  rotate: true
+  xy: 877, 733
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+dragon_miru_baby_arm_l2
+  rotate: false
+  xy: 998, 1282
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+dragon_miru_baby_arm_l3
+  rotate: false
+  xy: 1004, 1245
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+dragon_miru_baby_arm_r1
+  rotate: false
+  xy: 740, 372
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+dragon_miru_baby_arm_r2
+  rotate: true
+  xy: 994, 585
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+dragon_miru_baby_bigbell
+  rotate: false
+  xy: 874, 1380
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+dragon_miru_baby_bigbell_lit
+  rotate: false
+  xy: 962, 817
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+dragon_miru_baby_body1
+  rotate: true
+  xy: 728, 744
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+dragon_miru_baby_body2
+  rotate: false
+  xy: 792, 733
+  size: 83, 68
+  orig: 83, 68
+  offset: 0, 0
+  index: -1
+dragon_miru_baby_body3
+  rotate: true
+  xy: 969, 1043
+  size: 55, 45
+  orig: 55, 45
+  offset: 0, 0
+  index: -1
+dragon_miru_baby_effect
+  rotate: true
+  xy: 892, 419
+  size: 113, 93
+  orig: 113, 93
+  offset: 0, 0
+  index: -1
+dragon_miru_baby_eyes
+  rotate: false
+  xy: 1000, 1378
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+dragon_miru_baby_eyes2
+  rotate: false
+  xy: 548, 1417
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+dragon_miru_baby_haed
+  rotate: true
+  xy: 962, 743
+  size: 72, 53
+  orig: 72, 53
+  offset: 0, 0
+  index: -1
+dragon_miru_baby_hair1
+  rotate: true
+  xy: 961, 1282
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+dragon_miru_baby_hair2
+  rotate: false
+  xy: 994, 644
+  size: 26, 26
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+dragon_miru_baby_horn1
+  rotate: false
+  xy: 842, 1325
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+dragon_miru_baby_horn2
+  rotate: true
+  xy: 969, 1165
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+dragon_miru_baby_tail1
+  rotate: false
+  xy: 920, 1117
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+dragon_miru_baby_tail2
+  rotate: true
+  xy: 911, 1222
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+dragon_miru_baby_tail3
+  rotate: true
+  xy: 961, 1318
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+dragon_miru_baby_tailring1
+  rotate: true
+  xy: 939, 1261
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+dragon_miru_baby_tailring2
+  rotate: false
+  xy: 993, 560
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+dragon_miru_child_arm_l1
+  rotate: false
+  xy: 896, 1340
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+dragon_miru_child_arm_l2
+  rotate: false
+  xy: 548, 1287
+  size: 20, 36
+  orig: 20, 37
+  offset: 0, 1
+  index: -1
+dragon_miru_child_arm_l3
+  rotate: false
+  xy: 880, 881
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+dragon_miru_child_arm_r1
+  rotate: false
+  xy: 969, 1100
+  size: 51, 23
+  orig: 51, 23
+  offset: 0, 0
+  index: -1
+dragon_miru_child_arm_r2
+  rotate: false
+  xy: 950, 1374
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+dragon_miru_child_arm_r3
+  rotate: false
+  xy: 994, 672
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+dragon_miru_child_bigbell
+  rotate: false
+  xy: 865, 1218
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+dragon_miru_child_bigbell2
+  rotate: false
+  xy: 977, 1399
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+dragon_miru_child_bigbell_lit
+  rotate: false
+  xy: 865, 1167
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+dragon_miru_child_body1
+  rotate: false
+  xy: 584, 1042
+  size: 153, 130
+  orig: 154, 132
+  offset: 1, 2
+  index: -1
+dragon_miru_child_body2
+  rotate: false
+  xy: 572, 1174
+  size: 170, 149
+  orig: 170, 149
+  offset: 0, 0
+  index: -1
+dragon_miru_child_eyeangry
+  rotate: true
+  xy: 993, 532
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+dragon_miru_child_eyes
+  rotate: false
+  xy: 951, 1341
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+dragon_miru_child_eyesclose
+  rotate: false
+  xy: 995, 1326
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+dragon_miru_child_haed
+  rotate: false
+  xy: 788, 1045
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+dragon_miru_child_haed2
+  rotate: false
+  xy: 987, 419
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+dragon_miru_child_hair1
+  rotate: false
+  xy: 880, 803
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+dragon_miru_child_hair2
+  rotate: true
+  xy: 877, 743
+  size: 58, 83
+  orig: 58, 83
+  offset: 0, 0
+  index: -1
+dragon_miru_child_horn1
+  rotate: true
+  xy: 804, 1325
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+dragon_miru_child_horn2
+  rotate: true
+  xy: 810, 1391
+  size: 34, 62
+  orig: 34, 62
+  offset: 0, 0
+  index: -1
+dragon_miru_child_leg_l1
+  rotate: false
+  xy: 987, 454
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+dragon_miru_child_leg_l2
+  rotate: false
+  xy: 990, 278
+  size: 19, 54
+  orig: 19, 54
+  offset: 0, 0
+  index: -1
+dragon_miru_child_leg_r1
+  rotate: true
+  xy: 953, 1001
+  size: 40, 64
+  orig: 40, 64
+  offset: 0, 0
+  index: -1
+dragon_miru_child_leg_r2
+  rotate: true
+  xy: 89, 1395
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+dragon_miru_child_leg_r3
+  rotate: true
+  xy: 920, 1151
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+dragon_miru_child_small_lit
+  rotate: false
+  xy: 756, 293
+  size: 153, 122
+  orig: 153, 122
+  offset: 0, 0
+  index: -1
+dragon_miru_child_tail1
+  rotate: true
+  xy: 735, 923
+  size: 107, 69
+  orig: 107, 69
+  offset: 0, 0
+  index: -1
+dragon_miru_child_tail2
+  rotate: false
+  xy: 806, 898
+  size: 85, 89
+  orig: 85, 89
+  offset: 0, 0
+  index: -1
+dragon_miru_child_tail3
+  rotate: false
+  xy: 866, 1050
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+dragon_miru_child_tail_ring1
+  rotate: false
+  xy: 990, 334
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+dragon_miru_child_tail_ring2
+  rotate: true
+  xy: 975, 1371
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+dragon_miru_e_arm_l1
+  rotate: false
+  xy: 116, 1395
+  size: 56, 25
+  orig: 56, 25
+  offset: 0, 0
+  index: -1
+dragon_miru_e_arm_l2
+  rotate: true
+  xy: 915, 1188
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+dragon_miru_e_arm_r1
+  rotate: true
+  xy: 865, 1264
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+dragon_miru_e_arm_r2
+  rotate: true
+  xy: 966, 1211
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+dragon_miru_e_bigbell
+  rotate: false
+  xy: 905, 1306
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dragon_miru_e_bigbell_lit
+  rotate: true
+  xy: 809, 1270
+  size: 53, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+dragon_miru_e_body1
+  rotate: false
+  xy: 417, 1309
+  size: 129, 116
+  orig: 129, 116
+  offset: 0, 0
+  index: -1
+dragon_miru_e_body1_lit
+  rotate: false
+  xy: 866, 1117
+  size: 52, 48
+  orig: 53, 50
+  offset: 0, 2
+  index: -1
+dragon_miru_e_body2
+  rotate: true
+  xy: 548, 1325
+  size: 90, 123
+  orig: 90, 123
+  offset: 0, 0
+  index: -1
+dragon_miru_e_body2_lit
+  rotate: true
+  xy: 795, 803
+  size: 93, 83
+  orig: 93, 83
+  offset: 0, 0
+  index: -1
+dragon_miru_e_body3
+  rotate: false
+  xy: 891, 585
+  size: 101, 107
+  orig: 101, 107
+  offset: 0, 0
+  index: -1
+dragon_miru_e_body4
+  rotate: true
+  xy: 735, 804
+  size: 117, 58
+  orig: 117, 58
+  offset: 0, 0
+  index: -1
+dragon_miru_e_body5
+  rotate: true
+  xy: 493, 1152
+  size: 133, 77
+  orig: 133, 77
+  offset: 0, 0
+  index: -1
+dragon_miru_e_body6
+  rotate: false
+  xy: 673, 1325
+  size: 71, 91
+  orig: 71, 91
+  offset: 0, 0
+  index: -1
+dragon_miru_e_body7
+  rotate: true
+  xy: 740, 569
+  size: 53, 125
+  orig: 53, 125
+  offset: 0, 0
+  index: -1
+dragon_miru_e_body_bell1
+  rotate: false
+  xy: 954, 1403
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+dragon_miru_e_body_bell2
+  rotate: false
+  xy: 1000, 1357
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+dragon_miru_e_body_gold1
+  rotate: false
+  xy: 998, 1306
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+dragon_miru_e_body_gold1_lit
+  rotate: false
+  xy: 920, 1374
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+dragon_miru_e_body_gold2
+  rotate: false
+  xy: 1013, 359
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+dragon_miru_e_body_jewelry
+  rotate: false
+  xy: 744, 1270
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+dragon_miru_e_closeeye
+  rotate: true
+  xy: 740, 394
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+dragon_miru_e_crown
+  rotate: true
+  xy: 920, 1050
+  size: 65, 47
+  orig: 65, 47
+  offset: 0, 0
+  index: -1
+dragon_miru_e_crown_lit
+  rotate: true
+  xy: 744, 1147
+  size: 47, 42
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+dragon_miru_e_damageeye
+  rotate: true
+  xy: 1, 1395
+  size: 30, 28
+  orig: 31, 28
+  offset: 1, 0
+  index: -1
+dragon_miru_e_effect1
+  rotate: true
+  xy: 746, 1325
+  size: 67, 56
+  orig: 67, 56
+  offset: 0, 0
+  index: -1
+dragon_miru_e_effect2
+  rotate: false
+  xy: 939, 1292
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+dragon_miru_e_effect3
+  rotate: true
+  xy: 893, 965
+  size: 34, 69
+  orig: 34, 69
+  offset: 0, 0
+  index: -1
+dragon_miru_e_eyes
+  rotate: false
+  xy: 286, 1136
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_miru_e_feather1
+  rotate: true
+  xy: 746, 1394
+  size: 17, 62
+  orig: 17, 62
+  offset: 0, 0
+  index: -1
+dragon_miru_e_feather2
+  rotate: false
+  xy: 740, 321
+  size: 14, 49
+  orig: 14, 49
+  offset: 0, 0
+  index: -1
+dragon_miru_e_haed
+  rotate: true
+  xy: 911, 293
+  size: 124, 77
+  orig: 124, 77
+  offset: 0, 0
+  index: -1
+dragon_miru_e_hair1
+  rotate: true
+  xy: 893, 881
+  size: 82, 68
+  orig: 82, 68
+  offset: 0, 0
+  index: -1
+dragon_miru_e_hair2
+  rotate: false
+  xy: 892, 534
+  size: 99, 49
+  orig: 101, 49
+  offset: 2, 0
+  index: -1
+dragon_miru_e_hair3
+  rotate: false
+  xy: 806, 989
+  size: 78, 54
+  orig: 78, 54
+  offset: 0, 0
+  index: -1
+dragon_miru_e_hand1
+  rotate: true
+  xy: 286, 1101
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+dragon_miru_e_hand2
+  rotate: false
+  xy: 987, 510
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+dragon_miru_e_horn1
+  rotate: true
+  xy: 739, 1032
+  size: 113, 47
+  orig: 113, 47
+  offset: 0, 0
+  index: -1
+dragon_miru_e_horn2
+  rotate: true
+  xy: 817, 1193
+  size: 71, 46
+  orig: 71, 46
+  offset: 0, 0
+  index: -1
+dragon_miru_e_sidehair
+  rotate: false
+  xy: 939, 261
+  size: 70, 15
+  orig: 70, 15
+  offset: 0, 0
+  index: -1
+dragon_miru_e_smileeye
+  rotate: true
+  xy: 990, 402
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+dragon_miru_e_stone1
+  rotate: false
+  xy: 990, 359
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+dragon_miru_e_stone2
+  rotate: true
+  xy: 493, 1287
+  size: 20, 50
+  orig: 20, 50
+  offset: 0, 0
+  index: -1
+dragon_miru_e_stone3
+  rotate: true
+  xy: 31, 1395
+  size: 29, 56
+  orig: 29, 56
+  offset: 0, 0
+  index: -1
+dragon_miru_e_stone4
+  rotate: false
+  xy: 867, 569
+  size: 22, 41
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+dragon_miru_e_stone5
+  rotate: true
+  xy: 232, 1395
+  size: 28, 52
+  orig: 28, 52
+  offset: 0, 0
+  index: -1
+e_dragon_mir_critica04
+  rotate: false
+  xy: 969, 949
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+e_dragon_mir_critica05
+  rotate: false
+  xy: 740, 417
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+e_dragon_mir_critica06
+  rotate: false
+  xy: 307, 978
+  size: 275, 172
+  orig: 275, 172
+  offset: 0, 0
+  index: -1
+e_dragon_mir_critica07
+  rotate: false
+  xy: 434, 625
+  size: 292, 177
+  orig: 292, 181
+  offset: 0, 4
+  index: -1
+e_dragon_mir_critica08
+  rotate: true
+  xy: 756, 1
+  size: 290, 181
+  orig: 292, 181
+  offset: 2, 0
+  index: -1
+e_dragon_mir_critical01
+  rotate: false
+  xy: 434, 1
+  size: 320, 318
+  orig: 320, 319
+  offset: 0, 1
+  index: -1
+e_dragon_mir_critical02_lit
+  rotate: false
+  xy: 434, 321
+  size: 304, 302
+  orig: 306, 305
+  offset: 1, 1
+  index: -1
+e_dragon_mir_critical03_lit
+  rotate: false
+  xy: 1, 399
+  size: 431, 396
+  orig: 446, 403
+  offset: 6, 0
+  index: -1

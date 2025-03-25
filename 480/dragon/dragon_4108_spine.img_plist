@@ -1,0 +1,543 @@
+dragon_4108_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_rugar_child_eye1
+  rotate: false
+  xy: 239, 1073
+  size: 22, 26
+  orig: 62, 70
+  offset: 9, 20
+  index: -1
+dragon_rugar_child_mouth
+  rotate: true
+  xy: 478, 411
+  size: 34, 26
+  orig: 62, 70
+  offset: 5, 0
+  index: -1
+dragon_rugar_baby_eye1
+  rotate: true
+  xy: 483, 320
+  size: 32, 24
+  orig: 66, 62
+  offset: 13, 10
+  index: -1
+dragon_rugar_child_neckfur
+  rotate: false
+  xy: 385, 984
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+dragon_rugar_adult_mouth
+  rotate: true
+  xy: 130, 1082
+  size: 18, 32
+  orig: 44, 74
+  offset: 16, 0
+  index: -1
+dragon_rugar_adult_wing1b
+  rotate: false
+  xy: 247, 411
+  size: 183, 123
+  orig: 183, 123
+  offset: 0, 0
+  index: -1
+dragon_rugar_child_eye2
+  rotate: false
+  xy: 483, 383
+  size: 24, 26
+  orig: 62, 70
+  offset: 7, 20
+  index: -1
+dragon_rugar_adult_r_leg1
+  rotate: false
+  xy: 432, 445
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1
+dragon_rugar_child_l_leg2
+  rotate: true
+  xy: 489, 1012
+  size: 42, 14
+  orig: 42, 14
+  offset: 0, 0
+  index: -1
+dragon_rugar_adult_breath1
+  rotate: false
+  xy: 385, 953
+  size: 28, 21
+  orig: 60, 51
+  offset: 32, 30
+  index: -1
+dragon_rugar_adult_neck
+  rotate: false
+  xy: 356, 811
+  size: 56, 72
+  orig: 56, 72
+  offset: 0, 0
+  index: -1
+dragon_rugar_adult_l_leg1
+  rotate: false
+  xy: 434, 395
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+dragon_rugar_child_r_leg1
+  rotate: false
+  xy: 416, 931
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+dragon_rugar_adult_r_arm1
+  rotate: false
+  xy: 263, 973
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+dragon_rugar_adult_r_leg4
+  rotate: true
+  xy: 490, 235
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+dragon_rugar_effect_ghost4
+  rotate: false
+  xy: 2, 195
+  size: 245, 207
+  orig: 269, 209
+  offset: 24, 1
+  index: -1
+dragon_rugar_child_mouth2
+  rotate: true
+  xy: 489, 984
+  size: 26, 18
+  orig: 62, 70
+  offset: 5, 9
+  index: -1
+dragon_rugar_baby_eye2
+  rotate: true
+  xy: 483, 286
+  size: 32, 24
+  orig: 66, 62
+  offset: 13, 9
+  index: -1
+dragon_rugar_adult_eye3
+  rotate: true
+  xy: 490, 269
+  size: 10, 16
+  orig: 44, 74
+  offset: 11, 17
+  index: -1
+dragon_rugar_child_l_wing
+  rotate: false
+  xy: 356, 721
+  size: 51, 88
+  orig: 51, 88
+  offset: 0, 0
+  index: -1
+dragon_rugar_effect_bar
+  rotate: true
+  xy: 286, 158
+  size: 126, 202
+  orig: 126, 202
+  offset: 0, 0
+  index: -1
+dragon_rugar_effect_twinkle1
+  rotate: false
+  xy: 441, 1040
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+dragon_rugar_adult_l_arm1
+  rotate: false
+  xy: 409, 714
+  size: 59, 74
+  orig: 59, 74
+  offset: 0, 0
+  index: -1
+dragon_rugar_adult_l_leg4
+  rotate: true
+  xy: 490, 200
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+dragon_rugar_baby_fire1
+  rotate: true
+  xy: 432, 517
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+dragon_rugar_adult_body1
+  rotate: false
+  xy: 391, 623
+  size: 85, 89
+  orig: 85, 89
+  offset: 0, 0
+  index: -1
+dragon_rugar_baby_body
+  rotate: false
+  xy: 72, 1056
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+dragon_rugar_child_face
+  rotate: false
+  xy: 321, 964
+  size: 62, 62
+  orig: 62, 70
+  offset: 0, 8
+  index: -1
+dragon_rugar_child_r_leg2
+  rotate: true
+  xy: 205, 828
+  size: 42, 14
+  orig: 42, 14
+  offset: 0, 0
+  index: -1
+dragon_rugar_adult_wing2
+  rotate: false
+  xy: 249, 286
+  size: 183, 123
+  orig: 183, 123
+  offset: 0, 0
+  index: -1
+dragon_rugar_adult_fire1
+  rotate: false
+  xy: 205, 973
+  size: 56, 98
+  orig: 56, 98
+  offset: 0, 0
+  index: -1
+dragon_rugar_child_l_arm1
+  rotate: false
+  xy: 470, 769
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+dragon_rugar_baby_l_arm1
+  rotate: false
+  xy: 476, 487
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+dragon_rugar_effect_smog1
+  rotate: true
+  xy: 135, 837
+  size: 243, 31
+  orig: 269, 209
+  offset: 2, 0
+  index: -1
+dragon_rugar_adult_r_leg3
+  rotate: false
+  xy: 168, 1065
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+dragon_rugar_effect_ghost5
+  rotate: false
+  xy: 2, 404
+  size: 243, 175
+  orig: 269, 209
+  offset: 21, 2
+  index: -1
+dragon_rugar_adult_face
+  rotate: true
+  xy: 2, 1056
+  size: 44, 68
+  orig: 44, 74
+  offset: 0, 6
+  index: -1
+dragon_rugar_child_r_arm3
+  rotate: true
+  xy: 475, 447
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+dragon_rugar_effect_circle
+  rotate: true
+  xy: 221, 581
+  size: 299, 43
+  orig: 299, 43
+  offset: 0, 0
+  index: -1
+dragon_rugar_child_l_leg1
+  rotate: false
+  xy: 381, 1034
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+dragon_rugar_adult_l_leg3
+  rotate: false
+  xy: 470, 816
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+dragon_rugar_baby_r_wing1
+  rotate: false
+  xy: 478, 685
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+dragon_rugar_adult_r_arm3
+  rotate: true
+  xy: 490, 158
+  size: 40, 17
+  orig: 40, 17
+  offset: 0, 0
+  index: -1
+dragon_rugar_child_body
+  rotate: true
+  xy: 391, 536
+  size: 85, 116
+  orig: 85, 116
+  offset: 0, 0
+  index: -1
+dragon_rugar_effect_ghost1
+  rotate: false
+  xy: 286, 2
+  size: 216, 154
+  orig: 218, 154
+  offset: 0, 0
+  index: -1
+dragon_rugar_adult_l_arm3
+  rotate: true
+  xy: 478, 623
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1
+dragon_love_effect_anger
+  rotate: false
+  xy: 476, 956
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_rugar_effect_smog2
+  rotate: true
+  xy: 168, 828
+  size: 235, 35
+  orig: 269, 209
+  offset: 6, 0
+  index: -1
+dragon_rugar_adult_breath3
+  rotate: false
+  xy: 263, 1040
+  size: 58, 49
+  orig: 60, 51
+  offset: 0, 0
+  index: -1
+dragon_rugar_adult_r_leg2
+  rotate: true
+  xy: 476, 854
+  size: 49, 26
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+dragon_rugar_baby_l_wing1
+  rotate: false
+  xy: 483, 354
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+dragon_rugar_effect_ghost6
+  rotate: true
+  xy: 2, 837
+  size: 217, 131
+  orig: 269, 209
+  offset: 15, 2
+  index: -1
+dragon_rugar_adult_mouth2
+  rotate: true
+  xy: 453, 517
+  size: 16, 20
+  orig: 44, 74
+  offset: 15, 8
+  index: -1
+dragon_rugar_adult_l_leg2
+  rotate: true
+  xy: 476, 905
+  size: 49, 26
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+dragon_rugar_adult_r_arm2
+  rotate: false
+  xy: 351, 885
+  size: 63, 66
+  orig: 63, 66
+  offset: 0, 0
+  index: -1
+dragon_rugar_effect_ghost2
+  rotate: true
+  xy: 2, 581
+  size: 254, 158
+  orig: 256, 158
+  offset: 0, 0
+  index: -1
+dragon_rugar_baby_face
+  rotate: true
+  xy: 416, 863
+  size: 66, 58
+  orig: 66, 62
+  offset: 0, 4
+  index: -1
+dragon_rugar_adult_eye1
+  rotate: true
+  xy: 381, 1087
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+dragon_rugar_adult_l_arm2
+  rotate: false
+  xy: 205, 882
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: -1
+dragon_rugar_adult_breath2
+  rotate: false
+  xy: 201, 1073
+  size: 36, 27
+  orig: 60, 51
+  offset: 22, 22
+  index: -1
+dragon_rugar_child_tail
+  rotate: true
+  xy: 434, 286
+  size: 107, 47
+  orig: 107, 47
+  offset: 0, 0
+  index: -1
+dragon_rugar_adult_tail
+  rotate: true
+  xy: 266, 721
+  size: 159, 88
+  orig: 159, 88
+  offset: 0, 0
+  index: -1
+dragon_rugar_adult_body2
+  rotate: true
+  xy: 445, 984
+  size: 54, 42
+  orig: 54, 42
+  offset: 0, 0
+  index: -1
+dragon_rugar_child_l_arm3
+  rotate: true
+  xy: 247, 536
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+dragon_rugar_adult_wing1
+  rotate: true
+  xy: 266, 536
+  size: 183, 123
+  orig: 183, 123
+  offset: 0, 0
+  index: -1
+dragon_rugar_child_fire1
+  rotate: false
+  xy: 470, 714
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+dragon_rugar_baby_tail
+  rotate: true
+  xy: 249, 195
+  size: 59, 35
+  orig: 59, 39
+  offset: 0, 0
+  index: -1
+dragon_rugar_child_r_wing
+  rotate: false
+  xy: 288, 882
+  size: 61, 80
+  orig: 61, 80
+  offset: 0, 0
+  index: -1
+dragon_rugar_effect_smog3
+  rotate: true
+  xy: 162, 581
+  size: 245, 57
+  orig: 269, 209
+  offset: 0, 1
+  index: -1
+dragon_rugar_baby_fire2
+  rotate: true
+  xy: 476, 515
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+dragon_rugar_adult_neckfur
+  rotate: true
+  xy: 414, 790
+  size: 71, 54
+  orig: 71, 54
+  offset: 0, 0
+  index: -1
+dragon_rugar_baby_l_leg1
+  rotate: false
+  xy: 249, 256
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+dragon_rugar_adult_eye2
+  rotate: true
+  xy: 403, 1087
+  size: 12, 20
+  orig: 44, 74
+  offset: 11, 15
+  index: -1
+dragon_rugar_baby_l_arm2
+  rotate: true
+  xy: 489, 1056
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+dragon_rugar_child_l_arm2
+  rotate: false
+  xy: 323, 1028
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+dragon_rugar_baby_mouth
+  rotate: false
+  xy: 432, 495
+  size: 42, 20
+  orig: 66, 62
+  offset: 7, 0
+  index: -1
+dragon_rugar_effect_ghost3
+  rotate: false
+  xy: 2, 2
+  size: 282, 191
+  orig: 282, 191
+  offset: 0, 0
+  index: -1

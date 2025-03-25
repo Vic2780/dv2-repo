@@ -1,0 +1,739 @@
+dragon_4075_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_arcanus_adult_wing1a
+  rotate: false
+  xy: 187, 1495
+  size: 127, 95
+  orig: 127, 95
+  offset: 0, 0
+  index: -1
+dragon_arcanus_adult_leg3
+  rotate: false
+  xy: 424, 1166
+  size: 29, 67
+  orig: 29, 67
+  offset: 0, 0
+  index: -1
+dragon_arcanus_baby_leg2
+  rotate: true
+  xy: 454, 991
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+dragon_arcanus_child_eye1
+  rotate: true
+  xy: 496, 848
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+dragon_arcanus_adult_arm1
+  rotate: true
+  xy: 435, 330
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+dragon_arcanus_baby_horn2
+  rotate: false
+  xy: 496, 731
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+dragon_arcanus_child_body
+  rotate: true
+  xy: 357, 1232
+  size: 90, 55
+  orig: 90, 55
+  offset: 0, 0
+  index: -1
+dragon_arcanus_child_head
+  rotate: true
+  xy: 398, 803
+  size: 65, 46
+  orig: 65, 46
+  offset: 0, 0
+  index: -1
+dragon_arcanus_adult_fire1
+  rotate: true
+  xy: 386, 989
+  size: 70, 41
+  orig: 70, 41
+  offset: 0, 0
+  index: -1
+dragon_arcanus_child_leg3
+  rotate: true
+  xy: 466, 877
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+dragon_arcanus_adult_head
+  rotate: false
+  xy: 435, 280
+  size: 74, 48
+  orig: 74, 48
+  offset: 0, 0
+  index: -1
+dragon_arcanus_adult_leg7
+  rotate: false
+  xy: 381, 1099
+  size: 39, 65
+  orig: 39, 65
+  offset: 0, 0
+  index: -1
+dragon_arcanus_child_wing1a
+  rotate: true
+  xy: 383, 1324
+  size: 88, 82
+  orig: 88, 82
+  offset: 0, 0
+  index: -1
+dragon_arcanus_adult_arm5
+  rotate: false
+  xy: 465, 1553
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+dragon_arcanus_effect_circle3
+  rotate: false
+  xy: 224, 551
+  size: 182, 180
+  orig: 360, 308
+  offset: 84, 75
+  index: -1
+dragon_arcanus_effect_effa1
+  rotate: false
+  xy: 2, 691
+  size: 210, 210
+  orig: 360, 308
+  offset: 73, 62
+  index: -1
+dragon_arcanus_effect_c1
+  rotate: false
+  xy: 414, 1235
+  size: 51, 51
+  orig: 63, 59
+  offset: 8, 8
+  index: -1
+dragon_arcanus_effect_fire2
+  rotate: false
+  xy: 2, 1293
+  size: 188, 198
+  orig: 360, 308
+  offset: 81, 72
+  index: -1
+dragon_arcanus_child_arm3
+  rotate: false
+  xy: 467, 1261
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+dragon_arcanus_adult_leg2
+  rotate: false
+  xy: 320, 1591
+  size: 64, 57
+  orig: 64, 57
+  offset: 0, 0
+  index: -1
+dragon_arcanus_child_leg7
+  rotate: true
+  xy: 472, 502
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+dragon_arcanus_adult_wing2
+  rotate: true
+  xy: 408, 551
+  size: 125, 101
+  orig: 125, 101
+  offset: 0, 0
+  index: -1
+dragon_arcanus_effect_b3
+  rotate: false
+  xy: 2, 1493
+  size: 183, 143
+  orig: 183, 147
+  offset: 0, 0
+  index: -1
+dragon_arcanus_child_horn1
+  rotate: true
+  xy: 429, 1041
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+dragon_arcanus_effect_c4
+  rotate: false
+  xy: 386, 1591
+  size: 63, 57
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+dragon_arcanus_baby_arm5
+  rotate: true
+  xy: 485, 1210
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+dragon_arcanus_baby_head
+  rotate: true
+  xy: 322, 1421
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1
+dragon_arcanus_effect_e_cc03
+  rotate: false
+  xy: 2, 2
+  size: 239, 253
+  orig: 241, 257
+  offset: 2, 3
+  index: -1
+dragon_arcanus_child_eff3
+  rotate: true
+  xy: 422, 1099
+  size: 65, 33
+  orig: 65, 33
+  offset: 0, 0
+  index: -1
+dragon_arcanus_child_leg2
+  rotate: true
+  xy: 429, 915
+  size: 61, 24
+  orig: 61, 24
+  offset: 0, 0
+  index: -1
+dragon_arcanus_adult_eye3
+  rotate: true
+  xy: 496, 747
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+dragon_arcanus_adult_leg6
+  rotate: true
+  xy: 398, 733
+  size: 68, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1
+dragon_arcanus_adult_tail1
+  rotate: true
+  xy: 416, 369
+  size: 131, 89
+  orig: 131, 89
+  offset: 0, 0
+  index: -1
+dragon_arcanus_adult_arm4
+  rotate: true
+  xy: 386, 1061
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+dragon_arcanus_baby_mouth2
+  rotate: true
+  xy: 475, 1404
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+dragon_arcanus_child_arm2
+  rotate: false
+  xy: 480, 1025
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+dragon_arcanus_baby_arm1
+  rotate: false
+  xy: 492, 969
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+dragon_arcanus_child_leg6
+  rotate: true
+  xy: 429, 978
+  size: 61, 23
+  orig: 61, 23
+  offset: 0, 0
+  index: -1
+dragon_arcanus_adult_wing1b
+  rotate: false
+  xy: 192, 1329
+  size: 127, 95
+  orig: 127, 95
+  offset: 0, 0
+  index: -1
+dragon_arcanus_baby_leg5
+  rotate: false
+  xy: 475, 1454
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+dragon_arcanus_effect_b2
+  rotate: false
+  xy: 202, 1097
+  size: 177, 133
+  orig: 183, 147
+  offset: 1, 14
+  index: -1
+dragon_arcanus_baby_arm4
+  rotate: true
+  xy: 489, 1175
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+dragon_arcanus_effect_circle4
+  rotate: false
+  xy: 232, 369
+  size: 182, 180
+  orig: 360, 308
+  offset: 84, 75
+  index: -1
+dragon_arcanus_effect_effa2
+  rotate: false
+  xy: 2, 475
+  size: 220, 214
+  orig: 360, 308
+  offset: 64, 61
+  index: -1
+dragon_arcanus_child_eff2
+  rotate: false
+  xy: 400, 1559
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+dragon_arcanus_child_leg1
+  rotate: false
+  xy: 381, 1166
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+dragon_arcanus_adult_fire2
+  rotate: false
+  xy: 187, 1592
+  size: 90, 56
+  orig: 90, 56
+  offset: 0, 0
+  index: -1
+dragon_arcanus_baby_eye1
+  rotate: true
+  xy: 457, 1136
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+dragon_arcanus_effect_fire3
+  rotate: false
+  xy: 2, 1099
+  size: 198, 192
+  orig: 360, 308
+  offset: 78, 73
+  index: -1
+dragon_arcanus_child_arm6
+  rotate: false
+  xy: 489, 1150
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+dragon_arcanus_adult_eye2
+  rotate: true
+  xy: 496, 772
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+dragon_arcanus_adult_leg1
+  rotate: false
+  xy: 386, 915
+  size: 41, 72
+  orig: 41, 72
+  offset: 0, 0
+  index: -1
+dragon_arcanus_baby_leg8
+  rotate: true
+  xy: 492, 942
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+dragon_arcanus_baby_leg1
+  rotate: false
+  xy: 435, 870
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+dragon_arcanus_child_arm1
+  rotate: false
+  xy: 414, 1288
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+dragon_arcanus_child_leg5
+  rotate: false
+  xy: 465, 1498
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+dragon_arcanus_adult_horn1
+  rotate: false
+  xy: 457, 1095
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+dragon_arcanus_adult_leg5
+  rotate: true
+  xy: 416, 502
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+dragon_arcanus_baby_leg4
+  rotate: false
+  xy: 483, 1086
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+dragon_arcanus_adult_mouth2
+  rotate: true
+  xy: 398, 870
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+dragon_love_effect_anger
+  rotate: false
+  xy: 483, 1058
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_arcanus_adult_arm3
+  rotate: false
+  xy: 445, 1288
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+dragon_arcanus_effect_e_spark1
+  rotate: false
+  xy: 243, 2
+  size: 265, 173
+  orig: 287, 203
+  offset: 21, 15
+  index: -1
+dragon_arcanus_child_eff1
+  rotate: false
+  xy: 467, 1322
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+dragon_arcanus_child_horn2
+  rotate: true
+  xy: 489, 1193
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+dragon_arcanus_effect_c3
+  rotate: false
+  xy: 400, 1498
+  size: 63, 59
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+dragon_arcanus_child_arm5
+  rotate: true
+  xy: 480, 991
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+dragon_arcanus_child_neck
+  rotate: false
+  xy: 279, 1592
+  size: 39, 56
+  orig: 39, 56
+  offset: 0, 0
+  index: -1
+dragon_arcanus_child_mouth2
+  rotate: true
+  xy: 434, 1058
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+dragon_arcanus_child_wing2
+  rotate: false
+  xy: 386, 1414
+  size: 87, 82
+  orig: 87, 82
+  offset: 0, 0
+  index: -1
+dragon_arcanus_baby_arm3
+  rotate: false
+  xy: 496, 835
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+dragon_arcanus_effect_effa3
+  rotate: false
+  xy: 2, 257
+  size: 228, 216
+  orig: 360, 308
+  offset: 60, 61
+  index: -1
+dragon_arcanus_child_leg4
+  rotate: false
+  xy: 477, 1128
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+dragon_arcanus_adult_fire3
+  rotate: true
+  xy: 435, 177
+  size: 101, 74
+  orig: 101, 74
+  offset: 0, 0
+  index: -1
+dragon_arcanus_effect_fire4
+  rotate: false
+  xy: 2, 903
+  size: 198, 194
+  orig: 360, 308
+  offset: 80, 71
+  index: -1
+dragon_arcanus_adult_eye1
+  rotate: false
+  xy: 494, 1252
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+dragon_arcanus_baby_leg7
+  rotate: false
+  xy: 467, 1231
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+dragon_arcanus_adult_leg4
+  rotate: true
+  xy: 467, 1353
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+dragon_arcanus_adult_mouth1
+  rotate: true
+  xy: 446, 835
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+dragon_arcanus_adult_arm2
+  rotate: false
+  xy: 449, 795
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+dragon_arcanus_baby_horn1
+  rotate: false
+  xy: 495, 819
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+dragon_arcanus_effect_b1
+  rotate: false
+  xy: 202, 1232
+  size: 153, 95
+  orig: 183, 147
+  offset: 30, 34
+  index: -1
+dragon_arcanus_baby_arm6
+  rotate: false
+  xy: 491, 1265
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+dragon_arcanus_effect_c2
+  rotate: false
+  xy: 451, 1593
+  size: 51, 51
+  orig: 63, 59
+  offset: 8, 8
+  index: -1
+dragon_arcanus_child_arm4
+  rotate: false
+  xy: 483, 330
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+dragon_arcanus_effect_circle1
+  rotate: false
+  xy: 202, 915
+  size: 182, 180
+  orig: 360, 308
+  offset: 84, 75
+  index: -1
+dragon_arcanus_child_leg8
+  rotate: false
+  xy: 477, 1106
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+dragon_arcanus_adult_body
+  rotate: false
+  xy: 192, 1426
+  size: 128, 67
+  orig: 128, 67
+  offset: 0, 0
+  index: -1
+dragon_arcanus_adult_leg8
+  rotate: true
+  xy: 455, 915
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+dragon_arcanus_baby_leg3
+  rotate: false
+  xy: 457, 1030
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+dragon_arcanus_child_wing1b
+  rotate: true
+  xy: 316, 1501
+  size: 88, 82
+  orig: 88, 82
+  offset: 0, 0
+  index: -1
+dragon_arcanus_child_eye2
+  rotate: true
+  xy: 495, 795
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+dragon_arcanus_adult_arm6
+  rotate: false
+  xy: 456, 1061
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+dragon_arcanus_adult_neck
+  rotate: false
+  xy: 321, 1329
+  size: 60, 90
+  orig: 60, 90
+  offset: 0, 0
+  index: -1
+dragon_arcanus_baby_arm2
+  rotate: true
+  xy: 489, 1231
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+dragon_arcanus_effect_circle2
+  rotate: false
+  xy: 214, 733
+  size: 182, 180
+  orig: 360, 308
+  offset: 84, 75
+  index: -1
+dragon_arcanus_effect_fire1
+  rotate: false
+  xy: 243, 177
+  size: 190, 190
+  orig: 360, 308
+  offset: 81, 71
+  index: -1
+dragon_arcanus_baby_tail
+  rotate: true
+  xy: 466, 835
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+dragon_arcanus_baby_leg6
+  rotate: false
+  xy: 455, 966
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+dragon_arcanus_adult_horn2
+  rotate: false
+  xy: 455, 1166
+  size: 16, 38
+  orig: 16, 38
+  offset: 0, 0
+  index: -1
+dragon_arcanus_child_tail
+  rotate: false
+  xy: 408, 678
+  size: 101, 51
+  orig: 101, 51
+  offset: 0, 0
+  index: -1
+dragon_arcanus_child_mouth1
+  rotate: true
+  xy: 492, 914
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+dragon_arcanus_baby_body
+  rotate: true
+  xy: 449, 731
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+dragon_arcanus_baby_eye2
+  rotate: false
+  xy: 455, 1206
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+dragon_arcanus_baby_mouth1
+  rotate: true
+  xy: 473, 1286
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1

@@ -3,380 +3,471 @@ format: RGBA4444
 filter: Linear,Linear
 repeat: none
 dragon_stone_child_leg2
-  rotate: true
-  xy: 63, 92
+  rotate: false
+  xy: 158, 1050
   size: 53, 63
   orig: 55, 65
   offset: 1, 1
   index: -1
 dragon_stone_baby_stone2
-  rotate: true
-  xy: 94, 517
+  rotate: false
+  xy: 215, 1796
   size: 30, 32
   orig: 32, 34
   offset: 1, 1
   index: -1
 dragon_stone_adult_stone7
-  rotate: false
-  xy: 97, 590
+  rotate: true
+  xy: 217, 1343
   size: 29, 37
   orig: 31, 39
   offset: 1, 1
   index: -1
 dragon_stone_adult_head1
-  rotate: false
-  xy: 2, 2
+  rotate: true
+  xy: 137, 1180
   size: 120, 88
   orig: 122, 96
   offset: 1, 1
   index: -1
 dragon_stone_baby_eye2
-  rotate: false
-  xy: 61, 796
+  rotate: true
+  xy: 213, 1055
   size: 65, 25
   orig: 67, 27
   offset: 1, 1
   index: -1
 dragon_stone_adult_leg2
   rotate: false
-  xy: 2, 952
+  xy: 189, 202
   size: 47, 72
   orig: 49, 74
   offset: 1, 1
   index: -1
 dragon_stone_baby_head2
   rotate: true
-  xy: 2, 701
+  xy: 205, 682
   size: 99, 49
   orig: 101, 51
   offset: 1, 1
   index: -1
 dragon_stone_adult_stone4
   rotate: false
-  xy: 120, 769
+  xy: 248, 363
   size: 6, 8
   orig: 8, 10
   offset: 1, 1
   index: -1
 dragon_stone_child_eye3
-  rotate: true
-  xy: 74, 578
+  rotate: false
+  xy: 234, 1424
   size: 20, 21
   orig: 20, 23
   offset: 0, 1
   index: -1
+dragon_stone_critical8
+  rotate: true
+  xy: 2, 2
+  size: 451, 106
+  orig: 453, 116
+  offset: 0, 10
+  index: -1
 dragon_stone_baby_head1
   rotate: true
-  xy: 2, 319
+  xy: 140, 1406
   size: 99, 72
   orig: 101, 74
   offset: 1, 1
   index: -1
 dragon_stone_adult_tail2
   rotate: false
-  xy: 90, 955
+  xy: 213, 1659
   size: 36, 36
   orig: 38, 38
   offset: 1, 1
   index: -1
 dragon_stone_adult_stone1
   rotate: false
-  xy: 82, 289
+  xy: 232, 1535
   size: 21, 28
   orig: 23, 30
   offset: 1, 1
   index: -1
 dragon_stone_adult_mouth
   rotate: true
-  xy: 2, 215
+  xy: 137, 1302
   size: 102, 78
   orig: 104, 80
   offset: 1, 1
   index: -1
 dragon_stone_baby_mouth
-  rotate: true
-  xy: 2, 520
+  rotate: false
+  xy: 158, 903
   size: 82, 70
   orig: 300, 300
   offset: 102, 114
   index: -1
 dragon_stone_baby_eye1
-  rotate: false
-  xy: 61, 823
+  rotate: true
+  xy: 227, 1175
   size: 65, 25
   orig: 67, 27
   offset: 1, 1
   index: -1
+dragon_stone_critical2
+  rotate: false
+  xy: 140, 1607
+  size: 71, 93
+  orig: 71, 93
+  offset: 0, 0
+  index: -1
 dragon_stone_adult_stone3
   rotate: false
-  xy: 111, 850
+  xy: 169, 860
   size: 8, 10
   orig: 10, 12
   offset: 1, 1
   index: -1
 dragon_stone_child_stone4
   rotate: false
-  xy: 104, 1024
+  xy: 210, 344
   size: 18, 18
   orig: 20, 20
   offset: 1, 1
   index: -1
 dragon_stone_adult_eye4
   rotate: true
-  xy: 82, 209
+  xy: 226, 975
   size: 78, 24
   orig: 80, 26
   offset: 1, 1
   index: -1
 dragon_stone_adult_tail1
-  rotate: false
-  xy: 79, 629
+  rotate: true
+  xy: 99, 1858
   size: 40, 39
   orig: 42, 41
   offset: 1, 1
   index: -1
+dragon_stone_critical11
+  rotate: false
+  xy: 110, 364
+  size: 136, 173
+  orig: 142, 239
+  offset: 0, 65
+  index: -1
 dragon_stone_adult_leaf
   rotate: false
-  xy: 74, 552
+  xy: 207, 1865
   size: 21, 24
   orig: 23, 26
   offset: 1, 1
   index: -1
 dragon_stone_adult_eye1
   rotate: true
-  xy: 74, 482
+  xy: 212, 1507
   size: 68, 18
   orig: 70, 20
   offset: 1, 1
   index: -1
 dragon_stone_adult_stone9
   rotate: false
-  xy: 94, 482
+  xy: 212, 1729
   size: 32, 33
   orig: 34, 35
   offset: 1, 1
   index: -1
 dragon_stone_baby_leg2
-  rotate: true
-  xy: 59, 674
+  rotate: false
+  xy: 227, 1242
   size: 25, 36
   orig: 27, 38
   offset: 1, 1
   index: -1
 dragon_stone_child_eye4
-  rotate: false
-  xy: 83, 1024
+  rotate: true
+  xy: 227, 1280
   size: 19, 26
   orig: 21, 28
   offset: 1, 1
   index: -1
+dragon_stone_critical5
+  rotate: true
+  xy: 140, 1797
+  size: 66, 73
+  orig: 66, 75
+  offset: 0, 1
+  index: -1
 dragon_stone_adult_leg4
   rotate: false
-  xy: 76, 319
+  xy: 189, 276
   size: 50, 66
   orig: 52, 68
   offset: 1, 1
   index: -1
 dragon_stone_child_eye1
   rotate: true
-  xy: 83, 1052
+  xy: 230, 344
   size: 17, 21
   orig: 19, 23
   offset: 1, 1
   index: -1
 dragon_stone_adult_eye3
-  rotate: true
-  xy: 108, 209
+  rotate: false
+  xy: 140, 1892
   size: 68, 18
   orig: 70, 20
   offset: 1, 1
   index: -1
 dragon_stone_adult_leg1
-  rotate: true
-  xy: 53, 701
+  rotate: false
+  xy: 158, 975
   size: 66, 73
   orig: 68, 75
   offset: 1, 1
   index: -1
-dragon_stone_adult_tail4
+dragon_stone_critical6
   rotate: false
-  xy: 79, 600
+  xy: 2, 1428
+  size: 136, 237
+  orig: 142, 239
+  offset: 0, 1
+  index: -1
+dragon_stone_adult_tail4
+  rotate: true
+  xy: 234, 1447
   size: 16, 20
   orig: 18, 22
   offset: 1, 1
   index: -1
 dragon_stone_adult_stone10
-  rotate: true
-  xy: 93, 886
+  rotate: false
+  xy: 215, 1577
   size: 39, 33
   orig: 41, 35
   offset: 1, 1
   index: -1
 dragon_love_effect_!
-  rotate: true
-  xy: 53, 933
+  rotate: false
+  xy: 234, 1374
   size: 20, 48
   orig: 26, 50
   offset: 3, 2
   index: -1
 dragon_stone_child_leg3
-  rotate: true
-  xy: 61, 850
+  rotate: false
+  xy: 169, 810
   size: 34, 48
   orig: 36, 50
   offset: 1, 1
   index: -1
 dragon_stone_baby_eye3
   rotate: false
-  xy: 53, 769
+  xy: 140, 1865
   size: 65, 25
   orig: 67, 27
   offset: 1, 1
   index: -1
 dragon_stone_baby_leg1
-  rotate: false
-  xy: 51, 996
+  rotate: true
+  xy: 213, 1697
   size: 30, 38
   orig: 32, 40
   offset: 1, 1
   index: -1
 dragon_stone_adult_leg3
   rotate: false
-  xy: 2, 879
+  xy: 205, 783
   size: 49, 71
   orig: 51, 73
   offset: 1, 1
   index: -1
 dragon_stone_adult_stone5
   rotate: true
-  xy: 76, 387
+  xy: 205, 856
   size: 45, 49
   orig: 47, 51
   offset: 1, 1
   index: -1
 dragon_stone_child_stone2
   rotate: false
-  xy: 53, 886
+  xy: 213, 1612
   size: 38, 45
   orig: 40, 47
   offset: 1, 1
   index: -1
-dragon_stone_child_head2
+dragon_stone_critical12
   rotate: true
-  xy: 2, 604
+  xy: 2, 872
+  size: 306, 154
+  orig: 314, 200
+  offset: 0, 27
+  index: -1
+dragon_stone_critical9
+  rotate: true
+  xy: 2, 1180
+  size: 246, 133
+  orig: 248, 135
+  offset: 1, 1
+  index: -1
+dragon_stone_child_head2
+  rotate: false
+  xy: 2, 1858
   size: 95, 55
   orig: 97, 57
   offset: 1, 1
   index: -1
 dragon_stone_adult_tail3
-  rotate: false
-  xy: 51, 1036
+  rotate: true
+  xy: 212, 1764
   size: 30, 34
   orig: 32, 36
   offset: 1, 1
   index: -1
 dragon_stone_adult_stone6
-  rotate: false
-  xy: 74, 434
+  rotate: true
+  xy: 207, 1122
   size: 51, 46
   orig: 53, 48
   offset: 1, 1
   index: -1
 dragon_stone_child_eye2
-  rotate: true
-  xy: 105, 300
+  rotate: false
+  xy: 210, 1891
   size: 17, 21
   orig: 19, 23
   offset: 1, 1
   index: -1
+dragon_stone_critical3
+  rotate: false
+  xy: 110, 539
+  size: 137, 141
+  orig: 139, 143
+  offset: 1, 1
+  index: -1
 dragon_stone_child_stone3
   rotate: false
-  xy: 103, 927
+  xy: 232, 1507
   size: 22, 26
   orig: 24, 28
   offset: 1, 1
   index: -1
 dragon_stone_child_head1
   rotate: true
-  xy: 2, 420
+  xy: 140, 1507
   size: 98, 70
   orig: 100, 72
   offset: 1, 1
   index: -1
 dragon_stone_child_leg1
   rotate: false
-  xy: 2, 1026
+  xy: 158, 1115
   size: 47, 57
   orig: 49, 59
   offset: 1, 1
   index: -1
+dragon_stone_critical1
+  rotate: false
+  xy: 110, 682
+  size: 93, 126
+  orig: 95, 126
+  offset: 2, 0
+  index: -1
 dragon_stone_adult_stone2
-  rotate: true
-  xy: 108, 279
+  rotate: false
+  xy: 189, 344
   size: 19, 18
   orig: 21, 20
   offset: 1, 1
   index: -1
 dragon_love_effect_anger
   rotate: false
-  xy: 83, 996
+  xy: 215, 1830
   size: 26, 26
   orig: 26, 26
   offset: 0, 0
   index: -1
+dragon_stone_critical10
+  rotate: false
+  xy: 2, 1667
+  size: 136, 189
+  orig: 142, 239
+  offset: 0, 50
+  index: -1
+dragon_stone_critical7
+  rotate: true
+  xy: 2, 455
+  size: 415, 106
+  orig: 453, 116
+  offset: 8, 10
+  index: -1
 dragon_stone_baby_stone1
   rotate: false
-  xy: 97, 670
+  xy: 214, 1476
   size: 25, 29
   orig: 27, 31
   offset: 1, 1
   index: -1
 dragon_stone_adult_tail5
-  rotate: true
-  xy: 51, 1072
+  rotate: false
+  xy: 242, 903
   size: 12, 23
   orig: 14, 25
   offset: 1, 1
   index: -1
 dragon_stone_adult_stone8
-  rotate: false
-  xy: 97, 549
+  rotate: true
+  xy: 158, 872
   size: 29, 39
   orig: 31, 41
   offset: 1, 1
   index: -1
 dragon_stone_adult_head2
   rotate: true
-  xy: 2, 92
+  xy: 189, 2
   size: 121, 59
   orig: 123, 61
   offset: 1, 1
   index: -1
+dragon_stone_critical4
+  rotate: true
+  xy: 140, 1702
+  size: 93, 70
+  orig: 95, 72
+  offset: 1, 2
+  index: -1
 dragon_stone_child_mouth
   rotate: true
-  xy: 2, 802
+  xy: 189, 125
   size: 75, 57
   orig: 77, 59
   offset: 1, 1
   index: -1
 dragon_stone_adult_eye2
   rotate: true
-  xy: 59, 604
+  xy: 214, 1406
   size: 68, 18
   orig: 70, 20
   offset: 1, 1
   index: -1
 dragon_love_effect_smile
   rotate: false
-  xy: 63, 147
+  xy: 110, 810
   size: 57, 60
   orig: 57, 60
   offset: 0, 0
   index: -1
 dragon_stone_child_stone1
   rotate: false
-  xy: 51, 955
+  xy: 217, 1302
   size: 37, 39
   orig: 39, 41
   offset: 1, 1
+  index: -1
+dragon_stone_critical13
+  rotate: true
+  xy: 110, 2
+  size: 360, 77
+  orig: 362, 107
+  offset: 0, 17
   index: -1

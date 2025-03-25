@@ -43,6 +43,19 @@
                 <key>sourceSize</key>
                 <string>{73,70}</string>
             </dict>
+            <key>dragon/dragon_4023/box_evolution.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{313,2},{69,70}}</string>
+                <key>offset</key>
+                <string>{2,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{4,0},{69,70}}</string>
+                <key>sourceSize</key>
+                <string>{73,70}</string>
+            </dict>
             <key>dragon/dragon_4023/egg.png</key>
             <dict>
                 <key>frame</key>
@@ -59,7 +72,7 @@
             <key>dragon/dragon_4023/egg_small.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{313,2},{51,59}}</string>
+                <string>{{384,2},{51,59}}</string>
                 <key>offset</key>
                 <string>{-1,2}</string>
                 <key>rotated</key>
@@ -77,9 +90,9 @@
             <key>realTextureFileName</key>
             <string>dragon_4023.pvr.ccz</string>
             <key>size</key>
-            <string>{366,87}</string>
+            <string>{437,87}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:ee9b038535f528aa9f4078963b1b458d:c6168344a8bf8101e850d483443ec77b:6d86ffa123af41793598a0b52af16a87$</string>
+            <string>$TexturePacker:SmartUpdate:3799a4a716ddcb88fabd12d704dad42a:a11509332dbf8a095098cb319d92d6ef:6d86ffa123af41793598a0b52af16a87$</string>
             <key>textureFileName</key>
             <string>dragon_4023.pvr.ccz</string>
         </dict>

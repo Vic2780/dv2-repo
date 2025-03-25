@@ -1,0 +1,382 @@
+dragon_4042_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_goldenhoney_adult_wing
+  rotate: false
+  xy: 842, 388
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_child_neck
+  rotate: false
+  xy: 819, 2
+  size: 36, 68
+  orig: 36, 68
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_critical_a03
+  rotate: true
+  xy: 466, 2
+  size: 199, 194
+  orig: 287, 288
+  offset: 42, 93
+  index: -1
+dragon_goldenhoney_child_love
+  rotate: false
+  xy: 658, 448
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_baby_leg
+  rotate: false
+  xy: 668, 202
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_critical_b06
+  rotate: true
+  xy: 945, 272
+  size: 61, 60
+  orig: 263, 256
+  offset: 94, 77
+  index: -1
+dragon_goldenhoney_baby_love
+  rotate: true
+  xy: 958, 193
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_critical_b01
+  rotate: true
+  xy: 2, 2
+  size: 263, 256
+  orig: 263, 256
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_baby_eye
+  rotate: true
+  xy: 642, 203
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_child_body
+  rotate: false
+  xy: 786, 447
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_baby_arm
+  rotate: false
+  xy: 332, 461
+  size: 28, 32
+  orig: 42, 32
+  offset: 14, 0
+  index: -1
+dragon_goldenhoney_child_mouth
+  rotate: false
+  xy: 605, 203
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_adult_love
+  rotate: false
+  xy: 265, 461
+  size: 65, 40
+  orig: 65, 40
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_adult_head
+  rotate: false
+  xy: 662, 160
+  size: 65, 40
+  orig: 65, 40
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_critical_b07
+  rotate: false
+  xy: 260, 233
+  size: 105, 32
+  orig: 263, 256
+  offset: 72, 86
+  index: -1
+dragon_goldenhoney_child_eye
+  rotate: false
+  xy: 699, 202
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_critical_a06
+  rotate: false
+  xy: 662, 2
+  size: 155, 156
+  orig: 287, 288
+  offset: 66, 67
+  index: -1
+dragon_goldenhoney_adult_arm2
+  rotate: true
+  xy: 971, 335
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_critical_a01
+  rotate: false
+  xy: 2, 267
+  size: 261, 232
+  orig: 287, 288
+  offset: 26, 56
+  index: -1
+dragon_goldenhoney_adult_note2
+  rotate: true
+  xy: 819, 120
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_adult_leg4
+  rotate: false
+  xy: 466, 203
+  size: 50, 28
+  orig: 50, 28
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_adult_attack
+  rotate: false
+  xy: 796, 160
+  size: 65, 40
+  orig: 65, 40
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_critical_b04
+  rotate: false
+  xy: 265, 377
+  size: 95, 82
+  orig: 263, 256
+  offset: 80, 83
+  index: -1
+dragon_goldenhoney_child_tail
+  rotate: false
+  xy: 877, 202
+  size: 79, 68
+  orig: 79, 68
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_adult_damaged
+  rotate: false
+  xy: 729, 160
+  size: 65, 40
+  orig: 65, 40
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_baby_tail
+  rotate: false
+  xy: 819, 72
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_adult_tail
+  rotate: true
+  xy: 265, 267
+  size: 108, 98
+  orig: 108, 98
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_adult_note1
+  rotate: true
+  xy: 963, 434
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_goldenhoney_adult_eye
+  rotate: false
+  xy: 332, 495
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_child_heart
+  rotate: false
+  xy: 877, 347
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_critical_b05
+  rotate: false
+  xy: 863, 144
+  size: 59, 56
+  orig: 263, 256
+  offset: 96, 84
+  index: -1
+dragon_goldenhoney_adult_arm1
+  rotate: false
+  xy: 877, 272
+  size: 66, 73
+  orig: 66, 73
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_child_wing
+  rotate: false
+  xy: 963, 466
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_critical_a04
+  rotate: false
+  xy: 748, 202
+  size: 127, 184
+  orig: 287, 288
+  offset: 76, 95
+  index: -1
+dragon_goldenhoney_adult_leg2
+  rotate: false
+  xy: 518, 203
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_adult_mouth
+  rotate: false
+  xy: 567, 203
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_critical_b02
+  rotate: true
+  xy: 260, 2
+  size: 229, 204
+  orig: 263, 256
+  offset: 22, 29
+  index: -1
+dragon_goldenhoney_child_arm
+  rotate: true
+  xy: 853, 446
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_child_leg2
+  rotate: false
+  xy: 972, 144
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_baby_heart
+  rotate: false
+  xy: 877, 347
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_baby_body
+  rotate: false
+  xy: 925, 347
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_adult_body
+  rotate: false
+  xy: 576, 448
+  size: 80, 54
+  orig: 80, 54
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_baby_head
+  rotate: false
+  xy: 902, 437
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_child_leg1
+  rotate: true
+  xy: 939, 387
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_critical_a05
+  rotate: false
+  xy: 575, 228
+  size: 171, 218
+  orig: 287, 288
+  offset: 56, 61
+  index: -1
+dragon_goldenhoney_child_head
+  rotate: false
+  xy: 722, 448
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_critical_b08
+  rotate: false
+  xy: 469, 460
+  size: 105, 34
+  orig: 263, 256
+  offset: 74, 88
+  index: -1
+dragon_goldenhoney_adult_neck
+  rotate: true
+  xy: 748, 388
+  size: 57, 92
+  orig: 57, 92
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_adult_leg3
+  rotate: false
+  xy: 899, 388
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_critical_b03
+  rotate: false
+  xy: 863, 2
+  size: 159, 140
+  orig: 263, 256
+  offset: 57, 61
+  index: -1
+dragon_goldenhoney_baby_mouth
+  rotate: true
+  xy: 720, 202
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_critical_a02
+  rotate: true
+  xy: 367, 233
+  size: 225, 206
+  orig: 287, 288
+  offset: 32, 80
+  index: -1
+dragon_goldenhoney_adult_leg1
+  rotate: true
+  xy: 924, 144
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+dragon_goldenhoney_critical_b09
+  rotate: false
+  xy: 362, 460
+  size: 105, 34
+  orig: 263, 256
+  offset: 74, 88
+  index: -1

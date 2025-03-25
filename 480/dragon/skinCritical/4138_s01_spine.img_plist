@@ -1,0 +1,124 @@
+4138_s01_spine.pvr.ccz
+size: 676, 2009
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_rookir_critical_back
+  rotate: true
+  xy: 338, 1509
+  size: 318, 334
+  orig: 319, 334
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_c1
+  rotate: true
+  xy: 1, 1942
+  size: 66, 188
+  orig: 66, 188
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_c2
+  rotate: true
+  xy: 422, 649
+  size: 99, 242
+  orig: 99, 242
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_c3
+  rotate: true
+  xy: 311, 1829
+  size: 122, 270
+  orig: 128, 270
+  offset: 6, 0
+  index: -1
+dragon_rookir_critical_c4
+  rotate: true
+  xy: 1, 1748
+  size: 192, 308
+  orig: 192, 308
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_c5
+  rotate: false
+  xy: 448, 346
+  size: 195, 301
+  orig: 200, 309
+  offset: 5, 0
+  index: -1
+dragon_rookir_critical_c6
+  rotate: false
+  xy: 419, 1087
+  size: 232, 332
+  orig: 232, 332
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_c7
+  rotate: false
+  xy: 419, 750
+  size: 256, 335
+  orig: 256, 335
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_c8
+  rotate: true
+  xy: 1, 1476
+  size: 270, 335
+  orig: 270, 335
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_one1
+  rotate: true
+  xy: 448, 276
+  size: 68, 223
+  orig: 68, 223
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_one2
+  rotate: true
+  xy: 371, 1421
+  size: 86, 302
+  orig: 86, 302
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_one3
+  rotate: true
+  xy: 1, 1385
+  size: 89, 368
+  orig: 89, 368
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_yy1
+  rotate: true
+  xy: 448, 1
+  size: 273, 224
+  orig: 273, 224
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_yy2
+  rotate: false
+  xy: 1, 1115
+  size: 391, 268
+  orig: 391, 268
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_yy3
+  rotate: false
+  xy: 1, 392
+  size: 419, 345
+  orig: 449, 345
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_yy4
+  rotate: false
+  xy: 1, 739
+  size: 416, 374
+  orig: 417, 374
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_yy5
+  rotate: false
+  xy: 1, 1
+  size: 445, 389
+  orig: 446, 389
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1145 @@
+dragon_4149_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+karna_adult_atteye
+  rotate: true
+  xy: 2035, 382
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+karna_adult_l_armarmor
+  rotate: true
+  xy: 295, 795
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+karna_child_eye
+  rotate: false
+  xy: 2022, 781
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+karna_adult_l_legirons
+  rotate: false
+  xy: 1947, 818
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+karna_child_l_legirons
+  rotate: false
+  xy: 382, 820
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+karna_child_haed
+  rotate: false
+  xy: 1519, 702
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+karna_baby_mouth
+  rotate: true
+  xy: 1743, 757
+  size: 35, 15
+  orig: 35, 15
+  offset: 0, 0
+  index: -1
+karna_adult_l_legirons2
+  rotate: false
+  xy: 1751, 806
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+karna_adult_l_legirons4
+  rotate: false
+  xy: 1115, 562
+  size: 39, 14
+  orig: 39, 14
+  offset: 0, 0
+  index: -1
+karna_adult_l_legirons3
+  rotate: true
+  xy: 1648, 810
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+karna_child_r_arm1
+  rotate: true
+  xy: 338, 795
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+karna_child_r_arm4
+  rotate: false
+  xy: 2009, 793
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+karna_baby_haed_love
+  rotate: true
+  xy: 1501, 788
+  size: 25, 16
+  orig: 29, 18
+  offset: 2, 1
+  index: -1
+karna_child_r_arm2
+  rotate: false
+  xy: 539, 807
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+karna_child_r_arm3
+  rotate: true
+  xy: 2022, 762
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+dragon_karna_critical_e6
+  rotate: true
+  xy: 1256, 256
+  size: 146, 381
+  orig: 146, 381
+  offset: 0, 0
+  index: -1
+karna_child_r_wing_light
+  rotate: true
+  xy: 1234, 492
+  size: 34, 20
+  orig: 68, 74
+  offset: 0, 54
+  index: -1
+dragon_karna_critical_e7
+  rotate: true
+  xy: 860, 414
+  size: 146, 372
+  orig: 146, 372
+  offset: 0, 0
+  index: -1
+dragon_karna_critical_e8
+  rotate: true
+  xy: 424, 530
+  size: 146, 356
+  orig: 146, 356
+  offset: 0, 0
+  index: -1
+karna_adult_l_arm_light_a2
+  rotate: true
+  xy: 1586, 757
+  size: 49, 51
+  orig: 51, 53
+  offset: 1, 2
+  index: -1
+karna_adult_l_arm_light_a3
+  rotate: true
+  xy: 1937, 672
+  size: 51, 54
+  orig: 53, 56
+  offset: 1, 1
+  index: -1
+karna_adult_l_arm_light_a4
+  rotate: true
+  xy: 1519, 769
+  size: 48, 57
+  orig: 50, 59
+  offset: 1, 1
+  index: -1
+karna_adult_neck
+  rotate: false
+  xy: 1189, 744
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+karna_adult_l_arm_light_a5
+  rotate: true
+  xy: 2004, 409
+  size: 42, 39
+  orig: 44, 41
+  offset: 1, 1
+  index: -1
+karna_adult_body_light_a4
+  rotate: false
+  xy: 919, 738
+  size: 75, 72
+  orig: 77, 74
+  offset: 1, 1
+  index: -1
+karna_adult_body_light_a2
+  rotate: true
+  xy: 1977, 49
+  size: 71, 64
+  orig: 73, 66
+  offset: 1, 1
+  index: -1
+karna_adult_mouth
+  rotate: true
+  xy: 587, 807
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+karna_adult_l_arm_light_a1
+  rotate: false
+  xy: 1692, 757
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+karna_adult_body_light_a5
+  rotate: true
+  xy: 1323, 744
+  size: 62, 63
+  orig: 64, 65
+  offset: 1, 1
+  index: -1
+karna_adult_body_light_a3
+  rotate: false
+  xy: 1113, 744
+  size: 74, 67
+  orig: 76, 69
+  offset: 1, 1
+  index: -1
+karna_adult_tail1
+  rotate: false
+  xy: 1977, 122
+  size: 63, 70
+  orig: 65, 72
+  offset: 0, 2
+  index: -1
+karna_adult_body_light_a1
+  rotate: false
+  xy: 1977, 2
+  size: 66, 45
+  orig: 68, 47
+  offset: 1, 1
+  index: -1
+karna_child_r_leg1
+  rotate: false
+  xy: 1234, 414
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+karna_child_neck
+  rotate: false
+  xy: 1912, 737
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+karna_child_r_leg4
+  rotate: false
+  xy: 843, 810
+  size: 23, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+karna_adult_tail2
+  rotate: true
+  xy: 1983, 236
+  size: 69, 55
+  orig: 69, 55
+  offset: 0, 0
+  index: -1
+karna_adult_tail3
+  rotate: false
+  xy: 782, 530
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+karna_child_r_leg2
+  rotate: true
+  xy: 1035, 812
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1
+karna_child_r_leg3
+  rotate: true
+  xy: 1189, 562
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+karna_adult_r_wing
+  rotate: true
+  xy: 669, 678
+  size: 127, 76
+  orig: 127, 76
+  offset: 0, 0
+  index: -1
+karna_child_tai2
+  rotate: false
+  xy: 419, 807
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+karna_child_mouthamor
+  rotate: false
+  xy: 1578, 808
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+karna_adult_r_wing_light
+  rotate: false
+  xy: 1112, 813
+  size: 42, 19
+  orig: 44, 21
+  offset: 1, 1
+  index: -1
+karna_adult_head
+  rotate: false
+  xy: 996, 738
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+karna_baby_r_wingamor
+  rotate: true
+  xy: 1912, 826
+  size: 7, 23
+  orig: 7, 23
+  offset: 0, 0
+  index: -1
+karna_baby_l_legirons2
+  rotate: false
+  xy: 860, 403
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+karna_adult_damagedeye
+  rotate: false
+  xy: 1371, 827
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+karna_child_r_wingamor2
+  rotate: true
+  xy: 1425, 702
+  size: 84, 92
+  orig: 84, 92
+  offset: 0, 0
+  index: -1
+karna_baby_body
+  rotate: true
+  xy: 1069, 738
+  size: 53, 42
+  orig: 53, 54
+  offset: 0, 12
+  index: -1
+karna_child_r_wingamor3
+  rotate: false
+  xy: 1924, 691
+  size: 11, 44
+  orig: 15, 48
+  offset: 4, 2
+  index: -1
+karna_child_l_wingamor2
+  rotate: true
+  xy: 747, 738
+  size: 69, 88
+  orig: 69, 88
+  offset: 0, 0
+  index: -1
+karna_baby_head
+  rotate: true
+  xy: 1983, 307
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1
+karna_baby_r_arm_light_a1
+  rotate: true
+  xy: 1350, 808
+  size: 25, 19
+  orig: 27, 19
+  offset: 1, 0
+  index: -1
+karna_baby_r_arm_light_a4
+  rotate: false
+  xy: 747, 716
+  size: 31, 20
+  orig: 33, 22
+  offset: 1, 1
+  index: -1
+karna_baby_eye
+  rotate: false
+  xy: 2013, 639
+  size: 30, 33
+  orig: 36, 35
+  offset: 3, 0
+  index: -1
+karna_baby_l_arm1
+  rotate: true
+  xy: 382, 795
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+karna_baby_r_arm_light_a5
+  rotate: false
+  xy: 926, 812
+  size: 30, 21
+  orig: 32, 23
+  offset: 1, 1
+  index: -1
+karna_child_l_arm1
+  rotate: true
+  xy: 1256, 808
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+karna_baby_r_arm_light_a2
+  rotate: true
+  xy: 1712, 806
+  size: 27, 18
+  orig: 29, 20
+  offset: 1, 2
+  index: -1
+karna_child_loveeye
+  rotate: false
+  xy: 1937, 725
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+karna_baby_r_arm_light_a3
+  rotate: false
+  xy: 1947, 794
+  size: 29, 22
+  orig: 31, 24
+  offset: 1, 1
+  index: -1
+karna_baby_l_arm2
+  rotate: false
+  xy: 1743, 794
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+karna_adult_r_wingarmor2
+  rotate: true
+  xy: 244, 823
+  size: 10, 49
+  orig: 10, 49
+  offset: 0, 0
+  index: -1
+karna_child_l_arm4
+  rotate: false
+  xy: 1219, 809
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+karna_child_l_arm2
+  rotate: false
+  xy: 482, 807
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+karna_child_l_arm3
+  rotate: false
+  xy: 1628, 810
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+karna_baby_tail
+  rotate: false
+  xy: 738, 810
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+dragon_karna_critical_a1
+  rotate: false
+  xy: 868, 257
+  size: 386, 155
+  orig: 386, 155
+  offset: 0, 0
+  index: -1
+dragon_karna_critical_a2
+  rotate: false
+  xy: 465, 240
+  size: 401, 161
+  orig: 401, 161
+  offset: 0, 0
+  index: -1
+dragon_karna_critical_a3
+  rotate: false
+  xy: 2, 570
+  size: 415, 223
+  orig: 415, 223
+  offset: 0, 0
+  index: -1
+karna_baby_headamor
+  rotate: false
+  xy: 1156, 562
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+karna_adult_l_wing
+  rotate: false
+  xy: 1425, 578
+  size: 160, 122
+  orig: 160, 122
+  offset: 0, 0
+  index: -1
+dragon_karna_critical_a4
+  rotate: false
+  xy: 465, 2
+  size: 404, 236
+  orig: 404, 236
+  offset: 0, 0
+  index: -1
+dragon_karna_critical_a5
+  rotate: false
+  xy: 871, 2
+  size: 376, 253
+  orig: 376, 253
+  offset: 0, 0
+  index: -1
+karna_baby_l_leg1
+  rotate: false
+  xy: 1692, 806
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+karna_child_l_leg1
+  rotate: false
+  xy: 1234, 453
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+karna_baby_l_leg2
+  rotate: false
+  xy: 1607, 808
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+karna_child_l_leg4
+  rotate: false
+  xy: 989, 812
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+karna_baby_l_wing
+  rotate: false
+  xy: 1978, 794
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+karna_baby_l_arm_light_a1
+  rotate: true
+  xy: 2023, 726
+  size: 34, 19
+  orig: 36, 21
+  offset: 1, 1
+  index: -1
+karna_child_mouth
+  rotate: false
+  xy: 1981, 818
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+dragon_karna_critical_b1
+  rotate: false
+  xy: 1622, 2
+  size: 353, 221
+  orig: 353, 221
+  offset: 0, 0
+  index: -1
+karna_child_l_leg2
+  rotate: false
+  xy: 1622, 225
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+dragon_karna_critical_b2
+  rotate: false
+  xy: 2, 271
+  size: 420, 297
+  orig: 420, 297
+  offset: 0, 0
+  index: -1
+karna_child_l_leg3
+  rotate: false
+  xy: 1732, 806
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+karna_baby_l_arm_light_a4
+  rotate: false
+  xy: 1961, 763
+  size: 29, 29
+  orig: 31, 31
+  offset: 1, 1
+  index: -1
+dragon_karna_critical_b3
+  rotate: false
+  xy: 2, 2
+  size: 461, 267
+  orig: 461, 267
+  offset: 0, 0
+  index: -1
+karna_baby_l_arm_light_a5
+  rotate: true
+  xy: 1992, 760
+  size: 31, 28
+  orig: 33, 30
+  offset: 1, 1
+  index: -1
+karna_child_tail1
+  rotate: false
+  xy: 1912, 792
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+karna_baby_l_arm_light_a2
+  rotate: true
+  xy: 1234, 528
+  size: 34, 19
+  orig: 36, 21
+  offset: 1, 1
+  index: -1
+karna_baby_l_arm_light_a3
+  rotate: false
+  xy: 700, 807
+  size: 36, 21
+  orig: 38, 23
+  offset: 1, 1
+  index: -1
+karna_adult_hair
+  rotate: false
+  xy: 822, 530
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+karna_adult_r_arm1
+  rotate: true
+  xy: 186, 795
+  size: 27, 56
+  orig: 27, 56
+  offset: 0, 0
+  index: -1
+karna_child_tail3
+  rotate: false
+  xy: 868, 810
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+karna_adult_r_arm4
+  rotate: false
+  xy: 424, 366
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+karna_adult_r_arm2
+  rotate: false
+  xy: 1991, 726
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+karna_adult_r_arm3
+  rotate: false
+  xy: 1012, 812
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+dragon_karna_critical_c1
+  rotate: true
+  xy: 1639, 225
+  size: 182, 342
+  orig: 182, 342
+  offset: 0, 0
+  index: -1
+dragon_karna_critical_c2
+  rotate: true
+  xy: 1115, 578
+  size: 164, 308
+  orig: 164, 308
+  offset: 0, 0
+  index: -1
+dragon_karna_critical_c3
+  rotate: true
+  xy: 419, 678
+  size: 127, 248
+  orig: 127, 248
+  offset: 0, 0
+  index: -1
+dragon_karna_critical_c4
+  rotate: false
+  xy: 1761, 583
+  size: 100, 149
+  orig: 100, 149
+  offset: 0, 0
+  index: -1
+dragon_karna_critical_c5
+  rotate: true
+  xy: 1761, 734
+  size: 99, 149
+  orig: 99, 149
+  offset: 0, 0
+  index: -1
+dragon_karna_child_hearttt
+  rotate: true
+  xy: 424, 271
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+karna_baby_headhair
+  rotate: true
+  xy: 125, 824
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+karna_baby_r_arm1
+  rotate: true
+  xy: 776, 809
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+karna_adult_r_armarmor
+  rotate: true
+  xy: 1220, 564
+  size: 12, 31
+  orig: 12, 31
+  offset: 0, 0
+  index: -1
+dragon_karna_critical_d1
+  rotate: true
+  xy: 782, 562
+  size: 174, 331
+  orig: 174, 331
+  offset: 0, 0
+  index: -1
+karna_baby_r_arm2
+  rotate: true
+  xy: 1501, 815
+  size: 18, 12
+  orig: 18, 14
+  offset: 0, 2
+  index: -1
+dragon_karna_critical_d4
+  rotate: true
+  xy: 1589, 409
+  size: 172, 331
+  orig: 172, 331
+  offset: 0, 0
+  index: -1
+dragon_karna_critical_d5
+  rotate: true
+  xy: 1256, 404
+  size: 172, 331
+  orig: 172, 331
+  offset: 0, 0
+  index: -1
+dragon_love_effect_anger
+  rotate: false
+  xy: 511, 807
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+karna_adult_eye
+  rotate: true
+  xy: 2035, 371
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+karna_adult_moutharmor
+  rotate: true
+  xy: 1324, 808
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+karna_adult_r_arm_light_a2
+  rotate: true
+  xy: 1473, 788
+  size: 45, 26
+  orig: 47, 28
+  offset: 1, 1
+  index: -1
+karna_adult_r_leg1
+  rotate: true
+  xy: 244, 795
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+karna_child_haed_love
+  rotate: false
+  xy: 1189, 809
+  size: 28, 17
+  orig: 32, 21
+  offset: 2, 2
+  index: -1
+karna_adult_r_arm_light_a3
+  rotate: false
+  xy: 1983, 371
+  size: 50, 36
+  orig: 52, 38
+  offset: 1, 1
+  index: -1
+dragon_karna_baby_hearttt
+  rotate: true
+  xy: 424, 271
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+karna_adult_r_arm_light_a4
+  rotate: true
+  xy: 2004, 453
+  size: 56, 37
+  orig: 58, 39
+  offset: 1, 1
+  index: -1
+karna_adult_r_arm_light_a5
+  rotate: false
+  xy: 1983, 194
+  size: 60, 40
+  orig: 62, 42
+  offset: 1, 1
+  index: -1
+karna_baby_r_leg1
+  rotate: true
+  xy: 2004, 511
+  size: 54, 34
+  orig: 62, 48
+  offset: 7, 8
+  index: -1
+karna_adult_r_leg4
+  rotate: false
+  xy: 958, 812
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+karna_adult_r_leg2
+  rotate: false
+  xy: 1388, 804
+  size: 30, 29
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+karna_adult_r_arm_light_a1
+  rotate: false
+  xy: 608, 807
+  size: 44, 21
+  orig: 46, 23
+  offset: 1, 2
+  index: -1
+karna_adult_r_leg3
+  rotate: false
+  xy: 1961, 725
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+karna_baby_r_leg2
+  rotate: false
+  xy: 1371, 808
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+karna_child_body
+  rotate: true
+  xy: 1937, 577
+  size: 93, 74
+  orig: 101, 82
+  offset: 0, 0
+  index: -1
+karna_child_r_arm_light_a4
+  rotate: false
+  xy: 2, 795
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+karna_child_r_arm_light_a5
+  rotate: false
+  xy: 1983, 194
+  size: 60, 40
+  orig: 62, 42
+  offset: 1, 1
+  index: -1
+karna_child_r_arm_light_a2
+  rotate: true
+  xy: 1473, 788
+  size: 45, 26
+  orig: 47, 28
+  offset: 1, 1
+  index: -1
+karna_child_r_arm_light_a3
+  rotate: false
+  xy: 1983, 371
+  size: 50, 36
+  orig: 52, 38
+  offset: 1, 1
+  index: -1
+karna_child_r_arm_light_a1
+  rotate: false
+  xy: 608, 807
+  size: 44, 21
+  orig: 46, 23
+  offset: 1, 2
+  index: -1
+karna_adult_l_wingarmor
+  rotate: false
+  xy: 1587, 583
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+karna_baby_r_wing
+  rotate: false
+  xy: 1298, 808
+  size: 24, 25
+  orig: 68, 25
+  offset: 0, 0
+  index: -1
+karna_child_r_wing
+  rotate: false
+  xy: 837, 738
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+karna_child_l_wing_light
+  rotate: false
+  xy: 1156, 813
+  size: 30, 19
+  orig: 32, 21
+  offset: 1, 1
+  index: -1
+karna_adult_body
+  rotate: true
+  xy: 1863, 583
+  size: 106, 72
+  orig: 106, 72
+  offset: 0, 0
+  index: -1
+karna_child_l_legirons2
+  rotate: false
+  xy: 1578, 769
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+dragon_karna_critical_fx2
+  rotate: false
+  xy: 424, 403
+  size: 434, 125
+  orig: 434, 125
+  offset: 0, 0
+  index: -1
+karna_child_l_legirons4
+  rotate: false
+  xy: 2013, 817
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+karna_child_l_legirons3
+  rotate: true
+  xy: 1922, 577
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+dragon_karna_critical_fx3
+  rotate: false
+  xy: 1249, 2
+  size: 371, 252
+  orig: 371, 252
+  offset: 0, 0
+  index: -1
+karna_adult_l_arm2
+  rotate: false
+  xy: 2013, 567
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+karna_adult_l_arm1
+  rotate: true
+  xy: 61, 795
+  size: 32, 62
+  orig: 32, 62
+  offset: 0, 0
+  index: -1
+karna_adult_l_arm4
+  rotate: true
+  xy: 747, 678
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+karna_adult_l_arm3
+  rotate: false
+  xy: 564, 807
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+karna_child_l_arm_light_a4
+  rotate: false
+  xy: 1993, 674
+  size: 50, 50
+  orig: 52, 50
+  offset: 1, 0
+  index: -1
+karna_child_l_arm_light_a5
+  rotate: true
+  xy: 424, 319
+  size: 45, 39
+  orig: 47, 41
+  offset: 1, 1
+  index: -1
+karna_child_l_arm_light_a2
+  rotate: true
+  xy: 1425, 788
+  size: 45, 46
+  orig: 47, 48
+  offset: 1, 1
+  index: -1
+karna_child_l_arm_light_a3
+  rotate: false
+  xy: 1639, 757
+  size: 51, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1
+karna_adult_l_wing_light
+  rotate: false
+  xy: 125, 795
+  size: 59, 27
+  orig: 63, 29
+  offset: 3, 1
+  index: -1
+karna_child_l_arm_light_a1
+  rotate: false
+  xy: 1069, 793
+  size: 41, 40
+  orig: 43, 42
+  offset: 1, 1
+  index: -1
+karna_adult_r_wingarmor
+  rotate: true
+  xy: 1922, 409
+  size: 166, 80
+  orig: 166, 82
+  offset: 0, 2
+  index: -1
+karna_baby_l_legirons
+  rotate: false
+  xy: 1622, 244
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+karna_child_bodyamor
+  rotate: false
+  xy: 814, 810
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+karna_baby_loveeye
+  rotate: false
+  xy: 2013, 604
+  size: 30, 33
+  orig: 36, 35
+  offset: 3, 0
+  index: -1
+karna_adult_l_leg2
+  rotate: true
+  xy: 891, 812
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+karna_adult_l_leg1
+  rotate: false
+  xy: 1388, 744
+  size: 35, 58
+  orig: 35, 58
+  offset: 0, 0
+  index: -1
+karna_adult_l_leg4
+  rotate: false
+  xy: 452, 807
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+karna_adult_loveeye
+  rotate: true
+  xy: 1751, 819
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+karna_adult_antler
+  rotate: true
+  xy: 1863, 691
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+karna_adult_l_leg3
+  rotate: true
+  xy: 654, 807
+  size: 17, 44
+  orig: 17, 44
+  offset: 0, 0
+  index: -1
+karna_child_l_wing
+  rotate: true
+  xy: 1256, 744
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1

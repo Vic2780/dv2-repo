@@ -1,0 +1,711 @@
+dragon_4126_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_orguss_adult_l_arm1
+  rotate: true
+  xy: 279, 341
+  size: 65, 70
+  orig: 65, 70
+  offset: 0, 0
+  index: -1
+dragon_orguss_child_rs_hand
+  rotate: false
+  xy: 258, 1848
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+dragon_orguss_baby_ls_arm2
+  rotate: false
+  xy: 269, 1555
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+dragon_orguss_baby_eye3
+  rotate: true
+  xy: 268, 1603
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+dragon_orguss_critical_we
+  rotate: true
+  xy: 2, 1863
+  size: 174, 41
+  orig: 200, 53
+  offset: 14, 6
+  index: -1
+dragon_orguss_baby_hon
+  rotate: true
+  xy: 336, 958
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+dragon_orguss_child_neck
+  rotate: false
+  xy: 279, 408
+  size: 69, 56
+  orig: 69, 56
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_eye3
+  rotate: false
+  xy: 336, 984
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_r_reg1
+  rotate: false
+  xy: 248, 1024
+  size: 74, 72
+  orig: 74, 72
+  offset: 0, 0
+  index: -1
+dragon_orguss_baby_mou
+  rotate: false
+  xy: 207, 1726
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_ls_arm2
+  rotate: false
+  xy: 291, 1540
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_rs_arm2
+  rotate: false
+  xy: 207, 1770
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+dragon_orguss_child_ls_arm2
+  rotate: false
+  xy: 270, 2008
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+dragon_orguss_baby_l_foot
+  rotate: false
+  xy: 2, 1822
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_rs_handt
+  rotate: true
+  xy: 312, 1241
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+dragon_orguss_child_rs_arm2
+  rotate: false
+  xy: 239, 2008
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+dragon_orguss_child_r_reg1
+  rotate: true
+  xy: 167, 1822
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+dragon_orguss_critical_smo3
+  rotate: false
+  xy: 2, 331
+  size: 275, 157
+  orig: 319, 333
+  offset: 22, 18
+  index: -1
+dragon_orguss_child_eye3
+  rotate: false
+  xy: 45, 2019
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+dragon_orguss_child_r_arm1
+  rotate: true
+  xy: 258, 1818
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_l_reg1
+  rotate: true
+  xy: 268, 600
+  size: 74, 80
+  orig: 74, 80
+  offset: 0, 0
+  index: -1
+dragon_orguss_baby_eye2
+  rotate: true
+  xy: 268, 1626
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+dragon_orguss_critical_h3
+  rotate: true
+  xy: 2, 1501
+  size: 172, 210
+  orig: 174, 212
+  offset: 1, 1
+  index: -1
+dragon_orguss_adult_r_arm2
+  rotate: false
+  xy: 214, 1502
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_r_hand1
+  rotate: false
+  xy: 214, 1580
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+dragon_orguss_critical_smile
+  rotate: true
+  xy: 289, 132
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_r_foot
+  rotate: true
+  xy: 291, 1494
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+dragon_orguss_critical_smo2
+  rotate: false
+  xy: 2, 1192
+  size: 235, 119
+  orig: 319, 333
+  offset: 42, 18
+  index: -1
+dragon_orguss_baby_neck
+  rotate: false
+  xy: 232, 1429
+  size: 59, 22
+  orig: 59, 22
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_eye4
+  rotate: false
+  xy: 336, 971
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_r_handt
+  rotate: true
+  xy: 290, 1842
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+dragon_orguss_child_mout
+  rotate: true
+  xy: 324, 1096
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+dragon_orguss_baby_r_arm1
+  rotate: false
+  xy: 269, 1530
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+dragon_orguss_child_ls_arm1
+  rotate: false
+  xy: 323, 1164
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_l_arm2
+  rotate: true
+  xy: 294, 1396
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+dragon_orguss_critical_h2
+  rotate: true
+  xy: 45, 1863
+  size: 154, 192
+  orig: 156, 194
+  offset: 1, 1
+  index: -1
+dragon_orguss_adult_l_foot
+  rotate: true
+  xy: 290, 1793
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_r_reg2
+  rotate: false
+  xy: 248, 1098
+  size: 73, 42
+  orig: 73, 42
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_ls_arm1
+  rotate: false
+  xy: 289, 1879
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_head
+  rotate: true
+  xy: 207, 1677
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+dragon_orguss_baby_body
+  rotate: false
+  xy: 232, 1330
+  size: 61, 55
+  orig: 61, 55
+  offset: 0, 0
+  index: -1
+dragon_orguss_critical_d3
+  rotate: false
+  xy: 2, 490
+  size: 264, 232
+  orig: 272, 232
+  offset: 4, 0
+  index: -1
+dragon_orguss_child_r_tail
+  rotate: false
+  xy: 232, 1387
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+dragon_orguss_child_mou
+  rotate: false
+  xy: 214, 1545
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+dragon_orguss_critical_smo1
+  rotate: true
+  xy: 256, 741
+  size: 215, 87
+  orig: 319, 333
+  offset: 52, 18
+  index: -1
+dragon_orguss_critical_ffa2
+  rotate: false
+  xy: 2, 2
+  size: 313, 98
+  orig: 313, 98
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_ls_hand
+  rotate: false
+  xy: 293, 1448
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_r_foot2
+  rotate: false
+  xy: 248, 1186
+  size: 71, 42
+  orig: 71, 42
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_l_reg2
+  rotate: false
+  xy: 248, 1142
+  size: 73, 42
+  orig: 73, 42
+  offset: 0, 0
+  index: -1
+dragon_orguss_child_ra_arm1
+  rotate: false
+  xy: 267, 1649
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+dragon_orguss_child_l_reg1
+  rotate: true
+  xy: 304, 1284
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+dragon_orguss_critical_eff1
+  rotate: true
+  xy: 290, 1593
+  size: 198, 51
+  orig: 200, 53
+  offset: 1, 1
+  index: -1
+dragon_orguss_baby_ls_hand
+  rotate: true
+  xy: 309, 1957
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+dragon_orguss_child_l_foot
+  rotate: true
+  xy: 259, 1736
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+dragon_orguss_child_r_foot
+  rotate: false
+  xy: 239, 1887
+  size: 42, 22
+  orig: 42, 22
+  offset: 0, 0
+  index: -1
+dragon_orguss_baby_l_arm1
+  rotate: false
+  xy: 309, 1986
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_body1
+  rotate: true
+  xy: 287, 191
+  size: 74, 62
+  orig: 74, 62
+  offset: 0, 0
+  index: -1
+dragon_orguss_child_l_arm1
+  rotate: false
+  xy: 320, 1921
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_l_foot2
+  rotate: false
+  xy: 239, 1230
+  size: 71, 37
+  orig: 71, 37
+  offset: 0, 0
+  index: -1
+dragon_orguss_child_haed
+  rotate: true
+  xy: 287, 267
+  size: 72, 61
+  orig: 72, 61
+  offset: 0, 0
+  index: -1
+dragon_orguss_critical_d2
+  rotate: false
+  xy: 2, 724
+  size: 252, 232
+  orig: 272, 232
+  offset: 10, 0
+  index: -1
+dragon_orguss_baby_ls_arm1
+  rotate: false
+  xy: 269, 1578
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+dragon_orguss_critical_h1
+  rotate: true
+  xy: 2, 1675
+  size: 145, 203
+  orig: 147, 205
+  offset: 1, 1
+  index: -1
+dragon_orguss_baby_head
+  rotate: true
+  xy: 295, 1339
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+dragon_orguss_child_ls_hand
+  rotate: false
+  xy: 88, 1822
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+dragon_orguss_baby_l_reg
+  rotate: true
+  xy: 239, 1948
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_eye
+  rotate: false
+  xy: 336, 1010
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_orguss_critical_ffa1
+  rotate: false
+  xy: 2, 102
+  size: 285, 60
+  orig: 313, 98
+  offset: 11, 16
+  index: -1
+dragon_orguss_baby_r_hand
+  rotate: false
+  xy: 258, 1783
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+dragon_orguss_baby_r_arm2
+  rotate: false
+  xy: 289, 102
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+dragon_orguss_child_eye
+  rotate: false
+  xy: 85, 2019
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+dragon_orguss_baby_r_reg
+  rotate: false
+  xy: 239, 1977
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+dragon_orguss_child_body
+  rotate: true
+  xy: 268, 676
+  size: 63, 80
+  orig: 63, 80
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_l_handt
+  rotate: true
+  xy: 37, 1822
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_mout
+  rotate: true
+  xy: 260, 1695
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+dragon_orguss_critical_smo4
+  rotate: false
+  xy: 2, 164
+  size: 283, 165
+  orig: 319, 333
+  offset: 18, 18
+  index: -1
+dragon_orguss_adult_eye2
+  rotate: false
+  xy: 336, 997
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_l_hand
+  rotate: false
+  xy: 232, 1453
+  size: 57, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_ls_handt
+  rotate: true
+  xy: 239, 1911
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_orguss_baby_eye
+  rotate: false
+  xy: 267, 1674
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_neck2
+  rotate: false
+  xy: 239, 1269
+  size: 63, 59
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_neck
+  rotate: false
+  xy: 214, 1628
+  size: 51, 47
+  orig: 51, 47
+  offset: 0, 0
+  index: -1
+dragon_orguss_baby_hon2
+  rotate: true
+  xy: 268, 490
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+dragon_orguss_baby_r_foot
+  rotate: false
+  xy: 317, 91
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_mout2
+  rotate: true
+  xy: 269, 1502
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_rs_hand
+  rotate: false
+  xy: 207, 1817
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+dragon_orguss_child_r_reg2
+  rotate: true
+  xy: 324, 1054
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_r_arm1
+  rotate: true
+  xy: 279, 466
+  size: 44, 68
+  orig: 44, 68
+  offset: 0, 0
+  index: -1
+dragon_orguss_child_eye2
+  rotate: false
+  xy: 65, 2019
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_tail
+  rotate: true
+  xy: 248, 958
+  size: 64, 86
+  orig: 64, 86
+  offset: 0, 0
+  index: -1
+dragon_orguss_child_r_arm2
+  rotate: true
+  xy: 324, 1024
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+dragon_orguss_critical_d1
+  rotate: false
+  xy: 2, 958
+  size: 244, 232
+  orig: 272, 232
+  offset: 7, 0
+  index: -1
+dragon_orguss_child_l_hand
+  rotate: true
+  xy: 282, 1921
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+dragon_orguss_child_r_hand
+  rotate: false
+  xy: 317, 50
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+dragon_orguss_critical_h4
+  rotate: true
+  xy: 2, 1313
+  size: 186, 228
+  orig: 188, 230
+  offset: 1, 1
+  index: -1
+dragon_orguss_child_l_reg2
+  rotate: true
+  xy: 321, 1192
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+dragon_orguss_baby_l_hand
+  rotate: true
+  xy: 130, 1822
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+dragon_orguss_baby_l_arm2
+  rotate: false
+  xy: 276, 1955
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+dragon_orguss_adult_body2
+  rotate: false
+  xy: 268, 512
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+dragon_orguss_baby_tail
+  rotate: false
+  xy: 317, 2
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+dragon_orguss_child_l_arm2
+  rotate: false
+  xy: 323, 1127
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1

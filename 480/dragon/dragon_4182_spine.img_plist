@@ -1,0 +1,900 @@
+dragon_4182_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_afrit_adult_body_amor1
+  rotate: false
+  xy: 344, 1249
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_l_wing1
+  rotate: true
+  xy: 222, 568
+  size: 84, 89
+  orig: 84, 89
+  offset: 0, 0
+  index: -1
+dragon_afrit_baby_l_arm1
+  rotate: false
+  xy: 290, 1874
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+dragon_afrit_baby_r_arm2
+  rotate: true
+  xy: 348, 246
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+dragon_afrit_child_r_arm3
+  rotate: false
+  xy: 348, 157
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+dragon_4182_critical_eff09
+  rotate: false
+  xy: 2, 638
+  size: 216, 210
+  orig: 256, 240
+  offset: 20, 16
+  index: -1
+dragon_afrit_child_r_wing1
+  rotate: true
+  xy: 277, 1488
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+dragon_afrit_baby_eggb1
+  rotate: true
+  xy: 355, 1519
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_r_arm1
+  rotate: false
+  xy: 331, 1632
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_l_hand2
+  rotate: true
+  xy: 355, 1563
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+dragon_afrit_child_l_leg1_amor
+  rotate: true
+  xy: 327, 2017
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+dragon_afrit_baby_l_arm2
+  rotate: false
+  xy: 292, 1967
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_afrit_child_r_leg2
+  rotate: true
+  xy: 344, 34
+  size: 53, 24
+  orig: 53, 24
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_amor5
+  rotate: false
+  xy: 353, 1867
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+dragon_afrit_baby_eggb4
+  rotate: false
+  xy: 311, 2022
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+dragon_4182_critical_eff05
+  rotate: false
+  xy: 2, 1462
+  size: 194, 188
+  orig: 256, 240
+  offset: 31, 31
+  index: -1
+dragon_afrit_baby_eggf3
+  rotate: true
+  xy: 277, 1718
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_r_hand1
+  rotate: false
+  xy: 290, 1718
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_l_leg2
+  rotate: false
+  xy: 312, 474
+  size: 60, 51
+  orig: 60, 51
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_tail4
+  rotate: false
+  xy: 311, 1992
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_body_amor2
+  rotate: true
+  xy: 188, 2024
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+dragon_afrit_child_l_leg2
+  rotate: false
+  xy: 344, 1197
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_amor1
+  rotate: false
+  xy: 313, 576
+  size: 51, 70
+  orig: 51, 70
+  offset: 0, 0
+  index: -1
+dragon_afrit_child_r_arm2
+  rotate: true
+  xy: 344, 89
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_r_wing2
+  rotate: true
+  xy: 224, 2
+  size: 153, 118
+  orig: 153, 118
+  offset: 0, 0
+  index: -1
+dragon_4182_critical_eff08
+  rotate: false
+  xy: 2, 850
+  size: 208, 208
+  orig: 256, 240
+  offset: 24, 18
+  index: -1
+dragon_afrit_child_r_wing2
+  rotate: false
+  xy: 198, 1472
+  size: 77, 86
+  orig: 77, 86
+  offset: 0, 0
+  index: -1
+dragon_afrit_baby_r_leg2
+  rotate: false
+  xy: 357, 1784
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+dragon_4182_critical_eff01
+  rotate: false
+  xy: 224, 157
+  size: 122, 114
+  orig: 256, 240
+  offset: 62, 63
+  index: -1
+dragon_afrit_adult_l_hand1
+  rotate: false
+  xy: 350, 1887
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_r_hand4
+  rotate: true
+  xy: 220, 827
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_body_light
+  rotate: true
+  xy: 188, 1925
+  size: 57, 54
+  orig: 59, 56
+  offset: 2, 1
+  index: -1
+dragon_afrit_child_l_wing1
+  rotate: false
+  xy: 305, 1414
+  size: 67, 72
+  orig: 67, 72
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_amor2
+  rotate: true
+  xy: 321, 1858
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+dragon_afrit_baby_l_leg2
+  rotate: true
+  xy: 246, 1715
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+dragon_afrit_baby_r_arm3
+  rotate: true
+  xy: 348, 188
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+dragon_afrit_child_l_arm2
+  rotate: false
+  xy: 340, 412
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+dragon_afrit_child_neck_light
+  rotate: false
+  xy: 244, 1925
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+dragon_4182_critical_eff04
+  rotate: false
+  xy: 2, 1840
+  size: 184, 168
+  orig: 256, 240
+  offset: 36, 38
+  index: -1
+dragon_afrit_adult_l_arm1
+  rotate: false
+  xy: 276, 1760
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+dragon_4182_critical_eff15
+  rotate: false
+  xy: 212, 1008
+  size: 160, 156
+  orig: 256, 240
+  offset: 45, 42
+  index: -1
+dragon_afrit_baby_eggf2
+  rotate: false
+  xy: 327, 1992
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_l_arm1_amor
+  rotate: true
+  xy: 318, 1760
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_head
+  rotate: true
+  xy: 301, 741
+  size: 41, 71
+  orig: 41, 71
+  offset: 0, 0
+  index: -1
+dragon_afrit_baby_l_arm3
+  rotate: true
+  xy: 288, 1905
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+dragon_afrit_child_eggb1
+  rotate: true
+  xy: 340, 376
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+dragon_afrit_child_r_leg1
+  rotate: false
+  xy: 278, 1791
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+dragon_afrit_baby_eggb3
+  rotate: true
+  xy: 267, 827
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+dragon_4182_critical_eff00
+  rotate: false
+  xy: 222, 376
+  size: 116, 96
+  orig: 256, 240
+  offset: 63, 71
+  index: -1
+dragon_afrit_adult_r_arm2
+  rotate: false
+  xy: 326, 1342
+  size: 39, 61
+  orig: 39, 61
+  offset: 0, 0
+  index: -1
+dragon_4182_critical_eff11
+  rotate: false
+  xy: 2, 426
+  size: 218, 210
+  orig: 256, 240
+  offset: 20, 16
+  index: -1
+dragon_afrit_child_eggb2
+  rotate: true
+  xy: 219, 2024
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_tail_amor1
+  rotate: false
+  xy: 220, 736
+  size: 79, 89
+  orig: 79, 89
+  offset: 0, 0
+  index: -1
+dragon_afrit_baby_body
+  rotate: true
+  xy: 243, 1888
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+dragon_afrit_child_r_arm1
+  rotate: true
+  xy: 94, 2010
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+dragon_4182_critical_eff07
+  rotate: false
+  xy: 2, 1060
+  size: 202, 200
+  orig: 256, 240
+  offset: 27, 22
+  index: -1
+dragon_4182_critical_eff14
+  rotate: false
+  xy: 2, 1652
+  size: 192, 186
+  orig: 256, 240
+  offset: 32, 28
+  index: -1
+dragon_afrit_adult_r_leg1
+  rotate: false
+  xy: 196, 1791
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_tail_amor2
+  rotate: true
+  xy: 188, 1840
+  size: 83, 53
+  orig: 83, 53
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_r_leg1_amor
+  rotate: false
+  xy: 285, 1930
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+dragon_afrit_child_eye
+  rotate: false
+  xy: 276, 1740
+  size: 12, 17
+  orig: 14, 19
+  offset: 1, 1
+  index: -1
+dragon_afrit_adult_body2_light
+  rotate: true
+  xy: 301, 784
+  size: 57, 61
+  orig: 59, 65
+  offset: 1, 2
+  index: -1
+dragon_afrit_adult_tail1
+  rotate: false
+  xy: 220, 654
+  size: 88, 80
+  orig: 88, 80
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_amor3
+  rotate: false
+  xy: 345, 273
+  size: 27, 55
+  orig: 27, 55
+  offset: 0, 0
+  index: -1
+dragon_afrit_baby_tail
+  rotate: true
+  xy: 198, 1644
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+dragon_afrit_baby_eggb2
+  rotate: false
+  xy: 342, 2011
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+dragon_afrit_baby_r_arm4
+  rotate: true
+  xy: 319, 1910
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+dragon_afrit_child_head
+  rotate: false
+  xy: 310, 654
+  size: 62, 85
+  orig: 62, 85
+  offset: 0, 0
+  index: -1
+dragon_afrit_child_l_arm3
+  rotate: true
+  xy: 246, 1687
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_amor6
+  rotate: true
+  xy: 344, 2
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_r_wing1
+  rotate: false
+  xy: 222, 474
+  size: 88, 92
+  orig: 88, 92
+  offset: 0, 0
+  index: -1
+dragon_4182_critical_eff03
+  rotate: false
+  xy: 206, 1166
+  size: 136, 130
+  orig: 256, 240
+  offset: 55, 54
+  index: -1
+dragon_4182_critical_eff10
+  rotate: false
+  xy: 2, 2
+  size: 220, 210
+  orig: 256, 240
+  offset: 19, 16
+  index: -1
+dragon_afrit_baby_eye
+  rotate: false
+  xy: 353, 1847
+  size: 19, 18
+  orig: 21, 20
+  offset: 1, 1
+  index: -1
+dragon_afrit_adult_r_hand3
+  rotate: true
+  xy: 317, 1965
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+dragon_afrit_baby_r_wing
+  rotate: true
+  xy: 245, 1740
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_tail2
+  rotate: false
+  xy: 313, 527
+  size: 59, 47
+  orig: 59, 47
+  offset: 0, 0
+  index: -1
+dragon_afrit_child_body1
+  rotate: true
+  xy: 196, 1688
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+dragon_afrit_baby_l_arm4
+  rotate: false
+  xy: 344, 128
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+dragon_afrit_child_body1_light
+  rotate: true
+  xy: 243, 1838
+  size: 48, 45
+  orig: 50, 47
+  offset: 1, 1
+  index: -1
+dragon_afrit_child_l_wing2
+  rotate: true
+  xy: 202, 1414
+  size: 56, 101
+  orig: 56, 101
+  offset: 0, 0
+  index: -1
+dragon_4182_critical_eff06
+  rotate: false
+  xy: 2, 1262
+  size: 198, 198
+  orig: 256, 240
+  offset: 30, 23
+  index: -1
+dragon_afrit_baby_head
+  rotate: false
+  xy: 198, 1560
+  size: 79, 82
+  orig: 79, 82
+  offset: 0, 0
+  index: -1
+dragon_afrit_baby_l_wing
+  rotate: true
+  xy: 290, 1833
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+dragon_afrit_child_tail
+  rotate: false
+  xy: 279, 1556
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_l_arm2
+  rotate: true
+  xy: 331, 1672
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_body
+  rotate: false
+  xy: 196, 1740
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+dragon_afrit_child_body2
+  rotate: false
+  xy: 331, 1744
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+dragon_afrit_child_eggb3
+  rotate: false
+  xy: 314, 1937
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_r_leg1_amor_b
+  rotate: false
+  xy: 321, 1821
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+dragon_afrit_child_l_arm4
+  rotate: false
+  xy: 351, 1488
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+dragon_afrit_child_r_arm4
+  rotate: true
+  xy: 236, 827
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+dragon_4182_critical_eff02
+  rotate: false
+  xy: 202, 1298
+  size: 122, 114
+  orig: 256, 240
+  offset: 62, 63
+  index: -1
+dragon_afrit_adult_fire1
+  rotate: false
+  xy: 326, 1298
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+dragon_4182_critical_eff13
+  rotate: false
+  xy: 2, 1652
+  size: 192, 186
+  orig: 256, 240
+  offset: 32, 28
+  index: -1
+dragon_afrit_baby_r_leg1
+  rotate: false
+  xy: 347, 1910
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+dragon_afrit_child_eggf1
+  rotate: true
+  xy: 251, 2017
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+dragon_afrit_child_neck
+  rotate: false
+  xy: 251, 1971
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_r_hand2
+  rotate: false
+  xy: 164, 2010
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_l_leg1
+  rotate: true
+  xy: 279, 1632
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+dragon_afrit_child_r_arm1_amor
+  rotate: false
+  xy: 342, 2031
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_eye
+  rotate: true
+  xy: 336, 1965
+  size: 19, 12
+  orig: 21, 14
+  offset: 1, 1
+  index: -1
+dragon_afrit_baby_eggf1
+  rotate: false
+  xy: 344, 1166
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+dragon_afrit_child_l_leg1
+  rotate: false
+  xy: 345, 330
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_amor4
+  rotate: true
+  xy: 350, 1981
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_l_wing2
+  rotate: false
+  xy: 222, 273
+  size: 121, 101
+  orig: 121, 101
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_body2
+  rotate: false
+  xy: 227, 1791
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+dragon_afrit_baby_l_leg1
+  rotate: false
+  xy: 348, 219
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_fire2
+  rotate: true
+  xy: 355, 1620
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_amor7
+  rotate: false
+  xy: 342, 1995
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_4182_critical_eff16
+  rotate: false
+  xy: 212, 850
+  size: 160, 156
+  orig: 256, 240
+  offset: 45, 42
+  index: -1
+dragon_afrit_child_eggf2
+  rotate: false
+  xy: 342, 1937
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_afrit_child_l_arm1_amor
+  rotate: false
+  xy: 277, 1472
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_l_leg1_amor_b
+  rotate: true
+  xy: 340, 443
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+dragon_afrit_baby_eggb6
+  rotate: false
+  xy: 331, 1712
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_l_hand3
+  rotate: true
+  xy: 292, 1992
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_r_arm1_amor
+  rotate: true
+  xy: 355, 1592
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_r_leg2
+  rotate: true
+  xy: 188, 1984
+  size: 38, 61
+  orig: 38, 61
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_tail3
+  rotate: true
+  xy: 2, 2010
+  size: 33, 90
+  orig: 33, 90
+  offset: 0, 0
+  index: -1
+dragon_afrit_baby_body_lig
+  rotate: false
+  xy: 243, 1644
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_neck
+  rotate: true
+  xy: 279, 1681
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+dragon_afrit_child_l_arm1
+  rotate: false
+  xy: 130, 2010
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+dragon_afrit_baby_eggb5
+  rotate: false
+  xy: 353, 1821
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+dragon_afrit_baby_r_arm1
+  rotate: true
+  xy: 282, 2017
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+dragon_4182_critical_eff12
+  rotate: false
+  xy: 2, 214
+  size: 218, 210
+  orig: 256, 240
+  offset: 20, 16
+  index: -1
+dragon_afrit_adult_l_arm3
+  rotate: false
+  xy: 320, 1784
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+dragon_afrit_adult_l_leg1_amor
+  rotate: true
+  xy: 321, 1876
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+dragon_afrit_child_r_leg1_amor
+  rotate: false
+  xy: 350, 1962
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1

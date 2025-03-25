@@ -1,0 +1,487 @@
+dragon_4183_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_4183_critical_eff02
+  rotate: false
+  xy: 852, 205
+  size: 181, 197
+  orig: 253, 241
+  offset: 41, 32
+  index: -1
+dragon_4183_critical_eff13
+  rotate: false
+  xy: 2, 2
+  size: 223, 223
+  orig: 253, 241
+  offset: 15, 10
+  index: -1
+dragon_jigsaw_adult_eyedam
+  rotate: true
+  xy: 685, 416
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_adult_l_arm1
+  rotate: false
+  xy: 107, 452
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_adult_a3
+  rotate: false
+  xy: 107, 452
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_adult_a10
+  rotate: true
+  xy: 1387, 246
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_adult_a8
+  rotate: true
+  xy: 1061, 310
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_child_tail1
+  rotate: false
+  xy: 42, 452
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_adult_r_arm3
+  rotate: true
+  xy: 1397, 115
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+dragon_4183_critical_eff12
+  rotate: false
+  xy: 225, 227
+  size: 213, 219
+  orig: 253, 241
+  offset: 24, 11
+  index: -1
+dragon_jigsaw_child_l_leg1
+  rotate: true
+  xy: 1372, 425
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_adult_a4
+  rotate: true
+  xy: 1387, 339
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_adult_eyeatt
+  rotate: false
+  xy: 1140, 281
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_baby_eye1
+  rotate: false
+  xy: 1397, 27
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+dragon_4183_critical_eff09
+  rotate: true
+  xy: 631, 2
+  size: 207, 203
+  orig: 253, 241
+  offset: 25, 18
+  index: -1
+dragon_jigsaw_adult_l_wing
+  rotate: false
+  xy: 1321, 389
+  size: 49, 65
+  orig: 49, 65
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_adult_r_arm2
+  rotate: true
+  xy: 1321, 456
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_child_haed
+  rotate: true
+  xy: 624, 434
+  size: 69, 81
+  orig: 69, 81
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_adult_a11
+  rotate: false
+  xy: 2, 452
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_adult_r_wing
+  rotate: false
+  xy: 362, 448
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+dragon_4183_critical_eff05
+  rotate: false
+  xy: 1208, 2
+  size: 187, 169
+  orig: 253, 241
+  offset: 35, 39
+  index: -1
+dragon_jigsaw_adult_a9
+  rotate: true
+  xy: 1152, 201
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_adult_l_arm2
+  rotate: false
+  xy: 1106, 306
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_baby_arm
+  rotate: true
+  xy: 666, 416
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+dragon_4183_critical_eff08
+  rotate: true
+  xy: 653, 211
+  size: 203, 197
+  orig: 253, 241
+  offset: 28, 22
+  index: -1
+dragon_jigsaw_adult_body
+  rotate: false
+  xy: 829, 416
+  size: 164, 84
+  orig: 164, 84
+  offset: 0, 0
+  index: -1
+dragon_4183_critical_eff01
+  rotate: true
+  xy: 1146, 344
+  size: 159, 173
+  orig: 253, 241
+  offset: 52, 40
+  index: -1
+dragon_jigsaw_adult_r_leg2
+  rotate: true
+  xy: 432, 448
+  size: 58, 33
+  orig: 58, 33
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_adult_a5
+  rotate: true
+  xy: 995, 453
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_child_eye2
+  rotate: false
+  xy: 653, 416
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_baby_eyeclose
+  rotate: false
+  xy: 227, 219
+  size: 22, 6
+  orig: 22, 6
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_adult_a12
+  rotate: true
+  xy: 1358, 456
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_child_r_leg1
+  rotate: false
+  xy: 995, 404
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+dragon_4183_critical_eff04
+  rotate: false
+  xy: 1208, 173
+  size: 177, 169
+  orig: 253, 241
+  offset: 41, 39
+  index: -1
+dragon_4183_critical_eff15
+  rotate: true
+  xy: 1035, 344
+  size: 163, 109
+  orig: 253, 241
+  offset: 68, 72
+  index: -1
+dragon_jigsaw_baby_leg
+  rotate: false
+  xy: 1397, 90
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_baby_tail
+  rotate: true
+  xy: 1397, 160
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_adult_a1
+  rotate: false
+  xy: 1106, 238
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_adult_r_arm1
+  rotate: false
+  xy: 2, 452
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_adult_l_leg1
+  rotate: false
+  xy: 247, 448
+  size: 39, 60
+  orig: 39, 60
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_baby_haed
+  rotate: false
+  xy: 181, 452
+  size: 64, 50
+  orig: 64, 50
+  offset: 0, 0
+  index: -1
+dragon_4183_critical_eff00
+  rotate: true
+  xy: 467, 434
+  size: 75, 77
+  orig: 253, 241
+  offset: 98, 88
+  index: -1
+dragon_jigsaw_child_l_wing
+  rotate: false
+  xy: 1387, 295
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_child_body
+  rotate: false
+  xy: 288, 448
+  size: 72, 59
+  orig: 72, 59
+  offset: 0, 0
+  index: -1
+dragon_4183_critical_eff11
+  rotate: false
+  xy: 227, 2
+  size: 213, 215
+  orig: 253, 241
+  offset: 22, 13
+  index: -1
+dragon_jigsaw_adult_a6
+  rotate: true
+  xy: 1397, 115
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_adult_l_arm3
+  rotate: true
+  xy: 1402, 456
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_adult_tail
+  rotate: true
+  xy: 716, 416
+  size: 86, 111
+  orig: 86, 111
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_child_eyeclose
+  rotate: false
+  xy: 440, 434
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+dragon_4183_critical_eff07
+  rotate: true
+  xy: 836, 2
+  size: 201, 189
+  orig: 253, 241
+  offset: 30, 27
+  index: -1
+dragon_4183_critical_eff14
+  rotate: false
+  xy: 2, 227
+  size: 221, 223
+  orig: 253, 241
+  offset: 10, 10
+  index: -1
+dragon_jigsaw_adult_r_leg1
+  rotate: true
+  xy: 1321, 344
+  size: 43, 63
+  orig: 43, 63
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_adult_a2
+  rotate: true
+  xy: 1386, 382
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_baby_eye2
+  rotate: false
+  xy: 701, 416
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_adult_haed
+  rotate: false
+  xy: 546, 434
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_adult_a13
+  rotate: false
+  xy: 1397, 50
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_adult_neck
+  rotate: false
+  xy: 1035, 201
+  size: 65, 107
+  orig: 65, 107
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_adult_eye1
+  rotate: true
+  xy: 852, 404
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+dragon_4183_critical_eff03
+  rotate: false
+  xy: 442, 2
+  size: 187, 211
+  orig: 253, 241
+  offset: 40, 22
+  index: -1
+dragon_4183_critical_eff10
+  rotate: false
+  xy: 440, 219
+  size: 211, 213
+  orig: 253, 241
+  offset: 24, 14
+  index: -1
+dragon_jigsaw_adult_eye
+  rotate: false
+  xy: 1149, 244
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+dragon_4183_critical_eff06
+  rotate: true
+  xy: 1027, 2
+  size: 197, 179
+  orig: 253, 241
+  offset: 31, 31
+  index: -1
+dragon_jigsaw_child_r_leg2
+  rotate: false
+  xy: 1387, 194
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_baby_body
+  rotate: false
+  xy: 141, 452
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_adult_a7
+  rotate: false
+  xy: 1397, 2
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_adult_a14
+  rotate: false
+  xy: 1102, 281
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_child_eye1
+  rotate: false
+  xy: 1035, 310
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_adult_l_leg2
+  rotate: true
+  xy: 79, 452
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+dragon_jigsaw_child_r_wing
+  rotate: true
+  xy: 1106, 201
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1

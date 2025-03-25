@@ -1,0 +1,165 @@
+dragon_wind_aura_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+bwind4
+  rotate: true
+  xy: 156, 1351
+  size: 122, 64
+  orig: 124, 64
+  offset: 1, 0
+  index: -1
+ground
+  rotate: true
+  xy: 2, 1712
+  size: 238, 88
+  orig: 238, 88
+  offset: 0, 0
+  index: -1
+wwind
+  rotate: true
+  xy: 92, 1744
+  size: 91, 48
+  orig: 91, 50
+  offset: 0, 1
+  index: -1
+wwind3
+  rotate: false
+  xy: 2, 1351
+  size: 152, 78
+  orig: 170, 78
+  offset: 0, 0
+  index: -1
+t6
+  rotate: false
+  xy: 2, 1101
+  size: 201, 170
+  orig: 203, 172
+  offset: 1, 1
+  index: -1
+bbwind2
+  rotate: false
+  xy: 138, 1911
+  size: 80, 61
+  orig: 82, 61
+  offset: 0, 0
+  index: -1
+t2
+  rotate: false
+  xy: 2, 252
+  size: 222, 118
+  orig: 222, 118
+  offset: 0, 0
+  index: -1
+bwind3
+  rotate: false
+  xy: 2, 1653
+  size: 117, 57
+  orig: 117, 57
+  offset: 0, 0
+  index: -1
+wind1
+  rotate: true
+  xy: 138, 1849
+  size: 60, 81
+  orig: 68, 97
+  offset: 0, 15
+  index: -1
+wwind2
+  rotate: false
+  xy: 2, 1431
+  size: 146, 74
+  orig: 146, 74
+  offset: 0, 0
+  index: -1
+arua1
+  rotate: true
+  xy: 2, 2
+  size: 248, 225
+  orig: 250, 227
+  offset: 1, 1
+  index: -1
+bbwind1
+  rotate: true
+  xy: 207, 930
+  size: 59, 18
+  orig: 59, 18
+  offset: 0, 0
+  index: -1
+t3
+  rotate: false
+  xy: 2, 572
+  size: 215, 173
+  orig: 215, 173
+  offset: 0, 0
+  index: -1
+bwind2
+  rotate: true
+  xy: 92, 1837
+  size: 98, 44
+  orig: 98, 44
+  offset: 0, 0
+  index: -1
+wind2
+  rotate: true
+  xy: 148, 1609
+  size: 126, 78
+  orig: 128, 80
+  offset: 2, 0
+  index: -1
+ring
+  rotate: false
+  xy: 2, 1507
+  size: 144, 144
+  orig: 146, 146
+  offset: 1, 1
+  index: -1
+arua2
+  rotate: false
+  xy: 2, 372
+  size: 219, 198
+  orig: 221, 200
+  offset: 1, 1
+  index: -1
+bwind1
+  rotate: true
+  xy: 92, 1712
+  size: 30, 54
+  orig: 30, 54
+  offset: 0, 0
+  index: -1
+t4
+  rotate: false
+  xy: 2, 747
+  size: 213, 181
+  orig: 213, 181
+  offset: 0, 0
+  index: -1
+wind3
+  rotate: true
+  xy: 150, 1475
+  size: 132, 76
+  orig: 150, 104
+  offset: 18, 0
+  index: -1
+bbwind3
+  rotate: true
+  xy: 148, 1737
+  size: 110, 72
+  orig: 110, 72
+  offset: 0, 0
+  index: -1
+t5
+  rotate: false
+  xy: 2, 930
+  size: 203, 169
+  orig: 203, 169
+  offset: 0, 0
+  index: -1
+t1
+  rotate: false
+  xy: 2, 1273
+  size: 200, 76
+  orig: 200, 78
+  offset: 0, 1
+  index: -1

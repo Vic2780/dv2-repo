@@ -1,0 +1,389 @@
+dragon_4105_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_shadowegg_critical_a3
+  rotate: true
+  xy: 110, 596
+  size: 183, 78
+  orig: 217, 150
+  offset: 13, 16
+  index: -1
+dragon_shadowegg_adult_att
+  rotate: true
+  xy: 195, 312
+  size: 47, 23
+  orig: 53, 31
+  offset: 3, 3
+  index: -1
+dragon_shadowegg_child_tail
+  rotate: true
+  xy: 214, 811
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_adult_leg1
+  rotate: false
+  xy: 220, 341
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_child_ear2
+  rotate: true
+  xy: 214, 867
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_adult_eye
+  rotate: true
+  xy: 214, 919
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_child_body
+  rotate: true
+  xy: 2, 1215
+  size: 71, 104
+  orig: 71, 104
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_critical_a4
+  rotate: true
+  xy: 2, 1016
+  size: 197, 92
+  orig: 217, 150
+  offset: 6, 14
+  index: -1
+dragon_shadowegg_critical_e1
+  rotate: true
+  xy: 195, 173
+  size: 87, 18
+  orig: 89, 26
+  offset: 0, 2
+  index: -1
+dragon_shadowegg_adult_eye2
+  rotate: true
+  xy: 227, 1116
+  size: 47, 23
+  orig: 53, 31
+  offset: 3, 3
+  index: -1
+dragon_shadowegg_adult_body2
+  rotate: true
+  xy: 108, 1207
+  size: 74, 101
+  orig: 74, 101
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_adult_ear2
+  rotate: false
+  xy: 195, 115
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_child_eye3
+  rotate: true
+  xy: 191, 502
+  size: 46, 21
+  orig: 50, 29
+  offset: 1, 4
+  index: -1
+dragon_shadowegg_adult_tail
+  rotate: true
+  xy: 215, 173
+  size: 71, 30
+  orig: 71, 30
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_child_love2
+  rotate: true
+  xy: 195, 262
+  size: 48, 19
+  orig: 50, 29
+  offset: 2, 6
+  index: -1
+dragon_shadowegg_adult_leg4
+  rotate: false
+  xy: 218, 392
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_adult_b1
+  rotate: true
+  xy: 195, 173
+  size: 87, 18
+  orig: 89, 26
+  offset: 0, 2
+  index: -1
+dragon_shadowegg_critical_a5
+  rotate: true
+  xy: 2, 809
+  size: 205, 96
+  orig: 217, 150
+  offset: 2, 11
+  index: -1
+dragon_shadowegg_child_leg1
+  rotate: false
+  xy: 195, 793
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_adult_e1
+  rotate: false
+  xy: 96, 1069
+  size: 129, 136
+  orig: 131, 142
+  offset: 0, 1
+  index: -1
+dragon_shadowegg_child_lef4
+  rotate: true
+  xy: 239, 962
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_baby_eye2
+  rotate: true
+  xy: 214, 454
+  size: 43, 21
+  orig: 47, 25
+  offset: 2, 2
+  index: -1
+dragon_shadowegg_adult_arm2
+  rotate: true
+  xy: 220, 311
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_critical_a6
+  rotate: true
+  xy: 2, 596
+  size: 211, 106
+  orig: 217, 150
+  offset: 0, 11
+  index: -1
+dragon_shadowegg_child_leg2
+  rotate: false
+  xy: 235, 499
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_baby_ear2
+  rotate: true
+  xy: 195, 410
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_baby_eye
+  rotate: true
+  xy: 191, 550
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_baby_ear1
+  rotate: false
+  xy: 220, 279
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_adult_leg2
+  rotate: true
+  xy: 195, 764
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_critical_a7
+  rotate: true
+  xy: 100, 809
+  size: 173, 112
+  orig: 217, 150
+  offset: 18, 20
+  index: -1
+dragon_shadowegg_child_leg3
+  rotate: false
+  xy: 235, 519
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_adult_dam
+  rotate: true
+  xy: 227, 1069
+  size: 45, 25
+  orig: 53, 31
+  offset: 3, 3
+  index: -1
+dragon_shadowegg_adult_ear1
+  rotate: false
+  xy: 214, 764
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_adult_crt
+  rotate: true
+  xy: 211, 1207
+  size: 68, 41
+  orig: 80, 41
+  offset: 5, 0
+  index: -1
+dragon_shadowegg_baby_love2
+  rotate: true
+  xy: 239, 919
+  size: 41, 13
+  orig: 47, 25
+  offset: 2, 8
+  index: -1
+dragon_shadowegg_baby_body2
+  rotate: false
+  xy: 195, 64
+  size: 57, 49
+  orig: 57, 49
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_baby_love1
+  rotate: true
+  xy: 214, 499
+  size: 43, 19
+  orig: 47, 25
+  offset: 2, 3
+  index: -1
+dragon_shadowegg_adult_leg3
+  rotate: false
+  xy: 214, 968
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_adult_crt2
+  rotate: false
+  xy: 190, 732
+  size: 62, 30
+  orig: 62, 30
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_adult_mouth
+  rotate: false
+  xy: 228, 988
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_baby_body1
+  rotate: false
+  xy: 190, 596
+  size: 62, 79
+  orig: 62, 79
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_critical_a8
+  rotate: false
+  xy: 2, 446
+  size: 187, 148
+  orig: 217, 150
+  offset: 11, 2
+  index: -1
+dragon_shadowegg_child_love1
+  rotate: true
+  xy: 191, 454
+  size: 46, 21
+  orig: 50, 29
+  offset: 1, 4
+  index: -1
+dragon_shadowegg_child_mouth
+  rotate: false
+  xy: 227, 1165
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_critical_a10
+  rotate: false
+  xy: 2, 300
+  size: 191, 144
+  orig: 217, 150
+  offset: 9, 4
+  index: -1
+dragon_shadowegg_child_body2
+  rotate: false
+  xy: 190, 677
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_critical_a2
+  rotate: false
+  xy: 110, 781
+  size: 83, 26
+  orig: 217, 150
+  offset: 63, 16
+  index: -1
+dragon_shadowegg_adult_arm1
+  rotate: false
+  xy: 218, 361
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_baby_mouth
+  rotate: true
+  xy: 243, 867
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_critical_a9
+  rotate: false
+  xy: 2, 2
+  size: 191, 150
+  orig: 217, 150
+  offset: 9, 0
+  index: -1
+dragon_shadowegg_child_ear1
+  rotate: true
+  xy: 220, 246
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_adult_body
+  rotate: true
+  xy: 100, 984
+  size: 83, 126
+  orig: 83, 126
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_child_eye
+  rotate: true
+  xy: 195, 361
+  size: 47, 21
+  orig: 47, 21
+  offset: 0, 0
+  index: -1
+dragon_love_effect_smile
+  rotate: false
+  xy: 195, 2
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_shadowegg_critical_a11
+  rotate: false
+  xy: 2, 154
+  size: 191, 144
+  orig: 217, 150
+  offset: 10, 3
+  index: -1

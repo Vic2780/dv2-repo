@@ -1,0 +1,578 @@
+dragon_4123_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_arion_child_l_hand
+  rotate: false
+  xy: 1753, 174
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_arion_adult_l_leg2
+  rotate: false
+  xy: 1474, 179
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+dragon_arion_child_r_wing
+  rotate: false
+  xy: 1589, 179
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1
+dragon_arion_effect_smoke5
+  rotate: false
+  xy: 968, 155
+  size: 270, 74
+  orig: 270, 74
+  offset: 0, 0
+  index: -1
+dragon_arion_adult_face
+  rotate: true
+  xy: 1240, 103
+  size: 98, 49
+  orig: 98, 49
+  offset: 0, 0
+  index: -1
+dragon_arion_effect_beam
+  rotate: false
+  xy: 2, 2
+  size: 229, 229
+  orig: 229, 229
+  offset: 0, 0
+  index: -1
+dragon_arion_child_r_arm2
+  rotate: false
+  xy: 1623, 2
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+dragon_arion_baby_l_leg
+  rotate: true
+  xy: 1699, 39
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+dragon_arion_baby_r_hand
+  rotate: false
+  xy: 1731, 109
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+dragon_arion_child_l_wing
+  rotate: true
+  xy: 1178, 103
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+dragon_arion_child_r_arm
+  rotate: false
+  xy: 1653, 179
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+dragon_arion_child_eye2
+  rotate: false
+  xy: 1457, 90
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+dragon_arion_child_l_leg
+  rotate: false
+  xy: 1587, 44
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+dragon_arion_adult_r_foot
+  rotate: true
+  xy: 1567, 179
+  size: 50, 20
+  orig: 50, 20
+  offset: 0, 0
+  index: -1
+dragon_arion_baby_l_ear
+  rotate: false
+  xy: 1523, 197
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+dragon_arion_adult_heart
+  rotate: false
+  xy: 1731, 46
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_arion_adult_r_leg2
+  rotate: false
+  xy: 1595, 86
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+dragon_arion_child_l_arm2
+  rotate: true
+  xy: 1724, 151
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+dragon_arion_adult_love_eye
+  rotate: false
+  xy: 287, 221
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+dragon_arion_adult_eye3
+  rotate: false
+  xy: 233, 221
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+dragon_arion_effect_smoke4
+  rotate: false
+  xy: 1474, 103
+  size: 248, 74
+  orig: 248, 74
+  offset: 0, 0
+  index: -1
+dragon_arion_baby_face
+  rotate: true
+  xy: 675, 161
+  size: 67, 56
+  orig: 67, 56
+  offset: 0, 0
+  index: -1
+dragon_arion_child_tail
+  rotate: false
+  xy: 837, 160
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: -1
+dragon_arion_adult_r_leg
+  rotate: true
+  xy: 1402, 197
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+dragon_arion_baby_mouth
+  rotate: false
+  xy: 1660, 76
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+dragon_arion_child_l_ear
+  rotate: false
+  xy: 1593, 2
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+dragon_arion_child_mouth
+  rotate: true
+  xy: 1531, 2
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+dragon_arion_child_face
+  rotate: false
+  xy: 280, 172
+  size: 86, 47
+  orig: 86, 47
+  offset: 0, 0
+  index: -1
+dragon_arion_child_r_leg
+  rotate: false
+  xy: 1489, 2
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+dragon_arion_effect_ring
+  rotate: true
+  xy: 579, 161
+  size: 70, 28
+  orig: 70, 28
+  offset: 0, 0
+  index: -1
+dragon_arion_adult_l_leg3
+  rotate: false
+  xy: 1650, 2
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+dragon_arion_effect_magic
+  rotate: true
+  xy: 233, 2
+  size: 217, 45
+  orig: 251, 127
+  offset: 15, 30
+  index: -1
+dragon_arion_baby_l_hand
+  rotate: false
+  xy: 1731, 130
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+dragon_arion_child_r_foot
+  rotate: true
+  xy: 1506, 197
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+dragon_arion_effect_bowl
+  rotate: false
+  xy: 1489, 46
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+dragon_arion_adult_r_wing
+  rotate: false
+  xy: 950, 2
+  size: 128, 151
+  orig: 128, 151
+  offset: 0, 0
+  index: -1
+dragon_arion_adult_hip
+  rotate: true
+  xy: 423, 172
+  size: 59, 38
+  orig: 59, 38
+  offset: 0, 0
+  index: -1
+dragon_arion_child_body
+  rotate: true
+  xy: 891, 160
+  size: 62, 75
+  orig: 62, 75
+  offset: 0, 0
+  index: -1
+dragon_arion_effect_light
+  rotate: true
+  xy: 525, 172
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+dragon_arion_adult_f_r__foot
+  rotate: false
+  xy: 1731, 2
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+dragon_arion_child_l_foot
+  rotate: true
+  xy: 1763, 87
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+dragon_arion_adult_eye2
+  rotate: false
+  xy: 252, 221
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+dragon_arion_adult_l_ear
+  rotate: true
+  xy: 1731, 87
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+dragon_arion_child_r_ear
+  rotate: false
+  xy: 1655, 39
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+dragon_arion_child_eye
+  rotate: false
+  xy: 1572, 87
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+dragon_arion_effect_smoke3
+  rotate: false
+  xy: 1159, 2
+  size: 241, 99
+  orig: 241, 99
+  offset: 0, 0
+  index: -1
+dragon_arion_baby_smile
+  rotate: true
+  xy: 463, 172
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_arion_child_effect
+  rotate: false
+  xy: 1402, 2
+  size: 53, 92
+  orig: 53, 92
+  offset: 0, 0
+  index: -1
+dragon_arion_baby_eye
+  rotate: false
+  xy: 1731, 178
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+dragon_arion_child_neck
+  rotate: false
+  xy: 782, 161
+  size: 53, 65
+  orig: 53, 65
+  offset: 0, 0
+  index: -1
+dragon_arion_adult_f_l_leg2
+  rotate: true
+  xy: 1552, 2
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+dragon_arion_baby_r_arm
+  rotate: true
+  xy: 1753, 151
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+dragon_arion_effect_wing2
+  rotate: false
+  xy: 1292, 199
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+dragon_arion_baby_tail
+  rotate: false
+  xy: 1694, 73
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+dragon_arion_effect_wing
+  rotate: false
+  xy: 1347, 199
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+dragon_arion_baby_l_foot
+  rotate: false
+  xy: 1546, 87
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+dragon_arion_baby_body
+  rotate: true
+  xy: 733, 161
+  size: 67, 47
+  orig: 67, 47
+  offset: 0, 0
+  index: -1
+dragon_arion_effect_light2
+  rotate: true
+  xy: 368, 172
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+dragon_arion_adult_eye
+  rotate: false
+  xy: 271, 221
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+dragon_arion_effect_bowl2
+  rotate: false
+  xy: 1291, 103
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+dragon_arion_effect_smoke2
+  rotate: false
+  xy: 552, 2
+  size: 270, 157
+  orig: 270, 157
+  offset: 0, 0
+  index: -1
+dragon_arion_adult_l_wing
+  rotate: true
+  xy: 824, 2
+  size: 156, 124
+  orig: 156, 124
+  offset: 0, 0
+  index: -1
+dragon_arion_baby_r_ear
+  rotate: false
+  xy: 1679, 2
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+dragon_arion_child_effect2
+  rotate: false
+  xy: 1457, 2
+  size: 30, 86
+  orig: 30, 86
+  offset: 0, 0
+  index: -1
+dragon_arion_adult_neck
+  rotate: false
+  xy: 609, 161
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+dragon_arion_effect_smoke
+  rotate: false
+  xy: 280, 2
+  size: 270, 168
+  orig: 270, 168
+  offset: 0, 0
+  index: -1
+dragon_arion_adult_mouth
+  rotate: true
+  xy: 1682, 39
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+dragon_arion_adult_f_l_leg
+  rotate: true
+  xy: 1129, 109
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+dragon_arion_adult_r_ear
+  rotate: true
+  xy: 1511, 179
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+dragon_arion_adult_f_l_foot
+  rotate: false
+  xy: 1731, 24
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+dragon_arion_adult_chest
+  rotate: true
+  xy: 1387, 103
+  size: 92, 85
+  orig: 92, 85
+  offset: 0, 0
+  index: -1
+dragon_arion_adult_tail
+  rotate: true
+  xy: 1080, 2
+  size: 105, 77
+  orig: 105, 77
+  offset: 0, 0
+  index: -1
+dragon_arion_baby_eye2
+  rotate: true
+  xy: 1762, 116
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+dragon_arion_adult_f_r_leg
+  rotate: true
+  xy: 1080, 109
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+dragon_arion_adult_l_leg
+  rotate: true
+  xy: 1454, 197
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+dragon_arion_adult_f_r_leg2
+  rotate: true
+  xy: 1546, 45
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+dragon_arion_effect_light3
+  rotate: true
+  xy: 1683, 179
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+dragon_arion_adult_l_foot
+  rotate: true
+  xy: 1544, 179
+  size: 50, 21
+  orig: 50, 21
+  offset: 0, 0
+  index: -1
+dragon_arion_child_l_arm
+  rotate: true
+  xy: 1240, 203
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+dragon_arion_adult_r_leg3
+  rotate: false
+  xy: 1626, 41
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+dragon_arion_child_r_hand
+  rotate: false
+  xy: 1705, 2
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+dragon_arion_baby_l_arm
+  rotate: true
+  xy: 1633, 78
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1

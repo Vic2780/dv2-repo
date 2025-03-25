@@ -1,0 +1,95 @@
+dragon_9013_attack_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_ragid_attack05
+  rotate: false
+  xy: 522, 248
+  size: 159, 242
+  orig: 201, 300
+  offset: 27, 12
+  index: -1
+dragon_ragid_attack00
+  rotate: false
+  xy: 898, 2
+  size: 59, 130
+  orig: 201, 300
+  offset: 70, 21
+  index: -1
+dragon_ragid_attack03
+  rotate: false
+  xy: 491, 2
+  size: 139, 244
+  orig: 201, 300
+  offset: 31, 14
+  index: -1
+dragon_ragid_attack01
+  rotate: false
+  xy: 850, 240
+  size: 117, 236
+  orig: 201, 300
+  offset: 41, 16
+  index: -1
+dragon_ragid_attack08
+  rotate: false
+  xy: 2, 2
+  size: 161, 286
+  orig: 201, 300
+  offset: 12, 9
+  index: -1
+dragon_ragid_attack12
+  rotate: true
+  xy: 898, 134
+  size: 29, 54
+  orig: 201, 300
+  offset: 119, 25
+  index: -1
+dragon_ragid_attack06
+  rotate: true
+  xy: 248, 290
+  size: 171, 272
+  orig: 201, 300
+  offset: 22, 11
+  index: -1
+dragon_ragid_attack10
+  rotate: false
+  xy: 683, 242
+  size: 165, 236
+  orig: 201, 300
+  offset: 9, 15
+  index: -1
+dragon_ragid_attack09
+  rotate: false
+  xy: 165, 2
+  size: 159, 286
+  orig: 201, 300
+  offset: 14, 9
+  index: -1
+dragon_ragid_attack04
+  rotate: true
+  xy: 2, 290
+  size: 181, 244
+  orig: 201, 300
+  offset: 8, 14
+  index: -1
+dragon_ragid_attack07
+  rotate: false
+  xy: 326, 2
+  size: 163, 272
+  orig: 201, 300
+  offset: 22, 11
+  index: -1
+dragon_ragid_attack11
+  rotate: false
+  xy: 751, 2
+  size: 145, 236
+  orig: 201, 300
+  offset: 43, 15
+  index: -1
+dragon_ragid_attack02
+  rotate: false
+  xy: 632, 2
+  size: 117, 238
+  orig: 201, 300
+  offset: 41, 15
+  index: -1

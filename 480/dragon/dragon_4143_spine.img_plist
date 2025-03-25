@@ -1,0 +1,1033 @@
+dragon_4143_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_maldek_adult_l_arm2
+  rotate: true
+  xy: 1027, 944
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_head1
+  rotate: true
+  xy: 81, 939
+  size: 83, 44
+  orig: 83, 44
+  offset: 0, 0
+  index: -1
+dragon_maldek_child_tail
+  rotate: true
+  xy: 844, 809
+  size: 86, 65
+  orig: 86, 65
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_head3
+  rotate: false
+  xy: 972, 855
+  size: 51, 23
+  orig: 51, 23
+  offset: 0, 0
+  index: -1
+dragon_maldek_baby_head2
+  rotate: true
+  xy: 1165, 848
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+dragon_maldek_baby_act2
+  rotate: false
+  xy: 941, 961
+  size: 35, 61
+  orig: 35, 61
+  offset: 0, 0
+  index: -1
+dragon_maldek_child_act1
+  rotate: false
+  xy: 255, 483
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+dragon_maldek_baby_act1
+  rotate: true
+  xy: 533, 982
+  size: 40, 56
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+dragon_maldek_child_act2
+  rotate: false
+  xy: 857, 978
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_l_arm1
+  rotate: true
+  xy: 1121, 702
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_hehom
+  rotate: true
+  xy: 1191, 873
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_tail 2
+  rotate: false
+  xy: 1193, 835
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_neck
+  rotate: false
+  xy: 240, 944
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_actring1
+  rotate: false
+  xy: 482, 369
+  size: 161, 158
+  orig: 161, 158
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_actring2
+  rotate: false
+  xy: 318, 684
+  size: 97, 158
+  orig: 97, 158
+  offset: 0, 0
+  index: -1
+dragon_maldek_critical_bbbb1
+  rotate: true
+  xy: 7, 233
+  size: 303, 133
+  orig: 303, 135
+  offset: 0, 2
+  index: -1
+dragon_maldek_adult_tail 1
+  rotate: false
+  xy: 574, 668
+  size: 88, 154
+  orig: 88, 154
+  offset: 0, 0
+  index: -1
+dragon_maldek_baby_tail
+  rotate: false
+  xy: 1116, 881
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_act2
+  rotate: false
+  xy: 1048, 985
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+dragon_maldek_baby_head
+  rotate: true
+  xy: 844, 897
+  size: 79, 68
+  orig: 79, 68
+  offset: 0, 0
+  index: -1
+dragon_maldek_baby_l_arm1
+  rotate: true
+  xy: 965, 153
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_act1
+  rotate: false
+  xy: 982, 944
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+dragon_maldek_child_l_reg2
+  rotate: false
+  xy: 199, 684
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_r_sol1
+  rotate: false
+  xy: 1160, 885
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+dragon_maldek_child_l_reg3
+  rotate: false
+  xy: 1078, 772
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+dragon_maldek_child_l_reg1
+  rotate: true
+  xy: 133, 910
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+dragon_maldek_baby_r_arm
+  rotate: true
+  xy: 1193, 780
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+dragon_maldek_baby_eye2
+  rotate: false
+  xy: 736, 1013
+  size: 26, 9
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_head1
+  rotate: false
+  xy: 1045, 579
+  size: 81, 43
+  orig: 81, 43
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_r_reg3
+  rotate: false
+  xy: 902, 978
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_r_reg1
+  rotate: false
+  xy: 1026, 632
+  size: 44, 77
+  orig: 44, 77
+  offset: 0, 0
+  index: -1
+dragon_maldek_child_gat1
+  rotate: true
+  xy: 1138, 948
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+dragon_maldek_child_r_arm2
+  rotate: false
+  xy: 142, 483
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+dragon_maldek_critical_one
+  rotate: true
+  xy: 636, 154
+  size: 190, 140
+  orig: 190, 140
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_hehom2
+  rotate: false
+  xy: 1114, 771
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_wingh2
+  rotate: false
+  xy: 492, 668
+  size: 80, 167
+  orig: 80, 167
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_book1
+  rotate: false
+  xy: 293, 391
+  size: 187, 130
+  orig: 187, 130
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_book2
+  rotate: true
+  xy: 645, 346
+  size: 188, 132
+  orig: 188, 132
+  offset: 0, 0
+  index: -1
+dragon_maldek_critical_h1
+  rotate: false
+  xy: 481, 529
+  size: 155, 137
+  orig: 155, 137
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_book3
+  rotate: false
+  xy: 965, 197
+  size: 188, 165
+  orig: 188, 167
+  offset: 0, 1
+  index: -1
+dragon_maldek_critical_h4
+  rotate: true
+  xy: 1121, 629
+  size: 71, 76
+  orig: 71, 76
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_r_reg2
+  rotate: false
+  xy: 1146, 914
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_wingh1
+  rotate: false
+  xy: 417, 684
+  size: 73, 164
+  orig: 73, 164
+  offset: 0, 0
+  index: -1
+dragon_maldek_critical_h2
+  rotate: true
+  xy: 402, 850
+  size: 107, 105
+  orig: 107, 107
+  offset: 0, 2
+  index: -1
+dragon_maldek_critical_h5
+  rotate: false
+  xy: 473, 967
+  size: 58, 55
+  orig: 58, 55
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_r_reg3
+  rotate: false
+  xy: 1080, 825
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_body2
+  rotate: false
+  xy: 972, 793
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+dragon_maldek_critical_h3
+  rotate: true
+  xy: 1128, 537
+  size: 90, 87
+  orig: 90, 87
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_body1
+  rotate: true
+  xy: 914, 885
+  size: 74, 66
+  orig: 74, 66
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_wingw2
+  rotate: false
+  xy: 313, 972
+  size: 89, 50
+  orig: 89, 50
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_r_reg1
+  rotate: true
+  xy: 591, 976
+  size: 45, 78
+  orig: 45, 78
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_wingw1
+  rotate: false
+  xy: 954, 579
+  size: 89, 51
+  orig: 89, 51
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_book2
+  rotate: true
+  xy: 645, 346
+  size: 188, 132
+  orig: 188, 132
+  offset: 0, 0
+  index: -1
+dragon_maldek_critical_g1
+  rotate: true
+  xy: 2, 552
+  size: 197, 60
+  orig: 197, 60
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_book1
+  rotate: true
+  xy: 2, 751
+  size: 186, 129
+  orig: 186, 129
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_stae
+  rotate: true
+  xy: 293, 166
+  size: 223, 169
+  orig: 223, 169
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_book3
+  rotate: false
+  xy: 965, 197
+  size: 188, 165
+  orig: 188, 167
+  offset: 0, 1
+  index: -1
+dragon_maldek_critical_g2
+  rotate: true
+  xy: 1155, 197
+  size: 197, 60
+  orig: 197, 60
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_r_sol1
+  rotate: false
+  xy: 736, 982
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_tailpen
+  rotate: false
+  xy: 884, 643
+  size: 70, 94
+  orig: 70, 94
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_l_reg3
+  rotate: false
+  xy: 1104, 941
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_l_reg1
+  rotate: false
+  xy: 982, 880
+  size: 36, 62
+  orig: 36, 62
+  offset: 0, 0
+  index: -1
+dragon_maldek_critical_light
+  rotate: false
+  xy: 464, 166
+  size: 170, 201
+  orig: 176, 211
+  offset: 6, 3
+  index: -1
+dragon_maldek_e_pbook2
+  rotate: false
+  xy: 491, 2
+  size: 255, 150
+  orig: 255, 152
+  offset: 0, 1
+  index: -1
+dragon_maldek_baby_body
+  rotate: false
+  xy: 1027, 831
+  size: 51, 38
+  orig: 51, 38
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_pbook3
+  rotate: false
+  xy: 236, 2
+  size: 253, 162
+  orig: 255, 162
+  offset: 1, 0
+  index: -1
+dragon_maldek_child_l_arm2
+  rotate: false
+  xy: 1175, 702
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+dragon_maldek_critical_holblack
+  rotate: false
+  xy: 575, 824
+  size: 96, 99
+  orig: 96, 99
+  offset: 0, 0
+  index: -1
+dragon_maldek_child_l_arm1
+  rotate: true
+  xy: 188, 483
+  size: 38, 65
+  orig: 38, 65
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_pbook1
+  rotate: true
+  xy: 142, 233
+  size: 248, 149
+  orig: 248, 149
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_pbook2
+  rotate: false
+  xy: 491, 2
+  size: 255, 150
+  orig: 255, 152
+  offset: 0, 1
+  index: -1
+dragon_maldek_adult_pbook3
+  rotate: false
+  xy: 236, 2
+  size: 253, 162
+  orig: 255, 162
+  offset: 1, 0
+  index: -1
+dragon_maldek_child_eye
+  rotate: false
+  xy: 1193, 816
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+dragon_maldek_child_neck
+  rotate: false
+  xy: 768, 972
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_r_arm2
+  rotate: false
+  xy: 1072, 871
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+dragon_maldek_critical_d1
+  rotate: false
+  xy: 7, 2
+  size: 227, 229
+  orig: 231, 237
+  offset: 1, 2
+  index: -1
+dragon_maldek_e_r_arm1
+  rotate: false
+  xy: 907, 575
+  size: 45, 66
+  orig: 45, 66
+  offset: 0, 0
+  index: -1
+dragon_maldek_child_eye2
+  rotate: false
+  xy: 1191, 854
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+dragon_maldek_critical_d4
+  rotate: true
+  xy: 664, 666
+  size: 123, 107
+  orig: 231, 237
+  offset: 31, 63
+  index: -1
+dragon_maldek_adult_l_reg2
+  rotate: false
+  xy: 64, 729
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_l_reg3
+  rotate: true
+  xy: 1158, 780
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+dragon_maldek_critical_d2
+  rotate: false
+  xy: 1000, 2
+  size: 215, 193
+  orig: 231, 237
+  offset: 3, 42
+  index: -1
+dragon_maldek_adult_eye2
+  rotate: false
+  xy: 7, 538
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_pbook1
+  rotate: false
+  xy: 748, 2
+  size: 250, 149
+  orig: 250, 149
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_r_hand
+  rotate: false
+  xy: 884, 788
+  size: 44, 19
+  orig: 44, 19
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_eye3
+  rotate: true
+  xy: 280, 483
+  size: 19, 11
+  orig: 21, 11
+  offset: 1, 0
+  index: -1
+dragon_maldek_baby_sol
+  rotate: false
+  xy: 1137, 977
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+dragon_maldek_critical_d3
+  rotate: false
+  xy: 965, 364
+  size: 187, 171
+  orig: 231, 237
+  offset: 29, 30
+  index: -1
+dragon_maldek_adult_backmout
+  rotate: true
+  xy: 762, 536
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_eye1
+  rotate: true
+  xy: 280, 504
+  size: 17, 11
+  orig: 19, 11
+  offset: 1, 0
+  index: -1
+dragon_maldek_e_llit
+  rotate: false
+  xy: 773, 788
+  size: 109, 19
+  orig: 111, 19
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_l_reg1
+  rotate: true
+  xy: 671, 982
+  size: 38, 63
+  orig: 38, 63
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_neck
+  rotate: false
+  xy: 769, 809
+  size: 73, 80
+  orig: 73, 80
+  offset: 0, 0
+  index: -1
+dragon_maldek_child_head2
+  rotate: false
+  xy: 978, 985
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+dragon_maldek_child_body1
+  rotate: true
+  xy: 911, 809
+  size: 74, 59
+  orig: 74, 59
+  offset: 0, 0
+  index: -1
+dragon_maldek_child_body2
+  rotate: true
+  xy: 1027, 772
+  size: 57, 49
+  orig: 57, 49
+  offset: 0, 0
+  index: -1
+dragon_maldek_child_body3
+  rotate: false
+  xy: 811, 978
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_tailpen
+  rotate: false
+  xy: 956, 632
+  size: 68, 92
+  orig: 68, 92
+  offset: 0, 0
+  index: -1
+dragon_maldek_critical_hol2
+  rotate: false
+  xy: 773, 643
+  size: 109, 107
+  orig: 109, 107
+  offset: 0, 0
+  index: -1
+dragon_maldek_critical_cril1
+  rotate: true
+  xy: 491, 154
+  size: 8, 134
+  orig: 8, 252
+  offset: 0, 0
+  index: -1
+dragon_maldek_critical_hol3
+  rotate: false
+  xy: 778, 153
+  size: 185, 184
+  orig: 185, 184
+  offset: 0, 0
+  index: -1
+dragon_maldek_critical_cril4
+  rotate: true
+  xy: 404, 959
+  size: 63, 67
+  orig: 63, 67
+  offset: 0, 0
+  index: -1
+dragon_maldek_critical_cril5
+  rotate: false
+  xy: 768, 891
+  size: 74, 79
+  orig: 74, 79
+  offset: 0, 0
+  index: -1
+dragon_maldek_critical_cril2
+  rotate: false
+  xy: 638, 536
+  size: 122, 128
+  orig: 122, 128
+  offset: 0, 0
+  index: -1
+dragon_maldek_critical_cril3
+  rotate: false
+  xy: 673, 791
+  size: 94, 98
+  orig: 94, 98
+  offset: 0, 0
+  index: -1
+dragon_maldek_critical_hol1
+  rotate: true
+  xy: 779, 339
+  size: 185, 184
+  orig: 185, 184
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_r_foot
+  rotate: true
+  xy: 1023, 985
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_r_hand
+  rotate: true
+  xy: 935, 739
+  size: 44, 19
+  orig: 44, 19
+  offset: 0, 0
+  index: -1
+dragon_4143_critical_shield
+  rotate: true
+  xy: 370, 523
+  size: 159, 109
+  orig: 161, 111
+  offset: 1, 1
+  index: -1
+dragon_maldek_adult_r_arm2
+  rotate: true
+  xy: 1119, 814
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_wing2
+  rotate: true
+  xy: 959, 537
+  size: 40, 167
+  orig: 40, 167
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_wing1
+  rotate: true
+  xy: 773, 752
+  size: 34, 160
+  orig: 34, 160
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_wing4
+  rotate: false
+  xy: 127, 944
+  size: 111, 78
+  orig: 111, 78
+  offset: 0, 0
+  index: -1
+dragon_maldek_baby_l_reg1
+  rotate: false
+  xy: 1025, 871
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_wing3
+  rotate: true
+  xy: 675, 891
+  size: 89, 91
+  orig: 89, 91
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_r_arm1
+  rotate: false
+  xy: 1072, 624
+  size: 47, 68
+  orig: 47, 68
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_tail 2
+  rotate: true
+  xy: 1102, 912
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_act1
+  rotate: true
+  xy: 1064, 942
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_qwing2
+  rotate: false
+  xy: 1154, 396
+  size: 57, 139
+  orig: 57, 139
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_tail 1
+  rotate: false
+  xy: 133, 729
+  size: 86, 179
+  orig: 86, 179
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_l_arm2
+  rotate: true
+  xy: 1020, 903
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_mout
+  rotate: true
+  xy: 1191, 889
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+dragon_maldek_child_actring2
+  rotate: true
+  xy: 575, 925
+  size: 49, 98
+  orig: 49, 98
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_qwing1
+  rotate: true
+  xy: 762, 575
+  size: 66, 143
+  orig: 66, 143
+  offset: 0, 0
+  index: -1
+dragon_maldek_child_mout
+  rotate: true
+  xy: 1112, 976
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+dragon_maldek_child_actring1
+  rotate: true
+  xy: 221, 850
+  size: 92, 108
+  orig: 92, 108
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_qqwing1
+  rotate: false
+  xy: 509, 837
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_l_hand
+  rotate: false
+  xy: 1119, 858
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+dragon_maldek_baby_eye
+  rotate: true
+  xy: 1169, 948
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_qqwing2
+  rotate: false
+  xy: 331, 844
+  size: 69, 126
+  orig: 69, 126
+  offset: 0, 0
+  index: -1
+dragon_maldek_baby_mout
+  rotate: false
+  xy: 1121, 752
+  size: 45, 17
+  orig: 45, 17
+  offset: 0, 0
+  index: -1
+dragon_maldek_critical_lithh
+  rotate: false
+  xy: 2, 2
+  size: 3, 548
+  orig: 3, 548
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_body1
+  rotate: false
+  xy: 956, 726
+  size: 69, 65
+  orig: 69, 65
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_body2
+  rotate: false
+  xy: 236, 166
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_body3
+  rotate: true
+  xy: 1027, 711
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+dragon_maldek_baby_book
+  rotate: false
+  xy: 779, 526
+  size: 178, 47
+  orig: 178, 47
+  offset: 0, 0
+  index: -1
+dragon_maldek_child_head
+  rotate: true
+  xy: 2, 939
+  size: 83, 77
+  orig: 83, 77
+  offset: 0, 0
+  index: -1
+dragon_maldek_child_r_reg2
+  rotate: false
+  xy: 94, 729
+  size: 27, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_actring2
+  rotate: false
+  xy: 221, 684
+  size: 95, 164
+  orig: 95, 164
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_l_sol
+  rotate: false
+  xy: 188, 910
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+dragon_maldek_child_r_reg3
+  rotate: true
+  xy: 1057, 911
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+dragon_maldek_e_actring1
+  rotate: false
+  xy: 199, 523
+  size: 169, 159
+  orig: 169, 159
+  offset: 0, 0
+  index: -1
+dragon_maldek_child_r_reg1
+  rotate: false
+  xy: 1085, 694
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+dragon_maldek_child_sol1
+  rotate: false
+  xy: 1159, 814
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dragon_maldek_child_book
+  rotate: true
+  xy: 64, 538
+  size: 189, 133
+  orig: 189, 133
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_l_foot
+  rotate: true
+  xy: 1091, 985
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+dragon_maldek_adult_l_hand
+  rotate: false
+  xy: 1168, 757
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1

@@ -7,7 +7,33 @@
             <key>dragon/dragon_4053_critical/critical.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,116},{384,260}}</string>
+                <string>{{2,2},{768,519}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{768,519}}</string>
+                <key>sourceSize</key>
+                <string>{768,519}</string>
+            </dict>
+            <key>dragon/dragon_4053_critical/cut_in.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{772,2},{576,112}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{576,112}}</string>
+                <key>sourceSize</key>
+                <string>{576,112}</string>
+            </dict>
+            <key>dragon/dragon_4053_critical/e_critical.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,674},{384,260}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -17,18 +43,18 @@
                 <key>sourceSize</key>
                 <string>{384,260}</string>
             </dict>
-            <key>dragon/dragon_4053_critical/cut_in.png</key>
+            <key>dragon/dragon_4053_critical/e_cut_in.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{464,112}}</string>
+                <string>{{2,523},{768,149}}</string>
                 <key>offset</key>
-                <string>{56,0}</string>
+                <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{112,0},{464,112}}</string>
+                <string>{{0,0},{768,149}}</string>
                 <key>sourceSize</key>
-                <string>{576,112}</string>
+                <string>{768,149}</string>
             </dict>
         </dict>
         <key>metadata</key>
@@ -38,9 +64,9 @@
             <key>realTextureFileName</key>
             <string>dragon_4053_critical.pvr.ccz</string>
             <key>size</key>
-            <string>{468,378}</string>
+            <string>{886,936}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:7aee4e9a26f8fa65c8a6df6feb795a64:5bbf98b227aafbd6422caf3696e69481:76c78bd31dc8d91522da6b08fe14bc8e$</string>
+            <string>$TexturePacker:SmartUpdate:7bae8562ba296d116eae852db0ace7a2:4e471c4252ad607e44268d606d37942e:76c78bd31dc8d91522da6b08fe14bc8e$</string>
             <key>textureFileName</key>
             <string>dragon_4053_critical.pvr.ccz</string>
         </dict>

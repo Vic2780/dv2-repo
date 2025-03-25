@@ -7,7 +7,7 @@
             <key>dragon/dragon_4020/box_adult.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{107,2},{71,70}}</string>
+                <string>{{179,2},{71,70}}</string>
                 <key>offset</key>
                 <string>{1,0}</string>
                 <key>rotated</key>
@@ -20,7 +20,7 @@
             <key>dragon/dragon_4020/box_baby.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{248,2},{63,70}}</string>
+                <string>{{320,2},{63,70}}</string>
                 <key>offset</key>
                 <string>{5,0}</string>
                 <key>rotated</key>
@@ -33,13 +33,26 @@
             <key>dragon/dragon_4020/box_child.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{179,2},{67,70}}</string>
+                <string>{{251,2},{67,70}}</string>
                 <key>offset</key>
                 <string>{-3,0}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{67,70}}</string>
+                <key>sourceSize</key>
+                <string>{73,70}</string>
+            </dict>
+            <key>dragon/dragon_4020/box_evolution.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{107,2},{71,70}}</string>
+                <key>offset</key>
+                <string>{1,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{2,0},{71,70}}</string>
                 <key>sourceSize</key>
                 <string>{73,70}</string>
             </dict>
@@ -59,7 +72,7 @@
             <key>dragon/dragon_4020/egg_small.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{313,2},{63,59}}</string>
+                <string>{{385,2},{63,59}}</string>
                 <key>offset</key>
                 <string>{-1,2}</string>
                 <key>rotated</key>
@@ -77,9 +90,9 @@
             <key>realTextureFileName</key>
             <string>dragon_4020.pvr.ccz</string>
             <key>size</key>
-            <string>{374,101}</string>
+            <string>{446,101}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:12678677f6e5f8d65d541a6001acaa43:171c6674f3495c852b96c758594645eb:f1450c6152b9c31a11cbb550b991251d$</string>
+            <string>$TexturePacker:SmartUpdate:3a0cce9284114c10f9f63fd4ee3808fd:44c588d7d322f79b97110f61bf6402de:f1450c6152b9c31a11cbb550b991251d$</string>
             <key>textureFileName</key>
             <string>dragon_4020.pvr.ccz</string>
         </dict>

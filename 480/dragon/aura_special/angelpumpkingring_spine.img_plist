@@ -1,0 +1,32 @@
+angelpumpkingring_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+eff2
+  rotate: false
+  xy: 45, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+face_bg
+  rotate: true
+  xy: 79, 2
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 107, 2
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+face_eff
+  rotate: false
+  xy: 2, 2
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1

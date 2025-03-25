@@ -1,0 +1,704 @@
+dragon_4103_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_zombie_baby_mouth
+  rotate: false
+  xy: 1302, 158
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_eff1
+  rotate: true
+  xy: 1239, 205
+  size: 26, 17
+  orig: 70, 87
+  offset: 0, 32
+  index: -1
+dragon_zombie_adult_ear1
+  rotate: false
+  xy: 1076, 220
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_neck1
+  rotate: false
+  xy: 564, 90
+  size: 80, 98
+  orig: 80, 98
+  offset: 0, 0
+  index: -1
+dragon_zombie_child_body2
+  rotate: true
+  xy: 228, 194
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+dragon_zombie_baby_eff4
+  rotate: true
+  xy: 724, 2
+  size: 78, 142
+  orig: 130, 170
+  offset: 18, 9
+  index: -1
+dragon_zombie_adult_bone4
+  rotate: false
+  xy: 1263, 150
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_leg4
+  rotate: false
+  xy: 944, 138
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_arm2
+  rotate: false
+  xy: 947, 180
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+dragon_zombie_crtitcal_eff7
+  rotate: false
+  xy: 294, 2
+  size: 142, 93
+  orig: 204, 113
+  offset: 26, 3
+  index: -1
+dragon_zombie_adult_eff5
+  rotate: false
+  xy: 1066, 59
+  size: 58, 67
+  orig: 70, 87
+  offset: 2, 3
+  index: -1
+dragon_zombie_crtitcal_effb
+  rotate: false
+  xy: 1234, 156
+  size: 27, 12
+  orig: 39, 20
+  offset: 1, 4
+  index: -1
+dragon_zombie_child_arm1
+  rotate: false
+  xy: 1311, 124
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_bone8
+  rotate: false
+  xy: 1263, 111
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_a3
+  rotate: false
+  xy: 1188, 118
+  size: 11, 44
+  orig: 11, 44
+  offset: 0, 0
+  index: -1
+dragon_zombie_child_arm2
+  rotate: false
+  xy: 1201, 116
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+dragon_zombie_crtitcal_eff3
+  rotate: true
+  xy: 646, 88
+  size: 90, 83
+  orig: 204, 113
+  offset: 10, 18
+  index: -1
+dragon_zombie_baby_arm2
+  rotate: false
+  xy: 1221, 211
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1
+dragon_zombie_baby_eff1
+  rotate: true
+  xy: 584, 2
+  size: 84, 138
+  orig: 130, 170
+  offset: 28, 0
+  index: -1
+dragon_zombie_adult_leg1
+  rotate: true
+  xy: 1002, 129
+  size: 38, 64
+  orig: 38, 64
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_tail4
+  rotate: true
+  xy: 731, 142
+  size: 36, 76
+  orig: 36, 76
+  offset: 0, 0
+  index: -1
+dragon_zombie_baby_tail
+  rotate: false
+  xy: 1315, 204
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+dragon_zombie_crtitcal_eff8
+  rotate: false
+  xy: 138, 2
+  size: 154, 93
+  orig: 204, 113
+  offset: 28, 3
+  index: -1
+dragon_zombie_crtitcal_eff11
+  rotate: false
+  xy: 1026, 2
+  size: 148, 55
+  orig: 204, 113
+  offset: 38, 2
+  index: -1
+dragon_zombie_child_body1
+  rotate: true
+  xy: 817, 180
+  size: 74, 58
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_bone3
+  rotate: false
+  xy: 895, 138
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_a2
+  rotate: false
+  xy: 974, 70
+  size: 26, 72
+  orig: 26, 72
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_leg5
+  rotate: false
+  xy: 1189, 178
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+dragon_zombie_baby_leg4
+  rotate: false
+  xy: 228, 246
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_body
+  rotate: false
+  xy: 731, 82
+  size: 92, 58
+  orig: 92, 58
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_arm3
+  rotate: false
+  xy: 1256, 59
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+dragon_zombie_crtitcal_eff4
+  rotate: false
+  xy: 140, 97
+  size: 130, 95
+  orig: 204, 113
+  offset: 8, 6
+  index: -1
+dragon_zombie_child_head
+  rotate: true
+  xy: 746, 180
+  size: 74, 69
+  orig: 74, 77
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_eff2
+  rotate: true
+  xy: 1234, 116
+  size: 38, 27
+  orig: 70, 87
+  offset: 0, 25
+  index: -1
+dragon_zombie_crtitcal_effc
+  rotate: true
+  xy: 868, 57
+  size: 11, 128
+  orig: 21, 134
+  offset: 2, 6
+  index: -1
+dragon_zombie_child_leg1
+  rotate: true
+  xy: 1028, 234
+  size: 17, 39
+  orig: 17, 39
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_bone7
+  rotate: true
+  xy: 1258, 206
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_foot2
+  rotate: false
+  xy: 1201, 158
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+dragon_zombie_child_tail3
+  rotate: false
+  xy: 1002, 59
+  size: 62, 68
+  orig: 62, 68
+  offset: 0, 0
+  index: -1
+dragon_zombie_child_mouth
+  rotate: true
+  xy: 1144, 219
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+dragon_zombie_crtitcal_eff10
+  rotate: false
+  xy: 868, 2
+  size: 156, 53
+  orig: 204, 113
+  offset: 38, 3
+  index: -1
+dragon_zombie_child_arm3
+  rotate: true
+  xy: 911, 235
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_wing1
+  rotate: false
+  xy: 2, 2
+  size: 134, 141
+  orig: 134, 141
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_eff6
+  rotate: true
+  xy: 578, 190
+  size: 64, 73
+  orig: 70, 87
+  offset: 2, 3
+  index: -1
+dragon_zombie_child_leg2
+  rotate: false
+  xy: 1136, 170
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+dragon_zombie_baby_eff2
+  rotate: true
+  xy: 272, 188
+  size: 66, 124
+  orig: 130, 170
+  offset: 29, 21
+  index: -1
+dragon_zombie_adult_bone2
+  rotate: false
+  xy: 1290, 177
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_a1
+  rotate: false
+  xy: 825, 82
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+dragon_zombie_baby_leg6
+  rotate: true
+  xy: 1325, 222
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_tail3
+  rotate: false
+  xy: 1110, 174
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+dragon_zombie_child_foot1
+  rotate: true
+  xy: 1220, 178
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+dragon_zombie_baby_leg1
+  rotate: false
+  xy: 1322, 48
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_b3
+  rotate: true
+  xy: 1239, 233
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_arm4
+  rotate: false
+  xy: 877, 180
+  size: 32, 68
+  orig: 32, 68
+  offset: 0, 0
+  index: -1
+dragon_zombie_crtitcal_eff9
+  rotate: false
+  xy: 1176, 2
+  size: 144, 55
+  orig: 204, 113
+  offset: 45, 2
+  index: -1
+dragon_zombie_baby_body
+  rotate: false
+  xy: 1132, 118
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+dragon_zombie_crtitcal_effd
+  rotate: true
+  xy: 484, 193
+  size: 15, 22
+  orig: 21, 26
+  offset: 3, 3
+  index: -1
+dragon_zombie_child_wing1
+  rotate: false
+  xy: 398, 210
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_bone6
+  rotate: false
+  xy: 1310, 223
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+dragon_zombie_child_hand2
+  rotate: false
+  xy: 948, 234
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_leg2
+  rotate: false
+  xy: 1163, 170
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_bone10
+  rotate: true
+  xy: 1290, 204
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+dragon_zombie_child_tail2
+  rotate: false
+  xy: 1197, 212
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+dragon_zombie_baby_leg5
+  rotate: true
+  xy: 1325, 240
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_body2
+  rotate: false
+  xy: 731, 82
+  size: 92, 58
+  orig: 92, 58
+  offset: 0, 0
+  index: -1
+dragon_zombie_crtitcal_eff5
+  rotate: false
+  xy: 2, 145
+  size: 136, 99
+  orig: 204, 113
+  offset: 5, 6
+  index: -1
+dragon_zombie_adult_eff3
+  rotate: true
+  xy: 1000, 186
+  size: 46, 49
+  orig: 70, 87
+  offset: 3, 16
+  index: -1
+dragon_zombie_adult_hand2
+  rotate: true
+  xy: 1315, 59
+  size: 63, 28
+  orig: 63, 28
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_tail2
+  rotate: false
+  xy: 1076, 174
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_leg6
+  rotate: false
+  xy: 911, 180
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_arm1
+  rotate: true
+  xy: 809, 143
+  size: 35, 80
+  orig: 35, 80
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_b2
+  rotate: false
+  xy: 1291, 223
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_foot1
+  rotate: true
+  xy: 1322, 2
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_head
+  rotate: true
+  xy: 1068, 128
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1
+dragon_zombie_child_arm4
+  rotate: false
+  xy: 1112, 220
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+dragon_zombie_crtitcal_eff1
+  rotate: false
+  xy: 1002, 169
+  size: 58, 15
+  orig: 204, 113
+  offset: 58, 6
+  index: -1
+dragon_zombie_adult_neck2
+  rotate: true
+  xy: 1195, 59
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_eff7
+  rotate: true
+  xy: 895, 70
+  size: 66, 77
+  orig: 70, 87
+  offset: 1, 3
+  index: -1
+dragon_zombie_baby_eff3
+  rotate: true
+  xy: 438, 2
+  size: 86, 144
+  orig: 130, 170
+  offset: 11, 8
+  index: -1
+dragon_zombie_adult_a4
+  rotate: false
+  xy: 1298, 111
+  size: 11, 37
+  orig: 11, 37
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_bone1
+  rotate: true
+  xy: 508, 193
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+dragon_zombie_baby_head
+  rotate: false
+  xy: 1126, 59
+  size: 67, 57
+  orig: 67, 57
+  offset: 0, 0
+  index: -1
+dragon_zombie_baby_leg2
+  rotate: false
+  xy: 1239, 170
+  size: 17, 33
+  orig: 17, 33
+  offset: 0, 0
+  index: -1
+dragon_zombie_crtitcal_eff6
+  rotate: false
+  xy: 272, 97
+  size: 124, 89
+  orig: 204, 113
+  offset: 27, 3
+  index: -1
+dragon_zombie_adult_mouth
+  rotate: false
+  xy: 1270, 227
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_eff4
+  rotate: false
+  xy: 526, 193
+  size: 50, 61
+  orig: 70, 87
+  offset: 5, 6
+  index: -1
+dragon_zombie_adult_head2
+  rotate: true
+  xy: 462, 210
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1
+dragon_zombie_child_neck
+  rotate: true
+  xy: 140, 194
+  size: 60, 86
+  orig: 60, 92
+  offset: 0, 6
+  index: -1
+dragon_zombie_adult_bone5
+  rotate: true
+  xy: 1258, 175
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+dragon_zombie_child_hand1
+  rotate: false
+  xy: 987, 234
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_leg3
+  rotate: false
+  xy: 972, 144
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_b1
+  rotate: false
+  xy: 1255, 233
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+dragon_zombie_child_tail1
+  rotate: true
+  xy: 1315, 177
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_body1
+  rotate: false
+  xy: 484, 90
+  size: 78, 101
+  orig: 78, 101
+  offset: 0, 0
+  index: -1
+dragon_zombie_crtitcal_eff2
+  rotate: true
+  xy: 653, 180
+  size: 74, 91
+  orig: 204, 113
+  offset: 11, 9
+  index: -1
+dragon_zombie_crtitcal_effa
+  rotate: false
+  xy: 2, 246
+  size: 39, 8
+  orig: 39, 20
+  offset: 0, 3
+  index: -1
+dragon_zombie_baby_arm1
+  rotate: false
+  xy: 43, 246
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_hand1
+  rotate: true
+  xy: 1051, 186
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_tail1
+  rotate: true
+  xy: 398, 97
+  size: 111, 84
+  orig: 111, 84
+  offset: 0, 0
+  index: -1
+dragon_zombie_adult_bone9
+  rotate: true
+  xy: 1178, 219
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1

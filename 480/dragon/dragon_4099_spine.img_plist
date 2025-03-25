@@ -1,515 +1,712 @@
 dragon_4099_spine.pvr.ccz
+size: 512, 2454
 format: RGBA4444
 filter: Linear,Linear
 repeat: none
-dragon_rupes_child_heart
+dragon_rupes_adult_att
   rotate: false
-  xy: 961, 848
-  size: 46, 39
-  orig: 46, 39
-  offset: 0, 0
-  index: -1
-dragon_rupes_critical13
-  rotate: true
-  xy: 448, 456
-  size: 415, 106
-  orig: 453, 116
-  offset: 8, 10
-  index: -1
-dragon_rupes_adult_leg6
-  rotate: false
-  xy: 796, 943
-  size: 33, 69
-  orig: 35, 71
-  offset: 1, 1
-  index: -1
-dragon_rupes_critical_q4
-  rotate: false
-  xy: 237, 456
-  size: 209, 452
-  orig: 235, 452
-  offset: 7, 0
-  index: -1
-dragon_rupes_adult_eye2
-  rotate: true
-  xy: 572, 1004
-  size: 12, 19
-  orig: 14, 21
-  offset: 1, 1
-  index: -1
-dragon_rupes_critical16
-  rotate: true
-  xy: 848, 2
-  size: 306, 154
-  orig: 314, 200
-  offset: 0, 27
-  index: -1
-dragon_rupes_critical7
-  rotate: false
-  xy: 978, 657
-  size: 44, 46
-  orig: 44, 46
-  offset: 0, 0
-  index: -1
-dragon_rupes_baby_leg6
-  rotate: false
-  xy: 914, 554
-  size: 50, 41
-  orig: 50, 41
+  xy: 470, 255
+  size: 41, 56
+  orig: 41, 56
   offset: 0, 0
   index: -1
 dragon_rupes_adult_body1
   rotate: false
-  xy: 753, 866
+  xy: 109, 1739
   size: 73, 75
   orig: 73, 75
   offset: 0, 0
   index: -1
-dragon_rupes_adult_eye
-  rotate: true
-  xy: 593, 1004
-  size: 12, 19
-  orig: 14, 21
-  offset: 1, 1
-  index: -1
-dragon_rupes_baby_eye
-  rotate: true
-  xy: 921, 923
-  size: 62, 40
-  orig: 62, 40
-  offset: 0, 0
-  index: -1
-dragon_rupes_adult_leg2
-  rotate: true
-  xy: 659, 943
-  size: 73, 71
-  orig: 73, 71
-  offset: 0, 0
-  index: -1
-dragon_rupes_critical4
-  rotate: false
-  xy: 908, 679
-  size: 34, 88
-  orig: 34, 88
-  offset: 0, 0
-  index: -1
-dragon_rupes_child_body2
-  rotate: true
-  xy: 785, 702
-  size: 82, 59
-  orig: 82, 59
-  offset: 0, 0
-  index: -1
-dragon_rupes_adult_wing1
-  rotate: true
-  xy: 665, 286
-  size: 168, 150
-  orig: 168, 150
-  offset: 0, 0
-  index: -1
-dragon_rupes_child_leg2
-  rotate: true
-  xy: 970, 506
-  size: 48, 51
-  orig: 48, 51
-  offset: 0, 0
-  index: -1
-dragon_rupes_critical12
-  rotate: true
-  xy: 1004, 2
-  size: 166, 16
-  orig: 234, 46
-  offset: 26, 24
-  index: -1
-dragon_rupes_baby_leg3
-  rotate: true
-  xy: 913, 659
-  size: 18, 23
-  orig: 18, 23
-  offset: 0, 0
-  index: -1
-dragon_rupes_adult_head
-  rotate: true
-  xy: 966, 556
-  size: 41, 56
-  orig: 41, 56
-  offset: 0, 0
-  index: -1
-dragon_rupes_child_mouth1
-  rotate: true
-  xy: 944, 659
-  size: 58, 32
-  orig: 58, 32
-  offset: 0, 0
-  index: -1
-dragon_rupes_critical_q1
-  rotate: true
-  xy: 556, 704
-  size: 159, 138
-  orig: 235, 452
-  offset: 44, 0
-  index: -1
-dragon_rupes_adult_mouth1
-  rotate: false
-  xy: 1000, 922
-  size: 20, 26
-  orig: 20, 26
-  offset: 0, 0
-  index: -1
-dragon_rupes_critical6
-  rotate: true
-  xy: 817, 286
-  size: 22, 29
-  orig: 22, 29
-  offset: 0, 0
-  index: -1
-dragon_rupes_child_leg6
-  rotate: false
-  xy: 944, 719
-  size: 32, 50
-  orig: 32, 50
-  offset: 0, 0
-  index: -1
-dragon_rupes_adult_neck
-  rotate: false
-  xy: 835, 455
-  size: 77, 119
-  orig: 77, 119
-  offset: 0, 0
-  index: -1
-dragon_rupes_adult_leg7
-  rotate: false
-  xy: 978, 747
-  size: 44, 24
-  orig: 44, 24
-  offset: 0, 0
-  index: -1
-dragon_rupes_critical_q5
-  rotate: false
-  xy: 2, 2
-  size: 235, 452
-  orig: 235, 452
-  offset: 0, 0
-  index: -1
-dragon_rupes_child_wing2
-  rotate: false
-  xy: 455, 873
-  size: 88, 88
-  orig: 88, 88
-  offset: 0, 0
-  index: -1
-dragon_rupes_critical3
-  rotate: false
-  xy: 914, 455
-  size: 54, 97
-  orig: 54, 97
-  offset: 0, 0
-  index: -1
-dragon_rupes_adult_leg3
-  rotate: true
-  xy: 878, 941
-  size: 75, 41
-  orig: 75, 41
-  offset: 0, 0
-  index: -1
-dragon_rupes_baby_leg2
-  rotate: true
-  xy: 961, 889
-  size: 31, 41
-  orig: 31, 41
-  offset: 0, 0
-  index: -1
-dragon_rupes_child_mouth2
-  rotate: false
-  xy: 973, 813
-  size: 48, 33
-  orig: 48, 33
-  offset: 0, 0
-  index: -1
-dragon_rupes_child_body1
-  rotate: false
-  xy: 732, 943
-  size: 62, 66
-  orig: 64, 68
-  offset: 1, 1
-  index: -1
-dragon_rupes_child_leg3
-  rotate: false
-  xy: 886, 786
-  size: 47, 68
-  orig: 47, 68
-  offset: 0, 0
-  index: -1
-dragon_rupes_critical15
-  rotate: true
-  xy: 556, 456
-  size: 246, 133
-  orig: 248, 135
-  offset: 1, 1
-  index: -1
-dragon_rupes_baby_head
-  rotate: false
-  xy: 791, 786
-  size: 93, 74
-  orig: 93, 74
-  offset: 0, 0
-  index: -1
-dragon_rupes_adult_head1
-  rotate: true
-  xy: 655, 916
-  size: 17, 14
-  orig: 17, 14
-  offset: 0, 0
-  index: -1
-dragon_rupes_adult_tail
-  rotate: true
-  xy: 737, 456
-  size: 154, 96
-  orig: 154, 96
-  offset: 0, 0
-  index: -1
-dragon_rupes_critical11
-  rotate: false
-  xy: 817, 413
-  size: 151, 40
-  orig: 153, 42
-  offset: 1, 1
-  index: -1
-dragon_rupes_adult_leg4
-  rotate: false
-  xy: 919, 856
-  size: 40, 65
-  orig: 44, 65
-  offset: 4, 0
-  index: -1
-dragon_rupes_baby_leg1
-  rotate: false
-  xy: 994, 958
-  size: 20, 26
-  orig: 20, 26
-  offset: 0, 0
-  index: -1
-dragon_rupes_critical2
-  rotate: true
-  xy: 528, 963
-  size: 53, 42
-  orig: 53, 42
-  offset: 0, 0
-  index: -1
-dragon_rupes_critical_q2
-  rotate: false
-  xy: 665, 2
-  size: 181, 282
-  orig: 235, 452
-  offset: 25, 0
-  index: -1
-dragon_rupes_critical14
-  rotate: false
-  xy: 2, 910
-  size: 451, 106
-  orig: 453, 116
-  offset: 0, 10
-  index: -1
-dragon_rupes_child_wing1
-  rotate: false
-  xy: 737, 612
-  size: 101, 88
-  orig: 101, 88
-  offset: 0, 0
-  index: -1
-dragon_rupes_adult_body3
-  rotate: true
-  xy: 828, 862
-  size: 77, 58
-  orig: 77, 58
-  offset: 0, 0
-  index: -1
-dragon_rupes_critical9
-  rotate: true
-  xy: 934, 310
-  size: 101, 88
-  orig: 103, 90
-  offset: 1, 1
-  index: -1
-dragon_rupes_baby_love
-  rotate: false
-  xy: 696, 790
-  size: 93, 74
-  orig: 93, 74
-  offset: 0, 0
-  index: -1
-dragon_rupes_baby_leg5
-  rotate: false
-  xy: 973, 773
-  size: 48, 38
-  orig: 48, 38
-  offset: 0, 0
-  index: -1
-dragon_rupes_child_leg4
-  rotate: false
-  xy: 913, 597
-  size: 46, 60
-  orig: 48, 62
-  offset: 1, 1
-  index: -1
-dragon_rupes_critical_q6
-  rotate: false
-  xy: 2, 456
-  size: 233, 452
-  orig: 235, 452
-  offset: 0, 0
-  index: -1
-dragon_rupes_critical10
-  rotate: true
-  xy: 691, 456
-  size: 232, 44
-  orig: 234, 46
-  offset: 1, 1
-  index: -1
-dragon_rupes_child_tail
-  rotate: false
-  xy: 572, 959
-  size: 85, 43
-  orig: 85, 43
-  offset: 0, 0
-  index: -1
-dragon_rupes_adult_mouth2
-  rotate: false
-  xy: 963, 922
-  size: 35, 34
-  orig: 35, 34
-  offset: 0, 0
-  index: -1
-dragon_rupes_critical8
-  rotate: false
-  xy: 545, 916
-  size: 108, 41
-  orig: 108, 41
-  offset: 0, 0
-  index: -1
 dragon_rupes_adult_body2
   rotate: false
-  xy: 696, 702
+  xy: 424, 1466
   size: 87, 86
   orig: 87, 86
   offset: 0, 0
   index: -1
-dragon_rupes_adult_att
+dragon_rupes_adult_body3
+  rotate: true
+  xy: 453, 610
+  size: 77, 58
+  orig: 77, 58
+  offset: 0, 0
+  index: -1
+dragon_rupes_adult_eye
   rotate: false
-  xy: 961, 599
+  xy: 497, 1442
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+dragon_rupes_adult_eye2
+  rotate: false
+  xy: 289, 2025
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+dragon_rupes_adult_head
+  rotate: false
+  xy: 470, 313
   size: 41, 56
   orig: 41, 56
   offset: 0, 0
   index: -1
+dragon_rupes_adult_head1
+  rotate: false
+  xy: 494, 1828
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_rupes_adult_leg1
+  rotate: false
+  xy: 259, 2048
+  size: 71, 101
+  orig: 71, 101
+  offset: 0, 0
+  index: -1
+dragon_rupes_adult_leg2
+  rotate: false
+  xy: 433, 791
+  size: 73, 71
+  orig: 73, 71
+  offset: 0, 0
+  index: -1
+dragon_rupes_adult_leg3
+  rotate: true
+  xy: 470, 111
+  size: 75, 41
+  orig: 75, 41
+  offset: 0, 0
+  index: -1
+dragon_rupes_adult_leg4
+  rotate: false
+  xy: 470, 188
+  size: 41, 65
+  orig: 44, 65
+  offset: 3, 0
+  index: -1
 dragon_rupes_adult_leg5
   rotate: true
-  xy: 978, 705
+  xy: 433, 864
   size: 40, 44
   orig: 40, 44
   offset: 0, 0
   index: -1
-dragon_rupes_baby_leg4
-  rotate: true
-  xy: 970, 986
-  size: 29, 36
-  orig: 29, 38
-  offset: 0, 2
-  index: -1
-dragon_rupes_critical1
+dragon_rupes_adult_leg6
   rotate: false
-  xy: 455, 963
-  size: 71, 53
-  orig: 71, 53
+  xy: 419, 2215
+  size: 35, 71
+  orig: 35, 71
   offset: 0, 0
   index: -1
-dragon_rupes_child_head
+dragon_rupes_adult_leg7
+  rotate: false
+  xy: 263, 1328
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+dragon_rupes_adult_mouth1
+  rotate: false
+  xy: 479, 1076
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+dragon_rupes_adult_mouth2
   rotate: true
-  xy: 671, 866
-  size: 70, 80
-  orig: 70, 80
+  xy: 477, 2011
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+dragon_rupes_adult_neck
+  rotate: false
+  xy: 186, 2176
+  size: 77, 119
+  orig: 77, 119
+  offset: 0, 0
+  index: -1
+dragon_rupes_adult_tail
+  rotate: false
+  xy: 261, 1682
+  size: 154, 96
+  orig: 154, 96
+  offset: 0, 0
+  index: -1
+dragon_rupes_adult_wing1
+  rotate: true
+  xy: 109, 1569
+  size: 168, 150
+  orig: 168, 150
   offset: 0, 0
   index: -1
 dragon_rupes_adult_wing2
-  rotate: false
-  xy: 817, 310
+  rotate: true
+  xy: 186, 1931
   size: 115, 101
   orig: 115, 101
   offset: 0, 0
   index: -1
-dragon_rupes_child_leg1
-  rotate: true
-  xy: 921, 987
-  size: 29, 47
-  orig: 29, 47
-  offset: 0, 0
-  index: -1
 dragon_rupes_baby_body
-  rotate: false
-  xy: 970, 413
+  rotate: true
+  xy: 404, 1918
   size: 52, 91
   orig: 52, 91
   offset: 0, 0
   index: -1
-dragon_rupes_critical_q3
-  rotate: false
-  xy: 470, 2
-  size: 193, 452
-  orig: 235, 452
-  offset: 15, 0
+dragon_rupes_baby_eye
+  rotate: true
+  xy: 415, 2391
+  size: 62, 40
+  orig: 62, 40
+  offset: 0, 0
   index: -1
-dragon_rupes_child_eye
+dragon_rupes_baby_head
+  rotate: true
+  xy: 332, 2025
+  size: 93, 74
+  orig: 93, 74
+  offset: 0, 0
+  index: -1
+dragon_rupes_baby_leg1
   rotate: false
-  xy: 963, 958
-  size: 29, 26
-  orig: 29, 26
+  xy: 479, 1104
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+dragon_rupes_baby_leg2
+  rotate: false
+  xy: 479, 1033
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+dragon_rupes_baby_leg3
+  rotate: true
+  xy: 305, 2025
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+dragon_rupes_baby_leg4
+  rotate: true
+  xy: 474, 2048
+  size: 29, 37
+  orig: 29, 38
+  offset: 0, 1
+  index: -1
+dragon_rupes_baby_leg5
+  rotate: true
+  xy: 417, 1658
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+dragon_rupes_baby_leg6
+  rotate: true
+  xy: 470, 371
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+dragon_rupes_baby_love
+  rotate: true
+  xy: 340, 2120
+  size: 93, 74
+  orig: 93, 74
   offset: 0, 0
   index: -1
 dragon_rupes_baby_mouth
-  rotate: true
-  xy: 831, 941
-  size: 75, 45
+  rotate: false
+  xy: 184, 1739
+  size: 75, 46
   orig: 75, 47
   offset: 0, 0
   index: -1
 dragon_rupes_baby_tail
   rotate: true
-  xy: 888, 856
+  xy: 477, 513
   size: 83, 29
   orig: 83, 29
   offset: 0, 0
   index: -1
-dragon_rupes_critical5
+dragon_rupes_child_body1
+  rotate: false
+  xy: 408, 2022
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+dragon_rupes_child_body2
+  rotate: false
+  xy: 281, 2394
+  size: 82, 59
+  orig: 82, 59
+  offset: 0, 0
+  index: -1
+dragon_rupes_child_eye
+  rotate: false
+  xy: 417, 1708
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+dragon_rupes_child_head
+  rotate: false
+  xy: 347, 2215
+  size: 70, 80
+  orig: 70, 80
+  offset: 0, 0
+  index: -1
+dragon_rupes_child_heart
   rotate: true
-  xy: 556, 865
-  size: 49, 113
-  orig: 49, 113
+  xy: 457, 2390
+  size: 46, 39
+  orig: 46, 39
   offset: 0, 0
   index: -1
-dragon_rupes_adult_leg1
+dragon_rupes_child_leg1
   rotate: false
-  xy: 840, 576
-  size: 71, 101
-  orig: 71, 101
+  xy: 479, 984
+  size: 29, 47
+  orig: 29, 47
   offset: 0, 0
   index: -1
-dragon_rupes_child_neck
+dragon_rupes_child_leg2
   rotate: false
-  xy: 846, 679
-  size: 60, 105
-  orig: 60, 105
+  xy: 416, 2162
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+dragon_rupes_child_leg3
+  rotate: false
+  xy: 416, 2092
+  size: 47, 68
+  orig: 47, 68
+  offset: 0, 0
+  index: -1
+dragon_rupes_child_leg4
+  rotate: false
+  xy: 365, 2391
+  size: 48, 62
+  orig: 48, 62
   offset: 0, 0
   index: -1
 dragon_rupes_child_leg5
   rotate: false
-  xy: 935, 771
+  xy: 433, 2288
   size: 36, 56
   orig: 36, 56
   offset: 0, 0
   index: -1
+dragon_rupes_child_leg6
+  rotate: false
+  xy: 479, 932
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+dragon_rupes_child_mouth1
+  rotate: false
+  xy: 453, 757
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1
+dragon_rupes_child_mouth2
+  rotate: false
+  xy: 213, 1328
+  size: 48, 33
+  orig: 48, 33
+  offset: 0, 0
+  index: -1
+dragon_rupes_child_neck
+  rotate: true
+  xy: 297, 1872
+  size: 60, 105
+  orig: 60, 105
+  offset: 0, 0
+  index: -1
+dragon_rupes_child_tail
+  rotate: true
+  xy: 405, 1571
+  size: 85, 43
+  orig: 85, 43
+  offset: 0, 0
+  index: -1
+dragon_rupes_child_wing1
+  rotate: true
+  xy: 191, 2297
+  size: 101, 88
+  orig: 101, 88
+  offset: 0, 0
+  index: -1
+dragon_rupes_child_wing2
+  rotate: false
+  xy: 404, 1828
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+dragon_rupes_critical1
+  rotate: false
+  xy: 191, 2400
+  size: 71, 53
+  orig: 71, 53
+  offset: 0, 0
+  index: -1
+dragon_rupes_critical10
+  rotate: true
+  xy: 138, 2100
+  size: 234, 46
+  orig: 234, 46
+  offset: 0, 0
+  index: -1
+dragon_rupes_critical11
+  rotate: true
+  xy: 433, 455
+  size: 153, 42
+  orig: 153, 42
+  offset: 0, 0
+  index: -1
+dragon_rupes_critical12
+  rotate: true
+  xy: 433, 610
+  size: 167, 18
+  orig: 234, 46
+  offset: 26, 23
+  index: -1
+dragon_rupes_critical13
+  rotate: true
+  xy: 213, 909
+  size: 417, 106
+  orig: 453, 116
+  offset: 7, 10
+  index: -1
+dragon_rupes_critical14
+  rotate: true
+  xy: 1, 1363
+  size: 451, 106
+  orig: 453, 116
+  offset: 0, 10
+  index: -1
+dragon_rupes_critical15
+  rotate: true
+  xy: 1, 2100
+  size: 247, 135
+  orig: 248, 135
+  offset: 1, 0
+  index: -1
+dragon_rupes_critical16
+  rotate: true
+  xy: 321, 909
+  size: 306, 156
+  orig: 314, 200
+  offset: 0, 26
+  index: -1
+dragon_rupes_critical2
+  rotate: false
+  xy: 456, 2227
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+dragon_rupes_critical2_e
+  rotate: false
+  xy: 466, 2138
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+dragon_rupes_critical2_t
+  rotate: false
+  xy: 466, 2138
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+dragon_rupes_critical3
+  rotate: false
+  xy: 457, 1554
+  size: 54, 97
+  orig: 54, 97
+  offset: 0, 0
+  index: -1
+dragon_rupes_critical3_e
+  rotate: false
+  xy: 457, 1653
+  size: 54, 94
+  orig: 54, 97
+  offset: 0, 0
+  index: -1
+dragon_rupes_critical4
+  rotate: false
+  xy: 477, 423
+  size: 34, 88
+  orig: 34, 88
+  offset: 0, 0
+  index: -1
+dragon_rupes_critical5
+  rotate: false
+  xy: 140, 2336
+  size: 49, 113
+  orig: 49, 113
+  offset: 0, 0
+  index: -1
+dragon_rupes_critical6
+  rotate: true
+  xy: 466, 1442
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+dragon_rupes_critical7
+  rotate: true
+  xy: 465, 2092
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+dragon_rupes_critical7_e
+  rotate: false
+  xy: 466, 2179
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+dragon_rupes_critical8
+  rotate: true
+  xy: 470, 1
+  size: 108, 41
+  orig: 108, 41
+  offset: 0, 0
+  index: -1
+dragon_rupes_critical9
+  rotate: false
+  xy: 297, 1780
+  size: 103, 90
+  orig: 103, 90
+  offset: 0, 0
+  index: -1
+dragon_rupes_critical9_p
+  rotate: false
+  xy: 297, 1780
+  size: 103, 90
+  orig: 103, 90
+  offset: 0, 0
+  index: -1
+dragon_rupes_critical_q1
+  rotate: false
+  xy: 321, 1217
+  size: 160, 139
+  orig: 235, 452
+  offset: 44, 0
+  index: -1
+dragon_rupes_critical_q2
+  rotate: false
+  xy: 1, 1816
+  size: 183, 282
+  orig: 235, 452
+  offset: 24, 0
+  index: -1
+dragon_rupes_critical_q3
+  rotate: false
+  xy: 236, 455
+  size: 195, 452
+  orig: 235, 452
+  offset: 14, 0
+  index: -1
+dragon_rupes_critical_q4
+  rotate: false
+  xy: 1, 909
+  size: 210, 452
+  orig: 235, 452
+  offset: 7, 0
+  index: -1
+dragon_rupes_critical_q5
+  rotate: false
+  xy: 1, 1
+  size: 235, 452
+  orig: 235, 452
+  offset: 0, 0
+  index: -1
+dragon_rupes_critical_q6
+  rotate: false
+  xy: 1, 455
+  size: 233, 452
+  orig: 235, 452
+  offset: 0, 0
+  index: -1
 dragon_rupes_critical_q7
   rotate: false
-  xy: 239, 2
-  size: 229, 452
+  xy: 238, 1
+  size: 230, 452
   orig: 235, 452
+  offset: 0, 0
+  index: -1
+dragon_rupes_e_att
+  rotate: false
+  xy: 261, 1571
+  size: 142, 109
+  orig: 142, 109
+  offset: 0, 0
+  index: -1
+dragon_rupes_e_body1
+  rotate: false
+  xy: 354, 2297
+  size: 77, 92
+  orig: 77, 92
+  offset: 0, 0
+  index: -1
+dragon_rupes_e_body1_lit
+  rotate: true
+  xy: 419, 1749
+  size: 77, 92
+  orig: 77, 92
+  offset: 0, 0
+  index: -1
+dragon_rupes_e_body2
+  rotate: false
+  xy: 289, 1934
+  size: 101, 89
+  orig: 102, 89
+  offset: 0, 0
+  index: -1
+dragon_rupes_e_body3
+  rotate: true
+  xy: 186, 2048
+  size: 126, 71
+  orig: 126, 71
+  offset: 0, 0
+  index: -1
+dragon_rupes_e_eye
+  rotate: true
+  xy: 474, 2079
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+dragon_rupes_e_eye2
+  rotate: true
+  xy: 417, 1736
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+dragon_rupes_e_head
+  rotate: true
+  xy: 186, 1787
+  size: 142, 109
+  orig: 142, 109
+  offset: 0, 0
+  index: -1
+dragon_rupes_e_head1
+  rotate: false
+  xy: 494, 1844
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+dragon_rupes_e_head_back
+  rotate: false
+  xy: 453, 689
+  size: 58, 66
+  orig: 142, 109
+  offset: 42, 10
+  index: -1
+dragon_rupes_e_leg1
+  rotate: false
+  xy: 265, 2151
+  size: 73, 95
+  orig: 73, 95
+  offset: 0, 0
+  index: -1
+dragon_rupes_e_leg2
+  rotate: true
+  xy: 281, 2297
+  size: 95, 71
+  orig: 95, 71
+  offset: 0, 0
+  index: -1
+dragon_rupes_e_leg3
+  rotate: false
+  xy: 392, 1972
+  size: 83, 48
+  orig: 83, 48
+  offset: 0, 0
+  index: -1
+dragon_rupes_e_leg4
+  rotate: true
+  xy: 265, 2248
+  size: 47, 80
+  orig: 47, 80
+  offset: 0, 0
+  index: -1
+dragon_rupes_e_leg5
+  rotate: true
+  xy: 433, 2346
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+dragon_rupes_e_leg6
+  rotate: false
+  xy: 479, 864
+  size: 32, 66
+  orig: 32, 66
+  offset: 0, 0
+  index: -1
+dragon_rupes_e_leg7
+  rotate: true
+  xy: 466, 1358
+  size: 82, 45
+  orig: 82, 45
+  offset: 0, 0
+  index: -1
+dragon_rupes_e_mouth1
+  rotate: false
+  xy: 479, 1076
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+dragon_rupes_e_mouth2
+  rotate: true
+  xy: 477, 1972
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+dragon_rupes_e_neck
+  rotate: true
+  xy: 1, 2349
+  size: 98, 137
+  orig: 98, 137
+  offset: 0, 0
+  index: -1
+dragon_rupes_e_tail
+  rotate: false
+  xy: 269, 1358
+  size: 195, 106
+  orig: 195, 106
+  offset: 0, 0
+  index: -1
+dragon_rupes_e_wing1
+  rotate: true
+  xy: 109, 1363
+  size: 204, 158
+  orig: 204, 158
+  offset: 0, 0
+  index: -1
+dragon_rupes_e_wing2
+  rotate: false
+  xy: 269, 1466
+  size: 153, 103
+  orig: 153, 103
   offset: 0, 0
   index: -1

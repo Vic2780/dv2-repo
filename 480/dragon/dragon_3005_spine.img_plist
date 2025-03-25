@@ -2,486 +2,857 @@ dragon_3005_spine.pvr.ccz
 format: RGBA4444
 filter: Linear,Linear
 repeat: none
+dragon_priest_e_critical_dmg2
+  rotate: false
+  xy: 2, 2
+  size: 426, 468
+  orig: 428, 470
+  offset: 1, 1
+  index: -1
+dragon_priest_e_l_wing_e
+  rotate: true
+  xy: 269, 936
+  size: 49, 100
+  orig: 49, 100
+  offset: 0, 0
+  index: -1
 dragon_priest_adult_ora2
   rotate: false
-  xy: 987, 2
+  xy: 424, 587
   size: 209, 225
   orig: 225, 225
   offset: 7, 0
   index: -1
+dragon_priest_e_r_body1_e
+  rotate: false
+  xy: 269, 987
+  size: 63, 32
+  orig: 63, 32
+  offset: 0, 0
+  index: -1
+dragon_priest_e_critical_magic
+  rotate: false
+  xy: 430, 2
+  size: 323, 323
+  orig: 325, 325
+  offset: 1, 1
+  index: -1
 dragon_priest_baby_wing
   rotate: false
-  xy: 88, 466
+  xy: 1209, 438
   size: 35, 39
   orig: 35, 39
   offset: 0, 0
   index: -1
+dragon_priest_e_r_tail1_e
+  rotate: false
+  xy: 731, 871
+  size: 71, 50
+  orig: 71, 50
+  offset: 0, 0
+  index: -1
+dragon_priest_e_wing2
+  rotate: true
+  xy: 2, 936
+  size: 83, 135
+  orig: 83, 137
+  offset: 0, 1
+  index: -1
 dragon_priest_child_leg1
   rotate: false
-  xy: 1415, 345
+  xy: 1198, 709
   size: 23, 43
   orig: 23, 43
   offset: 0, 0
   index: -1
 dragon_priest_baby_eye3
-  rotate: true
-  xy: 1223, 495
+  rotate: false
+  xy: 747, 985
   size: 11, 10
   orig: 11, 10
   offset: 0, 0
   index: -1
 dragon_priest_baby_body1
-  rotate: true
-  xy: 1441, 341
+  rotate: false
+  xy: 760, 923
   size: 43, 72
   orig: 43, 72
   offset: 0, 0
   index: -1
+dragon_priest_e_star
+  rotate: false
+  xy: 731, 810
+  size: 71, 59
+  orig: 71, 61
+  offset: 0, 0
+  index: -1
+dragon_priest_e_r_arm1_e
+  rotate: false
+  xy: 371, 936
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
 dragon_priest_adult_wing2
   rotate: true
-  xy: 1198, 2
+  xy: 1064, 786
   size: 98, 120
   orig: 98, 120
   offset: 0, 0
   index: -1
 dragon_priest_critical_dmg1
-  rotate: true
-  xy: 993, 293
+  rotate: false
+  xy: 848, 545
   size: 214, 215
   orig: 214, 215
   offset: 0, 0
   index: -1
+dragon_priest_e_critical_light1
+  rotate: false
+  xy: 1062, 886
+  size: 107, 100
+  orig: 121, 110
+  offset: 6, 7
+  index: -1
+dragon_priest_e_tail1
+  rotate: true
+  xy: 1186, 873
+  size: 71, 58
+  orig: 71, 58
+  offset: 0, 0
+  index: -1
+dragon_priest_e_leg2
+  rotate: true
+  xy: 980, 519
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+dragon_priest_e_tail3_e
+  rotate: false
+  xy: 937, 997
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
 dragon_priest_adult_star2
   rotate: false
-  xy: 1439, 406
+  xy: 918, 945
   size: 50, 50
   orig: 54, 52
   offset: 1, 2
   index: -1
+dragon_priest_e_body2
+  rotate: false
+  xy: 971, 853
+  size: 89, 50
+  orig: 89, 50
+  offset: 0, 0
+  index: -1
 dragon_priest_adult_leg3
-  rotate: true
-  xy: 1415, 390
+  rotate: false
+  xy: 918, 997
   size: 17, 22
   orig: 17, 22
   offset: 0, 0
   index: -1
 dragon_priest_critical_dmg2
   rotate: false
-  xy: 2, 2
+  xy: 2, 472
   size: 420, 462
   orig: 422, 464
   offset: 2, 2
   index: -1
 dragon_priest_child_light3
-  rotate: true
-  xy: 727, 2
+  rotate: false
+  xy: 430, 327
   size: 290, 258
   orig: 290, 260
   offset: 0, 2
   index: -1
 dragon_priest_adult_leg6
-  rotate: true
-  xy: 1415, 305
+  rotate: false
+  xy: 1171, 886
   size: 13, 26
   orig: 13, 26
   offset: 0, 0
   index: -1
 dragon_priest_adult_eye1
   rotate: false
-  xy: 759, 429
+  xy: 406, 936
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
 dragon_priest_critical_magic
   rotate: false
-  xy: 424, 2
+  xy: 755, 2
   size: 301, 301
   orig: 301, 301
   offset: 0, 0
   index: -1
 dragon_priest_child_leg2
   rotate: true
-  xy: 737, 294
+  xy: 629, 1005
   size: 14, 31
   orig: 14, 31
   offset: 0, 0
   index: -1
 dragon_priest_baby_eye2
   rotate: false
-  xy: 1415, 409
+  xy: 228, 1000
   size: 19, 19
   orig: 19, 19
   offset: 0, 0
   index: -1
+dragon_priest_e_neck1
+  rotate: true
+  xy: 970, 960
+  size: 56, 60
+  orig: 56, 70
+  offset: 0, 0
+  index: -1
+dragon_priest_e_r_leg2_e
+  rotate: true
+  xy: 690, 1005
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
 dragon_priest_adult_eye2
   rotate: false
-  xy: 727, 294
+  xy: 1235, 191
   size: 8, 8
   orig: 8, 8
   offset: 0, 0
   index: -1
+dragon_priest_e_horn_e
+  rotate: true
+  xy: 1209, 395
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
 dragon_priest_adult_tail1
   rotate: true
-  xy: 1454, 268
+  xy: 1186, 873
   size: 71, 58
   orig: 71, 58
   offset: 0, 0
   index: -1
 dragon_priest_adult_neck1
   rotate: false
-  xy: 1264, 227
+  xy: 914, 884
   size: 55, 59
   orig: 55, 59
   offset: 0, 0
   index: -1
-dragon_priest_child_light2
+dragon_priest_e_body1light
   rotate: true
-  xy: 993, 293
+  xy: 693, 985
+  size: 18, 52
+  orig: 62, 80
+  offset: 0, 14
+  index: -1
+dragon_priest_child_light2
+  rotate: false
+  xy: 848, 545
   size: 214, 215
   orig: 214, 215
   offset: 0, 0
   index: -1
 dragon_priest_baby_mouse
   rotate: false
-  xy: 734, 364
+  xy: 805, 987
   size: 29, 18
   orig: 29, 18
   offset: 0, 0
   index: -1
+dragon_priest_e_leg3
+  rotate: false
+  xy: 918, 997
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
 dragon_priest_child_wing1
   rotate: false
-  xy: 1320, 2
+  xy: 971, 762
   size: 91, 89
   orig: 91, 89
   offset: 0, 0
   index: -1
 dragon_priest_adult_star3
-  rotate: false
-  xy: 1198, 104
+  rotate: true
+  xy: 848, 762
   size: 120, 121
   orig: 126, 125
   offset: 2, 3
   index: -1
 dragon_priest_child_eye1
   rotate: false
-  xy: 1491, 453
+  xy: 836, 987
   size: 18, 13
   orig: 18, 13
   offset: 0, 0
   index: -1
-dragon_priest_critical_light1
+dragon_priest_e_r_body2_e
   rotate: false
-  xy: 1415, 2
+  xy: 805, 909
+  size: 49, 76
+  orig: 49, 76
+  offset: 0, 0
+  index: -1
+dragon_priest_e_r_wing_e
+  rotate: true
+  xy: 139, 936
+  size: 62, 128
+  orig: 62, 128
+  offset: 0, 0
+  index: -1
+dragon_priest_e_leg6
+  rotate: false
+  xy: 1171, 886
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+dragon_priest_critical_light1
+  rotate: true
+  xy: 629, 814
   size: 107, 100
   orig: 119, 108
   offset: 5, 6
   index: -1
 dragon_priest_adult_leg4
   rotate: false
-  xy: 125, 466
+  xy: 1032, 960
   size: 28, 39
   orig: 28, 39
   offset: 0, 0
   index: -1
-dragon_priest_child_neck
+dragon_priest_e_r_arm2_e
   rotate: false
-  xy: 1136, 229
+  xy: 1062, 988
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+dragon_priest_child_neck
+  rotate: true
+  xy: 856, 954
   size: 53, 60
   orig: 53, 60
   offset: 0, 0
   index: -1
 dragon_priest_adult_tail2
-  rotate: false
-  xy: 285, 466
+  rotate: true
+  xy: 1198, 754
   size: 28, 35
   orig: 28, 35
   offset: 0, 0
   index: -1
 dragon_priest_adult_leg7
-  rotate: false
-  xy: 1415, 485
+  rotate: true
+  xy: 1032, 1001
   size: 18, 17
   orig: 18, 17
   offset: 0, 0
   index: -1
 dragon_priest_child_head
   rotate: false
-  xy: 1415, 104
+  xy: 939, 468
   size: 104, 49
   orig: 104, 49
   offset: 0, 0
   index: -1
-dragon_priest_adult_neck2
+dragon_priest_e_tail2
+  rotate: false
+  xy: 820, 545
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+dragon_priest_e_head_e
   rotate: true
-  xy: 2, 466
+  xy: 1198, 561
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+dragon_priest_adult_neck2
+  rotate: false
+  xy: 1198, 671
   size: 41, 36
   orig: 41, 36
   offset: 0, 0
   index: -1
 dragon_priest_child_leg3
-  rotate: true
-  xy: 1488, 468
+  rotate: false
+  xy: 836, 1002
   size: 15, 17
   orig: 15, 17
   offset: 0, 0
   index: -1
 dragon_priest_baby_eye1
   rotate: false
-  xy: 1415, 430
+  xy: 909, 305
   size: 19, 19
   orig: 19, 19
   offset: 0, 0
   index: -1
 dragon_priest_adult_ring
   rotate: false
-  xy: 1210, 290
+  xy: 424, 814
   size: 203, 203
   orig: 203, 203
   offset: 0, 0
   index: -1
+dragon_priest_e_r_body3_e
+  rotate: false
+  xy: 334, 987
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
 dragon_priest_adult_body1light
   rotate: true
-  xy: 1440, 386
+  xy: 693, 985
   size: 18, 52
   orig: 62, 80
   offset: 0, 14
   index: -1
 dragon_priest_child_leg6
-  rotate: true
-  xy: 1415, 470
+  rotate: false
+  xy: 1171, 914
   size: 13, 19
   orig: 13, 19
   offset: 0, 0
   index: -1
 dragon_priest_baby_tail
   rotate: true
-  xy: 734, 384
+  xy: 804, 864
   size: 43, 27
   orig: 43, 27
   offset: 0, 0
   index: -1
 dragon_priest_baby_leg2
   rotate: false
-  xy: 407, 466
+  xy: 390, 987
   size: 23, 32
   orig: 23, 32
   offset: 0, 0
   index: -1
-dragon_priest_child_eye2
+dragon_priest_e_leg4
   rotate: false
-  xy: 1491, 438
+  xy: 1032, 960
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+dragon_priest_e_dmg1
+  rotate: false
+  xy: 722, 327
+  size: 215, 216
+  orig: 215, 216
+  offset: 0, 0
+  index: -1
+dragon_priest_child_eye2
+  rotate: true
+  xy: 833, 864
   size: 18, 13
   orig: 18, 13
   offset: 0, 0
   index: -1
+dragon_priest_e_ora1
+  rotate: false
+  xy: 635, 587
+  size: 211, 221
+  orig: 225, 225
+  offset: 6, 3
+  index: -1
 dragon_priest_baby_body2
-  rotate: true
-  xy: 1436, 458
+  rotate: false
+  xy: 1198, 619
   size: 44, 50
   orig: 44, 50
   offset: 0, 0
   index: -1
 dragon_priest_child_back
   rotate: false
-  xy: 432, 305
+  xy: 1058, 191
   size: 175, 202
   orig: 175, 202
   offset: 0, 0
   index: -1
 dragon_priest_child_light1
-  rotate: false
-  xy: 1198, 104
+  rotate: true
+  xy: 848, 762
   size: 120, 121
   orig: 126, 125
   offset: 2, 3
   index: -1
-dragon_priest_adult_body1
+dragon_priest_e_neck2
+  rotate: false
+  xy: 1198, 671
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+dragon_priest_e_head
   rotate: true
-  xy: 987, 229
+  xy: 1186, 786
+  size: 85, 58
+  orig: 85, 58
+  offset: 0, 0
+  index: -1
+dragon_priest_e_star2
+  rotate: false
+  xy: 918, 945
+  size: 50, 50
+  orig: 54, 52
+  offset: 1, 2
+  index: -1
+dragon_priest_e_ring
+  rotate: false
+  xy: 424, 814
+  size: 203, 203
+  orig: 203, 203
+  offset: 0, 0
+  index: -1
+dragon_priest_adult_body1
+  rotate: false
+  xy: 629, 923
   size: 62, 80
   orig: 62, 80
   offset: 0, 0
   index: -1
 dragon_priest_child_mouse
   rotate: true
-  xy: 262, 466
+  xy: 1223, 709
   size: 37, 21
   orig: 37, 21
   offset: 0, 0
   index: -1
 dragon_priest_adult_mouse
-  rotate: false
-  xy: 1415, 451
+  rotate: true
+  xy: 249, 1000
   size: 19, 17
   orig: 19, 17
   offset: 0, 0
   index: -1
-dragon_priest_child_leg4
+dragon_priest_e_leg7
+  rotate: true
+  xy: 1032, 1001
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+dragon_priest_e_wing1
   rotate: false
-  xy: 218, 466
+  xy: 939, 305
+  size: 117, 161
+  orig: 119, 161
+  offset: 0, 0
+  index: -1
+dragon_priest_child_leg4
+  rotate: true
+  xy: 807, 305
   size: 20, 38
   orig: 20, 38
   offset: 0, 0
   index: -1
 dragon_priest_adult_leg5
   rotate: false
-  xy: 1415, 289
+  xy: 662, 1005
   size: 26, 14
   orig: 26, 14
   offset: 0, 0
   index: -1
 dragon_priest_adult_head
-  rotate: false
-  xy: 1320, 93
+  rotate: true
+  xy: 1186, 786
   size: 85, 58
   orig: 85, 58
   offset: 0, 0
   index: -1
 dragon_priest_adult_leg1light
   rotate: false
-  xy: 1415, 320
+  xy: 1136, 988
   size: 24, 23
   orig: 24, 39
   offset: 0, 16
   index: -1
 dragon_priest_adult_tail3
-  rotate: true
-  xy: 1494, 386
+  rotate: false
+  xy: 139, 1000
   size: 50, 19
   orig: 50, 19
   offset: 0, 0
   index: -1
 dragon_priest_child_tail1
   rotate: false
-  xy: 1454, 213
+  xy: 971, 905
   size: 67, 53
   orig: 67, 53
   offset: 0, 0
   index: -1
+dragon_priest_e_eye1light
+  rotate: false
+  xy: 1045, 486
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
 dragon_priest_adult_star
   rotate: false
-  xy: 1191, 229
+  xy: 731, 810
   size: 71, 59
   orig: 71, 61
   offset: 0, 0
   index: -1
+dragon_priest_e_eye1
+  rotate: false
+  xy: 406, 936
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+dragon_priest_e_circle
+  rotate: true
+  xy: 1058, 2
+  size: 187, 186
+  orig: 189, 188
+  offset: 1, 1
+  index: -1
+dragon_priest_e_leg4light
+  rotate: true
+  xy: 1017, 519
+  size: 24, 23
+  orig: 28, 39
+  offset: 1, 15
+  index: -1
+dragon_priest_e_ora2
+  rotate: false
+  xy: 424, 587
+  size: 209, 225
+  orig: 225, 225
+  offset: 7, 0
+  index: -1
+dragon_priest_e_tail3
+  rotate: false
+  xy: 755, 305
+  size: 50, 20
+  orig: 50, 20
+  offset: 0, 0
+  index: -1
 dragon_priest_baby_heart
   rotate: false
-  xy: 40, 466
+  xy: 1198, 520
   size: 46, 39
   orig: 46, 39
   offset: 0, 0
   index: -1
 dragon_priest_child_body1
   rotate: true
-  xy: 700, 456
+  xy: 1171, 946
   size: 50, 68
   orig: 50, 68
   offset: 0, 0
   index: -1
-dragon_priest_adult_leg1
+dragon_priest_e_body1
   rotate: false
-  xy: 155, 466
+  xy: 629, 923
+  size: 62, 80
+  orig: 62, 80
+  offset: 0, 0
+  index: -1
+dragon_priest_e_r_arm3_e
+  rotate: false
+  xy: 1045, 468
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+dragon_priest_e_mouse
+  rotate: true
+  xy: 249, 1000
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+dragon_priest_e_head2_e
+  rotate: false
+  xy: 1099, 988
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+dragon_priest_adult_leg1
+  rotate: true
+  xy: 939, 519
   size: 24, 39
   orig: 24, 39
   offset: 0, 0
   index: -1
 dragon_priest_critical_light2
-  rotate: true
-  xy: 1321, 155
+  rotate: false
+  xy: 1064, 653
   size: 132, 131
   orig: 132, 131
   offset: 0, 0
   index: -1
-dragon_priest_baby_leg1
+dragon_priest_e_critical_dmg1
   rotate: false
-  xy: 240, 466
+  xy: 722, 327
+  size: 215, 216
+  orig: 215, 216
+  offset: 0, 0
+  index: -1
+dragon_priest_baby_leg1
+  rotate: true
+  xy: 847, 305
   size: 20, 38
   orig: 20, 38
   offset: 0, 0
   index: -1
+dragon_priest_e_leg5
+  rotate: false
+  xy: 662, 1005
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
 dragon_priest_adult_body2
   rotate: false
-  xy: 609, 456
+  xy: 971, 853
   size: 89, 50
   orig: 89, 50
   offset: 0, 0
   index: -1
 dragon_priest_adult_acc
   rotate: false
-  xy: 361, 466
+  xy: 774, 545
   size: 44, 32
   orig: 44, 32
   offset: 0, 0
   index: -1
 dragon_priest_adult_leg2
-  rotate: false
-  xy: 315, 466
+  rotate: true
+  xy: 980, 519
   size: 24, 35
   orig: 24, 35
   offset: 0, 0
   index: -1
+dragon_priest_e_r_leg1_e
+  rotate: false
+  xy: 887, 305
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
 dragon_priest_child_tail2
   rotate: true
-  xy: 734, 310
+  xy: 804, 810
   size: 52, 29
   orig: 52, 29
   offset: 0, 0
   index: -1
 dragon_priest_adult_leg4light
   rotate: true
-  xy: 734, 429
+  xy: 1017, 519
   size: 24, 23
   orig: 28, 39
   offset: 1, 15
   index: -1
 dragon_priest_adult_wing1
-  rotate: true
-  xy: 609, 305
+  rotate: false
+  xy: 1058, 395
   size: 149, 123
   orig: 149, 123
   offset: 0, 0
   index: -1
 dragon_priest_baby_head
   rotate: false
-  xy: 1069, 229
+  xy: 693, 923
   size: 65, 60
   orig: 65, 60
   offset: 0, 0
   index: -1
+dragon_priest_e_critical_light2
+  rotate: false
+  xy: 1064, 520
+  size: 132, 131
+  orig: 134, 133
+  offset: 1, 1
+  index: -1
+dragon_priest_e_eye2
+  rotate: false
+  xy: 1235, 191
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
 dragon_priest_adult_eye1light
   rotate: false
-  xy: 1210, 495
+  xy: 1045, 486
   size: 11, 11
   orig: 11, 11
   offset: 0, 0
   index: -1
-dragon_priest_adult_ora1
+dragon_priest_e_star3
   rotate: true
-  xy: 770, 294
+  xy: 848, 762
+  size: 120, 121
+  orig: 126, 125
+  offset: 2, 3
+  index: -1
+dragon_priest_e_leg1
+  rotate: true
+  xy: 939, 519
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+dragon_priest_adult_ora1
+  rotate: false
+  xy: 635, 587
   size: 211, 221
   orig: 225, 225
   offset: 6, 3
   index: -1
 dragon_priest_child_body2
-  rotate: true
-  xy: 1454, 155
+  rotate: false
+  xy: 856, 884
   size: 56, 68
   orig: 56, 68
   offset: 0, 0
   index: -1
 dragon_priest_child_leg5
   rotate: false
-  xy: 341, 466
+  xy: 1040, 905
   size: 18, 35
   orig: 18, 35
   offset: 0, 0
   index: -1
+dragon_priest_e_tail2_e
+  rotate: true
+  xy: 191, 1000
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
 dragon_priest_baby_wing2
   rotate: false
-  xy: 181, 466
+  xy: 1209, 479
   size: 35, 38
   orig: 35, 38
+  offset: 0, 0
+  index: -1
+dragon_priest_e_r_neck_e
+  rotate: false
+  xy: 722, 545
+  size: 50, 39
+  orig: 50, 39
   offset: 0, 0
   index: -1

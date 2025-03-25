@@ -1,0 +1,101 @@
+{
+"skeleton": { "hash": "ZNS4yhkwQJcU4OikTecj7o8fgUs", "spine": "3.0.09", "width": 0, "height": 0, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "x": 45.43, "y": 90.95, "scaleX": 1.311, "scaleY": 1.311 }
+],
+"slots": [
+	{ "name": "dragon_4166_critical_00", "bone": "bone" }
+],
+"skins": {
+	"default": {
+		"dragon_4166_critical_00": {
+			"dragon_4166_critical_00": { "width": 301, "height": 330 },
+			"dragon_4166_critical_01": { "width": 301, "height": 330 },
+			"dragon_4166_critical_02": { "width": 301, "height": 330 },
+			"dragon_4166_critical_03": { "width": 301, "height": 330 },
+			"dragon_4166_critical_04": { "width": 301, "height": 330 },
+			"dragon_4166_critical_05": { "width": 301, "height": 330 },
+			"dragon_4166_critical_06": { "width": 301, "height": 330 },
+			"dragon_4166_critical_07": { "width": 301, "height": 330 },
+			"dragon_4166_critical_08": { "width": 301, "height": 330 },
+			"dragon_4166_critical_09": { "width": 301, "height": 330 },
+			"dragon_4166_critical_10": { "width": 301, "height": 330 },
+			"dragon_4166_critical_11": { "width": 301, "height": 330 },
+			"dragon_4166_critical_12": { "width": 301, "height": 330 },
+			"dragon_4166_critical_13": { "width": 301, "height": 330 },
+			"dragon_4166_critical_14": { "width": 301, "height": 330 },
+			"dragon_4166_critical_15": { "width": 301, "height": 330 },
+			"dragon_4166_critical_16": { "width": 301, "height": 330 },
+			"dragon_4166_critical_17": { "width": 301, "height": 330 },
+			"dragon_4166_critical_18": { "width": 301, "height": 330 },
+			"dragon_4166_critical_19": { "width": 301, "height": 330 },
+			"dragon_4166_critical_20": { "width": 301, "height": 330 },
+			"dragon_4166_critical_21": { "width": 301, "height": 330 },
+			"dragon_4166_critical_22": { "width": 301, "height": 330 },
+			"dragon_4166_critical_23": { "width": 301, "height": 330 },
+			"dragon_4166_critical_24": { "width": 301, "height": 330 },
+			"dragon_4166_critical_25": { "width": 301, "height": 330 },
+			"dragon_4166_critical_26": { "width": 301, "height": 330 },
+			"dragon_4166_critical_27": { "width": 301, "height": 330 },
+			"dragon_4166_critical_28": { "width": 301, "height": 330 },
+			"dragon_4166_critical_29": { "width": 301, "height": 330 },
+			"dragon_4166_critical_30": { "width": 301, "height": 330 },
+			"dragon_4166_critical_31": { "width": 301, "height": 330 },
+			"dragon_4166_critical_32": { "width": 301, "height": 330 },
+			"dragon_4166_critical_33": { "width": 301, "height": 330 },
+			"dragon_4166_critical_34": { "width": 301, "height": 330 },
+			"dragon_4166_critical_35": { "width": 301, "height": 330 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"dragon_4166_critical_00": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.4333, "name": "dragon_4166_critical_00" },
+					{ "time": 0.4666, "name": "dragon_4166_critical_01" },
+					{ "time": 0.5333, "name": "dragon_4166_critical_02" },
+					{ "time": 0.5666, "name": "dragon_4166_critical_03" },
+					{ "time": 0.6, "name": "dragon_4166_critical_04" },
+					{ "time": 0.6333, "name": "dragon_4166_critical_05" },
+					{ "time": 0.6666, "name": "dragon_4166_critical_06" },
+					{ "time": 0.7333, "name": "dragon_4166_critical_07" },
+					{ "time": 0.7666, "name": "dragon_4166_critical_08" },
+					{ "time": 0.8, "name": "dragon_4166_critical_09" },
+					{ "time": 0.8333, "name": "dragon_4166_critical_10" },
+					{ "time": 0.8666, "name": "dragon_4166_critical_11" },
+					{ "time": 0.9, "name": "dragon_4166_critical_12" },
+					{ "time": 0.9666, "name": "dragon_4166_critical_13" },
+					{ "time": 1, "name": "dragon_4166_critical_14" },
+					{ "time": 1.0333, "name": "dragon_4166_critical_15" },
+					{ "time": 1.2666, "name": "dragon_4166_critical_16" },
+					{ "time": 1.3, "name": "dragon_4166_critical_17" },
+					{ "time": 1.3333, "name": "dragon_4166_critical_18" },
+					{ "time": 1.4, "name": "dragon_4166_critical_19" },
+					{ "time": 1.4333, "name": "dragon_4166_critical_20" },
+					{ "time": 1.4666, "name": "dragon_4166_critical_21" },
+					{ "time": 1.5, "name": "dragon_4166_critical_22" },
+					{ "time": 1.5666, "name": "dragon_4166_critical_23" },
+					{ "time": 1.6, "name": "dragon_4166_critical_24" },
+					{ "time": 1.6333, "name": "dragon_4166_critical_25" },
+					{ "time": 1.6666, "name": "dragon_4166_critical_26" },
+					{ "time": 1.7333, "name": "dragon_4166_critical_27" },
+					{ "time": 1.7666, "name": "dragon_4166_critical_28" },
+					{ "time": 1.8, "name": "dragon_4166_critical_29" },
+					{ "time": 1.8333, "name": "dragon_4166_critical_30" },
+					{ "time": 1.9, "name": "dragon_4166_critical_31" },
+					{ "time": 1.9333, "name": "dragon_4166_critical_32" },
+					{ "time": 1.9666, "name": "dragon_4166_critical_33" },
+					{ "time": 2, "name": "dragon_4166_critical_34" },
+					{ "time": 2.0666, "name": "dragon_4166_critical_35" },
+					{ "time": 2.1, "name": null },
+					{ "time": 3, "name": null }
+				]
+			}
+		}
+	}
+}
+}

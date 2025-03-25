@@ -4,6 +4,19 @@
     <dict>
         <key>frames</key>
         <dict>
+            <key>dragon/dragon_4098_critical/critical.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,116},{384,260}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{384,260}}</string>
+                <key>sourceSize</key>
+                <string>{384,260}</string>
+            </dict>
             <key>dragon/dragon_4098_critical/cut_in.png</key>
             <dict>
                 <key>frame</key>
@@ -25,9 +38,9 @@
             <key>realTextureFileName</key>
             <string>dragon_4098_critical.pvr.ccz</string>
             <key>size</key>
-            <string>{580,116}</string>
+            <string>{580,378}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:1a588de818d03ffc6d60e5894421e59d:bfa7db0363193a00e2f6944738f2816f:c3a9901497f4e5634e8d6d42a4923a48$</string>
+            <string>$TexturePacker:SmartUpdate:a958e0c8c1de1d5769fde3499a35b586:8cb72e16670c55c405269a2d64350c73:c3a9901497f4e5634e8d6d42a4923a48$</string>
             <key>textureFileName</key>
             <string>dragon_4098_critical.pvr.ccz</string>
         </dict>

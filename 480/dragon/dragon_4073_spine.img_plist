@@ -1,0 +1,704 @@
+dragon_4073_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_gale_critical_to3
+  rotate: true
+  xy: 2, 676
+  size: 242, 151
+  orig: 242, 151
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_wing4
+  rotate: true
+  xy: 402, 1114
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+dragon_gale_critical_gg5
+  rotate: true
+  xy: 228, 282
+  size: 146, 161
+  orig: 146, 161
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_neckbom2
+  rotate: true
+  xy: 416, 1092
+  size: 20, 48
+  orig: 20, 48
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_neck
+  rotate: false
+  xy: 289, 1257
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+dragon_gale_baby_tailbom
+  rotate: true
+  xy: 444, 1306
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+dragon_gale_baby_body
+  rotate: true
+  xy: 470, 322
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+dragon_gale_baby_arm1
+  rotate: true
+  xy: 395, 1302
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_leg2
+  rotate: false
+  xy: 415, 1227
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+dragon_gale_critical_tob3
+  rotate: true
+  xy: 2, 434
+  size: 240, 154
+  orig: 240, 158
+  offset: 0, 1
+  index: -1
+dragon_gale_child_wind3
+  rotate: false
+  xy: 334, 1303
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+dragon_gale_baby_wing2
+  rotate: false
+  xy: 394, 1244
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+dragon_gale_child_wing3
+  rotate: false
+  xy: 477, 1190
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+dragon_gale_child_arm4
+  rotate: false
+  xy: 420, 1272
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+dragon_gale_child_head
+  rotate: false
+  xy: 347, 1149
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+dragon_gale_critical_gg1
+  rotate: false
+  xy: 2, 920
+  size: 155, 238
+  orig: 233, 282
+  offset: 42, 43
+  index: -1
+dragon_gale_baby_arm2
+  rotate: false
+  xy: 233, 1310
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+dragon_gale_critical_wind1
+  rotate: true
+  xy: 158, 654
+  size: 152, 158
+  orig: 152, 158
+  offset: 0, 0
+  index: -1
+dragon_gale_child_leg5
+  rotate: false
+  xy: 466, 1092
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+dragon_gale_baby_leg4
+  rotate: false
+  xy: 496, 498
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+dragon_gale_critical_to2
+  rotate: false
+  xy: 336, 807
+  size: 171, 172
+  orig: 173, 176
+  offset: 0, 2
+  index: -1
+dragon_gale_child_neckbom
+  rotate: true
+  xy: 449, 1152
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+dragon_gale_critical_gg4
+  rotate: false
+  xy: 347, 981
+  size: 63, 63
+  orig: 65, 63
+  offset: 1, 0
+  index: -1
+dragon_gale_adult_body1
+  rotate: false
+  xy: 222, 1237
+  size: 65, 71
+  orig: 65, 71
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_arm5
+  rotate: false
+  xy: 444, 1290
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+dragon_gale_critical_wind4
+  rotate: false
+  xy: 2, 2
+  size: 252, 231
+  orig: 252, 231
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_leg7
+  rotate: true
+  xy: 461, 155
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+dragon_gale_child_leg6
+  rotate: true
+  xy: 496, 418
+  size: 38, 11
+  orig: 38, 11
+  offset: 0, 0
+  index: -1
+dragon_gale_child_neckbom2
+  rotate: true
+  xy: 289, 1303
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+dragon_gale_child_tail
+  rotate: true
+  xy: 343, 1104
+  size: 43, 57
+  orig: 43, 57
+  offset: 0, 0
+  index: -1
+dragon_gale_critical_c3
+  rotate: false
+  xy: 318, 712
+  size: 185, 93
+  orig: 185, 93
+  offset: 0, 0
+  index: -1
+dragon_gale_child_leg1
+  rotate: false
+  xy: 399, 1149
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+dragon_gale_child_wind2
+  rotate: false
+  xy: 420, 1297
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+dragon_gale_child_wing2
+  rotate: false
+  xy: 482, 362
+  size: 23, 54
+  orig: 23, 54
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_wing3
+  rotate: false
+  xy: 461, 46
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_tail2
+  rotate: true
+  xy: 416, 1039
+  size: 51, 65
+  orig: 51, 65
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_arm1
+  rotate: false
+  xy: 470, 282
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_leg3
+  rotate: false
+  xy: 335, 1257
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+dragon_gale_child_leg2
+  rotate: false
+  xy: 415, 1249
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_mouth
+  rotate: true
+  xy: 452, 1189
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+dragon_gale_child_arm5
+  rotate: true
+  xy: 496, 558
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_arm6
+  rotate: false
+  xy: 464, 1306
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+dragon_gale_child_eye2
+  rotate: true
+  xy: 496, 574
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_head
+  rotate: true
+  xy: 461, 84
+  size: 69, 38
+  orig: 69, 38
+  offset: 0, 0
+  index: -1
+dragon_gale_baby_arm3
+  rotate: false
+  xy: 375, 1284
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+dragon_gale_baby_mouth
+  rotate: true
+  xy: 473, 1114
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+dragon_gale_critical_c4
+  rotate: false
+  xy: 155, 808
+  size: 179, 63
+  orig: 179, 63
+  offset: 0, 0
+  index: -1
+dragon_gale_child_arm6
+  rotate: false
+  xy: 402, 1104
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_wing2
+  rotate: false
+  xy: 294, 998
+  size: 51, 95
+  orig: 51, 95
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_eye2
+  rotate: true
+  xy: 289, 1237
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1
+dragon_gale_baby_wing1
+  rotate: true
+  xy: 395, 1275
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+dragon_gale_critical_gg3
+  rotate: false
+  xy: 256, 2
+  size: 203, 196
+  orig: 239, 238
+  offset: 15, 25
+  index: -1
+dragon_gale_baby_head
+  rotate: false
+  xy: 295, 1215
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+dragon_gale_child_arm1
+  rotate: true
+  xy: 449, 1250
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_arm2
+  rotate: false
+  xy: 444, 1274
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+dragon_gale_critical_wind3
+  rotate: false
+  xy: 2, 235
+  size: 224, 197
+  orig: 224, 197
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_neckbom1
+  rotate: false
+  xy: 473, 195
+  size: 29, 56
+  orig: 29, 56
+  offset: 0, 0
+  index: -1
+dragon_gale_child_wind1
+  rotate: false
+  xy: 473, 253
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+dragon_gale_baby_leg1
+  rotate: true
+  xy: 479, 1254
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+dragon_gale_baby_wing4
+  rotate: false
+  xy: 496, 542
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+dragon_gale_child_wing1
+  rotate: false
+  xy: 482, 981
+  size: 25, 52
+  orig: 25, 52
+  offset: 0, 0
+  index: -1
+dragon_gale_child_arm2
+  rotate: false
+  xy: 313, 1303
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_tail1
+  rotate: false
+  xy: 391, 370
+  size: 89, 55
+  orig: 89, 55
+  offset: 0, 0
+  index: -1
+dragon_gale_child_tailbom
+  rotate: false
+  xy: 228, 235
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_tailbom
+  rotate: false
+  xy: 483, 1035
+  size: 24, 51
+  orig: 24, 51
+  offset: 0, 0
+  index: -1
+dragon_gale_critical_c1
+  rotate: false
+  xy: 318, 631
+  size: 182, 79
+  orig: 182, 79
+  offset: 0, 0
+  index: -1
+dragon_gale_child_leg3
+  rotate: true
+  xy: 496, 458
+  size: 38, 11
+  orig: 38, 11
+  offset: 0, 0
+  index: -1
+dragon_gale_baby_leg2
+  rotate: false
+  xy: 496, 520
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+dragon_gale_child_body2
+  rotate: true
+  xy: 295, 1151
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+dragon_gale_child_eye
+  rotate: true
+  xy: 352, 1303
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+dragon_gale_child_mouth
+  rotate: true
+  xy: 483, 1152
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+dragon_gale_critical_gg2
+  rotate: false
+  xy: 159, 998
+  size: 133, 156
+  orig: 135, 158
+  offset: 0, 1
+  index: -1
+dragon_gale_critical_to1
+  rotate: false
+  xy: 159, 873
+  size: 172, 123
+  orig: 174, 125
+  offset: 0, 0
+  index: -1
+dragon_gale_baby_tail1
+  rotate: false
+  xy: 390, 1195
+  size: 23, 47
+  orig: 23, 47
+  offset: 0, 0
+  index: -1
+dragon_gale_critical_wind2
+  rotate: true
+  xy: 318, 430
+  size: 199, 176
+  orig: 199, 176
+  offset: 0, 0
+  index: -1
+dragon_gale_baby_arm4
+  rotate: false
+  xy: 222, 1310
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+dragon_gale_baby_eye2
+  rotate: false
+  xy: 350, 1246
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+dragon_gale_critical_tob1
+  rotate: true
+  xy: 158, 434
+  size: 218, 158
+  orig: 218, 158
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_eye3
+  rotate: false
+  xy: 228, 275
+  size: 21, 5
+  orig: 21, 5
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_wing1
+  rotate: false
+  xy: 222, 1156
+  size: 71, 79
+  orig: 71, 79
+  offset: 0, 0
+  index: -1
+dragon_gale_baby_neckbom
+  rotate: true
+  xy: 480, 1224
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_arm3
+  rotate: false
+  xy: 467, 1290
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_leg5
+  rotate: true
+  xy: 452, 1114
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+dragon_gale_critical_tob2
+  rotate: false
+  xy: 2, 1160
+  size: 218, 158
+  orig: 218, 158
+  offset: 0, 0
+  index: -1
+dragon_gale_child_wing4
+  rotate: false
+  xy: 375, 1246
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+dragon_gale_child_arm3
+  rotate: true
+  xy: 496, 589
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+dragon_gale_child_neckbom1
+  rotate: true
+  xy: 367, 1303
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_leg1
+  rotate: true
+  xy: 347, 1046
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1
+dragon_gale_child_leg4
+  rotate: true
+  xy: 350, 1195
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+dragon_gale_baby_leg3
+  rotate: true
+  xy: 452, 1229
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+dragon_gale_child_body1
+  rotate: true
+  xy: 461, 2
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_eye4
+  rotate: true
+  xy: 497, 1114
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_neckbom
+  rotate: true
+  xy: 294, 1095
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+dragon_gale_baby_wing3
+  rotate: false
+  xy: 497, 1137
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_body2
+  rotate: true
+  xy: 391, 282
+  size: 86, 77
+  orig: 86, 77
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_arm4
+  rotate: true
+  xy: 415, 1189
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_leg6
+  rotate: true
+  xy: 412, 981
+  size: 56, 68
+  orig: 56, 68
+  offset: 0, 0
+  index: -1
+dragon_gale_adult_eye
+  rotate: true
+  xy: 496, 603
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+dragon_gale_critical_c2
+  rotate: false
+  xy: 256, 200
+  size: 215, 80
+  orig: 215, 80
+  offset: 0, 0
+  index: -1
+dragon_gale_baby_eye
+  rotate: false
+  xy: 488, 1275
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1

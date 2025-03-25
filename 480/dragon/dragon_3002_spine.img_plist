@@ -4,7 +4,7 @@ filter: Linear,Linear
 repeat: none
 dragon_holy_child_arm1
   rotate: false
-  xy: 479, 134
+  xy: 481, 264
   size: 20, 35
   orig: 20, 35
   offset: 0, 0
@@ -18,147 +18,147 @@ dragon_holy_eff_cri_r_eff2
   index: -1
 dragon_holy_adult_leg4
   rotate: false
-  xy: 326, 418
+  xy: 186, 1518
   size: 56, 17
   orig: 56, 17
   offset: 0, 0
   index: -1
 dragon_holy_e_body_p
-  rotate: true
-  xy: 432, 505
+  rotate: false
+  xy: 459, 504
   size: 50, 72
   orig: 50, 72
   offset: 0, 0
   index: -1
 dragon_holy_child_hornlight
   rotate: true
-  xy: 388, 986
+  xy: 236, 1319
   size: 76, 48
   orig: 76, 54
   offset: 0, 6
   index: -1
 dragon_holy_child_arm5
   rotate: true
-  xy: 483, 954
+  xy: 425, 1482
   size: 20, 15
   orig: 20, 15
   offset: 0, 0
   index: -1
 dragon_holy_adult_mouthlight
   rotate: true
-  xy: 224, 1402
+  xy: 489, 1502
   size: 24, 17
   orig: 68, 41
   offset: 8, 1
   index: -1
 dragon_holy_baby_wing1
-  rotate: false
-  xy: 163, 1402
+  rotate: true
+  xy: 479, 2
   size: 59, 30
   orig: 59, 40
   offset: 0, 5
   index: -1
 dragon_holy_adult_body
   rotate: false
-  xy: 432, 418
+  xy: 392, 1121
   size: 72, 85
   orig: 72, 85
   offset: 0, 0
   index: -1
 dragon_holy_critical_light2
   rotate: false
-  xy: 163, 1340
+  xy: 427, 578
   size: 78, 60
   orig: 92, 68
   offset: 3, 4
   index: -1
 dragon_holy_baby_tail
-  rotate: true
-  xy: 481, 300
+  rotate: false
+  xy: 479, 152
   size: 30, 20
   orig: 30, 20
   offset: 0, 0
   index: -1
 dragon_holy_adult_neck
   rotate: false
-  xy: 459, 662
+  xy: 360, 1483
   size: 42, 55
   orig: 42, 55
   offset: 0, 0
   index: -1
 dragon_holy_baby_eye
   rotate: true
-  xy: 481, 230
+  xy: 446, 1513
   size: 17, 23
   orig: 73, 53
   offset: 37, 9
   index: -1
 dragon_holy_child_leg2
-  rotate: false
-  xy: 484, 1338
+  rotate: true
+  xy: 468, 1386
   size: 20, 41
   orig: 22, 41
   offset: 2, 0
   index: -1
 dragon_holy_adult_arm4
   rotate: true
-  xy: 485, 864
+  xy: 404, 1512
   size: 27, 19
   orig: 27, 19
   offset: 0, 0
   index: -1
 dragon_holy_adult_headhornlight
-  rotate: true
-  xy: 388, 1223
+  rotate: false
+  xy: 292, 1385
   size: 60, 39
   orig: 68, 41
   offset: 8, 2
   index: -1
 dragon_holy_eff_cri_eff01
   rotate: false
-  xy: 255, 721
+  xy: 326, 197
   size: 116, 219
   orig: 116, 219
   offset: 0, 0
   index: -1
-dragon_holy_critical_heart
-  rotate: true
-  xy: 388, 1285
-  size: 46, 39
-  orig: 46, 39
-  offset: 0, 0
-  index: -1
 dragon_holy_baby_body
-  rotate: true
-  xy: 388, 1064
+  rotate: false
+  xy: 470, 1284
   size: 39, 48
   orig: 39, 48
   offset: 0, 0
   index: -1
+dragon_holy_critical_heart
+  rotate: false
+  xy: 422, 1272
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
 dragon_holy_baby_hand1
   rotate: false
-  xy: 461, 1397
+  xy: 489, 1483
   size: 20, 17
   orig: 20, 17
   offset: 0, 0
   index: -1
 dragon_holy_adult_wing2
-  rotate: false
-  xy: 248, 1279
+  rotate: true
+  xy: 186, 1319
   size: 107, 48
   orig: 107, 48
   offset: 0, 0
   index: -1
 dragon_holy_adult_love
   rotate: false
-  xy: 438, 1047
+  xy: 442, 692
   size: 66, 35
   orig: 68, 41
   offset: 0, 3
   index: -1
 dragon_holy_child_eye
   rotate: false
-  xy: 483, 930
+  xy: 471, 1490
   size: 16, 22
   orig: 76, 54
   offset: 30, 12
@@ -170,9 +170,16 @@ dragon_holy_eff_cri_e_ccc02
   orig: 245, 72
   offset: 0, 0
   index: -1
+dragon_3002_baby_wing_r1_partSkin01
+  rotate: false
+  xy: 329, 716
+  size: 103, 140
+  orig: 103, 140
+  offset: 0, 0
+  index: -1
 dragon_holy_child_love
   rotate: false
-  xy: 349, 1335
+  xy: 468, 1408
   size: 40, 40
   orig: 40, 40
   offset: 0, 0
@@ -184,114 +191,135 @@ dragon_holy_eff_cri_e_spark1
   orig: 195, 128
   offset: 2, 1
   index: -1
+dragon_3002_baby_horn_partSkin01
+  rotate: true
+  xy: 371, 563
+  size: 104, 54
+  orig: 104, 54
+  offset: 0, 0
+  index: -1
 dragon_holy_eff_cri_cccccc
   rotate: true
-  xy: 392, 418
+  xy: 318, 438
   size: 146, 38
   orig: 146, 38
   offset: 0, 0
   index: -1
 dragon_holy_baby_leg1
   rotate: true
-  xy: 481, 267
+  xy: 489, 1450
   size: 31, 20
   orig: 31, 20
   offset: 0, 0
   index: -1
+dragon_3002_baby_wing_l2_partSkin01
+  rotate: true
+  xy: 186, 1428
+  size: 88, 57
+  orig: 88, 57
+  offset: 0, 0
+  index: -1
 dragon_holy_child_arm4
   rotate: false
-  xy: 484, 1381
+  xy: 481, 227
   size: 20, 35
   orig: 20, 35
   offset: 0, 0
   index: -1
 dragon_holy_child_body
-  rotate: false
-  xy: 310, 1379
+  rotate: true
+  xy: 298, 1426
   size: 63, 54
   orig: 63, 54
   offset: 0, 0
   index: -1
 dragon_holy_baby_love
-  rotate: false
-  xy: 438, 1121
+  rotate: true
+  xy: 384, 1317
   size: 65, 51
   orig: 73, 53
   offset: 6, 0
   index: -1
+dragon_3002_baby_head_partSkin01
+  rotate: true
+  xy: 407, 1384
+  size: 59, 33
+  orig: 59, 33
+  offset: 0, 0
+  index: -1
 dragon_holy_child_head
   rotate: false
-  xy: 434, 1174
+  xy: 434, 729
   size: 70, 52
   orig: 76, 54
   offset: 3, 0
   index: -1
 dragon_holy_adult_arm1light
   rotate: false
-  xy: 461, 1416
+  xy: 425, 1533
   size: 20, 15
   orig: 58, 69
   offset: 0, 16
   index: -1
 dragon_holy_e_critical_e_smo0
   rotate: true
-  xy: 318, 438
+  xy: 255, 721
   size: 165, 72
   orig: 165, 72
   offset: 0, 0
   index: -1
 dragon_holy_baby_leg2
-  rotate: true
-  xy: 479, 45
+  rotate: false
+  xy: 468, 1361
   size: 41, 23
   orig: 49, 23
   offset: 8, 0
   index: -1
 dragon_holy_eff_cri_eff02
   rotate: false
-  xy: 326, 197
+  xy: 2, 1328
   size: 116, 219
   orig: 116, 219
   offset: 0, 0
   index: -1
 dragon_holy_adult_mouth2
-  rotate: false
-  xy: 461, 402
+  rotate: true
+  xy: 427, 640
   size: 22, 13
   orig: 68, 41
   offset: 2, 9
   index: -1
 dragon_holy_eff_cri_pa01
-  rotate: true
-  xy: 373, 720
+  rotate: false
+  xy: 396, 858
   size: 113, 91
   orig: 125, 131
   offset: 5, 25
   index: -1
 dragon_holy_child_mouth
-  rotate: false
-  xy: 405, 1411
+  rotate: true
+  xy: 370, 858
   size: 28, 22
   orig: 76, 54
   offset: 20, 0
   index: -1
 dragon_holy_adult_headhornlight2
   rotate: false
-  xy: 429, 566
+  xy: 481, 174
   size: 28, 33
   orig: 68, 41
   offset: 8, 0
   index: -1
 dragon_holy_e_neck_p
   rotate: true
-  xy: 485, 835
+  xy: 404, 1483
   size: 27, 19
   orig: 27, 19
   offset: 0, 0
   index: -1
 dragon_holy_critical_light1
-  rotate: false
-  xy: 258, 1226
+  rotate: true
+  xy: 318, 586
   size: 128, 51
   orig: 164, 77
   offset: 21, 13
@@ -304,43 +332,43 @@ dragon_holy_eff_cri_round_eff
   offset: 0, 0
   index: -1
 dragon_holy_child_arm6
-  rotate: false
-  xy: 357, 1279
+  rotate: true
+  xy: 236, 1397
   size: 29, 54
   orig: 29, 54
   offset: 0, 0
   index: -1
 dragon_holy_child_leg1
   rotate: false
-  xy: 481, 171
+  xy: 481, 337
   size: 23, 31
   orig: 23, 31
   offset: 0, 0
   index: -1
 dragon_holy_adult_leg3
   rotate: false
-  xy: 459, 628
+  xy: 442, 1456
   size: 45, 32
   orig: 45, 32
   offset: 0, 0
   index: -1
 dragon_holy_adult_hit
   rotate: true
-  xy: 446, 915
+  xy: 466, 1121
   size: 68, 35
   orig: 68, 41
   offset: 0, 3
   index: -1
 dragon_holy_child_tail
   rotate: true
-  xy: 111, 1328
+  xy: 459, 402
   size: 100, 50
   orig: 100, 50
   offset: 0, 0
   index: -1
 dragon_holy_adult_wing1
   rotate: true
-  xy: 258, 942
+  xy: 258, 1003
   size: 148, 128
   orig: 148, 128
   offset: 0, 0
@@ -353,66 +381,94 @@ dragon_holy_eff_cri_e_ccc03
   offset: 0, 0
   index: -1
 dragon_holy_baby_wing2
-  rotate: false
-  xy: 392, 566
+  rotate: true
+  xy: 407, 1445
   size: 35, 33
   orig: 35, 33
   offset: 0, 0
   index: -1
 dragon_holy_adult_tail
   rotate: false
-  xy: 318, 605
+  xy: 255, 888
   size: 139, 113
   orig: 139, 113
   offset: 0, 0
   index: -1
 dragon_holy_baby_hornlight
-  rotate: true
-  xy: 459, 557
+  rotate: false
+  xy: 371, 669
   size: 69, 45
   orig: 73, 53
   offset: 4, 8
   index: -1
 dragon_holy_adult_arm3
   rotate: true
-  xy: 481, 332
+  xy: 425, 1504
   size: 27, 19
   orig: 27, 19
   offset: 0, 0
   index: -1
 dragon_holy_child_leg5
   rotate: false
-  xy: 481, 249
+  xy: 447, 1532
   size: 23, 16
   orig: 23, 16
   offset: 0, 0
   index: -1
+dragon_3002_baby_hand_l1_partSkin01
+  rotate: true
+  xy: 326, 418
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
 dragon_holy_e_wing3
   rotate: false
-  xy: 373, 835
+  xy: 396, 951
   size: 110, 59
   orig: 112, 59
   offset: 2, 0
   index: -1
 dragon_holy_eff_cri_pa02
-  rotate: true
-  xy: 184, 1261
+  rotate: false
+  xy: 392, 1208
   size: 77, 62
   orig: 77, 62
   offset: 0, 0
   index: -1
-dragon_holy_baby_hand2
+dragon_3002_baby_spear_partSkin01
   rotate: true
-  xy: 481, 361
+  xy: 120, 1328
+  size: 209, 64
+  orig: 209, 64
+  offset: 0, 0
+  index: -1
+dragon_holy_baby_hand2
+  rotate: false
+  xy: 481, 209
   size: 28, 16
   orig: 28, 16
   offset: 0, 0
   index: -1
 dragon_holy_child_arm3
-  rotate: false
-  xy: 479, 2
+  rotate: true
+  xy: 468, 1334
   size: 25, 41
   orig: 25, 41
+  offset: 0, 0
+  index: -1
+dragon_holy_baby_eye01
+  rotate: true
+  xy: 472, 1528
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+dragon_3002_baby_leg_r2_partSkin01
+  rotate: false
+  xy: 495, 1029
+  size: 14, 14
+  orig: 14, 14
   offset: 0, 0
   index: -1
 dragon_holy_eff_cri_eff_rrr
@@ -423,15 +479,15 @@ dragon_holy_eff_cri_eff_rrr
   offset: 0, 0
   index: -1
 dragon_holy_e_critical_e_smo00
-  rotate: true
-  xy: 2, 1328
+  rotate: false
+  xy: 388, 1012
   size: 105, 107
   orig: 107, 107
   offset: 0, 0
   index: -1
 dragon_holy_adult_headhorn
   rotate: false
-  xy: 466, 812
+  xy: 442, 1433
   size: 24, 21
   orig: 68, 41
   offset: 8, 8
@@ -444,36 +500,43 @@ dragon_holy_eff_cri_b_eff
   offset: 0, 0
   index: -1
 dragon_holy_adult_head
-  rotate: false
-  xy: 438, 1084
+  rotate: true
+  xy: 347, 1317
   size: 66, 35
   orig: 68, 41
   offset: 0, 3
   index: -1
 dragon_holy_adult_leg2
-  rotate: true
-  xy: 479, 88
+  rotate: false
+  xy: 434, 841
   size: 44, 15
   orig: 44, 15
   offset: 0, 0
   index: -1
+dragon_3002_baby_wing_l1_partSkin01
+  rotate: false
+  xy: 358, 418
+  size: 99, 143
+  orig: 99, 143
+  offset: 0, 0
+  index: -1
 dragon_holy_adult_mouth1
-  rotate: true
-  xy: 373, 915
+  rotate: false
+  xy: 427, 563
   size: 24, 13
   orig: 68, 41
   offset: 1, 7
   index: -1
 dragon_holy_e_head_p
-  rotate: false
-  xy: 438, 986
+  rotate: true
+  xy: 286, 1317
   size: 66, 59
   orig: 66, 59
   offset: 0, 0
   index: -1
 dragon_holy_baby_arm1
   rotate: false
-  xy: 481, 204
+  xy: 481, 370
   size: 23, 24
   orig: 23, 24
   offset: 0, 0
@@ -487,84 +550,105 @@ dragon_holy_child_neck
   index: -1
 dragon_holy_e_wing_p
   rotate: false
-  xy: 429, 1228
+  xy: 434, 783
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 dragon_holy_critical_line
-  rotate: true
-  xy: 373, 896
+  rotate: false
+  xy: 479, 63
   size: 17, 87
   orig: 29, 101
   offset: 5, 6
   index: -1
-dragon_holy_e_tail_p
+dragon_3002_baby_wing_r2_partSkin01
   rotate: false
-  xy: 385, 1172
+  xy: 255, 1280
+  size: 95, 35
+  orig: 95, 35
+  offset: 0, 0
+  index: -1
+dragon_3002_baby_cape_partSkin01
+  rotate: true
+  xy: 442, 1363
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+dragon_holy_e_tail_p
+  rotate: true
+  xy: 245, 1495
   size: 47, 49
   orig: 47, 49
   offset: 0, 0
   index: -1
-dragon_holy_child_wing2
-  rotate: true
-  xy: 318, 1329
-  size: 48, 29
-  orig: 48, 29
-  offset: 0, 0
-  index: -1
-dragon_holy_child_leg4
-  rotate: false
-  xy: 375, 1384
-  size: 28, 39
-  orig: 28, 39
-  offset: 0, 0
-  index: -1
 dragon_holy_adult_arm2
-  rotate: false
-  xy: 462, 896
+  rotate: true
+  xy: 481, 301
   size: 34, 17
   orig: 34, 17
   offset: 0, 0
   index: -1
+dragon_holy_child_leg4
+  rotate: true
+  xy: 329, 858
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+dragon_holy_child_wing2
+  rotate: true
+  xy: 437, 1313
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
 dragon_holy_baby_arm2
-  rotate: false
-  xy: 444, 402
+  rotate: true
+  xy: 495, 1012
   size: 15, 14
   orig: 15, 14
   offset: 0, 0
   index: -1
 dragon_holy_child_arm2
-  rotate: false
-  xy: 483, 915
+  rotate: true
+  xy: 495, 1045
   size: 21, 13
   orig: 21, 13
   offset: 0, 0
   index: -1
 dragon_holy_adult_horn2
   rotate: false
-  xy: 435, 1397
+  xy: 442, 1402
   size: 24, 29
   orig: 68, 41
   offset: 9, 3
   index: -1
+dragon_3002_baby_leg_r1_partSkin01
+  rotate: false
+  xy: 446, 1490
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
 dragon_holy_adult_leg1
   rotate: false
-  xy: 429, 1286
+  xy: 442, 640
   size: 67, 50
   orig: 67, 54
   offset: 0, 3
   index: -1
 dragon_holy_adult_att
   rotate: false
-  xy: 248, 1329
+  xy: 352, 1280
   size: 68, 35
   orig: 68, 41
   offset: 0, 3
   index: -1
 dragon_holy_adult_eye
   rotate: true
-  xy: 422, 1397
+  xy: 358, 563
   size: 12, 11
   orig: 68, 41
   offset: 10, 16
@@ -578,49 +662,49 @@ dragon_holy_eff_cri_eff_rrr02
   index: -1
 dragon_holy_baby_smile
   rotate: true
-  xy: 422, 1338
+  xy: 298, 1491
   size: 57, 60
   orig: 57, 60
   offset: 0, 0
   index: -1
 dragon_holy_baby_head
-  rotate: false
-  xy: 243, 1366
+  rotate: true
+  xy: 354, 1385
   size: 65, 51
   orig: 73, 53
   offset: 6, 0
   index: -1
 dragon_holy_child_leg6
   rotate: false
-  xy: 466, 719
+  xy: 471, 1191
   size: 38, 50
   orig: 38, 50
   offset: 0, 0
   index: -1
 dragon_holy_e_head_p_eff
   rotate: false
-  xy: 466, 771
+  xy: 471, 1243
   size: 38, 39
   orig: 38, 39
   offset: 0, 0
   index: -1
 dragon_holy_adult_arm1
-  rotate: false
-  xy: 388, 915
+  rotate: true
+  xy: 184, 1261
   size: 56, 69
   orig: 58, 69
   offset: 2, 0
   index: -1
 dragon_holy_e_critical_e_smo000
-  rotate: true
-  xy: 258, 1092
+  rotate: false
+  xy: 258, 1153
   size: 132, 125
   orig: 132, 125
   offset: 0, 0
   index: -1
 dragon_holy_child_heart
-  rotate: true
-  xy: 388, 1285
+  rotate: false
+  xy: 422, 1272
   size: 46, 39
   orig: 46, 39
   offset: 0, 0
@@ -633,24 +717,24 @@ dragon_holy_eff_cri_e_ccc01
   offset: 0, 0
   index: -1
 dragon_holy_e_leg_p
-  rotate: true
-  xy: 391, 1333
+  rotate: false
+  xy: 354, 1452
   size: 49, 29
   orig: 49, 29
   offset: 0, 0
   index: -1
-dragon_holy_child_wing1
-  rotate: true
-  xy: 385, 1105
-  size: 65, 51
-  orig: 65, 51
-  offset: 0, 0
-  index: -1
 dragon_holy_child_leg3
-  rotate: true
-  xy: 405, 1384
+  rotate: false
+  xy: 480, 841
   size: 25, 15
   orig: 25, 15
+  offset: 0, 0
+  index: -1
+dragon_holy_child_wing1
+  rotate: true
+  xy: 245, 1428
+  size: 65, 51
+  orig: 65, 51
   offset: 0, 0
   index: -1
 dragon_holy_critical_lightcircle

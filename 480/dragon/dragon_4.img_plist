@@ -7,7 +7,7 @@
             <key>dragon/dragon_4/box_adult.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,77},{71,70}}</string>
+                <string>{{2,150},{71,70}}</string>
                 <key>offset</key>
                 <string>{1,0}</string>
                 <key>rotated</key>
@@ -33,7 +33,7 @@
             <key>dragon/dragon_4/box_child.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,150},{67,70}}</string>
+                <string>{{2,223},{67,70}}</string>
                 <key>offset</key>
                 <string>{3,0}</string>
                 <key>rotated</key>
@@ -43,10 +43,23 @@
                 <key>sourceSize</key>
                 <string>{73,70}</string>
             </dict>
+            <key>dragon/dragon_4/box_evolution.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,77},{71,70}}</string>
+                <key>offset</key>
+                <string>{1,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{2,0},{71,70}}</string>
+                <key>sourceSize</key>
+                <string>{73,70}</string>
+            </dict>
             <key>dragon/dragon_4/egg.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,219},{67,89}}</string>
+                <string>{{2,292},{67,89}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
@@ -59,7 +72,7 @@
             <key>dragon/dragon_4/egg_small.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,310},{41,55}}</string>
+                <string>{{2,383},{41,55}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -77,9 +90,9 @@
             <key>realTextureFileName</key>
             <string>dragon_4.pvr.ccz</string>
             <key>size</key>
-            <string>{74,353}</string>
+            <string>{74,426}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:ef2e8a94b7e4a1b5714b577d4410d408:a2a4a94acbb33394b18dc4dad88eae4f:29fcd09061c181446237bbf0c3150aa3$</string>
+            <string>$TexturePacker:SmartUpdate:2b2b7ce89b2dc634e415432de45f8ad7:792cbc7fb9d90ac9ab6b650daf6c9142:29fcd09061c181446237bbf0c3150aa3$</string>
             <key>textureFileName</key>
             <string>dragon_4.pvr.ccz</string>
         </dict>

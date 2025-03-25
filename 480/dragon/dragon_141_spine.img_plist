@@ -2,451 +2,710 @@ dragon_141_spine.pvr.ccz
 format: RGBA4444
 filter: Linear,Linear
 repeat: none
-dragon_enix_critical_vine2
-  rotate: true
-  xy: 66, 2
-  size: 218, 62
-  orig: 218, 62
-  offset: 0, 0
-  index: -1
-dragon_enix_critical_lvine5
-  rotate: false
-  xy: 130, 2
-  size: 206, 211
-  orig: 216, 263
-  offset: 9, 0
-  index: -1
-dragon_enix_adult_head3
-  rotate: true
-  xy: 833, 191
-  size: 59, 99
-  orig: 59, 101
-  offset: 0, 2
-  index: -1
-dragon_enix_critical_rvine4
-  rotate: false
-  xy: 514, 2
-  size: 119, 194
-  orig: 157, 260
-  offset: 38, 0
-  index: -1
-dragon_enix_child_tail1
-  rotate: false
-  xy: 1702, 2
-  size: 56, 72
-  orig: 56, 72
-  offset: 0, 0
-  index: -1
-dragon_enix_child_wing
-  rotate: true
-  xy: 679, 192
-  size: 61, 91
-  orig: 61, 91
-  offset: 0, 0
-  index: -1
-dragon_enix_adult_tail2
-  rotate: false
-  xy: 1568, 2
-  size: 89, 140
-  orig: 89, 140
-  offset: 0, 0
-  index: -1
-dragon_enix_child_heart
-  rotate: true
-  xy: 440, 203
-  size: 46, 39
-  orig: 46, 39
-  offset: 0, 0
-  index: -1
-dragon_enix_child_leg6
-  rotate: false
-  xy: 1659, 90
-  size: 26, 45
-  orig: 26, 45
-  offset: 0, 0
-  index: -1
-dragon_enix_adult_leg3
-  rotate: true
-  xy: 1760, 2
-  size: 57, 67
-  orig: 57, 67
-  offset: 0, 0
-  index: -1
-dragon_enix_baby_tail
-  rotate: true
-  xy: 1768, 152
-  size: 41, 44
-  orig: 41, 44
-  offset: 0, 0
-  index: -1
-dragon_enix_child_head1
-  rotate: false
-  xy: 1223, 170
-  size: 45, 76
-  orig: 45, 76
-  offset: 0, 0
-  index: -1
-dragon_enix_critical_rvine3
-  rotate: false
-  xy: 1069, 2
-  size: 85, 166
-  orig: 157, 260
-  offset: 39, 0
-  index: -1
-dragon_enix_adult_note2
-  rotate: true
-  xy: 190, 215
-  size: 35, 41
-  orig: 35, 41
-  offset: 0, 0
-  index: -1
-dragon_enix_adult_body
-  rotate: false
-  xy: 1451, 151
-  size: 93, 94
-  orig: 93, 94
-  offset: 0, 0
-  index: -1
-dragon_enix_child_leg7
-  rotate: true
-  xy: 110, 222
-  size: 30, 46
-  orig: 30, 46
-  offset: 0, 0
-  index: -1
-dragon_enix_adult_mouth
-  rotate: false
-  xy: 318, 215
-  size: 19, 33
-  orig: 19, 33
-  offset: 0, 0
-  index: -1
-dragon_enix_baby_head1
-  rotate: false
-  xy: 1708, 181
-  size: 58, 58
-  orig: 58, 64
-  offset: 0, 6
-  index: -1
-dragon_enix_child_leg2
-  rotate: false
-  xy: 233, 215
-  size: 32, 35
-  orig: 32, 35
-  offset: 0, 0
-  index: -1
-dragon_enix_critical_vine1
-  rotate: true
-  xy: 635, 2
-  size: 188, 62
-  orig: 218, 62
-  offset: 16, 0
-  index: -1
-dragon_enix_child_leg1
-  rotate: false
-  xy: 1814, 152
-  size: 28, 41
-  orig: 28, 41
-  offset: 0, 0
-  index: -1
-dragon_enix_critical_lvine1
-  rotate: false
-  xy: 985, 2
-  size: 82, 187
-  orig: 216, 263
-  offset: 66, 0
-  index: -1
-dragon_enix_adult_leg1
-  rotate: false
-  xy: 1665, 137
-  size: 41, 86
-  orig: 41, 86
-  offset: 0, 0
-  index: -1
-dragon_enix_adult_tail1
-  rotate: true
-  xy: 1136, 170
-  size: 82, 85
-  orig: 82, 85
-  offset: 0, 0
-  index: -1
-dragon_enix_critical_vine3
-  rotate: true
-  xy: 2, 2
-  size: 218, 62
-  orig: 218, 62
-  offset: 0, 0
-  index: -1
-dragon_enix_adult_leg8
-  rotate: true
-  xy: 1799, 195
-  size: 30, 39
-  orig: 30, 39
-  offset: 0, 0
-  index: -1
-dragon_enix_child_body
-  rotate: true
-  xy: 1270, 170
-  size: 74, 73
-  orig: 74, 73
-  offset: 0, 0
-  index: -1
-dragon_enix_child_leg3
-  rotate: false
-  xy: 559, 198
-  size: 45, 53
-  orig: 45, 53
-  offset: 0, 0
-  index: -1
-dragon_enix_baby_leg1
-  rotate: false
-  xy: 1821, 61
-  size: 20, 29
-  orig: 20, 29
-  offset: 0, 0
-  index: -1
-dragon_enix_critical_rvine5
-  rotate: true
-  xy: 1306, 2
-  size: 147, 260
-  orig: 157, 260
-  offset: 0, 0
-  index: -1
-dragon_enix_adult_note1
-  rotate: false
-  xy: 158, 215
-  size: 30, 38
-  orig: 32, 40
-  offset: 1, 1
-  index: -1
-dragon_enix_critical_lvine2
-  rotate: false
-  xy: 849, 2
-  size: 134, 187
-  orig: 216, 263
-  offset: 14, 0
-  index: -1
-dragon_enix_baby_neck
-  rotate: true
-  xy: 1714, 76
-  size: 58, 44
-  orig: 58, 44
-  offset: 0, 0
-  index: -1
 dragon_enix_adult_head2
   rotate: true
-  xy: 934, 191
+  xy: 1208, 401
   size: 59, 99
   orig: 59, 101
   offset: 0, 2
   index: -1
-dragon_enix_baby_head2
+dragon_enix_out_arm01
   rotate: false
-  xy: 1760, 92
-  size: 58, 58
-  orig: 58, 64
-  offset: 0, 6
+  xy: 1132, 284
+  size: 74, 94
+  orig: 74, 94
+  offset: 0, 0
   index: -1
-dragon_enix_adult_leg9
+dragon_enix_head
+  rotate: false
+  xy: 1571, 196
+  size: 92, 113
+  orig: 92, 113
+  offset: 0, 0
+  index: -1
+dragon_enix_in_leg03
   rotate: true
-  xy: 1768, 195
-  size: 41, 29
-  orig: 41, 29
-  offset: 0, 0
+  xy: 1634, 426
+  size: 31, 41
+  orig: 43, 71
+  offset: 12, 0
   index: -1
-dragon_enix_child_leg4
-  rotate: true
-  xy: 1665, 225
-  size: 28, 41
-  orig: 28, 41
-  offset: 0, 0
-  index: -1
-dragon_enix_adult_wing
-  rotate: true
-  xy: 1345, 151
-  size: 95, 104
-  orig: 95, 104
-  offset: 0, 0
-  index: -1
-dragon_enix_baby_leg2
+dragon_enix_out_leg04
   rotate: false
-  xy: 79, 222
-  size: 29, 31
-  orig: 29, 31
-  offset: 0, 0
-  index: -1
-dragon_enix_baby_mouth
-  rotate: false
-  xy: 2, 222
-  size: 44, 31
-  orig: 44, 35
-  offset: 0, 4
-  index: -1
-dragon_enix_adult_leg4
-  rotate: false
-  xy: 1659, 2
-  size: 41, 86
-  orig: 41, 86
-  offset: 0, 0
-  index: -1
-dragon_enix_critical_lvine3
-  rotate: false
-  xy: 699, 2
-  size: 148, 187
-  orig: 216, 263
-  offset: 0, 0
-  index: -1
-dragon_enix_baby_wing
-  rotate: false
-  xy: 1687, 90
-  size: 25, 45
-  orig: 25, 45
-  offset: 0, 0
-  index: -1
-dragon_enix_child_tail2
-  rotate: true
-  xy: 1606, 144
-  size: 89, 57
-  orig: 89, 57
-  offset: 0, 0
-  index: -1
-dragon_enix_adult_neck
-  rotate: false
-  xy: 1546, 151
-  size: 58, 91
-  orig: 58, 91
-  offset: 0, 0
-  index: -1
-dragon_enix_critical_rvine2
-  rotate: false
-  xy: 1233, 2
-  size: 71, 166
-  orig: 157, 260
-  offset: 38, 0
-  index: -1
-dragon_enix_adult_leg6
-  rotate: true
-  xy: 1760, 61
-  size: 29, 59
-  orig: 29, 59
-  offset: 0, 0
-  index: -1
-dragon_enix_child_leg5
-  rotate: false
-  xy: 339, 203
-  size: 43, 50
-  orig: 43, 50
-  offset: 0, 0
-  index: -1
-dragon_enix_baby_leg3
-  rotate: false
-  xy: 298, 215
-  size: 18, 34
-  orig: 18, 34
-  offset: 0, 0
-  index: -1
-dragon_enix_baby_heart
-  rotate: true
-  xy: 440, 203
-  size: 46, 39
-  orig: 46, 39
-  offset: 0, 0
-  index: -1
-dragon_enix_child_head2
-  rotate: true
-  xy: 481, 203
-  size: 45, 76
-  orig: 45, 76
+  xy: 757, 479
+  size: 41, 30
+  orig: 41, 30
   offset: 0, 0
   index: -1
 dragon_enix_adult_leg5
   rotate: false
-  xy: 772, 191
+  xy: 1147, 380
   size: 59, 61
   orig: 59, 61
   offset: 0, 0
   index: -1
-dragon_enix_adult_eye
-  rotate: false
-  xy: 1069, 170
-  size: 9, 17
-  orig: 9, 17
+dragon_enix_child_heart
+  rotate: true
+  xy: 1433, 463
+  size: 46, 39
+  orig: 46, 39
   offset: 0, 0
   index: -1
 dragon_enix_critical_lvine4
   rotate: false
-  xy: 338, 2
+  xy: 210, 215
   size: 174, 199
   orig: 216, 263
   offset: 0, 0
   index: -1
-dragon_enix_baby_eye
+dragon_enix_adult_leg8
+  rotate: false
+  xy: 411, 470
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+dragon_enix_baby_leg1
   rotate: true
-  xy: 1820, 120
+  xy: 352, 416
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+dragon_enix_e_critical_beam2
+  rotate: false
+  xy: 1030, 2
+  size: 214, 159
+  orig: 218, 161
+  offset: 3, 1
+  index: -1
+dragon_enix_baby_eye
+  rotate: false
+  xy: 593, 483
   size: 20, 22
   orig: 20, 22
   offset: 0, 0
   index: -1
-dragon_enix_baby_body
+dragon_enix_child_tail2
   rotate: false
-  xy: 384, 203
-  size: 54, 46
-  orig: 54, 46
+  xy: 411, 411
+  size: 89, 57
+  orig: 89, 57
   offset: 0, 0
   index: -1
-dragon_enix_child_mouth
+dragon_enix_critical_rvine2
   rotate: false
-  xy: 48, 222
+  xy: 957, 106
+  size: 71, 166
+  orig: 157, 260
+  offset: 38, 0
+  index: -1
+dragon_enix_out_wing
+  rotate: false
+  xy: 929, 274
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+dragon_enix_adult_leg1
+  rotate: true
+  xy: 1289, 462
+  size: 41, 86
+  orig: 41, 86
+  offset: 0, 0
+  index: -1
+dragon_enix_child_leg4
+  rotate: false
+  xy: 1737, 303
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+dragon_enix_adult_tail2
+  rotate: false
+  xy: 1480, 196
+  size: 89, 140
+  orig: 89, 140
+  offset: 0, 0
+  index: -1
+dragon_enix_child_leg7
+  rotate: false
+  xy: 1552, 463
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+dragon_enix_child_head1
+  rotate: true
+  xy: 502, 432
+  size: 45, 76
+  orig: 45, 76
+  offset: 0, 0
+  index: -1
+dragon_enix_e_critical_fire2
+  rotate: false
+  xy: 793, 266
+  size: 134, 105
+  orig: 140, 109
+  offset: 5, 4
+  index: -1
+dragon_enix_adult_wing
+  rotate: true
+  xy: 1026, 284
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+dragon_enix_e_critical_dust
+  rotate: false
+  xy: 2, 428
+  size: 252, 81
+  orig: 258, 87
+  offset: 3, 3
+  index: -1
+dragon_enix_in_leg04
+  rotate: false
+  xy: 655, 432
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+dragon_enix_critical_lvine1
+  rotate: false
+  xy: 1656, 2
+  size: 82, 187
+  orig: 216, 263
+  offset: 66, 0
+  index: -1
+dragon_enix_eye03
+  rotate: false
+  xy: 1208, 284
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+dragon_enix_in_wing
+  rotate: true
+  xy: 897, 468
+  size: 41, 104
+  orig: 41, 104
+  offset: 0, 0
+  index: -1
+dragon_enix_adult_mouth
+  rotate: false
+  xy: 1740, 89
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+dragon_enix_adult_leg2
+  rotate: false
+  xy: 1637, 459
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+dragon_enix_
+  rotate: true
+  xy: 791, 373
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+dragon_enix_adult_eye
+  rotate: true
+  xy: 1072, 457
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+dragon_enix_critical_lvine5
+  rotate: false
+  xy: 2, 215
+  size: 206, 211
+  orig: 216, 263
+  offset: 9, 0
+  index: -1
+dragon_enix_adult_leg9
+  rotate: false
+  xy: 526, 479
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+dragon_enix_baby_leg2
+  rotate: false
+  xy: 1724, 379
   size: 29, 31
   orig: 29, 31
   offset: 0, 0
   index: -1
-dragon_enix_critical_rvine1
+dragon_enix_critical_vine1
   rotate: false
-  xy: 1156, 2
+  xy: 507, 368
+  size: 188, 62
+  orig: 218, 62
+  offset: 16, 0
+  index: -1
+dragon_enix_critical_rvine1
+  rotate: true
+  xy: 1218, 263
   size: 75, 166
   orig: 157, 260
   offset: 0, 0
   index: -1
+dragon_enix_in_arm02
+  rotate: true
+  xy: 1237, 462
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+dragon_enix_in_leg01
+  rotate: true
+  xy: 1164, 462
+  size: 47, 71
+  orig: 47, 71
+  offset: 0, 0
+  index: -1
+dragon_enix_child_wing
+  rotate: true
+  xy: 1415, 340
+  size: 61, 91
+  orig: 61, 91
+  offset: 0, 0
+  index: -1
+dragon_enix_tail02
+  rotate: false
+  xy: 1386, 196
+  size: 92, 142
+  orig: 92, 142
+  offset: 0, 0
+  index: -1
+dragon_enix_out_leg03
+  rotate: true
+  xy: 846, 470
+  size: 33, 42
+  orig: 45, 74
+  offset: 12, 0
+  index: -1
+dragon_enix_child_leg5
+  rotate: true
+  xy: 741, 115
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+dragon_enix_e_critical_beam
+  rotate: false
+  xy: 2, 2
+  size: 255, 211
+  orig: 257, 213
+  offset: 1, 1
+  index: -1
+dragon_enix_e_critical_fire3
+  rotate: false
+  xy: 793, 106
+  size: 162, 158
+  orig: 170, 162
+  offset: 2, 3
+  index: -1
+dragon_enix_critical_rvine5
+  rotate: true
+  xy: 259, 2
+  size: 147, 260
+  orig: 157, 260
+  offset: 0, 0
+  index: -1
+dragon_enix_out_arm03
+  rotate: true
+  xy: 1503, 403
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
 dragon_enix_adult_head1
   rotate: true
-  xy: 1035, 191
+  xy: 1309, 401
   size: 59, 99
   orig: 59, 101
   offset: 0, 2
   index: -1
-dragon_enix_adult_leg7
-  rotate: true
-  xy: 267, 215
-  size: 35, 29
-  orig: 35, 29
-  offset: 0, 0
-  index: -1
-dragon_enix_child_neck
-  rotate: true
-  xy: 606, 198
-  size: 52, 71
-  orig: 52, 71
-  offset: 0, 0
-  index: -1
-dragon_enix_baby_leg4
+dragon_enix_critical_lvine2
   rotate: false
-  xy: 1820, 92
-  size: 22, 26
-  orig: 22, 26
+  xy: 657, 179
+  size: 134, 187
+  orig: 216, 263
+  offset: 14, 0
+  index: -1
+dragon_enix_adult_note2
+  rotate: true
+  xy: 443, 470
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_enix_child_leg1
+  rotate: true
+  xy: 1677, 429
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+dragon_enix_baby_body
+  rotate: false
+  xy: 1377, 463
+  size: 54, 46
+  orig: 54, 46
+  offset: 0, 0
+  index: -1
+dragon_enix_eye04
+  rotate: false
+  xy: 210, 416
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+dragon_enix_baby_head2
+  rotate: false
+  xy: 1574, 400
+  size: 58, 58
+  orig: 58, 64
+  offset: 0, 6
+  index: -1
+dragon_enix_e_critical_dust2
+  rotate: false
+  xy: 775, 2
+  size: 253, 102
+  orig: 261, 112
+  offset: 4, 6
+  index: -1
+dragon_enix_child_body
+  rotate: true
+  xy: 1072, 381
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+dragon_enix_child_tail1
+  rotate: true
+  xy: 1571, 311
+  size: 56, 72
+  orig: 56, 72
+  offset: 0, 0
+  index: -1
+dragon_enix_out_leg02
+  rotate: false
+  xy: 1645, 311
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+dragon_enix_adult_leg3
+  rotate: false
+  xy: 352, 442
+  size: 57, 67
+  orig: 57, 67
+  offset: 0, 0
+  index: -1
+dragon_enix_child_leg2
+  rotate: false
+  xy: 757, 442
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+dragon_enix_adult_leg6
+  rotate: true
+  xy: 1570, 369
+  size: 29, 59
+  orig: 29, 59
+  offset: 0, 0
+  index: -1
+dragon_enix_baby_leg3
+  rotate: true
+  xy: 1386, 176
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+dragon_enix_adult_tail1
+  rotate: false
+  xy: 988, 381
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+dragon_enix_e_critical_fire4
+  rotate: false
+  xy: 1452, 2
+  size: 202, 192
+  orig: 204, 196
+  offset: 1, 3
+  index: -1
+dragon_enix_critical_rvine4
+  rotate: false
+  xy: 386, 215
+  size: 119, 194
+  orig: 157, 260
+  offset: 38, 0
+  index: -1
+dragon_enix_in_arm03
+  rotate: false
+  xy: 1508, 338
+  size: 60, 63
+  orig: 60, 63
+  offset: 0, 0
+  index: -1
+dragon_enix_out_arm02
+  rotate: true
+  xy: 1584, 460
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+dragon_enix_mouth
+  rotate: false
+  xy: 1740, 49
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+dragon_enix_tail01
+  rotate: true
+  xy: 897, 380
+  size: 86, 89
+  orig: 86, 89
+  offset: 0, 0
+  index: -1
+dragon_enix_baby_heart
+  rotate: true
+  xy: 1433, 463
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_enix_critical_vine3
+  rotate: false
+  xy: 259, 151
+  size: 218, 62
+  orig: 218, 62
+  offset: 0, 0
+  index: -1
+dragon_enix_adult_neck
+  rotate: true
+  xy: 1410, 403
+  size: 58, 91
+  orig: 58, 91
+  offset: 0, 0
+  index: -1
+dragon_enix_child_head2
+  rotate: true
+  xy: 1474, 463
+  size: 45, 76
+  orig: 45, 76
+  offset: 0, 0
+  index: -1
+dragon_enix_eye01
+  rotate: false
+  xy: 1433, 176
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+dragon_enix_baby_neck
+  rotate: true
+  xy: 1691, 303
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+dragon_enix_child_mouth
+  rotate: false
+  xy: 1737, 346
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+dragon_enix_in_leg02
+  rotate: false
+  xy: 1681, 371
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+dragon_enix_adult_leg4
+  rotate: true
+  xy: 1003, 468
+  size: 41, 86
+  orig: 41, 86
   offset: 0, 0
   index: -1
 dragon_enix_child_eye
-  rotate: true
-  xy: 1080, 170
+  rotate: false
+  xy: 507, 151
   size: 12, 20
   orig: 12, 20
   offset: 0, 0
   index: -1
-dragon_enix_adult_leg2
+dragon_enix_e_critical_fire
   rotate: true
-  xy: 1714, 136
-  size: 43, 44
-  orig: 43, 44
+  xy: 1665, 191
+  size: 110, 102
+  orig: 118, 106
+  offset: 4, 1
+  index: -1
+dragon_enix_critical_lvine3
+  rotate: false
+  xy: 507, 179
+  size: 148, 187
+  orig: 216, 263
+  offset: 0, 0
+  index: -1
+dragon_enix_baby_mouth
+  rotate: false
+  xy: 800, 470
+  size: 44, 31
+  orig: 44, 35
+  offset: 0, 4
+  index: -1
+dragon_enix_neck
+  rotate: true
+  xy: 1208, 340
+  size: 59, 104
+  orig: 59, 108
+  offset: 0, 0
+  index: -1
+dragon_enix_baby_wing
+  rotate: false
+  xy: 1740, 2
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+dragon_enix_e_critical_dust3
+  rotate: false
+  xy: 521, 2
+  size: 252, 111
+  orig: 256, 127
+  offset: 3, 10
+  index: -1
+dragon_enix_adult_head3
+  rotate: true
+  xy: 1314, 340
+  size: 59, 99
+  orig: 59, 101
+  offset: 0, 2
+  index: -1
+dragon_enix_adult_body
+  rotate: true
+  xy: 256, 416
+  size: 93, 94
+  orig: 93, 94
+  offset: 0, 0
+  index: -1
+dragon_enix_child_leg3
+  rotate: false
+  xy: 1634, 371
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+dragon_enix_critical_vine2
+  rotate: false
+  xy: 521, 115
+  size: 218, 62
+  orig: 218, 62
+  offset: 0, 0
+  index: -1
+dragon_enix_baby_tail
+  rotate: false
+  xy: 1682, 459
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+dragon_enix_e_critical_fire6
+  rotate: false
+  xy: 1030, 163
+  size: 186, 119
+  orig: 188, 121
+  offset: 1, 1
+  index: -1
+dragon_enix_child_leg6
+  rotate: false
+  xy: 479, 151
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+dragon_enix_adult_leg7
+  rotate: false
+  xy: 655, 463
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+dragon_enix_baby_leg4
+  rotate: false
+  xy: 569, 483
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+dragon_enix_e_critical_fire5
+  rotate: false
+  xy: 1246, 2
+  size: 204, 172
+  orig: 206, 174
+  offset: 1, 1
+  index: -1
+dragon_enix_baby_head1
+  rotate: false
+  xy: 697, 442
+  size: 58, 58
+  orig: 58, 64
+  offset: 0, 6
+  index: -1
+dragon_enix_critical_rvine3
+  rotate: true
+  xy: 1218, 176
+  size: 85, 166
+  orig: 157, 260
+  offset: 39, 0
+  index: -1
+dragon_enix_child_neck
+  rotate: true
+  xy: 1091, 457
+  size: 52, 71
+  orig: 52, 71
+  offset: 0, 0
+  index: -1
+dragon_enix_out_leg01
+  rotate: true
+  xy: 580, 432
+  size: 49, 73
+  orig: 49, 73
+  offset: 0, 0
+  index: -1
+dragon_enix_adult_note1
+  rotate: true
+  xy: 486, 479
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_enix_eye02
+  rotate: false
+  xy: 1422, 176
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+dragon_enix_in_arm01
+  rotate: true
+  xy: 697, 368
+  size: 72, 92
+  orig: 72, 92
   offset: 0, 0
   index: -1

@@ -1,0 +1,648 @@
+dragon_4069_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_vanish_adult_p3
+  rotate: false
+  xy: 187, 190
+  size: 28, 37
+  orig: 30, 39
+  offset: 2, 0
+  index: -1
+dragon_vanish_critical_cir2
+  rotate: true
+  xy: 872, 2
+  size: 156, 278
+  orig: 392, 278
+  offset: 46, 0
+  index: -1
+dragon_vanish_child_mouth
+  rotate: false
+  xy: 1543, 116
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+dragon_vanish_child_head
+  rotate: true
+  xy: 451, 178
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+dragon_vanish_adult_neck
+  rotate: true
+  xy: 1035, 160
+  size: 60, 90
+  orig: 60, 90
+  offset: 0, 0
+  index: -1
+dragon_vanish_baby_neck
+  rotate: false
+  xy: 721, 174
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+dragon_vanish_adult_c1
+  rotate: false
+  xy: 1951, 90
+  size: 18, 32
+  orig: 20, 32
+  offset: 2, 0
+  index: -1
+dragon_vanish_critical_cri8
+  rotate: false
+  xy: 1681, 2
+  size: 350, 50
+  orig: 392, 278
+  offset: 5, 96
+  index: -1
+dragon_vanish_baby_body
+  rotate: false
+  xy: 1681, 54
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+dragon_vanish_adult_body1
+  rotate: true
+  xy: 755, 172
+  size: 54, 75
+  orig: 58, 87
+  offset: 0, 12
+  index: -1
+dragon_vanish_baby_arm1
+  rotate: true
+  xy: 1441, 117
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+dragon_love_effect_smile
+  rotate: false
+  xy: 1127, 160
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_vanish_child_amr3
+  rotate: false
+  xy: 1982, 157
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+dragon_vanish_adult_leg2
+  rotate: true
+  xy: 1627, 97
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1
+dragon_vanish_adult_p2
+  rotate: true
+  xy: 1975, 90
+  size: 15, 50
+  orig: 15, 52
+  offset: 0, 2
+  index: -1
+dragon_vanish_adult_tail3
+  rotate: true
+  xy: 885, 160
+  size: 65, 61
+  orig: 65, 61
+  offset: 0, 0
+  index: -1
+dragon_vanish_baby_leg3
+  rotate: true
+  xy: 30, 214
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+dragon_vanish_child_leg3
+  rotate: true
+  xy: 1513, 116
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+dragon_love_effect_heart2
+  rotate: true
+  xy: 1681, 91
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_vanish_baby_wing1
+  rotate: false
+  xy: 1885, 190
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+dragon_vanish_critical_c3
+  rotate: false
+  xy: 1811, 134
+  size: 72, 91
+  orig: 152, 129
+  offset: 28, 17
+  index: -1
+dragon_vanish_adult_wing4
+  rotate: false
+  xy: 1416, 2
+  size: 85, 113
+  orig: 87, 113
+  offset: 2, 0
+  index: -1
+dragon_vanish_critical_cir3
+  rotate: false
+  xy: 1716, 54
+  size: 318, 34
+  orig: 392, 278
+  offset: 40, 44
+  index: -1
+dragon_vanish_child_neck
+  rotate: true
+  xy: 149, 190
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+dragon_vanish_child_amr2
+  rotate: true
+  xy: 2002, 161
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+dragon_vanish_baby_love
+  rotate: true
+  xy: 832, 172
+  size: 54, 51
+  orig: 54, 59
+  offset: 0, 8
+  index: -1
+dragon_vanish_adult_arm3
+  rotate: true
+  xy: 1918, 90
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+dragon_vanish_adult_tail2
+  rotate: true
+  xy: 1316, 159
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+dragon_vanish_child_p2
+  rotate: false
+  xy: 985, 160
+  size: 20, 63
+  orig: 20, 63
+  offset: 0, 0
+  index: -1
+dragon_vanish_child_leg2
+  rotate: true
+  xy: 2006, 107
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+dragon_vanish_baby_wing2
+  rotate: false
+  xy: 1830, 90
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+dragon_vanish_child_hand2
+  rotate: false
+  xy: 2013, 194
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+dragon_vanish_child_eye
+  rotate: true
+  xy: 2013, 211
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+dragon_vanish_baby_arm2
+  rotate: true
+  xy: 2013, 177
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+dragon_vanish_adult_leg5
+  rotate: true
+  xy: 1975, 132
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+dragon_vanish_adult_p1
+  rotate: false
+  xy: 1891, 90
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+dragon_vanish_critical_cir4
+  rotate: false
+  xy: 1716, 54
+  size: 318, 34
+  orig: 392, 278
+  offset: 40, 44
+  index: -1
+dragon_vanish_baby_leg4
+  rotate: true
+  xy: 2006, 144
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+dragon_vanish_adult_leg6
+  rotate: false
+  xy: 1774, 90
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+dragon_vanish_adult_hand2
+  rotate: false
+  xy: 126, 190
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+dragon_vanish_critical_cri5
+  rotate: false
+  xy: 2, 2
+  size: 122, 210
+  orig: 392, 278
+  offset: 152, 31
+  index: -1
+dragon_vanish_baby_tail
+  rotate: true
+  xy: 1916, 187
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+dragon_vanish_adult_mouth
+  rotate: false
+  xy: 1416, 117
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+dragon_vanish_critical_c4
+  rotate: true
+  xy: 1307, 2
+  size: 136, 107
+  orig: 152, 129
+  offset: 4, 7
+  index: -1
+dragon_vanish_child_body2
+  rotate: false
+  xy: 1975, 107
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+dragon_vanish_adult_arm2
+  rotate: false
+  xy: 1722, 90
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+dragon_vanish_adult_love
+  rotate: false
+  xy: 509, 174
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+dragon_vanish_adult_tail1
+  rotate: false
+  xy: 1982, 176
+  size: 17, 25
+  orig: 19, 25
+  offset: 2, 0
+  index: -1
+dragon_vanish_baby_head
+  rotate: true
+  xy: 1910, 131
+  size: 54, 51
+  orig: 54, 59
+  offset: 0, 8
+  index: -1
+dragon_vanish_adult_leg1
+  rotate: false
+  xy: 1866, 90
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+dragon_vanish_child_tail2
+  rotate: true
+  xy: 1219, 159
+  size: 59, 19
+  orig: 59, 19
+  offset: 0, 0
+  index: -1
+dragon_vanish_adult_attack
+  rotate: false
+  xy: 1152, 2
+  size: 153, 155
+  orig: 225, 225
+  offset: 36, 36
+  index: -1
+dragon_vanish_adult_head
+  rotate: false
+  xy: 567, 174
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+dragon_vanish_child_hand1
+  rotate: true
+  xy: 70, 214
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+dragon_vanish_critical_cri1
+  rotate: false
+  xy: 206, 2
+  size: 270, 174
+  orig: 392, 278
+  offset: 48, 28
+  index: -1
+dragon_vanish_adult_leg4
+  rotate: true
+  xy: 1458, 117
+  size: 19, 53
+  orig: 19, 53
+  offset: 0, 0
+  index: -1
+dragon_vanish_adult_wing3
+  rotate: true
+  xy: 478, 2
+  size: 170, 137
+  orig: 170, 137
+  offset: 0, 0
+  index: -1
+dragon_vanish_adult_c3
+  rotate: true
+  xy: 1802, 90
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+dragon_vanish_baby_leg1
+  rotate: true
+  xy: 2, 214
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+dragon_vanish_adult_hand1
+  rotate: false
+  xy: 1994, 203
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_vanish_baby_eye
+  rotate: false
+  xy: 1571, 116
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+dragon_vanish_critical_cri6
+  rotate: false
+  xy: 126, 2
+  size: 78, 186
+  orig: 392, 278
+  offset: 138, 81
+  index: -1
+dragon_vanish_critical_c1
+  rotate: false
+  xy: 1587, 2
+  size: 92, 93
+  orig: 152, 129
+  offset: 29, 17
+  index: -1
+dragon_vanish_child_leg6
+  rotate: true
+  xy: 1947, 187
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+monster_horngon_front_question
+  rotate: false
+  xy: 948, 160
+  size: 35, 65
+  orig: 39, 67
+  offset: 2, 2
+  index: -1
+dragon_love_effect_heart1
+  rotate: true
+  xy: 1681, 91
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_vanish_baby_arm3
+  rotate: false
+  xy: 53, 214
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+dragon_vanish_child_body1
+  rotate: false
+  xy: 683, 174
+  size: 36, 53
+  orig: 38, 53
+  offset: 1, 0
+  index: -1
+dragon_vanish_child_arm1
+  rotate: false
+  xy: 1975, 203
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_vanish_child_wing2
+  rotate: true
+  xy: 305, 178
+  size: 47, 86
+  orig: 47, 86
+  offset: 0, 0
+  index: -1
+dragon_vanish_child_tail1
+  rotate: true
+  xy: 1590, 97
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+dragon_vanish_child_leg5
+  rotate: true
+  xy: 2006, 124
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+dragon_vanish_child_love
+  rotate: true
+  xy: 393, 178
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+dragon_vanish_child_arm4
+  rotate: false
+  xy: 1316, 202
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+dragon_vanish_adult_eye
+  rotate: false
+  xy: 112, 214
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+dragon_vanish_adult_wing2
+  rotate: true
+  xy: 735, 2
+  size: 168, 135
+  orig: 170, 135
+  offset: 2, 0
+  index: -1
+dragon_vanish_adult_c2
+  rotate: false
+  xy: 1885, 132
+  size: 23, 56
+  orig: 23, 56
+  offset: 0, 0
+  index: -1
+dragon_vanish_adult_tail4
+  rotate: false
+  xy: 1622, 140
+  size: 92, 83
+  orig: 92, 83
+  offset: 0, 0
+  index: -1
+dragon_vanish_critical_p1
+  rotate: true
+  xy: 617, 2
+  size: 170, 116
+  orig: 170, 116
+  offset: 0, 0
+  index: -1
+dragon_vanish_child_leg1
+  rotate: false
+  xy: 123, 214
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+dragon_vanish_child_wing1
+  rotate: true
+  xy: 217, 178
+  size: 48, 86
+  orig: 48, 86
+  offset: 0, 0
+  index: -1
+dragon_vanish_adult_arm1
+  rotate: false
+  xy: 1307, 140
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: -1
+dragon_vanish_baby_leg2
+  rotate: false
+  xy: 1963, 157
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+dragon_vanish_critical_cri7
+  rotate: false
+  xy: 1348, 140
+  size: 272, 86
+  orig: 392, 278
+  offset: 47, 126
+  index: -1
+dragon_vanish_child_leg4
+  rotate: false
+  xy: 86, 214
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+dragon_vanish_adult_body2
+  rotate: false
+  xy: 1240, 159
+  size: 74, 56
+  orig: 74, 56
+  offset: 0, 0
+  index: -1
+dragon_vanish_critical_c2
+  rotate: true
+  xy: 1716, 139
+  size: 80, 93
+  orig: 152, 129
+  offset: 29, 17
+  index: -1
+dragon_vanish_adult_wing1
+  rotate: false
+  xy: 1503, 2
+  size: 82, 112
+  orig: 84, 112
+  offset: 2, 0
+  index: -1
+dragon_vanish_adult_arm4
+  rotate: false
+  xy: 1748, 90
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+dragon_vanish_adult_att
+  rotate: false
+  xy: 625, 174
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+dragon_vanish_child_p1
+  rotate: false
+  xy: 1007, 160
+  size: 26, 61
+  orig: 26, 61
+  offset: 0, 0
+  index: -1
+dragon_vanish_adult_leg3
+  rotate: false
+  xy: 1186, 159
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1

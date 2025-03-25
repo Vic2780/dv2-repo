@@ -4,484 +4,736 @@ filter: Linear,Linear
 repeat: none
 dragon_jin_child_tail
   rotate: true
-  xy: 976, 198
+  xy: 873, 833
   size: 51, 64
   orig: 51, 64
   offset: 0, 0
   index: -1
 dragon_jin_adult_r_wing
   rotate: true
-  xy: 1672, 78
+  xy: 734, 1104
   size: 27, 47
   orig: 27, 47
   offset: 0, 0
   index: -1
 dragon_jin_adult_l_leg1c
-  rotate: false
-  xy: 1161, 153
+  rotate: true
+  xy: 985, 903
   size: 59, 32
   orig: 59, 32
   offset: 0, 0
   index: -1
 dragon_jin_adult_l_leg2b
-  rotate: true
-  xy: 1788, 107
+  rotate: false
+  xy: 985, 770
   size: 35, 50
   orig: 35, 50
   offset: 0, 0
   index: -1
-dragon_jin_adult_body
+dragon_jin_e_l_wingsh
+  rotate: true
+  xy: 979, 628
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+dragon_jin_e_tail
   rotate: false
-  xy: 1562, 153
+  xy: 783, 1110
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+dragon_jin_adult_body
+  rotate: true
+  xy: 928, 2
   size: 111, 92
   orig: 111, 92
   offset: 0, 0
   index: -1
 dragon_jin_baby_body
-  rotate: false
-  xy: 1870, 143
+  rotate: true
+  xy: 828, 998
   size: 50, 59
   orig: 50, 59
   offset: 0, 0
   index: -1
-dragon_jin_child_eye2
+dragon_jin_e_ef6
   rotate: false
-  xy: 459, 245
+  xy: 407, 768
+  size: 253, 251
+  orig: 297, 297
+  offset: 13, 25
+  index: -1
+dragon_jin_child_eye2
+  rotate: true
+  xy: 1011, 291
   size: 17, 9
   orig: 17, 9
   offset: 0, 0
   index: -1
 dragon_jin_adult_tail4
   rotate: false
-  xy: 1884, 101
+  xy: 979, 672
   size: 41, 40
   orig: 41, 40
   offset: 0, 0
   index: -1
+dragon_jin_e_arm
+  rotate: true
+  xy: 709, 423
+  size: 45, 11
+  orig: 45, 11
+  offset: 0, 0
+  index: -1
 dragon_jin_child_wing
-  rotate: false
-  xy: 1124, 193
+  rotate: true
+  xy: 174, 1065
   size: 74, 60
   orig: 74, 60
   offset: 0, 0
   index: -1
 dragon_jin_tree1
-  rotate: true
+  rotate: false
   xy: 2, 2
   size: 207, 502
   orig: 207, 502
   offset: 0, 0
   index: -1
+dragon_jin_e_eef3
+  rotate: true
+  xy: 928, 115
+  size: 246, 59
+  orig: 248, 59
+  offset: 0, 0
+  index: -1
 dragon_jin_baby_head
   rotate: false
-  xy: 1809, 144
+  xy: 835, 886
   size: 59, 62
   orig: 59, 62
   offset: 0, 0
   index: -1
 dragon_jin_baby_leg1
-  rotate: true
-  xy: 1742, 218
+  rotate: false
+  xy: 985, 822
   size: 35, 48
   orig: 35, 48
   offset: 0, 0
   index: -1
+dragon_jin_e_tree0
+  rotate: false
+  xy: 248, 966
+  size: 130, 113
+  orig: 130, 113
+  offset: 0, 0
+  index: -1
 dragon_jin_adult_l_leg1b
   rotate: true
-  xy: 1842, 208
+  xy: 835, 950
   size: 46, 59
   orig: 46, 59
   offset: 0, 0
   index: -1
-dragon_jin_baby_tail
+dragon_jin_e_tailsh
   rotate: false
-  xy: 1922, 143
+  xy: 550, 1087
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+dragon_jin_baby_tail
+  rotate: true
+  xy: 888, 1053
   size: 40, 36
   orig: 40, 36
   offset: 0, 0
   index: -1
+dragon_jin_e_r_winga
+  rotate: false
+  xy: 773, 775
+  size: 64, 88
+  orig: 64, 88
+  offset: 0, 0
+  index: -1
 dragon_jin_adult_eye5
-  rotate: true
-  xy: 497, 245
+  rotate: false
+  xy: 510, 1078
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 dragon_jin_baby_eye2
-  rotate: false
-  xy: 1520, 134
+  rotate: true
+  xy: 1003, 1097
   size: 37, 17
   orig: 37, 17
   offset: 0, 0
   index: -1
 dragon_jin_child_chin
-  rotate: false
-  xy: 1792, 218
+  rotate: true
+  xy: 986, 578
   size: 48, 32
   orig: 48, 32
   offset: 0, 0
   index: -1
 dragon_jin_adult_l_winga
-  rotate: true
-  xy: 103, 211
+  rotate: false
+  xy: 717, 876
   size: 35, 106
   orig: 35, 106
   offset: 0, 0
   index: -1
-dragon_jin_tree0
-  rotate: true
-  xy: 1481, 2
-  size: 130, 113
-  orig: 130, 113
-  offset: 0, 0
+dragon_jin_e_ef1
+  rotate: false
+  xy: 605, 1090
+  size: 49, 49
+  orig: 297, 297
+  offset: 118, 126
   index: -1
 dragon_jin_adult_l_leg2a
   rotate: false
-  xy: 1918, 2
+  xy: 937, 949
   size: 46, 50
   orig: 46, 50
   offset: 0, 0
   index: -1
+dragon_jin_tree0
+  rotate: true
+  xy: 864, 634
+  size: 130, 113
+  orig: 130, 113
+  offset: 0, 0
+  index: -1
+dragon_jin_e_eef2
+  rotate: false
+  xy: 2, 1010
+  size: 244, 53
+  orig: 248, 59
+  offset: 0, 6
+  index: -1
 dragon_jin_adult_eye
   rotate: true
-  xy: 533, 244
+  xy: 921, 408
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
 dragon_jin_grass1
   rotate: true
-  xy: 1596, 109
+  xy: 989, 248
   size: 22, 31
   orig: 22, 31
   offset: 0, 0
   index: -1
+dragon_jin_e_smo1
+  rotate: true
+  xy: 709, 2
+  size: 419, 119
+  orig: 421, 119
+  offset: 0, 0
+  index: -1
+dragon_jin_e_ef5
+  rotate: false
+  xy: 723, 423
+  size: 205, 209
+  orig: 297, 297
+  offset: 43, 45
+  index: -1
 dragon_jin_adult_tail5
   rotate: false
-  xy: 362, 211
+  xy: 656, 1102
   size: 76, 36
   orig: 76, 36
   offset: 0, 0
   index: -1
 dragon_jin_adult_eye4
   rotate: true
-  xy: 506, 245
+  xy: 656, 1090
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
-dragon_jin_grass
+dragon_jin_e_l_winga
   rotate: false
-  xy: 1222, 153
+  xy: 754, 876
+  size: 35, 105
+  orig: 35, 105
+  offset: 0, 0
+  index: -1
+dragon_jin_grass
+  rotate: true
+  xy: 830, 2
   size: 338, 96
   orig: 338, 96
   offset: 0, 0
   index: -1
 dragon_jin_child_leg2
-  rotate: true
-  xy: 1742, 148
+  rotate: false
+  xy: 873, 766
   size: 68, 65
   orig: 68, 65
   offset: 0, 0
   index: -1
 dragon_jin_adult_tail1
   rotate: false
-  xy: 288, 211
+  xy: 665, 1060
   size: 72, 40
   orig: 72, 40
   offset: 0, 0
   index: -1
 dragon_jin_adult_l_leg1a
-  rotate: true
-  xy: 1737, 74
+  rotate: false
+  xy: 989, 194
   size: 31, 52
   orig: 31, 52
   offset: 0, 0
   index: -1
 dragon_jin_child_neck1
-  rotate: false
-  xy: 1903, 204
+  rotate: true
+  xy: 936, 891
   size: 56, 47
   orig: 56, 47
   offset: 0, 0
   index: -1
 dragon_jin_baby_eye3
-  rotate: false
-  xy: 1481, 134
+  rotate: true
+  xy: 984, 1097
   size: 37, 17
   orig: 37, 17
   offset: 0, 0
   index: -1
 dragon_jin_adult_neck1
-  rotate: true
-  xy: 211, 211
+  rotate: false
+  xy: 943, 766
   size: 40, 75
   orig: 40, 75
   offset: 0, 0
   index: -1
 dragon_jin_adult_l_wingb
-  rotate: true
-  xy: 583, 198
+  rotate: false
+  xy: 930, 514
   size: 54, 112
   orig: 54, 112
   offset: 0, 0
   index: -1
 dragon_jin_adult_r_winga
-  rotate: true
-  xy: 440, 211
+  rotate: false
+  xy: 839, 775
   size: 32, 77
   orig: 32, 77
   offset: 0, 0
   index: -1
+dragon_jin_e_neck1
+  rotate: false
+  xy: 730, 984
+  size: 40, 74
+  orig: 40, 74
+  offset: 0, 0
+  index: -1
 dragon_jin_child_head
   rotate: false
-  xy: 1042, 193
+  xy: 236, 1081
   size: 80, 58
   orig: 80, 58
   offset: 0, 0
   index: -1
+dragon_jin_e_ef4
+  rotate: false
+  xy: 723, 634
+  size: 139, 139
+  orig: 297, 297
+  offset: 76, 82
+  index: -1
+dragon_jin_e_ga
+  rotate: true
+  xy: 839, 854
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+dragon_jin_e_r_wing
+  rotate: true
+  xy: 827, 1107
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
 dragon_jin_adult_r_wingb
   rotate: true
-  xy: 2, 211
+  xy: 921, 363
   size: 43, 99
   orig: 43, 99
   offset: 0, 0
   index: -1
-dragon_jin_baby_smile
+dragon_jin_e_neck2
   rotate: false
-  xy: 1803, 2
+  xy: 827, 1050
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+dragon_jin_baby_smile
+  rotate: true
+  xy: 318, 1081
   size: 57, 60
   orig: 57, 60
   offset: 0, 0
   index: -1
 dragon_jin_adult_tail2
-  rotate: false
-  xy: 1684, 107
+  rotate: true
+  xy: 985, 714
   size: 54, 35
   orig: 54, 35
   offset: 0, 0
   index: -1
 dragon_jin_adult_head
-  rotate: true
-  xy: 1737, 2
+  rotate: false
+  xy: 535, 1021
   size: 70, 64
   orig: 70, 64
   offset: 0, 0
   index: -1
+dragon_jin_e_tree3
+  rotate: false
+  xy: 211, 484
+  size: 194, 480
+  orig: 194, 480
+  offset: 0, 0
+  index: -1
+dragon_jin_e_armsh
+  rotate: true
+  xy: 984, 1057
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
 dragon_jin_child_neck2
   rotate: false
-  xy: 1872, 61
+  xy: 781, 1048
   size: 44, 38
   orig: 44, 38
   offset: 0, 0
   index: -1
 dragon_jin_child_heart
-  rotate: false
-  xy: 1740, 107
+  rotate: true
+  xy: 896, 950
   size: 46, 39
   orig: 46, 39
   offset: 0, 0
   index: -1
+dragon_jin_e_l_wing
+  rotate: false
+  xy: 926, 1057
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
 dragon_jin_tree3
-  rotate: true
-  xy: 506, 2
+  rotate: false
+  xy: 211, 2
   size: 194, 480
   orig: 194, 480
   offset: 0, 0
   index: -1
+dragon_jin_e_eef1
+  rotate: true
+  xy: 680, 495
+  size: 248, 41
+  orig: 248, 59
+  offset: 0, 14
+  index: -1
 dragon_jin_adult_neck2
-  rotate: false
-  xy: 913, 198
+  rotate: true
+  xy: 453, 1078
   size: 61, 55
   orig: 61, 55
   offset: 0, 0
   index: -1
+dragon_jin_e_head
+  rotate: true
+  xy: 665, 989
+  size: 69, 63
+  orig: 69, 63
+  offset: 0, 0
+  index: -1
+dragon_jin_e_r_wingsh
+  rotate: false
+  xy: 380, 966
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+dragon_jin_e_tailsh2
+  rotate: true
+  xy: 988, 964
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+dragon_jin_e_r_wingc
+  rotate: false
+  xy: 989, 115
+  size: 31, 77
+  orig: 31, 77
+  offset: 0, 0
+  index: -1
 dragon_jin_adult_eye3
   rotate: true
-  xy: 515, 245
+  xy: 772, 1048
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
-dragon_jin_grass3
+dragon_jin_e_l_wingc
   rotate: false
-  xy: 506, 198
+  xy: 930, 408
+  size: 73, 104
+  orig: 73, 104
+  offset: 0, 0
+  index: -1
+dragon_jin_grass3
+  rotate: true
+  xy: 236, 1065
   size: 12, 10
   orig: 12, 10
   offset: 0, 0
   index: -1
 dragon_jin_adult_bodymo
   rotate: false
-  xy: 1672, 2
+  xy: 109, 1065
   size: 63, 74
   orig: 63, 74
   offset: 0, 0
   index: -1
 dragon_jin_baby_chin
-  rotate: false
-  xy: 1840, 106
+  rotate: true
+  xy: 211, 966
   size: 42, 35
   orig: 42, 35
   offset: 0, 0
   index: -1
 dragon_jin_adult_l_wingc
-  rotate: false
-  xy: 1596, 2
+  rotate: true
+  xy: 2, 1065
   size: 74, 105
   orig: 74, 105
   offset: 0, 0
   index: -1
 dragon_jin_baby_leg3
   rotate: false
-  xy: 1927, 100
+  xy: 988, 1013
   size: 32, 40
   orig: 32, 40
   offset: 0, 0
   index: -1
-dragon_jin_child_body2
+dragon_jin_e_ef3
   rotate: false
-  xy: 848, 198
+  xy: 662, 775
+  size: 109, 99
+  orig: 297, 297
+  offset: 94, 103
+  index: -1
+dragon_jin_child_body2
+  rotate: true
+  xy: 772, 983
   size: 63, 54
   orig: 63, 54
   offset: 0, 0
   index: -1
-dragon_jin_baby_body2
+dragon_jin_e_tree2
   rotate: false
-  xy: 988, 153
+  xy: 558, 2
+  size: 149, 491
+  orig: 149, 491
+  offset: 0, 0
+  index: -1
+dragon_jin_baby_body2
+  rotate: true
+  xy: 896, 886
   size: 62, 38
   orig: 62, 38
   offset: 0, 0
   index: -1
 dragon_jin_adult_chin
   rotate: false
-  xy: 1791, 74
+  xy: 985, 872
   size: 35, 29
   orig: 35, 29
   offset: 0, 0
   index: -1
 dragon_jin_adult_l_leg2c
-  rotate: false
-  xy: 1052, 153
+  rotate: true
+  xy: 889, 998
   size: 53, 38
   orig: 53, 38
   offset: 0, 0
   index: -1
+dragon_jin_e_leg
+  rotate: false
+  xy: 783, 1088
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
 dragon_jin_tree2
-  rotate: true
-  xy: 988, 2
+  rotate: false
+  xy: 407, 2
   size: 149, 491
   orig: 149, 491
   offset: 0, 0
   index: -1
 dragon_jin_adult_r_wingc
-  rotate: false
-  xy: 1675, 152
+  rotate: true
+  xy: 830, 342
   size: 65, 89
   orig: 65, 89
   offset: 0, 0
   index: -1
 dragon_jin_adult_l_wing
-  rotate: true
-  xy: 1862, 2
+  rotate: false
+  xy: 929, 1001
   size: 57, 54
   orig: 57, 54
   offset: 0, 0
   index: -1
 dragon_jin_adult_heart
-  rotate: false
-  xy: 1740, 107
+  rotate: true
+  xy: 896, 950
   size: 46, 39
   orig: 46, 39
   offset: 0, 0
   index: -1
+dragon_jin_e_tailj
+  rotate: false
+  xy: 680, 745
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
 dragon_jin_child_body
   rotate: false
-  xy: 697, 198
+  xy: 453, 1021
   size: 80, 55
   orig: 80, 55
   offset: 0, 0
   index: -1
-dragon_jin_child_eye3
+dragon_jin_e_ef7
   rotate: false
-  xy: 440, 245
+  xy: 407, 495
+  size: 271, 271
+  orig: 297, 297
+  offset: 10, 13
+  index: -1
+dragon_jin_child_eye3
+  rotate: true
+  xy: 1011, 272
   size: 17, 9
   orig: 17, 9
   offset: 0, 0
   index: -1
 dragon_jin_adult_tail3
   rotate: true
-  xy: 1200, 187
+  xy: 989, 272
   size: 55, 20
   orig: 55, 20
   offset: 0, 0
   index: -1
 dragon_jin_child_leg1
-  rotate: true
-  xy: 1918, 54
+  rotate: false
+  xy: 939, 843
   size: 44, 46
   orig: 44, 46
   offset: 0, 0
   index: -1
 dragon_jin_baby_neck
-  rotate: false
-  xy: 779, 198
+  rotate: true
+  xy: 607, 1021
   size: 67, 56
   orig: 67, 56
   offset: 0, 0
   index: -1
 dragon_jin_child_neck3
   rotate: false
-  xy: 1629, 109
+  xy: 380, 1098
   size: 53, 41
   orig: 53, 41
   offset: 0, 0
   index: -1
 dragon_jin_baby_eye
   rotate: false
-  xy: 1559, 134
+  xy: 875, 1107
   size: 37, 17
   orig: 37, 17
   offset: 0, 0
   index: -1
+dragon_jin_e_r_wingb
+  rotate: false
+  xy: 791, 865
+  size: 42, 98
+  orig: 42, 98
+  offset: 0, 0
+  index: -1
 dragon_jin_adult_eye2
-  rotate: true
-  xy: 524, 244
+  rotate: false
+  xy: 520, 1078
   size: 8, 7
   orig: 8, 7
   offset: 0, 0
   index: -1
+dragon_jin_e_l_wingb
+  rotate: false
+  xy: 662, 876
+  size: 53, 111
+  orig: 53, 111
+  offset: 0, 0
+  index: -1
 dragon_jin_grass2
-  rotate: true
-  xy: 1598, 133
+  rotate: false
+  xy: 989, 329
   size: 17, 28
   orig: 17, 28
   offset: 0, 0
   index: -1
 dragon_jin_adult_neck3
-  rotate: true
-  xy: 1828, 64
+  rotate: false
+  xy: 739, 1060
   size: 40, 42
   orig: 40, 42
   offset: 0, 0
   index: -1
 dragon_jin_child_eye
-  rotate: false
-  xy: 478, 245
+  rotate: true
+  xy: 1011, 310
   size: 17, 9
   orig: 17, 9
   offset: 0, 0
   index: -1
 dragon_jin_baby_leg4
-  rotate: false
-  xy: 1107, 153
+  rotate: true
+  xy: 510, 1087
   size: 52, 38
   orig: 52, 38
   offset: 0, 0
   index: -1
-dragon_jin_child_leg4
+dragon_jin_e_ef2
   rotate: false
-  xy: 519, 210
+  xy: 380, 1021
+  size: 71, 75
+  orig: 297, 297
+  offset: 109, 114
+  index: -1
+dragon_jin_child_leg4
+  rotate: true
+  xy: 986, 514
   size: 62, 32
   orig: 62, 32
+  offset: 0, 0
+  index: -1
+dragon_jin_e_tree1
+  rotate: false
+  xy: 2, 506
+  size: 207, 502
+  orig: 207, 502
   offset: 0, 0
   index: -1

@@ -1,0 +1,116 @@
+moon__spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+moon_eff9
+  rotate: false
+  xy: 284, 692
+  size: 139, 165
+  orig: 141, 167
+  offset: 1, 1
+  index: -1
+moon_eff10
+  rotate: false
+  xy: 284, 353
+  size: 139, 169
+  orig: 141, 171
+  offset: 1, 1
+  index: -1
+moon_eff2
+  rotate: false
+  xy: 284, 524
+  size: 139, 166
+  orig: 141, 168
+  offset: 1, 1
+  index: -1
+moon_eff11
+  rotate: false
+  xy: 283, 2
+  size: 139, 177
+  orig: 141, 179
+  offset: 1, 1
+  index: -1
+moon_eff3
+  rotate: false
+  xy: 2, 733
+  size: 139, 172
+  orig: 141, 174
+  offset: 1, 1
+  index: -1
+moon_eff12
+  rotate: false
+  xy: 284, 181
+  size: 139, 170
+  orig: 141, 172
+  offset: 1, 1
+  index: -1
+moon_eff4
+  rotate: false
+  xy: 2, 190
+  size: 139, 186
+  orig: 141, 186
+  offset: 1, 0
+  index: -1
+moon_eff13
+  rotate: false
+  xy: 143, 531
+  size: 139, 166
+  orig: 141, 168
+  offset: 1, 1
+  index: -1
+moon_eff5
+  rotate: false
+  xy: 2, 2
+  size: 139, 186
+  orig: 141, 186
+  offset: 1, 0
+  index: -1
+moon_eff14
+  rotate: false
+  xy: 143, 188
+  size: 139, 172
+  orig: 141, 176
+  offset: 1, 3
+  index: -1
+moon_eff15
+  rotate: false
+  xy: 143, 362
+  size: 139, 167
+  orig: 141, 171
+  offset: 1, 4
+  index: -1
+moon_eff1
+  rotate: false
+  xy: 2, 378
+  size: 139, 178
+  orig: 141, 180
+  offset: 1, 2
+  index: -1
+moon_eff16
+  rotate: false
+  xy: 2, 558
+  size: 139, 173
+  orig: 141, 175
+  offset: 1, 1
+  index: -1
+moon_eff6
+  rotate: false
+  xy: 143, 2
+  size: 138, 184
+  orig: 140, 186
+  offset: 1, 1
+  index: -1
+moon_eff7
+  rotate: false
+  xy: 143, 699
+  size: 139, 157
+  orig: 141, 159
+  offset: 1, 1
+  index: -1
+moon_eff8
+  rotate: true
+  xy: 143, 859
+  size: 139, 156
+  orig: 141, 158
+  offset: 1, 1
+  index: -1

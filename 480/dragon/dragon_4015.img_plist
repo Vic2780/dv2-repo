@@ -7,11 +7,11 @@
             <key>dragon/dragon_4015/box_adult.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,99},{67,70}}</string>
+                <string>{{174,2},{67,70}}</string>
                 <key>offset</key>
                 <string>{3,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{6,0},{67,70}}</string>
                 <key>sourceSize</key>
@@ -20,11 +20,11 @@
             <key>dragon/dragon_4015/box_baby.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,235},{65,66}}</string>
+                <string>{{375,2},{65,66}}</string>
                 <key>offset</key>
                 <string>{4,-2}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{8,4},{65,66}}</string>
                 <key>sourceSize</key>
@@ -33,13 +33,39 @@
             <key>dragon/dragon_4015/box_child.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,168},{65,66}}</string>
+                <string>{{308,2},{65,66}}</string>
                 <key>offset</key>
                 <string>{-4,-2}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,4},{65,66}}</string>
+                <key>sourceSize</key>
+                <string>{73,70}</string>
+            </dict>
+            <key>dragon/dragon_4015/box_evolution.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{243,2},{63,70}}</string>
+                <key>offset</key>
+                <string>{5,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{10,0},{63,70}}</string>
+                <key>sourceSize</key>
+                <string>{73,70}</string>
+            </dict>
+            <key>dragon/dragon_4015/box_s01.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{99,2},{73,70}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{73,70}}</string>
                 <key>sourceSize</key>
                 <string>{73,70}</string>
             </dict>
@@ -50,7 +76,7 @@
                 <key>offset</key>
                 <string>{-1,2}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{19,6},{71,95}}</string>
                 <key>sourceSize</key>
@@ -59,11 +85,11 @@
             <key>dragon/dragon_4015/egg_small.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,302},{45,59}}</string>
+                <string>{{442,2},{45,59}}</string>
                 <key>offset</key>
                 <string>{-1,2}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{10,2},{45,59}}</string>
                 <key>sourceSize</key>
@@ -77,9 +103,9 @@
             <key>realTextureFileName</key>
             <string>dragon_4015.pvr.ccz</string>
             <key>size</key>
-            <string>{75,349}</string>
+            <string>{489,75}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:8dfc0da14a4ed30b2936796d9daa2f0f:360d6f35700903ed26e664f26df7f8e2:b9f0ad99840fdc9255f20092a91b7afa$</string>
+            <string>$TexturePacker:SmartUpdate:9514a8b0d91a3a6b7fd19d6c9010b070:fb5ab798f689fa53be88124fd86eccda:b9f0ad99840fdc9255f20092a91b7afa$</string>
             <key>textureFileName</key>
             <string>dragon_4015.pvr.ccz</string>
         </dict>

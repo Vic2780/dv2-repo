@@ -1,0 +1,550 @@
+dragon_4117_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_eyebat_critical_sparkle3
+  rotate: false
+  xy: 266, 183
+  size: 195, 71
+  orig: 195, 71
+  offset: 0, 0
+  index: -1
+dragon_eyebat_child_l_wing2
+  rotate: true
+  xy: 1269, 125
+  size: 53, 91
+  orig: 53, 91
+  offset: 0, 0
+  index: -1
+dragon_eyebat_baby_r_wing2
+  rotate: true
+  xy: 990, 194
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
+dragon_eyebat_child_r_ear
+  rotate: true
+  xy: 1621, 211
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+dragon_eyebat_adult_l_ear
+  rotate: false
+  xy: 1575, 107
+  size: 35, 46
+  orig: 35, 56
+  offset: 0, 10
+  index: -1
+dragon_eyebat_adult_effect2
+  rotate: true
+  xy: 881, 240
+  size: 14, 50
+  orig: 14, 50
+  offset: 0, 0
+  index: -1
+dragon_eyebat_adult_r_leg2
+  rotate: false
+  xy: 1612, 144
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+dragon_eyebat_critical_beam3
+  rotate: true
+  xy: 1112, 125
+  size: 41, 155
+  orig: 41, 155
+  offset: 0, 0
+  index: -1
+dragon_eyebat_critical_sparkle6
+  rotate: false
+  xy: 891, 52
+  size: 218, 73
+  orig: 218, 73
+  offset: 0, 0
+  index: -1
+dragon_eyebat_child_r_wing
+  rotate: false
+  xy: 1062, 127
+  size: 48, 127
+  orig: 48, 127
+  offset: 0, 0
+  index: -1
+dragon_eyebat_baby_effect1
+  rotate: true
+  xy: 1443, 152
+  size: 15, 58
+  orig: 15, 58
+  offset: 0, 0
+  index: -1
+dragon_eyebat_baby_r_foot
+  rotate: true
+  xy: 1375, 239
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+dragon_eyebat_adult_eye
+  rotate: false
+  xy: 1250, 168
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dragon_eyebat_critical_b_light1
+  rotate: true
+  xy: 647, 227
+  size: 27, 66
+  orig: 27, 66
+  offset: 0, 0
+  index: -1
+dragon_eyebat_child_l_arm1
+  rotate: false
+  xy: 1556, 231
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+dragon_eyebat_adult_mouth
+  rotate: true
+  xy: 1503, 152
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+dragon_eyebat_critical_sparkle2
+  rotate: false
+  xy: 647, 159
+  size: 177, 66
+  orig: 177, 66
+  offset: 0, 0
+  index: -1
+dragon_eyebat_child_r_foot
+  rotate: false
+  xy: 1342, 214
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+dragon_eyebat_adult_r_wing1
+  rotate: false
+  xy: 564, 2
+  size: 162, 155
+  orig: 162, 155
+  offset: 0, 0
+  index: -1
+dragon_eyebat_baby_l_ear
+  rotate: true
+  xy: 1291, 214
+  size: 39, 49
+  orig: 39, 49
+  offset: 0, 0
+  index: -1
+dragon_eyebat_critical_light2
+  rotate: true
+  xy: 2, 2
+  size: 246, 262
+  orig: 246, 262
+  offset: 0, 0
+  index: -1
+dragon_eyebat_child_eye
+  rotate: false
+  xy: 977, 240
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_eyebat_adult_neck
+  rotate: false
+  xy: 826, 159
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+dragon_eyebat_critical_b_light2
+  rotate: true
+  xy: 890, 194
+  size: 37, 98
+  orig: 37, 98
+  offset: 0, 0
+  index: -1
+dragon_eyebat_child_effect2
+  rotate: true
+  xy: 564, 159
+  size: 22, 81
+  orig: 22, 83
+  offset: 0, 2
+  index: -1
+dragon_eyebat_baby_r_ear
+  rotate: true
+  xy: 1362, 177
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+dragon_eyebat_baby_body
+  rotate: false
+  xy: 1535, 186
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+dragon_eyebat_critical_beam2
+  rotate: true
+  xy: 1250, 180
+  size: 32, 98
+  orig: 32, 98
+  offset: 0, 0
+  index: -1
+dragon_eyebat_baby_face
+  rotate: false
+  xy: 1532, 53
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+dragon_eyebat_child_r_arm2
+  rotate: false
+  xy: 1640, 52
+  size: 26, 59
+  orig: 26, 59
+  offset: 0, 0
+  index: -1
+dragon_eyebat_baby_eye2
+  rotate: false
+  xy: 1403, 214
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+dragon_eyebat_adult_effect3
+  rotate: true
+  xy: 749, 227
+  size: 22, 69
+  orig: 26, 69
+  offset: 0, 0
+  index: -1
+dragon_eyebat_adult_waist
+  rotate: true
+  xy: 1443, 106
+  size: 44, 78
+  orig: 44, 78
+  offset: 0, 0
+  index: -1
+dragon_eyebat_baby_l_leg
+  rotate: true
+  xy: 955, 233
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+dragon_eyebat_child_l_ear
+  rotate: false
+  xy: 1575, 188
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+dragon_eyebat_adult_l_wing2
+  rotate: false
+  xy: 266, 2
+  size: 147, 179
+  orig: 147, 179
+  offset: 0, 0
+  index: -1
+dragon_eyebat_baby_r_leg
+  rotate: true
+  xy: 933, 233
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+dragon_eyebat_adult_face
+  rotate: false
+  xy: 1112, 225
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+dragon_eyebat_baby_l_foot
+  rotate: true
+  xy: 1397, 239
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+dragon_eyebat_critical_light1
+  rotate: false
+  xy: 891, 2
+  size: 247, 48
+  orig: 247, 48
+  offset: 0, 0
+  index: -1
+dragon_eyebat_child_effect1
+  rotate: true
+  xy: 820, 240
+  size: 14, 59
+  orig: 14, 59
+  offset: 0, 0
+  index: -1
+dragon_eyebat_adult_love
+  rotate: false
+  xy: 1375, 211
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_eyebat_child_l_leg
+  rotate: true
+  xy: 1633, 168
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+dragon_eyebat_child_neck
+  rotate: false
+  xy: 1593, 52
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+dragon_eyebat_child_r_leg
+  rotate: false
+  xy: 1639, 113
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+dragon_eyebat_adult_r_foot
+  rotate: false
+  xy: 715, 227
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+dragon_eyebat_child_waist
+  rotate: true
+  xy: 1591, 2
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+dragon_eyebat_critical_b_light3
+  rotate: true
+  xy: 1140, 2
+  size: 54, 226
+  orig: 54, 226
+  offset: 0, 0
+  index: -1
+dragon_eyebat_child_l_arm2
+  rotate: true
+  xy: 1621, 192
+  size: 17, 46
+  orig: 17, 46
+  offset: 0, 0
+  index: -1
+dragon_eyebat_critical_sparkle5
+  rotate: false
+  xy: 463, 183
+  size: 182, 71
+  orig: 182, 71
+  offset: 0, 0
+  index: -1
+dragon_eyebat_baby_l_wing1
+  rotate: false
+  xy: 1494, 186
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+dragon_eyebat_adult_l_wing1
+  rotate: false
+  xy: 415, 2
+  size: 147, 179
+  orig: 147, 179
+  offset: 0, 0
+  index: -1
+dragon_eyebat_adult_eye3
+  rotate: true
+  xy: 1236, 225
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+dragon_eyebat_adult_l_leg
+  rotate: true
+  xy: 1250, 214
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+dragon_eyebat_critical_sparkle1
+  rotate: false
+  xy: 891, 127
+  size: 169, 65
+  orig: 169, 65
+  offset: 0, 0
+  index: -1
+dragon_eyebat_adult_effect1
+  rotate: true
+  xy: 1362, 158
+  size: 17, 72
+  orig: 17, 72
+  offset: 0, 0
+  index: -1
+dragon_eyebat_adult_chast
+  rotate: false
+  xy: 1283, 58
+  size: 68, 65
+  orig: 68, 65
+  offset: 0, 0
+  index: -1
+dragon_eyebat_critical_beam4
+  rotate: true
+  xy: 1368, 2
+  size: 49, 221
+  orig: 49, 221
+  offset: 0, 0
+  index: -1
+dragon_eyebat_adult_r_wing2
+  rotate: false
+  xy: 728, 2
+  size: 161, 155
+  orig: 161, 155
+  offset: 0, 0
+  index: -1
+dragon_eyebat_critical_sparkle4
+  rotate: false
+  xy: 1111, 58
+  size: 170, 65
+  orig: 170, 65
+  offset: 0, 0
+  index: -1
+dragon_eyebat_child_l_wing1
+  rotate: true
+  xy: 1112, 168
+  size: 55, 136
+  orig: 55, 136
+  offset: 0, 0
+  index: -1
+dragon_eyebat_adult_l_leg2
+  rotate: false
+  xy: 1412, 177
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+dragon_eyebat_critical_b_light4
+  rotate: true
+  xy: 1368, 53
+  size: 51, 162
+  orig: 51, 162
+  offset: 0, 0
+  index: -1
+dragon_eyebat_adult_eye2
+  rotate: true
+  xy: 1431, 214
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+dragon_eyebat_baby_eye
+  rotate: true
+  xy: 1587, 231
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+dragon_eyebat_critical_beam
+  rotate: true
+  xy: 1164, 225
+  size: 26, 70
+  orig: 26, 70
+  offset: 0, 0
+  index: -1
+dragon_eyebat_child_face
+  rotate: false
+  xy: 1523, 107
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+dragon_eyebat_baby_r_wing1
+  rotate: true
+  xy: 1445, 169
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+dragon_eyebat_child_l_foot
+  rotate: false
+  xy: 1612, 103
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+dragon_eyebat_adult_r_leg
+  rotate: false
+  xy: 1523, 151
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1
+dragon_eyebat_child_r_arm1
+  rotate: false
+  xy: 1526, 234
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+dragon_eyebat_adult_l_foot
+  rotate: false
+  xy: 1575, 155
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+dragon_eyebat_baby_mouth
+  rotate: false
+  xy: 1633, 147
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+dragon_eyebat_adult_r_ear
+  rotate: true
+  xy: 1445, 212
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+dragon_eyebat_adult_love_eye
+  rotate: false
+  xy: 996, 240
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+dragon_eyebat_baby_l_wing2
+  rotate: true
+  xy: 1362, 106
+  size: 50, 79
+  orig: 50, 79
+  offset: 0, 0
+  index: -1
+dragon_eyebat_child_mouth
+  rotate: false
+  xy: 1494, 234
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+dragon_eyebat_child_eye2
+  rotate: false
+  xy: 1419, 236
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1

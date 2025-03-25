@@ -1,0 +1,1040 @@
+dragon_4135_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_regiana_e_l_wing_light
+  rotate: true
+  xy: 2, 949
+  size: 70, 140
+  orig: 100, 170
+  offset: 15, 15
+  index: -1
+dragon_regiana_adult_r_hand2
+  rotate: false
+  xy: 958, 251
+  size: 25, 46
+  orig: 25, 46
+  offset: 0, 0
+  index: -1
+dragon_regiana_e_tail
+  rotate: true
+  xy: 638, 673
+  size: 160, 105
+  orig: 190, 133
+  offset: 15, 15
+  index: -1
+dragon_4135_wing_r1_partSkin01
+  rotate: false
+  xy: 869, 496
+  size: 111, 112
+  orig: 111, 112
+  offset: 0, 0
+  index: -1
+dragon_regiana_baby_lwing_lit
+  rotate: false
+  xy: 981, 438
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+dragon_regiana_adult_head_lig
+  rotate: false
+  xy: 595, 906
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+dragon_4135_leg_r2_partSkin01
+  rotate: false
+  xy: 983, 936
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+dragon_regiana_adult_wing1_lig
+  rotate: false
+  xy: 381, 689
+  size: 76, 182
+  orig: 76, 186
+  offset: 0, 3
+  index: -1
+dragon_regiana_e_r_arm2
+  rotate: true
+  xy: 730, 910
+  size: 62, 34
+  orig: 92, 62
+  offset: 15, 14
+  index: -1
+dragon_regiana_adult_neck
+  rotate: false
+  xy: 980, 691
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+dragon_regiana_adult_l_foot
+  rotate: true
+  xy: 144, 987
+  size: 35, 74
+  orig: 35, 74
+  offset: 0, 0
+  index: -1
+dragon_regiana_adult_wing2_lig
+  rotate: false
+  xy: 385, 467
+  size: 131, 186
+  orig: 131, 190
+  offset: 0, 2
+  index: -1
+dragon_regiana_e_head
+  rotate: false
+  xy: 438, 895
+  size: 84, 84
+  orig: 114, 114
+  offset: 15, 15
+  index: -1
+dragon_regiana_child_neck
+  rotate: false
+  xy: 815, 926
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+dragon_regiana_baby_head_lit
+  rotate: true
+  xy: 961, 610
+  size: 79, 49
+  orig: 79, 51
+  offset: 0, 1
+  index: -1
+dragon_regiana_e_l_arm2_lig
+  rotate: false
+  xy: 835, 496
+  size: 18, 12
+  orig: 48, 42
+  offset: 15, 15
+  index: -1
+dragon_4135_antenna1_partSkin01
+  rotate: true
+  xy: 695, 835
+  size: 73, 50
+  orig: 73, 50
+  offset: 0, 0
+  index: -1
+dragon_regiana_baby_mout
+  rotate: false
+  xy: 638, 654
+  size: 31, 17
+  orig: 35, 17
+  offset: 4, 0
+  index: -1
+dragon_regiana_baby_rwing_ilt
+  rotate: true
+  xy: 985, 307
+  size: 33, 18
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+dragon_regiana_child_body
+  rotate: false
+  xy: 663, 910
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+dragon_regiana_baby_l_reg
+  rotate: false
+  xy: 1012, 629
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+dragon_4135_front_hair_partSkin01
+  rotate: false
+  xy: 985, 251
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+dragon_regiana_e_wing1
+  rotate: true
+  xy: 541, 425
+  size: 83, 222
+  orig: 113, 250
+  offset: 15, 15
+  index: -1
+dragon_regiana_adult_body
+  rotate: false
+  xy: 459, 837
+  size: 78, 56
+  orig: 78, 56
+  offset: 0, 0
+  index: -1
+dragon_regiana_e_tail_lig
+  rotate: true
+  xy: 745, 673
+  size: 159, 103
+  orig: 189, 133
+  offset: 15, 15
+  index: -1
+dragon_4135_hat_flower_partSkin01
+  rotate: false
+  xy: 883, 974
+  size: 67, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+dragon_regiana_e_wing2
+  rotate: false
+  xy: 238, 458
+  size: 145, 229
+  orig: 175, 257
+  offset: 15, 14
+  index: -1
+dragon_regiana_baby_l_hand
+  rotate: false
+  xy: 1016, 462
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+dragon_regiana_adult_body2
+  rotate: true
+  xy: 729, 974
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+dragon_regiana_baby_wing1
+  rotate: true
+  xy: 921, 174
+  size: 59, 36
+  orig: 59, 36
+  offset: 0, 0
+  index: -1
+dragon_4135_arm_l1_partSkin01
+  rotate: false
+  xy: 850, 664
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+dragon_regiana_adult_body3
+  rotate: false
+  xy: 775, 974
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+dragon_regiana_baby_bady_lit
+  rotate: false
+  xy: 541, 323
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+dragon_regiana_baby_wing2
+  rotate: false
+  xy: 978, 791
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+dragon_regiana_adult_r_reg2
+  rotate: true
+  xy: 438, 981
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+dragon_regiana_adult_r_reg1
+  rotate: true
+  xy: 847, 874
+  size: 45, 70
+  orig: 45, 70
+  offset: 0, 0
+  index: -1
+dragon_4135_leg_r1_partSkin01
+  rotate: false
+  xy: 991, 456
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+dragon_regiana_baby_l_arm1
+  rotate: false
+  xy: 541, 265
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+dragon_regiana_baby_l_arm2
+  rotate: false
+  xy: 541, 295
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+dragon_regiana_adult_l_reg2
+  rotate: true
+  xy: 385, 655
+  size: 29, 54
+  orig: 29, 54
+  offset: 0, 0
+  index: -1
+dragon_regiana_adult_l_reg1
+  rotate: false
+  xy: 941, 698
+  size: 37, 71
+  orig: 37, 71
+  offset: 0, 0
+  index: -1
+dragon_regiana_baby_head
+  rotate: false
+  xy: 539, 835
+  size: 80, 62
+  orig: 80, 62
+  offset: 0, 0
+  index: -1
+dragon_regiana_child_body_ilt
+  rotate: true
+  xy: 985, 281
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+dragon_regiana_adult_teal
+  rotate: false
+  xy: 222, 913
+  size: 158, 109
+  orig: 158, 109
+  offset: 0, 0
+  index: -1
+dragon_regiana_child_wing2_lit
+  rotate: false
+  xy: 940, 456
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+dragon_regiana_e_l_arm2
+  rotate: false
+  xy: 981, 350
+  size: 44, 26
+  orig: 74, 56
+  offset: 15, 15
+  index: -1
+dragon_4135_leg_l3_partSkin01
+  rotate: true
+  xy: 983, 911
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+dragon_regiana_child_wing
+  rotate: false
+  xy: 765, 425
+  size: 68, 83
+  orig: 68, 83
+  offset: 0, 0
+  index: -1
+dragon_regiana_cri_smo2
+  rotate: false
+  xy: 557, 264
+  size: 363, 81
+  orig: 369, 83
+  offset: 0, 1
+  index: -1
+dragon_regiana_baby_eye2
+  rotate: false
+  xy: 1019, 489
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+dragon_regiana_cri_smo3
+  rotate: false
+  xy: 557, 88
+  size: 378, 84
+  orig: 380, 92
+  offset: 0, 1
+  index: -1
+dragon_regiana_baby_eye3
+  rotate: true
+  xy: 438, 873
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+dragon_regiana_cri_smo4
+  rotate: false
+  xy: 557, 2
+  size: 400, 84
+  orig: 404, 92
+  offset: 1, 1
+  index: -1
+dragon_4135_tail_partSkin01
+  rotate: true
+  xy: 927, 920
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+dragon_regiana_cri_smo1
+  rotate: false
+  xy: 557, 174
+  size: 362, 88
+  orig: 374, 92
+  offset: 6, 1
+  index: -1
+dragon_4135_bottom_eff_partSkin01
+  rotate: false
+  xy: 2, 458
+  size: 234, 234
+  orig: 236, 236
+  offset: 1, 1
+  index: -1
+dragon_regiana_child_reg2
+  rotate: true
+  xy: 815, 834
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+dragon_regiana_child_reg1
+  rotate: true
+  xy: 938, 834
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+dragon_4135_butterfly_l1_partSkin01
+  rotate: false
+  xy: 922, 303
+  size: 36, 42
+  orig: 38, 44
+  offset: 1, 1
+  index: -1
+dragon_regiana_baby_r_hand
+  rotate: false
+  xy: 1008, 230
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+dragon_regiana_baby_rhand_ilt
+  rotate: true
+  xy: 1019, 510
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+dragon_regiana_baby_hand_ilt
+  rotate: true
+  xy: 1019, 434
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+dragon_regiana_child_hand
+  rotate: false
+  xy: 981, 378
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+dragon_4135_acc_chest_partSkin01
+  rotate: true
+  xy: 1011, 863
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+dragon_regiana_child_haed_lit
+  rotate: true
+  xy: 621, 835
+  size: 69, 72
+  orig: 71, 74
+  offset: 1, 1
+  index: -1
+dragon_regiana_baby_r_arm1
+  rotate: false
+  xy: 441, 655
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+dragon_regiana_baby_r_arm2
+  rotate: false
+  xy: 1017, 405
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+dragon_regiana_adult_r_foot
+  rotate: true
+  xy: 959, 184
+  size: 44, 66
+  orig: 44, 66
+  offset: 0, 0
+  index: -1
+dragon_regiana_child_foot
+  rotate: true
+  xy: 958, 920
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+dragon_regiana_e_r_arm2_lig
+  rotate: false
+  xy: 982, 594
+  size: 25, 14
+  orig: 55, 44
+  offset: 15, 16
+  index: -1
+dragon_4135_butterfly_r2_partSkin01
+  rotate: true
+  xy: 1008, 260
+  size: 26, 28
+  orig: 28, 30
+  offset: 1, 1
+  index: -1
+dragon_regiana_cri_fsoad_a1
+  rotate: true
+  xy: 869, 610
+  size: 86, 90
+  orig: 116, 120
+  offset: 15, 15
+  index: -1
+dragon_regiana_e_head_lig
+  rotate: false
+  xy: 850, 698
+  size: 89, 88
+  orig: 119, 118
+  offset: 15, 16
+  index: -1
+dragon_regiana_cri_fsoad_a2
+  rotate: true
+  xy: 538, 654
+  size: 179, 98
+  orig: 209, 128
+  offset: 15, 15
+  index: -1
+dragon_regiana_cri_soad
+  rotate: false
+  xy: 222, 694
+  size: 75, 217
+  orig: 75, 217
+  offset: 0, 0
+  index: -1
+dragon_regiana_cri_fsoad_b1
+  rotate: false
+  xy: 459, 655
+  size: 77, 180
+  orig: 107, 210
+  offset: 15, 15
+  index: -1
+dragon_4135_antenna3_partSkin01
+  rotate: true
+  xy: 919, 874
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+dragon_regiana_cri_fsoad_b2
+  rotate: false
+  xy: 959, 2
+  size: 77, 180
+  orig: 107, 210
+  offset: 15, 15
+  index: -1
+dragon_regiana_adult_amr1_lig
+  rotate: true
+  xy: 299, 885
+  size: 26, 46
+  orig: 30, 46
+  offset: 3, 0
+  index: -1
+dragon_regiana_adult_l_hand
+  rotate: false
+  xy: 950, 874
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+dragon_4135_head_partSkin01
+  rotate: true
+  xy: 678, 510
+  size: 161, 101
+  orig: 161, 101
+  offset: 0, 0
+  index: -1
+dragon_regiana_e_body
+  rotate: true
+  xy: 982, 496
+  size: 47, 35
+  orig: 77, 65
+  offset: 15, 15
+  index: -1
+dragon_4135_leg_l2_partSkin01
+  rotate: true
+  xy: 969, 992
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+dragon_4135_body_partSkin01
+  rotate: true
+  xy: 382, 873
+  size: 137, 54
+  orig: 137, 54
+  offset: 0, 0
+  index: -1
+dragon_regiana_e_r_leg1
+  rotate: false
+  xy: 922, 235
+  size: 34, 66
+  orig: 64, 96
+  offset: 15, 15
+  index: -1
+dragon_4135_jaw_partSkin01
+  rotate: true
+  xy: 937, 88
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+dragon_regiana_e_r_leg3
+  rotate: false
+  xy: 1007, 937
+  size: 28, 15
+  orig: 58, 45
+  offset: 15, 15
+  index: -1
+dragon_regiana_cri_fsoad2
+  rotate: false
+  xy: 144, 694
+  size: 76, 291
+  orig: 78, 293
+  offset: 1, 1
+  index: -1
+dragon_4135_arm_r1_partSkin01
+  rotate: false
+  xy: 1005, 310
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+dragon_4135_marvel_partSkin01
+  rotate: false
+  xy: 1011, 914
+  size: 22, 21
+  orig: 24, 23
+  offset: 1, 1
+  index: -1
+dragon_regiana_adult_amr2_lig
+  rotate: true
+  xy: 347, 885
+  size: 26, 33
+  orig: 28, 47
+  offset: 1, 13
+  index: -1
+dragon_4135_wing_l1_partSkin01
+  rotate: true
+  xy: 835, 414
+  size: 80, 103
+  orig: 80, 103
+  offset: 0, 0
+  index: -1
+dragon_regiana_cri_fsoad1
+  rotate: true
+  xy: 541, 347
+  size: 76, 291
+  orig: 78, 293
+  offset: 1, 1
+  index: -1
+dragon_regiana_e_r_leg1_lig
+  rotate: true
+  xy: 1012, 659
+  size: 25, 24
+  orig: 55, 54
+  offset: 15, 16
+  index: -1
+dragon_regiana_e_body_lig
+  rotate: false
+  xy: 485, 981
+  size: 41, 41
+  orig: 71, 71
+  offset: 15, 15
+  index: -1
+dragon_4135_butterflyl2_partSkin01
+  rotate: false
+  xy: 1018, 791
+  size: 18, 38
+  orig: 20, 40
+  offset: 1, 1
+  index: -1
+dragon_4135_marvel2_partSkin01
+  rotate: true
+  xy: 518, 467
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+dragon_regiana_baby_l_foot
+  rotate: false
+  xy: 937, 121
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+dragon_regiana_adult_l_arm2
+  rotate: false
+  xy: 980, 749
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+dragon_regiana_adult_l_arm1
+  rotate: false
+  xy: 938, 794
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+dragon_regiana_child_body2
+  rotate: true
+  xy: 528, 970
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+dragon_regiana_e_r_wing_light
+  rotate: true
+  xy: 518, 510
+  size: 142, 158
+  orig: 174, 188
+  offset: 16, 15
+  index: -1
+dragon_regiana_baby_body
+  rotate: false
+  xy: 940, 404
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+dragon_regiana_child_tail_lit
+  rotate: false
+  xy: 578, 974
+  size: 79, 48
+  orig: 79, 50
+  offset: 0, 1
+  index: -1
+dragon_regiana_child_wing_lit
+  rotate: false
+  xy: 766, 907
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+dragon_regiana_adult_teal_lig
+  rotate: true
+  xy: 781, 510
+  size: 152, 86
+  orig: 154, 86
+  offset: 1, 0
+  index: -1
+dragon_4135_hat_flower2_partSkin01
+  rotate: false
+  xy: 980, 883
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+dragon_regiana_adult_eye_lig
+  rotate: true
+  xy: 1027, 184
+  size: 8, 9
+  orig: 10, 11
+  offset: 1, 1
+  index: -1
+dragon_4135_eyes_close_partSkin01
+  rotate: true
+  xy: 1019, 550
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+dragon_regiana_child_eye_lit
+  rotate: true
+  xy: 1025, 395
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+dragon_regiana_baby_teal
+  rotate: true
+  xy: 815, 871
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+dragon_regiana_adult_eye4
+  rotate: false
+  xy: 952, 1005
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_4135_butterfly_r1_partSkin01
+  rotate: false
+  xy: 1011, 888
+  size: 24, 24
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+dragon_regiana_adult_eye2
+  rotate: true
+  xy: 382, 1012
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+dragon_regiana_child_rwing
+  rotate: true
+  xy: 850, 788
+  size: 84, 86
+  orig: 84, 86
+  offset: 0, 0
+  index: -1
+dragon_regiana_adult_eye5
+  rotate: false
+  xy: 855, 496
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_regiana_child_tail
+  rotate: false
+  xy: 834, 347
+  size: 104, 65
+  orig: 104, 65
+  offset: 0, 0
+  index: -1
+dragon_regiana_child_eye2
+  rotate: false
+  xy: 1025, 970
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+dragon_regiana_adult_eye3
+  rotate: false
+  xy: 1007, 954
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+dragon_regiana_child_eye4
+  rotate: true
+  xy: 1007, 970
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+dragon_regiana_child_eye3
+  rotate: false
+  xy: 1025, 378
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+dragon_regiana_child_arm2
+  rotate: true
+  xy: 982, 545
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+dragon_regiana_child_arm1
+  rotate: true
+  xy: 941, 771
+  size: 21, 35
+  orig: 21, 41
+  offset: 0, 6
+  index: -1
+dragon_regiana_baby_eye_ilt
+  rotate: false
+  xy: 1019, 531
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_regiana_adult_wing1
+  rotate: false
+  xy: 299, 689
+  size: 80, 194
+  orig: 80, 194
+  offset: 0, 0
+  index: -1
+dragon_regiana_adult_wing2
+  rotate: false
+  xy: 402, 265
+  size: 137, 200
+  orig: 137, 200
+  offset: 0, 0
+  index: -1
+dragon_regiana_e_body2
+  rotate: false
+  xy: 981, 405
+  size: 34, 31
+  orig: 62, 61
+  offset: 14, 15
+  index: -1
+dragon_regiana_child_mout
+  rotate: true
+  xy: 989, 964
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+dragon_regiana_adult_head
+  rotate: false
+  xy: 524, 899
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+dragon_4135_leg_l1_partSkin01
+  rotate: true
+  xy: 1008, 288
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+dragon_4135_antenna2_partSkin01
+  rotate: true
+  xy: 659, 974
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+dragon_regiana_child_b_foot
+  rotate: false
+  xy: 959, 230
+  size: 47, 19
+  orig: 47, 19
+  offset: 0, 0
+  index: -1
+dragon_regiana_baby_r_reg1
+  rotate: true
+  xy: 978, 827
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+dragon_regiana_baby_r_foot
+  rotate: false
+  xy: 1012, 594
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+dragon_regiana_child_head
+  rotate: false
+  xy: 747, 834
+  size: 66, 71
+  orig: 66, 71
+  offset: 0, 0
+  index: -1
+dragon_regiana_adult_r_arm2
+  rotate: true
+  xy: 1011, 831
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+dragon_regiana_adult_mout
+  rotate: true
+  xy: 969, 969
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+dragon_regiana_adult_r_arm1
+  rotate: false
+  xy: 960, 299
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+dragon_regiana_adult_neck_lig
+  rotate: false
+  xy: 952, 973
+  size: 15, 30
+  orig: 17, 32
+  offset: 1, 1
+  index: -1
+dragon_regiana_e_l_leg1
+  rotate: false
+  xy: 940, 347
+  size: 39, 55
+  orig: 69, 83
+  offset: 15, 14
+  index: -1
+dragon_regiana_cri_lit2
+  rotate: false
+  xy: 2, 265
+  size: 398, 191
+  orig: 418, 195
+  offset: 5, 1
+  index: -1
+dragon_regiana_cri_lit3
+  rotate: false
+  xy: 2, 2
+  size: 553, 261
+  orig: 587, 293
+  offset: 18, 15
+  index: -1
+dragon_regiana_e_l_leg3
+  rotate: true
+  xy: 1019, 568
+  size: 24, 16
+  orig: 54, 46
+  offset: 15, 15
+  index: -1
+dragon_regiana_adult_body_lig
+  rotate: false
+  xy: 875, 921
+  size: 50, 51
+  orig: 74, 53
+  offset: 0, 2
+  index: -1
+dragon_regiana_cri_lit1
+  rotate: true
+  xy: 2, 694
+  size: 253, 140
+  orig: 255, 142
+  offset: 1, 1
+  index: -1
+dragon_regiana_baby_tail_lit
+  rotate: false
+  xy: 937, 152
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+dragon_4135_hair_partSkin01
+  rotate: true
+  xy: 821, 974
+  size: 43, 60
+  orig: 43, 60
+  offset: 0, 0
+  index: -1
+dragon_regiana_e_l_leg1_lig
+  rotate: false
+  xy: 980, 855
+  size: 29, 26
+  orig: 59, 56
+  offset: 15, 15
+  index: -1

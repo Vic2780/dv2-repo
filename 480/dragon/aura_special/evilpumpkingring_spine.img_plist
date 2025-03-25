@@ -1,0 +1,32 @@
+evilpumpkingring_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+eff2
+  rotate: false
+  xy: 2, 2
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+face_bg
+  rotate: false
+  xy: 83, 2
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 83, 30
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+face_eff
+  rotate: true
+  xy: 47, 2
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1

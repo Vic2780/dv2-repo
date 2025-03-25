@@ -1,0 +1,1691 @@
+dragon_4178_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_kubera_e_light2
+  rotate: false
+  xy: 971, 951
+  size: 48, 42
+  orig: 50, 44
+  offset: 1, 1
+  index: -1
+dragon_kubera_e_neck_cape4
+  rotate: false
+  xy: 955, 845
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+dragon_kubera_e_neck_cape2
+  rotate: true
+  xy: 982, 368
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+dragon_kubera_child_r_arm1
+  rotate: true
+  xy: 805, 1404
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+dragon_kubera_child_r_arm2
+  rotate: false
+  xy: 440, 1300
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+dragon_kubera_child_r_arm3
+  rotate: true
+  xy: 974, 1568
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+dragon_kubera_e_light1
+  rotate: false
+  xy: 855, 1363
+  size: 35, 36
+  orig: 39, 38
+  offset: 2, 1
+  index: -1
+dragon_kubera_e_neck_cape1
+  rotate: true
+  xy: 892, 1371
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+dragon_kubera_child_eye
+  rotate: true
+  xy: 933, 1525
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_arm_lightning1
+  rotate: false
+  xy: 855, 1320
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_arm_lightning4
+  rotate: false
+  xy: 853, 1531
+  size: 19, 34
+  orig: 39, 34
+  offset: 20, 0
+  index: -1
+dragon_kubera_child_eyeclose
+  rotate: false
+  xy: 563, 1288
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_arm_lightning2
+  rotate: false
+  xy: 892, 1332
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_arm_lightning3
+  rotate: false
+  xy: 999, 1224
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+dragon_kubera_child_mouth
+  rotate: false
+  xy: 876, 1567
+  size: 20, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+dragon_kubera_child_neck_cape2
+  rotate: false
+  xy: 395, 1471
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+dragon_kubera_e_pelvis_l
+  rotate: true
+  xy: 974, 1216
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+dragon_kubera_child_neck_cape1
+  rotate: true
+  xy: 996, 1391
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_r_arm3b
+  rotate: true
+  xy: 1001, 1558
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_pelvis_cloth
+  rotate: false
+  xy: 576, 1406
+  size: 102, 72
+  orig: 102, 72
+  offset: 0, 0
+  index: -1
+dragon_kubera_e_l_wing
+  rotate: true
+  xy: 501, 109
+  size: 146, 148
+  orig: 152, 160
+  offset: 0, 3
+  index: -1
+dragon_kubera_e_pelvis_r
+  rotate: false
+  xy: 928, 1216
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_neck_cape1
+  rotate: false
+  xy: 935, 1354
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+dragon_4178_critical_effect12
+  rotate: false
+  xy: 684, 897
+  size: 142, 155
+  orig: 216, 179
+  offset: 23, 7
+  index: -1
+dragon_kubera_adult_neck_cape4
+  rotate: false
+  xy: 923, 951
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+dragon_4178_critical_effect13
+  rotate: false
+  xy: 684, 897
+  size: 142, 155
+  orig: 216, 179
+  offset: 23, 7
+  index: -1
+dragon_kubera_e_r_arm1_a2
+  rotate: false
+  xy: 785, 1531
+  size: 24, 57
+  orig: 24, 57
+  offset: 0, 0
+  index: -1
+dragon_4178_critical_effect14
+  rotate: false
+  xy: 684, 897
+  size: 142, 155
+  orig: 216, 179
+  offset: 23, 7
+  index: -1
+dragon_kubera_adult_neck_cape2
+  rotate: true
+  xy: 982, 416
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+dragon_4178_critical_effect15
+  rotate: false
+  xy: 684, 897
+  size: 142, 155
+  orig: 216, 179
+  offset: 23, 7
+  index: -1
+dragon_kubera_adult_eyeattack
+  rotate: true
+  xy: 636, 414
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+dragon_kubera_e_r_arm1_a3
+  rotate: true
+  xy: 955, 1451
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+dragon_4178_critical_effect10
+  rotate: false
+  xy: 2, 843
+  size: 206, 157
+  orig: 216, 179
+  offset: 7, 7
+  index: -1
+dragon_kubera_adult_l_leg2
+  rotate: true
+  xy: 925, 1166
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+dragon_4178_critical_effect11
+  rotate: false
+  xy: 2, 684
+  size: 206, 157
+  orig: 216, 179
+  offset: 7, 7
+  index: -1
+dragon_kubera_child_eyebrow
+  rotate: true
+  xy: 210, 1151
+  size: 8, 21
+  orig: 8, 21
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_l_leg3
+  rotate: true
+  xy: 762, 1387
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+dragon_kubera_e_r_leg2
+  rotate: false
+  xy: 563, 1264
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+dragon_4178_e_critical_effect08
+  rotate: true
+  xy: 210, 613
+  size: 180, 169
+  orig: 216, 179
+  offset: 17, 7
+  index: -1
+dragon_kubera_adult_pelvis_l
+  rotate: false
+  xy: 928, 1267
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+dragon_kubera_e_r_leg3
+  rotate: true
+  xy: 996, 1355
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+dragon_4178_e_critical_effect09
+  rotate: false
+  xy: 2, 513
+  size: 206, 169
+  orig: 216, 179
+  offset: 7, 7
+  index: -1
+dragon_kubera_baby_tail1
+  rotate: true
+  xy: 843, 1144
+  size: 63, 28
+  orig: 63, 28
+  offset: 0, 0
+  index: -1
+dragon_kubera_e_r_arm1_a1
+  rotate: false
+  xy: 864, 901
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1
+dragon_4178_e_critical_effect06
+  rotate: true
+  xy: 381, 937
+  size: 174, 169
+  orig: 216, 179
+  offset: 23, 7
+  index: -1
+dragon_4178_critical_effect16
+  rotate: false
+  xy: 684, 897
+  size: 142, 155
+  orig: 216, 179
+  offset: 23, 7
+  index: -1
+dragon_4178_e_critical_effect07
+  rotate: true
+  xy: 381, 761
+  size: 174, 169
+  orig: 216, 179
+  offset: 23, 7
+  index: -1
+dragon_4178_critical_effect17
+  rotate: false
+  xy: 834, 236
+  size: 142, 153
+  orig: 216, 179
+  offset: 23, 7
+  index: -1
+dragon_kubera_baby_l_arm1
+  rotate: false
+  xy: 925, 1467
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+dragon_4178_critical_effect18
+  rotate: false
+  xy: 330, 1318
+  size: 140, 151
+  orig: 216, 179
+  offset: 23, 8
+  index: -1
+dragon_kubera_adult_l_leg1
+  rotate: false
+  xy: 864, 949
+  size: 57, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1
+dragon_kubera_baby_l_arm2
+  rotate: true
+  xy: 954, 1101
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+dragon_4178_critical_effect19
+  rotate: false
+  xy: 440, 1113
+  size: 126, 149
+  orig: 216, 179
+  offset: 30, 10
+  index: -1
+dragon_kubera_e_r_leg1
+  rotate: false
+  xy: 978, 238
+  size: 41, 63
+  orig: 41, 63
+  offset: 0, 0
+  index: -1
+dragon_4178_e_critical_effect00
+  rotate: false
+  xy: 552, 585
+  size: 76, 161
+  orig: 216, 179
+  offset: 55, 15
+  index: -1
+dragon_kubera_e_r_arm1_b2
+  rotate: true
+  xy: 973, 1320
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+dragon_4178_e_critical_effect01
+  rotate: false
+  xy: 568, 1086
+  size: 94, 163
+  orig: 216, 179
+  offset: 46, 13
+  index: -1
+dragon_kubera_e_r_arm1_b3
+  rotate: false
+  xy: 664, 1086
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+dragon_kubera_e_sword
+  rotate: false
+  xy: 323, 2
+  size: 269, 105
+  orig: 277, 107
+  offset: 0, 1
+  index: -1
+dragon_4178_e_critical_effect04
+  rotate: false
+  xy: 192, 1161
+  size: 136, 169
+  orig: 216, 179
+  offset: 28, 9
+  index: -1
+dragon_4178_critical_effect20
+  rotate: true
+  xy: 805, 1308
+  size: 94, 31
+  orig: 216, 179
+  offset: 47, 13
+  index: -1
+dragon_4178_e_critical_effect05
+  rotate: false
+  xy: 484, 414
+  size: 150, 169
+  orig: 216, 179
+  offset: 24, 8
+  index: -1
+dragon_4178_e_critical_effect02
+  rotate: false
+  xy: 330, 1151
+  size: 108, 165
+  orig: 216, 179
+  offset: 40, 12
+  index: -1
+dragon_4178_critical_effect21
+  rotate: true
+  xy: 938, 846
+  size: 60, 15
+  orig: 216, 179
+  offset: 64, 16
+  index: -1
+dragon_4178_e_critical_effect03
+  rotate: true
+  xy: 630, 590
+  size: 138, 167
+  orig: 216, 179
+  offset: 33, 10
+  index: -1
+dragon_kubera_child_light2
+  rotate: true
+  xy: 1001, 1518
+  size: 19, 18
+  orig: 21, 20
+  offset: 1, 1
+  index: -1
+dragon_kubera_child_light3
+  rotate: false
+  xy: 997, 933
+  size: 17, 16
+  orig: 19, 18
+  offset: 1, 1
+  index: -1
+dragon_kubera_child_hand_chain2
+  rotate: true
+  xy: 979, 1521
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+dragon_kubera_e_r_arm1_b1
+  rotate: true
+  xy: 997, 98
+  size: 70, 19
+  orig: 70, 19
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_r_hair
+  rotate: false
+  xy: 913, 1112
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_eyedam
+  rotate: false
+  xy: 921, 1401
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_pelvis_r
+  rotate: false
+  xy: 923, 1000
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+dragon_kubera_baby_head
+  rotate: true
+  xy: 955, 720
+  size: 63, 56
+  orig: 63, 56
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_l_arm2
+  rotate: false
+  xy: 853, 1567
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_head2
+  rotate: false
+  xy: 790, 1232
+  size: 49, 74
+  orig: 49, 74
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_l_arm3
+  rotate: true
+  xy: 979, 1548
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+dragon_kubera_baby_r_leg1
+  rotate: true
+  xy: 949, 1568
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+dragon_kubera_baby_sword_lig
+  rotate: false
+  xy: 828, 897
+  size: 34, 110
+  orig: 36, 112
+  offset: 1, 1
+  index: -1
+dragon_kubera_child_pervis_center2
+  rotate: true
+  xy: 381, 1113
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+dragon_kubera_baby_r_leg2
+  rotate: false
+  xy: 933, 1498
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_hair0
+  rotate: true
+  xy: 794, 1144
+  size: 86, 47
+  orig: 86, 47
+  offset: 0, 0
+  index: -1
+dragon_kubera_e_lighta2
+  rotate: false
+  xy: 971, 995
+  size: 48, 40
+  orig: 50, 42
+  offset: 1, 1
+  index: -1
+dragon_kubera_adult_hair1
+  rotate: false
+  xy: 871, 1054
+  size: 39, 56
+  orig: 39, 56
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_hair2
+  rotate: false
+  xy: 873, 1167
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_l_arm1
+  rotate: true
+  xy: 892, 1301
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_hair3
+  rotate: false
+  xy: 871, 1210
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_hair4
+  rotate: true
+  xy: 611, 1480
+  size: 75, 71
+  orig: 75, 71
+  offset: 0, 0
+  index: -1
+dragon_4178_critical_effect02
+  rotate: true
+  xy: 586, 1480
+  size: 108, 23
+  orig: 216, 179
+  offset: 40, 12
+  index: -1
+dragon_4178_critical_effect03
+  rotate: false
+  xy: 552, 748
+  size: 122, 167
+  orig: 216, 179
+  offset: 32, 10
+  index: -1
+dragon_4178_critical_effect04
+  rotate: false
+  xy: 552, 917
+  size: 130, 167
+  orig: 216, 179
+  offset: 29, 9
+  index: -1
+dragon_4178_critical_effect05
+  rotate: false
+  xy: 190, 1332
+  size: 138, 169
+  orig: 216, 179
+  offset: 24, 8
+  index: -1
+dragon_kubera_adult_arm_lightning42
+  rotate: false
+  xy: 904, 1469
+  size: 19, 34
+  orig: 39, 34
+  offset: 20, 0
+  index: -1
+dragon_4178_critical_effect00
+  rotate: true
+  xy: 838, 1308
+  size: 76, 15
+  orig: 216, 179
+  offset: 55, 15
+  index: -1
+dragon_4178_critical_effect01
+  rotate: true
+  xy: 997, 2
+  size: 94, 19
+  orig: 216, 179
+  offset: 46, 13
+  index: -1
+dragon_kubera_adult_body
+  rotate: true
+  xy: 891, 721
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+dragon_kubera_child_tail1
+  rotate: false
+  xy: 576, 1251
+  size: 86, 64
+  orig: 86, 64
+  offset: 0, 0
+  index: -1
+dragon_4178_critical_effect06
+  rotate: false
+  xy: 664, 253
+  size: 168, 171
+  orig: 216, 179
+  offset: 22, 7
+  index: -1
+dragon_4178_critical_effect07
+  rotate: false
+  xy: 494, 257
+  size: 168, 155
+  orig: 216, 179
+  offset: 23, 7
+  index: -1
+dragon_kubera_adult_eye
+  rotate: true
+  xy: 1003, 882
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_r_arm3_amor
+  rotate: true
+  xy: 552, 1086
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+dragon_4178_critical_effect08
+  rotate: false
+  xy: 318, 257
+  size: 174, 155
+  orig: 216, 179
+  offset: 17, 7
+  index: -1
+dragon_4178_critical_effect09
+  rotate: false
+  xy: 2, 1002
+  size: 206, 157
+  orig: 216, 179
+  offset: 7, 7
+  index: -1
+dragon_kubera_child_body
+  rotate: false
+  xy: 811, 1531
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_r_leg1
+  rotate: false
+  xy: 978, 303
+  size: 41, 63
+  orig: 41, 63
+  offset: 0, 0
+  index: -1
+dragon_kubera_baby_body
+  rotate: true
+  xy: 828, 1009
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+dragon_kubera_child_head_light
+  rotate: true
+  xy: 879, 998
+  size: 54, 42
+  orig: 56, 46
+  offset: 0, 2
+  index: -1
+dragon_kubera_child_neck_cape2_b
+  rotate: false
+  xy: 308, 585
+  size: 59, 26
+  orig: 59, 26
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_r_leg2
+  rotate: false
+  xy: 800, 1479
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_arm_lightning32
+  rotate: false
+  xy: 999, 1188
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+dragon_kubera_baby_r_arm1
+  rotate: false
+  xy: 973, 1295
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+dragon_kubera_baby_r_arm2
+  rotate: true
+  xy: 813, 236
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_r_leg3
+  rotate: true
+  xy: 886, 1232
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+dragon_kubera_e_l_leg2
+  rotate: true
+  xy: 473, 1580
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
+dragon_kubera_e_l_leg3
+  rotate: false
+  xy: 805, 1459
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+dragon_kubera_e_sword_lig
+  rotate: false
+  xy: 2, 2
+  size: 319, 167
+  orig: 323, 173
+  offset: 1, 3
+  index: -1
+dragon_kubera_e_l_leg1
+  rotate: false
+  xy: 938, 671
+  size: 67, 47
+  orig: 67, 47
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_mouth
+  rotate: false
+  xy: 974, 933
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+dragon_kubera_baby_body2
+  rotate: false
+  xy: 882, 1435
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+dragon_kubera_e_shield2
+  rotate: false
+  xy: 806, 845
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1
+dragon_kubera_e_shield1
+  rotate: false
+  xy: 873, 846
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_arm_lightning22
+  rotate: false
+  xy: 842, 1401
+  size: 37, 37
+  orig: 39, 37
+  offset: 1, 0
+  index: -1
+dragon_kubera_baby_body3
+  rotate: false
+  xy: 440, 1264
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_sword_chain2
+  rotate: true
+  xy: 954, 1549
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_sword_chain3
+  rotate: false
+  xy: 979, 1499
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_sword_chain1
+  rotate: false
+  xy: 975, 1037
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_hand_chain1
+  rotate: true
+  xy: 805, 426
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_eyeclose
+  rotate: true
+  xy: 651, 414
+  size: 10, 11
+  orig: 10, 13
+  offset: 0, 1
+  index: -1
+dragon_kubera_adult_r_arm3_lig
+  rotate: true
+  xy: 923, 1539
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_r_arm1
+  rotate: false
+  xy: 958, 1157
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+dragon_kubera_e_r_arm2_amor
+  rotate: true
+  xy: 933, 1317
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_chest armor
+  rotate: false
+  xy: 840, 1473
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_hand_chain2
+  rotate: true
+  xy: 901, 1540
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_r_arm2
+  rotate: true
+  xy: 975, 1080
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_arm_lightning12
+  rotate: true
+  xy: 762, 1442
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_hand_chain3
+  rotate: true
+  xy: 886, 1284
+  size: 15, 40
+  orig: 15, 40
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_manteau1
+  rotate: true
+  xy: 760, 1310
+  size: 75, 43
+  orig: 75, 43
+  offset: 0, 0
+  index: -1
+dragon_kubera_e_r_arm1
+  rotate: true
+  xy: 955, 785
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_r_arm3
+  rotate: true
+  xy: 956, 1423
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_manteau2
+  rotate: false
+  xy: 753, 1479
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_manteau3
+  rotate: false
+  xy: 986, 173
+  size: 33, 63
+  orig: 33, 63
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_manteau4
+  rotate: true
+  xy: 472, 1264
+  size: 147, 89
+  orig: 147, 89
+  offset: 0, 0
+  index: -1
+dragon_kubera_e_l_arm2_amor
+  rotate: true
+  xy: 998, 1117
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_manteau5
+  rotate: true
+  xy: 805, 479
+  size: 115, 131
+  orig: 115, 131
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_r_arm2_lig
+  rotate: true
+  xy: 974, 894
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_manteau6
+  rotate: true
+  xy: 831, 1054
+  size: 59, 38
+  orig: 59, 38
+  offset: 0, 0
+  index: -1
+dragon_kubera_baby_mouth
+  rotate: true
+  xy: 1003, 845
+  size: 35, 15
+  orig: 35, 15
+  offset: 0, 0
+  index: -1
+dragon_kubera_baby_chain
+  rotate: false
+  xy: 954, 1524
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_kubera_e_pelvis_cloth
+  rotate: false
+  xy: 472, 1413
+  size: 102, 72
+  orig: 102, 72
+  offset: 0, 0
+  index: -1
+dragon_kubera_e_cape1
+  rotate: false
+  xy: 898, 666
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+dragon_kubera_child_pelvis_b1
+  rotate: false
+  xy: 922, 1448
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_l_arm2_amor
+  rotate: true
+  xy: 998, 1141
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_pelvis
+  rotate: false
+  xy: 925, 908
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+dragon_kubera_baby_hand_chain2
+  rotate: true
+  xy: 664, 1119
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+dragon_kubera_child_pelvis_b2
+  rotate: false
+  xy: 630, 730
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+dragon_kubera_e_pelvis_center
+  rotate: true
+  xy: 965, 1395
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+dragon_kubera_child_pelvis_l
+  rotate: false
+  xy: 995, 1498
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+dragon_kubera_child_chain
+  rotate: false
+  xy: 958, 1200
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_sword_lightning42
+  rotate: false
+  xy: 664, 1229
+  size: 124, 79
+  orig: 124, 79
+  offset: 0, 0
+  index: -1
+dragon_kubera_e_r_pelvis
+  rotate: false
+  xy: 753, 1531
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_pelvis_center
+  rotate: true
+  xy: 987, 1423
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+dragon_kubera_baby_neck
+  rotate: false
+  xy: 980, 1473
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_tail
+  rotate: false
+  xy: 2, 1503
+  size: 175, 85
+  orig: 175, 85
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_light4
+  rotate: false
+  xy: 855, 1301
+  size: 34, 17
+  orig: 36, 19
+  offset: 1, 1
+  index: -1
+dragon_kubera_baby_hair
+  rotate: true
+  xy: 680, 1402
+  size: 69, 80
+  orig: 69, 80
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_light5
+  rotate: false
+  xy: 913, 1216
+  size: 13, 14
+  orig: 15, 16
+  offset: 1, 2
+  index: -1
+dragon_kubera_adult_light8
+  rotate: false
+  xy: 891, 788
+  size: 62, 56
+  orig: 64, 58
+  offset: 1, 1
+  index: -1
+dragon_kubera_adult_light3
+  rotate: false
+  xy: 998, 1165
+  size: 21, 21
+  orig: 23, 23
+  offset: 0, 1
+  index: -1
+dragon_kubera_adult_light6
+  rotate: true
+  xy: 563, 1306
+  size: 9, 11
+  orig: 13, 13
+  offset: 2, 1
+  index: -1
+dragon_kubera_child_l_leg1
+  rotate: false
+  xy: 881, 1401
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+dragon_kubera_e_l_wing2
+  rotate: false
+  xy: 651, 104
+  size: 160, 147
+  orig: 164, 153
+  offset: 1, 3
+  index: -1
+dragon_kubera_adult_sword_lightning32
+  rotate: true
+  xy: 938, 479
+  size: 124, 81
+  orig: 124, 83
+  offset: 0, 1
+  index: -1
+dragon_kubera_child_l_leg2
+  rotate: false
+  xy: 843, 1209
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+dragon_4178_e_critical_effect18
+  rotate: true
+  xy: 210, 975
+  size: 174, 169
+  orig: 216, 179
+  offset: 23, 8
+  index: -1
+dragon_kubera_adult_light7
+  rotate: false
+  xy: 840, 1513
+  size: 16, 16
+  orig: 18, 18
+  offset: 1, 1
+  index: -1
+dragon_kubera_child_l_leg3
+  rotate: true
+  xy: 873, 1473
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+dragon_4178_e_critical_effect19
+  rotate: true
+  xy: 636, 426
+  size: 162, 167
+  orig: 216, 179
+  offset: 31, 10
+  index: -1
+dragon_kubera_e_chest armor
+  rotate: true
+  xy: 842, 1440
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+dragon_4178_e_critical_effect16
+  rotate: true
+  xy: 381, 585
+  size: 174, 169
+  orig: 216, 179
+  offset: 23, 7
+  index: -1
+dragon_kubera_e_r_wing2
+  rotate: true
+  xy: 323, 109
+  size: 146, 176
+  orig: 156, 186
+  offset: 4, 6
+  index: -1
+dragon_4178_e_critical_effect17
+  rotate: false
+  xy: 308, 414
+  size: 174, 169
+  orig: 216, 179
+  offset: 23, 7
+  index: -1
+dragon_kubera_adult_r_arm2_amor
+  rotate: false
+  xy: 965, 1355
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+dragon_4178_e_critical_effect10
+  rotate: false
+  xy: 2, 342
+  size: 206, 169
+  orig: 216, 179
+  offset: 7, 7
+  index: -1
+dragon_4178_e_critical_effect11
+  rotate: false
+  xy: 2, 171
+  size: 206, 169
+  orig: 216, 179
+  offset: 7, 7
+  index: -1
+dragon_kubera_baby_eye
+  rotate: true
+  xy: 934, 1567
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+dragon_kubera_child_head
+  rotate: false
+  xy: 684, 1473
+  size: 67, 74
+  orig: 67, 74
+  offset: 0, 0
+  index: -1
+dragon_kubera_child_sword_light
+  rotate: true
+  xy: 473, 1487
+  size: 91, 111
+  orig: 91, 111
+  offset: 0, 0
+  index: -1
+dragon_kubera_child_sword
+  rotate: true
+  xy: 563, 1317
+  size: 87, 108
+  orig: 89, 110
+  offset: 0, 1
+  index: -1
+dragon_kubera_adult_head
+  rotate: false
+  xy: 876, 1512
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_4178_e_critical_effect14
+  rotate: true
+  xy: 210, 795
+  size: 178, 169
+  orig: 216, 179
+  offset: 19, 7
+  index: -1
+dragon_4178_e_critical_effect15
+  rotate: false
+  xy: 815, 2
+  size: 180, 169
+  orig: 216, 179
+  offset: 17, 7
+  index: -1
+dragon_4178_e_critical_effect12
+  rotate: false
+  xy: 2, 1161
+  size: 188, 169
+  orig: 216, 179
+  offset: 9, 7
+  index: -1
+dragon_kubera_adult_sword_lightning22
+  rotate: true
+  xy: 806, 718
+  size: 125, 83
+  orig: 125, 83
+  offset: 0, 0
+  index: -1
+dragon_4178_e_critical_effect13
+  rotate: false
+  xy: 2, 1332
+  size: 186, 169
+  orig: 216, 179
+  offset: 11, 7
+  index: -1
+dragon_kubera_adult_pelvis_r_b
+  rotate: true
+  xy: 860, 1232
+  size: 59, 24
+  orig: 59, 24
+  offset: 0, 0
+  index: -1
+dragon_kubera_baby_light1
+  rotate: false
+  xy: 330, 1471
+  size: 63, 30
+  orig: 65, 32
+  offset: 0, 1
+  index: -1
+dragon_kubera_baby_light2
+  rotate: false
+  xy: 954, 1473
+  size: 24, 24
+  orig: 26, 26
+  offset: 0, 1
+  index: -1
+dragon_kubera_child_pelvis_r
+  rotate: false
+  xy: 922, 1419
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+dragon_kubera_child_l_arm1
+  rotate: true
+  xy: 987, 1451
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_eye2
+  rotate: false
+  xy: 369, 585
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+dragon_kubera_child_l_arm2
+  rotate: true
+  xy: 1005, 1473
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+dragon_kubera_child_l_arm3
+  rotate: false
+  xy: 982, 464
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+dragon_kubera_child_pervis_center
+  rotate: true
+  xy: 898, 1567
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+dragon_4178_e_critical_effect20
+  rotate: false
+  xy: 611, 1557
+  size: 94, 31
+  orig: 216, 179
+  offset: 47, 13
+  index: -1
+dragon_kubera_baby_l_leg1
+  rotate: false
+  xy: 954, 1499
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_4178_e_critical_effect21
+  rotate: true
+  xy: 841, 1232
+  size: 60, 17
+  orig: 216, 179
+  offset: 64, 14
+  index: -1
+dragon_kubera_adult_shield
+  rotate: false
+  xy: 673, 1310
+  size: 85, 90
+  orig: 85, 90
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_sword_lightning4
+  rotate: false
+  xy: 684, 1054
+  size: 145, 88
+  orig: 145, 90
+  offset: 0, 2
+  index: -1
+dragon_kubera_baby_l_leg2
+  rotate: false
+  xy: 935, 1397
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_sword_lightning2
+  rotate: false
+  xy: 834, 391
+  size: 146, 86
+  orig: 146, 86
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_sword
+  rotate: true
+  xy: 210, 395
+  size: 216, 96
+  orig: 220, 104
+  offset: 1, 5
+  index: -1
+dragon_kubera_adult_sword_lightning3
+  rotate: false
+  xy: 327, 1503
+  size: 144, 85
+  orig: 148, 85
+  offset: 1, 0
+  index: -1
+dragon_4178_e_critical_effect22
+  rotate: true
+  xy: 433, 1113
+  size: 24, 5
+  orig: 216, 179
+  offset: 81, 21
+  index: -1
+dragon_kubera_adult_sword_lightning12
+  rotate: false
+  xy: 664, 1144
+  size: 128, 83
+  orig: 128, 83
+  offset: 0, 0
+  index: -1
+dragon_kubera_e_tail
+  rotate: false
+  xy: 813, 173
+  size: 171, 61
+  orig: 171, 61
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_sword_lightning1
+  rotate: false
+  xy: 179, 1503
+  size: 146, 85
+  orig: 146, 85
+  offset: 0, 0
+  index: -1
+dragon_kubera_child_pervis
+  rotate: true
+  xy: 904, 1505
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+dragon_kubera_e_r_wing
+  rotate: false
+  xy: 676, 730
+  size: 128, 165
+  orig: 128, 173
+  offset: 0, 5
+  index: -1
+dragon_kubera_e_l_pelvis
+  rotate: false
+  xy: 1007, 671
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+dragon_kubera_baby_sword
+  rotate: true
+  xy: 799, 596
+  size: 68, 137
+  orig: 80, 141
+  offset: 7, 4
+  index: -1
+dragon_kubera_child_hair1
+  rotate: false
+  xy: 799, 666
+  size: 97, 50
+  orig: 97, 50
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_light10
+  rotate: false
+  xy: 1007, 694
+  size: 12, 13
+  orig: 16, 15
+  offset: 2, 2
+  index: -1
+dragon_kubera_child_hair2
+  rotate: true
+  xy: 707, 1549
+  size: 39, 76
+  orig: 39, 76
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_light11
+  rotate: false
+  xy: 955, 894
+  size: 13, 12
+  orig: 15, 16
+  offset: 1, 3
+  index: -1
+dragon_kubera_baby_eye2
+  rotate: true
+  xy: 919, 1567
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+dragon_kubera_child_hair3
+  rotate: false
+  xy: 928, 1292
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+dragon_kubera_e_head2
+  rotate: true
+  xy: 938, 605
+  size: 64, 74
+  orig: 64, 74
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_light12
+  rotate: false
+  xy: 858, 1513
+  size: 16, 16
+  orig: 20, 20
+  offset: 2, 2
+  index: -1
+dragon_kubera_adult_eyebrow
+  rotate: true
+  xy: 864, 998
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+dragon_kubera_child_neck
+  rotate: false
+  xy: 874, 1540
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+dragon_kubera_child_r_leg1
+  rotate: true
+  xy: 977, 1265
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+dragon_kubera_child_r_leg2
+  rotate: false
+  xy: 1001, 1539
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+dragon_kubera_child_r_leg3
+  rotate: true
+  xy: 831, 1115
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_neck
+  rotate: false
+  xy: 954, 1117
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_cape1
+  rotate: false
+  xy: 873, 1112
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+dragon_kubera_baby_eyeclose
+  rotate: true
+  xy: 457, 1471
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+dragon_kubera_adult_sword_lig1
+  rotate: false
+  xy: 594, 2
+  size: 219, 100
+  orig: 223, 104
+  offset: 1, 2
+  index: -1
+dragon_kubera_adult_sword_lig2
+  rotate: true
+  xy: 210, 171
+  size: 222, 106
+  orig: 226, 110
+  offset: 2, 1
+  index: -1
+dragon_kubera_e_light7
+  rotate: false
+  xy: 934, 1051
+  size: 39, 48
+  orig: 41, 50
+  offset: 1, 1
+  index: -1
+dragon_kubera_e_light8
+  rotate: false
+  xy: 841, 1294
+  size: 12, 12
+  orig: 14, 14
+  offset: 1, 1
+  index: -1
+dragon_kubera_adult_l_hair
+  rotate: false
+  xy: 912, 1054
+  size: 20, 56
+  orig: 20, 56
+  offset: 0, 0
+  index: -1
+dragon_kubera_e_light9
+  rotate: false
+  xy: 1008, 464
+  size: 11, 11
+  orig: 13, 13
+  offset: 1, 1
+  index: -1

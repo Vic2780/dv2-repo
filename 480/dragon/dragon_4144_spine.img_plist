@@ -1,0 +1,900 @@
+dragon_4144_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_stra_adult_e_l_wing
+  rotate: false
+  xy: 2, 1847
+  size: 160, 101
+  orig: 160, 101
+  offset: 0, 0
+  index: -1
+dragon_4130_critical_ef07
+  rotate: true
+  xy: 2, 388
+  size: 487, 151
+  orig: 487, 151
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_book2_light
+  rotate: false
+  xy: 402, 1271
+  size: 53, 67
+  orig: 53, 67
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_book_move
+  rotate: false
+  xy: 345, 1271
+  size: 55, 72
+  orig: 55, 74
+  offset: 0, 2
+  index: -1
+dragon_stra_adult_body
+  rotate: false
+  xy: 331, 1075
+  size: 80, 69
+  orig: 80, 69
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_e_r_foot
+  rotate: false
+  xy: 482, 1717
+  size: 27, 56
+  orig: 27, 56
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_eye5
+  rotate: true
+  xy: 377, 860
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_r_arm2
+  rotate: true
+  xy: 474, 1438
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_e_tail_acc
+  rotate: false
+  xy: 380, 1807
+  size: 55, 45
+  orig: 55, 45
+  offset: 0, 0
+  index: -1
+dragon_stra_baby_l_leg
+  rotate: false
+  xy: 371, 1897
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_stra_child_neck
+  rotate: true
+  xy: 472, 1482
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+dragon_4130_critical_eff08b
+  rotate: true
+  xy: 147, 877
+  size: 478, 115
+  orig: 478, 115
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_e_r_leg
+  rotate: true
+  xy: 317, 1815
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+dragon_stra_child_mouth
+  rotate: false
+  xy: 162, 1952
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_book_acc2
+  rotate: false
+  xy: 488, 242
+  size: 13, 116
+  orig: 13, 118
+  offset: 0, 2
+  index: -1
+dragon_stra_adult_neck
+  rotate: false
+  xy: 410, 1482
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+dragon_stra_child_r_face_acc
+  rotate: false
+  xy: 476, 1887
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+dragon_stra_critical_light3
+  rotate: false
+  xy: 264, 877
+  size: 61, 134
+  orig: 63, 134
+  offset: 1, 0
+  index: -1
+dragon_stra_adult_r_hand
+  rotate: true
+  xy: 334, 1895
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_book_light2
+  rotate: true
+  xy: 2, 1950
+  size: 23, 119
+  orig: 25, 125
+  offset: 1, 0
+  index: -1
+dragon_stra_adult_e_book2
+  rotate: false
+  xy: 413, 1062
+  size: 44, 89
+  orig: 44, 89
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_e_l_arm
+  rotate: false
+  xy: 164, 1845
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+dragon_4130_critical_eff05
+  rotate: true
+  xy: 155, 388
+  size: 487, 131
+  orig: 487, 131
+  offset: 0, 0
+  index: -1
+dragon_stra_baby_l_arm
+  rotate: false
+  xy: 466, 1921
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+dragon_stra_baby_eye3
+  rotate: true
+  xy: 499, 1130
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+dragon_stra_child_r_leg
+  rotate: false
+  xy: 435, 1854
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_eye4
+  rotate: false
+  xy: 330, 1959
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+dragon_stra_baby_face
+  rotate: true
+  xy: 351, 1574
+  size: 86, 54
+  orig: 86, 54
+  offset: 0, 0
+  index: -1
+dragon_stra_child_r_finger
+  rotate: false
+  xy: 488, 360
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_l_wing
+  rotate: true
+  xy: 191, 1560
+  size: 160, 101
+  orig: 160, 101
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_r_leg2
+  rotate: true
+  xy: 313, 1860
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+dragon_4130_critical_eff01
+  rotate: true
+  xy: 119, 1366
+  size: 461, 29
+  orig: 461, 29
+  offset: 0, 0
+  index: -1
+dragon_stra_baby_r_leg
+  rotate: true
+  xy: 466, 1949
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+dragon_4130_critical_eff_a1
+  rotate: false
+  xy: 331, 977
+  size: 44, 96
+  orig: 96, 96
+  offset: 25, 0
+  index: -1
+dragon_stra_child_r_foot
+  rotate: true
+  xy: 119, 1829
+  size: 16, 38
+  orig: 16, 38
+  offset: 0, 0
+  index: -1
+dragon_4130_critical_eff08c
+  rotate: true
+  xy: 2, 1366
+  size: 479, 115
+  orig: 479, 115
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_l_face_acc
+  rotate: false
+  xy: 207, 1935
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_f_book
+  rotate: true
+  xy: 443, 877
+  size: 55, 66
+  orig: 55, 66
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_l_arm2
+  rotate: false
+  xy: 334, 1858
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+dragon_stra_child_eye3
+  rotate: true
+  xy: 499, 1152
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+dragon_stra_critical_wing
+  rotate: false
+  xy: 191, 1357
+  size: 108, 201
+  orig: 110, 201
+  offset: 1, 0
+  index: -1
+dragon_stra_adult_e_r_wing_acc
+  rotate: false
+  xy: 457, 1271
+  size: 52, 59
+  orig: 52, 59
+  offset: 0, 0
+  index: -1
+dragon_4130_critical_eff04
+  rotate: true
+  xy: 411, 388
+  size: 487, 95
+  orig: 487, 95
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_e_l_wing_acc
+  rotate: true
+  xy: 441, 969
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+dragon_stra_baby_r_book
+  rotate: false
+  xy: 402, 1854
+  size: 31, 35
+  orig: 67, 35
+  offset: 0, 0
+  index: -1
+dragon_stra_critical_light4
+  rotate: false
+  xy: 327, 860
+  size: 48, 115
+  orig: 48, 115
+  offset: 0, 0
+  index: -1
+dragon_4130_critical_eff_a2
+  rotate: true
+  xy: 418, 1243
+  size: 26, 66
+  orig: 66, 66
+  offset: 21, 0
+  index: -1
+dragon_stra_child_l_face_acc
+  rotate: true
+  xy: 435, 1921
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+dragon_stra_child_r_arm
+  rotate: true
+  xy: 393, 1931
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_e_l_foot
+  rotate: true
+  xy: 443, 934
+  size: 31, 66
+  orig: 31, 66
+  offset: 0, 0
+  index: -1
+dragon_stra_baby_r_arm
+  rotate: true
+  xy: 371, 1858
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_r_leg
+  rotate: false
+  xy: 164, 1901
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_face
+  rotate: true
+  xy: 316, 1722
+  size: 91, 62
+  orig: 113, 62
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_mouth
+  rotate: false
+  xy: 357, 1557
+  size: 34, 13
+  orig: 34, 13
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_r_foot
+  rotate: true
+  xy: 416, 1407
+  size: 27, 56
+  orig: 27, 56
+  offset: 0, 0
+  index: -1
+dragon_stra_child_tail3
+  rotate: false
+  xy: 123, 1950
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_book_acc
+  rotate: false
+  xy: 488, 124
+  size: 14, 116
+  orig: 14, 118
+  offset: 0, 2
+  index: -1
+dragon_stra_baby_l_hand
+  rotate: true
+  xy: 407, 1636
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+dragon_stra_baby_r_ear
+  rotate: true
+  xy: 472, 1523
+  size: 30, 37
+  orig: 32, 37
+  offset: 2, 0
+  index: -1
+dragon_stra_child_l_foot
+  rotate: true
+  xy: 402, 1891
+  size: 17, 37
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_tail
+  rotate: true
+  xy: 407, 1569
+  size: 65, 42
+  orig: 65, 42
+  offset: 0, 0
+  index: -1
+dragon_stra_baby_r_hand
+  rotate: true
+  xy: 248, 1900
+  size: 26, 43
+  orig: 26, 43
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_eye
+  rotate: true
+  xy: 193, 1952
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_l_arm
+  rotate: false
+  xy: 469, 1661
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_r_wing_acc
+  rotate: true
+  xy: 254, 1928
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_eye3
+  rotate: true
+  xy: 499, 1171
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_tail2
+  rotate: false
+  xy: 459, 1042
+  size: 50, 86
+  orig: 50, 86
+  offset: 0, 0
+  index: -1
+dragon_stra_critical_light
+  rotate: false
+  xy: 294, 1574
+  size: 55, 105
+  orig: 57, 105
+  offset: 1, 0
+  index: -1
+dragon_stra_adult_l_wing_acc
+  rotate: true
+  xy: 412, 1436
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_tail_acc
+  rotate: true
+  xy: 474, 1332
+  size: 55, 35
+  orig: 55, 35
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_l_hand
+  rotate: true
+  xy: 482, 1815
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+dragon_stra_baby_l_book
+  rotate: true
+  xy: 459, 1130
+  size: 71, 38
+  orig: 71, 38
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_e_tail
+  rotate: true
+  xy: 357, 1475
+  size: 80, 51
+  orig: 80, 51
+  offset: 0, 0
+  index: -1
+dragon_stra_baby_mouth
+  rotate: true
+  xy: 309, 1928
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+dragon_stra_child_eye2
+  rotate: true
+  xy: 351, 1662
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+dragon_stra_child_l_leg
+  rotate: false
+  xy: 482, 1775
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_e_r_wing
+  rotate: true
+  xy: 264, 1146
+  size: 123, 91
+  orig: 123, 91
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_l_finger
+  rotate: false
+  xy: 441, 1891
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+dragon_stra_child_eye
+  rotate: false
+  xy: 288, 860
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_l_finger2
+  rotate: false
+  xy: 398, 1956
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+dragon_stra_critical_e_light4
+  rotate: false
+  xy: 301, 1351
+  size: 51, 122
+  orig: 51, 122
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_chest
+  rotate: false
+  xy: 416, 1340
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+dragon_stra_child_l_wing
+  rotate: false
+  xy: 264, 1271
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+dragon_stra_child_r_ear
+  rotate: false
+  xy: 330, 1925
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+dragon_stra_child_r_leg2
+  rotate: false
+  xy: 354, 1959
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_book2_move
+  rotate: true
+  xy: 354, 1427
+  size: 46, 56
+  orig: 48, 56
+  offset: 1, 0
+  index: -1
+dragon_stra_adult_l_leg2
+  rotate: true
+  xy: 451, 1569
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+dragon_stra_child_r_hand
+  rotate: false
+  xy: 486, 1231
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_e_l_leg
+  rotate: false
+  xy: 437, 1730
+  size: 43, 63
+  orig: 43, 63
+  offset: 0, 0
+  index: -1
+dragon_stra_child_face
+  rotate: true
+  xy: 409, 1153
+  size: 88, 48
+  orig: 88, 48
+  offset: 0, 0
+  index: -1
+dragon_4130_critical_eff08d
+  rotate: false
+  xy: 2, 2
+  size: 484, 191
+  orig: 484, 191
+  offset: 0, 0
+  index: -1
+dragon_stra_child_tail2
+  rotate: false
+  xy: 207, 1880
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+dragon_4130_critical_eff03
+  rotate: true
+  xy: 288, 388
+  size: 470, 121
+  orig: 470, 121
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_e_r_arm
+  rotate: true
+  xy: 258, 1860
+  size: 38, 53
+  orig: 40, 53
+  offset: 2, 0
+  index: -1
+dragon_stra_adult_eye2
+  rotate: true
+  xy: 248, 1880
+  size: 18, 8
+  orig: 18, 10
+  offset: 0, 1
+  index: -1
+dragon_stra_baby_l_foot
+  rotate: true
+  xy: 399, 1910
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+dragon_stra_child_l_leg2
+  rotate: true
+  xy: 320, 1899
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+dragon_4130_critical_eff06
+  rotate: true
+  xy: 2, 877
+  size: 487, 143
+  orig: 487, 143
+  offset: 0, 0
+  index: -1
+dragon_stra_baby_r_foot
+  rotate: true
+  xy: 159, 1818
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+dragon_stra_child_body
+  rotate: true
+  xy: 364, 1662
+  size: 58, 71
+  orig: 58, 71
+  offset: 0, 0
+  index: -1
+dragon_stra_child_l_arm
+  rotate: false
+  xy: 368, 1925
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+dragon_stra_child_l_hand
+  rotate: false
+  xy: 467, 1855
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_e_book2_acc3
+  rotate: false
+  xy: 488, 2
+  size: 14, 120
+  orig: 14, 122
+  offset: 0, 2
+  index: -1
+dragon_stra_child_tail
+  rotate: false
+  xy: 294, 1681
+  size: 68, 39
+  orig: 68, 39
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_paper2
+  rotate: true
+  xy: 357, 1244
+  size: 25, 59
+  orig: 25, 59
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_e_book_light
+  rotate: false
+  xy: 377, 877
+  size: 64, 90
+  orig: 64, 92
+  offset: 0, 1
+  index: -1
+dragon_stra_baby_eye
+  rotate: false
+  xy: 376, 1959
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+dragon_4130_critical_eff02
+  rotate: true
+  xy: 150, 1357
+  size: 459, 39
+  orig: 461, 39
+  offset: 1, 0
+  index: -1
+dragon_stra_adult_e_chest_acc
+  rotate: true
+  xy: 459, 1203
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_paper
+  rotate: true
+  xy: 410, 1537
+  size: 30, 59
+  orig: 32, 59
+  offset: 2, 0
+  index: -1
+dragon_stra_adult_r_wing
+  rotate: false
+  xy: 191, 1722
+  size: 123, 91
+  orig: 123, 91
+  offset: 0, 0
+  index: -1
+dragon_stra_critical_light2
+  rotate: false
+  xy: 264, 1013
+  size: 65, 131
+  orig: 65, 131
+  offset: 0, 0
+  index: -1
+dragon_stra_child_book
+  rotate: true
+  xy: 451, 1610
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+dragon_stra_child_r_wing
+  rotate: false
+  xy: 357, 1146
+  size: 50, 96
+  orig: 50, 96
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_e_book2_light
+  rotate: false
+  xy: 301, 1475
+  size: 54, 97
+  orig: 54, 97
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_l_foot
+  rotate: false
+  xy: 437, 1662
+  size: 30, 66
+  orig: 30, 66
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_book2
+  rotate: true
+  xy: 258, 1815
+  size: 43, 57
+  orig: 43, 57
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_e_f_book
+  rotate: false
+  xy: 380, 1722
+  size: 55, 83
+  orig: 55, 83
+  offset: 0, 0
+  index: -1
+dragon_stra_baby_eye2
+  rotate: false
+  xy: 459, 1231
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_r_face_acc
+  rotate: false
+  xy: 293, 1900
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_b_paper
+  rotate: true
+  xy: 191, 1815
+  size: 22, 65
+  orig: 22, 65
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_r_arm
+  rotate: false
+  xy: 471, 1555
+  size: 38, 53
+  orig: 40, 53
+  offset: 2, 0
+  index: -1
+dragon_stra_adult_l_leg
+  rotate: false
+  xy: 437, 1795
+  size: 43, 57
+  orig: 43, 57
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_e_face
+  rotate: true
+  xy: 377, 969
+  size: 91, 62
+  orig: 113, 62
+  offset: 0, 0
+  index: -1
+dragon_stra_adult_book_light
+  rotate: false
+  xy: 354, 1345
+  size: 60, 80
+  orig: 60, 82
+  offset: 0, 1
+  index: -1
+dragon_stra_baby_tail
+  rotate: false
+  xy: 205, 1839
+  size: 51, 39
+  orig: 51, 39
+  offset: 0, 0
+  index: -1
+dragon_stra_baby_body
+  rotate: false
+  xy: 474, 1389
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+dragon_4130_critical_eff08a
+  rotate: false
+  xy: 2, 195
+  size: 484, 191
+  orig: 484, 191
+  offset: 0, 0
+  index: -1

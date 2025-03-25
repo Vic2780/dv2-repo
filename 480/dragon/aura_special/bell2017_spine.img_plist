@@ -1,0 +1,53 @@
+bell2017_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+bell1
+  rotate: false
+  xy: 2, 215
+  size: 109, 97
+  orig: 113, 113
+  offset: 2, 12
+  index: -1
+summer_b3
+  rotate: false
+  xy: 63, 332
+  size: 39, 39
+  orig: 43, 45
+  offset: 1, 3
+  index: -1
+bell2
+  rotate: true
+  xy: 2, 314
+  size: 69, 59
+  orig: 113, 113
+  offset: 41, 15
+  index: -1
+bell_bg
+  rotate: false
+  xy: 2, 116
+  size: 109, 97
+  orig: 113, 113
+  offset: 2, 12
+  index: -1
+eff
+  rotate: false
+  xy: 2, 2
+  size: 112, 112
+  orig: 150, 150
+  offset: 19, 19
+  index: -1
+bell_d2
+  rotate: true
+  xy: 63, 314
+  size: 16, 43
+  orig: 16, 43
+  offset: 0, 0
+  index: -1
+bell_d1
+  rotate: false
+  xy: 63, 373
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1327 @@
+dragon_4181_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_centura_adult_hair
+  rotate: false
+  xy: 391, 1961
+  size: 83, 67
+  orig: 85, 69
+  offset: 1, 1
+  index: -1
+dragon_centura_child_wing1
+  rotate: false
+  xy: 654, 785
+  size: 92, 57
+  orig: 92, 57
+  offset: 0, 0
+  index: -1
+dragon_centura_e_body1_effect
+  rotate: true
+  xy: 674, 162
+  size: 68, 72
+  orig: 70, 72
+  offset: 1, 0
+  index: -1
+dragon_centura_e_head1_effect
+  rotate: false
+  xy: 455, 819
+  size: 50, 80
+  orig: 50, 82
+  offset: 0, 0
+  index: -1
+dragon_centura_child_wing2
+  rotate: true
+  xy: 459, 967
+  size: 77, 59
+  orig: 77, 59
+  offset: 0, 0
+  index: -1
+dragon_centura_child_arm_l2
+  rotate: false
+  xy: 226, 1952
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+dragon_centura_child_arm_l1
+  rotate: false
+  xy: 713, 1697
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+dragon_centura_child_arm_r1_effect
+  rotate: true
+  xy: 679, 1716
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+dragon_centura_child_arm_l3
+  rotate: true
+  xy: 252, 1584
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+dragon_centura_e_arm_r1_effect
+  rotate: true
+  xy: 650, 1039
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+dragon_centura_e_hand2
+  rotate: true
+  xy: 276, 1065
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+dragon_centura_baby_body
+  rotate: true
+  xy: 623, 1578
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+dragon_centura_child_head
+  rotate: true
+  xy: 572, 1891
+  size: 68, 76
+  orig: 68, 76
+  offset: 0, 0
+  index: -1
+dragon_centura_child_tail
+  rotate: false
+  xy: 392, 1889
+  size: 100, 70
+  orig: 102, 70
+  offset: 1, 0
+  index: -1
+dragon_centura_e_arm_l2
+  rotate: true
+  xy: 654, 1829
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+dragon_centura_e_body2_effect
+  rotate: true
+  xy: 455, 901
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+dragon_centura_child_body1_effect
+  rotate: false
+  xy: 708, 1417
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+dragon_centura_e_wing1_effect
+  rotate: true
+  xy: 176, 183
+  size: 178, 158
+  orig: 178, 158
+  offset: 0, 0
+  index: -1
+dragon_centura_child_wing1_effect
+  rotate: false
+  xy: 654, 726
+  size: 92, 57
+  orig: 92, 57
+  offset: 0, 0
+  index: -1
+dragon_centura_e_arm_l1
+  rotate: true
+  xy: 713, 1730
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+dragon_centura_child_body1
+  rotate: false
+  xy: 708, 1457
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+dragon_centura_child_arm_l1_effect
+  rotate: false
+  xy: 713, 1664
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_arm_r1
+  rotate: true
+  xy: 617, 1485
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+dragon_centura_child_body2
+  rotate: true
+  xy: 697, 1534
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+dragon_centura_baby_head
+  rotate: true
+  xy: 553, 1961
+  size: 67, 75
+  orig: 67, 75
+  offset: 0, 0
+  index: -1
+dragon_4181_critical_eff06
+  rotate: false
+  xy: 485, 525
+  size: 88, 111
+  orig: 180, 191
+  offset: 34, 30
+  index: -1
+dragon_4181_critical_eff08
+  rotate: false
+  xy: 419, 1376
+  size: 136, 129
+  orig: 180, 191
+  offset: 14, 30
+  index: -1
+dragon_centura_adult_leg_r2
+  rotate: false
+  xy: 703, 1497
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+dragon_centura_baby_tail
+  rotate: false
+  xy: 240, 1015
+  size: 71, 48
+  orig: 71, 48
+  offset: 0, 0
+  index: -1
+dragon_4181_critical_eff07
+  rotate: false
+  xy: 419, 1507
+  size: 136, 129
+  orig: 180, 191
+  offset: 14, 30
+  index: -1
+dragon_centura_adult_arm_r2
+  rotate: false
+  xy: 630, 2016
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+dragon_4181_critical_eff02
+  rotate: true
+  xy: 649, 411
+  size: 116, 87
+  orig: 180, 191
+  offset: 64, 72
+  index: -1
+dragon_centura_adult_arm_r3
+  rotate: true
+  xy: 641, 1693
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1
+dragon_4181_critical_eff09
+  rotate: false
+  xy: 313, 967
+  size: 144, 127
+  orig: 180, 191
+  offset: 11, 32
+  index: -1
+dragon_4181_critical_eff04
+  rotate: false
+  xy: 283, 1386
+  size: 134, 99
+  orig: 180, 191
+  offset: 43, 60
+  index: -1
+dragon_4181_critical_eff03
+  rotate: true
+  xy: 649, 411
+  size: 116, 87
+  orig: 180, 191
+  offset: 64, 72
+  index: -1
+dragon_centura_e_tail1_effect
+  rotate: true
+  xy: 336, 236
+  size: 125, 71
+  orig: 125, 71
+  offset: 0, 0
+  index: -1
+dragon_4181_critical_eff05
+  rotate: false
+  xy: 664, 300
+  size: 82, 109
+  orig: 180, 191
+  offset: 34, 30
+  index: -1
+dragon_centura_adult_body1
+  rotate: false
+  xy: 515, 894
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_leg_r1_effect
+  rotate: false
+  xy: 690, 2
+  size: 56, 68
+  orig: 56, 68
+  offset: 0, 0
+  index: -1
+dragon_4181_critical_eff00
+  rotate: true
+  xy: 705, 1093
+  size: 68, 31
+  orig: 180, 191
+  offset: 112, 127
+  index: -1
+dragon_centura_child_neck_effect
+  rotate: true
+  xy: 669, 1429
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_leg_r1
+  rotate: false
+  xy: 690, 72
+  size: 56, 68
+  orig: 56, 68
+  offset: 0, 0
+  index: -1
+dragon_centura_child_leg2_effect
+  rotate: false
+  xy: 708, 1273
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+dragon_4181_critical_eff01
+  rotate: true
+  xy: 705, 1093
+  size: 68, 31
+  orig: 180, 191
+  offset: 112, 127
+  index: -1
+dragon_centura_adult_neck
+  rotate: true
+  xy: 611, 1306
+  size: 59, 49
+  orig: 59, 49
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_body2
+  rotate: false
+  xy: 557, 1578
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_tail1
+  rotate: true
+  xy: 487, 638
+  size: 125, 71
+  orig: 125, 71
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_body3
+  rotate: true
+  xy: 664, 1995
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_arm_l2_effect
+  rotate: true
+  xy: 650, 1891
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_hand2
+  rotate: true
+  xy: 276, 1065
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_tail2
+  rotate: true
+  xy: 648, 1273
+  size: 29, 55
+  orig: 29, 55
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_tail3
+  rotate: false
+  xy: 267, 2001
+  size: 74, 36
+  orig: 74, 38
+  offset: 0, 1
+  index: -1
+dragon_centura_child_neck
+  rotate: false
+  xy: 685, 1826
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+dragon_centura_e_wing2_effect
+  rotate: true
+  xy: 2, 1588
+  size: 180, 123
+  orig: 180, 123
+  offset: 0, 0
+  index: -1
+dragon_centura_child_arm_r3_effect
+  rotate: true
+  xy: 707, 885
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+dragon_centura_baby_foot
+  rotate: true
+  xy: 665, 1750
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_body2_effect
+  rotate: true
+  xy: 557, 1512
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+dragon_centura_baby_effect2
+  rotate: true
+  xy: 226, 2001
+  size: 41, 39
+  orig: 41, 41
+  offset: 0, 1
+  index: -1
+dragon_centura_e_arm_l2_effect
+  rotate: true
+  xy: 654, 1777
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+dragon_4181_critical_eff22
+  rotate: false
+  xy: 392, 1638
+  size: 136, 125
+  orig: 180, 191
+  offset: 16, 27
+  index: -1
+dragon_4181_critical_eff20
+  rotate: false
+  xy: 252, 1761
+  size: 138, 127
+  orig: 180, 191
+  offset: 14, 26
+  index: -1
+dragon_centura_baby_effect1
+  rotate: false
+  xy: 707, 844
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_wing2_effect
+  rotate: true
+  xy: 127, 1588
+  size: 180, 123
+  orig: 180, 123
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_leg_r2_effect
+  rotate: true
+  xy: 414, 775
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+dragon_4181_critical_eff21
+  rotate: true
+  xy: 416, 1236
+  size: 138, 127
+  orig: 180, 191
+  offset: 14, 26
+  index: -1
+dragon_centura_adult_leg_l1_effect
+  rotate: true
+  xy: 655, 893
+  size: 71, 47
+  orig: 71, 47
+  offset: 0, 0
+  index: -1
+dragon_4181_critical_eff16
+  rotate: false
+  xy: 2, 907
+  size: 160, 171
+  orig: 180, 191
+  offset: 5, 6
+  index: -1
+dragon_centura_e_teeth
+  rotate: false
+  xy: 516, 500
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+dragon_4181_critical_eff18
+  rotate: false
+  xy: 176, 2
+  size: 162, 179
+  orig: 180, 191
+  offset: 5, 0
+  index: -1
+dragon_centura_e_neck_effect
+  rotate: true
+  xy: 532, 1035
+  size: 59, 49
+  orig: 59, 49
+  offset: 0, 0
+  index: -1
+dragon_4181_critical_eff17
+  rotate: false
+  xy: 2, 366
+  size: 162, 179
+  orig: 180, 191
+  offset: 5, 0
+  index: -1
+dragon_4181_critical_eff12
+  rotate: false
+  xy: 86, 1952
+  size: 138, 87
+  orig: 180, 191
+  offset: 33, 39
+  index: -1
+dragon_4181_critical_eff19
+  rotate: true
+  xy: 283, 1244
+  size: 140, 131
+  orig: 180, 191
+  offset: 13, 21
+  index: -1
+dragon_centura_adult_teeth
+  rotate: false
+  xy: 516, 500
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+dragon_4181_critical_eff14
+  rotate: true
+  xy: 2, 1254
+  size: 166, 147
+  orig: 180, 191
+  offset: 11, 16
+  index: -1
+dragon_centura_child_foot1
+  rotate: false
+  xy: 713, 1618
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+dragon_4181_critical_eff13
+  rotate: true
+  xy: 166, 366
+  size: 158, 125
+  orig: 180, 191
+  offset: 21, 25
+  index: -1
+dragon_centura_adult_hair2
+  rotate: false
+  xy: 590, 964
+  size: 58, 74
+  orig: 60, 74
+  offset: 1, 0
+  index: -1
+dragon_4181_critical_eff15
+  rotate: true
+  xy: 164, 863
+  size: 150, 147
+  orig: 180, 191
+  offset: 15, 16
+  index: -1
+dragon_centura_baby_leg
+  rotate: false
+  xy: 696, 2006
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+dragon_4181_critical_eff10
+  rotate: true
+  xy: 416, 1096
+  size: 138, 121
+  orig: 180, 191
+  offset: 12, 37
+  index: -1
+dragon_centura_child_foot2
+  rotate: true
+  xy: 704, 919
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+dragon_4181_critical_eff11
+  rotate: true
+  xy: 293, 363
+  size: 156, 119
+  orig: 180, 191
+  offset: 21, 34
+  index: -1
+dragon_centura_e_wing1
+  rotate: true
+  xy: 2, 547
+  size: 178, 158
+  orig: 178, 158
+  offset: 0, 0
+  index: -1
+dragon_centura_e_wing2
+  rotate: true
+  xy: 2, 1770
+  size: 180, 123
+  orig: 180, 123
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_arm_r3_effect
+  rotate: true
+  xy: 641, 1636
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1
+dragon_centura_e_wing3
+  rotate: true
+  xy: 530, 1638
+  size: 137, 109
+  orig: 137, 109
+  offset: 0, 0
+  index: -1
+dragon_centura_baby_arm1
+  rotate: false
+  xy: 681, 1897
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+dragon_centura_e_neck
+  rotate: true
+  xy: 597, 1245
+  size: 59, 49
+  orig: 59, 49
+  offset: 0, 0
+  index: -1
+dragon_centura_baby_arm2
+  rotate: true
+  xy: 669, 1392
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_leg_l2_effect
+  rotate: false
+  xy: 617, 1544
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+dragon_centura_child_body2_effect
+  rotate: false
+  xy: 662, 1304
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_foot1
+  rotate: false
+  xy: 702, 1018
+  size: 44, 73
+  orig: 44, 73
+  offset: 0, 0
+  index: -1
+dragon_centura_e_leg_l1
+  rotate: false
+  xy: 634, 844
+  size: 71, 47
+  orig: 71, 47
+  offset: 0, 0
+  index: -1
+dragon_centura_child_wing2_effect
+  rotate: false
+  xy: 575, 627
+  size: 77, 59
+  orig: 77, 59
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_foot2
+  rotate: false
+  xy: 648, 1218
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+dragon_centura_e_leg_l2
+  rotate: true
+  xy: 630, 1961
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_arm_l1
+  rotate: true
+  xy: 713, 1730
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_leg_l2
+  rotate: true
+  xy: 669, 1464
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+dragon_centura_child_head_effect
+  rotate: true
+  xy: 494, 1891
+  size: 68, 76
+  orig: 68, 76
+  offset: 0, 0
+  index: -1
+dragon_centura_e_tail1
+  rotate: true
+  xy: 412, 521
+  size: 125, 71
+  orig: 125, 71
+  offset: 0, 0
+  index: -1
+dragon_centura_child_hair1
+  rotate: false
+  xy: 685, 1753
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_arm_l2
+  rotate: true
+  xy: 664, 1943
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+dragon_centura_e_tail2
+  rotate: true
+  xy: 648, 1273
+  size: 29, 55
+  orig: 29, 55
+  offset: 0, 0
+  index: -1
+dragon_centura_baby_leg_effect
+  rotate: false
+  xy: 713, 1897
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+dragon_centura_e_leg_l1_effect
+  rotate: false
+  xy: 459, 1046
+  size: 71, 47
+  orig: 71, 47
+  offset: 0, 0
+  index: -1
+dragon_centura_e_tail3
+  rotate: false
+  xy: 150, 1546
+  size: 74, 37
+  orig: 74, 37
+  offset: 0, 0
+  index: -1
+dragon_centura_child_hair2
+  rotate: false
+  xy: 703, 1216
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
+dragon_centura_child_hair3
+  rotate: true
+  xy: 654, 635
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+dragon_4181_e_critical_eff06
+  rotate: false
+  xy: 2, 1952
+  size: 82, 90
+  orig: 180, 182
+  offset: 46, 53
+  index: -1
+dragon_centura_adult_leg_l1
+  rotate: true
+  xy: 650, 966
+  size: 71, 47
+  orig: 71, 47
+  offset: 0, 0
+  index: -1
+dragon_4181_e_critical_eff07
+  rotate: false
+  xy: 654, 529
+  size: 92, 104
+  orig: 180, 182
+  offset: 43, 45
+  index: -1
+dragon_4181_e_critical_eff08
+  rotate: false
+  xy: 414, 174
+  size: 94, 106
+  orig: 180, 182
+  offset: 43, 44
+  index: -1
+dragon_4181_e_critical_eff09
+  rotate: false
+  xy: 525, 411
+  size: 122, 112
+  orig: 180, 182
+  offset: 32, 38
+  index: -1
+dragon_4181_e_critical_eff04
+  rotate: false
+  xy: 340, 174
+  size: 72, 60
+  orig: 180, 182
+  offset: 49, 62
+  index: -1
+dragon_centura_e_body1
+  rotate: false
+  xy: 586, 894
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1
+dragon_4181_e_critical_eff05
+  rotate: false
+  xy: 674, 232
+  size: 72, 60
+  orig: 180, 182
+  offset: 48, 61
+  index: -1
+dragon_centura_child_tail_effect
+  rotate: true
+  xy: 575, 525
+  size: 100, 70
+  orig: 102, 70
+  offset: 1, 0
+  index: -1
+dragon_centura_baby_arm1_effect
+  rotate: true
+  xy: 685, 1865
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+dragon_centura_e_body2
+  rotate: false
+  xy: 545, 1312
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+dragon_centura_e_effect2
+  rotate: true
+  xy: 539, 1096
+  size: 77, 53
+  orig: 77, 53
+  offset: 0, 0
+  index: -1
+dragon_centura_e_effect3
+  rotate: false
+  xy: 539, 1175
+  size: 60, 59
+  orig: 60, 61
+  offset: 0, 1
+  index: -1
+dragon_centura_e_effect4
+  rotate: false
+  xy: 520, 964
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+dragon_centura_e_body3
+  rotate: false
+  xy: 343, 2001
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+dragon_centura_child_arm_r2
+  rotate: false
+  xy: 166, 526
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+dragon_centura_child_arm_r1
+  rotate: true
+  xy: 695, 1937
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+dragon_centura_e_effect1
+  rotate: false
+  xy: 560, 773
+  size: 83, 44
+  orig: 83, 44
+  offset: 0, 0
+  index: -1
+dragon_centura_child_arm_r3
+  rotate: false
+  xy: 685, 1785
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_neck_effect
+  rotate: true
+  xy: 647, 1157
+  size: 59, 49
+  orig: 59, 49
+  offset: 0, 0
+  index: -1
+dragon_centura_child_hand1
+  rotate: false
+  xy: 696, 1974
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+dragon_centura_child_hand2
+  rotate: false
+  xy: 485, 500
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+dragon_centura_e_hand_r1
+  rotate: false
+  xy: 699, 966
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_tail1_effect
+  rotate: true
+  xy: 414, 648
+  size: 125, 71
+  orig: 125, 71
+  offset: 0, 0
+  index: -1
+dragon_4181_e_critical_eff26
+  rotate: true
+  xy: 283, 1487
+  size: 138, 134
+  orig: 180, 182
+  offset: 15, 16
+  index: -1
+dragon_centura_adult_wing3_effect
+  rotate: true
+  xy: 414, 361
+  size: 137, 109
+  orig: 137, 109
+  offset: 0, 0
+  index: -1
+dragon_4181_e_critical_eff27
+  rotate: true
+  xy: 151, 1408
+  size: 136, 130
+  orig: 180, 182
+  offset: 18, 16
+  index: -1
+dragon_4181_e_critical_eff28
+  rotate: false
+  xy: 392, 1765
+  size: 136, 122
+  orig: 180, 182
+  offset: 18, 25
+  index: -1
+dragon_centura_adult_arm_r1_effect
+  rotate: true
+  xy: 617, 1426
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+dragon_centura_e_leg_r1_effect
+  rotate: false
+  xy: 557, 1372
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+dragon_4181_e_critical_eff22
+  rotate: true
+  xy: 162, 705
+  size: 156, 148
+  orig: 180, 182
+  offset: 4, 11
+  index: -1
+dragon_4181_e_critical_eff23
+  rotate: true
+  xy: 313, 819
+  size: 146, 140
+  orig: 180, 182
+  offset: 16, 22
+  index: -1
+dragon_4181_e_critical_eff24
+  rotate: true
+  xy: 276, 1096
+  size: 146, 138
+  orig: 180, 182
+  offset: 17, 24
+  index: -1
+dragon_4181_e_critical_eff25
+  rotate: false
+  xy: 252, 1627
+  size: 138, 132
+  orig: 180, 182
+  offset: 16, 20
+  index: -1
+dragon_centura_e_arm_r2
+  rotate: false
+  xy: 630, 2016
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+dragon_centura_e_arm_r3
+  rotate: false
+  xy: 226, 1546
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1
+dragon_4181_e_critical_eff20
+  rotate: false
+  xy: 510, 162
+  size: 162, 136
+  orig: 180, 182
+  offset: 7, 18
+  index: -1
+dragon_centura_adult_hand_r1
+  rotate: false
+  xy: 699, 966
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+dragon_4181_e_critical_eff21
+  rotate: true
+  xy: 162, 547
+  size: 156, 142
+  orig: 180, 182
+  offset: 6, 13
+  index: -1
+dragon_centura_e_arm_r1
+  rotate: true
+  xy: 617, 1367
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+dragon_centura_baby_hair
+  rotate: true
+  xy: 560, 688
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+dragon_4181_e_critical_eff16
+  rotate: false
+  xy: 340, 2
+  size: 168, 170
+  orig: 180, 182
+  offset: 1, 6
+  index: -1
+dragon_4181_e_critical_eff17
+  rotate: false
+  xy: 2, 184
+  size: 172, 180
+  orig: 180, 182
+  offset: 0, 0
+  index: -1
+dragon_4181_e_critical_eff18
+  rotate: false
+  xy: 2, 2
+  size: 172, 180
+  orig: 180, 182
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_head1_effect
+  rotate: false
+  xy: 545, 1236
+  size: 50, 74
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+dragon_4181_e_critical_eff19
+  rotate: true
+  xy: 151, 1244
+  size: 162, 130
+  orig: 180, 182
+  offset: 8, 23
+  index: -1
+dragon_centura_e_foot1
+  rotate: false
+  xy: 601, 1170
+  size: 44, 73
+  orig: 44, 73
+  offset: 0, 0
+  index: -1
+dragon_4181_e_critical_eff12
+  rotate: true
+  xy: 312, 671
+  size: 146, 100
+  orig: 180, 182
+  offset: 30, 39
+  index: -1
+dragon_4181_e_critical_eff13
+  rotate: true
+  xy: 150, 1080
+  size: 162, 124
+  orig: 180, 182
+  offset: 18, 28
+  index: -1
+dragon_4181_e_critical_eff14
+  rotate: true
+  xy: 2, 1422
+  size: 164, 146
+  orig: 180, 182
+  offset: 16, 18
+  index: -1
+dragon_centura_e_foot2
+  rotate: false
+  xy: 648, 1218
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+dragon_4181_e_critical_eff15
+  rotate: true
+  xy: 2, 1080
+  size: 172, 146
+  orig: 180, 182
+  offset: 0, 19
+  index: -1
+dragon_4181_e_critical_eff10
+  rotate: false
+  xy: 530, 1777
+  size: 122, 112
+  orig: 180, 182
+  offset: 31, 39
+  index: -1
+dragon_4181_e_critical_eff11
+  rotate: true
+  xy: 306, 521
+  size: 148, 104
+  orig: 180, 182
+  offset: 32, 35
+  index: -1
+dragon_centura_adult_effect1
+  rotate: false
+  xy: 487, 765
+  size: 71, 45
+  orig: 71, 45
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_effect2
+  rotate: false
+  xy: 583, 1040
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_effect3
+  rotate: false
+  xy: 646, 1098
+  size: 57, 57
+  orig: 59, 59
+  offset: 1, 1
+  index: -1
+dragon_centura_child_leg1_effect
+  rotate: false
+  xy: 679, 1618
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+dragon_centura_baby_head_effect
+  rotate: true
+  xy: 476, 1961
+  size: 67, 75
+  orig: 67, 75
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_head1
+  rotate: false
+  xy: 594, 1094
+  size: 50, 74
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_wing1
+  rotate: true
+  xy: 2, 727
+  size: 178, 158
+  orig: 178, 158
+  offset: 0, 0
+  index: -1
+dragon_centura_e_leg_r1
+  rotate: false
+  xy: 557, 1442
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_head2
+  rotate: false
+  xy: 641, 1750
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+dragon_centura_e_leg_r2
+  rotate: true
+  xy: 451, 775
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+dragon_centura_e_wing3_effect
+  rotate: false
+  xy: 252, 1890
+  size: 137, 109
+  orig: 137, 109
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_wing2
+  rotate: true
+  xy: 127, 1770
+  size: 180, 123
+  orig: 180, 123
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_wing3
+  rotate: false
+  xy: 525, 300
+  size: 137, 109
+  orig: 137, 109
+  offset: 0, 0
+  index: -1
+dragon_centura_child_leg1
+  rotate: false
+  xy: 679, 1667
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+dragon_centura_child_leg2
+  rotate: false
+  xy: 708, 1325
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_body1_effect
+  rotate: false
+  xy: 559, 819
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+dragon_centura_e_head1
+  rotate: false
+  xy: 507, 812
+  size: 50, 80
+  orig: 50, 82
+  offset: 0, 0
+  index: -1
+dragon_centura_e_hair1
+  rotate: false
+  xy: 409, 282
+  size: 92, 77
+  orig: 92, 79
+  offset: 0, 1
+  index: -1
+dragon_centura_e_head2
+  rotate: true
+  xy: 669, 1520
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+dragon_centura_e_hair2
+  rotate: true
+  xy: 164, 1015
+  size: 63, 74
+  orig: 63, 74
+  offset: 0, 0
+  index: -1
+dragon_centura_adult_wing1_effect
+  rotate: false
+  xy: 510, 2
+  size: 178, 158
+  orig: 178, 158
+  offset: 0, 0
+  index: -1
+dragon_centura_child_effect1
+  rotate: true
+  xy: 698, 1163
+  size: 51, 38
+  orig: 51, 38
+  offset: 0, 0
+  index: -1
+dragon_centura_child_effect2
+  rotate: false
+  xy: 676, 1580
+  size: 49, 36
+  orig: 49, 36
+  offset: 0, 0
+  index: -1
+dragon_centura_child_effect3
+  rotate: false
+  xy: 708, 1377
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+dragon_centura_baby_arm2_effect
+  rotate: true
+  xy: 669, 1355
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1

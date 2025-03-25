@@ -1,0 +1,894 @@
+dragon_4202_spine.pvr.ccz
+size: 512, 1937
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_icarus_adult_arm1_l
+  rotate: false
+  xy: 394, 1878
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+dragon_icarus_adult_arm1_r
+  rotate: true
+  xy: 481, 1196
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+dragon_icarus_adult_arm2_l
+  rotate: false
+  xy: 446, 1596
+  size: 35, 57
+  orig: 35, 57
+  offset: 0, 0
+  index: -1
+dragon_icarus_adult_arm2_r
+  rotate: true
+  xy: 181, 1809
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+dragon_icarus_adult_body_armor1
+  rotate: false
+  xy: 473, 215
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+dragon_icarus_adult_face1
+  rotate: false
+  xy: 503, 486
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+dragon_icarus_adult_face2
+  rotate: false
+  xy: 503, 500
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+dragon_icarus_adult_face3
+  rotate: false
+  xy: 503, 470
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+dragon_icarus_adult_foot_l
+  rotate: true
+  xy: 463, 594
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+dragon_icarus_adult_foot_r
+  rotate: false
+  xy: 279, 1618
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+dragon_icarus_adult_hand_l
+  rotate: false
+  xy: 304, 1797
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+dragon_icarus_adult_hand_r
+  rotate: false
+  xy: 474, 1159
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+dragon_icarus_adult_head1
+  rotate: false
+  xy: 334, 1610
+  size: 51, 62
+  orig: 51, 62
+  offset: 0, 0
+  index: -1
+dragon_icarus_adult_head2
+  rotate: true
+  xy: 481, 943
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+dragon_icarus_adult_leg1_l
+  rotate: false
+  xy: 465, 1906
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+dragon_icarus_adult_leg1_r
+  rotate: true
+  xy: 481, 1053
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+dragon_icarus_adult_leg2_l
+  rotate: false
+  xy: 238, 1797
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+dragon_icarus_adult_leg2_r
+  rotate: true
+  xy: 330, 1674
+  size: 41, 69
+  orig: 41, 69
+  offset: 0, 0
+  index: -1
+dragon_icarus_adult_leg3_l
+  rotate: true
+  xy: 394, 1832
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+dragon_icarus_adult_leg3_r
+  rotate: false
+  xy: 483, 1590
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+dragon_icarus_adult_tail1
+  rotate: false
+  xy: 318, 854
+  size: 148, 94
+  orig: 148, 94
+  offset: 0, 0
+  index: -1
+dragon_icarus_adult_tail2
+  rotate: false
+  xy: 171, 1858
+  size: 29, 78
+  orig: 29, 78
+  offset: 0, 0
+  index: -1
+dragon_icarus_adult_tail3
+  rotate: false
+  xy: 387, 1596
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+dragon_icarus_adult_tail4
+  rotate: false
+  xy: 401, 1655
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+dragon_icarus_adult_wing1_l
+  rotate: false
+  xy: 279, 1506
+  size: 46, 110
+  orig: 46, 110
+  offset: 0, 0
+  index: -1
+dragon_icarus_adult_wing1_r
+  rotate: true
+  xy: 362, 1196
+  size: 98, 117
+  orig: 98, 117
+  offset: 0, 0
+  index: -1
+dragon_icarus_adult_wing2_l
+  rotate: false
+  xy: 183, 1509
+  size: 94, 157
+  orig: 94, 157
+  offset: 0, 0
+  index: -1
+dragon_icarus_adult_wing2_l2
+  rotate: false
+  xy: 266, 950
+  size: 94, 157
+  orig: 94, 157
+  offset: 0, 0
+  index: -1
+dragon_icarus_adult_wing2_r
+  rotate: true
+  xy: 323, 470
+  size: 190, 138
+  orig: 190, 138
+  offset: 0, 0
+  index: -1
+dragon_icarus_adult_wing2_r2
+  rotate: false
+  xy: 323, 332
+  size: 188, 136
+  orig: 188, 136
+  offset: 0, 0
+  index: -1
+dragon_icarus_baby_arm_l
+  rotate: true
+  xy: 434, 1875
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+dragon_icarus_baby_arm_r
+  rotate: true
+  xy: 414, 299
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+dragon_icarus_baby_body
+  rotate: true
+  xy: 416, 1488
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+dragon_icarus_baby_body_armor
+  rotate: true
+  xy: 428, 1906
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+dragon_icarus_baby_effect1
+  rotate: false
+  xy: 455, 1710
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+dragon_icarus_baby_effect2
+  rotate: false
+  xy: 469, 1549
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+dragon_icarus_baby_effect3
+  rotate: false
+  xy: 473, 1438
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+dragon_icarus_baby_effect4
+  rotate: false
+  xy: 492, 1731
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+dragon_icarus_baby_eye1
+  rotate: true
+  xy: 485, 1768
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+dragon_icarus_baby_eye2
+  rotate: false
+  xy: 481, 1278
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+dragon_icarus_baby_eye3
+  rotate: false
+  xy: 454, 1768
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+dragon_icarus_baby_foot_l
+  rotate: true
+  xy: 309, 1278
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+dragon_icarus_baby_foot_r
+  rotate: false
+  xy: 488, 1899
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+dragon_icarus_baby_head1
+  rotate: true
+  xy: 236, 1721
+  size: 74, 52
+  orig: 74, 52
+  offset: 0, 0
+  index: -1
+dragon_icarus_baby_head2
+  rotate: false
+  xy: 468, 915
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+dragon_icarus_baby_jewel
+  rotate: true
+  xy: 458, 774
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+dragon_icarus_baby_neck
+  rotate: true
+  xy: 468, 175
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+dragon_icarus_baby_tail
+  rotate: true
+  xy: 468, 110
+  size: 63, 43
+  orig: 63, 43
+  offset: 0, 0
+  index: -1
+dragon_icarus_baby_wing1_l
+  rotate: false
+  xy: 474, 1081
+  size: 19, 76
+  orig: 19, 76
+  offset: 0, 0
+  index: -1
+dragon_icarus_baby_wing1_r
+  rotate: false
+  xy: 202, 1858
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+dragon_icarus_baby_wing2_l
+  rotate: false
+  xy: 387, 1655
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+dragon_icarus_baby_wing2_r
+  rotate: true
+  xy: 495, 1081
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+dragon_icarus_child_arm1_r
+  rotate: false
+  xy: 460, 1788
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+dragon_icarus_child_arm2_r
+  rotate: false
+  xy: 473, 1389
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+dragon_icarus_child_arm_l
+  rotate: true
+  xy: 365, 299
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+dragon_icarus_child_body
+  rotate: true
+  xy: 183, 1668
+  size: 51, 92
+  orig: 51, 92
+  offset: 0, 0
+  index: -1
+dragon_icarus_child_body_armor
+  rotate: true
+  xy: 277, 1673
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+dragon_icarus_child_effect1
+  rotate: false
+  xy: 409, 1421
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1
+dragon_icarus_child_effect2
+  rotate: false
+  xy: 318, 1415
+  size: 57, 83
+  orig: 57, 83
+  offset: 0, 0
+  index: -1
+dragon_icarus_child_effect3
+  rotate: false
+  xy: 468, 1
+  size: 43, 107
+  orig: 43, 107
+  offset: 0, 0
+  index: -1
+dragon_icarus_child_effect4
+  rotate: false
+  xy: 423, 1788
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+dragon_icarus_child_face1
+  rotate: true
+  xy: 473, 315
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+dragon_icarus_child_face2
+  rotate: false
+  xy: 457, 299
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+dragon_icarus_child_foot_l
+  rotate: false
+  xy: 473, 1478
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+dragon_icarus_child_foot_r
+  rotate: true
+  xy: 471, 1348
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+dragon_icarus_child_hand_l_jewel
+  rotate: true
+  xy: 407, 1541
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+dragon_icarus_child_hand_r
+  rotate: false
+  xy: 473, 1516
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+dragon_icarus_child_head
+  rotate: false
+  xy: 181, 1721
+  size: 53, 86
+  orig: 53, 86
+  offset: 0, 0
+  index: -1
+dragon_icarus_child_leg_l
+  rotate: false
+  xy: 385, 1790
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+dragon_icarus_child_leg_r
+  rotate: true
+  xy: 340, 1893
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+dragon_icarus_child_neck
+  rotate: false
+  xy: 471, 1296
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+dragon_icarus_child_tail1
+  rotate: false
+  xy: 455, 1655
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+dragon_icarus_child_tail2
+  rotate: true
+  xy: 104, 1695
+  size: 161, 75
+  orig: 161, 75
+  offset: 0, 0
+  index: -1
+dragon_icarus_child_wing1_l
+  rotate: true
+  xy: 365, 241
+  size: 56, 106
+  orig: 56, 106
+  offset: 0, 0
+  index: -1
+dragon_icarus_child_wing1_r
+  rotate: false
+  xy: 362, 1081
+  size: 110, 113
+  orig: 110, 113
+  offset: 0, 0
+  index: -1
+dragon_icarus_child_wing2_l
+  rotate: false
+  xy: 483, 1626
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+dragon_icarus_child_wing2_r
+  rotate: true
+  xy: 387, 1717
+  size: 71, 27
+  orig: 71, 27
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_arm1_l
+  rotate: false
+  xy: 388, 1906
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_arm1_r
+  rotate: true
+  xy: 481, 1237
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_arm2_l
+  rotate: false
+  xy: 416, 1715
+  size: 36, 71
+  orig: 36, 71
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_arm2_r
+  rotate: false
+  xy: 253, 1858
+  size: 51, 70
+  orig: 51, 70
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_body
+  rotate: false
+  xy: 327, 1500
+  size: 53, 108
+  orig: 53, 108
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_body_armor1
+  rotate: false
+  xy: 473, 265
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_effect1
+  rotate: false
+  xy: 362, 950
+  size: 117, 129
+  orig: 117, 129
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_effect2
+  rotate: false
+  xy: 409, 1296
+  size: 60, 123
+  orig: 60, 123
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_effect3
+  rotate: true
+  xy: 246, 1278
+  size: 152, 61
+  orig: 152, 61
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_face1
+  rotate: false
+  xy: 503, 486
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_face2
+  rotate: false
+  xy: 503, 500
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_face3
+  rotate: false
+  xy: 503, 470
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_foot_l
+  rotate: true
+  xy: 463, 594
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_foot_r
+  rotate: false
+  xy: 279, 1618
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_hand_l
+  rotate: false
+  xy: 304, 1797
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_hand_r
+  rotate: false
+  xy: 468, 1826
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_head1
+  rotate: false
+  xy: 104, 1858
+  size: 65, 78
+  orig: 65, 78
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_head2
+  rotate: true
+  xy: 481, 970
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_leg1_l
+  rotate: false
+  xy: 336, 1259
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_leg1_r
+  rotate: false
+  xy: 454, 1731
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_leg2_l
+  rotate: false
+  xy: 321, 1717
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_leg2_r
+  rotate: false
+  xy: 468, 841
+  size: 41, 72
+  orig: 41, 72
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_leg3_l
+  rotate: true
+  xy: 431, 1829
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_leg3_r
+  rotate: false
+  xy: 472, 1863
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_neck
+  rotate: false
+  xy: 339, 1784
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_tail1
+  rotate: true
+  xy: 266, 1109
+  size: 148, 94
+  orig: 148, 94
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_tail2
+  rotate: false
+  xy: 171, 1858
+  size: 29, 78
+  orig: 29, 78
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_tail3
+  rotate: true
+  xy: 246, 1432
+  size: 72, 70
+  orig: 72, 70
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_tail4
+  rotate: false
+  xy: 340, 1833
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_wing1_l
+  rotate: false
+  xy: 458, 662
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_wing1_r
+  rotate: false
+  xy: 309, 1296
+  size: 98, 117
+  orig: 98, 117
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_wing2_l
+  rotate: false
+  xy: 183, 1509
+  size: 94, 157
+  orig: 94, 157
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_wing2_l2
+  rotate: false
+  xy: 266, 950
+  size: 94, 157
+  orig: 94, 157
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_wing2_r
+  rotate: true
+  xy: 318, 662
+  size: 190, 138
+  orig: 190, 138
+  offset: 0, 0
+  index: -1
+dragon_icarus_e_wing2_r2
+  rotate: false
+  xy: 323, 332
+  size: 188, 136
+  orig: 188, 136
+  offset: 0, 0
+  index: -1
+e_dragon_icarus_critical_cri1_lit
+  rotate: false
+  xy: 1, 1
+  size: 362, 329
+  orig: 362, 329
+  offset: 0, 0
+  index: -1
+e_dragon_icarus_critical_jewelry1
+  rotate: true
+  xy: 266, 1259
+  size: 17, 68
+  orig: 17, 68
+  offset: 0, 0
+  index: -1
+e_dragon_icarus_critical_jewelry2
+  rotate: false
+  xy: 481, 997
+  size: 18, 54
+  orig: 18, 54
+  offset: 0, 0
+  index: -1
+e_dragon_icarus_critical_jewelry3
+  rotate: false
+  xy: 382, 1491
+  size: 23, 89
+  orig: 23, 89
+  offset: 0, 0
+  index: -1
+e_dragon_icarus_critical_jewelry4
+  rotate: false
+  xy: 306, 1858
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+e_dragon_icarus_critical_jewelry5
+  rotate: false
+  xy: 290, 1716
+  size: 29, 79
+  orig: 29, 79
+  offset: 0, 0
+  index: -1
+e_dragon_icarus_critical_jewelry6
+  rotate: false
+  xy: 377, 1415
+  size: 30, 74
+  orig: 30, 74
+  offset: 0, 0
+  index: -1
+e_dragon_icarus_critical_jewelry7
+  rotate: false
+  xy: 463, 470
+  size: 38, 122
+  orig: 38, 122
+  offset: 0, 0
+  index: -1
+e_dragon_icarus_critical_lightning1
+  rotate: true
+  xy: 1, 947
+  size: 329, 263
+  orig: 329, 317
+  offset: 0, 39
+  index: -1
+e_dragon_icarus_critical_lightning2
+  rotate: false
+  xy: 1, 642
+  size: 315, 303
+  orig: 329, 317
+  offset: 12, 2
+  index: -1
+e_dragon_icarus_critical_lightning3
+  rotate: false
+  xy: 1, 332
+  size: 320, 308
+  orig: 329, 317
+  offset: 9, 5
+  index: -1
+e_dragon_icarus_critical_particle_lit
+  rotate: false
+  xy: 1, 1278
+  size: 243, 229
+  orig: 243, 229
+  offset: 0, 0
+  index: -1
+e_dragon_icarus_critical_wing1
+  rotate: true
+  xy: 365, 1
+  size: 238, 101
+  orig: 240, 101
+  offset: 0, 0
+  index: -1
+e_dragon_icarus_critical_wing2
+  rotate: true
+  xy: 1, 1695
+  size: 237, 101
+  orig: 239, 101
+  offset: 2, 0
+  index: -1
+e_dragon_icarus_pop1
+  rotate: false
+  xy: 1, 1509
+  size: 180, 184
+  orig: 180, 184
+  offset: 0, 0
+  index: -1

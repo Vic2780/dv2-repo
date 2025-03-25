@@ -1,0 +1,704 @@
+dragon_4128_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_daros_child_reg2
+  rotate: true
+  xy: 1745, 169
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+dragon_daros_adult_tail
+  rotate: false
+  xy: 1301, 2
+  size: 129, 88
+  orig: 129, 88
+  offset: 0, 0
+  index: -1
+dragon_daros_critical_sha1
+  rotate: true
+  xy: 2, 2
+  size: 99, 270
+  orig: 99, 300
+  offset: 0, 25
+  index: -1
+dragon_daros_critical_tt4
+  rotate: true
+  xy: 383, 148
+  size: 39, 78
+  orig: 39, 78
+  offset: 0, 0
+  index: -1
+dragon_daros_child_eyelove
+  rotate: false
+  xy: 995, 181
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+dragon_daros_baby_eye3
+  rotate: false
+  xy: 1091, 178
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+dragon_daros_adult_arm2
+  rotate: false
+  xy: 165, 103
+  size: 92, 89
+  orig: 92, 89
+  offset: 0, 0
+  index: -1
+dragon_daros_critical_rock1
+  rotate: true
+  xy: 514, 2
+  size: 82, 214
+  orig: 82, 214
+  offset: 0, 0
+  index: -1
+dragon_daros_child_mouth
+  rotate: true
+  xy: 1500, 158
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+dragon_daros_baby_taillihgt
+  rotate: false
+  xy: 463, 182
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+dragon_daros_critical_t3
+  rotate: false
+  xy: 1134, 2
+  size: 165, 88
+  orig: 165, 92
+  offset: 0, 0
+  index: -1
+dragon_daros_adult_reg3
+  rotate: false
+  xy: 1712, 49
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1
+dragon_daros_adult_reg6
+  rotate: false
+  xy: 1784, 49
+  size: 69, 56
+  orig: 69, 56
+  offset: 0, 0
+  index: -1
+dragon_daros_child_bodylihgt
+  rotate: true
+  xy: 1853, 110
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+dragon_daros_child_eye3
+  rotate: false
+  xy: 1014, 181
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+dragon_daros_baby_reglihgt2
+  rotate: true
+  xy: 1525, 180
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+dragon_daros_baby_arm
+  rotate: false
+  xy: 1858, 163
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+dragon_daros_adult_headlight
+  rotate: false
+  xy: 548, 153
+  size: 71, 43
+  orig: 71, 43
+  offset: 0, 0
+  index: -1
+dragon_daros_baby_eye2
+  rotate: false
+  xy: 1971, 143
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+dragon_daros_child_tail
+  rotate: true
+  xy: 837, 149
+  size: 47, 67
+  orig: 47, 67
+  offset: 0, 0
+  index: -1
+dragon_daros_baby_tail
+  rotate: false
+  xy: 1712, 107
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+dragon_daros_critical_t2
+  rotate: false
+  xy: 2, 103
+  size: 161, 93
+  orig: 161, 93
+  offset: 0, 0
+  index: -1
+dragon_daros_child_arm3
+  rotate: false
+  xy: 1984, 2
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+dragon_daros_baby_reg1
+  rotate: true
+  xy: 1525, 158
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+dragon_daros_critical_m3
+  rotate: true
+  xy: 1699, 27
+  size: 20, 161
+  orig: 20, 161
+  offset: 0, 0
+  index: -1
+dragon_daros_child_reg3
+  rotate: false
+  xy: 1984, 50
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+dragon_daros_child_neck
+  rotate: false
+  xy: 1678, 155
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+dragon_daros_critical_tt3
+  rotate: true
+  xy: 994, 103
+  size: 39, 80
+  orig: 39, 80
+  offset: 0, 0
+  index: -1
+dragon_daros_adult_reg4
+  rotate: true
+  xy: 793, 87
+  size: 56, 73
+  orig: 56, 73
+  offset: 0, 0
+  index: -1
+dragon_daros_critical_band1
+  rotate: false
+  xy: 935, 103
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+dragon_daros_adult_body
+  rotate: true
+  xy: 1134, 92
+  size: 104, 114
+  orig: 104, 114
+  offset: 0, 0
+  index: -1
+dragon_daros_baby_reg4
+  rotate: false
+  xy: 1828, 107
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+dragon_daros_adult_arm3
+  rotate: false
+  xy: 1443, 83
+  size: 59, 69
+  orig: 59, 69
+  offset: 0, 0
+  index: -1
+dragon_daros_adult_head
+  rotate: false
+  xy: 548, 86
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+dragon_daros_baby_eye
+  rotate: true
+  xy: 1956, 165
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+dragon_daros_critical_sha2
+  rotate: true
+  xy: 938, 2
+  size: 99, 194
+  orig: 99, 198
+  offset: 0, 0
+  index: -1
+dragon_daros_critical_tt7
+  rotate: true
+  xy: 1504, 83
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+dragon_daros_adult_reglight
+  rotate: true
+  xy: 955, 149
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1
+dragon_daros_baby_body
+  rotate: false
+  xy: 906, 149
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+dragon_daros_critical_t1
+  rotate: false
+  xy: 1432, 2
+  size: 123, 79
+  orig: 123, 79
+  offset: 0, 0
+  index: -1
+dragon_daros_critical_m2
+  rotate: true
+  xy: 1699, 2
+  size: 23, 166
+  orig: 23, 166
+  offset: 0, 0
+  index: -1
+dragon_daros_critical_rock2
+  rotate: true
+  xy: 274, 2
+  size: 82, 238
+  orig: 82, 238
+  offset: 0, 0
+  index: -1
+dragon_daros_critical_tt2
+  rotate: true
+  xy: 1361, 158
+  size: 38, 101
+  orig: 38, 101
+  offset: 0, 0
+  index: -1
+dragon_daros_child_eye
+  rotate: false
+  xy: 1965, 75
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+dragon_daros_adult_neck
+  rotate: true
+  xy: 1913, 75
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+dragon_daros_child_necklight
+  rotate: false
+  xy: 1783, 170
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+dragon_daros_baby_reglihgt
+  rotate: false
+  xy: 366, 148
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+dragon_daros_adult_arm4
+  rotate: false
+  xy: 467, 86
+  size: 79, 68
+  orig: 79, 68
+  offset: 0, 0
+  index: -1
+dragon_daros_critical_t5
+  rotate: false
+  xy: 1557, 2
+  size: 140, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1
+dragon_daros_child_arm4
+  rotate: false
+  xy: 1717, 135
+  size: 26, 56
+  orig: 26, 56
+  offset: 0, 0
+  index: -1
+dragon_daros_critical_m6
+  rotate: false
+  xy: 1867, 2
+  size: 115, 71
+  orig: 115, 71
+  offset: 0, 0
+  index: -1
+dragon_daros_child_reg4
+  rotate: true
+  xy: 1652, 119
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+dragon_daros_critical_bann2
+  rotate: false
+  xy: 773, 145
+  size: 62, 51
+  orig: 62, 51
+  offset: 0, 0
+  index: -1
+dragon_daros_critical_tt6
+  rotate: true
+  xy: 706, 142
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1
+dragon_daros_adult_reg5
+  rotate: false
+  xy: 1504, 123
+  size: 56, 33
+  orig: 56, 33
+  offset: 0, 0
+  index: -1
+dragon_daros_baby_neck
+  rotate: true
+  xy: 1464, 154
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dragon_love_effect_question
+  rotate: true
+  xy: 995, 144
+  size: 35, 65
+  orig: 39, 67
+  offset: 2, 2
+  index: -1
+dragon_daros_baby_armlight2
+  rotate: true
+  xy: 1062, 178
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+dragon_daros_child_arm1ilhgt
+  rotate: false
+  xy: 1907, 162
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+dragon_daros_adult_armlight
+  rotate: true
+  xy: 1660, 61
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+dragon_daros_baby_reg3
+  rotate: false
+  xy: 1931, 165
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+dragon_daros_critical_m1
+  rotate: false
+  xy: 259, 103
+  size: 13, 68
+  orig: 13, 68
+  offset: 0, 0
+  index: -1
+dragon_daros_adult_bodylight
+  rotate: true
+  xy: 485, 182
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+dragon_daros_adult_reg1
+  rotate: false
+  xy: 1076, 103
+  size: 56, 73
+  orig: 56, 73
+  offset: 0, 0
+  index: -1
+dragon_daros_adult_necklight
+  rotate: false
+  xy: 1837, 137
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+dragon_daros_child_reglight
+  rotate: true
+  xy: 1825, 170
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+dragon_daros_child_arm2ilhgt
+  rotate: true
+  xy: 1975, 162
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+dragon_daros_child_reg6
+  rotate: true
+  xy: 1792, 135
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+dragon_daros_critical_band2
+  rotate: false
+  xy: 1562, 157
+  size: 58, 39
+  orig: 58, 39
+  offset: 0, 0
+  index: -1
+dragon_daros_critical_t4
+  rotate: false
+  xy: 1250, 92
+  size: 140, 64
+  orig: 140, 64
+  offset: 0, 0
+  index: -1
+dragon_daros_child_arm1
+  rotate: true
+  xy: 335, 164
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+dragon_daros_critical_m5
+  rotate: false
+  xy: 1250, 158
+  size: 109, 38
+  orig: 109, 38
+  offset: 0, 0
+  index: -1
+dragon_daros_child_reg1
+  rotate: true
+  xy: 274, 164
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+dragon_daros_child_head
+  rotate: false
+  xy: 376, 86
+  size: 89, 60
+  orig: 89, 60
+  offset: 0, 0
+  index: -1
+dragon_daros_adult_taillight
+  rotate: false
+  xy: 274, 86
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+dragon_daros_critical_tt1
+  rotate: true
+  xy: 621, 153
+  size: 41, 80
+  orig: 41, 80
+  offset: 0, 0
+  index: -1
+dragon_daros_baby_armlight
+  rotate: true
+  xy: 1904, 143
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+dragon_daros_adult_mouth
+  rotate: true
+  xy: 1880, 137
+  size: 24, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+dragon_daros_child_body
+  rotate: true
+  xy: 627, 86
+  size: 65, 77
+  orig: 65, 77
+  offset: 0, 0
+  index: -1
+dragon_daros_baby_reg2
+  rotate: true
+  xy: 1933, 143
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+dragon_daros_child_reg5
+  rotate: false
+  xy: 1623, 119
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+dragon_daros_critical_tt5
+  rotate: false
+  xy: 1965, 96
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+dragon_daros_adult_reg2
+  rotate: false
+  xy: 1855, 75
+  size: 56, 33
+  orig: 56, 33
+  offset: 0, 0
+  index: -1
+dragon_daros_child_headlight
+  rotate: false
+  xy: 706, 87
+  size: 85, 53
+  orig: 85, 53
+  offset: 0, 0
+  index: -1
+dragon_daros_adult_eyede
+  rotate: false
+  xy: 259, 173
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+dragon_daros_critical_m4
+  rotate: false
+  xy: 463, 156
+  size: 76, 24
+  orig: 76, 24
+  offset: 0, 0
+  index: -1
+dragon_daros_critical_rockhi
+  rotate: true
+  xy: 730, 2
+  size: 83, 206
+  orig: 83, 206
+  offset: 0, 0
+  index: -1
+dragon_daros_adult_arm1
+  rotate: true
+  xy: 868, 87
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+dragon_daros_child_eye2
+  rotate: false
+  xy: 1033, 181
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+dragon_daros_baby_head
+  rotate: false
+  xy: 1557, 61
+  size: 101, 56
+  orig: 101, 56
+  offset: 0, 0
+  index: -1
+dragon_daros_baby_headlight
+  rotate: false
+  xy: 274, 148
+  size: 90, 14
+  orig: 90, 14
+  offset: 0, 0
+  index: -1
+dragon_daros_child_taillight
+  rotate: true
+  xy: 1562, 119
+  size: 36, 59
+  orig: 36, 59
+  offset: 0, 0
+  index: -1
+dragon_daros_adult_eye2
+  rotate: false
+  xy: 1052, 181
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+dragon_daros_critical_bannn1
+  rotate: true
+  xy: 1392, 92
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1
+dragon_daros_baby_arm2
+  rotate: false
+  xy: 1882, 163
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+dragon_daros_adult_eyelove
+  rotate: true
+  xy: 1432, 83
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+dragon_daros_adult_arm2light
+  rotate: false
+  xy: 1745, 135
+  size: 45, 32
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+dragon_daros_child_arm2
+  rotate: true
+  xy: 1622, 157
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+dragon_daros_baby_necklight
+  rotate: false
+  xy: 1904, 122
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+dragon_daros_baby_mouth
+  rotate: false
+  xy: 1770, 107
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1

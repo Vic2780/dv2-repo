@@ -1,0 +1,578 @@
+dragon_4141_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_barks_baby_head
+  rotate: false
+  xy: 156, 1428
+  size: 74, 68
+  orig: 74, 68
+  offset: 0, 0
+  index: -1
+dragon_4141_critical_c04
+  rotate: false
+  xy: 2, 1568
+  size: 107, 107
+  orig: 113, 113
+  offset: 3, 3
+  index: -1
+dragon_barks_adult_potionbelt
+  rotate: false
+  xy: 113, 1294
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+dragon_barks_baby_out_leg01
+  rotate: true
+  xy: 111, 1660
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+dragon_barks_baby_potion
+  rotate: false
+  xy: 209, 618
+  size: 43, 61
+  orig: 43, 61
+  offset: 0, 0
+  index: -1
+dragon_barks_baby_in_leg02
+  rotate: true
+  xy: 111, 1697
+  size: 31, 34
+  orig: 31, 36
+  offset: 0, 1
+  index: -1
+dragon_4141_critical_b09
+  rotate: true
+  xy: 113, 1440
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+dragon_barks_baby_in_arm02
+  rotate: true
+  xy: 233, 1423
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+dragon_4141_critical_a03
+  rotate: false
+  xy: 2, 1237
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+dragon_barks_adult_out_arm03
+  rotate: false
+  xy: 113, 1509
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+dragon_barks_adult_in_wing01
+  rotate: true
+  xy: 227, 1499
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+dragon_barks_adult_out_wing01
+  rotate: false
+  xy: 153, 1556
+  size: 68, 27
+  orig: 68, 27
+  offset: 0, 0
+  index: -1
+dragon_barks_adult_neck
+  rotate: true
+  xy: 158, 1248
+  size: 50, 86
+  orig: 50, 86
+  offset: 0, 0
+  index: -1
+dragon_barks_adult_potion02
+  rotate: true
+  xy: 111, 1633
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+dragon_4141_critical_b05
+  rotate: true
+  xy: 209, 681
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+dragon_barks_adult_bag
+  rotate: true
+  xy: 156, 1300
+  size: 50, 83
+  orig: 50, 83
+  offset: 0, 0
+  index: -1
+dragon_barks_baby_mouth02
+  rotate: false
+  xy: 161, 1043
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+dragon_barks_child_in_arm02
+  rotate: false
+  xy: 113, 1539
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+dragon_4141_critical_d02
+  rotate: false
+  xy: 2, 2
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+dragon_barks_baby_in_leg01
+  rotate: true
+  xy: 111, 1603
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+dragon_barks_adult_out_leg03
+  rotate: false
+  xy: 225, 1873
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+dragon_barks_adult_in_leg01
+  rotate: false
+  xy: 189, 987
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+dragon_barks_child_out_head
+  rotate: true
+  xy: 189, 917
+  size: 68, 63
+  orig: 68, 63
+  offset: 0, 0
+  index: -1
+dragon_4141_critical_b08
+  rotate: true
+  xy: 113, 1349
+  size: 51, 41
+  orig: 51, 41
+  offset: 0, 0
+  index: -1
+dragon_4141_critical_a02
+  rotate: false
+  xy: 2, 1458
+  size: 109, 108
+  orig: 109, 108
+  offset: 0, 0
+  index: -1
+dragon_barks_child_in_leg02
+  rotate: true
+  xy: 232, 1460
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+dragon_4141_critical_b01
+  rotate: true
+  xy: 217, 1813
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+dragon_barks_adult_body01
+  rotate: false
+  xy: 150, 1691
+  size: 66, 57
+  orig: 66, 57
+  offset: 0, 0
+  index: -1
+dragon_barks_baby_out_leg02
+  rotate: true
+  xy: 207, 799
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+dragon_barks_adult_head02
+  rotate: false
+  xy: 207, 845
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+dragon_barks_adult_in_leg02
+  rotate: true
+  xy: 227, 1539
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+dragon_barks_baby_body
+  rotate: false
+  xy: 207, 721
+  size: 46, 76
+  orig: 46, 76
+  offset: 0, 0
+  index: -1
+dragon_4141_critical_b04
+  rotate: true
+  xy: 217, 1764
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+dragon_4141_critical_c03
+  rotate: false
+  xy: 2, 1786
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+dragon_barks_adult_in_arm01
+  rotate: false
+  xy: 223, 1576
+  size: 29, 62
+  orig: 29, 62
+  offset: 0, 0
+  index: -1
+dragon_4141_critical_b10
+  rotate: true
+  xy: 113, 1475
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+dragon_barks_child_bag
+  rotate: false
+  xy: 156, 1352
+  size: 75, 74
+  orig: 75, 74
+  offset: 0, 0
+  index: -1
+dragon_barks_child_body
+  rotate: true
+  xy: 2, 990
+  size: 87, 157
+  orig: 87, 157
+  offset: 0, 0
+  index: -1
+dragon_barks_adult_out_arm01
+  rotate: false
+  xy: 56, 1891
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+dragon_barks_child_in_arm01
+  rotate: false
+  xy: 163, 1910
+  size: 29, 56
+  orig: 29, 56
+  offset: 0, 0
+  index: -1
+dragon_barks_child_out_arm02
+  rotate: false
+  xy: 140, 1855
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+dragon_4141_critical_a05
+  rotate: false
+  xy: 2, 1348
+  size: 109, 108
+  orig: 109, 108
+  offset: 0, 0
+  index: -1
+dragon_barks_child_in_leg01
+  rotate: true
+  xy: 153, 1585
+  size: 52, 67
+  orig: 52, 67
+  offset: 0, 0
+  index: -1
+dragon_4141_critical_c02
+  rotate: false
+  xy: 2, 1677
+  size: 107, 107
+  orig: 113, 113
+  offset: 2, 3
+  index: -1
+dragon_barks_adult_tail
+  rotate: false
+  xy: 2, 902
+  size: 185, 86
+  orig: 185, 86
+  offset: 0, 0
+  index: -1
+dragon_4141_critical_d01
+  rotate: false
+  xy: 2, 255
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+dragon_barks_child_potion
+  rotate: true
+  xy: 207, 876
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+dragon_barks_adult_out_leg01
+  rotate: true
+  xy: 154, 1498
+  size: 56, 71
+  orig: 56, 71
+  offset: 0, 0
+  index: -1
+dragon_barks_adult_in_leg03
+  rotate: true
+  xy: 209, 508
+  size: 59, 44
+  orig: 59, 44
+  offset: 0, 0
+  index: -1
+dragon_barks_child_out_wing
+  rotate: false
+  xy: 161, 1058
+  size: 92, 112
+  orig: 92, 112
+  offset: 0, 0
+  index: -1
+dragon_barks_baby_in_tail
+  rotate: true
+  xy: 114, 1910
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+dragon_barks_baby_in_wing
+  rotate: true
+  xy: 220, 1675
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+dragon_4141_critical_b07
+  rotate: true
+  xy: 107, 1855
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+dragon_4141_critical_a01
+  rotate: false
+  xy: 2, 1891
+  size: 52, 66
+  orig: 54, 68
+  offset: 1, 1
+  index: -1
+dragon_barks_adult_body02
+  rotate: true
+  xy: 161, 1172
+  size: 74, 92
+  orig: 74, 92
+  offset: 0, 0
+  index: -1
+dragon_barks_child_out_arm01
+  rotate: false
+  xy: 209, 569
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+dragon_barks_baby_out_wing
+  rotate: true
+  xy: 218, 1709
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+dragon_barks_baby_eye01
+  rotate: false
+  xy: 115, 1198
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+dragon_barks_baby_in_arm01
+  rotate: false
+  xy: 233, 1352
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+dragon_4141_critical_a04
+  rotate: true
+  xy: 2, 508
+  size: 201, 205
+  orig: 203, 207
+  offset: 1, 1
+  index: -1
+dragon_barks_child_out_leg02
+  rotate: false
+  xy: 217, 1849
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+dragon_barks_baby_out_arm01
+  rotate: false
+  xy: 200, 1873
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+dragon_4141_critical_b03
+  rotate: false
+  xy: 220, 1640
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+dragon_barks_adult_eye
+  rotate: true
+  xy: 241, 1319
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+dragon_barks_baby_eye02
+  rotate: false
+  xy: 207, 823
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+dragon_4141_critical_b06
+  rotate: true
+  xy: 113, 1402
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+dragon_barks_child_out_eye02
+  rotate: true
+  xy: 241, 1300
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+dragon_barks_adult_out_arm02
+  rotate: true
+  xy: 115, 1224
+  size: 68, 41
+  orig: 68, 41
+  offset: 0, 0
+  index: -1
+dragon_barks_baby_mouth01
+  rotate: false
+  xy: 207, 907
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+dragon_barks_child_in_wing
+  rotate: true
+  xy: 2, 1170
+  size: 65, 111
+  orig: 65, 111
+  offset: 0, 0
+  index: -1
+dragon_barks_adult_out_wing02
+  rotate: true
+  xy: 2, 711
+  size: 122, 203
+  orig: 122, 203
+  offset: 0, 0
+  index: -1
+dragon_barks_child_out_leg01
+  rotate: false
+  xy: 119, 1079
+  size: 40, 77
+  orig: 40, 77
+  offset: 0, 0
+  index: -1
+dragon_barks_child_tail
+  rotate: false
+  xy: 2, 1079
+  size: 115, 89
+  orig: 115, 89
+  offset: 0, 0
+  index: -1
+dragon_barks_baby_bag
+  rotate: false
+  xy: 161, 990
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+dragon_4141_critical_b02
+  rotate: false
+  xy: 119, 1158
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+dragon_barks_adult_potion
+  rotate: true
+  xy: 207, 876
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+dragon_4141_critical_c01
+  rotate: false
+  xy: 111, 1750
+  size: 104, 103
+  orig: 104, 103
+  offset: 0, 0
+  index: -1
+dragon_barks_adult_in_wing02
+  rotate: true
+  xy: 2, 835
+  size: 65, 203
+  orig: 65, 203
+  offset: 0, 0
+  index: -1
+dragon_barks_adult_head01
+  rotate: false
+  xy: 151, 1639
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+dragon_barks_adult_out_leg02
+  rotate: false
+  xy: 194, 1910
+  size: 29, 55
+  orig: 29, 55
+  offset: 0, 0
+  index: -1
+dragon_barks_baby_out_arm02
+  rotate: true
+  xy: 233, 1384
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+dragon_barks_child_out_eye01
+  rotate: false
+  xy: 189, 902
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1

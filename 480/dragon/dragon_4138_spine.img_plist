@@ -1,0 +1,1223 @@
+dragon_4138_spine.pvr.ccz
+size: 2727, 802
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_love_effect_anger
+  rotate: false
+  xy: 1322, 775
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_body1
+  rotate: false
+  xy: 1739, 707
+  size: 80, 66
+  orig: 80, 66
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_body2
+  rotate: false
+  xy: 2558, 478
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_body3
+  rotate: false
+  xy: 448, 348
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_bodytt1
+  rotate: false
+  xy: 2125, 713
+  size: 82, 47
+  orig: 82, 47
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_eye2
+  rotate: false
+  xy: 826, 764
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_eye3
+  rotate: false
+  xy: 2715, 558
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_eye4
+  rotate: false
+  xy: 2658, 516
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_head
+  rotate: true
+  xy: 2419, 571
+  size: 104, 82
+  orig: 104, 82
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_l_arm1
+  rotate: true
+  xy: 2563, 714
+  size: 23, 52
+  orig: 23, 52
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_l_arm2
+  rotate: false
+  xy: 2334, 689
+  size: 89, 107
+  orig: 89, 107
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_l_foot
+  rotate: false
+  xy: 1684, 723
+  size: 53, 76
+  orig: 53, 76
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_l_hand
+  rotate: true
+  xy: 1821, 711
+  size: 61, 80
+  orig: 61, 80
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_l_reg1
+  rotate: true
+  xy: 2558, 329
+  size: 74, 47
+  orig: 74, 47
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_l_reg2
+  rotate: false
+  xy: 241, 768
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_l_wing1
+  rotate: false
+  xy: 2338, 438
+  size: 75, 134
+  orig: 75, 134
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_l_wing2
+  rotate: false
+  xy: 2252, 575
+  size: 86, 112
+  orig: 86, 112
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_l_winggg1
+  rotate: true
+  xy: 353, 768
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_l_winggg2
+  rotate: false
+  xy: 593, 427
+  size: 14, 50
+  orig: 14, 50
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_l_winggg3
+  rotate: false
+  xy: 2239, 293
+  size: 10, 50
+  orig: 10, 50
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_l_winggg4
+  rotate: false
+  xy: 1837, 518
+  size: 13, 49
+  orig: 13, 49
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_mout
+  rotate: false
+  xy: 2174, 762
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_mout2
+  rotate: false
+  xy: 2432, 417
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_neck
+  rotate: false
+  xy: 2558, 529
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_r_arm1
+  rotate: true
+  xy: 1379, 662
+  size: 89, 96
+  orig: 89, 96
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_r_arm2
+  rotate: false
+  xy: 2126, 619
+  size: 124, 92
+  orig: 124, 92
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_r_foot
+  rotate: false
+  xy: 2583, 235
+  size: 35, 70
+  orig: 35, 70
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_r_hand
+  rotate: true
+  xy: 1477, 657
+  size: 97, 80
+  orig: 97, 80
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_r_reg1
+  rotate: false
+  xy: 1903, 716
+  size: 45, 85
+  orig: 45, 85
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_r_reg2
+  rotate: false
+  xy: 2006, 781
+  size: 56, 20
+  orig: 56, 20
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_r_wing1
+  rotate: false
+  xy: 1543, 518
+  size: 145, 121
+  orig: 145, 121
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_r_wing2
+  rotate: true
+  xy: 1080, 587
+  size: 92, 149
+  orig: 92, 149
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_r_winggi1
+  rotate: false
+  xy: 1231, 662
+  size: 146, 36
+  orig: 146, 36
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_r_winggi2
+  rotate: false
+  xy: 1215, 700
+  size: 132, 73
+  orig: 132, 73
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_r_winggi3
+  rotate: true
+  xy: 836, 685
+  size: 116, 98
+  orig: 116, 98
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_r_winggi4
+  rotate: true
+  xy: 2432, 329
+  size: 86, 124
+  orig: 86, 124
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_tail1
+  rotate: false
+  xy: 2464, 417
+  size: 92, 102
+  orig: 92, 102
+  offset: 0, 0
+  index: -1
+dragon_rookir_adult_tail2
+  rotate: false
+  xy: 1046, 362
+  size: 113, 212
+  orig: 113, 212
+  offset: 0, 0
+  index: -1
+dragon_rookir_baby_body
+  rotate: true
+  xy: 2558, 596
+  size: 49, 62
+  orig: 49, 62
+  offset: 0, 0
+  index: -1
+dragon_rookir_baby_eye2
+  rotate: false
+  xy: 2697, 745
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+dragon_rookir_baby_eye3
+  rotate: true
+  xy: 2614, 739
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+dragon_rookir_baby_head
+  rotate: false
+  xy: 1657, 641
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+dragon_rookir_baby_l_foot
+  rotate: true
+  xy: 2522, 521
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+dragon_rookir_baby_l_git1
+  rotate: false
+  xy: 1559, 738
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+dragon_rookir_baby_l_git2
+  rotate: false
+  xy: 2620, 221
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+dragon_rookir_baby_l_hand
+  rotate: true
+  xy: 201, 768
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+dragon_rookir_baby_mou
+  rotate: true
+  xy: 1543, 756
+  size: 38, 13
+  orig: 38, 13
+  offset: 0, 0
+  index: -1
+dragon_rookir_baby_mout2
+  rotate: true
+  xy: 2715, 516
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+dragon_rookir_baby_r_foot
+  rotate: false
+  xy: 2627, 688
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+dragon_rookir_baby_r_git
+  rotate: false
+  xy: 303, 768
+  size: 48, 32
+  orig: 59, 32
+  offset: 11, 0
+  index: -1
+dragon_rookir_baby_r_git2
+  rotate: false
+  xy: 2510, 743
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+dragon_rookir_baby_r_hand
+  rotate: false
+  xy: 2674, 583
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+dragon_rookir_baby_tail
+  rotate: true
+  xy: 2558, 405
+  size: 71, 46
+  orig: 71, 46
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_body1
+  rotate: true
+  xy: 2622, 583
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_body2
+  rotate: false
+  xy: 2607, 334
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_body3
+  rotate: false
+  xy: 2209, 713
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_eye2
+  rotate: false
+  xy: 2657, 429
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_eye3
+  rotate: false
+  xy: 2492, 777
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_head
+  rotate: true
+  xy: 514, 348
+  size: 77, 93
+  orig: 77, 93
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_l_arm1
+  rotate: true
+  xy: 765, 764
+  size: 37, 59
+  orig: 37, 59
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_l_arm2
+  rotate: true
+  xy: 2613, 478
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_l_foot
+  rotate: true
+  xy: 2627, 637
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_l_hand
+  rotate: true
+  xy: 1350, 756
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_l_reg1
+  rotate: false
+  xy: 1477, 756
+  size: 64, 44
+  orig: 64, 44
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_l_reg2
+  rotate: false
+  xy: 1157, 681
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_l_wing1
+  rotate: true
+  xy: 1922, 649
+  size: 65, 82
+  orig: 65, 82
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_l_wing2
+  rotate: false
+  xy: 1837, 573
+  size: 172, 74
+  orig: 172, 74
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_mout
+  rotate: false
+  xy: 2672, 516
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_mout2
+  rotate: true
+  xy: 1080, 681
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_neck
+  rotate: false
+  xy: 2658, 470
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_r_arm1
+  rotate: false
+  xy: 2674, 432
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_r_arm2
+  rotate: false
+  xy: 2252, 689
+  size: 80, 112
+  orig: 80, 112
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_r_foot
+  rotate: false
+  xy: 2464, 521
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_r_git1
+  rotate: false
+  xy: 2425, 777
+  size: 65, 24
+  orig: 65, 24
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_r_git2
+  rotate: false
+  xy: 2667, 334
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_r_git3
+  rotate: true
+  xy: 2620, 288
+  size: 44, 65
+  orig: 44, 65
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_r_git4
+  rotate: true
+  xy: 693, 764
+  size: 37, 70
+  orig: 37, 70
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_r_hand
+  rotate: true
+  xy: 1950, 716
+  size: 80, 54
+  orig: 80, 54
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_r_reg1
+  rotate: false
+  xy: 1627, 738
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_r_reg2
+  rotate: false
+  xy: 1114, 681
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_r_wing1
+  rotate: false
+  xy: 419, 392
+  size: 93, 124
+  orig: 93, 124
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_r_wing2
+  rotate: false
+  xy: 2365, 311
+  size: 65, 125
+  orig: 65, 125
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_tail
+  rotate: true
+  xy: 609, 620
+  size: 181, 82
+  orig: 181, 82
+  offset: 0, 0
+  index: -1
+dragon_rookir_child_tee
+  rotate: true
+  xy: 2510, 674
+  size: 67, 51
+  orig: 67, 51
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_back
+  rotate: true
+  xy: 1599, 1
+  size: 318, 334
+  orig: 319, 334
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_c1
+  rotate: false
+  xy: 1475, 467
+  size: 66, 188
+  orig: 66, 188
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_c2
+  rotate: true
+  xy: 836, 584
+  size: 99, 242
+  orig: 99, 242
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_c3
+  rotate: false
+  xy: 2127, 347
+  size: 122, 270
+  orig: 128, 270
+  offset: 6, 0
+  index: -1
+dragon_rookir_critical_c4
+  rotate: true
+  xy: 1239, 273
+  size: 192, 308
+  orig: 192, 308
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_c5
+  rotate: true
+  xy: 1549, 321
+  size: 195, 301
+  orig: 200, 309
+  offset: 5, 0
+  index: -1
+dragon_rookir_critical_c6
+  rotate: true
+  xy: 2272, 1
+  size: 232, 332
+  orig: 232, 332
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_c7
+  rotate: true
+  xy: 1935, 1
+  size: 256, 335
+  orig: 256, 335
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_c8
+  rotate: true
+  xy: 1262, 1
+  size: 270, 335
+  orig: 270, 335
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_cri
+  rotate: true
+  xy: 609, 348
+  size: 270, 215
+  orig: 270, 215
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_one1
+  rotate: false
+  xy: 1161, 362
+  size: 68, 223
+  orig: 68, 223
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_one2
+  rotate: true
+  xy: 1935, 259
+  size: 86, 302
+  orig: 86, 302
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_one3
+  rotate: true
+  xy: 869, 271
+  size: 89, 368
+  orig: 89, 368
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_yy1
+  rotate: false
+  xy: 1852, 347
+  size: 273, 224
+  orig: 273, 224
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_yy2
+  rotate: false
+  xy: 869, 1
+  size: 391, 268
+  orig: 391, 268
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_yy3
+  rotate: false
+  xy: 448, 1
+  size: 419, 345
+  orig: 449, 345
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_yy4
+  rotate: false
+  xy: 1, 392
+  size: 416, 374
+  orig: 417, 374
+  offset: 0, 0
+  index: -1
+dragon_rookir_critical_yy5
+  rotate: false
+  xy: 1, 1
+  size: 445, 389
+  orig: 446, 389
+  offset: 0, 0
+  index: -1
+dragon_rookir_evolution_arm
+  rotate: true
+  xy: 2687, 291
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+dragon_rookir_evolution_chest
+  rotate: false
+  xy: 2064, 781
+  size: 48, 20
+  orig: 48, 20
+  offset: 0, 0
+  index: -1
+dragon_rookir_evolution_feather1
+  rotate: false
+  xy: 1414, 753
+  size: 61, 36
+  orig: 61, 36
+  offset: 0, 0
+  index: -1
+dragon_rookir_evolution_feather2
+  rotate: false
+  xy: 2675, 669
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+dragon_rookir_evolution_foot_l
+  rotate: true
+  xy: 2607, 389
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+dragon_rookir_evolution_hand_l
+  rotate: false
+  xy: 2675, 627
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+dragon_rookir_evolution_hand_r
+  rotate: true
+  xy: 2067, 707
+  size: 65, 56
+  orig: 65, 56
+  offset: 0, 0
+  index: -1
+dragon_rookir_evolution_head1
+  rotate: false
+  xy: 2211, 762
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+dragon_rookir_evolution_head2
+  rotate: false
+  xy: 1805, 775
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+dragon_rookir_evolution_head_jewel
+  rotate: false
+  xy: 2114, 774
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+dragon_rookir_evolution_jaw
+  rotate: false
+  xy: 2614, 773
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+dragon_rookir_evolution_jewel1
+  rotate: false
+  xy: 2006, 707
+  size: 59, 72
+  orig: 59, 72
+  offset: 0, 0
+  index: -1
+dragon_rookir_evolution_jewel2
+  rotate: false
+  xy: 2620, 529
+  size: 50, 52
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+dragon_rookir_evolution_jewel3
+  rotate: true
+  xy: 2572, 739
+  size: 58, 40
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+dragon_rookir_evolution_n1
+  rotate: false
+  xy: 2011, 573
+  size: 113, 132
+  orig: 113, 132
+  offset: 0, 0
+  index: -1
+dragon_rookir_evolution_n2
+  rotate: false
+  xy: 2606, 158
+  size: 120, 61
+  orig: 120, 61
+  offset: 0, 0
+  index: -1
+dragon_rookir_evolution_n3
+  rotate: false
+  xy: 1, 768
+  size: 138, 23
+  orig: 138, 23
+  offset: 0, 0
+  index: -1
+dragon_rookir_evolution_n4
+  rotate: false
+  xy: 1215, 775
+  size: 105, 26
+  orig: 105, 26
+  offset: 0, 0
+  index: -1
+dragon_rookir_evolution_neck
+  rotate: false
+  xy: 2703, 470
+  size: 16, 44
+  orig: 16, 44
+  offset: 0, 0
+  index: -1
+dragon_rookir_evolution_neck2
+  rotate: true
+  xy: 1852, 321
+  size: 24, 67
+  orig: 24, 67
+  offset: 0, 0
+  index: -1
+dragon_rookir_evolution_r_wing1
+  rotate: false
+  xy: 1690, 518
+  size: 145, 121
+  orig: 145, 121
+  offset: 0, 0
+  index: -1
+dragon_rookir_evolution_r_wing2
+  rotate: true
+  xy: 2432, 235
+  size: 92, 149
+  orig: 92, 149
+  offset: 0, 0
+  index: -1
+dragon_rookir_evolution_tail
+  rotate: true
+  xy: 1832, 649
+  size: 60, 88
+  orig: 60, 88
+  offset: 0, 0
+  index: -1
+dragon_rookir_evolution_wing1
+  rotate: false
+  xy: 1559, 641
+  size: 96, 95
+  orig: 96, 95
+  offset: 0, 0
+  index: -1
+dragon_rookir_evolution_wing2
+  rotate: false
+  xy: 1079, 713
+  size: 134, 88
+  orig: 134, 88
+  offset: 0, 0
+  index: -1
+dragon_rookir_evolution_wing3
+  rotate: true
+  xy: 2415, 438
+  size: 131, 47
+  orig: 131, 47
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_arm_r1
+  rotate: true
+  xy: 1739, 641
+  size: 64, 91
+  orig: 64, 91
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_arm_r2
+  rotate: false
+  xy: 489, 348
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_body
+  rotate: false
+  xy: 2673, 709
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_chest
+  rotate: false
+  xy: 1549, 273
+  size: 47, 46
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_chin
+  rotate: false
+  xy: 1739, 775
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_eye
+  rotate: true
+  xy: 400, 768
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_eye_close
+  rotate: true
+  xy: 593, 479
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_eye_damaged
+  rotate: false
+  xy: 2668, 780
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_face
+  rotate: false
+  xy: 2563, 647
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_finger_l1
+  rotate: false
+  xy: 1414, 791
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_finger_l2
+  rotate: true
+  xy: 2715, 544
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_finger_r1
+  rotate: false
+  xy: 1231, 362
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_finger_r2
+  rotate: false
+  xy: 826, 584
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_finger_r3
+  rotate: false
+  xy: 2125, 762
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_hand_armor_l2
+  rotate: true
+  xy: 2637, 780
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_hand_armor_r1
+  rotate: false
+  xy: 2503, 641
+  size: 53, 31
+  orig: 53, 31
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_hand_armor_r2
+  rotate: false
+  xy: 2239, 259
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_hand_armor_r3
+  rotate: true
+  xy: 1776, 775
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_head1
+  rotate: false
+  xy: 141, 768
+  size: 58, 33
+  orig: 58, 33
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_head2
+  rotate: false
+  xy: 2674, 386
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_head3
+  rotate: false
+  xy: 2503, 571
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_head_feather
+  rotate: false
+  xy: 2687, 221
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_leg_l1
+  rotate: false
+  xy: 1839, 774
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_leg_l2
+  rotate: false
+  xy: 1657, 723
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_leg_l3
+  rotate: false
+  xy: 1873, 774
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_leg_r1
+  rotate: false
+  xy: 1349, 700
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_leg_r2
+  rotate: true
+  xy: 2697, 767
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_leg_r3
+  rotate: true
+  xy: 2672, 562
+  size: 19, 40
+  orig: 19, 40
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_lit1
+  rotate: false
+  xy: 693, 620
+  size: 141, 142
+  orig: 144, 143
+  offset: 0, 1
+  index: -1
+dragon_rookir_s01_lit2
+  rotate: false
+  xy: 826, 362
+  size: 218, 220
+  orig: 218, 220
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_lit3
+  rotate: false
+  xy: 1231, 467
+  size: 242, 193
+  orig: 242, 193
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_long_sword
+  rotate: true
+  xy: 419, 518
+  size: 283, 188
+  orig: 283, 188
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_tail1
+  rotate: false
+  xy: 2251, 311
+  size: 112, 119
+  orig: 112, 119
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_tail2
+  rotate: false
+  xy: 936, 685
+  size: 141, 115
+  orig: 141, 115
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_wing1
+  rotate: true
+  xy: 2606, 1
+  size: 155, 120
+  orig: 155, 120
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_wing2
+  rotate: true
+  xy: 514, 427
+  size: 89, 77
+  orig: 89, 77
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_wing3
+  rotate: false
+  xy: 2340, 574
+  size: 77, 113
+  orig: 77, 113
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_wing_armor_l1
+  rotate: false
+  xy: 2606, 429
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_wing_armor_r1
+  rotate: false
+  xy: 2272, 235
+  size: 158, 74
+  orig: 160, 74
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_wing_armor_r2
+  rotate: true
+  xy: 2425, 677
+  size: 98, 83
+  orig: 98, 83
+  offset: 0, 0
+  index: -1
+dragon_rookir_s01_wing_back
+  rotate: false
+  xy: 2251, 432
+  size: 85, 141
+  orig: 85, 141
+  offset: 0, 0
+  index: -1
+feather1
+  rotate: false
+  xy: 2670, 745
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+feather2
+  rotate: false
+  xy: 2637, 757
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+feather3
+  rotate: false
+  xy: 2637, 726
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+feather4
+  rotate: false
+  xy: 2134, 762
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+feather5
+  rotate: true
+  xy: 2583, 307
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1

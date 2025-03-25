@@ -1,0 +1,963 @@
+dragon_4174_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_pomekle_adult_l_leg3
+  rotate: false
+  xy: 374, 242
+  size: 21, 45
+  orig: 21, 45
+  offset: 0, 0
+  index: -1
+dragon_pomekle_adult_l_leg1
+  rotate: false
+  xy: 419, 1973
+  size: 44, 69
+  orig: 44, 69
+  offset: 0, 0
+  index: -1
+dragon_pomekle_e_r_arm2_a
+  rotate: false
+  xy: 556, 1906
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+dragon_pomekle_baby_tooth
+  rotate: false
+  xy: 353, 2003
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+dragon_pomekle_child_l_arm_wing
+  rotate: false
+  xy: 567, 1133
+  size: 66, 83
+  orig: 66, 83
+  offset: 0, 0
+  index: -1
+dragon_pomekle_e_r_wing_l
+  rotate: false
+  xy: 504, 1968
+  size: 53, 36
+  orig: 53, 36
+  offset: 0, 0
+  index: -1
+dragon_4174_e_critical_eff02
+  rotate: true
+  xy: 270, 864
+  size: 246, 141
+  orig: 300, 149
+  offset: 12, 0
+  index: -1
+dragon_4174_e_critical_eff03
+  rotate: false
+  xy: 2, 147
+  size: 290, 149
+  orig: 300, 149
+  offset: 0, 0
+  index: -1
+dragon_4174_e_critical_eff04
+  rotate: false
+  xy: 2, 2
+  size: 300, 143
+  orig: 300, 149
+  offset: 0, 0
+  index: -1
+dragon_4174_e_critical_eff05
+  rotate: true
+  xy: 2, 600
+  size: 300, 137
+  orig: 300, 149
+  offset: 0, 0
+  index: -1
+dragon_4174_e_critical_eff00
+  rotate: true
+  xy: 572, 523
+  size: 148, 63
+  orig: 300, 149
+  offset: 38, 0
+  index: -1
+dragon_pomekle_adult_hair
+  rotate: true
+  xy: 385, 1739
+  size: 80, 104
+  orig: 80, 104
+  offset: 0, 0
+  index: -1
+dragon_4174_e_critical_eff01
+  rotate: true
+  xy: 288, 1625
+  size: 162, 95
+  orig: 300, 149
+  offset: 36, 0
+  index: -1
+dragon_pomekle_e_l_leg3
+  rotate: true
+  xy: 559, 1570
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+dragon_pomekle_adult_neckhair
+  rotate: false
+  xy: 583, 1567
+  size: 52, 59
+  orig: 52, 59
+  offset: 0, 0
+  index: -1
+dragon_pomekle_adult_tailhair
+  rotate: true
+  xy: 361, 1832
+  size: 86, 48
+  orig: 86, 48
+  offset: 0, 0
+  index: -1
+dragon_4174_e_critical_eff06
+  rotate: true
+  xy: 2, 298
+  size: 300, 137
+  orig: 300, 149
+  offset: 0, 0
+  index: -1
+dragon_4174_e_critical_eff07
+  rotate: false
+  xy: 304, 2
+  size: 300, 137
+  orig: 300, 149
+  offset: 0, 0
+  index: -1
+dragon_4174_e_critical_eff08
+  rotate: true
+  xy: 2, 1184
+  size: 288, 127
+  orig: 300, 149
+  offset: 12, 0
+  index: -1
+dragon_4174_e_critical_eff09
+  rotate: true
+  xy: 141, 864
+  size: 284, 127
+  orig: 300, 149
+  offset: 16, 0
+  index: -1
+dragon_pomekle_e_tail_a
+  rotate: false
+  xy: 294, 147
+  size: 8, 17
+  orig: 8, 17
+  offset: 0, 0
+  index: -1
+dragon_pomekle_adult_eye
+  rotate: false
+  xy: 293, 850
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+dragon_pomekle_adult_r_arm2
+  rotate: false
+  xy: 504, 1866
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+dragon_pomekle_adult_r_arm3
+  rotate: true
+  xy: 467, 1894
+  size: 61, 35
+  orig: 61, 35
+  offset: 0, 0
+  index: -1
+dragon_pomekle_adult_r_arm1
+  rotate: false
+  xy: 595, 346
+  size: 40, 71
+  orig: 40, 71
+  offset: 0, 0
+  index: -1
+dragon_pomekle_adult_body
+  rotate: false
+  xy: 491, 1734
+  size: 77, 71
+  orig: 77, 71
+  offset: 0, 0
+  index: -1
+dragon_pomekle_e_haed_a1
+  rotate: false
+  xy: 270, 1112
+  size: 10, 57
+  orig: 10, 63
+  offset: 0, 1
+  index: -1
+dragon_pomekle_critical_smile
+  rotate: true
+  xy: 491, 1807
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_pomekle_adult_l_arm_wing
+  rotate: false
+  xy: 264, 1845
+  size: 95, 156
+  orig: 95, 156
+  offset: 0, 0
+  index: -1
+dragon_pomekle_adult_r_leg2
+  rotate: true
+  xy: 601, 285
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+dragon_pomekle_adult_eyeclose
+  rotate: true
+  xy: 346, 1832
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+dragon_pomekle_adult_r_leg3
+  rotate: false
+  xy: 570, 1781
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+dragon_pomekle_adult_r_leg1
+  rotate: false
+  xy: 580, 1394
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+dragon_4174_e_critical_eff12
+  rotate: true
+  xy: 280, 298
+  size: 276, 115
+  orig: 300, 149
+  offset: 19, 0
+  index: -1
+dragon_pomekle_baby_r_ear
+  rotate: false
+  xy: 251, 1150
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+dragon_4174_e_critical_eff10
+  rotate: true
+  xy: 2, 1760
+  size: 282, 119
+  orig: 300, 149
+  offset: 17, 0
+  index: -1
+dragon_4174_e_critical_eff11
+  rotate: true
+  xy: 2, 1474
+  size: 284, 119
+  orig: 300, 149
+  offset: 16, 0
+  index: -1
+dragon_pomekle_baby_l_ear
+  rotate: false
+  xy: 483, 1866
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+dragon_pomekle_adult_eyeatt
+  rotate: false
+  xy: 280, 850
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+dragon_pomekle_child_body1
+  rotate: true
+  xy: 504, 1924
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+dragon_pomekle_adult_eyeb2
+  rotate: true
+  xy: 591, 1964
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+dragon_pomekle_child_l_arm2
+  rotate: true
+  xy: 185, 2019
+  size: 23, 51
+  orig: 23, 53
+  offset: 0, 0
+  index: -1
+dragon_pomekle_child_l_arm3
+  rotate: false
+  xy: 598, 1833
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+dragon_pomekle_baby_body2
+  rotate: true
+  xy: 601, 203
+  size: 33, 34
+  orig: 35, 34
+  offset: 2, 0
+  index: -1
+dragon_pomekle_child_eye2
+  rotate: false
+  xy: 356, 283
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+dragon_pomekle_child_l_arm1
+  rotate: false
+  xy: 374, 194
+  size: 21, 46
+  orig: 21, 46
+  offset: 0, 0
+  index: -1
+dragon_pomekle_adult_r_arm1_light
+  rotate: true
+  xy: 596, 1864
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+dragon_pomekle_child_eyeclose
+  rotate: false
+  xy: 340, 283
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+dragon_pomekle_baby_body1
+  rotate: false
+  xy: 467, 1957
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+dragon_pomekle_child_tooth_b
+  rotate: true
+  xy: 385, 1821
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+dragon_pomekle_adult_tooth
+  rotate: false
+  xy: 593, 1916
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+dragon_pomekle_baby_eyeclose
+  rotate: true
+  xy: 391, 1496
+  size: 25, 21
+  orig: 27, 21
+  offset: 1, 0
+  index: -1
+dragon_pomekle_adult_backtooth
+  rotate: true
+  xy: 596, 1895
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+dragon_pomekle_baby_head
+  rotate: false
+  xy: 570, 1734
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+dragon_pomekle_baby_eyeb
+  rotate: true
+  xy: 413, 850
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+dragon_pomekle_baby_tail
+  rotate: true
+  xy: 238, 2019
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+dragon_pomekle_child_neck
+  rotate: false
+  xy: 595, 419
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+dragon_pomekle_adult_mouth2
+  rotate: false
+  xy: 281, 1625
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+dragon_pomekle_e_fx6
+  rotate: true
+  xy: 425, 523
+  size: 218, 145
+  orig: 254, 255
+  offset: 21, 75
+  index: -1
+dragon_pomekle_e_l_arm_wing
+  rotate: false
+  xy: 281, 1453
+  size: 108, 170
+  orig: 108, 170
+  offset: 0, 0
+  index: -1
+dragon_pomekle_e_fx8
+  rotate: true
+  xy: 123, 1845
+  size: 172, 139
+  orig: 254, 255
+  offset: 53, 48
+  index: -1
+dragon_pomekle_e_fx7
+  rotate: true
+  xy: 413, 893
+  size: 202, 157
+  orig: 254, 255
+  offset: 34, 45
+  index: -1
+dragon_pomekle_child_l_leg2
+  rotate: false
+  xy: 204, 1444
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+dragon_pomekle_e_light2
+  rotate: false
+  xy: 601, 238
+  size: 31, 45
+  orig: 33, 47
+  offset: 1, 1
+  index: -1
+dragon_pomekle_adult_ear
+  rotate: false
+  xy: 615, 1916
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_pomekle_baby_eye2
+  rotate: false
+  xy: 562, 1959
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+dragon_pomekle_child_l_leg1
+  rotate: false
+  xy: 346, 1789
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+dragon_pomekle_adult_neck
+  rotate: true
+  xy: 304, 141
+  size: 51, 91
+  orig: 51, 91
+  offset: 0, 0
+  index: -1
+dragon_pomekle_baby_eye
+  rotate: false
+  xy: 253, 1444
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+dragon_pomekle_e_tail
+  rotate: false
+  xy: 572, 915
+  size: 56, 146
+  orig: 56, 146
+  offset: 0, 0
+  index: -1
+dragon_pomekle_e_fx2
+  rotate: false
+  xy: 123, 1474
+  size: 156, 197
+  orig: 254, 255
+  offset: 37, 18
+  index: -1
+dragon_pomekle_child_hair2
+  rotate: false
+  xy: 572, 1063
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+dragon_pomekle_e_fx1
+  rotate: false
+  xy: 430, 1318
+  size: 148, 203
+  orig: 254, 255
+  offset: 64, 15
+  index: -1
+dragon_pomekle_e_light1
+  rotate: false
+  xy: 572, 819
+  size: 63, 94
+  orig: 65, 98
+  offset: 1, 2
+  index: -1
+dragon_pomekle_e_fx4
+  rotate: false
+  xy: 397, 141
+  size: 202, 203
+  orig: 254, 255
+  offset: 6, 42
+  index: -1
+dragon_pomekle_e_fx3
+  rotate: false
+  xy: 425, 1097
+  size: 140, 219
+  orig: 254, 255
+  offset: 39, 29
+  index: -1
+dragon_pomekle_adult_body2
+  rotate: true
+  xy: 580, 1306
+  size: 86, 55
+  orig: 86, 55
+  offset: 0, 0
+  index: -1
+dragon_pomekle_child_head
+  rotate: false
+  xy: 583, 1682
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+dragon_pomekle_e_fx5
+  rotate: false
+  xy: 397, 346
+  size: 196, 175
+  orig: 254, 255
+  offset: 10, 60
+  index: -1
+dragon_pomekle_child_hair1
+  rotate: false
+  xy: 534, 2006
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+dragon_pomekle_child_eyeb
+  rotate: true
+  xy: 414, 1496
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+dragon_pomekle_child_r_arm_wing
+  rotate: false
+  xy: 567, 1218
+  size: 62, 86
+  orig: 62, 86
+  offset: 0, 0
+  index: -1
+dragon_pomekle_adult_eyeb
+  rotate: false
+  xy: 579, 1984
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+dragon_pomekle_child_r_arm2
+  rotate: false
+  xy: 465, 1997
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+dragon_pomekle_adult_tail
+  rotate: true
+  xy: 282, 1344
+  size: 107, 146
+  orig: 107, 146
+  offset: 0, 0
+  index: -1
+dragon_pomekle_child_r_arm3
+  rotate: true
+  xy: 171, 1444
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+dragon_pomekle_adult_eyedam
+  rotate: false
+  xy: 575, 2029
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+dragon_pomekle_baby_d_leg1
+  rotate: false
+  xy: 579, 2005
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+dragon_pomekle_baby_d_leg2
+  rotate: false
+  xy: 615, 1938
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+dragon_pomekle_baby_t_leg1
+  rotate: false
+  xy: 559, 2004
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+dragon_pomekle_child_tail
+  rotate: false
+  xy: 411, 1821
+  size: 70, 71
+  orig: 70, 71
+  offset: 0, 0
+  index: -1
+dragon_pomekle_child_r_arm1
+  rotate: false
+  xy: 559, 1523
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+dragon_pomekle_e_body
+  rotate: false
+  xy: 583, 1496
+  size: 52, 69
+  orig: 52, 69
+  offset: 0, 0
+  index: -1
+dragon_4174_critical_eff06
+  rotate: true
+  xy: 141, 298
+  size: 282, 137
+  orig: 300, 149
+  offset: 9, 0
+  index: -1
+dragon_4174_critical_eff08
+  rotate: true
+  xy: 385, 1625
+  size: 112, 99
+  orig: 300, 149
+  offset: 182, 0
+  index: -1
+dragon_4174_critical_eff07
+  rotate: true
+  xy: 2, 902
+  size: 280, 137
+  orig: 300, 149
+  offset: 11, 0
+  index: -1
+dragon_4174_critical_eff02
+  rotate: true
+  xy: 282, 1112
+  size: 230, 141
+  orig: 300, 149
+  offset: 29, 0
+  index: -1
+dragon_4174_critical_eff09
+  rotate: true
+  xy: 486, 1620
+  size: 112, 95
+  orig: 300, 149
+  offset: 184, 0
+  index: -1
+dragon_4174_critical_eff04
+  rotate: true
+  xy: 280, 576
+  size: 272, 143
+  orig: 300, 149
+  offset: 13, 0
+  index: -1
+dragon_pomekle_adult_bodyhair
+  rotate: false
+  xy: 580, 1455
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+dragon_4174_critical_eff03
+  rotate: true
+  xy: 131, 1184
+  size: 258, 149
+  orig: 300, 149
+  offset: 17, 0
+  index: -1
+dragon_4174_critical_eff05
+  rotate: true
+  xy: 141, 582
+  size: 280, 137
+  orig: 300, 149
+  offset: 9, 0
+  index: -1
+dragon_pomekle_child_eyehappy
+  rotate: false
+  xy: 601, 329
+  size: 15, 15
+  orig: 17, 15
+  offset: 1, 0
+  index: -1
+dragon_4174_critical_eff00
+  rotate: true
+  xy: 572, 673
+  size: 144, 63
+  orig: 300, 149
+  offset: 38, 0
+  index: -1
+dragon_pomekle_baby_mouth
+  rotate: false
+  xy: 553, 1807
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+dragon_pomekle_baby_hair
+  rotate: false
+  xy: 606, 97
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+dragon_4174_critical_eff01
+  rotate: false
+  xy: 391, 1523
+  size: 166, 95
+  orig: 300, 149
+  offset: 37, 0
+  index: -1
+dragon_pomekle_baby_r_arm1
+  rotate: false
+  xy: 123, 2019
+  size: 60, 23
+  orig: 60, 23
+  offset: 0, 0
+  index: -1
+dragon_pomekle_child_r_leg2
+  rotate: true
+  xy: 397, 523
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+dragon_pomekle_e_r_arm2
+  rotate: false
+  xy: 595, 464
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+dragon_pomekle_e_r_arm3
+  rotate: true
+  xy: 606, 51
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+dragon_pomekle_e_r_arm1
+  rotate: false
+  xy: 361, 1920
+  size: 56, 77
+  orig: 56, 77
+  offset: 0, 0
+  index: -1
+dragon_pomekle_adult_r_arm_wing
+  rotate: true
+  xy: 425, 743
+  size: 148, 142
+  orig: 148, 142
+  offset: 0, 0
+  index: -1
+dragon_pomekle_child_r_leg1
+  rotate: false
+  xy: 391, 1453
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+dragon_pomekle_e_head_b2
+  rotate: false
+  xy: 490, 2006
+  size: 42, 27
+  orig: 42, 37
+  offset: 0, 10
+  index: -1
+dragon_pomekle_e_haed
+  rotate: true
+  xy: 361, 1999
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+dragon_pomekle_adult_haed
+  rotate: false
+  xy: 288, 1789
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+dragon_pomekle_e_head_b1
+  rotate: false
+  xy: 294, 283
+  size: 44, 13
+  orig: 46, 23
+  offset: 0, 10
+  index: -1
+dragon_pomekle_e_r_leg3
+  rotate: true
+  xy: 606, 2
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+dragon_pomekle_adult_mouth
+  rotate: false
+  xy: 593, 1948
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+dragon_4174_critical_eff10
+  rotate: false
+  xy: 294, 194
+  size: 78, 87
+  orig: 300, 149
+  offset: 217, 0
+  index: -1
+dragon_4174_critical_eff11
+  rotate: true
+  xy: 264, 2003
+  size: 38, 87
+  orig: 300, 149
+  offset: 257, 0
+  index: -1
+dragon_pomekle_adult_l_arm2
+  rotate: false
+  xy: 583, 1628
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+dragon_pomekle_adult_l_arm3
+  rotate: false
+  xy: 141, 1150
+  size: 59, 32
+  orig: 59, 32
+  offset: 0, 0
+  index: -1
+dragon_pomekle_adult_l_arm1
+  rotate: false
+  xy: 601, 141
+  size: 34, 60
+  orig: 34, 60
+  offset: 0, 0
+  index: -1
+dragon_pomekle_child_tooth
+  rotate: true
+  xy: 385, 1821
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+dragon_pomekle_e_r_arm_wing
+  rotate: false
+  xy: 123, 1673
+  size: 163, 170
+  orig: 163, 170
+  offset: 0, 0
+  index: -1
+dragon_pomekle_child_neck_hair1
+  rotate: true
+  xy: 556, 1860
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+dragon_pomekle_baby_tootht_leg2
+  rotate: false
+  xy: 559, 1979
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+dragon_pomekle_e_l_arm2
+  rotate: true
+  xy: 562, 1924
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+dragon_pomekle_baby_l_arm1
+  rotate: true
+  xy: 131, 1444
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+dragon_pomekle_e_l_arm3
+  rotate: false
+  xy: 553, 1833
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+dragon_pomekle_child_mouth
+  rotate: false
+  xy: 615, 1959
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+dragon_pomekle_child_eye
+  rotate: false
+  xy: 559, 2029
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+dragon_pomekle_e_l_arm1
+  rotate: false
+  xy: 419, 1894
+  size: 46, 77
+  orig: 46, 77
+  offset: 0, 0
+  index: -1
+dragon_pomekle_adult_l_leg4
+  rotate: false
+  xy: 202, 1150
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+dragon_pomekle_adult_l_leg2
+  rotate: false
+  xy: 595, 497
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1

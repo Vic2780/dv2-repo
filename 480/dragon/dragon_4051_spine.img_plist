@@ -1,0 +1,410 @@
+dragon_4051_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_spring_baby_armr
+  rotate: false
+  xy: 102, 1065
+  size: 22, 62
+  orig: 22, 62
+  offset: 0, 0
+  index: -1
+dragon_spring_baby_mouth
+  rotate: true
+  xy: 108, 814
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+dragon_spring_adult_down
+  rotate: true
+  xy: 117, 546
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+dragon_spring_baby_body
+  rotate: false
+  xy: 2, 1160
+  size: 90, 84
+  orig: 90, 84
+  offset: 0, 0
+  index: -1
+dragon_spring_adult_wing1
+  rotate: false
+  xy: 2, 211
+  size: 121, 97
+  orig: 121, 97
+  offset: 0, 0
+  index: -1
+dragon_spring_baby_wing
+  rotate: true
+  xy: 2, 1706
+  size: 26, 68
+  orig: 26, 68
+  offset: 0, 0
+  index: -1
+dragon_spring_adult_body
+  rotate: false
+  xy: 2, 666
+  size: 110, 79
+  orig: 110, 79
+  offset: 0, 0
+  index: -1
+dragon_spring_adult_eye
+  rotate: false
+  xy: 114, 701
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+dragon_spring_child_leg1
+  rotate: false
+  xy: 86, 1512
+  size: 40, 67
+  orig: 40, 67
+  offset: 0, 0
+  index: -1
+dragon_spring_adult_tail
+  rotate: false
+  xy: 2, 409
+  size: 117, 135
+  orig: 117, 135
+  offset: 0, 0
+  index: -1
+dragon_spring_adult_hair2
+  rotate: true
+  xy: 93, 1827
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+dragon_spring_baby_tail
+  rotate: true
+  xy: 2, 1327
+  size: 80, 85
+  orig: 80, 85
+  offset: 0, 0
+  index: -1
+dragon_spring_adult_attack
+  rotate: false
+  xy: 114, 688
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_spring_child_arm1
+  rotate: true
+  xy: 77, 1633
+  size: 29, 49
+  orig: 29, 51
+  offset: 0, 2
+  index: -1
+dragon_spring_adult_hair1
+  rotate: false
+  xy: 108, 873
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+dragon_spring_baby_love
+  rotate: false
+  xy: 2, 1806
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+dragon_spring_critical_eff1
+  rotate: true
+  xy: 2, 814
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+dragon_spring_child_mouth
+  rotate: false
+  xy: 2, 1849
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+dragon_spring_adult_mouth
+  rotate: true
+  xy: 114, 666
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+dragon_spring_child_tail
+  rotate: true
+  xy: 2, 2
+  size: 92, 124
+  orig: 92, 124
+  offset: 0, 0
+  index: -1
+dragon_spring_adult_neck_a
+  rotate: false
+  xy: 2, 1598
+  size: 73, 52
+  orig: 73, 52
+  offset: 0, 0
+  index: -1
+dragon_spring_child_neck
+  rotate: true
+  xy: 2, 1286
+  size: 39, 86
+  orig: 39, 86
+  offset: 0, 0
+  index: -1
+dragon_spring_critical_eff2
+  rotate: true
+  xy: 2, 96
+  size: 113, 123
+  orig: 115, 125
+  offset: 0, 0
+  index: -1
+dragon_spring_baby_neck
+  rotate: true
+  xy: 2, 546
+  size: 80, 113
+  orig: 80, 113
+  offset: 0, 0
+  index: -1
+dragon_spring_adult_head
+  rotate: false
+  xy: 76, 1664
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+dragon_spring_adult_neck
+  rotate: true
+  xy: 2, 1004
+  size: 70, 98
+  orig: 70, 98
+  offset: 0, 0
+  index: -1
+dragon_spring_child_wing
+  rotate: true
+  xy: 2, 747
+  size: 65, 110
+  orig: 65, 110
+  offset: 0, 0
+  index: -1
+dragon_spring_baby_leg
+  rotate: false
+  xy: 102, 1004
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+dragon_spring_critical_eff3
+  rotate: false
+  xy: 2, 1076
+  size: 92, 82
+  orig: 92, 82
+  offset: 0, 0
+  index: -1
+dragon_spring_adult_love
+  rotate: false
+  xy: 91, 1883
+  size: 22, 20
+  orig: 24, 22
+  offset: 2, 0
+  index: -1
+dragon_spring_child_body
+  rotate: false
+  xy: 2, 310
+  size: 119, 97
+  orig: 119, 97
+  offset: 0, 0
+  index: -1
+dragon_spring_adult_leg2
+  rotate: false
+  xy: 79, 1581
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+dragon_spring_adult_leg1
+  rotate: true
+  xy: 2, 1246
+  size: 38, 87
+  orig: 38, 87
+  offset: 0, 0
+  index: -1
+dragon_spring_critical_eff6
+  rotate: true
+  xy: 2, 975
+  size: 27, 104
+  orig: 27, 104
+  offset: 0, 0
+  index: -1
+dragon_spring_child_effect_heart
+  rotate: false
+  xy: 2, 1765
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_spring_child_head
+  rotate: true
+  xy: 2, 1652
+  size: 52, 72
+  orig: 52, 72
+  offset: 0, 0
+  index: -1
+dragon_spring_child_eye
+  rotate: false
+  xy: 108, 848
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+dragon_spring_child_leg2
+  rotate: true
+  xy: 48, 1818
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+dragon_spring_child_head1
+  rotate: false
+  xy: 48, 1845
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+dragon_spring_critical_eff4
+  rotate: false
+  xy: 90, 1305
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+dragon_spring_child_arm2
+  rotate: false
+  xy: 89, 1342
+  size: 33, 54
+  orig: 33, 54
+  offset: 0, 0
+  index: -1
+dragon_spring_adult_leg3
+  rotate: false
+  xy: 88, 1438
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+dragon_spring_love_effect_note2
+  rotate: false
+  xy: 91, 1262
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_spring_critical_eff7
+  rotate: true
+  xy: 2, 1409
+  size: 41, 84
+  orig: 41, 84
+  offset: 0, 0
+  index: -1
+dragon_spring_love_effect_note1
+  rotate: false
+  xy: 89, 1398
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_spring_adult_arm2
+  rotate: true
+  xy: 66, 1740
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+dragon_spring_child_leg3
+  rotate: false
+  xy: 96, 1129
+  size: 30, 88
+  orig: 30, 88
+  offset: 0, 0
+  index: -1
+dragon_spring_child_love
+  rotate: false
+  xy: 91, 1855
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+dragon_spring_adult_arm1
+  rotate: true
+  xy: 72, 1710
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+dragon_spring_baby_arml
+  rotate: true
+  xy: 2, 1734
+  size: 29, 62
+  orig: 29, 62
+  offset: 0, 0
+  index: -1
+dragon_spring_baby_head
+  rotate: false
+  xy: 2, 1521
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+dragon_spring_child_neck1
+  rotate: true
+  xy: 2, 911
+  size: 62, 104
+  orig: 62, 104
+  offset: 0, 0
+  index: -1
+dragon_spring_critical_eff5
+  rotate: false
+  xy: 2, 1452
+  size: 82, 67
+  orig: 82, 67
+  offset: 0, 0
+  index: -1
+dragon_spring_adult_leg4
+  rotate: false
+  xy: 94, 1219
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+dragon_spring_adult_neck1
+  rotate: true
+  xy: 50, 1787
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+dragon_spring_adult_wing2
+  rotate: false
+  xy: 2, 628
+  size: 113, 36
+  orig: 113, 36
+  offset: 0, 0
+  index: -1
+dragon_spring_adult_arm3
+  rotate: false
+  xy: 97, 1787
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+dragon_spring_baby_eye
+  rotate: false
+  xy: 2, 1876
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1

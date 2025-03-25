@@ -2,549 +2,962 @@ dragon_3018_spine.pvr.ccz
 format: RGBA4444
 filter: Linear,Linear
 repeat: none
-dragon_hurricane_child_l_wing1
+dragon_hurricane_child_head
+  rotate: false
+  xy: 304, 1581
+  size: 71, 63
+  orig: 71, 63
+  offset: 0, 0
+  index: -1
+dragon_hurricane_baby_r_leg
+  rotate: false
+  xy: 453, 393
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+dragon_3018_baby_book_s01
   rotate: true
-  xy: 179, 1161
-  size: 86, 74
-  orig: 86, 74
+  xy: 151, 1536
+  size: 115, 72
+  orig: 115, 72
   offset: 0, 0
   index: -1
-dragon_hurricane_baby_heart
-  rotate: false
-  xy: 50, 1468
-  size: 46, 39
-  orig: 46, 39
-  offset: 0, 0
-  index: -1
-dragon_hurricane_baby_chin
+dragon_hurricane_adult_l_wing2
   rotate: true
-  xy: 196, 1510
-  size: 20, 14
-  orig: 20, 14
-  offset: 0, 0
-  index: -1
-dragon_hurricane_child_eye3
-  rotate: false
-  xy: 141, 1505
-  size: 29, 26
-  orig: 29, 26
-  offset: 0, 0
-  index: -1
-dragon_hurricane_adult_r_leg2c
-  rotate: false
-  xy: 233, 1411
-  size: 20, 35
-  orig: 20, 35
-  offset: 0, 0
-  index: -1
-dragon_hurricane_baby_body
-  rotate: false
-  xy: 184, 519
-  size: 70, 84
-  orig: 70, 84
-  offset: 0, 0
-  index: -1
-dragon_hurricane_child_chin
-  rotate: true
-  xy: 149, 1375
-  size: 38, 27
-  orig: 38, 27
-  offset: 0, 0
-  index: -1
-dragon_hurricane_child_hair2
-  rotate: true
-  xy: 82, 1509
-  size: 41, 14
-  orig: 41, 14
-  offset: 0, 0
-  index: -1
-dragon_hurricane_adult_r_leg1a
-  rotate: false
-  xy: 183, 767
-  size: 69, 77
-  orig: 69, 77
-  offset: 0, 0
-  index: -1
-dragon_hurricane_child_body3
-  rotate: false
-  xy: 119, 943
-  size: 62, 63
-  orig: 62, 63
-  offset: 0, 0
-  index: -1
-dragon_hurricane_adult_neck1
-  rotate: false
-  xy: 183, 605
-  size: 71, 95
-  orig: 71, 95
-  offset: 0, 0
-  index: -1
-dragon_hurricane_adult_r_wing1
-  rotate: false
-  xy: 2, 450
-  size: 180, 134
-  orig: 180, 134
-  offset: 0, 0
-  index: -1
-dragon_hurricane_adult_hair2
-  rotate: false
-  xy: 2, 997
-  size: 110, 96
-  orig: 110, 96
-  offset: 0, 0
-  index: -1
-dragon_hurricane_adult_chin
-  rotate: true
-  xy: 123, 1474
-  size: 29, 23
-  orig: 29, 23
-  offset: 0, 0
-  index: -1
-dragon_hurricane_adult_tailb
-  rotate: false
-  xy: 2, 1318
-  size: 86, 53
-  orig: 86, 53
-  offset: 0, 0
-  index: -1
-dragon_hurricane_baby_r_arm
-  rotate: true
-  xy: 30, 1436
-  size: 30, 45
-  orig: 30, 45
-  offset: 0, 0
-  index: -1
-dragon_hurricane_adult_l_leg2c
-  rotate: false
-  xy: 228, 1510
-  size: 19, 43
-  orig: 19, 43
-  offset: 0, 0
-  index: -1
-dragon_hurricane_child_eye2
-  rotate: false
-  xy: 172, 1510
-  size: 22, 20
-  orig: 22, 20
-  offset: 0, 0
-  index: -1
-dragon_hurricane_baby_tail
-  rotate: true
-  xy: 87, 1375
-  size: 50, 60
-  orig: 50, 60
-  offset: 0, 0
-  index: -1
-dragon_hurricane_adult_eye5
-  rotate: false
-  xy: 212, 1519
-  size: 13, 11
-  orig: 13, 11
+  xy: 2, 1537
+  size: 191, 147
+  orig: 191, 147
   offset: 0, 0
   index: -1
 dragon_hurricane_adult_l_wing3
-  rotate: false
-  xy: 2, 302
+  rotate: true
+  xy: 2, 1344
   size: 191, 146
   orig: 191, 146
   offset: 0, 0
   index: -1
-dragon_hurricane_adult_l_leg1a
+dragon_3018_baby_cape_s01
   rotate: true
-  xy: 179, 1249
+  xy: 248, 1439
+  size: 66, 83
+  orig: 66, 83
+  offset: 0, 0
+  index: -1
+dragon_3018_baby_glasses_s01
+  rotate: true
+  xy: 220, 1831
+  size: 14, 46
+  orig: 14, 46
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_l_wing1
+  rotate: true
+  xy: 2, 1730
+  size: 191, 149
+  orig: 191, 149
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_e_eef6
+  rotate: true
+  xy: 2, 326
+  size: 305, 153
+  orig: 467, 177
+  offset: 159, 12
+  index: -1
+dragon_hurricane_adult_e_eef7
+  rotate: true
+  xy: 2, 1113
+  size: 229, 115
+  orig: 467, 177
+  offset: 234, 12
+  index: -1
+dragon_hurricane_adult_e_eef8
+  rotate: true
+  xy: 305, 161
+  size: 183, 115
+  orig: 467, 177
+  offset: 284, 11
+  index: -1
+dragon_hurricane_baby_hair
+  rotate: false
+  xy: 412, 902
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+dragon_hurricane_baby_eye
+  rotate: true
+  xy: 454, 1903
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_e_eef9
+  rotate: true
+  xy: 2, 1923
+  size: 113, 67
+  orig: 467, 177
+  offset: 333, 18
+  index: -1
+dragon_3018_baby_eye_s01
+  rotate: true
+  xy: 438, 1987
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_e_l_leg1a
+  rotate: true
+  xy: 273, 1729
   size: 77, 73
   orig: 77, 73
   offset: 0, 0
   index: -1
-dragon_hurricane_baby_l_wing1
+dragon_hurricane_adult_taila
   rotate: true
-  xy: 195, 308
-  size: 61, 56
-  orig: 61, 56
+  xy: 119, 1263
+  size: 74, 128
+  orig: 74, 128
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_e_eef1
+  rotate: true
+  xy: 365, 2
+  size: 147, 107
+  orig: 467, 177
+  offset: 0, 17
+  index: -1
+dragon_hurricane_adult_e_eef2
+  rotate: true
+  xy: 2, 890
+  size: 221, 127
+  orig: 467, 177
+  offset: 4, 21
+  index: -1
+dragon_hurricane_adult_e_eef3
+  rotate: true
+  xy: 2, 633
+  size: 255, 147
+  orig: 467, 177
+  offset: 29, 12
+  index: -1
+dragon_hurricane_adult_e_eef4
+  rotate: false
+  xy: 2, 161
+  size: 301, 163
+  orig: 467, 177
+  offset: 63, 14
+  index: -1
+dragon_hurricane_child_smile
+  rotate: false
+  xy: 243, 1857
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_e_eef5
+  rotate: false
+  xy: 2, 2
+  size: 361, 157
+  orig: 467, 177
+  offset: 67, 12
+  index: -1
+dragon_hurricane_adult_tailb
+  rotate: false
+  xy: 333, 1408
+  size: 86, 53
+  orig: 86, 53
+  offset: 0, 0
+  index: -1
+dragon_hurricane_child_body1
+  rotate: false
+  xy: 357, 1083
+  size: 53, 91
+  orig: 53, 91
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_tailc
+  rotate: false
+  xy: 242, 1994
+  size: 53, 42
+  orig: 53, 42
   offset: 0, 0
   index: -1
 dragon_hurricane_child_body4
-  rotate: false
-  xy: 2, 930
+  rotate: true
+  xy: 153, 1730
   size: 115, 65
   orig: 115, 65
   offset: 0, 0
   index: -1
-dragon_hurricane_adult_tailfur
+dragon_hurricane_adult_fur2
+  rotate: false
+  xy: 250, 1172
+  size: 74, 89
+  orig: 74, 89
+  offset: 0, 0
+  index: -1
+dragon_hurricane_child_body2
+  rotate: false
+  xy: 297, 1995
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1
+dragon_hurricane_child_body3
+  rotate: false
+  xy: 414, 1163
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_fur1
   rotate: true
-  xy: 183, 999
+  xy: 422, 207
+  size: 99, 51
+  orig: 99, 51
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_e_l_leg2a
+  rotate: true
+  xy: 352, 1965
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+dragon_3018_baby_tail_s01
+  rotate: false
+  xy: 412, 971
+  size: 56, 104
+  orig: 56, 104
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_eye4
+  rotate: false
+  xy: 453, 1928
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+dragon_3018_baby_hat_s01
+  rotate: false
+  xy: 249, 1263
+  size: 84, 85
+  orig: 84, 85
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_eye2
+  rotate: false
+  xy: 398, 1838
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_neck1
+  rotate: false
+  xy: 169, 1923
+  size: 71, 95
+  orig: 71, 95
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_eye5
+  rotate: false
+  xy: 225, 1558
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_e_neck1
+  rotate: false
+  xy: 422, 151
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_eye3
+  rotate: true
+  xy: 212, 2020
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+dragon_3018_baby_cara_s01
+  rotate: false
+  xy: 354, 1919
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+dragon_hurricane_child_arm2
+  rotate: true
+  xy: 243, 1919
+  size: 27, 62
+  orig: 27, 62
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_neck2
+  rotate: true
+  xy: 423, 1640
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+dragon_hurricane_child_eye2
+  rotate: false
+  xy: 348, 1786
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+dragon_hurricane_baby_r_arm
+  rotate: true
+  xy: 345, 1999
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+dragon_hurricane_child_arm1
+  rotate: false
+  xy: 348, 1718
+  size: 30, 66
+  orig: 30, 66
+  offset: 0, 0
+  index: -1
+dragon_hurricane_child_eye3
+  rotate: true
+  xy: 437, 1956
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+dragon_hurricane_baby_heart
+  rotate: false
+  xy: 375, 1650
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_e_chest
+  rotate: false
+  xy: 273, 1808
+  size: 69, 47
+  orig: 69, 47
+  offset: 0, 0
+  index: -1
+dragon_hurricane_child_eye
+  rotate: true
+  xy: 455, 1849
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_l_leg2b
+  rotate: false
+  xy: 435, 767
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_l_leg2c
+  rotate: false
+  xy: 394, 1959
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_r_leg1a
+  rotate: true
+  xy: 225, 1579
+  size: 69, 77
+  orig: 69, 77
+  offset: 0, 0
+  index: -1
+dragon_3018_baby_book_eff_s01
+  rotate: false
+  xy: 119, 1172
+  size: 129, 89
+  orig: 129, 89
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_r_leg1b
+  rotate: true
+  xy: 383, 1851
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_r_leg1c
+  rotate: false
+  xy: 419, 1878
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+dragon_3018_baby_cara2_s01
+  rotate: true
+  xy: 333, 1463
+  size: 53, 85
+  orig: 53, 85
+  offset: 0, 0
+  index: -1
+dragon_3018_baby_head_s01
+  rotate: true
+  xy: 377, 1581
+  size: 67, 44
+  orig: 67, 44
+  offset: 0, 0
+  index: -1
+dragon_3018_baby_leg_l2_s01
+  rotate: true
+  xy: 420, 1827
+  size: 20, 45
+  orig: 20, 45
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_l_leg2a
+  rotate: false
+  xy: 440, 636
+  size: 33, 63
+  orig: 33, 63
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_chin
+  rotate: true
+  xy: 453, 477
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_r_wing1
+  rotate: true
+  xy: 304, 539
+  size: 180, 134
+  orig: 180, 134
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_r_wing2
+  rotate: true
+  xy: 279, 902
+  size: 179, 131
+  orig: 179, 133
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_r_wing3
+  rotate: true
+  xy: 300, 721
+  size: 179, 133
+  orig: 179, 133
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_heart
+  rotate: false
+  xy: 375, 1650
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_e_tailfur
+  rotate: true
+  xy: 411, 1334
   size: 72, 65
   orig: 72, 65
   offset: 0, 0
   index: -1
 dragon_hurricane_adult_l_leg1b
-  rotate: false
-  xy: 195, 174
+  rotate: true
+  xy: 372, 1791
   size: 58, 24
   orig: 58, 24
   offset: 0, 0
   index: -1
-dragon_hurricane_baby_l_wing2
+dragon_hurricane_child_chin
   rotate: false
-  xy: 178, 1409
-  size: 53, 51
-  orig: 53, 51
-  offset: 0, 0
-  index: -1
-dragon_hurricane_adult_fur2
-  rotate: false
-  xy: 103, 1116
-  size: 74, 89
-  orig: 74, 89
-  offset: 0, 0
-  index: -1
-dragon_hurricane_baby_eye3
-  rotate: false
-  xy: 2, 1436
-  size: 26, 31
-  orig: 26, 31
-  offset: 0, 0
-  index: -1
-dragon_hurricane_adult_body1
-  rotate: true
-  xy: 195, 2
-  size: 70, 59
-  orig: 70, 59
-  offset: 0, 0
-  index: -1
-dragon_hurricane_adult_r_leg1b
-  rotate: false
-  xy: 77, 1436
-  size: 44, 30
-  orig: 44, 30
-  offset: 0, 0
-  index: -1
-dragon_hurricane_child_l_wing3
-  rotate: true
-  xy: 2, 1233
-  size: 83, 87
-  orig: 83, 87
-  offset: 0, 0
-  index: -1
-dragon_hurricane_adult_eye4
-  rotate: true
-  xy: 242, 1386
-  size: 23, 11
-  orig: 23, 11
-  offset: 0, 0
-  index: -1
-dragon_hurricane_adult_r_wing2
-  rotate: false
-  xy: 2, 721
-  size: 179, 131
-  orig: 179, 133
-  offset: 0, 0
-  index: -1
-dragon_hurricane_adult_tailc
-  rotate: false
-  xy: 177, 1462
-  size: 53, 42
-  orig: 53, 42
-  offset: 0, 0
-  index: -1
-dragon_hurricane_baby_hair
-  rotate: true
-  xy: 183, 901
-  size: 64, 67
-  orig: 64, 67
+  xy: 415, 1849
+  size: 38, 27
+  orig: 38, 27
   offset: 0, 0
   index: -1
 dragon_hurricane_baby_l_leg
   rotate: false
-  xy: 54, 1510
+  xy: 344, 1808
   size: 26, 47
   orig: 26, 47
   offset: 0, 0
   index: -1
-dragon_hurricane_child_body1
-  rotate: false
-  xy: 195, 426
-  size: 53, 91
-  orig: 53, 91
-  offset: 0, 0
-  index: -1
-dragon_hurricane_child_arm2
-  rotate: true
-  xy: 114, 1087
-  size: 27, 62
-  orig: 27, 62
-  offset: 0, 0
-  index: -1
-dragon_hurricane_child_r_wing3
-  rotate: true
-  xy: 2, 1148
-  size: 83, 88
-  orig: 83, 88
-  offset: 0, 0
-  index: -1
-dragon_hurricane_adult_neck2
-  rotate: false
-  xy: 195, 371
-  size: 56, 53
-  orig: 56, 53
-  offset: 0, 0
-  index: -1
-dragon_hurricane_adult_r_leg2a
-  rotate: false
-  xy: 149, 1415
-  size: 26, 53
-  orig: 26, 53
-  offset: 0, 0
-  index: -1
-dragon_hurricane_baby_eye2
-  rotate: true
-  xy: 232, 1485
-  size: 23, 22
-  orig: 23, 22
-  offset: 0, 0
-  index: -1
-dragon_hurricane_child_eye
-  rotate: true
-  xy: 178, 1532
-  size: 22, 20
-  orig: 22, 20
-  offset: 0, 0
-  index: -1
-dragon_hurricane_child_r_leg
-  rotate: false
-  xy: 123, 1427
-  size: 23, 45
-  orig: 23, 45
-  offset: 0, 0
-  index: -1
-dragon_hurricane_child_l_wing2
-  rotate: false
-  xy: 92, 1207
-  size: 85, 82
-  orig: 85, 82
-  offset: 0, 0
-  index: -1
-dragon_hurricane_adult_heart
-  rotate: false
-  xy: 50, 1468
-  size: 46, 39
-  orig: 46, 39
-  offset: 0, 0
-  index: -1
 dragon_hurricane_adult_l_leg1c
   rotate: true
-  xy: 233, 1448
+  xy: 416, 1996
   size: 35, 20
   orig: 35, 20
   offset: 0, 0
   index: -1
-dragon_hurricane_baby_l_wing3
-  rotate: false
-  xy: 2, 1510
-  size: 50, 48
-  orig: 50, 48
-  offset: 0, 0
-  index: -1
-dragon_hurricane_adult_chest
-  rotate: false
-  xy: 114, 1008
-  size: 65, 42
-  orig: 65, 42
-  offset: 0, 0
-  index: -1
-dragon_hurricane_child_head
-  rotate: false
-  xy: 183, 702
-  size: 71, 63
-  orig: 71, 63
-  offset: 0, 0
-  index: -1
-dragon_hurricane_adult_r_leg1c
+dragon_3018_baby_leg_l1_s01
   rotate: true
-  xy: 148, 1470
-  size: 33, 26
-  orig: 33, 26
+  xy: 417, 1934
+  size: 20, 34
+  orig: 20, 34
   offset: 0, 0
   index: -1
-dragon_hurricane_child_r_wing2
-  rotate: false
-  xy: 91, 1291
-  size: 86, 82
-  orig: 86, 82
-  offset: 0, 0
-  index: -1
-dragon_hurricane_adult_r_wing3
-  rotate: false
-  xy: 2, 586
-  size: 179, 133
-  orig: 179, 133
-  offset: 0, 0
-  index: -1
-dragon_hurricane_child_hair1
+dragon_hurricane_adult_r_leg2a
   rotate: true
-  xy: 195, 98
-  size: 74, 58
-  orig: 74, 58
-  offset: 0, 0
-  index: -1
-dragon_hurricane_baby_eye
-  rotate: true
-  xy: 141, 1533
-  size: 23, 22
-  orig: 23, 22
-  offset: 0, 0
-  index: -1
-dragon_hurricane_adult_fur1
-  rotate: false
-  xy: 2, 1095
-  size: 99, 51
-  orig: 99, 51
-  offset: 0, 0
-  index: -1
-dragon_hurricane_child_l_leg
-  rotate: true
-  xy: 195, 74
-  size: 22, 59
-  orig: 22, 59
-  offset: 0, 0
-  index: -1
-dragon_hurricane_adult_body2
-  rotate: true
-  xy: 132, 854
-  size: 53, 49
-  orig: 53, 49
-  offset: 0, 0
-  index: -1
-dragon_hurricane_adult_hair1
-  rotate: false
-  xy: 98, 1514
-  size: 41, 44
-  orig: 41, 44
-  offset: 0, 0
-  index: -1
-dragon_hurricane_adult_eye3
-  rotate: true
-  xy: 242, 1368
-  size: 16, 12
-  orig: 16, 12
+  xy: 420, 1799
+  size: 26, 53
+  orig: 26, 53
   offset: 0, 0
   index: -1
 dragon_hurricane_adult_r_leg2b
-  rotate: true
-  xy: 179, 1368
+  rotate: false
+  xy: 380, 1691
   size: 39, 61
   orig: 39, 61
   offset: 0, 0
   index: -1
-dragon_hurricane_baby_l_arm
-  rotate: true
-  xy: 132, 909
-  size: 32, 49
-  orig: 32, 49
+dragon_hurricane_adult_r_leg2c
+  rotate: false
+  xy: 415, 1959
+  size: 20, 35
+  orig: 20, 35
   offset: 0, 0
   index: -1
-dragon_hurricane_adult_taila
+dragon_3018_baby_back_pattern_s01
+  rotate: false
+  xy: 157, 561
+  size: 145, 139
+  orig: 145, 139
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_l_leg1a
   rotate: true
-  xy: 2, 854
-  size: 74, 128
-  orig: 74, 128
+  xy: 239, 1650
+  size: 77, 73
+  orig: 77, 73
+  offset: 0, 0
+  index: -1
+dragon_hurricane_baby_chin
+  rotate: false
+  xy: 440, 701
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_e_head4
+  rotate: true
+  xy: 225, 1536
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_e_r_wing2
+  rotate: true
+  xy: 151, 702
+  size: 191, 147
+  orig: 191, 147
+  offset: 0, 0
+  index: -1
+dragon_3018_baby_eye_love_s01
+  rotate: true
+  xy: 453, 508
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_e_head2
+  rotate: true
+  xy: 365, 151
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_e_head3
+  rotate: false
+  xy: 468, 1228
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_body1
+  rotate: true
+  xy: 314, 1646
+  size: 70, 59
+  orig: 70, 59
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_e_r_wing1
+  rotate: true
+  xy: 131, 895
+  size: 191, 146
+  orig: 191, 146
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_e_r_wing3
+  rotate: true
+  xy: 302, 346
+  size: 191, 149
+  orig: 191, 149
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_e_head1
+  rotate: true
+  xy: 459, 888
+  size: 7, 17
+  orig: 7, 17
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_e_l_leg1a2
+  rotate: true
+  xy: 459, 841
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+dragon_3018_baby_body_s01
+  rotate: false
+  xy: 412, 1077
+  size: 59, 84
+  orig: 59, 84
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_body2
+  rotate: false
+  xy: 421, 1698
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_body3
+  rotate: true
+  xy: 326, 1518
+  size: 61, 83
+  orig: 61, 83
+  offset: 0, 0
+  index: -1
+dragon_3018_baby_belt_s01
+  rotate: true
+  xy: 388, 1919
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+dragon_hurricane_baby_body
+  rotate: true
+  xy: 240, 1507
+  size: 70, 84
+  orig: 70, 84
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_e_neck 2
+  rotate: false
+  xy: 453, 439
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+dragon_hurricane_child_r_leg
+  rotate: false
+  xy: 453, 346
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_e_taila
+  rotate: false
+  xy: 440, 539
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+dragon_hurricane_child_l_leg
+  rotate: false
+  xy: 435, 841
+  size: 22, 59
+  orig: 22, 59
+  offset: 0, 0
+  index: -1
+dragon_3018_baby_arm_l1_s01
+  rotate: true
+  xy: 380, 1754
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+dragon_3018_baby_jaw_s01
+  rotate: true
+  xy: 354, 1857
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+dragon_3018_baby_arm_l2_s01
+  rotate: true
+  xy: 438, 2018
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+dragon_hurricane_baby_l_wing2
+  rotate: true
+  xy: 421, 1408
+  size: 53, 51
+  orig: 53, 51
   offset: 0, 0
   index: -1
 dragon_hurricane_adult_eye
-  rotate: true
-  xy: 165, 1533
+  rotate: false
+  xy: 453, 1941
   size: 23, 11
   orig: 23, 11
   offset: 0, 0
   index: -1
-dragon_hurricane_child_smile
+dragon_3018_baby_leg_r2_s01
   rotate: false
-  xy: 195, 200
-  size: 57, 60
-  orig: 57, 60
+  xy: 398, 1791
+  size: 20, 45
+  orig: 20, 45
   offset: 0, 0
   index: -1
-dragon_hurricane_child_body2
+dragon_hurricane_baby_l_wing3
   rotate: false
-  xy: 2, 1470
-  size: 46, 38
-  orig: 46, 38
+  xy: 424, 1749
+  size: 50, 48
+  orig: 50, 48
   offset: 0, 0
   index: -1
-dragon_hurricane_adult_l_leg2a
+dragon_hurricane_adult_e_fur1
   rotate: true
-  xy: 114, 1052
-  size: 33, 63
-  orig: 33, 63
+  xy: 220, 1730
+  size: 99, 51
+  orig: 99, 51
   offset: 0, 0
   index: -1
-dragon_hurricane_baby_r_leg
+dragon_hurricane_adult_e_fur2
+  rotate: true
+  xy: 153, 1847
+  size: 74, 88
+  orig: 74, 88
+  offset: 0, 0
+  index: -1
+dragon_hurricane_baby_l_wing1
+  rotate: true
+  xy: 420, 1463
+  size: 61, 56
+  orig: 61, 56
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_e_ef1
   rotate: false
-  xy: 98, 1468
-  size: 23, 44
-  orig: 23, 44
+  xy: 131, 1088
+  size: 137, 82
+  orig: 137, 88
+  offset: 0, 6
+  index: -1
+dragon_3018_baby_leg_r1_s01
+  rotate: true
+  xy: 383, 1897
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_e_ef2
+  rotate: false
+  xy: 157, 326
+  size: 143, 233
+  orig: 143, 233
+  offset: 0, 0
+  index: -1
+dragon_3018_baby_armor_s01
+  rotate: false
+  xy: 440, 572
+  size: 34, 62
+  orig: 34, 62
+  offset: 0, 0
+  index: -1
+dragon_hurricane_child_l_wing2
+  rotate: false
+  xy: 270, 1088
+  size: 85, 82
+  orig: 85, 82
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_chest
+  rotate: false
+  xy: 411, 1526
+  size: 65, 42
+  orig: 65, 42
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_e_hair2
+  rotate: true
+  xy: 150, 1339
+  size: 110, 96
+  orig: 110, 96
+  offset: 0, 0
+  index: -1
+dragon_hurricane_child_l_wing3
+  rotate: false
+  xy: 248, 1350
+  size: 83, 87
+  orig: 83, 87
+  offset: 0, 0
+  index: -1
+dragon_hurricane_child_hair1
+  rotate: false
+  xy: 335, 1348
+  size: 74, 58
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+dragon_hurricane_child_r_wing2
+  rotate: false
+  xy: 326, 1176
+  size: 86, 82
+  orig: 86, 82
+  offset: 0, 0
+  index: -1
+dragon_hurricane_child_r_wing1
+  rotate: false
+  xy: 151, 1653
+  size: 86, 75
+  orig: 86, 75
+  offset: 0, 0
+  index: -1
+dragon_hurricane_baby_l_arm
+  rotate: true
+  xy: 301, 1961
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+dragon_hurricane_child_r_wing3
+  rotate: true
+  xy: 150, 1451
+  size: 83, 88
+  orig: 83, 88
+  offset: 0, 0
+  index: -1
+dragon_hurricane_child_l_wing1
+  rotate: true
+  xy: 335, 1260
+  size: 86, 74
+  orig: 86, 74
+  offset: 0, 0
+  index: -1
+dragon_hurricane_child_hair2
+  rotate: false
+  xy: 169, 2020
+  size: 41, 14
+  orig: 41, 14
+  offset: 0, 0
+  index: -1
+dragon_3018_baby_hair_s01
+  rotate: false
+  xy: 414, 1228
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_hair1
+  rotate: false
+  xy: 435, 721
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_hair2
+  rotate: true
+  xy: 71, 1923
+  size: 110, 96
+  orig: 110, 96
+  offset: 0, 0
+  index: -1
+dragon_3018_baby_eye_close_s01
+  rotate: true
+  xy: 392, 2004
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+dragon_hurricane_baby_eye2
+  rotate: true
+  xy: 454, 1878
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+dragon_hurricane_baby_eye3
+  rotate: true
+  xy: 419, 1906
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_tailfur
+  rotate: true
+  xy: 411, 1260
+  size: 72, 65
+  orig: 72, 65
+  offset: 0, 0
+  index: -1
+dragon_3018_baby_arm_r1_s01
+  rotate: true
+  xy: 422, 308
+  size: 36, 42
+  orig: 36, 42
   offset: 0, 0
   index: -1
 dragon_hurricane_baby_head
-  rotate: false
-  xy: 183, 846
+  rotate: true
+  xy: 423, 1570
   size: 68, 53
   orig: 68, 53
   offset: 0, 0
   index: -1
-dragon_hurricane_adult_l_wing1
+dragon_3018_baby_arm_r2_s01
   rotate: false
-  xy: 2, 2
+  xy: 459, 866
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_e_l_wing2
+  rotate: true
+  xy: 151, 702
+  size: 191, 147
+  orig: 191, 147
+  offset: 0, 0
+  index: -1
+dragon_hurricane_baby_tail
+  rotate: false
+  xy: 302, 1857
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+dragon_hurricane_adult_e_l_wing3
+  rotate: true
+  xy: 302, 346
   size: 191, 149
   orig: 191, 149
   offset: 0, 0
   index: -1
 dragon_hurricane_adult_head
   rotate: false
-  xy: 195, 262
+  xy: 242, 1948
   size: 57, 44
   orig: 57, 44
   offset: 0, 0
   index: -1
-dragon_hurricane_adult_l_leg2b
+dragon_hurricane_adult_e_l_wing1
   rotate: true
-  xy: 179, 1328
-  size: 38, 72
-  orig: 38, 72
+  xy: 131, 895
+  size: 191, 146
+  orig: 191, 146
   offset: 0, 0
   index: -1
-dragon_hurricane_child_r_wing1
+dragon_3018_baby_cape_acc_s01
   rotate: true
-  xy: 179, 1073
-  size: 86, 75
-  orig: 86, 75
-  offset: 0, 0
-  index: -1
-dragon_hurricane_adult_eye2
-  rotate: false
-  xy: 212, 1506
-  size: 14, 11
-  orig: 14, 11
-  offset: 0, 0
-  index: -1
-dragon_hurricane_child_arm1
-  rotate: true
-  xy: 183, 967
-  size: 30, 66
-  orig: 30, 66
-  offset: 0, 0
-  index: -1
-dragon_hurricane_adult_l_wing2
-  rotate: false
-  xy: 2, 153
-  size: 191, 147
-  orig: 191, 147
-  offset: 0, 0
-  index: -1
-dragon_hurricane_adult_body3
-  rotate: true
-  xy: 2, 1373
-  size: 61, 83
-  orig: 61, 83
+  xy: 307, 1919
+  size: 40, 45
+  orig: 40, 45
   offset: 0, 0
   index: -1

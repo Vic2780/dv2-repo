@@ -1,0 +1,1656 @@
+dragon_4151_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_henes_baby_tail6
+  rotate: false
+  xy: 928, 1095
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_henes_baby_loveeye
+  rotate: true
+  xy: 354, 1049
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+dragon_e_henes_adult_tail _c6
+  rotate: false
+  xy: 555, 1016
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_l_bwing1_a1_a4
+  rotate: false
+  xy: 462, 83
+  size: 147, 91
+  orig: 149, 93
+  offset: 1, 1
+  index: -1
+dragon_henes_adult_l_bwing1_a1_a5
+  rotate: true
+  xy: 149, 565
+  size: 151, 98
+  orig: 153, 98
+  offset: 1, 0
+  index: -1
+dragon_henes_adult_l_bwing1_a1_a2
+  rotate: true
+  xy: 370, 181
+  size: 138, 83
+  orig: 140, 85
+  offset: 1, 1
+  index: -1
+dragon_henes_adult_l_bwing1_a1_a3
+  rotate: false
+  xy: 249, 737
+  size: 132, 86
+  orig: 134, 86
+  offset: 1, 0
+  index: -1
+dragon_henes_adult_l_bwing1_a1_a1
+  rotate: false
+  xy: 243, 99
+  size: 150, 80
+  orig: 152, 80
+  offset: 1, 0
+  index: -1
+dragon_henes_child_l_bwing1
+  rotate: true
+  xy: 154, 1221
+  size: 90, 103
+  orig: 90, 105
+  offset: 0, 1
+  index: -1
+dragon_henes_adult_body1
+  rotate: true
+  xy: 571, 1112
+  size: 98, 39
+  orig: 98, 39
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_heed
+  rotate: true
+  xy: 611, 937
+  size: 77, 84
+  orig: 77, 86
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_body2
+  rotate: false
+  xy: 923, 1004
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+dragon_henes_baby_eye
+  rotate: true
+  xy: 455, 907
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+dragon_e_henes_adult_r_wing2_light
+  rotate: true
+  xy: 865, 1201
+  size: 37, 38
+  orig: 39, 40
+  offset: 1, 1
+  index: -1
+dragon_e_henes_adult_body1
+  rotate: true
+  xy: 850, 288
+  size: 98, 41
+  orig: 98, 43
+  offset: 0, 2
+  index: -1
+dragon_henes_critical_wing2
+  rotate: true
+  xy: 383, 1025
+  size: 145, 51
+  orig: 145, 51
+  offset: 0, 0
+  index: -1
+dragon_henes_critical_wing3
+  rotate: false
+  xy: 469, 877
+  size: 143, 51
+  orig: 145, 51
+  offset: 1, 0
+  index: -1
+dragon_henes_critical_wing4
+  rotate: true
+  xy: 857, 518
+  size: 145, 51
+  orig: 145, 51
+  offset: 0, 0
+  index: -1
+dragon_henes_critical_Headdress
+  rotate: false
+  xy: 462, 2
+  size: 184, 79
+  orig: 184, 79
+  offset: 0, 0
+  index: -1
+dragon_henes_child_r_leg2
+  rotate: false
+  xy: 590, 862
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+dragon_henes_baby_r_bwing2
+  rotate: false
+  xy: 978, 1117
+  size: 42, 45
+  orig: 44, 45
+  offset: 1, 0
+  index: -1
+dragon_henes_adult_mouth
+  rotate: true
+  xy: 849, 1207
+  size: 25, 14
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+dragon_henes_child_r_leg3
+  rotate: true
+  xy: 428, 1279
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+dragon_henes_baby_r_bwing_a2
+  rotate: true
+  xy: 608, 1234
+  size: 48, 71
+  orig: 48, 71
+  offset: 0, 0
+  index: -1
+dragon_henes_baby_r_bwing_a4
+  rotate: false
+  xy: 978, 962
+  size: 42, 77
+  orig: 44, 77
+  offset: 1, 0
+  index: -1
+dragon_e_henes_adult_neck
+  rotate: true
+  xy: 740, 1234
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+dragon_henes_baby_r_bwing_a3
+  rotate: true
+  xy: 629, 1144
+  size: 45, 75
+  orig: 45, 75
+  offset: 0, 0
+  index: -1
+dragon_henes_child_r_leg1
+  rotate: false
+  xy: 827, 1276
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_loveeye
+  rotate: true
+  xy: 211, 223
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+dragon_henes_baby_r_bwing_a5
+  rotate: false
+  xy: 395, 99
+  size: 47, 80
+  orig: 47, 80
+  offset: 0, 0
+  index: -1
+dragon_henes_baby_r_bwing_a1
+  rotate: true
+  xy: 697, 951
+  size: 49, 79
+  orig: 49, 79
+  offset: 0, 0
+  index: -1
+dragon_henes_baby_r_legshield
+  rotate: false
+  xy: 713, 929
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+dragon_e_henes_adult_heed
+  rotate: true
+  xy: 609, 661
+  size: 95, 123
+  orig: 95, 123
+  offset: 0, 0
+  index: -1
+dragon_henes_child_eye
+  rotate: true
+  xy: 697, 937
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_tail_c10
+  rotate: false
+  xy: 220, 153
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+dragon_henes_child_blush
+  rotate: false
+  xy: 882, 1095
+  size: 22, 20
+  orig: 26, 26
+  offset: 2, 3
+  index: -1
+dragon_henes_adult_tail_c11
+  rotate: false
+  xy: 941, 1289
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+dragon_e_henes_adult_r_wing2
+  rotate: false
+  xy: 2, 2
+  size: 239, 113
+  orig: 239, 113
+  offset: 0, 0
+  index: -1
+dragon_henes_critical_tail18
+  rotate: true
+  xy: 861, 682
+  size: 119, 126
+  orig: 145, 158
+  offset: 4, 0
+  index: -1
+dragon_henes_critical_tail19
+  rotate: false
+  xy: 488, 674
+  size: 119, 124
+  orig: 145, 158
+  offset: 4, 0
+  index: -1
+dragon_henes_critical_tail16
+  rotate: false
+  xy: 728, 390
+  size: 121, 128
+  orig: 145, 158
+  offset: 3, 1
+  index: -1
+dragon_henes_adult_love1
+  rotate: true
+  xy: 725, 1294
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+dragon_henes_critical_tail17
+  rotate: false
+  xy: 734, 520
+  size: 121, 126
+  orig: 145, 158
+  offset: 3, 1
+  index: -1
+dragon_henes_adult_love2
+  rotate: false
+  xy: 920, 1077
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+dragon_henes_critical_tail14
+  rotate: false
+  xy: 484, 542
+  size: 123, 130
+  orig: 145, 158
+  offset: 2, 1
+  index: -1
+dragon_henes_adult_love3
+  rotate: true
+  xy: 953, 93
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+dragon_henes_critical_light2
+  rotate: true
+  xy: 96, 223
+  size: 186, 113
+  orig: 190, 113
+  offset: 1, 0
+  index: -1
+dragon_henes_critical_tail15
+  rotate: false
+  xy: 609, 531
+  size: 123, 128
+  orig: 145, 158
+  offset: 2, 1
+  index: -1
+dragon_henes_adult_love4
+  rotate: true
+  xy: 968, 1272
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+dragon_henes_critical_tail12
+  rotate: true
+  xy: 586, 200
+  size: 125, 132
+  orig: 145, 158
+  offset: 3, 2
+  index: -1
+dragon_henes_adult_tail_c8
+  rotate: true
+  xy: 883, 1240
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_r_bwing_a2_b2
+  rotate: true
+  xy: 978, 819
+  size: 141, 42
+  orig: 143, 44
+  offset: 1, 1
+  index: -1
+dragon_henes_critical_tail13
+  rotate: false
+  xy: 603, 399
+  size: 123, 130
+  orig: 145, 158
+  offset: 2, 1
+  index: -1
+dragon_henes_adult_tail_c7
+  rotate: false
+  xy: 720, 265
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_r_bwing_a2_b1
+  rotate: false
+  xy: 851, 803
+  size: 125, 56
+  orig: 127, 56
+  offset: 1, 0
+  index: -1
+dragon_henes_critical_tail10
+  rotate: false
+  xy: 249, 557
+  size: 133, 140
+  orig: 145, 158
+  offset: 2, 2
+  index: -1
+dragon_henes_adult_r_bwing_a2_b4
+  rotate: false
+  xy: 893, 314
+  size: 127, 68
+  orig: 127, 68
+  offset: 0, 0
+  index: -1
+dragon_e_henes_adult_r_wing1
+  rotate: false
+  xy: 489, 1127
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+dragon_henes_critical_tail11
+  rotate: false
+  xy: 455, 176
+  size: 129, 138
+  orig: 145, 158
+  offset: 3, 2
+  index: -1
+dragon_henes_adult_tail_c9
+  rotate: false
+  xy: 987, 1287
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_r_bwing_a2_b3
+  rotate: false
+  xy: 734, 648
+  size: 121, 50
+  orig: 121, 52
+  offset: 0, 1
+  index: -1
+dragon_henes_critical_light1
+  rotate: false
+  xy: 455, 930
+  size: 98, 93
+  orig: 110, 103
+  offset: 6, 0
+  index: -1
+dragon_henes_adult_r_bwing_a2_b5
+  rotate: true
+  xy: 960, 2
+  size: 128, 60
+  orig: 130, 62
+  offset: 1, 1
+  index: -1
+dragon_henes_adult_tail_c0
+  rotate: false
+  xy: 977, 1230
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+dragon_e_henes_adult_heed_light
+  rotate: true
+  xy: 910, 597
+  size: 83, 107
+  orig: 85, 109
+  offset: 1, 1
+  index: -1
+dragon_henes_adult_tail_c2
+  rotate: true
+  xy: 740, 1293
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_tail_c1
+  rotate: false
+  xy: 846, 1066
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_tail_c4
+  rotate: false
+  xy: 96, 411
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_henes_baby_mouth
+  rotate: true
+  xy: 220, 117
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_tail_c3
+  rotate: false
+  xy: 555, 1288
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_tail_b6
+  rotate: true
+  xy: 590, 836
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_tail_c5
+  rotate: false
+  xy: 586, 176
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_tail_b7
+  rotate: false
+  xy: 986, 1272
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+dragon_henes_critical_tail20
+  rotate: true
+  xy: 609, 758
+  size: 117, 122
+  orig: 145, 158
+  offset: 4, 0
+  index: -1
+dragon_henes_adult_l_leg4
+  rotate: false
+  xy: 950, 1136
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+dragon_henes_critical_tail6
+  rotate: false
+  xy: 2, 609
+  size: 145, 156
+  orig: 145, 158
+  offset: 0, 2
+  index: -1
+dragon_e_henes_adult_l_leg1
+  rotate: false
+  xy: 681, 1234
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_l_leg2
+  rotate: true
+  xy: 713, 877
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+dragon_e_henes_adult_l_bwing2
+  rotate: false
+  xy: 392, 678
+  size: 94, 66
+  orig: 96, 68
+  offset: 1, 1
+  index: -1
+dragon_henes_critical_tail7
+  rotate: false
+  xy: 2, 767
+  size: 141, 152
+  orig: 145, 158
+  offset: 1, 2
+  index: -1
+dragon_e_henes_adult_l_leg4
+  rotate: false
+  xy: 950, 1095
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+dragon_henes_critical_tail8
+  rotate: false
+  xy: 2, 921
+  size: 139, 148
+  orig: 145, 158
+  offset: 1, 2
+  index: -1
+dragon_e_henes_adult_l_leg3
+  rotate: true
+  xy: 746, 265
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+dragon_henes_critical_tail9
+  rotate: false
+  xy: 234, 411
+  size: 135, 144
+  orig: 145, 158
+  offset: 2, 2
+  index: -1
+dragon_henes_adult_l_leg3
+  rotate: false
+  xy: 946, 1056
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_tail_b0
+  rotate: false
+  xy: 942, 1219
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+dragon_henes_critical_tail2
+  rotate: false
+  xy: 567, 1016
+  size: 67, 94
+  orig: 145, 158
+  offset: 0, 3
+  index: -1
+dragon_henes_critical_tail3
+  rotate: true
+  xy: 906, 384
+  size: 87, 114
+  orig: 145, 158
+  offset: 0, 3
+  index: -1
+dragon_henes_adult_tail_b2
+  rotate: false
+  xy: 847, 1053
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_l_leg1
+  rotate: true
+  xy: 773, 1151
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+dragon_henes_critical_tail4
+  rotate: false
+  xy: 371, 410
+  size: 109, 132
+  orig: 145, 158
+  offset: 0, 3
+  index: -1
+dragon_a_henes_critical_star
+  rotate: false
+  xy: 259, 1221
+  size: 65, 90
+  orig: 65, 90
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_r_wing2_light2
+  rotate: false
+  xy: 851, 956
+  size: 76, 45
+  orig: 78, 51
+  offset: 1, 3
+  index: -1
+dragon_henes_adult_tail_b1
+  rotate: true
+  xy: 870, 1253
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+dragon_henes_critical_tail5
+  rotate: false
+  xy: 2, 1071
+  size: 133, 148
+  orig: 145, 158
+  offset: 0, 3
+  index: -1
+dragon_henes_adult_tail_b4
+  rotate: false
+  xy: 857, 665
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_tail_b3
+  rotate: true
+  xy: 580, 1288
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+dragon_e_henes_adult_l_bwing1
+  rotate: false
+  xy: 351, 321
+  size: 125, 87
+  orig: 127, 89
+  offset: 1, 1
+  index: -1
+dragon_henes_baby_l_bwing1
+  rotate: true
+  xy: 844, 1107
+  size: 42, 36
+  orig: 42, 38
+  offset: 0, 1
+  index: -1
+dragon_henes_adult_closeeye
+  rotate: true
+  xy: 384, 678
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_tail_b5
+  rotate: false
+  xy: 322, 1049
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+dragon_henes_critical_tail1
+  rotate: false
+  xy: 555, 1212
+  size: 51, 74
+  orig: 145, 158
+  offset: 0, 1
+  index: -1
+dragon_henes_child_mouht
+  rotate: true
+  xy: 527, 1280
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+dragon_henes_child_tail12
+  rotate: false
+  xy: 894, 1066
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_atteye
+  rotate: true
+  xy: 1008, 1300
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dragon_henes_child_body
+  rotate: false
+  xy: 780, 1107
+  size: 62, 42
+  orig: 62, 42
+  offset: 0, 0
+  index: -1
+dragon_henes_child_r_bwing_a2
+  rotate: true
+  xy: 149, 718
+  size: 95, 98
+  orig: 95, 100
+  offset: 0, 1
+  index: -1
+dragon_henes_child_tail0
+  rotate: false
+  xy: 919, 1117
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_eye
+  rotate: true
+  xy: 211, 223
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+dragon_henes_child_r_bwing_a3
+  rotate: false
+  xy: 145, 815
+  size: 98, 104
+  orig: 98, 104
+  offset: 0, 0
+  index: -1
+dragon_henes_child_tail1
+  rotate: false
+  xy: 831, 1234
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_tail_a0
+  rotate: true
+  xy: 942, 1249
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+dragon_henes_baby_l _leg2
+  rotate: false
+  xy: 649, 1284
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+dragon_henes_child_r_bwing_a4
+  rotate: true
+  xy: 383, 746
+  size: 86, 102
+  orig: 86, 104
+  offset: 0, 1
+  index: -1
+dragon_henes_child_tail10
+  rotate: true
+  xy: 965, 1289
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+dragon_henes_child_tail2
+  rotate: false
+  xy: 608, 1215
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_henes_child_r_bwing_a5
+  rotate: false
+  xy: 388, 1172
+  size: 89, 105
+  orig: 91, 107
+  offset: 1, 1
+  index: -1
+dragon_henes_child_tail11
+  rotate: false
+  xy: 867, 1066
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+dragon_henes_child_tail3
+  rotate: false
+  xy: 469, 834
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_l_bwing1
+  rotate: true
+  xy: 367, 907
+  size: 116, 86
+  orig: 118, 86
+  offset: 1, 0
+  index: -1
+dragon_henes_adult_tail_a2
+  rotate: false
+  xy: 850, 1240
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+dragon_henes_child_tail4
+  rotate: true
+  xy: 702, 1294
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_tail_a1
+  rotate: true
+  xy: 367, 1025
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_l_bwing2
+  rotate: true
+  xy: 326, 1221
+  size: 90, 60
+  orig: 92, 62
+  offset: 1, 1
+  index: -1
+dragon_henes_child_tail5
+  rotate: true
+  xy: 678, 1294
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_tail_a4
+  rotate: false
+  xy: 793, 1293
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+dragon_henes_child_tail6
+  rotate: false
+  xy: 849, 1253
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_tail_a3
+  rotate: false
+  xy: 876, 1053
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+dragon_henes_child_r_bwing_a1
+  rotate: true
+  xy: 478, 316
+  size: 92, 104
+  orig: 92, 104
+  offset: 0, 0
+  index: -1
+dragon_henes_child_tail7
+  rotate: true
+  xy: 921, 1056
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+dragon_e_henes_adult_tail_b0
+  rotate: false
+  xy: 388, 1279
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+dragon_e_henes_adult_r_bwing2
+  rotate: false
+  xy: 908, 230
+  size: 110, 82
+  orig: 112, 84
+  offset: 1, 1
+  index: -1
+dragon_henes_child_tail8
+  rotate: false
+  xy: 906, 1095
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_tail_a5
+  rotate: false
+  xy: 986, 1272
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+dragon_henes_child_tail9
+  rotate: false
+  xy: 827, 1253
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+dragon_henes_baby_l _leg1
+  rotate: false
+  xy: 903, 1276
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+dragon_e_henes_adult_r_bwing5
+  rotate: true
+  xy: 2, 443
+  size: 164, 117
+  orig: 166, 119
+  offset: 1, 1
+  index: -1
+dragon_henes_baby_blush
+  rotate: true
+  xy: 444, 99
+  size: 25, 16
+  orig: 29, 20
+  offset: 1, 2
+  index: -1
+dragon_e_henes_adult_r_bwing1
+  rotate: false
+  xy: 760, 93
+  size: 146, 99
+  orig: 148, 101
+  offset: 1, 1
+  index: -1
+dragon_henes_adult_r_wing2
+  rotate: false
+  xy: 2, 117
+  size: 216, 104
+  orig: 216, 104
+  offset: 0, 0
+  index: -1
+dragon_e_henes_adult_r_bwing6
+  rotate: false
+  xy: 720, 288
+  size: 128, 100
+  orig: 130, 102
+  offset: 1, 1
+  index: -1
+dragon_e_henes_adult_tail_a0
+  rotate: true
+  xy: 121, 565
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+dragon_henes_critical_horn2
+  rotate: false
+  xy: 1008, 682
+  size: 10, 135
+  orig: 18, 135
+  offset: 4, 0
+  index: -1
+dragon_henes_adult_r_wing1
+  rotate: false
+  xy: 479, 1206
+  size: 74, 72
+  orig: 74, 72
+  offset: 0, 0
+  index: -1
+dragon_henes_critical_horn1
+  rotate: false
+  xy: 989, 682
+  size: 17, 129
+  orig: 17, 131
+  offset: 0, 0
+  index: -1
+dragon_e_henes_adult_tail_c10
+  rotate: false
+  xy: 361, 825
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+dragon_e_henes_adult_r_leg1
+  rotate: true
+  xy: 773, 1055
+  size: 50, 71
+  orig: 50, 71
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_l_wing2
+  rotate: true
+  xy: 2, 223
+  size: 218, 92
+  orig: 218, 92
+  offset: 0, 0
+  index: -1
+dragon_e_henes_adult_tail_c11
+  rotate: true
+  xy: 629, 1122
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_l_wing1
+  rotate: false
+  xy: 707, 1002
+  size: 64, 68
+  orig: 64, 68
+  offset: 0, 0
+  index: -1
+dragon_e_henes_adult_r_leg3
+  rotate: true
+  xy: 893, 288
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+dragon_e_henes_adult_r_leg4
+  rotate: false
+  xy: 946, 1176
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+dragon_henes_baby_closeeye
+  rotate: true
+  xy: 761, 1190
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_l_wing2_light
+  rotate: false
+  xy: 905, 1238
+  size: 35, 36
+  orig: 37, 38
+  offset: 1, 1
+  index: -1
+dragon_e_henes_adult_r_wing2_light2
+  rotate: true
+  xy: 555, 930
+  size: 84, 54
+  orig: 86, 60
+  offset: 1, 1
+  index: -1
+dragon_henes_adult_r_leg4
+  rotate: true
+  xy: 978, 1164
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+dragon_e_henes_adult_tail_c8
+  rotate: true
+  xy: 234, 557
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_r_leg2
+  rotate: false
+  xy: 269, 1049
+  size: 51, 20
+  orig: 51, 20
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_heed_light
+  rotate: true
+  xy: 707, 1072
+  size: 42, 64
+  orig: 44, 66
+  offset: 1, 1
+  index: -1
+dragon_henes_critical_circle
+  rotate: true
+  xy: 612, 1112
+  size: 101, 15
+  orig: 103, 17
+  offset: 1, 1
+  index: -1
+dragon_e_henes_adult_tail_c7
+  rotate: false
+  xy: 383, 737
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_r_leg3
+  rotate: true
+  xy: 608, 1284
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+dragon_e_henes_adult_tail_c9
+  rotate: true
+  xy: 629, 1112
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_r_leg1
+  rotate: true
+  xy: 778, 951
+  size: 50, 71
+  orig: 50, 71
+  offset: 0, 0
+  index: -1
+dragon_henes_child_neck
+  rotate: false
+  xy: 772, 1210
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+dragon_e_henes_adult_tail_c0
+  rotate: true
+  xy: 929, 956
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+dragon_henes_baby_r_wing1
+  rotate: false
+  xy: 703, 1191
+  size: 56, 41
+  orig: 56, 41
+  offset: 0, 0
+  index: -1
+dragon_e_henes_adult_tail_c2
+  rotate: true
+  xy: 953, 104
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+dragon_e_henes_adult_tail_c1
+  rotate: false
+  xy: 106, 436
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+dragon_e_henes_adult_tail_c4
+  rotate: false
+  xy: 96, 436
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+dragon_e_henes_adult_tail_c3
+  rotate: true
+  xy: 384, 688
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+dragon_henes_baby_l_wing
+  rotate: false
+  xy: 772, 1253
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+dragon_henes_child_l_wing1
+  rotate: false
+  xy: 733, 761
+  size: 116, 100
+  orig: 116, 100
+  offset: 0, 0
+  index: -1
+dragon_e_henes_adult_tail_c5
+  rotate: true
+  xy: 600, 1288
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+dragon_henes_child_r_wing1
+  rotate: true
+  xy: 805, 2
+  size: 89, 153
+  orig: 89, 153
+  offset: 0, 0
+  index: -1
+dragon_henes_child_r_bwing
+  rotate: false
+  xy: 487, 800
+  size: 101, 75
+  orig: 103, 77
+  offset: 1, 1
+  index: -1
+dragon_henes_adult_r_bwing1
+  rotate: false
+  xy: 361, 834
+  size: 106, 71
+  orig: 108, 71
+  offset: 1, 0
+  index: -1
+dragon_henes_baby_r_leg2
+  rotate: false
+  xy: 590, 800
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_tail _c6
+  rotate: false
+  xy: 720, 265
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_r_bwing2
+  rotate: false
+  xy: 733, 863
+  size: 116, 86
+  orig: 118, 86
+  offset: 1, 0
+  index: -1
+dragon_henes_baby_r_leg1
+  rotate: false
+  xy: 882, 1117
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+dragon_a_henes_critical_star2
+  rotate: true
+  xy: 773, 1003
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_r_bwing_a1_a2
+  rotate: false
+  xy: 211, 313
+  size: 138, 96
+  orig: 140, 98
+  offset: 1, 1
+  index: -1
+dragon_henes_adult_r_bwing_a1_a1
+  rotate: false
+  xy: 2, 1221
+  size: 150, 90
+  orig: 152, 92
+  offset: 1, 1
+  index: -1
+dragon_henes_adult_r_bwing_a1_a4
+  rotate: false
+  xy: 611, 93
+  size: 147, 105
+  orig: 149, 107
+  offset: 1, 2
+  index: -1
+dragon_henes_adult_neck
+  rotate: false
+  xy: 468, 1280
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_r_bwing_a1_a3
+  rotate: true
+  xy: 384, 544
+  size: 132, 98
+  orig: 134, 98
+  offset: 1, 0
+  index: -1
+dragon_henes_child_head
+  rotate: true
+  xy: 614, 877
+  size: 58, 97
+  orig: 58, 97
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_r_bwing_a1_a5
+  rotate: true
+  xy: 121, 411
+  size: 152, 111
+  orig: 152, 113
+  offset: 0, 1
+  index: -1
+dragon_e_henes_adult_l_wing2_light2
+  rotate: false
+  xy: 847, 1003
+  size: 74, 48
+  orig: 78, 54
+  offset: 2, 2
+  index: -1
+dragon_henes_baby_l_bwing_a2
+  rotate: true
+  xy: 706, 1151
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: -1
+dragon_henes_baby_l_bwing_a4
+  rotate: true
+  xy: 636, 1102
+  size: 40, 69
+  orig: 40, 69
+  offset: 0, 0
+  index: -1
+dragon_henes_baby_l_bwing_a3
+  rotate: false
+  xy: 720, 200
+  size: 38, 63
+  orig: 38, 63
+  offset: 0, 0
+  index: -1
+dragon_henes_baby_l_bwing_a5
+  rotate: true
+  xy: 629, 1191
+  size: 41, 72
+  orig: 41, 72
+  offset: 0, 0
+  index: -1
+dragon_henes_baby_l_bwing_a1
+  rotate: true
+  xy: 707, 1116
+  size: 33, 71
+  orig: 33, 71
+  offset: 0, 0
+  index: -1
+dragon_henes_critical_Headdress2
+  rotate: false
+  xy: 648, 2
+  size: 155, 89
+  orig: 155, 89
+  offset: 0, 0
+  index: -1
+dragon_henes_critical_wing
+  rotate: true
+  xy: 436, 1025
+  size: 145, 51
+  orig: 145, 51
+  offset: 0, 0
+  index: -1
+dragon_e_henes_adult_r_wing2_f
+  rotate: false
+  xy: 908, 93
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_r_wing2_light
+  rotate: false
+  xy: 905, 1200
+  size: 35, 36
+  orig: 37, 38
+  offset: 1, 1
+  index: -1
+dragon_henes_baby_head
+  rotate: true
+  xy: 489, 1025
+  size: 100, 76
+  orig: 100, 76
+  offset: 0, 0
+  index: -1
+dragon_e_henes_adult_l_wing2
+  rotate: false
+  xy: 243, 2
+  size: 217, 95
+  orig: 217, 95
+  offset: 0, 0
+  index: -1
+dragon_e_henes_adult_l_wing1
+  rotate: false
+  xy: 636, 1016
+  size: 69, 84
+  orig: 69, 84
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_l_bwing1_a2_b4
+  rotate: false
+  xy: 734, 700
+  size: 125, 59
+  orig: 127, 59
+  offset: 1, 0
+  index: -1
+dragon_henes_adult_l_bwing1_a2_b5
+  rotate: true
+  xy: 851, 388
+  size: 128, 53
+  orig: 130, 53
+  offset: 1, 0
+  index: -1
+dragon_henes_critical_spear6
+  rotate: false
+  xy: 220, 181
+  size: 148, 130
+  orig: 198, 134
+  offset: 47, 3
+  index: -1
+dragon_henes_adult_l_bwing1_a2_b2
+  rotate: false
+  xy: 249, 699
+  size: 141, 36
+  orig: 143, 38
+  offset: 1, 1
+  index: -1
+dragon_henes_child_love
+  rotate: true
+  xy: 905, 1053
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_l_bwing1_a2_b3
+  rotate: false
+  xy: 851, 911
+  size: 119, 43
+  orig: 121, 45
+  offset: 1, 1
+  index: -1
+dragon_henes_critical_spear4
+  rotate: true
+  xy: 143, 921
+  size: 148, 124
+  orig: 198, 134
+  offset: 41, 3
+  index: -1
+dragon_henes_critical_spear5
+  rotate: true
+  xy: 253, 1071
+  size: 148, 128
+  orig: 198, 134
+  offset: 46, 3
+  index: -1
+dragon_henes_adult_l_bwing1_a2_b1
+  rotate: false
+  xy: 851, 861
+  size: 125, 48
+  orig: 127, 50
+  offset: 1, 1
+  index: -1
+dragon_henes_critical_spear2
+  rotate: false
+  xy: 760, 194
+  size: 146, 92
+  orig: 198, 134
+  offset: 12, 3
+  index: -1
+dragon_henes_critical_spear3
+  rotate: true
+  xy: 137, 1071
+  size: 148, 114
+  orig: 198, 134
+  offset: 31, 3
+  index: -1
+dragon_henes_adult_dameeye
+  rotate: false
+  xy: 351, 313
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+dragon_henes_critical_spear1
+  rotate: false
+  xy: 584, 327
+  size: 134, 70
+  orig: 198, 134
+  offset: 4, 3
+  index: -1
+dragon_e_henes_adult_l_wing2_light
+  rotate: true
+  xy: 865, 1276
+  size: 35, 36
+  orig: 37, 38
+  offset: 1, 1
+  index: -1
+dragon_henes_adult_l_wing2_light2
+  rotate: true
+  xy: 978, 1041
+  size: 74, 42
+  orig: 76, 44
+  offset: 1, 2
+  index: -1
+dragon_henes_child_l_leg2
+  rotate: false
+  xy: 367, 1053
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+dragon_henes_child_l_bwing_a2
+  rotate: true
+  xy: 245, 825
+  size: 94, 114
+  orig: 94, 116
+  offset: 0, 1
+  index: -1
+dragon_henes_child_l_leg3
+  rotate: true
+  xy: 977, 1195
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+dragon_henes_baby_body
+  rotate: false
+  xy: 865, 1151
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+dragon_henes_child_l_bwing_a3
+  rotate: true
+  xy: 908, 132
+  size: 96, 112
+  orig: 98, 114
+  offset: 1, 2
+  index: -1
+dragon_henes_child_l_bwing_a4
+  rotate: false
+  xy: 910, 473
+  size: 110, 122
+  orig: 112, 124
+  offset: 1, 1
+  index: -1
+dragon_henes_baby_tail2
+  rotate: false
+  xy: 831, 1210
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+dragon_henes_child_closeeye
+  rotate: true
+  xy: 1008, 1287
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+dragon_henes_child_l_bwing_a5
+  rotate: false
+  xy: 482, 410
+  size: 119, 130
+  orig: 119, 132
+  offset: 0, 2
+  index: -1
+dragon_henes_baby_tail3
+  rotate: true
+  xy: 876, 665
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+dragon_henes_baby_hart
+  rotate: true
+  xy: 905, 1151
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+dragon_henes_baby_tail4
+  rotate: false
+  xy: 469, 856
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+dragon_henes_baby_tail5
+  rotate: false
+  xy: 444, 126
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+dragon_henes_child_l_leg1
+  rotate: false
+  xy: 833, 1151
+  size: 30, 54
+  orig: 32, 56
+  offset: 2, 0
+  index: -1
+dragon_henes_child_l_bwing_a1
+  rotate: false
+  xy: 269, 921
+  size: 96, 126
+  orig: 98, 126
+  offset: 1, 0
+  index: -1
+dragon_henes_baby_tail0
+  rotate: true
+  xy: 767, 1293
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_atteye2
+  rotate: false
+  xy: 371, 544
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dragon_henes_baby_tail1
+  rotate: true
+  xy: 444, 146
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+dragon_henes_adult_atteye3
+  rotate: false
+  xy: 584, 399
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1

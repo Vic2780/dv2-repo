@@ -4,217 +4,238 @@ filter: Linear,Linear
 repeat: none
 dragon_balkan_adult_fireball3
   rotate: false
-  xy: 1200, 227
+  xy: 450, 828
   size: 122, 133
   orig: 122, 133
   offset: 0, 0
   index: -1
 dragon_balkan_baby_headfire1
   rotate: true
-  xy: 1719, 400
+  xy: 509, 1911
   size: 26, 33
   orig: 34, 35
   offset: 8, 2
   index: -1
 dragon_balkan_child_leg5
   rotate: true
-  xy: 1719, 355
+  xy: 649, 1966
   size: 16, 35
   orig: 16, 35
   offset: 0, 0
   index: -1
 dragon_balkan_child_mouth2
-  rotate: true
-  xy: 1605, 112
+  rotate: false
+  xy: 593, 1946
   size: 28, 29
   orig: 28, 29
   offset: 0, 0
   index: -1
 dragon_balkan_child_tail2
-  rotate: true
-  xy: 1700, 137
+  rotate: false
+  xy: 372, 1930
   size: 46, 56
   orig: 46, 56
   offset: 0, 0
   index: -1
 dragon_balkan_baby_eye
   rotate: true
-  xy: 1605, 423
+  xy: 349, 1989
   size: 42, 17
   orig: 42, 17
   offset: 0, 0
   index: -1
 dragon_balkan_adult_fire1
   rotate: true
-  xy: 1170, 2
+  xy: 450, 1098
   size: 141, 110
   orig: 199, 146
   offset: 58, 9
   index: -1
 dragon_balkan_child_leg4fire3
   rotate: false
-  xy: 1338, 411
+  xy: 266, 1990
   size: 26, 54
   orig: 28, 56
   offset: 0, 0
   index: -1
 dragon_balkan_child_eye
   rotate: false
-  xy: 1533, 204
+  xy: 671, 1292
   size: 12, 16
   orig: 12, 16
   offset: 0, 0
   index: -1
 dragon_balkan_child_neck2
-  rotate: true
-  xy: 1636, 135
+  rotate: false
+  xy: 653, 128
   size: 39, 62
   orig: 41, 62
   offset: 0, 0
   index: -1
 dragon_balkan_baby_smile
   rotate: true
-  xy: 1696, 296
+  xy: 262, 1931
   size: 57, 60
   orig: 57, 60
   offset: 0, 0
   index: -1
 dragon_balkan_adult_tail2
   rotate: true
-  xy: 1328, 2
+  xy: 623, 696
   size: 133, 44
   orig: 133, 44
   offset: 0, 0
   index: -1
 dragon_balkan_baby_leg2fire1
-  rotate: true
-  xy: 1514, 114
+  rotate: false
+  xy: 671, 1258
   size: 21, 32
   orig: 21, 32
   offset: 0, 0
   index: -1
+dragon_balkan_adult_e_tail_acc
+  rotate: true
+  xy: 650, 1607
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
 dragon_balkan_adult_headfire1
   rotate: false
-  xy: 1394, 411
+  xy: 322, 1990
   size: 25, 54
   orig: 29, 60
   offset: 0, 0
   index: -1
-dragon_balkan_adult_leg5
+dragon_balkan_adult_e_face_acc
   rotate: false
-  xy: 1361, 340
+  xy: 562, 1098
+  size: 73, 110
+  orig: 79, 110
+  offset: 1, 0
+  index: -1
+dragon_balkan_adult_leg5
+  rotate: true
+  xy: 598, 1977
   size: 31, 20
   orig: 31, 20
   offset: 0, 0
   index: -1
 dragon_balkan_critical_dmg1
   rotate: false
-  xy: 942, 2
+  xy: 210, 1618
   size: 226, 235
   orig: 446, 457
   offset: 108, 121
   index: -1
 dragon_balkan_adult_neck1
-  rotate: true
-  xy: 1316, 362
+  rotate: false
+  xy: 637, 1097
   size: 47, 65
   orig: 47, 65
   offset: 0, 0
   index: -1
 dragon_balkan_baby_headfire2
   rotate: true
-  xy: 1605, 172
+  xy: 598, 2014
   size: 28, 29
   orig: 34, 35
   offset: 6, 2
   index: -1
 dragon_balkan_adult_wing3
   rotate: true
-  xy: 1324, 216
+  xy: 544, 1515
   size: 122, 101
   orig: 122, 107
   offset: 0, 0
   index: -1
 dragon_balkan_baby_leg2fire2
-  rotate: true
-  xy: 1480, 114
+  rotate: false
+  xy: 671, 1224
   size: 21, 32
   orig: 21, 32
   offset: 0, 0
   index: -1
 dragon_balkan_child_armor1
   rotate: false
-  xy: 1700, 403
+  xy: 677, 1984
   size: 15, 13
   orig: 15, 13
   offset: 0, 0
   index: -1
 dragon_balkan_child_leg1fire1
-  rotate: true
-  xy: 1700, 185
+  rotate: false
+  xy: 420, 1944
   size: 27, 56
   orig: 29, 56
   offset: 0, 0
   index: -1
 dragon_balkan_child_body
   rotate: true
-  xy: 1399, 137
+  xy: 368, 1855
   size: 73, 56
   orig: 73, 56
   offset: 0, 0
   index: -1
 dragon_balkan_adult_headfire2
-  rotate: true
-  xy: 1420, 114
+  rotate: false
+  xy: 671, 1164
   size: 21, 58
   orig: 29, 60
   offset: 0, 0
   index: -1
 dragon_balkan_baby_tail3
-  rotate: false
-  xy: 1068, 412
+  rotate: true
+  xy: 669, 754
   size: 41, 22
   orig: 41, 22
   offset: 0, 0
   index: -1
 dragon_balkan_baby_leg1
   rotate: true
-  xy: 1572, 112
+  xy: 420, 2030
   size: 14, 29
   orig: 14, 29
   offset: 0, 0
   index: -1
 dragon_balkan_child_wing3
-  rotate: true
-  xy: 1247, 145
+  rotate: false
+  xy: 210, 1855
   size: 77, 74
   orig: 77, 80
   offset: 0, 0
   index: -1
-dragon_balkan_baby_wing1
-  rotate: true
-  xy: 1533, 296
-  size: 37, 32
-  orig: 37, 32
-  offset: 0, 0
-  index: -1
 dragon_balkan_baby_head1
-  rotate: false
-  xy: 1605, 360
+  rotate: true
+  xy: 199, 1931
   size: 57, 61
   orig: 57, 61
   offset: 0, 0
   index: -1
+dragon_balkan_baby_wing1
+  rotate: false
+  xy: 655, 1854
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
 dragon_balkan_critical_fireball
   rotate: false
-  xy: 1427, 212
+  xy: 438, 1630
   size: 104, 121
   orig: 122, 133
   offset: 8, 6
   index: -1
-dragon_balkan_child_tail1
+dragon_balkan_adult_e_l_leg_acc2
   rotate: true
-  xy: 1547, 185
+  xy: 623, 1946
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+dragon_balkan_child_tail1
+  rotate: false
+  xy: 372, 1988
   size: 46, 56
   orig: 46, 56
   offset: 0, 0
@@ -226,249 +247,312 @@ dragon_balkan_critical_shining
   orig: 494, 467
   offset: 4, 1
   index: -1
+dragon_balkan_adult_e_fireball1
+  rotate: false
+  xy: 544, 1639
+  size: 104, 121
+  orig: 122, 133
+  offset: 8, 6
+  index: -1
 dragon_balkan_child_head2
-  rotate: true
-  xy: 1638, 39
+  rotate: false
+  xy: 562, 1320
   size: 46, 62
   orig: 46, 62
   offset: 0, 0
   index: -1
-dragon_balkan_baby_wing2
+dragon_balkan_critical_e_dmg1
   rotate: false
-  xy: 1469, 335
-  size: 37, 24
-  orig: 37, 32
-  offset: 0, 1
+  xy: 210, 1381
+  size: 226, 235
+  orig: 446, 457
+  offset: 108, 121
   index: -1
 dragon_balkan_baby_head2
-  rotate: true
-  xy: 1633, 264
+  rotate: false
+  xy: 635, 1447
   size: 57, 61
   orig: 57, 61
   offset: 0, 0
   index: -1
+dragon_balkan_baby_wing2
+  rotate: false
+  xy: 655, 1888
+  size: 37, 24
+  orig: 37, 32
+  offset: 0, 1
+  index: -1
 dragon_balkan_adult_fireball1
   rotate: false
-  xy: 1427, 212
+  xy: 438, 1630
   size: 104, 121
   orig: 122, 133
   offset: 8, 6
   index: -1
 dragon_balkan_adult_wing2
   rotate: true
-  xy: 1420, 2
+  xy: 544, 1762
   size: 110, 107
   orig: 122, 107
   offset: 0, 0
   index: -1
 dragon_balkan_adult_leg6fire1
   rotate: false
-  xy: 1567, 309
+  xy: 509, 1990
   size: 32, 49
   orig: 32, 49
   offset: 0, 0
   index: -1
 dragon_balkan_child_neck1
   rotate: false
-  xy: 1297, 411
+  xy: 653, 1724
   size: 39, 54
   orig: 41, 62
   offset: 0, 0
   index: -1
+dragon_balkan_adult_e_l_foot_acc2
+  rotate: true
+  xy: 478, 1998
+  size: 41, 29
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
 dragon_balkan_adult_tail1
   rotate: true
-  xy: 1374, 2
+  xy: 605, 831
   size: 133, 44
   orig: 133, 44
   offset: 0, 0
   index: -1
+dragon_balkan_adult_e_l_foot_acc
+  rotate: false
+  xy: 647, 1577
+  size: 45, 28
+  orig: 45, 32
+  offset: 0, 0
+  index: -1
+dragon_balkan_adult_e_fire3
+  rotate: false
+  xy: 2, 1866
+  size: 195, 124
+  orig: 199, 146
+  offset: 0, 0
+  index: -1
 dragon_balkan_child_wing2
-  rotate: true
-  xy: 1323, 137
+  rotate: false
+  xy: 289, 1855
   size: 77, 74
   orig: 77, 80
   offset: 0, 0
   index: -1
 dragon_balkan_adult_leg4fire1
-  rotate: true
-  xy: 1638, 2
+  rotate: false
+  xy: 650, 1659
   size: 35, 63
   orig: 35, 63
   offset: 0, 0
   index: -1
 dragon_balkan_baby_headfire3
-  rotate: false
-  xy: 1719, 373
+  rotate: true
+  xy: 571, 1999
   size: 34, 25
   orig: 34, 35
   offset: 0, 0
   index: -1
 dragon_balkan_baby_leg2fire3
-  rotate: true
-  xy: 1394, 340
+  rotate: false
+  xy: 669, 797
   size: 19, 32
   orig: 21, 32
   offset: 0, 0
   index: -1
 dragon_balkan_adult_mouth
-  rotate: false
-  xy: 1548, 112
+  rotate: true
+  xy: 669, 730
   size: 22, 23
   orig: 22, 23
   offset: 0, 0
   index: -1
 dragon_balkan_adult_leg1fire3
   rotate: false
-  xy: 1504, 137
+  xy: 651, 831
   size: 41, 65
   orig: 53, 65
   offset: 12, 0
   index: -1
 dragon_balkan_child_armor2
   rotate: false
-  xy: 1533, 222
+  xy: 349, 2033
   size: 12, 11
   orig: 12, 11
   offset: 0, 0
   index: -1
 dragon_balkan_adult_headfire3
   rotate: true
-  xy: 942, 436
+  xy: 426, 1913
   size: 29, 60
   orig: 29, 60
   offset: 0, 0
   index: -1
 dragon_balkan_adult_leg2fire1
   rotate: false
-  xy: 1205, 412
+  xy: 186, 1992
   size: 47, 52
   orig: 47, 52
   offset: 0, 0
   index: -1
 dragon_balkan_adult_leg7
   rotate: true
-  xy: 1664, 366
+  xy: 637, 1164
   size: 44, 25
   orig: 44, 25
   offset: 0, 0
   index: -1
 dragon_balkan_adult_leg6fire2
-  rotate: true
-  xy: 1702, 103
+  rotate: false
+  xy: 509, 1939
   size: 32, 49
   orig: 32, 49
   offset: 0, 0
   index: -1
 dragon_balkan_child_leg2fire1
   rotate: false
-  xy: 1624, 423
+  xy: 543, 1962
   size: 26, 41
   orig: 26, 41
   offset: 0, 0
   index: -1
 dragon_balkan_child_leg3
-  rotate: false
-  xy: 1529, 335
+  rotate: true
+  xy: 669, 696
   size: 32, 23
   orig: 32, 23
   offset: 0, 0
   index: -1
-dragon_balkan_adult_leg1fire
+dragon_luda_critical
   rotate: true
-  xy: 1697, 255
+  xy: 574, 828
+  size: 213, 29
+  orig: 215, 29
+  offset: 1, 0
+  index: -1
+dragon_balkan_adult_leg1fire
+  rotate: false
+  xy: 653, 253
   size: 39, 59
   orig: 53, 65
   offset: 11, 0
   index: -1
+dragon_balkan_adult_e_fire2
+  rotate: false
+  xy: 450, 696
+  size: 171, 130
+  orig: 199, 146
+  offset: 25, 0
+  index: -1
 dragon_balkan_adult_head1
   rotate: true
-  xy: 1703, 31
+  xy: 603, 1874
   size: 36, 50
   orig: 36, 50
   offset: 0, 0
   index: -1
 dragon_balkan_adult_fire3
-  rotate: true
-  xy: 942, 239
+  rotate: false
+  xy: 494, 2
   size: 195, 124
   orig: 199, 146
   offset: 0, 0
   index: -1
 dragon_balkan_adult_leg4fire2
   rotate: true
-  xy: 1533, 261
+  xy: 544, 1874
   size: 33, 57
   orig: 35, 63
   offset: 0, 0
   index: -1
 dragon_balkan_adult_leg3
   rotate: true
-  xy: 1383, 362
+  xy: 668, 412
   size: 47, 24
   orig: 47, 24
   offset: 0, 0
   index: -1
 dragon_balkan_child_leg4fire1
   rotate: true
-  xy: 1547, 233
+  xy: 420, 2002
   size: 26, 56
   orig: 28, 56
   offset: 0, 0
   index: -1
 dragon_balkan_child_head1
-  rotate: true
-  xy: 1638, 87
+  rotate: false
+  xy: 610, 1320
   size: 46, 62
   orig: 46, 62
   offset: 0, 0
   index: -1
 dragon_balkan_baby_head3
-  rotate: true
-  xy: 1634, 205
+  rotate: false
+  xy: 635, 1384
   size: 57, 61
   orig: 57, 61
   offset: 0, 0
   index: -1
+dragon_balkan_adult_e_l_wing_acc
+  rotate: false
+  xy: 494, 128
+  size: 157, 158
+  orig: 157, 158
+  offset: 0, 0
+  index: -1
 dragon_balkan_baby_wing3
   rotate: true
-  xy: 1691, 366
+  xy: 543, 2005
   size: 35, 26
   orig: 37, 32
   offset: 2, 0
   index: -1
 dragon_balkan_child_leg6
   rotate: true
-  xy: 1508, 335
+  xy: 626, 288
   size: 24, 19
   orig: 24, 19
   offset: 0, 0
   index: -1
 dragon_balkan_adult_wing1
   rotate: true
-  xy: 1529, 2
+  xy: 562, 1210
   size: 108, 107
   orig: 122, 107
   offset: 0, 0
   index: -1
 dragon_balkan_child_headfire1
-  rotate: true
-  xy: 1636, 176
+  rotate: false
+  xy: 658, 1320
   size: 27, 62
   orig: 29, 62
   offset: 2, 0
   index: -1
 dragon_balkan_adult_leg1fire2
-  rotate: true
-  xy: 1697, 214
+  rotate: false
+  xy: 653, 192
   size: 39, 59
   orig: 53, 65
   offset: 11, 0
   index: -1
 dragon_balkan_child_leg1fire3
   rotate: true
-  xy: 1703, 2
+  xy: 544, 1909
   size: 27, 52
   orig: 29, 56
+  offset: 0, 0
+  index: -1
+dragon_balkan_adult_e_chest_acc
+  rotate: true
+  xy: 544, 1384
+  size: 129, 89
+  orig: 129, 89
   offset: 0, 0
   index: -1
 dragon_balkan_adult_shining
@@ -480,210 +564,280 @@ dragon_balkan_adult_shining
   index: -1
 dragon_balkan_adult_leg2fire2
   rotate: false
-  xy: 1156, 412
+  xy: 137, 1992
   size: 47, 52
   orig: 47, 52
   offset: 0, 0
   index: -1
 dragon_balkan_critical_dmg2
   rotate: false
-  xy: 494, 2
+  xy: 2, 924
   size: 446, 455
   orig: 446, 457
   offset: 0, 0
   index: -1
+dragon_balkan_adult_e_fireball2
+  rotate: false
+  xy: 438, 1753
+  size: 104, 121
+  orig: 122, 133
+  offset: 9, 6
+  index: -1
 dragon_balkan_baby_leg3
-  rotate: true
-  xy: 1324, 340
+  rotate: false
+  xy: 571, 1962
   size: 20, 35
   orig: 20, 35
   offset: 0, 0
   index: -1
 dragon_balkan_child_wing1
   rotate: false
-  xy: 1170, 145
+  xy: 605, 966
   size: 75, 80
   orig: 77, 80
   offset: 0, 0
   index: -1
 dragon_balkan_adult_sweat
-  rotate: true
-  xy: 1700, 433
+  rotate: false
+  xy: 678, 461
   size: 14, 13
   orig: 14, 13
   offset: 0, 0
   index: -1
-dragon_balkan_child_headfire2
+dragon_balkan_adult_e_neck_scc
   rotate: true
-  xy: 1004, 436
+  xy: 489, 1876
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+dragon_balkan_child_headfire2
+  rotate: false
+  xy: 235, 1990
   size: 29, 54
   orig: 29, 62
   offset: 0, 0
   index: -1
 dragon_balkan_child_leg2fire2
   rotate: true
-  xy: 1428, 335
+  xy: 653, 1828
   size: 24, 39
   orig: 26, 41
   offset: 1, 0
   index: -1
+dragon_balkan_critical_e_dmg2
+  rotate: false
+  xy: 2, 467
+  size: 446, 455
+  orig: 446, 457
+  offset: 0, 0
+  index: -1
 dragon_balkan_adult_neck3
   rotate: true
-  xy: 1249, 362
+  xy: 623, 1048
   size: 47, 65
   orig: 47, 65
   offset: 0, 0
   index: -1
 dragon_balkan_adult_fireball2
-  rotate: true
-  xy: 1421, 361
+  rotate: false
+  xy: 438, 1507
   size: 104, 121
   orig: 122, 133
   offset: 9, 6
   index: -1
 dragon_balkan_child_mouth1
   rotate: true
-  xy: 1605, 142
+  xy: 646, 1984
   size: 28, 29
   orig: 28, 29
   offset: 0, 0
   index: -1
 dragon_balkan_adult_fire2
   rotate: true
-  xy: 1068, 239
+  xy: 494, 288
   size: 171, 130
   orig: 199, 146
   offset: 25, 0
   index: -1
+dragon_balkan_critical_e_light
+  rotate: false
+  xy: 2, 1381
+  size: 206, 483
+  orig: 206, 497
+  offset: 0, 6
+  index: -1
 dragon_balkan_child_leg4fire2
   rotate: false
-  xy: 1366, 411
+  xy: 294, 1990
   size: 26, 54
   orig: 28, 56
   offset: 0, 0
   index: -1
 dragon_balkan_adult_eye2
   rotate: false
-  xy: 1170, 227
+  xy: 651, 954
   size: 11, 10
   orig: 11, 10
   offset: 0, 0
   index: -1
 dragon_balkan_adult_leg6fire3
   rotate: true
-  xy: 1702, 69
+  xy: 598, 1912
   size: 32, 49
   orig: 32, 49
   offset: 0, 0
   index: -1
+dragon_balkan_critical_e_light2
+  rotate: false
+  xy: 450, 467
+  size: 226, 227
+  orig: 226, 227
+  offset: 0, 0
+  index: -1
 dragon_balkan_adult_eye
   rotate: true
-  xy: 1183, 227
+  xy: 671, 1310
   size: 8, 11
   orig: 8, 11
   offset: 0, 0
   index: -1
 dragon_balkan_child_tail3
-  rotate: true
-  xy: 1547, 137
+  rotate: false
+  xy: 324, 1931
   size: 46, 56
   orig: 46, 56
   offset: 0, 0
   index: -1
+dragon_balkan_critical_e_fireball
+  rotate: false
+  xy: 438, 1384
+  size: 104, 121
+  orig: 122, 133
+  offset: 8, 6
+  index: -1
 dragon_balkan_child_leg1fire2
-  rotate: true
-  xy: 1060, 436
+  rotate: false
+  xy: 478, 1944
   size: 29, 52
   orig: 29, 56
   offset: 0, 0
   index: -1
+dragon_balkan_critical_e_shining
+  rotate: false
+  xy: 2, 2
+  size: 490, 463
+  orig: 494, 467
+  offset: 4, 1
+  index: -1
 dragon_balkan_adult_body
   rotate: true
-  xy: 1544, 360
+  xy: 626, 314
   size: 96, 59
   orig: 96, 59
   offset: 0, 0
   index: -1
 dragon_balkan_baby_leg4
-  rotate: false
-  xy: 1700, 418
+  rotate: true
+  xy: 451, 2030
   size: 14, 13
   orig: 14, 13
   offset: 0, 0
   index: -1
 dragon_balkan_baby_tail1
-  rotate: true
-  xy: 1676, 412
+  rotate: false
+  xy: 544, 1938
   size: 41, 22
   orig: 41, 22
   offset: 0, 0
   index: -1
 dragon_balkan_adult_leg4fire3
   rotate: true
-  xy: 1601, 323
+  xy: 426, 1876
   size: 35, 61
   orig: 35, 63
   offset: 0, 0
   index: -1
 dragon_balkan_adult_neck2
   rotate: false
-  xy: 1457, 137
+  xy: 647, 1510
   size: 45, 65
   orig: 47, 65
   offset: 0, 0
   index: -1
 dragon_balkan_child_neck3
   rotate: false
-  xy: 1254, 411
+  xy: 651, 898
   size: 41, 54
   orig: 41, 62
   offset: 0, 0
   index: -1
 dragon_balkan_baby_body
   rotate: false
-  xy: 1114, 412
+  xy: 626, 412
   size: 40, 53
   orig: 40, 53
   offset: 0, 0
   index: -1
 dragon_balkan_adult_tail3
-  rotate: true
-  xy: 1282, 2
+  rotate: false
+  xy: 2, 1992
   size: 133, 44
   orig: 133, 44
   offset: 0, 0
   index: -1
 dragon_balkan_adult_leg2fire3
   rotate: false
-  xy: 1200, 362
+  xy: 574, 1048
   size: 47, 48
   orig: 47, 52
   offset: 0, 0
   index: -1
 dragon_balkan_baby_tail2
-  rotate: true
-  xy: 1652, 423
+  rotate: false
+  xy: 649, 1942
   size: 41, 22
   orig: 41, 22
   offset: 0, 0
   index: -1
+dragon_balkan_adult_e_fire1
+  rotate: true
+  xy: 450, 1241
+  size: 141, 110
+  orig: 199, 146
+  offset: 58, 9
+  index: -1
 dragon_balkan_child_heart
   rotate: true
-  xy: 1592, 261
+  xy: 653, 1780
   size: 46, 39
   orig: 46, 39
   offset: 0, 0
   index: -1
+dragon_balkan_adult_e_fireball3
+  rotate: false
+  xy: 450, 963
+  size: 122, 133
+  orig: 122, 133
+  offset: 0, 0
+  index: -1
+dragon_balkan_adult_e_l_leg_acc
+  rotate: true
+  xy: 620, 1980
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
 dragon_balkan_child_headfire3
   rotate: false
-  xy: 1605, 202
+  xy: 449, 1944
   size: 27, 56
   orig: 29, 62
   offset: 0, 0
   index: -1
 dragon_balkan_child_leg2fire3
-  rotate: false
-  xy: 1664, 323
+  rotate: true
+  xy: 649, 1914
   size: 26, 41
   orig: 26, 41
   offset: 0, 0

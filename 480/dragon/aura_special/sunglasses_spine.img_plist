@@ -1,0 +1,81 @@
+sunglasses_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+summer_c3
+  rotate: true
+  xy: 274, 280
+  size: 272, 232
+  orig: 326, 280
+  offset: 39, 37
+  index: -1
+summer_c4
+  rotate: false
+  xy: 2, 236
+  size: 270, 236
+  orig: 326, 280
+  offset: 43, 35
+  index: -1
+summer_c5
+  rotate: false
+  xy: 2, 716
+  size: 258, 236
+  orig: 326, 280
+  offset: 55, 34
+  index: -1
+summer_c6
+  rotate: false
+  xy: 2, 474
+  size: 258, 240
+  orig: 326, 280
+  offset: 55, 31
+  index: -1
+summer_c7
+  rotate: false
+  xy: 2, 954
+  size: 256, 236
+  orig: 326, 280
+  offset: 55, 34
+  index: -1
+summer_c8
+  rotate: true
+  xy: 260, 1064
+  size: 254, 234
+  orig: 326, 280
+  offset: 56, 36
+  index: -1
+summer_c9
+  rotate: true
+  xy: 262, 554
+  size: 254, 234
+  orig: 326, 280
+  offset: 56, 36
+  index: -1
+star3
+  rotate: false
+  xy: 2, 1192
+  size: 122, 121
+  orig: 124, 123
+  offset: 0, 0
+  index: -1
+summer_c1
+  rotate: false
+  xy: 2, 2
+  size: 274, 232
+  orig: 326, 280
+  offset: 34, 37
+  index: -1
+summer_c10
+  rotate: true
+  xy: 262, 810
+  size: 252, 234
+  orig: 326, 280
+  offset: 56, 37
+  index: -1
+summer_c2
+  rotate: true
+  xy: 278, 2
+  size: 276, 228
+  orig: 326, 280
+  offset: 33, 37
+  index: -1

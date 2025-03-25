@@ -1,0 +1,466 @@
+dragon_4068_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_diamant_baby_arm4
+  rotate: true
+  xy: 803, 205
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+dragon_diamant_baby_tail
+  rotate: false
+  xy: 1887, 117
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+dragon_diamant_adult_body2
+  rotate: false
+  xy: 1528, 2
+  size: 104, 86
+  orig: 106, 86
+  offset: 0, 0
+  index: -1
+dragon_diamant_baby_leg3
+  rotate: false
+  xy: 1891, 91
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+dragon_diamant_child_leg2
+  rotate: false
+  xy: 1210, 189
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+dragon_diamant_child_mouth
+  rotate: false
+  xy: 1840, 142
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+dragon_diamant_baby_leg1
+  rotate: true
+  xy: 848, 205
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+dragon_diamant_baby_body2
+  rotate: true
+  xy: 1465, 175
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+dragon_diamant_child_arm1
+  rotate: true
+  xy: 1752, 126
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+dragon_diamant_baby_eye
+  rotate: true
+  xy: 1846, 198
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+dragon_diamant_adult_r-leg2
+  rotate: true
+  xy: 1300, 167
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+dragon_diamant_child_leg3
+  rotate: true
+  xy: 1886, 168
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: -1
+dragon_diamant_child_s
+  rotate: false
+  xy: 1752, 64
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_diamant_critical_star3
+  rotate: false
+  xy: 1413, 2
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+dragon_diamant_adult_eye1
+  rotate: false
+  xy: 1797, 147
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+dragon_diamant_baby_arm2
+  rotate: true
+  xy: 1786, 200
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+dragon_diamant_adult_att
+  rotate: true
+  xy: 1811, 2
+  size: 60, 77
+  orig: 60, 77
+  offset: 0, 0
+  index: -1
+dragon_diamant_adult_head
+  rotate: true
+  xy: 1732, 2
+  size: 60, 77
+  orig: 60, 77
+  offset: 0, 0
+  index: -1
+dragon_diamant_adult_neck
+  rotate: true
+  xy: 1634, 2
+  size: 62, 96
+  orig: 62, 96
+  offset: 0, 0
+  index: -1
+dragon_diamant_adult_leg2
+  rotate: false
+  xy: 1811, 141
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+dragon_diamant_child_tail2
+  rotate: true
+  xy: 1851, 64
+  size: 51, 38
+  orig: 51, 38
+  offset: 0, 0
+  index: -1
+dragon_diamant_adult_body1
+  rotate: true
+  xy: 1227, 160
+  size: 59, 71
+  orig: 59, 71
+  offset: 0, 0
+  index: -1
+dragon_diamant_adult_leg1
+  rotate: false
+  xy: 1599, 90
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+dragon_diamant_adult_cubic1
+  rotate: false
+  xy: 1097, 189
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+dragon_diamant_child_body
+  rotate: true
+  xy: 1704, 66
+  size: 68, 46
+  orig: 74, 48
+  offset: 0, 0
+  index: -1
+dragon_diamant_baby_arm5
+  rotate: false
+  xy: 1890, 2
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+dragon_diamant_child_arm4
+  rotate: false
+  xy: 1871, 146
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+dragon_diamant_child_love
+  rotate: false
+  xy: 1534, 90
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+dragon_diamant_critical01
+  rotate: true
+  xy: 1042, 149
+  size: 38, 183
+  orig: 62, 193
+  offset: 11, 3
+  index: -1
+dragon_diamant_adult_leg3
+  rotate: true
+  xy: 1688, 136
+  size: 24, 54
+  orig: 24, 54
+  offset: 0, 0
+  index: -1
+dragon_diamant_baby_arm6
+  rotate: false
+  xy: 858, 205
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+dragon_diamant_child_leg1
+  rotate: true
+  xy: 1849, 117
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+dragon_diamant_baby_body1
+  rotate: true
+  xy: 1840, 173
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+dragon_diamant_child_arm6
+  rotate: false
+  xy: 1185, 189
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+dragon_diamant_child_head
+  rotate: false
+  xy: 1639, 66
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+dragon_diamant_critical08
+  rotate: false
+  xy: 2, 2
+  size: 279, 217
+  orig: 279, 217
+  offset: 0, 0
+  index: -1
+dragon_diamant_adult_mouth
+  rotate: true
+  xy: 1811, 176
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+dragon_diamant_adult_cubic2
+  rotate: true
+  xy: 1358, 167
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+dragon_diamant_baby_leg2
+  rotate: true
+  xy: 825, 205
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+dragon_diamant_adult_arm2
+  rotate: false
+  xy: 1042, 189
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+dragon_diamant_child_arm5
+  rotate: false
+  xy: 1508, 175
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+dragon_diamant_adult_arm1
+  rotate: false
+  xy: 1406, 117
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+dragon_diamant_adult_leg4
+  rotate: true
+  xy: 1786, 160
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+dragon_diamant_adult_r-leg3
+  rotate: true
+  xy: 1639, 130
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+dragon_diamant_child_eye
+  rotate: true
+  xy: 1818, 198
+  size: 21, 26
+  orig: 25, 26
+  offset: 1, 0
+  index: -1
+dragon_diamant_child_wing1
+  rotate: true
+  xy: 1891, 65
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+dragon_diamant_baby_head
+  rotate: true
+  xy: 1662, 164
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+dragon_diamant_child_tail1
+  rotate: true
+  xy: 1149, 189
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+dragon_diamant_adult_cubic3
+  rotate: false
+  xy: 1811, 64
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+dragon_diamant_baby_arm3
+  rotate: true
+  xy: 1797, 126
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+dragon_diamant_adult_arm3
+  rotate: false
+  xy: 1475, 117
+  size: 57, 56
+  orig: 87, 140
+  offset: 30, 0
+  index: -1
+dragon_diamant_child_arm2
+  rotate: true
+  xy: 1811, 117
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+dragon_diamant_critical04
+  rotate: false
+  xy: 1042, 2
+  size: 211, 145
+  orig: 279, 217
+  offset: 46, 14
+  index: -1
+dragon_diamant_adult_tail
+  rotate: true
+  xy: 1255, 2
+  size: 110, 156
+  orig: 110, 156
+  offset: 0, 0
+  index: -1
+dragon_diamant_adult_wing
+  rotate: true
+  xy: 1720, 162
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_diamant_critical06
+  rotate: false
+  xy: 803, 2
+  size: 237, 201
+  orig: 279, 217
+  offset: 33, 8
+  index: -1
+dragon_diamant_baby_arm1
+  rotate: false
+  xy: 1868, 173
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+dragon_diamant_baby_love2
+  rotate: true
+  xy: 1544, 164
+  size: 55, 57
+  orig: 57, 61
+  offset: 0, 3
+  index: -1
+dragon_diamant_child_neck
+  rotate: true
+  xy: 1255, 114
+  size: 44, 76
+  orig: 44, 76
+  offset: 0, 0
+  index: -1
+dragon_diamant_adult_arm4
+  rotate: true
+  xy: 1406, 169
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+dragon_diamant_adult_att2
+  rotate: true
+  xy: 1333, 114
+  size: 51, 71
+  orig: 55, 71
+  offset: 3, 0
+  index: -1
+dragon_diamant_child_arm3
+  rotate: true
+  xy: 1891, 29
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+dragon_diamant_critical05
+  rotate: false
+  xy: 550, 2
+  size: 251, 211
+  orig: 279, 217
+  offset: 22, 0
+  index: -1
+dragon_diamant_baby_love
+  rotate: true
+  xy: 1603, 164
+  size: 55, 57
+  orig: 57, 61
+  offset: 0, 3
+  index: -1
+dragon_diamant_adult_r-leg1
+  rotate: true
+  xy: 1761, 160
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+dragon_diamant_critical07
+  rotate: false
+  xy: 283, 2
+  size: 265, 217
+  orig: 279, 217
+  offset: 14, 0
+  index: -1

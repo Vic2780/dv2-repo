@@ -2,458 +2,745 @@ dragon_3039_spine.pvr.ccz
 format: RGBA4444
 filter: Linear,Linear
 repeat: none
-dragon_rudra_baby_head
-  rotate: false
-  xy: 2, 773
-  size: 72, 67
-  orig: 72, 67
-  offset: 0, 0
-  index: -1
-dragon_rudra_baby_tail
-  rotate: true
-  xy: 88, 478
-  size: 37, 38
-  orig: 37, 38
-  offset: 0, 0
-  index: -1
-dragon_rudra_child_ear
-  rotate: true
-  xy: 115, 1117
-  size: 20, 11
-  orig: 20, 11
-  offset: 0, 0
-  index: -1
-dragon_rudra_adult_eye5
-  rotate: true
-  xy: 114, 51
-  size: 13, 12
-  orig: 13, 12
-  offset: 0, 0
-  index: -1
-dragon_rudra_adult_taila
-  rotate: false
-  xy: 2, 2
-  size: 116, 47
-  orig: 116, 47
-  offset: 0, 0
-  index: -1
-dragon_rudra_adult_l_leg2b
-  rotate: true
-  xy: 115, 1139
-  size: 16, 11
-  orig: 16, 11
-  offset: 0, 0
-  index: -1
-dragon_rudra_child_leg1
-  rotate: false
-  xy: 2, 842
-  size: 72, 59
-  orig: 72, 59
-  offset: 0, 0
-  index: -1
-dragon_rudra_child_note1
-  rotate: false
-  xy: 96, 335
-  size: 30, 38
-  orig: 32, 40
-  offset: 1, 1
-  index: -1
-dragon_rudra_adult_chin
-  rotate: false
-  xy: 45, 1193
-  size: 20, 25
-  orig: 20, 25
-  offset: 0, 0
-  index: -1
-dragon_rudra_adult_body
-  rotate: false
-  xy: 2, 334
-  size: 92, 71
-  orig: 92, 71
-  offset: 0, 0
-  index: -1
-dragon_rudra_child_leg3
-  rotate: false
-  xy: 59, 1094
-  size: 54, 54
-  orig: 54, 54
-  offset: 0, 0
-  index: -1
-dragon_rudra_adult_eye
-  rotate: true
-  xy: 114, 96
-  size: 13, 12
-  orig: 13, 12
-  offset: 0, 0
-  index: -1
-dragon_rudra_adult_eye2
-  rotate: true
-  xy: 114, 81
-  size: 13, 12
-  orig: 13, 12
-  offset: 0, 0
-  index: -1
-dragon_rudra_adult_r_leg1b
-  rotate: false
-  xy: 82, 736
-  size: 44, 47
-  orig: 44, 47
-  offset: 0, 0
-  index: -1
-dragon_rudra_adult_l_leg2c
-  rotate: false
-  xy: 104, 161
-  size: 22, 32
-  orig: 22, 32
-  offset: 0, 0
-  index: -1
-dragon_rudra_child_tail
-  rotate: true
-  xy: 76, 835
-  size: 154, 48
-  orig: 154, 48
-  offset: 0, 0
-  index: -1
-dragon_rudra_critical_ef5
-  rotate: true
-  xy: 2, 241
-  size: 91, 96
-  orig: 103, 110
-  offset: 12, 6
-  index: -1
-dragon_rudra_adult_r_leg1a
-  rotate: true
-  xy: 52, 1150
-  size: 32, 48
-  orig: 32, 48
-  offset: 0, 0
-  index: -1
-dragon_rudra_baby_eye2
-  rotate: false
-  xy: 100, 316
-  size: 26, 17
-  orig: 26, 17
-  offset: 0, 0
-  index: -1
-dragon_rudra_adult_l_wing
-  rotate: true
-  xy: 2, 407
-  size: 183, 84
-  orig: 183, 84
-  offset: 0, 0
-  index: -1
 dragon_rudra_baby_leg2
-  rotate: false
-  xy: 102, 1157
+  rotate: true
+  xy: 1623, 124
   size: 24, 34
   orig: 24, 34
   offset: 0, 0
   index: -1
-dragon_rudra_adult_headb
-  rotate: true
-  xy: 71, 1214
-  size: 27, 28
-  orig: 27, 28
-  offset: 0, 0
-  index: -1
-dragon_rudra_adult_eye3
-  rotate: false
-  xy: 50, 1220
-  size: 17, 13
-  orig: 17, 13
-  offset: 0, 0
-  index: -1
-dragon_rudra_adult_r_leg1c
-  rotate: true
-  xy: 2, 1220
-  size: 41, 21
-  orig: 41, 21
-  offset: 0, 0
-  index: -1
-dragon_rudra_adult_l_leg2d
-  rotate: false
-  xy: 41, 1254
-  size: 28, 14
-  orig: 28, 14
-  offset: 0, 0
-  index: -1
-dragon_rudra_baby_eye3
-  rotate: false
-  xy: 71, 1184
-  size: 29, 28
-  orig: 29, 28
-  offset: 0, 0
-  index: -1
-dragon_rudra_baby_leg3
-  rotate: true
-  xy: 2, 1161
-  size: 20, 44
-  orig: 20, 44
-  offset: 0, 0
-  index: -1
-dragon_rudra_baby_wing
-  rotate: false
-  xy: 76, 785
-  size: 50, 23
-  orig: 50, 23
-  offset: 0, 0
-  index: -1
-dragon_rudra_child_chin
-  rotate: true
-  xy: 25, 1220
-  size: 32, 23
-  orig: 32, 23
-  offset: 0, 0
-  index: -1
-dragon_rudra_adult_r_leg2b
-  rotate: true
-  xy: 59, 1076
-  size: 14, 10
-  orig: 14, 10
-  offset: 0, 0
-  index: -1
-dragon_rudra_baby_body
-  rotate: false
-  xy: 71, 1045
-  size: 55, 47
-  orig: 55, 47
-  offset: 0, 0
-  index: -1
-dragon_rudra_child_head
-  rotate: true
-  xy: 2, 156
-  size: 83, 100
-  orig: 83, 100
-  offset: 0, 0
-  index: -1
-dragon_rudra_critical_ef2
-  rotate: false
-  xy: 2, 1047
-  size: 59, 27
-  orig: 61, 29
-  offset: 0, 2
-  index: -1
-dragon_rudra_adult_r_leg2a
-  rotate: true
-  xy: 2, 1125
-  size: 34, 48
-  orig: 34, 48
-  offset: 0, 0
-  index: -1
-dragon_rudra_child_body
-  rotate: false
-  xy: 2, 645
-  size: 83, 62
-  orig: 83, 62
-  offset: 0, 0
-  index: -1
-dragon_rudra_child_wing1
-  rotate: true
-  xy: 2, 592
-  size: 51, 84
-  orig: 51, 84
-  offset: 0, 0
-  index: -1
-dragon_rudra_baby_eye
-  rotate: true
-  xy: 71, 1243
-  size: 26, 17
-  orig: 26, 17
-  offset: 0, 0
-  index: -1
-dragon_rudra_adult_r_leg2c
-  rotate: true
-  xy: 100, 294
-  size: 20, 26
-  orig: 20, 26
-  offset: 0, 0
-  index: -1
-dragon_rudra_adult_head
-  rotate: false
-  xy: 2, 903
-  size: 70, 47
-  orig: 70, 47
-  offset: 0, 0
-  index: -1
-dragon_rudra_critical_ef1
-  rotate: false
-  xy: 2, 1017
-  size: 67, 28
-  orig: 67, 32
-  offset: 0, 4
-  index: -1
-dragon_rudra_adult_l_leg1a
-  rotate: false
-  xy: 88, 604
-  size: 35, 53
-  orig: 35, 53
-  offset: 0, 0
-  index: -1
-dragon_rudra_child_eye2
-  rotate: true
-  xy: 114, 138
-  size: 21, 11
-  orig: 21, 11
-  offset: 0, 0
-  index: -1
-dragon_rudra_child_leg2b
-  rotate: false
-  xy: 88, 517
-  size: 37, 33
-  orig: 37, 33
-  offset: 0, 0
-  index: -1
-dragon_rudra_critical_ef6
-  rotate: true
-  xy: 2, 51
-  size: 103, 110
-  orig: 103, 110
-  offset: 0, 0
-  index: -1
-dragon_rudra_adult_heart
-  rotate: true
-  xy: 87, 659
-  size: 46, 39
-  orig: 46, 39
-  offset: 0, 0
-  index: -1
-dragon_rudra_baby_leg1
-  rotate: true
-  xy: 76, 810
-  size: 23, 50
-  orig: 23, 50
-  offset: 0, 0
-  index: -1
-dragon_rudra_adult_r_leg2d
-  rotate: true
-  xy: 114, 111
-  size: 25, 11
-  orig: 25, 11
-  offset: 0, 0
-  index: -1
-dragon_rudra_child_eye
-  rotate: true
-  xy: 115, 1094
-  size: 21, 11
-  orig: 21, 11
-  offset: 0, 0
-  index: -1
 dragon_rudra_critical_ef4
   rotate: false
-  xy: 73, 991
+  xy: 1166, 100
   size: 52, 52
   orig: 52, 56
   offset: 0, 4
   index: -1
-dragon_rudra_adult_hair
-  rotate: false
-  xy: 2, 952
-  size: 69, 63
-  orig: 69, 63
-  offset: 0, 0
-  index: -1
-dragon_rudra_adult_l_leg1b
-  rotate: true
-  xy: 2, 1076
-  size: 47, 55
-  orig: 47, 55
-  offset: 0, 0
-  index: -1
-dragon_rudra_child_eye3
-  rotate: false
-  xy: 101, 1215
-  size: 25, 17
-  orig: 25, 17
-  offset: 0, 0
-  index: -1
-dragon_rudra_baby_note1
-  rotate: false
-  xy: 96, 335
-  size: 30, 38
-  orig: 32, 40
-  offset: 1, 1
-  index: -1
-dragon_rudra_adult_bodyhair
-  rotate: false
-  xy: 2, 709
-  size: 78, 62
-  orig: 78, 62
-  offset: 0, 0
-  index: -1
-dragon_rudra_adult_fang
-  rotate: true
-  xy: 120, 2
-  size: 8, 6
-  orig: 8, 6
-  offset: 0, 0
-  index: -1
-dragon_rudra_child_leg2a
-  rotate: false
-  xy: 96, 375
-  size: 29, 44
-  orig: 29, 44
-  offset: 0, 0
-  index: -1
-dragon_rudra_adult_eye4
-  rotate: true
-  xy: 114, 66
-  size: 13, 12
-  orig: 13, 12
-  offset: 0, 0
-  index: -1
-dragon_rudra_baby_ear
-  rotate: false
-  xy: 102, 1193
-  size: 21, 20
-  orig: 21, 20
-  offset: 0, 0
-  index: -1
 dragon_rudra_adult_l_leg2a
-  rotate: false
-  xy: 88, 421
+  rotate: true
+  xy: 1662, 63
   size: 38, 55
   orig: 38, 55
   offset: 0, 0
   index: -1
-dragon_rudra_adult_tailb
+dragon_rudra_baby_eye3
+  rotate: false
+  xy: 1563, 125
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_eye2
+  rotate: false
+  xy: 1559, 101
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+dragon_rudra_baby_wing
   rotate: true
-  xy: 88, 552
-  size: 50, 36
-  orig: 50, 36
+  xy: 1414, 103
+  size: 50, 23
+  orig: 50, 23
   offset: 0, 0
   index: -1
-dragon_rudra_critical_ef3
+dragon_rudra_child_body
   rotate: false
-  xy: 87, 707
-  size: 39, 27
-  orig: 47, 29
-  offset: 6, 2
-  index: -1
-dragon_rudra_baby_chin
-  rotate: false
-  xy: 25, 1254
-  size: 14, 16
-  orig: 14, 16
+  xy: 167, 91
+  size: 83, 62
+  orig: 83, 62
   offset: 0, 0
+  index: -1
+dragon_rudra_e_critical_ef55
+  rotate: true
+  xy: 1420, 2
+  size: 77, 80
+  orig: 83, 86
+  offset: 2, 4
+  index: -1
+dragon_rudra_baby_note1
+  rotate: false
+  xy: 1277, 115
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_rudra_adult_r_leg1c
+  rotate: false
+  xy: 1659, 103
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1
+dragon_rudra_adult_r_leg2a
+  rotate: false
+  xy: 1481, 81
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+dragon_rudra_adult_eye2
+  rotate: false
+  xy: 1559, 101
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_l_leg2c
+  rotate: true
+  xy: 1439, 131
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_critical_ef4
+  rotate: false
+  xy: 1166, 100
+  size: 52, 52
+  orig: 52, 56
+  offset: 0, 4
+  index: -1
+dragon_rudra_adult_chin
+  rotate: false
+  xy: 1693, 126
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+dragon_rudra_critical_ef6
+  rotate: false
+  xy: 674, 2
+  size: 103, 110
+  orig: 103, 110
+  offset: 0, 0
+  index: -1
+dragon_rudra_adult_r_leg2b
+  rotate: false
+  xy: 332, 143
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_critical_ef66
+  rotate: false
+  xy: 2, 2
+  size: 163, 151
+  orig: 183, 167
+  offset: 8, 13
   index: -1
 dragon_rudra_adult_l_leg1c
-  rotate: true
-  xy: 100, 247
+  rotate: false
+  xy: 1575, 97
   size: 45, 26
   orig: 45, 26
   offset: 0, 0
   index: -1
+dragon_rudra_baby_leg3
+  rotate: true
+  xy: 1387, 81
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+dragon_rudra_baby_body
+  rotate: false
+  xy: 1228, 51
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+dragon_rudra_child_note1
+  rotate: false
+  xy: 1277, 115
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_rudra_baby_eye
+  rotate: true
+  xy: 1736, 30
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+dragon_rudra_child_wing1
+  rotate: true
+  xy: 1576, 2
+  size: 51, 84
+  orig: 51, 84
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_body
+  rotate: false
+  xy: 1326, 2
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_r_leg1a
+  rotate: false
+  xy: 1439, 81
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_r_leg2a
+  rotate: false
+  xy: 1719, 63
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+dragon_rudra_adult_eye
+  rotate: false
+  xy: 1058, 137
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_bodyhair
+  rotate: false
+  xy: 252, 91
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_critical_ef6
+  rotate: false
+  xy: 540, 2
+  size: 132, 112
+  orig: 134, 116
+  offset: 1, 4
+  index: -1
+dragon_rudra_adult_l_leg2b
+  rotate: true
+  xy: 1018, 137
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+dragon_rudra_critical_ef3
+  rotate: true
+  xy: 674, 114
+  size: 39, 27
+  orig: 47, 29
+  offset: 6, 2
+  index: -1
+dragon_rudra_e_heart
+  rotate: true
+  xy: 1285, 51
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_l_leg2b
+  rotate: true
+  xy: 1018, 137
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+dragon_rudra_adult_body
+  rotate: false
+  xy: 1326, 2
+  size: 92, 71
+  orig: 92, 71
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_critical_ef1
+  rotate: false
+  xy: 1087, 51
+  size: 67, 28
+  orig: 67, 32
+  offset: 0, 4
+  index: -1
+dragon_rudra_e_l_leg1c
+  rotate: true
+  xy: 1634, 55
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+dragon_rudra_adult_heart
+  rotate: true
+  xy: 1285, 51
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_rudra_baby_head
+  rotate: false
+  xy: 1502, 2
+  size: 72, 67
+  orig: 72, 67
+  offset: 0, 0
+  index: -1
+dragon_rudra_child_tail
+  rotate: false
+  xy: 931, 2
+  size: 154, 48
+  orig: 154, 48
+  offset: 0, 0
+  index: -1
+dragon_rudra_child_eye
+  rotate: false
+  xy: 1715, 137
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+dragon_rudra_adult_hair
+  rotate: false
+  xy: 405, 88
+  size: 69, 63
+  orig: 69, 63
+  offset: 0, 0
+  index: -1
+dragon_rudra_adult_headb
+  rotate: false
+  xy: 1594, 125
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
 dragon_rudra_baby_note2
   rotate: true
-  xy: 2, 1183
+  xy: 703, 114
   size: 35, 41
   orig: 35, 41
   offset: 0, 0
   index: -1
+dragon_rudra_e_r_leg2d
+  rotate: true
+  xy: 1074, 52
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+dragon_rudra_baby_chin
+  rotate: false
+  xy: 972, 137
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+dragon_rudra_adult_eye3
+  rotate: true
+  xy: 659, 116
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
 dragon_rudra_baby_leg4
   rotate: false
-  xy: 104, 195
+  xy: 332, 91
   size: 21, 50
   orig: 21, 50
+  offset: 0, 0
+  index: -1
+dragon_rudra_child_ear
+  rotate: true
+  xy: 1738, 115
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_critical_ef5
+  rotate: true
+  xy: 872, 57
+  size: 93, 98
+  orig: 103, 110
+  offset: 10, 4
+  index: -1
+dragon_rudra_e_eye
+  rotate: false
+  xy: 1058, 137
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_l_leg2cad
+  rotate: false
+  xy: 746, 114
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+dragon_rudra_adult_fang
+  rotate: true
+  xy: 532, 88
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_eye5
+  rotate: false
+  xy: 659, 135
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+dragon_rudra_child_leg1
+  rotate: false
+  xy: 1662, 2
+  size: 72, 59
+  orig: 72, 59
+  offset: 0, 0
+  index: -1
+dragon_rudra_baby_tail
+  rotate: true
+  xy: 532, 116
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+dragon_rudra_adult_head
+  rotate: false
+  xy: 1156, 51
+  size: 70, 47
+  orig: 70, 47
+  offset: 0, 0
+  index: -1
+dragon_rudra_baby_ear
+  rotate: false
+  xy: 1715, 115
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+dragon_rudra_critical_ef2
+  rotate: false
+  xy: 1326, 75
+  size: 59, 27
+  orig: 61, 29
+  offset: 0, 2
+  index: -1
+dragon_rudra_adult_r_leg2c
+  rotate: true
+  xy: 1622, 102
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+dragon_rudra_child_leg2b
+  rotate: true
+  xy: 572, 116
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_l_leg1b
+  rotate: true
+  xy: 1220, 100
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+dragon_rudra_adult_tailb
+  rotate: false
+  xy: 607, 116
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_l_leg1aad
+  rotate: false
+  xy: 1517, 71
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+dragon_rudra_adult_l_leg2c
+  rotate: true
+  xy: 1439, 131
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+dragon_rudra_adult_eye4
+  rotate: true
+  xy: 1277, 100
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_l_leg2a
+  rotate: true
+  xy: 1576, 55
+  size: 40, 56
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_critical_ef2
+  rotate: false
+  xy: 1326, 75
+  size: 59, 27
+  orig: 61, 29
+  offset: 0, 2
+  index: -1
+dragon_rudra_e_eff1
+  rotate: false
+  xy: 779, 2
+  size: 150, 53
+  orig: 150, 75
+  offset: 0, 13
+  index: -1
+dragon_rudra_child_chin
+  rotate: false
+  xy: 1659, 126
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_eye4
+  rotate: true
+  xy: 1277, 100
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_chin
+  rotate: false
+  xy: 1693, 126
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_r_leg1c
+  rotate: false
+  xy: 1473, 131
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1
+dragon_rudra_child_eye2
+  rotate: true
+  xy: 1702, 103
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+dragon_rudra_adult_l_wing
+  rotate: false
+  xy: 355, 2
+  size: 183, 84
+  orig: 183, 84
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_r_leg2c
+  rotate: true
+  xy: 1622, 102
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+dragon_rudra_adult_l_leg1a
+  rotate: false
+  xy: 1129, 100
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+dragon_rudra_child_head
+  rotate: true
+  xy: 972, 52
+  size: 83, 100
+  orig: 83, 100
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_fang
+  rotate: true
+  xy: 532, 88
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+dragon_rudra_adult_bodyhair
+  rotate: false
+  xy: 252, 91
+  size: 78, 62
+  orig: 78, 62
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_tailb
+  rotate: true
+  xy: 355, 88
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+dragon_rudra_critical_ef1
+  rotate: false
+  xy: 1087, 51
+  size: 67, 28
+  orig: 67, 32
+  offset: 0, 4
+  index: -1
+dragon_rudra_adult_r_leg2d
+  rotate: false
+  xy: 1031, 137
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+dragon_rudra_adult_r_leg1a
+  rotate: false
+  xy: 1355, 104
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+dragon_rudra_child_leg2a
+  rotate: true
+  xy: 1517, 115
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_l_leg1a
+  rotate: false
+  xy: 1129, 100
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+dragon_rudra_adult_taila
+  rotate: false
+  xy: 1208, 2
+  size: 116, 47
+  orig: 116, 47
+  offset: 0, 0
+  index: -1
+dragon_rudra_baby_eye2
+  rotate: true
+  xy: 1736, 2
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+dragon_rudra_baby_leg1
+  rotate: false
+  xy: 1389, 103
+  size: 23, 50
+  orig: 23, 50
+  offset: 0, 0
+  index: -1
+dragon_rudra_child_leg3
+  rotate: false
+  xy: 476, 88
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_r_leg1b
+  rotate: false
+  xy: 1309, 104
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_r_leg2b
+  rotate: false
+  xy: 332, 143
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+dragon_rudra_adult_r_leg1b
+  rotate: false
+  xy: 1309, 104
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+dragon_rudra_critical_ef5
+  rotate: false
+  xy: 779, 57
+  size: 91, 96
+  orig: 103, 110
+  offset: 12, 6
+  index: -1
+dragon_rudra_adult_l_leg2d
+  rotate: false
+  xy: 988, 137
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+dragon_rudra_adult_eye5
+  rotate: false
+  xy: 659, 135
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_l_leg2d
+  rotate: true
+  xy: 1559, 71
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_critical_ef3
+  rotate: true
+  xy: 674, 114
+  size: 39, 27
+  orig: 47, 29
+  offset: 6, 2
+  index: -1
+dragon_rudra_e_head
+  rotate: true
+  xy: 1074, 81
+  size: 72, 53
+  orig: 72, 53
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_eye3
+  rotate: true
+  xy: 659, 116
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_hair
+  rotate: false
+  xy: 405, 88
+  size: 69, 63
+  orig: 69, 63
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_l_wing
+  rotate: false
+  xy: 167, 2
+  size: 186, 87
+  orig: 186, 87
+  offset: 0, 0
+  index: -1
+dragon_rudra_child_eye3
+  rotate: false
+  xy: 1129, 81
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_taila
+  rotate: false
+  xy: 1087, 2
+  size: 119, 47
+  orig: 119, 47
+  offset: 0, 0
+  index: -1
+dragon_rudra_e_headb
+  rotate: false
+  xy: 1594, 125
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+dragon_rudra_adult_l_leg1b
+  rotate: true
+  xy: 1220, 100
+  size: 47, 55
+  orig: 47, 55
   offset: 0, 0
   index: -1

@@ -7,7 +7,7 @@
             <key>dragon/dragon_3029_critical/critical.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{326,224}}</string>
+                <string>{{2,267},{326,224}}</string>
                 <key>offset</key>
                 <string>{-2,18}</string>
                 <key>rotated</key>
@@ -20,7 +20,7 @@
             <key>dragon/dragon_3029_critical/cut_in.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{330,2},{496,112}}</string>
+                <string>{{2,153},{496,112}}</string>
                 <key>offset</key>
                 <string>{40,0}</string>
                 <key>rotated</key>
@@ -30,6 +30,32 @@
                 <key>sourceSize</key>
                 <string>{576,112}</string>
             </dict>
+            <key>dragon/dragon_3029_critical/e_critical.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{500,153},{384,260}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{384,260}}</string>
+                <key>sourceSize</key>
+                <string>{384,260}</string>
+            </dict>
+            <key>dragon/dragon_3029_critical/e_cut_in.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{768,149}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{768,149}}</string>
+                <key>sourceSize</key>
+                <string>{768,149}</string>
+            </dict>
         </dict>
         <key>metadata</key>
         <dict>
@@ -38,9 +64,9 @@
             <key>realTextureFileName</key>
             <string>dragon_3029_critical.pvr.ccz</string>
             <key>size</key>
-            <string>{828,228}</string>
+            <string>{886,493}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:f01df783574247facd466c02b92776ac:6b53a6cc00a27273cfd493346a59be3d:73d06ba7fa8ed15fd20d43edaa7c945b$</string>
+            <string>$TexturePacker:SmartUpdate:f1bbd41b249a9441d81438e96d4c7c1b:976329d0f4d6d5c2044ee266ba3e787f:73d06ba7fa8ed15fd20d43edaa7c945b$</string>
             <key>textureFileName</key>
             <string>dragon_3029_critical.pvr.ccz</string>
         </dict>

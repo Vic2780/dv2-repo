@@ -1,0 +1,879 @@
+dragon_4187_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_kanthaka_e_critical23
+  rotate: true
+  xy: 820, 397
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_critical23
+  rotate: true
+  xy: 990, 988
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_critical18
+  rotate: false
+  xy: 2, 256
+  size: 276, 252
+  orig: 278, 254
+  offset: 1, 1
+  index: -1
+dragon_kanthaka_critical18
+  rotate: false
+  xy: 280, 256
+  size: 276, 252
+  orig: 278, 254
+  offset: 1, 1
+  index: -1
+dragon_kanthaka_child_arm_r1
+  rotate: true
+  xy: 1026, 1944
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_critical11
+  rotate: false
+  xy: 2, 1484
+  size: 252, 224
+  orig: 254, 224
+  offset: 1, 0
+  index: -1
+dragon_kanthaka_critical11
+  rotate: false
+  xy: 2, 1710
+  size: 252, 224
+  orig: 254, 224
+  offset: 1, 0
+  index: -1
+dragon_kanthaka_child_eye2
+  rotate: true
+  xy: 818, 2029
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_baby_eye1
+  rotate: false
+  xy: 236, 1936
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_critical06
+  rotate: false
+  xy: 264, 1272
+  size: 210, 217
+  orig: 210, 217
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_leg_r2
+  rotate: true
+  xy: 818, 1963
+  size: 64, 76
+  orig: 64, 78
+  offset: 0, 1
+  index: -1
+dragon_kanthaka_e_wing3
+  rotate: false
+  xy: 1095, 1420
+  size: 33, 33
+  orig: 35, 35
+  offset: 1, 1
+  index: -1
+dragon_kanthaka_e_leg_l2
+  rotate: false
+  xy: 1063, 693
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_neck
+  rotate: true
+  xy: 1083, 1243
+  size: 68, 44
+  orig: 68, 44
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_critical07
+  rotate: false
+  xy: 751, 496
+  size: 207, 217
+  orig: 209, 217
+  offset: 1, 0
+  index: -1
+dragon_kanthaka_adult_shoulder
+  rotate: false
+  xy: 1069, 923
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_critical14
+  rotate: false
+  xy: 2, 1244
+  size: 260, 238
+  orig: 262, 240
+  offset: 1, 1
+  index: -1
+dragon_kanthaka_e_critical15
+  rotate: false
+  xy: 280, 510
+  size: 260, 238
+  orig: 262, 240
+  offset: 1, 1
+  index: -1
+dragon_kanthaka_adult_tail1
+  rotate: false
+  xy: 896, 1876
+  size: 128, 127
+  orig: 128, 127
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_critical22
+  rotate: true
+  xy: 984, 712
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_critical22
+  rotate: true
+  xy: 1004, 1157
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_adult_back_horn
+  rotate: true
+  xy: 784, 923
+  size: 22, 44
+  orig: 22, 44
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_critical03
+  rotate: true
+  xy: 884, 923
+  size: 186, 104
+  orig: 186, 104
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_adult_eye1
+  rotate: false
+  xy: 434, 2038
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_critical03
+  rotate: false
+  xy: 686, 1371
+  size: 186, 104
+  orig: 186, 104
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_critical10
+  rotate: true
+  xy: 264, 764
+  size: 252, 208
+  orig: 254, 208
+  offset: 1, 0
+  index: -1
+dragon_kanthaka_critical10
+  rotate: true
+  xy: 264, 1018
+  size: 252, 208
+  orig: 254, 208
+  offset: 1, 0
+  index: -1
+dragon_kanthaka_adult_body2
+  rotate: false
+  xy: 886, 1599
+  size: 128, 142
+  orig: 128, 142
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_child_tail
+  rotate: true
+  xy: 899, 395
+  size: 99, 65
+  orig: 99, 65
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_wing2
+  rotate: true
+  xy: 924, 1111
+  size: 39, 63
+  orig: 39, 65
+  offset: 0, 1
+  index: -1
+dragon_kanthaka_e_critical4
+  rotate: false
+  xy: 686, 1235
+  size: 157, 134
+  orig: 157, 134
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_critical06
+  rotate: false
+  xy: 684, 1744
+  size: 210, 217
+  orig: 210, 217
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_critical17
+  rotate: false
+  xy: 280, 2
+  size: 276, 252
+  orig: 278, 254
+  offset: 1, 1
+  index: -1
+dragon_kanthaka_child_body
+  rotate: true
+  xy: 996, 320
+  size: 73, 108
+  orig: 73, 108
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_adult_wing1
+  rotate: true
+  xy: 1016, 1420
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_critical17
+  rotate: false
+  xy: 558, 2
+  size: 276, 252
+  orig: 278, 254
+  offset: 1, 1
+  index: -1
+dragon_kanthaka_e_body2
+  rotate: false
+  xy: 886, 1455
+  size: 128, 142
+  orig: 128, 142
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_critical14
+  rotate: false
+  xy: 558, 256
+  size: 260, 238
+  orig: 262, 240
+  offset: 1, 1
+  index: -1
+dragon_kanthaka_e_hand_l1
+  rotate: false
+  xy: 966, 395
+  size: 104, 71
+  orig: 104, 71
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_baby_leg_r
+  rotate: false
+  xy: 1098, 149
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_critical02
+  rotate: false
+  xy: 2, 1936
+  size: 216, 98
+  orig: 216, 98
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_critical02
+  rotate: true
+  xy: 684, 729
+  size: 216, 98
+  orig: 216, 98
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_tail2
+  rotate: true
+  xy: 684, 1155
+  size: 78, 170
+  orig: 78, 170
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_critical13
+  rotate: true
+  xy: 466, 1497
+  size: 245, 208
+  orig: 247, 210
+  offset: 1, 1
+  index: -1
+dragon_kanthaka_adult_back_hair
+  rotate: true
+  xy: 820, 256
+  size: 139, 71
+  orig: 139, 71
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_adult_face1
+  rotate: true
+  xy: 1063, 617
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_adult_hair
+  rotate: true
+  xy: 1016, 1512
+  size: 81, 78
+  orig: 81, 78
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_baby_leg_l
+  rotate: true
+  xy: 1098, 100
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_adult_leg_r2
+  rotate: false
+  xy: 1069, 848
+  size: 59, 73
+  orig: 59, 73
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_critical21
+  rotate: true
+  xy: 984, 804
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_critical09
+  rotate: true
+  xy: 256, 1491
+  size: 251, 208
+  orig: 253, 208
+  offset: 1, 0
+  index: -1
+dragon_kanthaka_e_back_horn
+  rotate: true
+  xy: 1075, 1905
+  size: 31, 53
+  orig: 31, 55
+  offset: 0, 1
+  index: -1
+dragon_kanthaka_e_face1
+  rotate: true
+  xy: 960, 621
+  size: 89, 80
+  orig: 89, 82
+  offset: 0, 1
+  index: -1
+dragon_kanthaka_e_leg_r1
+  rotate: false
+  xy: 1069, 1085
+  size: 49, 70
+  orig: 49, 76
+  offset: 0, 6
+  index: -1
+dragon_kanthaka_e_critical16
+  rotate: false
+  xy: 2, 764
+  size: 260, 238
+  orig: 262, 240
+  offset: 1, 1
+  index: -1
+dragon_kanthaka_child_head
+  rotate: false
+  xy: 745, 1963
+  size: 71, 83
+  orig: 71, 83
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_critical16
+  rotate: false
+  xy: 836, 2
+  size: 260, 238
+  orig: 262, 240
+  offset: 1, 1
+  index: -1
+dragon_kanthaka_e_leg_l1
+  rotate: true
+  xy: 1025, 1738
+  size: 75, 47
+  orig: 75, 47
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_baby_tail
+  rotate: false
+  xy: 1069, 1036
+  size: 59, 47
+  orig: 59, 47
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_baby_body1
+  rotate: true
+  xy: 971, 342
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_child_leg_l1
+  rotate: false
+  xy: 1083, 1207
+  size: 45, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_child_wing2
+  rotate: true
+  xy: 1082, 1678
+  size: 60, 44
+  orig: 60, 44
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_baby_wing1
+  rotate: true
+  xy: 1096, 1313
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_child_eye1
+  rotate: true
+  xy: 834, 2029
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_shoulder1
+  rotate: false
+  xy: 884, 1111
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_wing6
+  rotate: false
+  xy: 1078, 1980
+  size: 35, 28
+  orig: 37, 30
+  offset: 1, 1
+  index: -1
+dragon_kanthaka_critical12
+  rotate: true
+  xy: 676, 1497
+  size: 245, 208
+  orig: 247, 210
+  offset: 1, 1
+  index: -1
+dragon_kanthaka_child_leg_r1
+  rotate: true
+  xy: 1078, 1867
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_child_arm_l2
+  rotate: false
+  xy: 1078, 1938
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_critical13
+  rotate: true
+  xy: 474, 1003
+  size: 245, 208
+  orig: 247, 210
+  offset: 1, 1
+  index: -1
+dragon_kanthaka_adult_leg_r1
+  rotate: false
+  xy: 1026, 1872
+  size: 47, 70
+  orig: 47, 76
+  offset: 0, 6
+  index: -1
+dragon_kanthaka_e_critical20
+  rotate: true
+  xy: 990, 896
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_critical08
+  rotate: true
+  xy: 256, 1744
+  size: 207, 217
+  orig: 209, 217
+  offset: 1, 0
+  index: -1
+dragon_kanthaka_e_shoulder2
+  rotate: false
+  xy: 1063, 758
+  size: 60, 88
+  orig: 60, 88
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_wing5
+  rotate: true
+  xy: 1072, 395
+  size: 46, 56
+  orig: 48, 58
+  offset: 1, 1
+  index: -1
+dragon_kanthaka_e_critical01
+  rotate: false
+  xy: 220, 1953
+  size: 105, 93
+  orig: 107, 95
+  offset: 1, 1
+  index: -1
+dragon_kanthaka_child_back_horn
+  rotate: true
+  xy: 1072, 443
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_critical21
+  rotate: true
+  xy: 1004, 1249
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_critical09
+  rotate: true
+  xy: 474, 750
+  size: 251, 208
+  orig: 253, 208
+  offset: 1, 0
+  index: -1
+dragon_kanthaka_e_back_hair
+  rotate: false
+  xy: 597, 1963
+  size: 146, 79
+  orig: 146, 79
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_child_arm_r2
+  rotate: true
+  xy: 1093, 1595
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_baby_body2
+  rotate: false
+  xy: 1083, 1157
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_adult_tail2
+  rotate: true
+  xy: 434, 1963
+  size: 73, 161
+  orig: 73, 161
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_baby_wing2
+  rotate: true
+  xy: 1093, 1647
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_adult_hand_l1
+  rotate: false
+  xy: 966, 468
+  size: 98, 65
+  orig: 98, 69
+  offset: 0, 4
+  index: -1
+dragon_kanthaka_adult_body1
+  rotate: false
+  xy: 1025, 1815
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_eye1
+  rotate: false
+  xy: 434, 2038
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_wing1
+  rotate: false
+  xy: 893, 242
+  size: 101, 98
+  orig: 103, 100
+  offset: 1, 1
+  index: -1
+dragon_kanthaka_critical4
+  rotate: false
+  xy: 845, 1235
+  size: 157, 134
+  orig: 157, 134
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_critical05
+  rotate: false
+  xy: 784, 715
+  size: 198, 206
+  orig: 198, 206
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_critical05
+  rotate: false
+  xy: 684, 947
+  size: 198, 206
+  orig: 198, 206
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_baby_face
+  rotate: false
+  xy: 1016, 1665
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_adult_leg_l2
+  rotate: true
+  xy: 1066, 468
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_critical12
+  rotate: true
+  xy: 476, 1250
+  size: 245, 208
+  orig: 247, 210
+  offset: 1, 1
+  index: -1
+dragon_kanthaka_child_leg_l2
+  rotate: false
+  xy: 961, 2005
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_hand_r1
+  rotate: false
+  xy: 874, 1371
+  size: 123, 82
+  orig: 123, 82
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_body1
+  rotate: false
+  xy: 1025, 1815
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_hair
+  rotate: false
+  xy: 856, 1155
+  size: 81, 78
+  orig: 81, 78
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_adult_hand_r1
+  rotate: false
+  xy: 996, 242
+  size: 116, 76
+  orig: 116, 76
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_baby_hair
+  rotate: false
+  xy: 1016, 1595
+  size: 75, 68
+  orig: 75, 68
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_wing4
+  rotate: false
+  xy: 960, 535
+  size: 87, 84
+  orig: 87, 86
+  offset: 0, 1
+  index: -1
+dragon_kanthaka_adult_eye2
+  rotate: false
+  xy: 434, 1953
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_adult_wing2
+  rotate: true
+  xy: 990, 1080
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_critical20
+  rotate: false
+  xy: 1004, 1341
+  size: 90, 77
+  orig: 90, 77
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_critical08
+  rotate: false
+  xy: 542, 510
+  size: 207, 217
+  orig: 209, 217
+  offset: 1, 0
+  index: -1
+dragon_kanthaka_adult_neck
+  rotate: true
+  xy: 1074, 1740
+  size: 68, 44
+  orig: 68, 44
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_baby_arm_r
+  rotate: false
+  xy: 1098, 48
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_critical19
+  rotate: false
+  xy: 2, 2
+  size: 276, 252
+  orig: 278, 254
+  offset: 1, 1
+  index: -1
+dragon_kanthaka_critical19
+  rotate: false
+  xy: 2, 510
+  size: 276, 252
+  orig: 278, 254
+  offset: 1, 1
+  index: -1
+dragon_kanthaka_e_hand_r2
+  rotate: true
+  xy: 939, 1157
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_child_leg_r2
+  rotate: false
+  xy: 1077, 1810
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_critical01
+  rotate: false
+  xy: 327, 1953
+  size: 105, 93
+  orig: 107, 95
+  offset: 1, 1
+  index: -1
+dragon_kanthaka_e_tail1
+  rotate: true
+  xy: 896, 1743
+  size: 131, 127
+  orig: 131, 127
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_adult_hand_r2
+  rotate: true
+  xy: 939, 1157
+  size: 76, 63
+  orig: 76, 63
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_baby_arm_l
+  rotate: false
+  xy: 1098, 2
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_baby_eye2
+  rotate: false
+  xy: 220, 1936
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_critical07
+  rotate: false
+  xy: 475, 1744
+  size: 207, 217
+  orig: 209, 217
+  offset: 1, 0
+  index: -1
+dragon_kanthaka_child_hair
+  rotate: true
+  xy: 1049, 535
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_eye2
+  rotate: false
+  xy: 434, 1953
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_adult_face2
+  rotate: false
+  xy: 1095, 1455
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_adult_leg_l1
+  rotate: false
+  xy: 893, 342
+  size: 76, 46
+  orig: 76, 46
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_critical15
+  rotate: false
+  xy: 2, 1004
+  size: 260, 238
+  orig: 262, 240
+  offset: 1, 1
+  index: -1
+dragon_kanthaka_child_arm_l1
+  rotate: true
+  xy: 896, 2005
+  size: 41, 63
+  orig: 41, 65
+  offset: 0, 1
+  index: -1
+dragon_kanthaka_child_wing1
+  rotate: false
+  xy: 1069, 987
+  size: 59, 47
+  orig: 59, 47
+  offset: 0, 0
+  index: -1
+dragon_kanthaka_e_face2
+  rotate: false
+  xy: 1095, 1455
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1

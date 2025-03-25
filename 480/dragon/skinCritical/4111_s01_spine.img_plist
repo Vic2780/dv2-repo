@@ -1,0 +1,137 @@
+4111_s01_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_4164_adult_critical_back06
+  rotate: false
+  xy: 2, 371
+  size: 285, 135
+  orig: 453, 147
+  offset: 0, 0
+  index: -1
+dragon_4164_adult_critical_front01
+  rotate: true
+  xy: 289, 371
+  size: 79, 62
+  orig: 215, 332
+  offset: 136, 237
+  index: -1
+dragon_4164_adult_critical_front05
+  rotate: true
+  xy: 2, 508
+  size: 181, 284
+  orig: 215, 332
+  offset: 0, 32
+  index: -1
+dragon_4164_adult_critical_back01
+  rotate: false
+  xy: 2, 810
+  size: 229, 119
+  orig: 453, 147
+  offset: 221, 5
+  index: -1
+dragon_4164_adult_critical_back05
+  rotate: true
+  xy: 353, 219
+  size: 325, 135
+  orig: 453, 147
+  offset: 11, 0
+  index: -1
+dragon_4164_adult_critical_front08
+  rotate: false
+  xy: 289, 452
+  size: 61, 168
+  orig: 215, 332
+  offset: 100, 23
+  index: -1
+dragon_glacia_baby_blink_partSkin01
+  rotate: false
+  xy: 292, 246
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+dragon_4164_adult_critical_front00
+  rotate: true
+  xy: 289, 371
+  size: 79, 62
+  orig: 215, 332
+  offset: 136, 237
+  index: -1
+dragon_4164_adult_critical_front04
+  rotate: true
+  xy: 2, 246
+  size: 123, 288
+  orig: 215, 332
+  offset: 16, 32
+  index: -1
+dragon_4164_adult_critical_back00
+  rotate: true
+  xy: 396, 811
+  size: 167, 111
+  orig: 453, 147
+  offset: 286, 5
+  index: -1
+dragon_4164_adult_critical_back04
+  rotate: false
+  xy: 2, 2
+  size: 353, 121
+  orig: 453, 147
+  offset: 52, 8
+  index: -1
+dragon_4164_adult_critical_back08
+  rotate: false
+  xy: 233, 811
+  size: 161, 115
+  orig: 453, 147
+  offset: 0, 2
+  index: -1
+dragon_4164_adult_critical_front07
+  rotate: true
+  xy: 310, 980
+  size: 123, 158
+  orig: 215, 332
+  offset: 40, 18
+  index: -1
+dragon_4164_adult_critical_front03
+  rotate: true
+  xy: 2, 931
+  size: 185, 220
+  orig: 215, 332
+  offset: 30, 94
+  index: -1
+dragon_4164_adult_critical_back03
+  rotate: false
+  xy: 2, 125
+  size: 349, 119
+  orig: 453, 147
+  offset: 88, 3
+  index: -1
+dragon_4164_adult_critical_back07
+  rotate: true
+  xy: 357, 2
+  size: 215, 137
+  orig: 453, 147
+  offset: 0, 0
+  index: -1
+dragon_4164_adult_critical_front06
+  rotate: true
+  xy: 288, 622
+  size: 187, 206
+  orig: 215, 332
+  offset: 0, 19
+  index: -1
+dragon_4164_adult_critical_front02
+  rotate: true
+  xy: 224, 931
+  size: 185, 84
+  orig: 215, 332
+  offset: 30, 229
+  index: -1
+dragon_4164_adult_critical_back02
+  rotate: false
+  xy: 2, 691
+  size: 283, 117
+  orig: 453, 147
+  offset: 164, 7
+  index: -1

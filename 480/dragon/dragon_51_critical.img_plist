@@ -7,7 +7,7 @@
             <key>dragon/dragon_51_critical/critical.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,116},{372,260}}</string>
+                <string>{{2,230},{372,260}}</string>
                 <key>offset</key>
                 <string>{6,0}</string>
                 <key>rotated</key>
@@ -18,6 +18,32 @@
                 <string>{384,260}</string>
             </dict>
             <key>dragon/dragon_51_critical/cut_in.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,116},{576,112}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{576,112}}</string>
+                <key>sourceSize</key>
+                <string>{576,112}</string>
+            </dict>
+            <key>dragon/dragon_51_critical/e_critical.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{376,230},{384,260}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{384,260}}</string>
+                <key>sourceSize</key>
+                <string>{384,260}</string>
+            </dict>
+            <key>dragon/dragon_51_critical/e_cut_in.png</key>
             <dict>
                 <key>frame</key>
                 <string>{{2,2},{576,112}}</string>
@@ -38,9 +64,9 @@
             <key>realTextureFileName</key>
             <string>dragon_51_critical.pvr.ccz</string>
             <key>size</key>
-            <string>{580,378}</string>
+            <string>{762,492}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:65b075a636540a1790916b268c17c63f:d36817bfc04cc9aa128a53989c14f63f:1c18b42f1e0c45184841f72315796a42$</string>
+            <string>$TexturePacker:SmartUpdate:46381cfac94bf612cde5079aab88fc29:f7ea03de4adc4e386523eff72248c9c1:1c18b42f1e0c45184841f72315796a42$</string>
             <key>textureFileName</key>
             <string>dragon_51_critical.pvr.ccz</string>
         </dict>

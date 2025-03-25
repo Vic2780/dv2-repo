@@ -1,0 +1,592 @@
+dragon_4124_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_deathriver_critical_smoke5
+  rotate: false
+  xy: 2, 1568
+  size: 94, 131
+  orig: 100, 135
+  offset: 2, 4
+  index: -1
+dragon_dethriver_baby_l_leg
+  rotate: true
+  xy: 222, 1970
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+dragon_dethriver_baby_mouth
+  rotate: false
+  xy: 155, 1781
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+dragon_deathriver_critical_beam2
+  rotate: false
+  xy: 2, 1303
+  size: 110, 133
+  orig: 110, 133
+  offset: 0, 0
+  index: -1
+dragon_deathriver_critical_light3
+  rotate: false
+  xy: 2, 585
+  size: 146, 140
+  orig: 146, 140
+  offset: 0, 0
+  index: -1
+dragon_dethriver_adult_eye2
+  rotate: true
+  xy: 157, 1580
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+dragon_dethriver_child_chest
+  rotate: true
+  xy: 114, 1303
+  size: 73, 70
+  orig: 73, 70
+  offset: 0, 0
+  index: -1
+dragon_dethriver_child_neck_add
+  rotate: false
+  xy: 186, 1850
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+dragon_dethriver_baby_body
+  rotate: false
+  xy: 210, 1013
+  size: 44, 83
+  orig: 44, 83
+  offset: 0, 0
+  index: -1
+dragon_dethriver_baby_l_arm2
+  rotate: false
+  xy: 72, 1960
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+dragon_dethriver_adult_neck
+  rotate: false
+  xy: 153, 388
+  size: 101, 116
+  orig: 101, 116
+  offset: 0, 0
+  index: -1
+dragon_dethriver_child_face_add
+  rotate: false
+  xy: 185, 1636
+  size: 51, 43
+  orig: 51, 43
+  offset: 0, 0
+  index: -1
+dragon_dethriver_baby_face
+  rotate: false
+  xy: 187, 1238
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+dragon_deathriver_critical_smoke4
+  rotate: false
+  xy: 2, 1701
+  size: 87, 128
+  orig: 93, 132
+  offset: 3, 3
+  index: -1
+dragon_dethriver_baby_r_arm2
+  rotate: true
+  xy: 186, 1894
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+dragon_dethriver_baby_l_foot
+  rotate: true
+  xy: 150, 848
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+dragon_dethriver_adult_r_leg2
+  rotate: false
+  xy: 220, 84
+  size: 34, 29
+  orig: 34, 37
+  offset: 0, 8
+  index: -1
+dragon_deathriver_critical_beam3
+  rotate: false
+  xy: 2, 1166
+  size: 111, 135
+  orig: 111, 135
+  offset: 0, 0
+  index: -1
+dragon_deathriver_critical_light4
+  rotate: false
+  xy: 2, 727
+  size: 146, 138
+  orig: 146, 140
+  offset: 0, 2
+  index: -1
+dragon_dethriver_adult_eye3
+  rotate: true
+  xy: 243, 1619
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+dragon_dethriver_adult_tail0
+  rotate: true
+  xy: 150, 630
+  size: 80, 104
+  orig: 80, 104
+  offset: 0, 0
+  index: -1
+dragon_deathriver_critical_smoke
+  rotate: false
+  xy: 133, 867
+  size: 52, 107
+  orig: 52, 113
+  offset: 0, 3
+  index: -1
+dragon_dethriver_baby_r_foot
+  rotate: true
+  xy: 150, 848
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+dragon_dethriver_adult_l_leg2
+  rotate: false
+  xy: 220, 51
+  size: 34, 31
+  orig: 34, 37
+  offset: 0, 6
+  index: -1
+dragon_dethriver_child_l_leg
+  rotate: true
+  xy: 133, 976
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+dragon_dethriver_adult_tail
+  rotate: false
+  xy: 91, 1918
+  size: 101, 68
+  orig: 101, 68
+  offset: 0, 0
+  index: -1
+dragon_dethriver_adult_chest_add
+  rotate: false
+  xy: 186, 1308
+  size: 68, 69
+  orig: 74, 89
+  offset: 6, 0
+  index: -1
+dragon_dethriver_baby_eye2
+  rotate: false
+  xy: 230, 1214
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+dragon_dethriver_adult_eye
+  rotate: false
+  xy: 245, 1379
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+dragon_dethriver_baby_face_add
+  rotate: false
+  xy: 114, 1378
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+dragon_dethriver_adult_face
+  rotate: true
+  xy: 187, 930
+  size: 81, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1
+dragon_deathriver_critical_light
+  rotate: false
+  xy: 2, 1438
+  size: 98, 128
+  orig: 98, 128
+  offset: 0, 0
+  index: -1
+dragon_dethriver_child_l_arm
+  rotate: false
+  xy: 234, 1681
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+dragon_deathriver_critical_smoke3
+  rotate: false
+  xy: 2, 1831
+  size: 87, 127
+  orig: 93, 131
+  offset: 3, 3
+  index: -1
+dragon_deathriver_critical_beam4
+  rotate: false
+  xy: 153, 262
+  size: 101, 124
+  orig: 101, 124
+  offset: 0, 0
+  index: -1
+dragon_dethriver_child_mouth
+  rotate: true
+  xy: 195, 1722
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+dragon_deathriver_critical_light_add
+  rotate: true
+  xy: 2, 867
+  size: 150, 129
+  orig: 154, 133
+  offset: 3, 3
+  index: -1
+dragon_dethriver_child_r_foot
+  rotate: true
+  xy: 98, 1677
+  size: 21, 52
+  orig: 21, 52
+  offset: 0, 0
+  index: -1
+dragon_dethriver_baby_tail
+  rotate: true
+  xy: 210, 1098
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+dragon_dethriver_adult_r_foot
+  rotate: true
+  xy: 220, 1886
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+dragon_deathriver_critical_smoke6
+  rotate: false
+  xy: 150, 712
+  size: 99, 134
+  orig: 99, 138
+  offset: 0, 4
+  index: -1
+dragon_dethriver_adult_hip
+  rotate: false
+  xy: 178, 1523
+  size: 74, 69
+  orig: 74, 69
+  offset: 0, 0
+  index: -1
+dragon_dethriver_adult_r_leg3
+  rotate: false
+  xy: 229, 1808
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+dragon_dethriver_baby_eye
+  rotate: false
+  xy: 157, 1556
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+dragon_dethriver_adult_l_leg
+  rotate: false
+  xy: 220, 181
+  size: 33, 56
+  orig: 33, 56
+  offset: 0, 0
+  index: -1
+dragon_deathriver_critical_light5
+  rotate: true
+  xy: 2, 1019
+  size: 145, 133
+  orig: 145, 137
+  offset: 0, 3
+  index: -1
+dragon_dethriver_adult_l_foot
+  rotate: false
+  xy: 194, 1918
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+dragon_dethriver_child_r_leg
+  rotate: false
+  xy: 220, 2
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+dragon_dethriver_adult_l_leg3
+  rotate: false
+  xy: 229, 1847
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+dragon_dethriver_adult_hip_add
+  rotate: true
+  xy: 2, 1960
+  size: 35, 68
+  orig: 35, 68
+  offset: 0, 0
+  index: -1
+dragon_dethriver_baby_r_arm
+  rotate: false
+  xy: 236, 1129
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+dragon_deathriver_critical_smoke2
+  rotate: false
+  xy: 91, 1701
+  size: 62, 107
+  orig: 62, 113
+  offset: 0, 3
+  index: -1
+dragon_deathriver_critical_beam1
+  rotate: false
+  xy: 150, 506
+  size: 104, 122
+  orig: 104, 122
+  offset: 0, 0
+  index: -1
+dragon_dethriver_adult_tail2
+  rotate: false
+  xy: 137, 1112
+  size: 69, 46
+  orig: 69, 46
+  offset: 0, 0
+  index: -1
+dragon_dethriver_adult_r_hand
+  rotate: false
+  xy: 208, 1129
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+child_sample
+  rotate: false
+  xy: 2, 424
+  size: 146, 159
+  orig: 146, 159
+  offset: 0, 0
+  index: -1
+dragon_dethriver_child_l_foot
+  rotate: false
+  xy: 230, 1160
+  size: 21, 52
+  orig: 21, 52
+  offset: 0, 0
+  index: -1
+baby_sample
+  rotate: false
+  xy: 115, 1166
+  size: 70, 129
+  orig: 70, 129
+  offset: 0, 0
+  index: -1
+dragon_dethriver_child_chest_add
+  rotate: true
+  xy: 182, 1681
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+dragon_dethriver_child_tail_add
+  rotate: false
+  xy: 194, 1953
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+dragon_dethriver_child_face
+  rotate: true
+  xy: 187, 848
+  size: 80, 67
+  orig: 80, 67
+  offset: 0, 0
+  index: -1
+dragon_dethriver_baby_body_add
+  rotate: false
+  xy: 155, 1677
+  size: 25, 51
+  orig: 25, 51
+  offset: 0, 0
+  index: -1
+dragon_dethriver_adult_l_hand
+  rotate: false
+  xy: 221, 1911
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+dragon_dethriver_adult_face_add
+  rotate: false
+  xy: 198, 1771
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+dragon_dethriver_adult_mouth
+  rotate: true
+  xy: 226, 1725
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+dragon_deathriver_critical_beam5
+  rotate: false
+  xy: 102, 1438
+  size: 74, 116
+  orig: 74, 116
+  offset: 0, 0
+  index: -1
+dragon_deathriver_critical_light2
+  rotate: false
+  xy: 2, 262
+  size: 149, 160
+  orig: 149, 160
+  offset: 0, 0
+  index: -1
+dragon_dethriver_baby_tail_add
+  rotate: false
+  xy: 243, 1594
+  size: 11, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+dragon_dethriver_child_tail
+  rotate: false
+  xy: 178, 1435
+  size: 74, 86
+  orig: 74, 86
+  offset: 0, 0
+  index: -1
+dragon_dethriver_child_eye2
+  rotate: false
+  xy: 220, 239
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_dethriver_child_hip
+  rotate: false
+  xy: 187, 1160
+  size: 41, 76
+  orig: 41, 76
+  offset: 0, 0
+  index: -1
+dragon_dethriver_adult_love
+  rotate: false
+  xy: 222, 1942
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_dethriver_adult_r_arm2
+  rotate: true
+  xy: 155, 1730
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+adult_sample
+  rotate: false
+  xy: 2, 2
+  size: 216, 258
+  orig: 216, 258
+  offset: 0, 0
+  index: -1
+dragon_dethriver_adult_neck_add
+  rotate: false
+  xy: 98, 1594
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+dragon_dethriver_baby_r_leg
+  rotate: true
+  xy: 222, 1970
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+dragon_dethriver_adult_l_arm2
+  rotate: false
+  xy: 186, 1808
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+dragon_dethriver_adult_waist
+  rotate: false
+  xy: 137, 1013
+  size: 71, 97
+  orig: 71, 97
+  offset: 0, 0
+  index: -1
+dragon_dethriver_child_r_arm2
+  rotate: false
+  xy: 185, 1594
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+dragon_dethriver_adult_chest
+  rotate: true
+  xy: 91, 1810
+  size: 106, 93
+  orig: 106, 93
+  offset: 0, 0
+  index: -1
+dragon_dethriver_child_eye
+  rotate: true
+  xy: 238, 1768
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+dragon_dethriver_child_l_arm2
+  rotate: true
+  xy: 220, 115
+  size: 64, 26
+  orig: 64, 26
+  offset: 0, 0
+  index: -1
+dragon_dethriver_adult_l_arm
+  rotate: true
+  xy: 102, 1556
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+dragon_dethriver_child_neck
+  rotate: true
+  xy: 172, 1379
+  size: 54, 71
+  orig: 54, 71
+  offset: 0, 0
+  index: -1

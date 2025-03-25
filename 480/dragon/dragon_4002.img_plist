@@ -6,80 +6,105 @@
         <dict>
             <key>dragon/dragon_4002/box_adult.png</key>
             <dict>
-                <key>frame</key>
-                <string>{{75,2},{51,70}}</string>
-                <key>offset</key>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
                 <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{11,0},{51,70}}</string>
-                <key>sourceSize</key>
+                <key>spriteSize</key>
+                <string>{53,70}</string>
+                <key>spriteSourceSize</key>
                 <string>{73,70}</string>
+                <key>textureRect</key>
+                <string>{{1,295},{53,70}}</string>
+                <key>textureRotated</key>
+                <true/>
             </dict>
             <key>dragon/dragon_4002/box_baby.png</key>
             <dict>
-                <key>frame</key>
-                <string>{{70,95},{69,56}}</string>
-                <key>offset</key>
-                <string>{-2,-5}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,12},{69,56}}</string>
-                <key>sourceSize</key>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1,-5}</string>
+                <key>spriteSize</key>
+                <string>{71,58}</string>
+                <key>spriteSourceSize</key>
                 <string>{73,70}</string>
+                <key>textureRect</key>
+                <string>{{1,166},{71,58}}</string>
+                <key>textureRotated</key>
+                <false/>
             </dict>
             <key>dragon/dragon_4002/box_child.png</key>
             <dict>
-                <key>frame</key>
-                <string>{{2,95},{73,66}}</string>
-                <key>offset</key>
-                <string>{0,-2}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,4},{73,66}}</string>
-                <key>sourceSize</key>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,-1}</string>
+                <key>spriteSize</key>
+                <string>{73,68}</string>
+                <key>spriteSourceSize</key>
                 <string>{73,70}</string>
+                <key>textureRect</key>
+                <string>{{1,96},{73,68}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>dragon/dragon_4002/box_evolution.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-1,0}</string>
+                <key>spriteSize</key>
+                <string>{67,70}</string>
+                <key>spriteSourceSize</key>
+                <string>{73,70}</string>
+                <key>textureRect</key>
+                <string>{{1,226},{67,70}}</string>
+                <key>textureRotated</key>
+                <true/>
             </dict>
             <key>dragon/dragon_4002/egg.png</key>
             <dict>
-                <key>frame</key>
-                <string>{{2,2},{71,91}}</string>
-                <key>offset</key>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
                 <string>{-2,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{18,10},{71,91}}</string>
-                <key>sourceSize</key>
+                <key>spriteSize</key>
+                <string>{73,93}</string>
+                <key>spriteSourceSize</key>
                 <string>{111,111}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{73,93}}</string>
+                <key>textureRotated</key>
+                <false/>
             </dict>
             <key>dragon/dragon_4002/egg_small.png</key>
             <dict>
-                <key>frame</key>
-                <string>{{70,166},{43,55}}</string>
-                <key>offset</key>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
                 <string>{-1,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{11,6},{43,55}}</string>
-                <key>sourceSize</key>
+                <key>spriteSize</key>
+                <string>{45,57}</string>
+                <key>spriteSourceSize</key>
                 <string>{67,67}</string>
+                <key>textureRect</key>
+                <string>{{1,350},{45,57}}</string>
+                <key>textureRotated</key>
+                <true/>
             </dict>
         </dict>
         <key>metadata</key>
         <dict>
             <key>format</key>
-            <integer>2</integer>
+            <integer>3</integer>
             <key>realTextureFileName</key>
             <string>dragon_4002.pvr.ccz</string>
             <key>size</key>
-            <string>{128,211}</string>
+            <string>{76,396}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:349d74d8674b14e031a8c03b6883aada:4096f2c507071e7e4b8af05a8df1aec7:1ba852c8896d3e5e05c3403c3bcd7515$</string>
+            <string>$TexturePacker:SmartUpdate:5c8c153a82de5203e62a1944cb420904:2808e6f28d9d521f78bc1dafdccdef54:1ba852c8896d3e5e05c3403c3bcd7515$</string>
             <key>textureFileName</key>
             <string>dragon_4002.pvr.ccz</string>
         </dict>

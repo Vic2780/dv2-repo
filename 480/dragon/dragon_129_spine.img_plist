@@ -4,297 +4,360 @@ filter: Linear,Linear
 repeat: none
 dragon_barian_baby_leg1
   rotate: true
-  xy: 924, 478
+  xy: 444, 1809
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
+dragon_barian_cri_light2
+  rotate: false
+  xy: 443, 1656
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
 dragon_barian_baby_eye1
   rotate: false
-  xy: 1511, 466
+  xy: 458, 1780
   size: 20, 21
   orig: 20, 21
   offset: 0, 0
   index: -1
 dragon_barian_baby_tail1
   rotate: false
-  xy: 1523, 489
+  xy: 409, 991
   size: 19, 19
   orig: 19, 19
   offset: 0, 0
   index: -1
 dragon_barian_adult_head
-  rotate: true
-  xy: 496, 461
-  size: 49, 74
-  orig: 49, 74
+  rotate: false
+  xy: 306, 1767
+  size: 61, 92
+  orig: 61, 92
   offset: 0, 0
   index: -1
 dragon_barian_cri1
-  rotate: false
-  xy: 837, 371
+  rotate: true
+  xy: 336, 445
   size: 209, 53
   orig: 209, 53
   offset: 0, 0
   index: -1
+dragon_barian_adult_e_tail2a
+  rotate: true
+  xy: 370, 1238
+  size: 86, 50
+  orig: 86, 50
+  offset: 0, 0
+  index: -1
 dragon_barian_adult_tail2b
   rotate: false
-  xy: 746, 430
+  xy: 391, 552
   size: 87, 60
   orig: 87, 60
   offset: 0, 0
   index: -1
 dragon_barian_baby_tail2
-  rotate: false
-  xy: 837, 426
+  rotate: true
+  xy: 361, 1656
   size: 100, 37
   orig: 100, 37
   offset: 0, 0
   index: -1
 dragon_barian_cri4
   rotate: true
-  xy: 1299, 184
+  xy: 348, 839
   size: 159, 34
   orig: 159, 34
   offset: 0, 0
   index: -1
 dragon_barian_child_eye3
   rotate: true
-  xy: 553, 430
+  xy: 409, 1012
   size: 22, 17
   orig: 22, 17
   offset: 0, 0
   index: -1
 dragon_barian_crib1
   rotate: true
-  xy: 1335, 176
+  xy: 204, 1529
   size: 164, 85
   orig: 164, 85
   offset: 0, 0
   index: -1
 dragon_barian_child_tail1
-  rotate: false
-  xy: 1413, 460
+  rotate: true
+  xy: 430, 981
   size: 59, 48
   orig: 59, 50
   offset: 0, 2
   index: -1
 dragon_barian_adult_l_leg2b
-  rotate: false
-  xy: 1474, 493
+  rotate: true
+  xy: 184, 1529
   size: 20, 17
   orig: 20, 17
   offset: 0, 0
   index: -1
 dragon_barian_adult_l_leg1b
-  rotate: true
-  xy: 1018, 488
+  rotate: false
+  xy: 444, 1590
   size: 22, 41
   orig: 22, 41
   offset: 0, 0
   index: -1
-dragon_barian_child_body
-  rotate: true
-  xy: 1099, 367
-  size: 55, 74
-  orig: 55, 74
-  offset: 0, 0
-  index: -1
 dragon_barian_baby_leg2
   rotate: true
-  xy: 1103, 489
+  xy: 444, 1633
   size: 21, 32
   orig: 21, 32
   offset: 0, 0
   index: -1
+dragon_barian_adult_l_wing_acc
+  rotate: false
+  xy: 283, 1245
+  size: 85, 149
+  orig: 85, 149
+  offset: 0, 0
+  index: -1
+dragon_barian_child_body
+  rotate: false
+  xy: 322, 1861
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
 dragon_barian_baby_eye2
   rotate: false
-  xy: 1525, 139
+  xy: 458, 1757
   size: 20, 21
   orig: 20, 21
   offset: 0, 0
   index: -1
 dragon_barian_adult_r_leg2c
-  rotate: true
-  xy: 746, 492
+  rotate: false
+  xy: 463, 841
   size: 15, 50
   orig: 15, 50
   offset: 0, 0
   index: -1
 dragon_barian_adult_tail2a
-  rotate: false
-  xy: 939, 426
+  rotate: true
+  xy: 370, 1238
   size: 86, 50
   orig: 86, 50
   offset: 0, 0
   index: -1
 dragon_barian_adult_r_leg1a
   rotate: false
-  xy: 1411, 342
+  xy: 297, 1883
   size: 23, 85
   orig: 23, 85
   offset: 0, 0
   index: -1
 dragon_barian_adult_furb
-  rotate: true
-  xy: 659, 430
-  size: 62, 85
-  orig: 62, 85
+  rotate: false
+  xy: 227, 1776
+  size: 77, 105
+  orig: 77, 105
   offset: 0, 0
   index: -1
 dragon_barian_crib5
   rotate: false
-  xy: 336, 2
+  xy: 169, 2
   size: 165, 426
   orig: 165, 426
   offset: 0, 0
   index: -1
-dragon_barian_child_leg1
-  rotate: true
-  xy: 313, 463
-  size: 47, 95
-  orig: 47, 95
-  offset: 0, 0
-  index: -1
 dragon_barian_child_hair2
-  rotate: false
-  xy: 410, 463
+  rotate: true
+  xy: 431, 1378
   size: 84, 47
   orig: 84, 47
   offset: 0, 0
   index: -1
+dragon_barian_child_leg1
+  rotate: false
+  xy: 369, 1758
+  size: 47, 95
+  orig: 47, 95
+  offset: 0, 0
+  index: -1
 dragon_barian_child_eye2
-  rotate: true
-  xy: 1477, 367
+  rotate: false
+  xy: 443, 1700
   size: 22, 11
   orig: 22, 11
   offset: 0, 0
   index: -1
+dragon_barian_cri_light3
+  rotate: true
+  xy: 397, 1476
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
 dragon_barian_adult_r_leg1b
   rotate: true
-  xy: 1061, 489
+  xy: 432, 1501
   size: 21, 40
   orig: 21, 40
   offset: 0, 0
   index: -1
 dragon_barian_adult_eye5
-  rotate: false
-  xy: 1496, 493
+  rotate: true
+  xy: 439, 431
   size: 12, 17
   orig: 12, 17
   offset: 0, 0
   index: -1
 dragon_barian_baby_chin
   rotate: true
-  xy: 1473, 429
+  xy: 463, 893
   size: 23, 15
   orig: 23, 15
   offset: 0, 0
   index: -1
 dragon_barian_crid2
   rotate: false
-  xy: 1200, 184
+  xy: 184, 1245
   size: 97, 155
   orig: 97, 155
   offset: 0, 0
   index: -1
 dragon_barian_child_leg4
   rotate: false
-  xy: 1527, 293
+  xy: 418, 1872
   size: 24, 52
   orig: 24, 52
   offset: 0, 0
   index: -1
 dragon_barian_cric1
-  rotate: false
-  xy: 1062, 2
+  rotate: true
+  xy: 2, 1287
   size: 263, 180
   orig: 263, 182
   offset: 0, 0
   index: -1
+dragon_barian_adult_e_b_l_leg_acc
+  rotate: false
+  xy: 322, 1937
+  size: 55, 70
+  orig: 55, 70
+  offset: 0, 0
+  index: -1
+dragon_barian_adult_e_l_leg2
+  rotate: false
+  xy: 434, 1524
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
 dragon_barian_child_eye
   rotate: true
-  xy: 1540, 403
+  xy: 467, 1700
   size: 22, 11
   orig: 22, 11
   offset: 0, 0
   index: -1
 dragon_barian_cri3
   rotate: true
-  xy: 1474, 2
+  xy: 316, 1071
   size: 161, 36
   orig: 161, 36
   offset: 0, 0
   index: -1
+dragon_barian_adult_e_l_wing
+  rotate: false
+  xy: 169, 858
+  size: 177, 211
+  orig: 183, 213
+  offset: 0, 0
+  index: -1
 dragon_barian_baby_body
   rotate: false
-  xy: 1048, 371
+  xy: 393, 1593
   size: 49, 55
   orig: 49, 55
   offset: 0, 0
   index: -1
+dragon_barian_adult_e_hair
+  rotate: false
+  xy: 392, 614
+  size: 79, 163
+  orig: 79, 163
+  offset: 0, 0
+  index: -1
 dragon_barian_adult_l_wing
   rotate: false
-  xy: 1327, 2
+  xy: 169, 1071
   size: 145, 172
   orig: 149, 174
   offset: 0, 0
   index: -1
 dragon_barian_adult_l_leg2c
-  rotate: true
-  xy: 659, 494
+  rotate: false
+  xy: 435, 1926
   size: 16, 62
   orig: 16, 62
   offset: 0, 0
   index: -1
 dragon_barian_adult_l_leg1c
-  rotate: true
-  xy: 1512, 139
+  rotate: false
+  xy: 443, 1687
   size: 24, 11
   orig: 24, 11
   offset: 0, 0
   index: -1
 dragon_barian_baby_eye3
-  rotate: false
-  xy: 1474, 466
+  rotate: true
+  xy: 453, 1901
   size: 35, 25
   orig: 35, 25
   offset: 0, 0
   index: -1
 dragon_barian_child_wing2a
-  rotate: false
-  xy: 1477, 309
+  rotate: true
+  xy: 422, 1293
   size: 48, 56
   orig: 48, 56
   offset: 0, 0
   index: -1
 dragon_barian_adult_eye4
-  rotate: false
-  xy: 1527, 347
+  rotate: true
+  xy: 458, 431
   size: 11, 17
   orig: 11, 17
   offset: 0, 0
   index: -1
 dragon_barian_adult_r_leg2d
   rotate: false
-  xy: 1474, 165
+  xy: 316, 1234
   size: 26, 9
   orig: 26, 9
   offset: 0, 0
   index: -1
 dragon_barian_adult_hair
-  rotate: true
-  xy: 179, 430
+  rotate: false
+  xy: 291, 1523
   size: 64, 132
   orig: 64, 132
   offset: 0, 0
   index: -1
 dragon_barian_baby_heart
   rotate: false
-  xy: 1490, 425
+  xy: 432, 1160
   size: 46, 39
   orig: 46, 39
   offset: 0, 0
+  index: -1
+dragon_barian_adult_e_b_r_leg_acc
+  rotate: false
+  xy: 379, 1929
+  size: 54, 70
+  orig: 58, 84
+  offset: 0, 14
   index: -1
 dragon_barian_crib2
   rotate: false
@@ -304,289 +367,401 @@ dragon_barian_crib2
   offset: 0, 0
   index: -1
 dragon_barian_child_hair1
-  rotate: false
-  xy: 1114, 424
+  rotate: true
+  xy: 422, 1238
   size: 53, 56
   orig: 53, 56
   offset: 0, 0
   index: -1
 dragon_barian_baby_fur
   rotate: false
-  xy: 1436, 392
+  xy: 426, 2001
   size: 52, 35
   orig: 52, 35
   offset: 0, 0
   index: -1
+dragon_barian_adult_e_l_leg1_acc
+  rotate: false
+  xy: 379, 1855
+  size: 37, 72
+  orig: 37, 74
+  offset: 0, 1
+  index: -1
 dragon_barian_cri2
   rotate: false
-  xy: 2, 431
+  xy: 204, 1695
   size: 97, 79
   orig: 99, 79
   offset: 2, 0
   index: -1
 dragon_barian_adult_fur1
-  rotate: true
-  xy: 572, 430
-  size: 71, 85
-  orig: 71, 85
+  rotate: false
+  xy: 391, 445
+  size: 87, 105
+  orig: 87, 105
   offset: 0, 0
+  index: -1
+dragon_luda_critical
+  rotate: true
+  xy: 2, 2014
+  size: 29, 213
+  orig: 29, 215
+  offset: 0, 1
   index: -1
 dragon_barian_adult_r_leg1c
   rotate: true
-  xy: 1540, 347
+  xy: 169, 1245
   size: 27, 11
   orig: 27, 11
   offset: 0, 0
   index: -1
 dragon_barian_crid3
-  rotate: true
-  xy: 1175, 397
+  rotate: false
+  xy: 184, 1402
   size: 102, 125
   orig: 102, 131
   offset: 0, 0
   index: -1
-dragon_barian_child_head
+dragon_barian_adult_neck
   rotate: true
-  xy: 1436, 326
+  xy: 392, 779
+  size: 60, 86
+  orig: 60, 86
+  offset: 0, 0
+  index: -1
+dragon_barian_adult_e_b_r_foot_acc
+  rotate: true
+  xy: 306, 1861
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+dragon_barian_child_head
+  rotate: false
+  xy: 400, 1716
   size: 64, 39
   orig: 64, 39
   offset: 0, 0
   index: -1
-dragon_barian_adult_neck
-  rotate: false
-  xy: 1504, 165
-  size: 47, 69
-  orig: 47, 69
-  offset: 0, 0
-  index: -1
 dragon_barian_crib6
   rotate: false
-  xy: 169, 2
+  xy: 2, 431
   size: 165, 426
   orig: 165, 426
   offset: 0, 0
   index: -1
-dragon_barian_child_wing1a
-  rotate: false
-  xy: 1490, 367
-  size: 48, 56
-  orig: 48, 56
-  offset: 0, 0
-  index: -1
 dragon_barian_baby_wing1
   rotate: true
-  xy: 1137, 482
+  xy: 274, 1995
   size: 17, 36
   orig: 17, 36
   offset: 0, 0
   index: -1
-dragon_barian_adult_chin
+dragon_barian_adult_e_r_wing
   rotate: false
-  xy: 1175, 367
-  size: 22, 28
-  orig: 22, 28
+  xy: 336, 656
+  size: 54, 181
+  orig: 54, 181
+  offset: 0, 0
+  index: -1
+dragon_barian_child_wing1a
+  rotate: false
+  xy: 416, 1102
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+dragon_barian_adult_chin
+  rotate: true
+  xy: 434, 1559
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+dragon_barian_adult_e_b_l_leg2_acc
+  rotate: true
+  xy: 435, 1464
+  size: 35, 43
+  orig: 35, 43
   offset: 0, 0
   index: -1
 dragon_barian_child_twinkling1
   rotate: false
-  xy: 837, 2
+  xy: 2, 1788
   size: 223, 224
   orig: 225, 224
   offset: 0, 0
   index: -1
 dragon_barian_child_leg3
   rotate: true
-  xy: 1411, 429
+  xy: 317, 2009
   size: 29, 60
   orig: 29, 60
   offset: 0, 0
   index: -1
 dragon_barian_baby_hair
-  rotate: true
-  xy: 1302, 472
+  rotate: false
+  xy: 418, 1757
   size: 38, 50
   orig: 38, 50
   offset: 0, 0
   index: -1
 dragon_barian_adult_l_leg2d
   rotate: true
-  xy: 1540, 376
+  xy: 466, 1102
   size: 25, 11
   orig: 25, 11
   offset: 0, 0
   index: -1
 dragon_barian_adult_tail
   rotate: true
-  xy: 1504, 236
-  size: 55, 47
-  orig: 55, 47
+  xy: 348, 1000
+  size: 69, 59
+  orig: 69, 59
   offset: 0, 0
   index: -1
 dragon_barian_cric2
-  rotate: false
-  xy: 837, 228
+  rotate: true
+  xy: 336, 2
   size: 258, 141
   orig: 258, 143
   offset: 0, 0
   index: -1
 dragon_barian_baby_wing2
   rotate: true
-  xy: 1091, 428
+  xy: 453, 1938
   size: 59, 21
   orig: 59, 21
   offset: 0, 0
   index: -1
 dragon_barian_adult_twinkling1
   rotate: false
-  xy: 837, 2
+  xy: 2, 1788
   size: 223, 224
   orig: 225, 224
   offset: 0, 0
   index: -1
+dragon_barian_adult_e_body_acc
+  rotate: false
+  xy: 370, 1326
+  size: 49, 59
+  orig: 51, 59
+  offset: 0, 0
+  index: -1
 dragon_barian_child_wing2b
-  rotate: true
-  xy: 313, 430
+  rotate: false
+  xy: 430, 841
   size: 31, 138
   orig: 31, 138
   offset: 0, 0
   index: -1
 dragon_barian_adult_eye3
   rotate: false
-  xy: 1510, 493
+  xy: 463, 959
   size: 11, 17
   orig: 11, 17
   offset: 0, 0
   index: -1
 dragon_barian_crid4
   rotate: false
-  xy: 1302, 345
+  xy: 288, 1396
   size: 107, 125
   orig: 107, 125
   offset: 0, 0
   index: -1
 dragon_barian_adult_r_wing
   rotate: false
-  xy: 1422, 176
+  xy: 384, 841
   size: 44, 148
   orig: 44, 148
   offset: 0, 0
   index: -1
 dragon_barian_adult_body
+  rotate: true
+  xy: 227, 1883
+  size: 110, 68
+  orig: 110, 68
+  offset: 0, 0
+  index: -1
+dragon_barian_adult_head_acc
   rotate: false
-  xy: 1200, 341
-  size: 89, 54
-  orig: 89, 54
+  xy: 400, 1650
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+dragon_barian_adult_e_r_leg1_acc2
+  rotate: true
+  xy: 227, 1995
+  size: 17, 45
+  orig: 17, 45
+  offset: 0, 0
+  index: -1
+dragon_barian_adult_e_r_leg1_acc
+  rotate: false
+  xy: 393, 1524
+  size: 39, 67
+  orig: 41, 73
+  offset: 0, 6
+  index: -1
+dragon_barian_adult_e_b_r_leg2_acc
+  rotate: true
+  xy: 432, 1201
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+dragon_barian_adult_e_neck_acc
+  rotate: true
+  xy: 379, 2001
+  size: 42, 45
+  orig: 42, 45
   offset: 0, 0
   index: -1
 dragon_barian_crib3
   rotate: false
-  xy: 670, 2
+  xy: 169, 430
   size: 165, 426
   orig: 165, 426
   offset: 0, 0
   index: -1
 dragon_barian_child_neck
   rotate: false
-  xy: 101, 431
+  xy: 354, 1160
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
-dragon_barian_adult_r_leg2a
+dragon_barian_cri_light
   rotate: true
-  xy: 960, 478
+  xy: 2, 1552
+  size: 234, 200
+  orig: 270, 270
+  offset: 23, 36
+  index: -1
+dragon_barian_adult_r_leg2a
+  rotate: false
+  xy: 444, 1843
   size: 27, 56
   orig: 27, 56
   offset: 0, 0
   index: -1
+dragon_barian_adult_e_l_leg1_acc2
+  rotate: false
+  xy: 418, 1809
+  size: 24, 61
+  orig: 24, 61
+  offset: 0, 0
+  index: -1
 dragon_barian_child_horn
-  rotate: true
-  xy: 179, 496
+  rotate: false
+  xy: 463, 934
   size: 14, 23
   orig: 14, 23
   offset: 0, 0
   index: -1
-dragon_barian_child_leg2
+dragon_barian_adult_e_tail2b
   rotate: true
-  xy: 835, 465
+  xy: 354, 1071
+  size: 87, 60
+  orig: 87, 60
+  offset: 0, 0
+  index: -1
+dragon_barian_child_leg2
+  rotate: false
+  xy: 397, 1387
   size: 32, 87
   orig: 32, 87
   offset: 0, 0
   index: -1
 dragon_barian_child_tail2
   rotate: true
-  xy: 1468, 176
+  xy: 357, 1523
   size: 131, 34
   orig: 131, 36
   offset: 0, 0
   index: -1
 dragon_barian_adult_l_leg2a
   rotate: true
-  xy: 1354, 472
+  xy: 421, 1343
   size: 33, 57
   orig: 33, 57
   offset: 0, 0
   index: -1
 dragon_barian_adult_l_leg1a
   rotate: true
-  xy: 453, 430
+  xy: 217, 2014
   size: 29, 98
   orig: 29, 98
   offset: 0, 0
   index: -1
 dragon_barian_child_wing1b
   rotate: false
-  xy: 1512, 2
+  xy: 439, 262
   size: 39, 135
   orig: 39, 135
   offset: 0, 0
   index: -1
 dragon_barian_baby_head
   rotate: false
-  xy: 1027, 428
+  xy: 416, 1042
   size: 62, 58
   orig: 62, 58
   offset: 0, 0
   index: -1
+dragon_barian_adult_e_b_l_foot_acc
+  rotate: false
+  xy: 297, 1970
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
 dragon_barian_adult_r_leg2b
   rotate: true
-  xy: 1504, 293
+  xy: 463, 918
   size: 14, 15
   orig: 14, 15
   offset: 0, 0
   index: -1
+dragon_barian_adult_e_r_wing_acc
+  rotate: false
+  xy: 303, 1657
+  size: 56, 108
+  orig: 56, 108
+  offset: 0, 0
+  index: -1
 dragon_barian_adult_eye2
-  rotate: true
-  xy: 1137, 501
+  rotate: false
+  xy: 312, 1988
   size: 8, 17
   orig: 8, 17
   offset: 0, 0
   index: -1
 dragon_barian_crid1
   rotate: false
-  xy: 1097, 184
+  xy: 336, 262
   size: 101, 181
   orig: 101, 181
   offset: 0, 0
   index: -1
 dragon_barian_child_chin
-  rotate: true
-  xy: 1062, 184
+  rotate: false
+  xy: 439, 399
   size: 39, 30
   orig: 39, 30
   offset: 0, 0
   index: -1
 dragon_barian_crib4
   rotate: false
-  xy: 503, 2
+  xy: 2, 859
   size: 165, 426
   orig: 165, 426
   offset: 0, 0
   index: -1
 dragon_barian_adult_eye
-  rotate: true
-  xy: 204, 496
-  size: 8, 17
-  orig: 8, 17
+  rotate: false
+  xy: 466, 1129
+  size: 11, 22
+  orig: 11, 22
   offset: 0, 0
   index: -1

@@ -1,0 +1,116 @@
+dragon_sun_aura_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+eff_bowl6
+  rotate: false
+  xy: 2, 2
+  size: 237, 237
+  orig: 239, 239
+  offset: 1, 1
+  index: -1
+eff_bling3
+  rotate: false
+  xy: 1423, 192
+  size: 26, 24
+  orig: 32, 28
+  offset: 3, 1
+  index: -1
+eff_r_light
+  rotate: false
+  xy: 1345, 92
+  size: 102, 98
+  orig: 104, 100
+  offset: 1, 1
+  index: -1
+eff_bling
+  rotate: true
+  xy: 1345, 192
+  size: 38, 76
+  orig: 44, 78
+  offset: 2, 2
+  index: -1
+eff_r_light5
+  rotate: false
+  xy: 710, 2
+  size: 255, 190
+  orig: 257, 192
+  offset: 1, 0
+  index: -1
+eff_ring
+  rotate: false
+  xy: 1106, 188
+  size: 237, 50
+  orig: 239, 50
+  offset: 1, 0
+  index: -1
+eff_ring2
+  rotate: false
+  xy: 967, 127
+  size: 287, 59
+  orig: 287, 61
+  offset: 0, 1
+  index: -1
+eff_ring3
+  rotate: false
+  xy: 710, 194
+  size: 227, 44
+  orig: 229, 46
+  offset: 1, 1
+  index: -1
+eff_ring4
+  rotate: false
+  xy: 939, 194
+  size: 165, 38
+  orig: 167, 38
+  offset: 1, 0
+  index: -1
+eff_star
+  rotate: false
+  xy: 1410, 2
+  size: 46, 46
+  orig: 48, 48
+  offset: 1, 1
+  index: -1
+eff_star2
+  rotate: false
+  xy: 1346, 2
+  size: 62, 63
+  orig: 64, 65
+  offset: 1, 1
+  index: -1
+eff_l_light5
+  rotate: false
+  xy: 241, 2
+  size: 244, 224
+  orig: 248, 226
+  offset: 1, 1
+  index: -1
+eff_l_light
+  rotate: false
+  xy: 967, 2
+  size: 130, 123
+  orig: 132, 125
+  offset: 1, 1
+  index: -1
+ground
+  rotate: false
+  xy: 1106, 2
+  size: 238, 88
+  orig: 238, 88
+  offset: 0, 0
+  index: -1
+eff_bling2
+  rotate: true
+  xy: 1256, 92
+  size: 69, 83
+  orig: 77, 89
+  offset: 6, 2
+  index: -1
+eff_bowl5
+  rotate: false
+  xy: 487, 2
+  size: 221, 222
+  orig: 221, 222
+  offset: 0, 0
+  index: -1

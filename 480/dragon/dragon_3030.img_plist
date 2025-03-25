@@ -7,11 +7,11 @@
             <key>dragon/dragon_3030/box_adult.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,249},{69,70}}</string>
+                <string>{{320,2},{69,70}}</string>
                 <key>offset</key>
                 <string>{2,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{4,0},{69,70}}</string>
                 <key>sourceSize</key>
@@ -20,11 +20,11 @@
             <key>dragon/dragon_3030/box_baby.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,177},{71,70}}</string>
+                <string>{{177,2},{71,70}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{71,70}}</string>
                 <key>sourceSize</key>
@@ -33,13 +33,26 @@
             <key>dragon/dragon_3030/box_child.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,105},{73,70}}</string>
+                <string>{{105,2},{73,70}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{73,70}}</string>
+                <key>sourceSize</key>
+                <string>{73,70}</string>
+            </dict>
+            <key>dragon/dragon_3030/box_evolution.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{249,2},{69,70}}</string>
+                <key>offset</key>
+                <string>{2,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{4,0},{69,70}}</string>
                 <key>sourceSize</key>
                 <string>{73,70}</string>
             </dict>
@@ -50,7 +63,7 @@
                 <key>offset</key>
                 <string>{0,4}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{15,1},{81,101}}</string>
                 <key>sourceSize</key>
@@ -59,11 +72,11 @@
             <key>dragon/dragon_3030/egg_small.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,320},{49,61}}</string>
+                <string>{{391,2},{49,61}}</string>
                 <key>offset</key>
                 <string>{0,3}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{9,0},{49,61}}</string>
                 <key>sourceSize</key>
@@ -77,9 +90,9 @@
             <key>realTextureFileName</key>
             <string>dragon_3030.pvr.ccz</string>
             <key>size</key>
-            <string>{85,371}</string>
+            <string>{442,85}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:6ae9adf7f377d379a9b3b3fd7142fddc:cf12a8d5f1600921e773cfbfb1e172d0:aaa2fb8178d6af5a177defeb4a3310e8$</string>
+            <string>$TexturePacker:SmartUpdate:13877a2c23961bf1e2f43943d97aa83e:43ec3775a7957ef8eee1873b7f4aa350:aaa2fb8178d6af5a177defeb4a3310e8$</string>
             <key>textureFileName</key>
             <string>dragon_3030.pvr.ccz</string>
         </dict>

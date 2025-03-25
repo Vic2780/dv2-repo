@@ -1,0 +1,949 @@
+dragon_4199_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+deegie_critical04_re
+  rotate: false
+  xy: 1, 213
+  size: 120, 153
+  orig: 122, 153
+  offset: 1, 0
+  index: -1
+deegie_critical05
+  rotate: false
+  xy: 290, 1
+  size: 120, 153
+  orig: 122, 153
+  offset: 1, 0
+  index: -1
+deegie_critical06
+  rotate: false
+  xy: 123, 213
+  size: 120, 153
+  orig: 122, 153
+  offset: 1, 0
+  index: -1
+deegie_critical07
+  rotate: true
+  xy: 68, 368
+  size: 120, 153
+  orig: 122, 153
+  offset: 1, 0
+  index: -1
+deegie_critical08
+  rotate: false
+  xy: 412, 1
+  size: 120, 153
+  orig: 122, 153
+  offset: 1, 0
+  index: -1
+deegie_critical09
+  rotate: false
+  xy: 534, 1
+  size: 120, 153
+  orig: 122, 153
+  offset: 1, 0
+  index: -1
+deegie_critical10
+  rotate: false
+  xy: 656, 1
+  size: 120, 153
+  orig: 122, 153
+  offset: 1, 0
+  index: -1
+deegie_critical11
+  rotate: true
+  xy: 598, 156
+  size: 120, 145
+  orig: 122, 153
+  offset: 1, 0
+  index: -1
+deegie_critical12
+  rotate: true
+  xy: 745, 156
+  size: 120, 142
+  orig: 122, 153
+  offset: 1, 0
+  index: -1
+deegie_critical13
+  rotate: false
+  xy: 889, 254
+  size: 120, 72
+  orig: 122, 153
+  offset: 1, 0
+  index: -1
+dragon_deegie_adult_arm1_r
+  rotate: false
+  xy: 1011, 254
+  size: 48, 76
+  orig: 48, 76
+  offset: 0, 0
+  index: -1
+dragon_deegie_adult_arm2_r
+  rotate: true
+  xy: 1410, 266
+  size: 51, 41
+  orig: 51, 41
+  offset: 0, 0
+  index: -1
+dragon_deegie_adult_arm_l
+  rotate: false
+  xy: 1399, 319
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+dragon_deegie_adult_armor
+  rotate: true
+  xy: 961, 377
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+dragon_deegie_adult_body
+  rotate: false
+  xy: 349, 274
+  size: 116, 109
+  orig: 118, 109
+  offset: 0, 0
+  index: -1
+dragon_deegie_adult_ear_l
+  rotate: true
+  xy: 1322, 403
+  size: 26, 65
+  orig: 26, 65
+  offset: 0, 0
+  index: -1
+dragon_deegie_adult_ear_r
+  rotate: true
+  xy: 951, 420
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+dragon_deegie_adult_face1
+  rotate: false
+  xy: 1504, 64
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_deegie_adult_face2
+  rotate: true
+  xy: 1504, 108
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+dragon_deegie_adult_face3
+  rotate: false
+  xy: 764, 490
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+dragon_deegie_adult_feather1_l
+  rotate: true
+  xy: 657, 420
+  size: 26, 98
+  orig: 26, 98
+  offset: 0, 0
+  index: -1
+dragon_deegie_adult_feather1_r
+  rotate: false
+  xy: 346, 385
+  size: 131, 75
+  orig: 131, 75
+  offset: 0, 0
+  index: -1
+dragon_deegie_adult_feather2_l
+  rotate: false
+  xy: 850, 308
+  size: 32, 65
+  orig: 32, 65
+  offset: 0, 0
+  index: -1
+dragon_deegie_adult_feather2_r
+  rotate: false
+  xy: 750, 278
+  size: 137, 28
+  orig: 137, 28
+  offset: 0, 0
+  index: -1
+dragon_deegie_adult_feather3_l
+  rotate: false
+  xy: 961, 328
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+dragon_deegie_adult_feather3_r
+  rotate: false
+  xy: 68, 490
+  size: 104, 19
+  orig: 104, 19
+  offset: 0, 0
+  index: -1
+dragon_deegie_adult_foot_l
+  rotate: false
+  xy: 1344, 431
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+dragon_deegie_adult_foot_r
+  rotate: false
+  xy: 1146, 293
+  size: 44, 67
+  orig: 44, 67
+  offset: 0, 0
+  index: -1
+dragon_deegie_adult_hand_l
+  rotate: false
+  xy: 1460, 234
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: -1
+dragon_deegie_adult_hand_r
+  rotate: false
+  xy: 1192, 253
+  size: 84, 47
+  orig: 84, 47
+  offset: 0, 0
+  index: -1
+dragon_deegie_adult_head1
+  rotate: false
+  xy: 1088, 372
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+dragon_deegie_adult_head2
+  rotate: true
+  xy: 1289, 482
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+dragon_deegie_adult_head_armor
+  rotate: true
+  xy: 1326, 316
+  size: 44, 71
+  orig: 44, 71
+  offset: 0, 0
+  index: -1
+dragon_deegie_adult_leg1_r
+  rotate: true
+  xy: 1460, 156
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: -1
+dragon_deegie_adult_leg2_r
+  rotate: false
+  xy: 1485, 432
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+dragon_deegie_adult_leg_l
+  rotate: true
+  xy: 903, 374
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+dragon_deegie_adult_neck1
+  rotate: false
+  xy: 1061, 242
+  size: 74, 60
+  orig: 74, 60
+  offset: 0, 0
+  index: -1
+dragon_deegie_adult_neck2
+  rotate: false
+  xy: 479, 339
+  size: 87, 107
+  orig: 87, 107
+  offset: 0, 0
+  index: -1
+dragon_deegie_adult_tail
+  rotate: true
+  xy: 223, 368
+  size: 143, 62
+  orig: 143, 62
+  offset: 0, 0
+  index: -1
+dragon_deegie_baby_arm1_r
+  rotate: false
+  xy: 1007, 479
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+dragon_deegie_baby_arm2_r
+  rotate: true
+  xy: 1498, 402
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+dragon_deegie_baby_arm_l
+  rotate: true
+  xy: 1455, 372
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+dragon_deegie_baby_body_down
+  rotate: true
+  xy: 1139, 362
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+dragon_deegie_baby_body_up
+  rotate: false
+  xy: 764, 411
+  size: 71, 77
+  orig: 71, 77
+  offset: 0, 0
+  index: -1
+dragon_deegie_baby_ear_l
+  rotate: true
+  xy: 959, 479
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+dragon_deegie_baby_ear_r
+  rotate: false
+  xy: 1242, 405
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1
+dragon_deegie_baby_face1
+  rotate: true
+  xy: 1504, 40
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+dragon_deegie_baby_face2
+  rotate: true
+  xy: 802, 490
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+dragon_deegie_baby_face3
+  rotate: true
+  xy: 1467, 473
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+dragon_deegie_baby_feather1
+  rotate: false
+  xy: 174, 490
+  size: 42, 19
+  orig: 42, 19
+  offset: 0, 0
+  index: -1
+dragon_deegie_baby_feather2
+  rotate: true
+  xy: 1513, 234
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+dragon_deegie_baby_head1
+  rotate: true
+  xy: 893, 420
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+dragon_deegie_baby_head2
+  rotate: true
+  xy: 1504, 1
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+dragon_deegie_baby_head_armor
+  rotate: false
+  xy: 1298, 431
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+dragon_deegie_baby_leg_l
+  rotate: true
+  xy: 1446, 238
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+dragon_deegie_baby_leg_r
+  rotate: true
+  xy: 1298, 405
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+dragon_deegie_baby_tail
+  rotate: false
+  xy: 1242, 445
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+dragon_deegie_child_arm1_l
+  rotate: false
+  xy: 1011, 332
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+dragon_deegie_child_arm1_r
+  rotate: true
+  xy: 574, 448
+  size: 63, 57
+  orig: 63, 57
+  offset: 0, 0
+  index: -1
+dragon_deegie_child_arm2_l
+  rotate: true
+  xy: 1053, 479
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+dragon_deegie_child_arm2_r
+  rotate: true
+  xy: 1389, 430
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+dragon_deegie_child_body
+  rotate: true
+  xy: 657, 315
+  size: 103, 76
+  orig: 104, 76
+  offset: 1, 0
+  index: -1
+dragon_deegie_child_ear_l
+  rotate: true
+  xy: 1242, 482
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+dragon_deegie_child_ear_r
+  rotate: false
+  xy: 1087, 431
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+dragon_deegie_child_face1
+  rotate: true
+  xy: 818, 490
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+dragon_deegie_child_face2
+  rotate: false
+  xy: 1196, 489
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+dragon_deegie_child_face3
+  rotate: true
+  xy: 1181, 479
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+dragon_deegie_child_feather1_l
+  rotate: false
+  xy: 756, 308
+  size: 92, 57
+  orig: 92, 57
+  offset: 0, 0
+  index: -1
+dragon_deegie_child_feather1_r
+  rotate: true
+  xy: 1192, 358
+  size: 38, 67
+  orig: 38, 67
+  offset: 0, 0
+  index: -1
+dragon_deegie_child_feather2_l
+  rotate: false
+  xy: 1061, 304
+  size: 83, 32
+  orig: 83, 32
+  offset: 0, 0
+  index: -1
+dragon_deegie_child_feather2_r
+  rotate: true
+  xy: 1493, 319
+  size: 50, 31
+  orig: 50, 31
+  offset: 0, 0
+  index: -1
+dragon_deegie_child_feather3_l
+  rotate: false
+  xy: 837, 482
+  size: 62, 29
+  orig: 62, 29
+  offset: 0, 0
+  index: -1
+dragon_deegie_child_feather3_r
+  rotate: false
+  xy: 598, 315
+  size: 57, 12
+  orig: 57, 12
+  offset: 0, 0
+  index: -1
+dragon_deegie_child_foot_l
+  rotate: true
+  xy: 848, 375
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+dragon_deegie_child_foot_r
+  rotate: true
+  xy: 1141, 479
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+dragon_deegie_child_head1
+  rotate: true
+  xy: 245, 213
+  size: 59, 37
+  orig: 59, 37
+  offset: 0, 0
+  index: -1
+dragon_deegie_child_head2
+  rotate: true
+  xy: 1496, 272
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+dragon_deegie_child_head_armor
+  rotate: true
+  xy: 1455, 319
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: -1
+dragon_deegie_child_neck
+  rotate: true
+  xy: 245, 274
+  size: 92, 102
+  orig: 92, 102
+  offset: 0, 0
+  index: -1
+dragon_deegie_child_tail
+  rotate: false
+  xy: 479, 448
+  size: 93, 63
+  orig: 93, 63
+  offset: 0, 0
+  index: -1
+dragon_deegie_critical01
+  rotate: false
+  xy: 778, 1
+  size: 120, 153
+  orig: 122, 153
+  offset: 1, 0
+  index: -1
+dragon_deegie_critical02_re
+  rotate: false
+  xy: 900, 1
+  size: 120, 153
+  orig: 122, 153
+  offset: 1, 0
+  index: -1
+dragon_deegie_critical03_re
+  rotate: false
+  xy: 1022, 1
+  size: 120, 153
+  orig: 122, 153
+  offset: 1, 0
+  index: -1
+dragon_deegie_critical05
+  rotate: false
+  xy: 1144, 1
+  size: 120, 153
+  orig: 122, 153
+  offset: 1, 0
+  index: -1
+dragon_deegie_critical06
+  rotate: false
+  xy: 1266, 1
+  size: 117, 153
+  orig: 122, 153
+  offset: 2, 0
+  index: -1
+dragon_deegie_critical07
+  rotate: false
+  xy: 1385, 1
+  size: 117, 153
+  orig: 122, 153
+  offset: 2, 0
+  index: -1
+dragon_deegie_critical08
+  rotate: true
+  xy: 290, 156
+  size: 116, 153
+  orig: 122, 153
+  offset: 2, 0
+  index: -1
+dragon_deegie_critical09
+  rotate: true
+  xy: 445, 156
+  size: 112, 151
+  orig: 122, 153
+  offset: 4, 2
+  index: -1
+dragon_deegie_critical10
+  rotate: true
+  xy: 889, 156
+  size: 96, 146
+  orig: 122, 153
+  offset: 9, 7
+  index: -1
+dragon_deegie_critical11
+  rotate: true
+  xy: 1326, 156
+  size: 80, 132
+  orig: 122, 153
+  offset: 19, 13
+  index: -1
+dragon_deegie_critical12
+  rotate: true
+  xy: 467, 270
+  size: 67, 129
+  orig: 122, 153
+  offset: 28, 13
+  index: -1
+dragon_deegie_critical13
+  rotate: false
+  xy: 1460, 210
+  size: 64, 22
+  orig: 122, 153
+  offset: 28, 15
+  index: -1
+dragon_deegie_e_arm1_r
+  rotate: true
+  xy: 1326, 266
+  size: 48, 82
+  orig: 48, 82
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_arm2_r
+  rotate: true
+  xy: 1278, 253
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_arm_l
+  rotate: false
+  xy: 837, 411
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_armor1
+  rotate: false
+  xy: 1198, 398
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_armor2
+  rotate: true
+  xy: 1389, 390
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_body
+  rotate: false
+  xy: 349, 274
+  size: 116, 109
+  orig: 118, 109
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_ear_l
+  rotate: true
+  xy: 1322, 403
+  size: 26, 65
+  orig: 26, 65
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_ear_r
+  rotate: true
+  xy: 1021, 372
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_effect
+  rotate: false
+  xy: 1, 1
+  size: 287, 210
+  orig: 287, 210
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_face1
+  rotate: false
+  xy: 1504, 86
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_face2
+  rotate: true
+  xy: 1504, 127
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_face3
+  rotate: false
+  xy: 783, 490
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_feather1_l
+  rotate: true
+  xy: 346, 462
+  size: 38, 130
+  orig: 38, 130
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_feather1_r
+  rotate: false
+  xy: 1037, 156
+  size: 153, 84
+  orig: 153, 84
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_feather2_l
+  rotate: true
+  xy: 1326, 238
+  size: 26, 118
+  orig: 26, 118
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_feather2_r
+  rotate: true
+  xy: 1192, 156
+  size: 95, 132
+  orig: 95, 132
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_feather3_l
+  rotate: true
+  xy: 1061, 338
+  size: 32, 76
+  orig: 32, 76
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_feather3_r
+  rotate: false
+  xy: 598, 278
+  size: 150, 35
+  orig: 150, 35
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_feather4_l
+  rotate: true
+  xy: 884, 328
+  size: 44, 75
+  orig: 44, 75
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_feather4_r
+  rotate: true
+  xy: 287, 368
+  size: 139, 57
+  orig: 139, 57
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_feather5_l
+  rotate: true
+  xy: 1137, 242
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_feather5_r
+  rotate: true
+  xy: 735, 315
+  size: 103, 19
+  orig: 103, 19
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_foot_l
+  rotate: false
+  xy: 1453, 272
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_foot_r
+  rotate: true
+  xy: 1018, 431
+  size: 44, 67
+  orig: 44, 67
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_hand_l
+  rotate: true
+  xy: 1387, 468
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_hand_nail_l
+  rotate: false
+  xy: 1445, 403
+  size: 51, 27
+  orig: 51, 27
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_hand_nail_r
+  rotate: false
+  xy: 756, 367
+  size: 90, 42
+  orig: 90, 42
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_hand_r
+  rotate: false
+  xy: 1322, 362
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_head1
+  rotate: true
+  xy: 1266, 308
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_head2
+  rotate: true
+  xy: 1198, 458
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_head_armor
+  rotate: true
+  xy: 1192, 302
+  size: 54, 72
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_leg1_r
+  rotate: false
+  xy: 633, 448
+  size: 52, 63
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_leg2_r
+  rotate: false
+  xy: 1494, 371
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_leg_l
+  rotate: true
+  xy: 1261, 359
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_neck1
+  rotate: false
+  xy: 1061, 242
+  size: 74, 60
+  orig: 74, 60
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_neck2
+  rotate: false
+  xy: 568, 339
+  size: 87, 107
+  orig: 87, 107
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_neck2_armor
+  rotate: false
+  xy: 1140, 421
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_shoulder_armor_l
+  rotate: true
+  xy: 901, 482
+  size: 29, 56
+  orig: 29, 56
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_shoulder_armor_r
+  rotate: true
+  xy: 687, 448
+  size: 62, 75
+  orig: 62, 75
+  offset: 0, 0
+  index: -1
+dragon_deegie_e_tail
+  rotate: true
+  xy: 1, 368
+  size: 143, 65
+  orig: 143, 65
+  offset: 0, 0
+  index: -1
+dragon_love_effect_heart
+  rotate: false
+  xy: 1437, 432
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_love_effect_note1
+  rotate: true
+  xy: 1099, 479
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+dragon_love_effect_note2
+  rotate: true
+  xy: 1424, 473
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1

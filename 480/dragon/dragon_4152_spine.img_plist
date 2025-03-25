@@ -1,0 +1,1565 @@
+dragon_4152_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+maryong_child_ball1
+  rotate: false
+  xy: 858, 1726
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+maryong_baby_l_wing
+  rotate: false
+  xy: 933, 1763
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+maryong_adult_r_wing
+  rotate: false
+  xy: 165, 1569
+  size: 110, 91
+  orig: 110, 91
+  offset: 0, 0
+  index: -1
+maryong_baby_loveeye2
+  rotate: false
+  xy: 905, 1695
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+maryong_baby_loveeye
+  rotate: false
+  xy: 819, 469
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+maryong_adult_love2
+  rotate: false
+  xy: 967, 1850
+  size: 24, 24
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+maryong_baby_love
+  rotate: true
+  xy: 959, 1823
+  size: 25, 27
+  orig: 29, 29
+  offset: 2, 1
+  index: -1
+maryong_baby_eye
+  rotate: false
+  xy: 948, 1855
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+maryong_baby_tail
+  rotate: true
+  xy: 633, 1296
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+maryong_adult_eye2_fire1
+  rotate: false
+  xy: 772, 1663
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+maryong_adult_eye2_fire4
+  rotate: false
+  xy: 605, 1276
+  size: 26, 56
+  orig: 26, 56
+  offset: 0, 0
+  index: -1
+maryong_adult_eye2_fire2
+  rotate: true
+  xy: 858, 1603
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+maryong_child_love
+  rotate: false
+  xy: 959, 1794
+  size: 27, 27
+  orig: 29, 29
+  offset: 1, 1
+  index: -1
+maryong_adult_eye2_fire5
+  rotate: true
+  xy: 932, 1384
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+maryong_adult_eye2_fire3
+  rotate: false
+  xy: 534, 1276
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+maryong_adult_shineeye
+  rotate: true
+  xy: 930, 1989
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+maryong_child_head
+  rotate: true
+  xy: 917, 1535
+  size: 54, 72
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+maryong_baby_ball2
+  rotate: false
+  xy: 951, 931
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+maryong_baby_ball1
+  rotate: false
+  xy: 826, 1777
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+maryong_adult_mouth
+  rotate: false
+  xy: 967, 1923
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+maryong_adult_l_leg2
+  rotate: true
+  xy: 899, 1945
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+maryong_baby_r_leg2
+  rotate: true
+  xy: 819, 495
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+maryong_adult_l_leg3
+  rotate: false
+  xy: 971, 501
+  size: 20, 51
+  orig: 20, 51
+  offset: 0, 0
+  index: -1
+maryong_baby_r_leg1
+  rotate: false
+  xy: 923, 1914
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+maryong_adult_l_leg1
+  rotate: true
+  xy: 781, 441
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+maryong_adult_ear
+  rotate: true
+  xy: 866, 1852
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+maryong_adult_shine2
+  rotate: true
+  xy: 716, 982
+  size: 9, 11
+  orig: 11, 11
+  offset: 1, 0
+  index: -1
+maryong_adult_shine4
+  rotate: true
+  xy: 975, 859
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+maryong_child_eye
+  rotate: true
+  xy: 947, 1937
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+maryong_adult_eye_fire1
+  rotate: true
+  xy: 915, 1623
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+maryong_adult_shine3
+  rotate: true
+  xy: 961, 2032
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+maryong_adult_eye_fire4
+  rotate: false
+  xy: 772, 1884
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+maryong_adult_eye_fire2
+  rotate: false
+  xy: 795, 1944
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+maryong_adult_eye_fire5
+  rotate: true
+  xy: 932, 1334
+  size: 48, 59
+  orig: 48, 59
+  offset: 0, 0
+  index: -1
+maryong_child_l_wing
+  rotate: true
+  xy: 965, 1663
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+maryong_adult_loveeye
+  rotate: false
+  xy: 966, 2004
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+maryong_adult_eye_fire3
+  rotate: true
+  xy: 651, 1600
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+maryong_adult_shine1
+  rotate: true
+  xy: 873, 1979
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+maryong_adult_ball2
+  rotate: false
+  xy: 772, 1822
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+maryong_adult_l_arm2
+  rotate: true
+  xy: 834, 1864
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+maryong_child_ear
+  rotate: false
+  xy: 923, 1941
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+maryong_adult_ball1
+  rotate: false
+  xy: 853, 1639
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+maryong_adult_l_arm1
+  rotate: true
+  xy: 320, 977
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+maryong_adult_haed
+  rotate: false
+  xy: 207, 914
+  size: 67, 80
+  orig: 67, 80
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_c1_fx6
+  rotate: false
+  xy: 263, 639
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_c1_fx4
+  rotate: false
+  xy: 796, 1787
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_c1_fx7
+  rotate: false
+  xy: 903, 1726
+  size: 17, 38
+  orig: 17, 38
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_c1_fx2
+  rotate: false
+  xy: 899, 1921
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_c1_fx5
+  rotate: false
+  xy: 492, 2014
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+maryong_baby_body
+  rotate: false
+  xy: 926, 1694
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+maryong_baby_l_leg2
+  rotate: true
+  xy: 276, 914
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_c1_fx3
+  rotate: true
+  xy: 809, 1628
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+maryong_adult_r_leg2
+  rotate: true
+  xy: 922, 1968
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_c1_fx1
+  rotate: false
+  xy: 778, 1628
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+maryong_adult_r_leg3
+  rotate: false
+  xy: 899, 1883
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+maryong_child_tail1
+  rotate: false
+  xy: 243, 568
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+maryong_baby_l_leg1
+  rotate: false
+  xy: 945, 1911
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+maryong_adult_r_leg1
+  rotate: false
+  xy: 951, 174
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+maryong_child_body
+  rotate: false
+  xy: 584, 1481
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+maryong_adult_closeeye
+  rotate: false
+  xy: 295, 1852
+  size: 20, 10
+  orig: 20, 12
+  offset: 0, 2
+  index: -1
+maryong_adult_r_arm_fire2
+  rotate: true
+  xy: 852, 1695
+  size: 29, 51
+  orig: 29, 51
+  offset: 0, 0
+  index: -1
+maryong_adult_body
+  rotate: false
+  xy: 733, 1580
+  size: 62, 35
+  orig: 62, 35
+  offset: 0, 0
+  index: -1
+maryong_adult_r_arm_fire4
+  rotate: true
+  xy: 909, 1663
+  size: 29, 54
+  orig: 29, 56
+  offset: 0, 1
+  index: -1
+maryong_baby_love2
+  rotate: false
+  xy: 913, 1801
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+maryong_adult_r_arm_fire3
+  rotate: false
+  xy: 865, 1801
+  size: 24, 49
+  orig: 24, 49
+  offset: 0, 0
+  index: -1
+maryong_baby_love3
+  rotate: false
+  xy: 877, 1929
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+maryong_child_tail3_fx1
+  rotate: false
+  xy: 233, 1529
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+maryong_adult_r_arm_fire5
+  rotate: true
+  xy: 832, 742
+  size: 30, 54
+  orig: 30, 54
+  offset: 0, 0
+  index: -1
+maryong_childl_arm1
+  rotate: true
+  xy: 965, 1717
+  size: 27, 26
+  orig: 29, 28
+  offset: 0, 2
+  index: -1
+maryong_child_tail3_fx4
+  rotate: false
+  xy: 896, 1850
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+maryong_child_tail3_fx5
+  rotate: false
+  xy: 922, 1725
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+maryong_child_r_wing
+  rotate: false
+  xy: 841, 1995
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+maryong_child_tail3_fx2
+  rotate: false
+  xy: 873, 1951
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+maryong_adult_r_arm_fire1
+  rotate: true
+  xy: 809, 1683
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+maryong_child_tail3_fx3
+  rotate: true
+  xy: 959, 1746
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+maryong_adult_shineeye2
+  rotate: true
+  xy: 472, 1828
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+maryong_child_r_fire4
+  rotate: true
+  xy: 906, 1995
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+maryong_child_r_fire2
+  rotate: false
+  xy: 967, 1876
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+maryong_child_l_fire1
+  rotate: false
+  xy: 966, 1982
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+maryong_child_r_fire5
+  rotate: false
+  xy: 967, 1900
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+maryong_child_l_fire4
+  rotate: true
+  xy: 354, 977
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b1_fx12
+  rotate: false
+  xy: 506, 993
+  size: 198, 194
+  orig: 198, 194
+  offset: 0, 0
+  index: -1
+maryong_child_r_fire3
+  rotate: false
+  xy: 967, 1940
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b1_fx13
+  rotate: true
+  xy: 400, 1334
+  size: 187, 182
+  orig: 187, 182
+  offset: 0, 0
+  index: -1
+maryong_child_l_fire2
+  rotate: false
+  xy: 947, 1987
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b1_fx14
+  rotate: true
+  xy: 324, 1852
+  size: 188, 166
+  orig: 188, 166
+  offset: 0, 0
+  index: -1
+maryong_child_l_fire5
+  rotate: false
+  xy: 765, 222
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+maryong_child_r_fire1
+  rotate: false
+  xy: 936, 1833
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+maryong_adult_l_arm_fire2
+  rotate: false
+  xy: 834, 1813
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+maryong_adult_r_arm2
+  rotate: false
+  xy: 911, 1766
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b1_fx15
+  rotate: true
+  xy: 277, 1529
+  size: 125, 173
+  orig: 125, 173
+  offset: 0, 0
+  index: -1
+maryong_child_l_fire3
+  rotate: true
+  xy: 965, 1964
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+maryong_adult_l_arm_fire4
+  rotate: false
+  xy: 623, 1481
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+maryong_adult_l_arm_fire3
+  rotate: false
+  xy: 841, 1943
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b1_fx10
+  rotate: false
+  xy: 370, 243
+  size: 216, 224
+  orig: 216, 224
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b1_fx11
+  rotate: false
+  xy: 505, 574
+  size: 209, 215
+  orig: 209, 215
+  offset: 0, 0
+  index: -1
+maryong_baby_ear
+  rotate: true
+  xy: 921, 1855
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+maryong_adult_l_arm_fire5
+  rotate: true
+  xy: 862, 1771
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b1_fx16
+  rotate: false
+  xy: 492, 1828
+  size: 117, 184
+  orig: 117, 184
+  offset: 0, 0
+  index: -1
+maryong_adult_l_arm_fire1
+  rotate: false
+  xy: 850, 1884
+  size: 25, 49
+  orig: 25, 49
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b1_fx17
+  rotate: false
+  xy: 611, 1822
+  size: 99, 120
+  orig: 99, 122
+  offset: 0, 0
+  index: -1
+maryong_child_loveeye
+  rotate: true
+  xy: 908, 1966
+  size: 23, 12
+  orig: 23, 16
+  offset: 0, 2
+  index: -1
+dragon_maryong_critical_a1_fx4
+  rotate: true
+  xy: 452, 1523
+  size: 122, 197
+  orig: 122, 197
+  offset: 0, 0
+  index: -1
+maryong_baby_mouth
+  rotate: false
+  xy: 909, 1512
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+maryong_child_mouth
+  rotate: true
+  xy: 354, 243
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a1_fx2
+  rotate: false
+  xy: 706, 993
+  size: 117, 197
+  orig: 117, 197
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a1_fx5
+  rotate: false
+  xy: 156, 1662
+  size: 137, 200
+  orig: 137, 200
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a1_fx3
+  rotate: false
+  xy: 377, 977
+  size: 127, 209
+  orig: 127, 209
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a1_fx1
+  rotate: false
+  xy: 716, 566
+  size: 114, 206
+  orig: 114, 206
+  offset: 0, 0
+  index: -1
+maryong_adult_r_arm
+  rotate: true
+  xy: 959, 1771
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a7_fx4
+  rotate: false
+  xy: 891, 1801
+  size: 20, 47
+  orig: 20, 47
+  offset: 0, 0
+  index: -1
+maryong_baby_r_wing
+  rotate: false
+  xy: 972, 1623
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a6_fx4
+  rotate: false
+  xy: 771, 1717
+  size: 35, 68
+  orig: 35, 92
+  offset: 0, 0
+  index: -1
+maryong_adult_l_wing
+  rotate: true
+  xy: 651, 1470
+  size: 128, 80
+  orig: 128, 80
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a7_fx2
+  rotate: true
+  xy: 682, 1311
+  size: 21, 43
+  orig: 21, 43
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b2_fx12
+  rotate: false
+  xy: 295, 1656
+  size: 175, 194
+  orig: 175, 194
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a7_fx5
+  rotate: false
+  xy: 971, 554
+  size: 20, 47
+  orig: 20, 47
+  offset: 0, 0
+  index: -1
+maryong_baby_closeeye
+  rotate: false
+  xy: 926, 2022
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a6_fx2
+  rotate: true
+  xy: 917, 1591
+  size: 30, 70
+  orig: 30, 70
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a7_fx3
+  rotate: true
+  xy: 876, 2023
+  size: 22, 48
+  orig: 22, 48
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b2_fx14
+  rotate: false
+  xy: 825, 982
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+maryong_adult_atteye
+  rotate: false
+  xy: 708, 1600
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a6_fx5
+  rotate: true
+  xy: 726, 1787
+  size: 33, 68
+  orig: 33, 68
+  offset: 0, 0
+  index: -1
+maryong_adult_tail1_acc
+  rotate: false
+  xy: 975, 831
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b2_fx13
+  rotate: false
+  xy: 156, 1864
+  size: 166, 181
+  orig: 166, 181
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a8_fx4
+  rotate: false
+  xy: 971, 603
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+maryong_baby_r_arm
+  rotate: false
+  xy: 909, 1482
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a6_fx3
+  rotate: true
+  xy: 535, 2014
+  size: 30, 73
+  orig: 30, 73
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a7_fx1
+  rotate: true
+  xy: 243, 617
+  size: 20, 46
+  orig: 20, 46
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a3_fx4
+  rotate: false
+  xy: 926, 1426
+  size: 65, 107
+  orig: 65, 107
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b2_fx15
+  rotate: false
+  xy: 611, 1647
+  size: 113, 173
+  orig: 113, 173
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a8_fx2
+  rotate: true
+  xy: 795, 2004
+  size: 17, 43
+  orig: 17, 43
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a6_fx1
+  rotate: true
+  xy: 708, 1617
+  size: 28, 68
+  orig: 28, 68
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a8_fx5
+  rotate: false
+  xy: 877, 1883
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b2_fx10
+  rotate: false
+  xy: 588, 243
+  size: 191, 224
+  orig: 191, 224
+  offset: 0, 0
+  index: -1
+maryong_adult_tail3_fx1
+  rotate: true
+  xy: 726, 1647
+  size: 68, 44
+  orig: 68, 44
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a2_fx4
+  rotate: true
+  xy: 377, 1188
+  size: 85, 127
+  orig: 85, 127
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a3_fx2
+  rotate: false
+  xy: 682, 1944
+  size: 67, 101
+  orig: 67, 101
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a3_fx5
+  rotate: false
+  xy: 636, 1189
+  size: 67, 105
+  orig: 67, 105
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a8_fx3
+  rotate: true
+  xy: 722, 222
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a2_fx2
+  rotate: false
+  xy: 891, 742
+  size: 82, 132
+  orig: 82, 132
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a5_fx4
+  rotate: true
+  xy: 797, 1603
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b2_fx11
+  rotate: true
+  xy: 291, 791
+  size: 184, 215
+  orig: 184, 215
+  offset: 0, 0
+  index: -1
+maryong_adult_tail3_fx4
+  rotate: true
+  xy: 726, 1717
+  size: 68, 43
+  orig: 68, 43
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a8_fx1
+  rotate: true
+  xy: 276, 977
+  size: 18, 42
+  orig: 18, 42
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a2_fx5
+  rotate: false
+  xy: 727, 1311
+  size: 79, 133
+  orig: 79, 133
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a3_fx3
+  rotate: true
+  xy: 802, 1482
+  size: 64, 105
+  orig: 64, 105
+  offset: 0, 0
+  index: -1
+maryong_adult_tail3_fx5
+  rotate: false
+  xy: 891, 931
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a5_fx2
+  rotate: true
+  xy: 751, 2023
+  size: 22, 62
+  orig: 22, 62
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a4_fx4
+  rotate: true
+  xy: 808, 1426
+  size: 54, 116
+  orig: 54, 116
+  offset: 0, 0
+  index: -1
+maryong_adult_tail3_fx2
+  rotate: false
+  xy: 375, 1275
+  size: 74, 44
+  orig: 74, 44
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a3_fx1
+  rotate: false
+  xy: 611, 1944
+  size: 69, 101
+  orig: 69, 101
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a5_fx5
+  rotate: false
+  xy: 971, 441
+  size: 20, 58
+  orig: 20, 58
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b2_fx16
+  rotate: true
+  xy: 189, 1214
+  size: 105, 184
+  orig: 105, 184
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a2_fx3
+  rotate: true
+  xy: 506, 1189
+  size: 85, 128
+  orig: 85, 128
+  offset: 0, 0
+  index: -1
+maryong_adult_tail3_fx3
+  rotate: true
+  xy: 751, 1944
+  size: 77, 42
+  orig: 77, 42
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a4_fx2
+  rotate: false
+  xy: 584, 1334
+  size: 62, 145
+  orig: 62, 145
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b1_fx8
+  rotate: false
+  xy: 722, 2
+  size: 227, 218
+  orig: 227, 218
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a2_fx1
+  rotate: false
+  xy: 648, 1334
+  size: 77, 134
+  orig: 77, 134
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a4_fx5
+  rotate: true
+  xy: 705, 1192
+  size: 56, 118
+  orig: 56, 118
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a5_fx3
+  rotate: false
+  xy: 823, 1884
+  size: 25, 57
+  orig: 25, 77
+  offset: 0, 0
+  index: -1
+maryong_child_love2
+  rotate: false
+  xy: 936, 1799
+  size: 21, 32
+  orig: 21, 34
+  offset: 0, 1
+  index: -1
+dragon_maryong_critical_b2_fx17
+  rotate: true
+  xy: 808, 1334
+  size: 90, 122
+  orig: 90, 122
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b1_fx6
+  rotate: true
+  xy: 233, 1321
+  size: 206, 165
+  orig: 206, 165
+  offset: 0, 0
+  index: -1
+maryong_baby_fire2
+  rotate: true
+  xy: 819, 520
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a4_fx3
+  rotate: true
+  xy: 705, 1250
+  size: 59, 116
+  orig: 59, 116
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a5_fx1
+  rotate: true
+  xy: 815, 2023
+  size: 22, 59
+  orig: 22, 59
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b1_fx9
+  rotate: false
+  xy: 291, 574
+  size: 212, 215
+  orig: 212, 215
+  offset: 0, 0
+  index: -1
+maryong_adult_tail2
+  rotate: false
+  xy: 570, 1276
+  size: 33, 56
+  orig: 33, 56
+  offset: 0, 0
+  index: -1
+maryong_baby_fire3
+  rotate: false
+  xy: 400, 1321
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b1_fx4
+  rotate: false
+  xy: 647, 469
+  size: 170, 95
+  orig: 170, 95
+  offset: 0, 0
+  index: -1
+maryong_baby_fire4
+  rotate: true
+  xy: 265, 1529
+  size: 29, 10
+  orig: 29, 10
+  offset: 0, 0
+  index: -1
+maryong_adult_eye
+  rotate: true
+  xy: 808, 1311
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b1_fx7
+  rotate: true
+  xy: 508, 791
+  size: 200, 206
+  orig: 200, 206
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_a4_fx1
+  rotate: false
+  xy: 712, 1822
+  size: 58, 120
+  orig: 58, 120
+  offset: 0, 0
+  index: -1
+maryong_adult_atteye2
+  rotate: false
+  xy: 682, 1296
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b1_fx2
+  rotate: false
+  xy: 802, 1548
+  size: 113, 53
+  orig: 113, 53
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b1_fx5
+  rotate: true
+  xy: 832, 441
+  size: 203, 137
+  orig: 203, 137
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b1_fx3
+  rotate: false
+  xy: 2, 1975
+  size: 152, 67
+  orig: 152, 67
+  offset: 0, 0
+  index: -1
+maryong_baby_fire1
+  rotate: false
+  xy: 825, 1711
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+maryong_child_l_leg2
+  rotate: false
+  xy: 975, 742
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b1_fx1
+  rotate: true
+  xy: 951, 2
+  size: 89, 38
+  orig: 89, 38
+  offset: 0, 0
+  index: -1
+maryong_adult_tail1
+  rotate: true
+  xy: 451, 1275
+  size: 57, 26
+  orig: 57, 26
+  offset: 0, 0
+  index: -1
+maryong_baby_haed
+  rotate: false
+  xy: 479, 1276
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+maryong_child_l_leg1
+  rotate: false
+  xy: 923, 1883
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+maryong_child_leg2
+  rotate: true
+  xy: 819, 545
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+maryong_child_leg3
+  rotate: false
+  xy: 886, 1995
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b3_fx8
+  rotate: true
+  xy: 2, 655
+  size: 340, 203
+  orig: 340, 203
+  offset: 0, 0
+  index: -1
+maryong_child_leg1
+  rotate: false
+  xy: 947, 1962
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b3_fx6
+  rotate: true
+  xy: 2, 1325
+  size: 335, 161
+  orig: 335, 161
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b2_fx8
+  rotate: false
+  xy: 781, 222
+  size: 200, 217
+  orig: 200, 217
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b3_fx9
+  rotate: true
+  xy: 2, 273
+  size: 380, 239
+  orig: 380, 239
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b2_fx6
+  rotate: true
+  xy: 825, 1150
+  size: 182, 164
+  orig: 182, 164
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b3_fx4
+  rotate: true
+  xy: 243, 273
+  size: 293, 125
+  orig: 293, 125
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b3_fx7
+  rotate: true
+  xy: 2, 997
+  size: 326, 185
+  orig: 326, 185
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b3_fx10
+  rotate: false
+  xy: 354, 2
+  size: 366, 239
+  orig: 366, 239
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b2_fx9
+  rotate: false
+  xy: 189, 997
+  size: 186, 215
+  orig: 186, 215
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b3_fx2
+  rotate: true
+  xy: 207, 655
+  size: 257, 82
+  orig: 257, 82
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b2_fx4
+  rotate: false
+  xy: 832, 646
+  size: 147, 94
+  orig: 147, 94
+  offset: 0, 0
+  index: -1
+maryong_baby_arm1_fire2
+  rotate: true
+  xy: 243, 639
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b2_fx7
+  rotate: false
+  xy: 716, 774
+  size: 173, 206
+  orig: 173, 206
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b3_fx5
+  rotate: true
+  xy: 2, 1662
+  size: 311, 152
+  orig: 311, 152
+  offset: 0, 0
+  index: -1
+maryong_baby_arm1_fire3
+  rotate: false
+  xy: 947, 2009
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b3_fx11
+  rotate: false
+  xy: 2, 2
+  size: 350, 269
+  orig: 362, 287
+  offset: 12, 18
+  index: -1
+dragon_maryong_critical_b2_fx2
+  rotate: false
+  xy: 891, 876
+  size: 100, 53
+  orig: 100, 53
+  offset: 0, 0
+  index: -1
+maryong_baby_arm1_fire4
+  rotate: true
+  xy: 809, 1711
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b3_fx3
+  rotate: false
+  xy: 370, 469
+  size: 275, 103
+  orig: 275, 103
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b2_fx5
+  rotate: true
+  xy: 472, 1647
+  size: 179, 137
+  orig: 179, 137
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b2_fx3
+  rotate: true
+  xy: 733, 1446
+  size: 132, 67
+  orig: 132, 67
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b3_fx1
+  rotate: true
+  xy: 165, 1325
+  size: 242, 66
+  orig: 242, 66
+  offset: 0, 0
+  index: -1
+maryong_baby_arm1_fire0
+  rotate: true
+  xy: 428, 1321
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+dragon_maryong_critical_b2_fx1
+  rotate: true
+  xy: 951, 93
+  size: 79, 38
+  orig: 79, 38
+  offset: 0, 0
+  index: -1
+maryong_baby_arm1_fire1
+  rotate: false
+  xy: 949, 1725
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+maryong_child_closeeye
+  rotate: true
+  xy: 975, 802
+  size: 27, 16
+  orig: 27, 18
+  offset: 0, 1
+  index: -1
+maryong_baby_arm2_fire0
+  rotate: false
+  xy: 452, 1647
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+maryong_baby_arm2_fire1
+  rotate: false
+  xy: 276, 958
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+maryong_child_l_arm2
+  rotate: true
+  xy: 891, 1979
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+maryong_child_ball2
+  rotate: false
+  xy: 808, 1726
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+maryong_baby_arm2_fire4
+  rotate: true
+  xy: 965, 2018
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+maryong_baby_arm2_fire2
+  rotate: false
+  xy: 276, 939
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+maryong_baby_arm2_fire3
+  rotate: false
+  xy: 947, 2027
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+maryong_child_l_arm1
+  rotate: false
+  xy: 945, 1883
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+maryong_baby_l_arm
+  rotate: false
+  xy: 975, 773
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1

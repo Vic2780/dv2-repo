@@ -2,11 +2,172 @@ dragon_4053_spine.pvr.ccz
 format: RGBA4444
 filter: Linear,Linear
 repeat: none
+dragon_mutantegg_child_body
+  rotate: false
+  xy: 580, 162
+  size: 78, 61
+  orig: 78, 61
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_e_ear1
+  rotate: false
+  xy: 1744, 196
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_adult_damaged
+  rotate: false
+  xy: 1443, 131
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
 dragon_mutantegg_child_leg2
   rotate: false
-  xy: 823, 207
+  xy: 1478, 207
   size: 31, 14
   orig: 31, 14
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_e_critical1
+  rotate: false
+  xy: 377, 2
+  size: 261, 158
+  orig: 261, 158
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_child_love2
+  rotate: false
+  xy: 420, 162
+  size: 78, 61
+  orig: 78, 61
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_adult_eye
+  rotate: true
+  xy: 1738, 68
+  size: 58, 31
+  orig: 58, 31
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_adult_egg
+  rotate: false
+  xy: 1255, 2
+  size: 92, 128
+  orig: 92, 128
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_e_leg2
+  rotate: false
+  xy: 1455, 207
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_baby_body
+  rotate: false
+  xy: 1668, 68
+  size: 68, 58
+  orig: 68, 58
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_child_leg1
+  rotate: false
+  xy: 1517, 199
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_baby_ear2
+  rotate: true
+  xy: 1424, 208
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_baby_egg
+  rotate: false
+  xy: 1293, 132
+  size: 74, 83
+  orig: 74, 83
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_e_critical4
+  rotate: false
+  xy: 1517, 129
+  size: 225, 68
+  orig: 225, 68
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_adult_body
+  rotate: false
+  xy: 1450, 2
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_child_eye
+  rotate: true
+  xy: 1598, 2
+  size: 55, 29
+  orig: 55, 29
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_e_egg
+  rotate: false
+  xy: 1158, 2
+  size: 95, 137
+  orig: 95, 137
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_adult_leg1
+  rotate: false
+  xy: 1450, 78
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_baby_eye
+  rotate: true
+  xy: 1525, 78
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_adult_arm2
+  rotate: true
+  xy: 1380, 104
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_child_tail
+  rotate: true
+  xy: 377, 162
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_adult_love
+  rotate: false
+  xy: 1369, 132
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_e_critical3
+  rotate: false
+  xy: 640, 2
+  size: 257, 150
+  orig: 261, 158
+  offset: 4, 0
+  index: -1
+dragon_mutantegg_e_leg1
+  rotate: true
+  xy: 1404, 104
+  size: 26, 17
+  orig: 26, 17
   offset: 0, 0
   index: -1
 dragon_mutantegg_child_twinkling1
@@ -16,81 +177,116 @@ dragon_mutantegg_child_twinkling1
   orig: 225, 224
   offset: 0, 0
   index: -1
-dragon_mutantegg_adult_ear2
-  rotate: true
-  xy: 626, 200
-  size: 25, 35
-  orig: 25, 35
-  offset: 0, 0
-  index: -1
-dragon_mutantegg_adult_attack
+dragon_mutantegg_child_love1
   rotate: false
-  xy: 768, 78
-  size: 72, 74
-  orig: 72, 74
-  offset: 0, 0
-  index: -1
-dragon_mutantegg_baby_body
-  rotate: false
-  xy: 523, 167
-  size: 68, 58
-  orig: 68, 58
-  offset: 0, 0
-  index: -1
-dragon_mutantegg_adult_love
-  rotate: false
-  xy: 675, 2
-  size: 72, 74
-  orig: 72, 74
-  offset: 0, 0
-  index: -1
-dragon_mutantegg_child_leg1
-  rotate: true
-  xy: 798, 205
-  size: 20, 23
-  orig: 20, 23
-  offset: 0, 0
-  index: -1
-dragon_mutantegg_adult_egg
-  rotate: false
-  xy: 377, 2
-  size: 92, 128
-  orig: 92, 128
-  offset: 0, 0
-  index: -1
-dragon_mutantegg_child_twinkling2
-  rotate: false
-  xy: 471, 2
-  size: 99, 100
-  orig: 225, 224
-  offset: 63, 64
-  index: -1
-dragon_mutantegg_child_ear2
-  rotate: true
-  xy: 799, 183
-  size: 20, 32
-  orig: 20, 32
-  offset: 0, 0
-  index: -1
-dragon_mutantegg_child_love2
-  rotate: false
-  xy: 471, 104
+  xy: 500, 162
   size: 78, 61
   orig: 78, 61
   offset: 0, 0
   index: -1
 dragon_mutantegg_adult_ear1
   rotate: false
-  xy: 799, 154
+  xy: 1744, 39
   size: 41, 27
   orig: 41, 27
   offset: 0, 0
   index: -1
+dragon_mutantegg_child_ear2
+  rotate: true
+  xy: 1575, 199
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_adult_tail
+  rotate: false
+  xy: 1662, 2
+  size: 66, 31
+  orig: 66, 31
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_e_critical6
+  rotate: false
+  xy: 923, 154
+  size: 265, 68
+  orig: 265, 68
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_adult_attack
+  rotate: false
+  xy: 1524, 2
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_child_twinkling2
+  rotate: false
+  xy: 1349, 2
+  size: 99, 100
+  orig: 225, 224
+  offset: 63, 64
+  index: -1
+dragon_mutantegg_baby_ear1
+  rotate: false
+  xy: 1460, 103
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_note1
+  rotate: true
+  xy: 1744, 128
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_mutantegg_child_ear1
+  rotate: false
+  xy: 1539, 199
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_e_tail
+  rotate: true
+  xy: 1492, 78
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_e_critical5
+  rotate: false
+  xy: 660, 154
+  size: 261, 69
+  orig: 261, 69
+  offset: 0, 0
+  index: -1
 dragon_mutantegg_baby_love
   rotate: false
-  xy: 453, 167
+  xy: 1598, 68
   size: 68, 58
   orig: 68, 58
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_e_tail2
+  rotate: true
+  xy: 1629, 2
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_note2
+  rotate: true
+  xy: 1744, 2
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_mutantegg_e_ear2
+  rotate: true
+  xy: 1744, 160
+  size: 34, 35
+  orig: 34, 35
   offset: 0, 0
   index: -1
 dragon_mutantegg_adult_light
@@ -100,157 +296,59 @@ dragon_mutantegg_adult_light
   orig: 147, 222
   offset: 0, 0
   index: -1
-dragon_mutantegg_adult_tail
-  rotate: false
-  xy: 626, 167
-  size: 66, 31
-  orig: 66, 31
-  offset: 0, 0
-  index: -1
-dragon_mutantegg_child_heart
-  rotate: false
-  xy: 694, 154
-  size: 46, 39
-  orig: 46, 39
-  offset: 0, 0
-  index: -1
-dragon_mutantegg_child_love1
-  rotate: false
-  xy: 551, 104
-  size: 78, 61
-  orig: 78, 61
-  offset: 0, 0
-  index: -1
-dragon_mutantegg_child_ear1
-  rotate: false
-  xy: 842, 160
-  size: 34, 21
-  orig: 34, 21
-  offset: 0, 0
-  index: -1
-dragon_mutantegg_note1
-  rotate: true
-  xy: 694, 195
-  size: 30, 38
-  orig: 32, 40
-  offset: 1, 1
-  index: -1
 dragon_mutantegg_adult_leg2
-  rotate: true
-  xy: 453, 132
+  rotate: false
+  xy: 1369, 208
   size: 33, 16
   orig: 33, 16
   offset: 0, 0
   index: -1
-dragon_mutantegg_baby_eye
-  rotate: true
-  xy: 842, 110
-  size: 48, 28
-  orig: 48, 28
-  offset: 0, 0
-  index: -1
-dragon_mutantegg_baby_sweat
+dragon_mutantegg_e_arm1
   rotate: false
-  xy: 861, 183
-  size: 16, 18
-  orig: 16, 20
-  offset: 0, 1
-  index: -1
-dragon_mutantegg_child_body
-  rotate: true
-  xy: 631, 87
-  size: 78, 61
-  orig: 78, 61
-  offset: 0, 0
-  index: -1
-dragon_mutantegg_adult_arm2
-  rotate: false
-  xy: 833, 183
-  size: 26, 22
-  orig: 26, 22
-  offset: 0, 0
-  index: -1
-dragon_mutantegg_baby_ear2
-  rotate: true
-  xy: 572, 87
-  size: 15, 29
-  orig: 15, 29
-  offset: 0, 0
+  xy: 1629, 39
+  size: 30, 27
+  orig: 32, 29
+  offset: 0, 2
   index: -1
 dragon_mutantegg_child_egg
   rotate: true
-  xy: 572, 2
+  xy: 1190, 141
   size: 83, 101
   orig: 83, 101
   offset: 0, 0
   index: -1
-dragon_mutantegg_child_eye
-  rotate: false
-  xy: 742, 154
-  size: 55, 29
-  orig: 55, 29
-  offset: 0, 0
-  index: -1
-dragon_mutantegg_note2
-  rotate: false
-  xy: 842, 67
-  size: 35, 41
-  orig: 35, 41
-  offset: 0, 0
-  index: -1
-dragon_mutantegg_adult_damaged
-  rotate: false
-  xy: 749, 2
-  size: 72, 74
-  orig: 72, 74
-  offset: 0, 0
-  index: -1
-dragon_mutantegg_adult_body
-  rotate: false
-  xy: 694, 78
-  size: 72, 74
-  orig: 72, 74
-  offset: 0, 0
-  index: -1
-dragon_mutantegg_baby_ear1
-  rotate: false
-  xy: 663, 200
-  size: 28, 22
-  orig: 28, 22
-  offset: 0, 0
-  index: -1
-dragon_mutantegg_adult_eye
+dragon_mutantegg_baby_sweat
   rotate: true
-  xy: 593, 167
-  size: 58, 31
-  orig: 58, 31
-  offset: 0, 0
+  xy: 1404, 208
+  size: 16, 18
+  orig: 16, 20
+  offset: 0, 1
   index: -1
-dragon_mutantegg_adult_leg1
+dragon_mutantegg_adult_ear2
   rotate: true
-  xy: 742, 185
-  size: 40, 23
-  orig: 40, 23
+  xy: 1423, 104
+  size: 25, 35
+  orig: 25, 35
   offset: 0, 0
   index: -1
 dragon_mutantegg_adult_arm1
   rotate: false
-  xy: 767, 185
+  xy: 1349, 104
   size: 29, 26
   orig: 29, 26
   offset: 0, 0
   index: -1
-dragon_mutantegg_child_tail
-  rotate: true
-  xy: 823, 2
-  size: 63, 41
-  orig: 63, 41
-  offset: 0, 0
-  index: -1
-dragon_mutantegg_baby_egg
+dragon_mutantegg_e_critical2
   rotate: false
-  xy: 377, 132
-  size: 74, 83
-  orig: 74, 83
+  xy: 899, 2
+  size: 257, 150
+  orig: 261, 158
+  offset: 4, 0
+  index: -1
+dragon_mutantegg_child_heart
+  rotate: true
+  xy: 1555, 78
+  size: 46, 39
+  orig: 46, 39
   offset: 0, 0
   index: -1

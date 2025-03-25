@@ -1,0 +1,95 @@
+3002_s01_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_3002_s01_critical_eff08
+  rotate: true
+  xy: 2, 2
+  size: 287, 247
+  orig: 305, 261
+  offset: 9, 1
+  index: -1
+dragon_3002_s01_critical_eff09
+  rotate: true
+  xy: 2, 861
+  size: 283, 245
+  orig: 305, 261
+  offset: 13, 3
+  index: -1
+dragon_3002_s01_critical_eff06
+  rotate: true
+  xy: 2, 576
+  size: 283, 249
+  orig: 305, 261
+  offset: 10, 0
+  index: -1
+dragon_3002_s01_critical_eff07
+  rotate: true
+  xy: 2, 291
+  size: 283, 249
+  orig: 305, 261
+  offset: 10, 0
+  index: -1
+dragon_3002_s01_critical_eff04
+  rotate: false
+  xy: 249, 861
+  size: 235, 243
+  orig: 305, 261
+  offset: 32, 6
+  index: -1
+dragon_3002_s01_critical_eff05
+  rotate: false
+  xy: 2, 1146
+  size: 271, 249
+  orig: 305, 261
+  offset: 18, 0
+  index: -1
+dragon_3002_s01_critical_eff12
+  rotate: true
+  xy: 2, 1397
+  size: 103, 239
+  orig: 305, 261
+  offset: 117, 9
+  index: -1
+dragon_3002_s01_critical_eff02
+  rotate: false
+  xy: 275, 1106
+  size: 165, 243
+  orig: 305, 261
+  offset: 69, 6
+  index: -1
+dragon_3002_s01_critical_eff03
+  rotate: false
+  xy: 253, 287
+  size: 235, 243
+  orig: 305, 261
+  offset: 32, 6
+  index: -1
+dragon_3002_s01_critical_eff10
+  rotate: true
+  xy: 251, 2
+  size: 283, 241
+  orig: 305, 261
+  offset: 13, 7
+  index: -1
+dragon_3002_s01_critical_eff00
+  rotate: true
+  xy: 253, 775
+  size: 73, 147
+  orig: 305, 261
+  offset: 112, 101
+  index: -1
+dragon_3002_s01_critical_eff11
+  rotate: false
+  xy: 253, 532
+  size: 199, 241
+  orig: 305, 261
+  offset: 84, 7
+  index: -1
+dragon_3002_s01_critical_eff01
+  rotate: true
+  xy: 275, 1351
+  size: 115, 147
+  orig: 305, 261
+  offset: 68, 101
+  index: -1

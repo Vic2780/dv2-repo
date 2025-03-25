@@ -1,0 +1,1062 @@
+dragon_4204_spine.pvr.ccz
+size: 2625, 1021
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_monoceros_adult_arm_l1
+  rotate: false
+  xy: 2412, 908
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_arm_l2
+  rotate: false
+  xy: 2285, 850
+  size: 38, 54
+  orig: 38, 56
+  offset: 0, 2
+  index: -1
+dragon_monoceros_adult_arm_r1
+  rotate: false
+  xy: 2557, 582
+  size: 52, 81
+  orig: 52, 81
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_arm_r2
+  rotate: true
+  xy: 1880, 932
+  size: 80, 48
+  orig: 80, 48
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_body
+  rotate: true
+  xy: 1600, 922
+  size: 98, 104
+  orig: 98, 104
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_effect_lit1
+  rotate: false
+  xy: 1204, 681
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_effect_lit2
+  rotate: false
+  xy: 953, 981
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_effect_lit3
+  rotate: false
+  xy: 2592, 207
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_effect_lit4
+  rotate: true
+  xy: 2147, 983
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_effect_lit5
+  rotate: false
+  xy: 2525, 836
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_eye1
+  rotate: false
+  xy: 1191, 933
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_eye2
+  rotate: true
+  xy: 1191, 903
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_hair1
+  rotate: false
+  xy: 2606, 850
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_hair2
+  rotate: true
+  xy: 2325, 736
+  size: 89, 61
+  orig: 89, 61
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_hair3
+  rotate: true
+  xy: 1766, 932
+  size: 86, 112
+  orig: 86, 112
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_hair4
+  rotate: false
+  xy: 1191, 951
+  size: 111, 64
+  orig: 111, 64
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_head1
+  rotate: false
+  xy: 2097, 931
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_head2
+  rotate: true
+  xy: 2592, 250
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_leg_l1
+  rotate: false
+  xy: 2283, 906
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_leg_l2
+  rotate: true
+  xy: 2592, 119
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_leg_l3
+  rotate: false
+  xy: 2273, 959
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_leg_r1
+  rotate: false
+  xy: 1417, 951
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_leg_r2
+  rotate: false
+  xy: 2418, 872
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_leg_r3
+  rotate: true
+  xy: 2546, 723
+  size: 50, 73
+  orig: 50, 73
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_neck
+  rotate: true
+  xy: 1506, 943
+  size: 61, 82
+  orig: 61, 82
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_orb1
+  rotate: false
+  xy: 2468, 869
+  size: 53, 30
+  orig: 142, 38
+  offset: 0, 8
+  index: -1
+dragon_monoceros_adult_orb2
+  rotate: false
+  xy: 2557, 905
+  size: 38, 28
+  orig: 47, 28
+  offset: 2, 0
+  index: -1
+dragon_monoceros_adult_orb3
+  rotate: false
+  xy: 2138, 876
+  size: 43, 40
+  orig: 63, 42
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_orb4
+  rotate: false
+  xy: 2325, 827
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_orb5
+  rotate: true
+  xy: 1600, 827
+  size: 93, 118
+  orig: 93, 118
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_orb6
+  rotate: true
+  xy: 2147, 918
+  size: 63, 44
+  orig: 63, 44
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_orb7
+  rotate: false
+  xy: 2098, 888
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_orb8
+  rotate: true
+  xy: 1232, 681
+  size: 32, 30
+  orig: 32, 32
+  offset: 0, 1
+  index: -1
+dragon_monoceros_adult_orb9
+  rotate: false
+  xy: 991, 681
+  size: 211, 220
+  orig: 211, 221
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_tai1
+  rotate: false
+  xy: 1600, 340
+  size: 121, 110
+  orig: 121, 110
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_tail2
+  rotate: true
+  xy: 1720, 877
+  size: 53, 122
+  orig: 71, 152
+  offset: 18, 14
+  index: -1
+dragon_monoceros_adult_wing1
+  rotate: false
+  xy: 2034, 888
+  size: 62, 37
+  orig: 62, 37
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_wing2
+  rotate: true
+  xy: 1968, 609
+  size: 143, 194
+  orig: 143, 194
+  offset: 0, 0
+  index: -1
+dragon_monoceros_adult_wing3
+  rotate: true
+  xy: 991, 903
+  size: 116, 198
+  orig: 116, 198
+  offset: 0, 0
+  index: -1
+dragon_monoceros_baby_arm1
+  rotate: true
+  xy: 2523, 882
+  size: 24, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+dragon_monoceros_baby_arm2
+  rotate: true
+  xy: 2417, 1001
+  size: 16, 34
+  orig: 17, 34
+  offset: 1, 0
+  index: -1
+dragon_monoceros_baby_body
+  rotate: false
+  xy: 2320, 959
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+dragon_monoceros_baby_eye2
+  rotate: true
+  xy: 2592, 283
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+dragon_monoceros_baby_eye3
+  rotate: false
+  xy: 2597, 924
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+dragon_monoceros_baby_head
+  rotate: false
+  xy: 2332, 894
+  size: 48, 63
+  orig: 49, 70
+  offset: 0, 7
+  index: -1
+dragon_monoceros_baby_head2
+  rotate: true
+  xy: 2040, 927
+  size: 68, 55
+  orig: 68, 55
+  offset: 0, 0
+  index: -1
+dragon_monoceros_baby_leg1
+  rotate: true
+  xy: 2468, 901
+  size: 26, 51
+  orig: 26, 51
+  offset: 0, 0
+  index: -1
+dragon_monoceros_baby_leg2
+  rotate: true
+  xy: 1506, 1006
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+dragon_monoceros_baby_love1
+  rotate: false
+  xy: 2525, 951
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+dragon_monoceros_baby_love2
+  rotate: false
+  xy: 2562, 935
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+dragon_monoceros_baby_tail
+  rotate: true
+  xy: 1975, 888
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+dragon_monoceros_baby_wing1
+  rotate: false
+  xy: 2562, 963
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+dragon_monoceros_baby_wing2
+  rotate: false
+  xy: 2460, 977
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+dragon_monoceros_child_arm1
+  rotate: false
+  xy: 1469, 951
+  size: 35, 69
+  orig: 37, 69
+  offset: 2, 0
+  index: -1
+dragon_monoceros_child_arm2
+  rotate: false
+  xy: 2241, 958
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+dragon_monoceros_child_arm3
+  rotate: true
+  xy: 2040, 997
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+dragon_monoceros_child_arm4
+  rotate: false
+  xy: 2460, 929
+  size: 35, 46
+  orig: 35, 48
+  offset: 0, 2
+  index: -1
+dragon_monoceros_child_body
+  rotate: false
+  xy: 2456, 476
+  size: 60, 92
+  orig: 60, 93
+  offset: 0, 0
+  index: -1
+dragon_monoceros_child_effect
+  rotate: true
+  xy: 2542, 979
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+dragon_monoceros_child_eyeclose
+  rotate: false
+  xy: 2453, 1003
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+dragon_monoceros_child_hair1
+  rotate: false
+  xy: 1844, 877
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+dragon_monoceros_child_hair2
+  rotate: true
+  xy: 2251, 900
+  size: 56, 30
+  orig: 56, 30
+  offset: 0, 0
+  index: -1
+dragon_monoceros_child_hair3
+  rotate: true
+  xy: 2592, 1
+  size: 70, 32
+  orig: 70, 32
+  offset: 0, 0
+  index: -1
+dragon_monoceros_child_head1
+  rotate: false
+  xy: 2193, 900
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+dragon_monoceros_child_leg1
+  rotate: false
+  xy: 2525, 908
+  size: 30, 41
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+dragon_monoceros_child_leg2
+  rotate: true
+  xy: 2556, 869
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+dragon_monoceros_child_leg3
+  rotate: false
+  xy: 2497, 929
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+dragon_monoceros_child_leg4
+  rotate: true
+  xy: 2494, 754
+  size: 26, 50
+  orig: 26, 50
+  offset: 0, 0
+  index: -1
+dragon_monoceros_child_mouse
+  rotate: false
+  xy: 2506, 979
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+dragon_monoceros_child_neck
+  rotate: false
+  xy: 2417, 954
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+dragon_monoceros_child_tail
+  rotate: true
+  xy: 1521, 719
+  size: 122, 77
+  orig: 122, 77
+  offset: 0, 0
+  index: -1
+dragon_monoceros_child_wing1
+  rotate: false
+  xy: 2186, 330
+  size: 50, 137
+  orig: 50, 137
+  offset: 0, 0
+  index: -1
+dragon_monoceros_child_wing2
+  rotate: false
+  xy: 2271, 736
+  size: 52, 112
+  orig: 52, 112
+  offset: 0, 0
+  index: -1
+dragon_monoceros_critical01
+  rotate: false
+  xy: 2395, 586
+  size: 97, 175
+  orig: 164, 377
+  offset: 14, 202
+  index: -1
+dragon_monoceros_critical02
+  rotate: true
+  xy: 2186, 476
+  size: 108, 268
+  orig: 164, 377
+  offset: 40, 109
+  index: -1
+dragon_monoceros_critical03
+  rotate: true
+  xy: 1204, 719
+  size: 112, 315
+  orig: 164, 377
+  offset: 26, 62
+  index: -1
+dragon_monoceros_critical04
+  rotate: false
+  xy: 1131, 341
+  size: 132, 338
+  orig: 164, 377
+  offset: 15, 39
+  index: -1
+dragon_monoceros_critical05
+  rotate: true
+  xy: 1265, 571
+  size: 146, 336
+  orig: 164, 377
+  offset: 10, 41
+  index: -1
+dragon_monoceros_critical06
+  rotate: false
+  xy: 680, 681
+  size: 146, 332
+  orig: 164, 377
+  offset: 0, 45
+  index: -1
+dragon_monoceros_critical07
+  rotate: true
+  xy: 1204, 833
+  size: 116, 282
+  orig: 164, 377
+  offset: 22, 95
+  index: -1
+dragon_monoceros_critical08
+  rotate: false
+  xy: 828, 681
+  size: 161, 298
+  orig: 164, 377
+  offset: 3, 44
+  index: -1
+dragon_monoceros_critical09
+  rotate: false
+  xy: 828, 681
+  size: 161, 298
+  orig: 164, 377
+  offset: 3, 44
+  index: -1
+dragon_monoceros_critical10
+  rotate: true
+  xy: 1721, 609
+  size: 142, 245
+  orig: 164, 377
+  offset: 17, 51
+  index: -1
+dragon_monoceros_critical11
+  rotate: false
+  xy: 1603, 564
+  size: 116, 261
+  orig: 164, 377
+  offset: 31, 47
+  index: -1
+dragon_monoceros_critical12
+  rotate: false
+  xy: 533, 690
+  size: 145, 329
+  orig: 164, 377
+  offset: 19, 39
+  index: -1
+dragon_monoceros_critical13
+  rotate: false
+  xy: 2542, 1
+  size: 48, 309
+  orig: 164, 377
+  offset: 67, 27
+  index: -1
+dragon_monoceros_critical14
+  rotate: false
+  xy: 2141, 330
+  size: 43, 249
+  orig: 164, 377
+  offset: 74, 63
+  index: -1
+dragon_monoceros_e_arm_l1
+  rotate: false
+  xy: 2377, 961
+  size: 38, 55
+  orig: 38, 57
+  offset: 0, 2
+  index: -1
+dragon_monoceros_e_arm_l2
+  rotate: false
+  xy: 2418, 826
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_arm_r1
+  rotate: false
+  xy: 1930, 932
+  size: 52, 80
+  orig: 52, 80
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_arm_r2
+  rotate: false
+  xy: 2183, 850
+  size: 100, 48
+  orig: 100, 48
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_body
+  rotate: true
+  xy: 1488, 843
+  size: 98, 110
+  orig: 98, 110
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_effect_lit1
+  rotate: false
+  xy: 1204, 681
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_effect_lit2
+  rotate: false
+  xy: 953, 981
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_effect_lit3
+  rotate: false
+  xy: 2592, 207
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_effect_lit4
+  rotate: true
+  xy: 2147, 983
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_effect_lit5
+  rotate: false
+  xy: 2525, 836
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_eye1
+  rotate: false
+  xy: 1191, 933
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_eye2
+  rotate: true
+  xy: 1191, 918
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_hair1
+  rotate: false
+  xy: 2606, 887
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_hair2
+  rotate: false
+  xy: 2388, 763
+  size: 89, 61
+  orig: 89, 61
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_hair3
+  rotate: false
+  xy: 2183, 736
+  size: 86, 112
+  orig: 86, 112
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_hair4
+  rotate: false
+  xy: 1304, 951
+  size: 111, 64
+  orig: 111, 64
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_hairdedo
+  rotate: false
+  xy: 2494, 666
+  size: 50, 86
+  orig: 50, 86
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_head1
+  rotate: false
+  xy: 1706, 932
+  size: 58, 88
+  orig: 58, 88
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_head2
+  rotate: true
+  xy: 2592, 250
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_leg_l1
+  rotate: false
+  xy: 2546, 775
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_leg_l2
+  rotate: true
+  xy: 2592, 163
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_leg_l3
+  rotate: true
+  xy: 2479, 782
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_leg_r1
+  rotate: true
+  xy: 2546, 666
+  size: 55, 78
+  orig: 55, 78
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_leg_r2
+  rotate: false
+  xy: 2556, 833
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_leg_r3
+  rotate: false
+  xy: 1984, 932
+  size: 54, 74
+  orig: 54, 74
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_neck
+  rotate: false
+  xy: 2494, 582
+  size: 61, 82
+  orig: 61, 82
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_orb1
+  rotate: false
+  xy: 2468, 869
+  size: 53, 30
+  orig: 142, 38
+  offset: 0, 8
+  index: -1
+dragon_monoceros_e_orb2
+  rotate: false
+  xy: 2557, 905
+  size: 38, 28
+  orig: 47, 28
+  offset: 2, 0
+  index: -1
+dragon_monoceros_e_orb3
+  rotate: false
+  xy: 2138, 876
+  size: 43, 40
+  orig: 63, 42
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_orb4
+  rotate: false
+  xy: 2325, 827
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_orb5
+  rotate: true
+  xy: 1600, 827
+  size: 93, 118
+  orig: 93, 118
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_orb6
+  rotate: true
+  xy: 2147, 918
+  size: 63, 44
+  orig: 63, 44
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_orb7
+  rotate: false
+  xy: 2098, 888
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_orb8
+  rotate: true
+  xy: 1232, 681
+  size: 32, 30
+  orig: 32, 32
+  offset: 0, 1
+  index: -1
+dragon_monoceros_e_orb9
+  rotate: false
+  xy: 991, 681
+  size: 211, 220
+  orig: 211, 221
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_tai1
+  rotate: false
+  xy: 1600, 452
+  size: 121, 110
+  orig: 121, 110
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_tail2
+  rotate: false
+  xy: 2542, 312
+  size: 71, 182
+  orig: 71, 182
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_wing1
+  rotate: true
+  xy: 2193, 958
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_wing2
+  rotate: true
+  xy: 2164, 586
+  size: 148, 229
+  orig: 148, 229
+  offset: 0, 0
+  index: -1
+dragon_monoceros_e_wing3
+  rotate: true
+  xy: 1721, 753
+  size: 122, 207
+  orig: 122, 207
+  offset: 0, 0
+  index: -1
+dragon_monoceros_thunderbolt0
+  rotate: false
+  xy: 1908, 888
+  size: 65, 42
+  orig: 65, 42
+  offset: 0, 0
+  index: -1
+dragon_monoceros_thunderbolt1
+  rotate: false
+  xy: 2562, 990
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+dragon_monoceros_thunderbolt10
+  rotate: true
+  xy: 2607, 775
+  size: 73, 17
+  orig: 73, 17
+  offset: 0, 0
+  index: -1
+dragon_monoceros_thunderbolt11
+  rotate: false
+  xy: 2086, 997
+  size: 55, 22
+  orig: 55, 22
+  offset: 0, 0
+  index: -1
+dragon_monoceros_thunderbolt2
+  rotate: false
+  xy: 2599, 952
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+dragon_monoceros_thunderbolt3
+  rotate: true
+  xy: 2592, 73
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+dragon_monoceros_thunderbolt4
+  rotate: false
+  xy: 2466, 836
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+dragon_monoceros_thunderbolt5
+  rotate: true
+  xy: 2387, 836
+  size: 56, 29
+  orig: 56, 29
+  offset: 0, 0
+  index: -1
+dragon_monoceros_thunderbolt6
+  rotate: true
+  xy: 2138, 754
+  size: 120, 43
+  orig: 120, 43
+  offset: 0, 0
+  index: -1
+dragon_monoceros_thunderbolt7
+  rotate: false
+  xy: 2518, 539
+  size: 102, 41
+  orig: 102, 41
+  offset: 0, 0
+  index: -1
+dragon_monoceros_thunderbolt8
+  rotate: false
+  xy: 2518, 496
+  size: 106, 41
+  orig: 106, 41
+  offset: 0, 0
+  index: -1
+dragon_monoceros_thunderbolt9
+  rotate: true
+  xy: 2382, 894
+  size: 65, 28
+  orig: 65, 28
+  offset: 0, 0
+  index: -1
+e_dragon_monoceros_critical01
+  rotate: false
+  xy: 828, 981
+  size: 123, 37
+  orig: 607, 377
+  offset: 239, 45
+  index: -1
+e_dragon_monoceros_critical02
+  rotate: false
+  xy: 1930, 754
+  size: 206, 132
+  orig: 607, 377
+  offset: 206, 36
+  index: -1
+e_dragon_monoceros_critical03
+  rotate: false
+  xy: 1265, 340
+  size: 333, 229
+  orig: 607, 377
+  offset: 144, 11
+  index: -1
+e_dragon_monoceros_critical04
+  rotate: false
+  xy: 1723, 330
+  size: 416, 277
+  orig: 607, 377
+  offset: 105, 5
+  index: -1
+e_dragon_monoceros_critical05
+  rotate: true
+  xy: 2238, 1
+  size: 473, 302
+  orig: 607, 377
+  offset: 80, 7
+  index: -1
+e_dragon_monoceros_critical06
+  rotate: false
+  xy: 1723, 1
+  size: 513, 327
+  orig: 607, 377
+  offset: 68, 0
+  index: -1
+e_dragon_monoceros_critical07
+  rotate: false
+  xy: 1, 690
+  size: 530, 327
+  orig: 607, 377
+  offset: 57, 0
+  index: -1
+e_dragon_monoceros_critical08
+  rotate: false
+  xy: 1172, 1
+  size: 549, 337
+  orig: 607, 377
+  offset: 48, 0
+  index: -1
+e_dragon_monoceros_critical09
+  rotate: false
+  xy: 576, 341
+  size: 553, 338
+  orig: 607, 377
+  offset: 48, 0
+  index: -1
+e_dragon_monoceros_critical10
+  rotate: false
+  xy: 1, 1
+  size: 587, 338
+  orig: 607, 377
+  offset: 15, 0
+  index: -1
+e_dragon_monoceros_critical11
+  rotate: false
+  xy: 590, 1
+  size: 580, 338
+  orig: 607, 377
+  offset: 13, 0
+  index: -1
+e_dragon_monoceros_critical12
+  rotate: false
+  xy: 1, 341
+  size: 573, 347
+  orig: 607, 377
+  offset: 22, 0
+  index: -1

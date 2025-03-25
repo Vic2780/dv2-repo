@@ -1,0 +1,627 @@
+dragon_4121_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_circle_baby_f_l_feet
+  rotate: true
+  xy: 887, 217
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+dragon_circle_child_r_arm2
+  rotate: false
+  xy: 500, 226
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+dragon_circle_adult_l_leg1
+  rotate: true
+  xy: 839, 144
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+dragon_circle_child_breast
+  rotate: true
+  xy: 1467, 87
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+dragon_circle_effect_bowl
+  rotate: false
+  xy: 977, 147
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+dragon_circle_adult_love_eye
+  rotate: false
+  xy: 1092, 224
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+dragon_circle_adult_l_arm2
+  rotate: false
+  xy: 805, 144
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+dragon_circle_child_l_wing
+  rotate: false
+  xy: 894, 129
+  size: 81, 41
+  orig: 81, 41
+  offset: 0, 0
+  index: -1
+dragon_circle_effect_r_wing
+  rotate: true
+  xy: 250, 171
+  size: 68, 95
+  orig: 68, 95
+  offset: 0, 0
+  index: -1
+dragon_circle_baby_f_r_feet
+  rotate: false
+  xy: 977, 244
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+dragon_circle_adult_neck
+  rotate: true
+  xy: 1253, 127
+  size: 68, 95
+  orig: 68, 95
+  offset: 0, 0
+  index: -1
+dragon_circle_adult_tail
+  rotate: false
+  xy: 783, 59
+  size: 109, 83
+  orig: 109, 83
+  offset: 0, 0
+  index: -1
+dragon_circle_effect_light
+  rotate: false
+  xy: 1253, 2
+  size: 122, 123
+  orig: 122, 123
+  offset: 0, 0
+  index: -1
+dragon_circle_effect_s_light2
+  rotate: false
+  xy: 1466, 139
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+dragon_circle_child_r_foot
+  rotate: false
+  xy: 1171, 202
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+dragon_circle_child_love_eye
+  rotate: false
+  xy: 1143, 202
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+dragon_circle_effect_e04
+  rotate: false
+  xy: 250, 116
+  size: 394, 53
+  orig: 394, 311
+  offset: 0, 144
+  index: -1
+dragon_circle_adult_tail_add2
+  rotate: true
+  xy: 897, 206
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+dragon_circle_adult_l_leg2
+  rotate: false
+  xy: 519, 220
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+dragon_circle_baby_f_l_arm1
+  rotate: false
+  xy: 1076, 229
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+dragon_circle_child_l_leg1
+  rotate: true
+  xy: 977, 212
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+dragon_circle_baby_b_r_feet
+  rotate: true
+  xy: 250, 241
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+dragon_circle_effect_w_l_wing
+  rotate: false
+  xy: 1517, 80
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1
+dragon_circle_child_eye
+  rotate: false
+  xy: 1115, 202
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+dragon_circle_baby_f_r_arm1
+  rotate: false
+  xy: 977, 129
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+dragon_circle_effect_b_l_wing
+  rotate: true
+  xy: 991, 59
+  size: 86, 47
+  orig: 86, 47
+  offset: 0, 0
+  index: -1
+dragon_circle_child_tail1
+  rotate: false
+  xy: 1564, 158
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+dragon_circle_effect_w_r_wing
+  rotate: false
+  xy: 1517, 2
+  size: 90, 76
+  orig: 90, 76
+  offset: 0, 0
+  index: -1
+dragon_circle_adult_r_ leg2
+  rotate: false
+  xy: 1441, 133
+  size: 23, 50
+  orig: 23, 50
+  offset: 0, 0
+  index: -1
+dragon_circle_child_face_add
+  rotate: false
+  xy: 458, 226
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+dragon_circle_effect_b_r_wing
+  rotate: false
+  xy: 510, 171
+  size: 86, 47
+  orig: 86, 47
+  offset: 0, 0
+  index: -1
+dragon_circle_child_tail2
+  rotate: false
+  xy: 897, 172
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+dragon_circle_effect_light2
+  rotate: false
+  xy: 1042, 2
+  size: 209, 198
+  orig: 209, 198
+  offset: 0, 0
+  index: -1
+dragon_circle_baby_r_leg1
+  rotate: true
+  xy: 1221, 224
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+dragon_circle_baby_love_eye
+  rotate: false
+  xy: 424, 226
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+dragon_circle_effect_s_light3
+  rotate: false
+  xy: 1196, 221
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_circle_adult_f_l_feet
+  rotate: false
+  xy: 843, 217
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+dragon_circle_adult_l_leg3
+  rotate: true
+  xy: 683, 194
+  size: 21, 51
+  orig: 21, 51
+  offset: 0, 0
+  index: -1
+dragon_circle_baby_face
+  rotate: false
+  xy: 736, 147
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+dragon_circle_child_r_arm1
+  rotate: true
+  xy: 1079, 202
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+dragon_circle_baby_mouth
+  rotate: false
+  xy: 1140, 227
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+dragon_circle_effect_light6
+  rotate: false
+  xy: 2, 2
+  size: 246, 251
+  orig: 246, 251
+  offset: 0, 0
+  index: -1
+dragon_circle_adult_angry_eye
+  rotate: false
+  xy: 1115, 225
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+dragon_circle_baby_eye
+  rotate: false
+  xy: 1042, 229
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+dragon_circle_effect_e01
+  rotate: false
+  xy: 646, 2
+  size: 394, 55
+  orig: 394, 311
+  offset: 0, 143
+  index: -1
+dragon_circle_adult_eye
+  rotate: false
+  xy: 1480, 222
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+dragon_circle_effect_s_light4
+  rotate: false
+  xy: 1578, 197
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+dragon_circle_baby_heart
+  rotate: false
+  xy: 598, 171
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_circle_effect_e02
+  rotate: false
+  xy: 250, 59
+  size: 394, 55
+  orig: 394, 311
+  offset: 0, 143
+  index: -1
+dragon_circle_effect_s_light
+  rotate: false
+  xy: 1011, 212
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+dragon_circle_adult_b_l_feet
+  rotate: false
+  xy: 1042, 202
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+dragon_circle_adult_f_r_feet
+  rotate: false
+  xy: 556, 220
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+dragon_circle_adult_body
+  rotate: false
+  xy: 424, 171
+  size: 84, 53
+  orig: 84, 53
+  offset: 0, 0
+  index: -1
+dragon_circle_child_mouth
+  rotate: false
+  xy: 646, 194
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+dragon_circle_adult_breast
+  rotate: false
+  xy: 347, 171
+  size: 75, 74
+  orig: 75, 74
+  offset: 0, 0
+  index: -1
+dragon_circle_child_face
+  rotate: false
+  xy: 1253, 197
+  size: 68, 56
+  orig: 68, 56
+  offset: 0, 0
+  index: -1
+dragon_circle_baby_tail
+  rotate: true
+  xy: 1550, 200
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+dragon_circle_adult_r_wing
+  rotate: true
+  xy: 1377, 2
+  size: 83, 138
+  orig: 83, 138
+  offset: 0, 0
+  index: -1
+dragon_circle_adult_face_add1_add1
+  rotate: true
+  xy: 1413, 133
+  size: 62, 26
+  orig: 62, 26
+  offset: 0, 0
+  index: -1
+dragon_circle_baby_wing
+  rotate: true
+  xy: 1233, 202
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+dragon_circle_child_r_wing
+  rotate: false
+  xy: 598, 212
+  size: 83, 41
+  orig: 83, 41
+  offset: 0, 0
+  index: -1
+dragon_circle_child_f_r_feet
+  rotate: false
+  xy: 1550, 240
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+dragon_circle_effect_l_wing
+  rotate: true
+  xy: 894, 59
+  size: 68, 95
+  orig: 68, 95
+  offset: 0, 0
+  index: -1
+dragon_circle_child_l_arm1
+  rotate: false
+  xy: 953, 206
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+dragon_circle_effect_w_l_wing2
+  rotate: true
+  xy: 1377, 87
+  size: 44, 88
+  orig: 44, 88
+  offset: 0, 0
+  index: -1
+dragon_circle_child_tail_add
+  rotate: false
+  xy: 1446, 185
+  size: 56, 35
+  orig: 56, 35
+  offset: 0, 0
+  index: -1
+dragon_circle_adult_heart
+  rotate: false
+  xy: 598, 171
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_circle_adult_l_wing
+  rotate: false
+  xy: 646, 59
+  size: 135, 86
+  orig: 135, 86
+  offset: 0, 0
+  index: -1
+dragon_circle_adult_r_arm1
+  rotate: false
+  xy: 737, 214
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+dragon_circle_child_body
+  rotate: false
+  xy: 1391, 197
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+dragon_circle_adult_b_r_feet
+  rotate: false
+  xy: 1578, 228
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+dragon_circle_effect_w_r_wing2
+  rotate: true
+  xy: 646, 147
+  size: 45, 88
+  orig: 45, 88
+  offset: 0, 0
+  index: -1
+dragon_circle_adult_eye3
+  rotate: false
+  xy: 1171, 221
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+dragon_circle_effect_s_light5
+  rotate: true
+  xy: 775, 217
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+dragon_circle_adult_l_arm1
+  rotate: false
+  xy: 1350, 133
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+dragon_circle_adult_face_add1_add2
+  rotate: true
+  xy: 934, 206
+  size: 47, 17
+  orig: 47, 17
+  offset: 0, 0
+  index: -1
+dragon_circle_effect_e03
+  rotate: false
+  xy: 250, 2
+  size: 394, 55
+  orig: 394, 311
+  offset: 0, 143
+  index: -1
+dragon_circle_baby_f_r_arm2
+  rotate: true
+  xy: 671, 194
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+dragon_circle_child_heart
+  rotate: false
+  xy: 598, 171
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_circle_child_l_arm2
+  rotate: false
+  xy: 812, 217
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+dragon_circle_child_l_foot
+  rotate: false
+  xy: 1202, 202
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+dragon_circle_child_f_l_feet
+  rotate: false
+  xy: 269, 241
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+dragon_circle_baby_body
+  rotate: false
+  xy: 683, 217
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+dragon_circle_adult_r_leg1
+  rotate: true
+  xy: 839, 178
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+dragon_circle_child_r_leg1
+  rotate: true
+  xy: 1446, 222
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+dragon_circle_adult_r_arm2
+  rotate: true
+  xy: 1512, 158
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+dragon_circle_child_neck
+  rotate: false
+  xy: 1504, 200
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+dragon_circle_adult_mouth
+  rotate: true
+  xy: 959, 172
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+dragon_circle_adult_face
+  rotate: false
+  xy: 1323, 197
+  size: 66, 56
+  orig: 82, 56
+  offset: 0, 0
+  index: -1

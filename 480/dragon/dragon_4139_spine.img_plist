@@ -1,0 +1,858 @@
+dragon_4139_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_taros_child_eye2
+  rotate: true
+  xy: 1403, 1006
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_mouth2
+  rotate: true
+  xy: 1005, 966
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+dragon_taros_critical_ring3
+  rotate: false
+  xy: 2, 2
+  size: 311, 339
+  orig: 347, 357
+  offset: 21, 18
+  index: -1
+dragon_taros_baby_eye3
+  rotate: true
+  xy: 415, 562
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_e_body1
+  rotate: false
+  xy: 1071, 974
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+dragon_taros_critical_dop3
+  rotate: false
+  xy: 1592, 729
+  size: 124, 101
+  orig: 124, 101
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_e_r_hand
+  rotate: false
+  xy: 640, 915
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_eye2
+  rotate: false
+  xy: 1021, 1006
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_tail
+  rotate: false
+  xy: 1409, 571
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_e_e1
+  rotate: true
+  xy: 1197, 447
+  size: 161, 207
+  orig: 161, 211
+  offset: 0, 0
+  index: -1
+dragon_taros_effect13
+  rotate: true
+  xy: 949, 2
+  size: 246, 266
+  orig: 246, 266
+  offset: 0, 0
+  index: -1
+dragon_taros_child_r_arm2
+  rotate: true
+  xy: 891, 981
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_body2
+  rotate: true
+  xy: 1327, 610
+  size: 146, 80
+  orig: 146, 80
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_e_body5
+  rotate: true
+  xy: 788, 579
+  size: 164, 65
+  orig: 164, 65
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_e_ring1_a
+  rotate: false
+  xy: 631, 2
+  size: 316, 249
+  orig: 316, 313
+  offset: 0, 55
+  index: -1
+dragon_taros_critical_cri2
+  rotate: true
+  xy: 247, 659
+  size: 253, 91
+  orig: 255, 93
+  offset: 1, 1
+  index: -1
+dragon_taros_critical_do3
+  rotate: true
+  xy: 1496, 773
+  size: 106, 83
+  orig: 106, 85
+  offset: 0, 1
+  index: -1
+dragon_taros_e_adult_haed_light
+  rotate: true
+  xy: 1190, 901
+  size: 43, 54
+  orig: 63, 66
+  offset: 2, 0
+  index: -1
+dragon_taros_critical_ground4
+  rotate: false
+  xy: 1581, 832
+  size: 114, 44
+  orig: 116, 52
+  offset: 2, 8
+  index: -1
+dragon_taros_child_mout2
+  rotate: false
+  xy: 1669, 953
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+dragon_taros_baby_tail
+  rotate: true
+  xy: 486, 911
+  size: 107, 56
+  orig: 107, 56
+  offset: 0, 0
+  index: -1
+dragon_taros_child_l_arm2
+  rotate: false
+  xy: 937, 966
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+dragon_taros_cri_w5
+  rotate: true
+  xy: 340, 822
+  size: 87, 175
+  orig: 103, 175
+  offset: 0, 0
+  index: -1
+dragon_e_taros_cri_w1
+  rotate: false
+  xy: 1242, 250
+  size: 230, 195
+  orig: 300, 225
+  offset: 31, 19
+  index: -1
+dragon_taros_baby_eye2
+  rotate: false
+  xy: 1697, 863
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_e_r_arm1
+  rotate: true
+  xy: 1697, 832
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+dragon_taros_baby_barm1
+  rotate: true
+  xy: 1686, 126
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+dragon_love_effect_note1
+  rotate: false
+  xy: 1686, 86
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_taros_e_effect17
+  rotate: false
+  xy: 950, 598
+  size: 222, 77
+  orig: 224, 77
+  offset: 0, 0
+  index: -1
+dragon_taros_critical_dopp2
+  rotate: false
+  xy: 977, 250
+  size: 263, 175
+  orig: 265, 177
+  offset: 1, 1
+  index: -1
+dragon_taros_child_eye3
+  rotate: true
+  xy: 1005, 1006
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+dragon_4139_weapon_w_partSkin01
+  rotate: true
+  xy: 590, 953
+  size: 68, 48
+  orig: 68, 48
+  offset: 0, 0
+  index: -1
+dragon_taros_critical_crimom
+  rotate: true
+  xy: 950, 756
+  size: 137, 156
+  orig: 137, 156
+  offset: 0, 0
+  index: -1
+dragon_taros_baby_barm2
+  rotate: false
+  xy: 796, 929
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+dragon_taros_cri_w1
+  rotate: true
+  xy: 415, 336
+  size: 224, 188
+  orig: 224, 188
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_e_body4
+  rotate: true
+  xy: 1246, 755
+  size: 174, 58
+  orig: 174, 58
+  offset: 0, 0
+  index: -1
+dragon_taros_child_body3
+  rotate: false
+  xy: 1409, 714
+  size: 181, 57
+  orig: 181, 57
+  offset: 0, 0
+  index: -1
+dragon_taros_baby_body
+  rotate: true
+  xy: 573, 822
+  size: 91, 96
+  orig: 91, 96
+  offset: 0, 0
+  index: -1
+dragon_taros_child_tail
+  rotate: false
+  xy: 544, 931
+  size: 44, 90
+  orig: 44, 90
+  offset: 0, 0
+  index: -1
+dragon_taros_critical_do2
+  rotate: true
+  xy: 1033, 895
+  size: 77, 73
+  orig: 77, 73
+  offset: 0, 0
+  index: -1
+dragon_taros_critical_mouth
+  rotate: false
+  xy: 1505, 943
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_eye3
+  rotate: false
+  xy: 1571, 943
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_mouth
+  rotate: false
+  xy: 1505, 943
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+dragon_taros_critical_ring1
+  rotate: true
+  xy: 2, 343
+  size: 314, 299
+  orig: 316, 303
+  offset: 1, 1
+  index: -1
+dragon_taros_baby_arm1
+  rotate: false
+  xy: 1105, 974
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+dragon_taros_cri_w4
+  rotate: false
+  xy: 604, 579
+  size: 182, 167
+  orig: 182, 167
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_l_arm2
+  rotate: true
+  xy: 1686, 2
+  size: 82, 29
+  orig: 82, 29
+  offset: 0, 0
+  index: -1
+dragon_e_taros_cri_w2
+  rotate: true
+  xy: 1485, 2
+  size: 266, 199
+  orig: 300, 225
+  offset: 4, 26
+  index: -1
+dragon_4139_weapon_partSkin01
+  rotate: false
+  xy: 2, 659
+  size: 243, 284
+  orig: 243, 284
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_body1
+  rotate: false
+  xy: 843, 422
+  size: 118, 153
+  orig: 118, 153
+  offset: 0, 0
+  index: -1
+dragon_taros_critical_dop1
+  rotate: false
+  xy: 950, 895
+  size: 81, 69
+  orig: 81, 69
+  offset: 0, 0
+  index: -1
+dragon_taros_effect17
+  rotate: false
+  xy: 950, 677
+  size: 222, 77
+  orig: 224, 77
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_e_mouth
+  rotate: false
+  xy: 590, 915
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+dragon_taros_baby_mouth2
+  rotate: false
+  xy: 750, 925
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+dragon_taros_critical_cri3
+  rotate: false
+  xy: 631, 253
+  size: 344, 167
+  orig: 346, 167
+  offset: 1, 0
+  index: -1
+dragon_taros_adult_head
+  rotate: true
+  xy: 1108, 901
+  size: 70, 80
+  orig: 70, 80
+  offset: 0, 0
+  index: -1
+dragon_4139_head_w2_partSkin01
+  rotate: false
+  xy: 401, 911
+  size: 83, 109
+  orig: 83, 109
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_l_hand
+  rotate: true
+  xy: 891, 937
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+dragon_taros_e_adult_body_light1
+  rotate: true
+  xy: 517, 822
+  size: 87, 54
+  orig: 91, 60
+  offset: 1, 6
+  index: -1
+dragon_taros_child_body2
+  rotate: true
+  xy: 1406, 447
+  size: 122, 66
+  orig: 122, 66
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_e_l_arm2
+  rotate: false
+  xy: 640, 964
+  size: 32, 8
+  orig: 32, 8
+  offset: 0, 0
+  index: -1
+dragon_4139_head_w_partSkin01
+  rotate: false
+  xy: 1190, 946
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_e_r_arm2
+  rotate: false
+  xy: 544, 915
+  size: 39, 14
+  orig: 39, 14
+  offset: 0, 0
+  index: -1
+dragon_taros_child_r_arm1
+  rotate: true
+  xy: 836, 929
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_r_arm1
+  rotate: false
+  xy: 1669, 987
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_eye4
+  rotate: true
+  xy: 1560, 943
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+dragon_taros_critical_effect15
+  rotate: true
+  xy: 303, 343
+  size: 242, 110
+  orig: 242, 110
+  offset: 0, 0
+  index: -1
+dragon_taros_e_critical_effect16
+  rotate: true
+  xy: 340, 587
+  size: 233, 95
+  orig: 233, 95
+  offset: 0, 0
+  index: -1
+dragon_taros_e_effect13
+  rotate: true
+  xy: 1217, 2
+  size: 246, 266
+  orig: 246, 266
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_e_neck
+  rotate: true
+  xy: 1174, 610
+  size: 143, 151
+  orig: 143, 151
+  offset: 0, 0
+  index: -1
+dragon_taros_critical_ground3
+  rotate: true
+  xy: 764, 822
+  size: 101, 42
+  orig: 103, 44
+  offset: 0, 0
+  index: -1
+dragon_taros_e_critical_effect15
+  rotate: false
+  xy: 1474, 443
+  size: 242, 110
+  orig: 242, 110
+  offset: 0, 0
+  index: -1
+dragon_taros_e_adult_neck_light
+  rotate: true
+  xy: 1590, 878
+  size: 73, 99
+  orig: 143, 151
+  offset: 19, 10
+  index: -1
+dragon_4139_shoes_r_partSkin01
+  rotate: false
+  xy: 683, 964
+  size: 74, 46
+  orig: 74, 46
+  offset: 0, 0
+  index: -1
+dragon_taros_cri_w7
+  rotate: false
+  xy: 1306, 758
+  size: 58, 169
+  orig: 72, 169
+  offset: 0, 0
+  index: -1
+dragon_taros_child_l_arm1
+  rotate: false
+  xy: 910, 878
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+dragon_taros_child_r_hand
+  rotate: false
+  xy: 804, 981
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_neck
+  rotate: true
+  xy: 814, 748
+  size: 128, 134
+  orig: 128, 134
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_r_arm2
+  rotate: true
+  xy: 605, 336
+  size: 59, 24
+  orig: 59, 24
+  offset: 0, 0
+  index: -1
+dragon_taros_critical_effect16
+  rotate: true
+  xy: 437, 562
+  size: 233, 95
+  orig: 233, 95
+  offset: 0, 0
+  index: -1
+dragon_taros_e_adult_haed_light2
+  rotate: false
+  xy: 1366, 888
+  size: 140, 48
+  orig: 174, 58
+  offset: 0, 3
+  index: -1
+dragon_taros_critical_do1
+  rotate: false
+  xy: 671, 910
+  size: 77, 52
+  orig: 77, 52
+  offset: 0, 0
+  index: -1
+dragon_taros_baby_neck
+  rotate: false
+  xy: 534, 789
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+dragon_taros_e_adult_head
+  rotate: true
+  xy: 1327, 938
+  size: 70, 74
+  orig: 70, 80
+  offset: 0, 0
+  index: -1
+dragon_taros_child_l_hand
+  rotate: false
+  xy: 1031, 974
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+dragon_taros_cri_w3
+  rotate: false
+  xy: 963, 427
+  size: 232, 169
+  orig: 232, 169
+  offset: 0, 0
+  index: -1
+dragon_taros_child_mouth
+  rotate: true
+  xy: 759, 962
+  size: 53, 43
+  orig: 53, 43
+  offset: 0, 0
+  index: -1
+dragon_taros_effect15
+  rotate: true
+  xy: 303, 343
+  size: 242, 110
+  orig: 242, 110
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_r_hand
+  rotate: false
+  xy: 1560, 953
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_body4
+  rotate: false
+  xy: 2, 945
+  size: 228, 76
+  orig: 228, 76
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_e_body3
+  rotate: false
+  xy: 1508, 881
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+dragon_taros_effect18
+  rotate: true
+  xy: 534, 562
+  size: 225, 68
+  orig: 225, 68
+  offset: 0, 0
+  index: -1
+dragon_taros_critical_mouth2
+  rotate: true
+  xy: 1005, 966
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+dragon_taros_critical_ground2
+  rotate: true
+  xy: 303, 587
+  size: 66, 35
+  orig: 68, 37
+  offset: 1, 0
+  index: -1
+dragon_taros_cri_w6
+  rotate: false
+  xy: 855, 577
+  size: 93, 169
+  orig: 107, 169
+  offset: 0, 0
+  index: -1
+dragon_taros_critical_ring2
+  rotate: false
+  xy: 315, 2
+  size: 314, 332
+  orig: 332, 340
+  offset: 10, 4
+  index: -1
+dragon_taros_child_body1
+  rotate: false
+  xy: 1108, 756
+  size: 136, 143
+  orig: 136, 143
+  offset: 0, 0
+  index: -1
+dragon_4139_weapon_w2_partSkin01
+  rotate: false
+  xy: 247, 914
+  size: 152, 107
+  orig: 152, 107
+  offset: 0, 0
+  index: -1
+dragon_taros_critical_cri1
+  rotate: false
+  xy: 1474, 555
+  size: 237, 87
+  orig: 239, 87
+  offset: 1, 0
+  index: -1
+dragon_taros_critical_dop2
+  rotate: false
+  xy: 671, 822
+  size: 91, 86
+  orig: 91, 86
+  offset: 0, 0
+  index: -1
+dragon_taros_e_critical_effect17
+  rotate: false
+  xy: 950, 598
+  size: 222, 77
+  orig: 224, 77
+  offset: 0, 0
+  index: -1
+dragon_taros_child_haed
+  rotate: false
+  xy: 1636, 644
+  size: 80, 83
+  orig: 80, 83
+  offset: 0, 0
+  index: -1
+dragon_taros_cri_w2
+  rotate: false
+  xy: 1474, 270
+  size: 242, 171
+  orig: 242, 171
+  offset: 0, 0
+  index: -1
+dragon_taros_critical_head
+  rotate: true
+  xy: 1108, 901
+  size: 70, 80
+  orig: 70, 80
+  offset: 0, 0
+  index: -1
+dragon_taros_e_effect18
+  rotate: false
+  xy: 1409, 644
+  size: 225, 68
+  orig: 225, 68
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_e_body2
+  rotate: false
+  xy: 640, 974
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_l_arm1
+  rotate: false
+  xy: 971, 966
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+dragon_taros_critical_dopp1
+  rotate: false
+  xy: 605, 422
+  size: 236, 155
+  orig: 236, 155
+  offset: 0, 0
+  index: -1
+dragon_taros_critical_effect17
+  rotate: false
+  xy: 950, 677
+  size: 222, 77
+  orig: 224, 77
+  offset: 0, 0
+  index: -1
+dragon_taros_e_adult_haed_light3
+  rotate: false
+  xy: 808, 878
+  size: 100, 49
+  orig: 164, 65
+  offset: 25, 8
+  index: -1
+dragon_taros_baby_head
+  rotate: false
+  xy: 1259, 931
+  size: 66, 77
+  orig: 66, 77
+  offset: 0, 0
+  index: -1
+dragon_taros_baby_mouth
+  rotate: false
+  xy: 1615, 953
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_e_l_hand
+  rotate: false
+  xy: 1686, 200
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+dragon_4139_head_partSkin01
+  rotate: false
+  xy: 1366, 773
+  size: 128, 113
+  orig: 128, 113
+  offset: 0, 0
+  index: -1
+dragon_taros_critical_ground1
+  rotate: true
+  xy: 1686, 155
+  size: 43, 29
+  orig: 47, 37
+  offset: 1, 2
+  index: -1
+dragon_taros_baby_arm2
+  rotate: false
+  xy: 848, 976
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+dragon_4139_tail_partSkin01
+  rotate: true
+  xy: 1468, 938
+  size: 65, 35
+  orig: 65, 35
+  offset: 0, 0
+  index: -1
+dragon_taros_critical_neck
+  rotate: true
+  xy: 814, 748
+  size: 128, 134
+  orig: 128, 134
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_e_head
+  rotate: false
+  xy: 1403, 938
+  size: 63, 66
+  orig: 63, 66
+  offset: 0, 0
+  index: -1
+dragon_taros_adult_body3
+  rotate: false
+  xy: 604, 748
+  size: 208, 72
+  orig: 208, 72
+  offset: 0, 0
+  index: -1
+dragon_4139_shoes_l_partSkin01
+  rotate: false
+  xy: 683, 964
+  size: 74, 46
+  orig: 74, 46
+  offset: 0, 0
+  index: -1
+dragon_taros_e_effect15
+  rotate: false
+  xy: 1474, 443
+  size: 242, 110
+  orig: 242, 110
+  offset: 0, 0
+  index: -1

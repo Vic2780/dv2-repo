@@ -1,0 +1,585 @@
+dragon_4119_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_beastroar_baby_mouth
+  rotate: true
+  xy: 1601, 24
+  size: 51, 25
+  orig: 51, 25
+  offset: 0, 0
+  index: -1
+dragon_beastroar_critical_bowl3
+  rotate: false
+  xy: 449, 2
+  size: 150, 155
+  orig: 150, 155
+  offset: 0, 0
+  index: -1
+dragon_beastroar_child_l_foot
+  rotate: false
+  xy: 1477, 180
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+dragon_beastroar_adult_eye2
+  rotate: true
+  xy: 1716, 24
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+dragon_beastroar_child_l_arm2
+  rotate: true
+  xy: 1473, 77
+  size: 29, 57
+  orig: 29, 57
+  offset: 0, 0
+  index: -1
+dragon_beastroar_critical_light4
+  rotate: false
+  xy: 1203, 203
+  size: 270, 13
+  orig: 270, 13
+  offset: 0, 0
+  index: -1
+dragon_beastroar_child_r_arm
+  rotate: false
+  xy: 1551, 168
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+dragon_beastroar_adult_r_leg
+  rotate: false
+  xy: 1526, 24
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+dragon_beastroar_child_l_leg
+  rotate: false
+  xy: 1646, 162
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+dragon_beastroar_child_r_foot
+  rotate: true
+  xy: 1607, 77
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+dragon_beastroar_child_tail
+  rotate: false
+  xy: 640, 153
+  size: 55, 63
+  orig: 55, 63
+  offset: 0, 0
+  index: -1
+dragon_beastroar_adult_r_ear
+  rotate: false
+  xy: 1707, 194
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_beastroar_adult_tail
+  rotate: false
+  xy: 894, 148
+  size: 113, 68
+  orig: 113, 68
+  offset: 0, 0
+  index: -1
+dragon_beastroar_child_r_arm2
+  rotate: false
+  xy: 779, 152
+  size: 37, 62
+  orig: 37, 62
+  offset: 0, 0
+  index: -1
+dragon_beastroar_child_mouth
+  rotate: false
+  xy: 1350, 2
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+dragon_beastroar_critical_l_scratch4
+  rotate: true
+  xy: 601, 2
+  size: 149, 143
+  orig: 149, 143
+  offset: 0, 0
+  index: -1
+dragon_beastroar_adult_r_leg4
+  rotate: false
+  xy: 1679, 82
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dragon_beastroar_baby_eye
+  rotate: false
+  xy: 1080, 192
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+dragon_beastroar_adult_r_foot
+  rotate: true
+  xy: 1580, 168
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+dragon_beastroar_adult_r_arm2
+  rotate: false
+  xy: 1412, 77
+  size: 59, 29
+  orig: 59, 29
+  offset: 0, 0
+  index: -1
+dragon_beastroar_child_body
+  rotate: false
+  xy: 1276, 109
+  size: 45, 83
+  orig: 45, 83
+  offset: 0, 0
+  index: -1
+dragon_beastroar_child_eye2
+  rotate: true
+  xy: 1646, 199
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+dragon_beastroar_baby_f_l_foot
+  rotate: false
+  xy: 1367, 186
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+dragon_beastroar_critical_bowl4
+  rotate: true
+  xy: 891, 2
+  size: 144, 141
+  orig: 150, 155
+  offset: 4, 7
+  index: -1
+dragon_beastroar_baby_f_r_foot
+  rotate: false
+  xy: 1345, 186
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+dragon_beastroar_adult_love_eye
+  rotate: true
+  xy: 1262, 109
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+dragon_beastroar_baby_r_leg
+  rotate: false
+  xy: 1684, 116
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_beastroar_child_neck
+  rotate: false
+  xy: 1597, 108
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+dragon_beastroar_critical_r_scratch4
+  rotate: true
+  xy: 746, 2
+  size: 148, 143
+  orig: 148, 143
+  offset: 0, 0
+  index: -1
+dragon_beastroar_child_l_arm
+  rotate: false
+  xy: 1374, 36
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+dragon_beastroar_adult_l_arm2
+  rotate: true
+  xy: 1566, 24
+  size: 51, 33
+  orig: 51, 33
+  offset: 0, 0
+  index: -1
+dragon_beastroar_baby_f_r_leg
+  rotate: true
+  xy: 1440, 182
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+dragon_beastroar_adult_l_leg4
+  rotate: false
+  xy: 1516, 178
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+dragon_beastroar_critical_bowl1
+  rotate: true
+  xy: 1009, 148
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+dragon_beastroar_adult_l_foot
+  rotate: false
+  xy: 1682, 58
+  size: 41, 22
+  orig: 41, 22
+  offset: 0, 0
+  index: -1
+dragon_beastroar_critical_bowl6
+  rotate: false
+  xy: 219, 2
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+dragon_beastroar_critical_light1
+  rotate: true
+  xy: 1034, 2
+  size: 118, 11
+  orig: 164, 11
+  offset: 46, 0
+  index: -1
+dragon_beastroar_adult_eye
+  rotate: true
+  xy: 1510, 168
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+dragon_beastroar_critical_bowl5
+  rotate: true
+  xy: 2, 2
+  size: 214, 215
+  orig: 214, 215
+  offset: 0, 0
+  index: -1
+dragon_beastroar_baby_l_leg
+  rotate: false
+  xy: 1684, 144
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_beastroar_adult_love
+  rotate: false
+  xy: 1679, 172
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_beastroar_adult_l_leg
+  rotate: false
+  xy: 1564, 108
+  size: 31, 58
+  orig: 31, 58
+  offset: 0, 0
+  index: -1
+dragon_beastroar_adult_eye4
+  rotate: false
+  xy: 1334, 24
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+dragon_beastroar_adult_l_ear
+  rotate: true
+  xy: 1707, 172
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+dragon_beastroar_baby_tail
+  rotate: true
+  xy: 1374, 81
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+dragon_beastroar_critical_l_scratch1
+  rotate: false
+  xy: 579, 159
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+dragon_beastroar_baby_l_ear
+  rotate: true
+  xy: 1571, 77
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+dragon_beastroar_adult_r_hand
+  rotate: false
+  xy: 1605, 162
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+dragon_beastroar_adult_r_arm
+  rotate: false
+  xy: 1334, 36
+  size: 38, 70
+  orig: 38, 70
+  offset: 0, 0
+  index: -1
+dragon_beastroar_critical_l_scratch2
+  rotate: false
+  xy: 1203, 118
+  size: 71, 83
+  orig: 71, 83
+  offset: 0, 0
+  index: -1
+dragon_beastroar_adult_l_leg3
+  rotate: true
+  xy: 1306, 2
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+dragon_beastroar_critical_light2
+  rotate: true
+  xy: 433, 2
+  size: 196, 14
+  orig: 242, 14
+  offset: 0, 0
+  index: -1
+dragon_beastroar_critical_r_scratch1
+  rotate: false
+  xy: 518, 159
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+dragon_beastroar_child_r_ear
+  rotate: true
+  xy: 1643, 76
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+dragon_beastroar_adult_r_leg2
+  rotate: false
+  xy: 1682, 21
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+dragon_beastroar_adult_mouth
+  rotate: true
+  xy: 1080, 148
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+dragon_beastroar_baby_body
+  rotate: true
+  xy: 1628, 24
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+dragon_beastroar_baby_l_foot
+  rotate: false
+  xy: 1323, 186
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+dragon_beastroar_critical_r_scratch2
+  rotate: false
+  xy: 1262, 24
+  size: 70, 83
+  orig: 70, 83
+  offset: 0, 0
+  index: -1
+dragon_beastroar_baby_face
+  rotate: false
+  xy: 697, 153
+  size: 80, 62
+  orig: 80, 62
+  offset: 0, 0
+  index: -1
+dragon_beastroar_adult_l_hand
+  rotate: false
+  xy: 1474, 24
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+dragon_beastroar_baby_r_ear
+  rotate: false
+  xy: 1034, 122
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+dragon_beastroar_critical_bowl2
+  rotate: false
+  xy: 1108, 118
+  size: 93, 93
+  orig: 93, 95
+  offset: 0, 2
+  index: -1
+dragon_beastroar_adult_chest
+  rotate: false
+  xy: 1399, 2
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+dragon_beastroar_child_face
+  rotate: true
+  xy: 1323, 109
+  size: 75, 74
+  orig: 75, 74
+  offset: 0, 0
+  index: -1
+dragon_beastroar_adult_l_leg2
+  rotate: true
+  xy: 1532, 77
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+dragon_beastroar_baby_eye2
+  rotate: false
+  xy: 1651, 135
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+dragon_beastroar_adult_waist
+  rotate: true
+  xy: 818, 152
+  size: 61, 74
+  orig: 61, 74
+  offset: 0, 0
+  index: -1
+dragon_beastroar_critical_l_scratch3
+  rotate: false
+  xy: 1047, 2
+  size: 106, 114
+  orig: 106, 114
+  offset: 0, 0
+  index: -1
+dragon_beastroar_child_l_ear
+  rotate: false
+  xy: 1651, 106
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+dragon_beastroar_adult_eye3
+  rotate: false
+  xy: 1389, 186
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+dragon_beastroar_baby_r_foot
+  rotate: true
+  xy: 1716, 2
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+dragon_beastroar_critical_light3
+  rotate: false
+  xy: 1475, 2
+  size: 239, 17
+  orig: 263, 17
+  offset: 4, 0
+  index: -1
+dragon_beastroar_child_eye
+  rotate: true
+  xy: 433, 200
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+dragon_beastroar_adult_face
+  rotate: false
+  xy: 1510, 108
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+dragon_beastroar_adult_l_arm
+  rotate: false
+  xy: 1470, 108
+  size: 38, 70
+  orig: 38, 70
+  offset: 0, 0
+  index: -1
+dragon_beastroar_child_r_leg
+  rotate: true
+  xy: 1062, 118
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+dragon_beastroar_child_smile
+  rotate: true
+  xy: 456, 159
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_beastroar_adult_r_leg3
+  rotate: true
+  xy: 1262, 2
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+dragon_beastroar_baby_smile
+  rotate: true
+  xy: 456, 159
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_beastroar_baby_f_l_leg
+  rotate: true
+  xy: 1403, 182
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+dragon_beastroar_critical_r_scratch3
+  rotate: false
+  xy: 1155, 2
+  size: 105, 114
+  orig: 105, 114
+  offset: 0, 0
+  index: -1
+dragon_beastroar_adult_neck
+  rotate: true
+  xy: 1399, 109
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: -1

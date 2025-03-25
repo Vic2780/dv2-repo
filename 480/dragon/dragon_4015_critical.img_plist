@@ -7,7 +7,7 @@
             <key>dragon/dragon_4015_critical/critical.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,116},{284,256}}</string>
+                <string>{{526,153},{284,256}}</string>
                 <key>offset</key>
                 <string>{26,2}</string>
                 <key>rotated</key>
@@ -20,7 +20,59 @@
             <key>dragon/dragon_4015_critical/cut_in.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{576,112}}</string>
+                <string>{{812,267},{576,112}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{576,112}}</string>
+                <key>sourceSize</key>
+                <string>{576,112}</string>
+            </dict>
+            <key>dragon/dragon_4015_critical/e_critical.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{264,2},{384,260}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{384,260}}</string>
+                <key>sourceSize</key>
+                <string>{384,260}</string>
+            </dict>
+            <key>dragon/dragon_4015_critical/e_cut_in.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{526,2},{768,149}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{768,149}}</string>
+                <key>sourceSize</key>
+                <string>{768,149}</string>
+            </dict>
+            <key>dragon/dragon_4015_critical/s01_critical.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{384,260}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{384,260}}</string>
+                <key>sourceSize</key>
+                <string>{384,260}</string>
+            </dict>
+            <key>dragon/dragon_4015_critical/s01_cut_in.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{812,153},{576,112}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -38,9 +90,9 @@
             <key>realTextureFileName</key>
             <string>dragon_4015_critical.pvr.ccz</string>
             <key>size</key>
-            <string>{580,374}</string>
+            <string>{1416,411}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:496e07c0686bcf48ca24be05c1ea5ec9:9b150057037966a49acc270a3f1401b5:2a546c04504fb3b3b5d8a20587020e97$</string>
+            <string>$TexturePacker:SmartUpdate:b22a5e98481b8eac9a1974a7ac980a65:235ce8fd62c722932766b807556c3c9a:2a546c04504fb3b3b5d8a20587020e97$</string>
             <key>textureFileName</key>
             <string>dragon_4015_critical.pvr.ccz</string>
         </dict>

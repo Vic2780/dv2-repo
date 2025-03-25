@@ -1,0 +1,767 @@
+dragon_4198_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_indian_adult_arm_l1
+  rotate: false
+  xy: 705, 1377
+  size: 77, 64
+  orig: 77, 64
+  offset: 0, 0
+  index: -1
+dragon_indian_adult_arm_l2
+  rotate: true
+  xy: 1, 1405
+  size: 43, 65
+  orig: 43, 65
+  offset: 0, 0
+  index: -1
+dragon_indian_adult_arm_r1
+  rotate: false
+  xy: 498, 623
+  size: 79, 75
+  orig: 79, 75
+  offset: 0, 0
+  index: -1
+dragon_indian_adult_arm_r2
+  rotate: true
+  xy: 339, 1404
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+dragon_indian_adult_body
+  rotate: true
+  xy: 911, 242
+  size: 133, 95
+  orig: 133, 95
+  offset: 0, 0
+  index: -1
+dragon_indian_adult_foot1
+  rotate: true
+  xy: 397, 1398
+  size: 53, 70
+  orig: 53, 70
+  offset: 0, 0
+  index: -1
+dragon_indian_adult_foot2
+  rotate: true
+  xy: 784, 1377
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+dragon_indian_adult_hair2
+  rotate: false
+  xy: 651, 1018
+  size: 110, 123
+  orig: 110, 123
+  offset: 0, 0
+  index: -1
+dragon_indian_adult_hair3
+  rotate: false
+  xy: 651, 1280
+  size: 120, 95
+  orig: 120, 95
+  offset: 0, 0
+  index: -1
+dragon_indian_adult_head1
+  rotate: true
+  xy: 539, 1374
+  size: 77, 92
+  orig: 77, 92
+  offset: 0, 0
+  index: -1
+dragon_indian_adult_head2
+  rotate: false
+  xy: 908, 1365
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+dragon_indian_adult_head3
+  rotate: true
+  xy: 843, 1421
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+dragon_indian_adult_horn2
+  rotate: true
+  xy: 975, 1201
+  size: 18, 44
+  orig: 18, 44
+  offset: 0, 0
+  index: -1
+dragon_indian_adult_leg_l1
+  rotate: false
+  xy: 839, 1229
+  size: 63, 76
+  orig: 63, 76
+  offset: 0, 0
+  index: -1
+dragon_indian_adult_leg_l2
+  rotate: false
+  xy: 914, 1208
+  size: 59, 28
+  orig: 59, 28
+  offset: 0, 0
+  index: -1
+dragon_indian_adult_leg_r1
+  rotate: false
+  xy: 469, 1398
+  size: 68, 53
+  orig: 68, 53
+  offset: 0, 0
+  index: -1
+dragon_indian_adult_leg_r2
+  rotate: false
+  xy: 839, 1307
+  size: 64, 21
+  orig: 64, 21
+  offset: 0, 0
+  index: -1
+dragon_indian_adult_neck
+  rotate: false
+  xy: 933, 781
+  size: 85, 111
+  orig: 85, 111
+  offset: 0, 0
+  index: -1
+dragon_indian_adult_ring1
+  rotate: false
+  xy: 971, 1400
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+dragon_indian_adult_sidehair1
+  rotate: false
+  xy: 980, 987
+  size: 39, 71
+  orig: 39, 71
+  offset: 0, 0
+  index: -1
+dragon_indian_adult_sidehair2
+  rotate: true
+  xy: 68, 1405
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+dragon_indian_adult_sidehair3
+  rotate: false
+  xy: 498, 470
+  size: 12, 74
+  orig: 12, 74
+  offset: 0, 0
+  index: -1
+dragon_indian_adult_sidehair4
+  rotate: false
+  xy: 911, 377
+  size: 22, 78
+  orig: 22, 78
+  offset: 0, 0
+  index: -1
+dragon_indian_adult_tail1
+  rotate: true
+  xy: 651, 1143
+  size: 135, 93
+  orig: 135, 93
+  offset: 0, 0
+  index: -1
+dragon_indian_adult_wing1
+  rotate: false
+  xy: 595, 879
+  size: 179, 137
+  orig: 179, 137
+  offset: 0, 0
+  index: -1
+dragon_indian_adult_wing2
+  rotate: true
+  xy: 783, 807
+  size: 75, 148
+  orig: 75, 148
+  offset: 0, 0
+  index: -1
+dragon_indian_baby_arm_l1
+  rotate: true
+  xy: 935, 1113
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+dragon_indian_baby_arm_r
+  rotate: false
+  xy: 843, 1369
+  size: 15, 50
+  orig: 15, 50
+  offset: 0, 0
+  index: -1
+dragon_indian_baby_body
+  rotate: false
+  xy: 773, 1321
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+dragon_indian_baby_hat1
+  rotate: false
+  xy: 894, 987
+  size: 84, 69
+  orig: 84, 69
+  offset: 0, 0
+  index: -1
+dragon_indian_baby_head
+  rotate: false
+  xy: 914, 1140
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+dragon_indian_baby_head2
+  rotate: false
+  xy: 904, 1238
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+dragon_indian_baby_leg1
+  rotate: false
+  xy: 863, 1330
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+dragon_indian_baby_leg2
+  rotate: false
+  xy: 975, 1114
+  size: 44, 35
+  orig: 47, 35
+  offset: 3, 0
+  index: -1
+dragon_indian_baby_sidehair1
+  rotate: false
+  xy: 995, 1400
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+dragon_indian_baby_sidehair2
+  rotate: true
+  xy: 943, 1400
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+dragon_indian_baby_sidehair3
+  rotate: false
+  xy: 579, 651
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+dragon_indian_baby_sidehair4
+  rotate: false
+  xy: 945, 1365
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+dragon_indian_baby_tail
+  rotate: false
+  xy: 905, 1306
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+dragon_indian_baby_wing1
+  rotate: true
+  xy: 887, 1367
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+dragon_indian_baby_wing2
+  rotate: false
+  xy: 965, 1377
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+dragon_indian_child_arm_l1
+  rotate: false
+  xy: 132, 1405
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+dragon_indian_child_arm_l2
+  rotate: true
+  xy: 965, 1341
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+dragon_indian_child_arm_r1
+  rotate: true
+  xy: 935, 1058
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+dragon_indian_child_arm_r2
+  rotate: true
+  xy: 975, 1151
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+dragon_indian_child_body
+  rotate: false
+  xy: 194, 1404
+  size: 84, 47
+  orig: 84, 47
+  offset: 0, 0
+  index: -1
+dragon_indian_child_hair
+  rotate: false
+  xy: 633, 1377
+  size: 70, 74
+  orig: 70, 74
+  offset: 0, 0
+  index: -1
+dragon_indian_child_hat
+  rotate: true
+  xy: 860, 1369
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+dragon_indian_child_head
+  rotate: false
+  xy: 965, 1302
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+dragon_indian_child_head2
+  rotate: false
+  xy: 823, 1330
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+dragon_indian_child_horn1
+  rotate: false
+  xy: 746, 1242
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+dragon_indian_child_horn2
+  rotate: true
+  xy: 916, 1423
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+dragon_indian_child_leg_l1
+  rotate: false
+  xy: 882, 1423
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+dragon_indian_child_leg_r1
+  rotate: true
+  xy: 539, 971
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+dragon_indian_child_neck
+  rotate: false
+  xy: 965, 1238
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+dragon_indian_child_sidehair1
+  rotate: false
+  xy: 579, 623
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+dragon_indian_child_sidehair2
+  rotate: false
+  xy: 860, 1417
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+dragon_indian_child_sidehair3
+  rotate: true
+  xy: 975, 1221
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+dragon_indian_child_sidehair4
+  rotate: true
+  xy: 908, 1400
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+dragon_indian_child_tail1
+  rotate: false
+  xy: 979, 1060
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+dragon_indian_child_tail2
+  rotate: false
+  xy: 280, 1404
+  size: 57, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1
+dragon_indian_child_wing1_feather
+  rotate: true
+  xy: 936, 377
+  size: 114, 83
+  orig: 114, 83
+  offset: 0, 0
+  index: -1
+dragon_indian_child_wing2_feather
+  rotate: false
+  xy: 876, 1061
+  size: 57, 77
+  orig: 57, 77
+  offset: 0, 0
+  index: -1
+dragon_indian_e_arm_l1
+  rotate: true
+  xy: 773, 1242
+  size: 77, 64
+  orig: 77, 64
+  offset: 0, 0
+  index: -1
+dragon_indian_e_arm_l2
+  rotate: true
+  xy: 1, 1405
+  size: 43, 65
+  orig: 43, 65
+  offset: 0, 0
+  index: -1
+dragon_indian_e_arm_r1
+  rotate: true
+  xy: 837, 1148
+  size: 79, 75
+  orig: 79, 75
+  offset: 0, 0
+  index: -1
+dragon_indian_e_arm_r2
+  rotate: true
+  xy: 339, 1404
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+dragon_indian_e_body
+  rotate: false
+  xy: 776, 884
+  size: 133, 95
+  orig: 133, 95
+  offset: 0, 0
+  index: -1
+dragon_indian_e_foot1
+  rotate: true
+  xy: 397, 1398
+  size: 53, 70
+  orig: 53, 70
+  offset: 0, 0
+  index: -1
+dragon_indian_e_foot2
+  rotate: true
+  xy: 784, 1377
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+dragon_indian_e_hair2
+  rotate: false
+  xy: 651, 1018
+  size: 110, 123
+  orig: 110, 123
+  offset: 0, 0
+  index: -1
+dragon_indian_e_hair3
+  rotate: false
+  xy: 651, 1280
+  size: 120, 95
+  orig: 120, 95
+  offset: 0, 0
+  index: -1
+dragon_indian_e_head1
+  rotate: false
+  xy: 746, 1148
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+dragon_indian_e_head2
+  rotate: false
+  xy: 908, 1365
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+dragon_indian_e_head3
+  rotate: true
+  xy: 843, 1421
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+dragon_indian_e_horn2
+  rotate: true
+  xy: 975, 1201
+  size: 18, 44
+  orig: 18, 44
+  offset: 0, 0
+  index: -1
+dragon_indian_e_leg_l1
+  rotate: false
+  xy: 839, 1229
+  size: 63, 76
+  orig: 63, 76
+  offset: 0, 0
+  index: -1
+dragon_indian_e_leg_l2
+  rotate: false
+  xy: 914, 1208
+  size: 59, 28
+  orig: 59, 28
+  offset: 0, 0
+  index: -1
+dragon_indian_e_leg_r1
+  rotate: false
+  xy: 469, 1398
+  size: 68, 53
+  orig: 68, 53
+  offset: 0, 0
+  index: -1
+dragon_indian_e_leg_r2
+  rotate: false
+  xy: 839, 1307
+  size: 64, 21
+  orig: 64, 21
+  offset: 0, 0
+  index: -1
+dragon_indian_e_neck
+  rotate: true
+  xy: 763, 1061
+  size: 85, 111
+  orig: 85, 111
+  offset: 0, 0
+  index: -1
+dragon_indian_e_ring1
+  rotate: true
+  xy: 950, 1422
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+dragon_indian_e_sidehair1
+  rotate: false
+  xy: 980, 987
+  size: 39, 71
+  orig: 39, 71
+  offset: 0, 0
+  index: -1
+dragon_indian_e_sidehair2
+  rotate: true
+  xy: 68, 1405
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+dragon_indian_e_sidehair3
+  rotate: false
+  xy: 498, 470
+  size: 12, 74
+  orig: 12, 74
+  offset: 0, 0
+  index: -1
+dragon_indian_e_sidehair4
+  rotate: false
+  xy: 911, 377
+  size: 22, 78
+  orig: 22, 78
+  offset: 0, 0
+  index: -1
+dragon_indian_e_tail1
+  rotate: true
+  xy: 922, 644
+  size: 135, 93
+  orig: 135, 93
+  offset: 0, 0
+  index: -1
+dragon_indian_e_wing1
+  rotate: true
+  xy: 783, 623
+  size: 182, 137
+  orig: 182, 137
+  offset: 0, 0
+  index: -1
+dragon_indian_e_wing2
+  rotate: false
+  xy: 936, 493
+  size: 78, 149
+  orig: 78, 149
+  offset: 0, 0
+  index: -1
+dragon_xeronim_critical01
+  rotate: false
+  xy: 514, 1
+  size: 496, 239
+  orig: 496, 239
+  offset: 0, 0
+  index: -1
+dragon_xeronim_critical02
+  rotate: false
+  xy: 1, 1
+  size: 511, 233
+  orig: 511, 233
+  offset: 0, 0
+  index: -1
+dragon_xeronim_critical03
+  rotate: false
+  xy: 539, 1018
+  size: 110, 176
+  orig: 110, 176
+  offset: 0, 0
+  index: -1
+dragon_xeronim_critical04
+  rotate: false
+  xy: 595, 623
+  size: 186, 254
+  orig: 186, 259
+  offset: 0, 5
+  index: -1
+dragon_xeronim_critical05
+  rotate: false
+  xy: 514, 242
+  size: 395, 225
+  orig: 404, 262
+  offset: 9, 36
+  index: -1
+dragon_xeronim_critical06
+  rotate: true
+  xy: 385, 974
+  size: 422, 152
+  orig: 422, 152
+  offset: 0, 0
+  index: -1
+dragon_xeronim_critical07
+  rotate: true
+  xy: 1, 974
+  size: 429, 191
+  orig: 429, 191
+  offset: 0, 0
+  index: -1
+e_dragon_xeronim_critical01
+  rotate: false
+  xy: 1, 470
+  size: 495, 238
+  orig: 496, 239
+  offset: 1, 0
+  index: -1
+e_dragon_xeronim_critical02
+  rotate: false
+  xy: 1, 236
+  size: 511, 232
+  orig: 511, 233
+  offset: 0, 0
+  index: -1
+e_dragon_xeronim_critical03
+  rotate: false
+  xy: 539, 1196
+  size: 110, 176
+  orig: 110, 176
+  offset: 0, 0
+  index: -1
+e_dragon_xeronim_critical04
+  rotate: false
+  xy: 407, 710
+  size: 186, 259
+  orig: 186, 259
+  offset: 0, 0
+  index: -1
+e_dragon_xeronim_critical05
+  rotate: false
+  xy: 1, 710
+  size: 404, 262
+  orig: 404, 262
+  offset: 0, 0
+  index: -1
+e_dragon_xeronim_critical06
+  rotate: false
+  xy: 514, 469
+  size: 420, 152
+  orig: 422, 152
+  offset: 1, 0
+  index: -1
+e_dragon_xeronim_critical07
+  rotate: true
+  xy: 194, 974
+  size: 428, 189
+  orig: 428, 189
+  offset: 0, 0
+  index: -1
+e_dragon_xeronim_critical10
+  rotate: true
+  xy: 776, 981
+  size: 78, 116
+  orig: 78, 116
+  offset: 0, 0
+  index: -1
+e_dragon_xeronim_critical11
+  rotate: true
+  xy: 776, 981
+  size: 78, 116
+  orig: 78, 116
+  offset: 0, 0
+  index: -1
+e_dragon_xeronim_critical12
+  rotate: true
+  xy: 776, 981
+  size: 78, 116
+  orig: 78, 116
+  offset: 0, 0
+  index: -1
+e_dragon_xeronim_critical13
+  rotate: false
+  xy: 911, 894
+  size: 98, 91
+  orig: 101, 91
+  offset: 3, 0
+  index: -1
+e_dragon_xeronim_critical14
+  rotate: false
+  xy: 911, 894
+  size: 98, 91
+  orig: 101, 91
+  offset: 3, 0
+  index: -1
+e_dragon_xeronim_critical15
+  rotate: false
+  xy: 911, 894
+  size: 98, 91
+  orig: 101, 91
+  offset: 3, 0
+  index: -1

@@ -7,7 +7,7 @@
             <key>dragon/dragon_137_critical/critical.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,116},{384,260}}</string>
+                <string>{{388,2},{384,260}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -20,7 +20,7 @@
             <key>dragon/dragon_137_critical/cut_in.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{576,112}}</string>
+                <string>{{774,153},{576,112}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -30,6 +30,32 @@
                 <key>sourceSize</key>
                 <string>{576,112}</string>
             </dict>
+            <key>dragon/dragon_137_critical/e_critical.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{384,260}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{384,260}}</string>
+                <key>sourceSize</key>
+                <string>{384,260}</string>
+            </dict>
+            <key>dragon/dragon_137_critical/e_cut_in.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{774,2},{768,149}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{768,149}}</string>
+                <key>sourceSize</key>
+                <string>{768,149}</string>
+            </dict>
         </dict>
         <key>metadata</key>
         <dict>
@@ -38,9 +64,9 @@
             <key>realTextureFileName</key>
             <string>dragon_137_critical.pvr.ccz</string>
             <key>size</key>
-            <string>{580,378}</string>
+            <string>{1544,267}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:57976a0d1f06279c00c7854a57cf97df:db7c5a87826c6d21f37f13a77330c82a:3b733f38f4bf396a0dea1955ab1d6e03$</string>
+            <string>$TexturePacker:SmartUpdate:6252e8b138263d3167d9b4efd1d2c484:f93678b789581a5613be7ef5972543c1:3b733f38f4bf396a0dea1955ab1d6e03$</string>
             <key>textureFileName</key>
             <string>dragon_137_critical.pvr.ccz</string>
         </dict>

@@ -1,0 +1,1026 @@
+dragon_4132_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_azak_adult_tail2
+  rotate: true
+  xy: 408, 970
+  size: 29, 68
+  orig: 29, 68
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_tail1
+  rotate: false
+  xy: 400, 103
+  size: 109, 99
+  orig: 109, 99
+  offset: 0, 0
+  index: -1
+dragon_azak_child_horn2
+  rotate: false
+  xy: 478, 1235
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+dragon_azak_child_horn1
+  rotate: false
+  xy: 260, 1330
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+dragon_azak_e_r_leg1
+  rotate: false
+  xy: 408, 1184
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+dragon_azak_e_r_leg4
+  rotate: true
+  xy: 170, 777
+  size: 41, 22
+  orig: 41, 22
+  offset: 0, 0
+  index: -1
+dragon_azak_e_r_leg2
+  rotate: false
+  xy: 478, 1286
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+dragon_azak_e_r_leg3
+  rotate: true
+  xy: 219, 1449
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+dragon_azak_e_l_wing3_a
+  rotate: false
+  xy: 345, 1352
+  size: 45, 11
+  orig: 45, 11
+  offset: 0, 0
+  index: -1
+dragon_azak_e_r_arm1
+  rotate: false
+  xy: 451, 539
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+dragon_azak_e_r_arm2
+  rotate: true
+  xy: 394, 418
+  size: 48, 86
+  orig: 48, 86
+  offset: 0, 0
+  index: -1
+dragon_azak_e_r_wing_lig
+  rotate: true
+  xy: 482, 418
+  size: 65, 27
+  orig: 65, 31
+  offset: 0, 3
+  index: -1
+dragon_azak_baby_l_arm12baby
+  rotate: true
+  xy: 388, 1410
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+dragon_azak_e_r_arm3
+  rotate: false
+  xy: 371, 539
+  size: 78, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1
+dragon_azak_child_l_wing
+  rotate: false
+  xy: 447, 1157
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+dragon_azak_e_body_lig
+  rotate: false
+  xy: 165, 1332
+  size: 79, 115
+  orig: 121, 119
+  offset: 2, 2
+  index: -1
+dragon_azak_adult_light24
+  rotate: false
+  xy: 2, 1183
+  size: 134, 147
+  orig: 142, 149
+  offset: 4, 0
+  index: -1
+dragon_azak_adult_light22
+  rotate: false
+  xy: 130, 820
+  size: 78, 117
+  orig: 142, 149
+  offset: 32, 9
+  index: -1
+dragon_azak_adult_light25
+  rotate: false
+  xy: 2, 1032
+  size: 142, 149
+  orig: 142, 149
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_light23
+  rotate: false
+  xy: 2, 1332
+  size: 114, 131
+  orig: 142, 149
+  offset: 6, 8
+  index: -1
+dragon_azak_child_r_arm12child
+  rotate: true
+  xy: 450, 665
+  size: 50, 59
+  orig: 50, 59
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_light21
+  rotate: true
+  xy: 364, 726
+  size: 44, 79
+  orig: 142, 149
+  offset: 51, 22
+  index: -1
+dragon_azak_child_eye
+  rotate: false
+  xy: 425, 1373
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+dragon_azak_baby_tail12baby
+  rotate: false
+  xy: 298, 467
+  size: 86, 68
+  orig: 86, 68
+  offset: 0, 0
+  index: -1
+dragon_azak_child_tail2child
+  rotate: false
+  xy: 130, 939
+  size: 107, 87
+  orig: 107, 87
+  offset: 0, 0
+  index: -1
+dragon_azak_e_body
+  rotate: false
+  xy: 146, 1028
+  size: 100, 113
+  orig: 100, 113
+  offset: 0, 0
+  index: -1
+dragon_azak_child_body2
+  rotate: true
+  xy: 286, 939
+  size: 62, 50
+  orig: 62, 50
+  offset: 0, 0
+  index: -1
+dragon_azak_baby_wing
+  rotate: false
+  xy: 312, 1373
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_l_arm32adult
+  rotate: true
+  xy: 239, 939
+  size: 86, 45
+  orig: 86, 45
+  offset: 0, 0
+  index: -1
+dragon_azak_child_r_arm2
+  rotate: true
+  xy: 437, 775
+  size: 48, 65
+  orig: 48, 65
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_l_arm22adult
+  rotate: false
+  xy: 464, 485
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+dragon_azak_child_r_arm3
+  rotate: true
+  xy: 382, 326
+  size: 74, 40
+  orig: 74, 40
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_l_arm12adult
+  rotate: true
+  xy: 401, 1041
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+dragon_azak_e_r_arm1_lig
+  rotate: false
+  xy: 310, 1283
+  size: 49, 44
+  orig: 51, 46
+  offset: 1, 1
+  index: -1
+dragon_azak_child_r_wing2
+  rotate: false
+  xy: 445, 1192
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_body1
+  rotate: false
+  xy: 198, 454
+  size: 98, 101
+  orig: 98, 101
+  offset: 0, 0
+  index: -1
+dragon_azak_child_r_arm1
+  rotate: true
+  xy: 340, 1041
+  size: 50, 59
+  orig: 50, 59
+  offset: 0, 0
+  index: -1
+dragon_azak_e_r_arm2_lig
+  rotate: false
+  xy: 488, 929
+  size: 21, 34
+  orig: 23, 38
+  offset: 1, 1
+  index: -1
+dragon_azak_e_tail
+  rotate: true
+  xy: 210, 882
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+dragon_azak_e_l_wing2
+  rotate: true
+  xy: 283, 782
+  size: 98, 20
+  orig: 98, 20
+  offset: 0, 0
+  index: -1
+dragon_azak_e_l_wing3
+  rotate: true
+  xy: 490, 880
+  size: 47, 19
+  orig: 47, 19
+  offset: 0, 0
+  index: -1
+dragon_azak_e_l_wing
+  rotate: true
+  xy: 170, 642
+  size: 133, 24
+  orig: 133, 24
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_r_wing
+  rotate: true
+  xy: 382, 218
+  size: 106, 40
+  orig: 106, 40
+  offset: 0, 0
+  index: -1
+dragon_azak_child_tail
+  rotate: false
+  xy: 138, 1243
+  size: 107, 87
+  orig: 107, 87
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_head
+  rotate: true
+  xy: 424, 269
+  size: 74, 83
+  orig: 74, 83
+  offset: 0, 0
+  index: -1
+dragon_azak_baby_mouth
+  rotate: false
+  xy: 306, 1330
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+dragon_azak_e_head
+  rotate: false
+  xy: 424, 204
+  size: 85, 63
+  orig: 85, 63
+  offset: 0, 0
+  index: -1
+dragon_azak_child_head
+  rotate: false
+  xy: 210, 782
+  size: 71, 98
+  orig: 71, 98
+  offset: 0, 0
+  index: -1
+dragon_azak_baby_l_leg1
+  rotate: true
+  xy: 446, 1324
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+dragon_azak_baby_horn2
+  rotate: true
+  xy: 486, 1417
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+dragon_azak_baby_l_leg2
+  rotate: true
+  xy: 434, 1438
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+dragon_azak_baby_body12baby
+  rotate: true
+  xy: 386, 468
+  size: 69, 76
+  orig: 69, 76
+  offset: 0, 0
+  index: -1
+dragon_azak_baby_body2
+  rotate: false
+  xy: 362, 1246
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+dragon_azak_child_l_wing2
+  rotate: false
+  xy: 165, 1449
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+dragon_azak_child_r_leg2
+  rotate: false
+  xy: 464, 1402
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+dragon_azak_e_head_lig
+  rotate: false
+  xy: 424, 926
+  size: 62, 42
+  orig: 70, 46
+  offset: 1, 1
+  index: -1
+dragon_azak_child_r_leg3
+  rotate: true
+  xy: 401, 1090
+  size: 37, 59
+  orig: 37, 59
+  offset: 0, 0
+  index: -1
+dragon_azak_child_r_leg4
+  rotate: true
+  xy: 410, 1298
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_neck
+  rotate: false
+  xy: 313, 1188
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+dragon_azak_baby_body1
+  rotate: true
+  xy: 424, 345
+  size: 71, 80
+  orig: 71, 80
+  offset: 0, 0
+  index: -1
+dragon_azak_child_r_leg1
+  rotate: false
+  xy: 462, 1102
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_l_wing2
+  rotate: true
+  xy: 294, 655
+  size: 98, 20
+  orig: 98, 20
+  offset: 0, 0
+  index: -1
+dragon_love_effect_heart
+  rotate: false
+  xy: 246, 1404
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_azak_e_r_wing
+  rotate: true
+  xy: 118, 1332
+  size: 143, 45
+  orig: 143, 45
+  offset: 0, 0
+  index: -1
+dragon_azak_e_r_wing2
+  rotate: false
+  xy: 202, 420
+  size: 102, 32
+  orig: 102, 32
+  offset: 0, 0
+  index: -1
+dragon_azak_e_r_wing3
+  rotate: true
+  xy: 338, 903
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+dragon_azak_child_neck
+  rotate: false
+  xy: 313, 1132
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_eye2
+  rotate: true
+  xy: 462, 1373
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_eye3
+  rotate: true
+  xy: 486, 1363
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+dragon_azak_child_l_arm1
+  rotate: true
+  xy: 425, 880
+  size: 44, 63
+  orig: 44, 63
+  offset: 0, 0
+  index: -1
+dragon_azak_child_l_arm2
+  rotate: false
+  xy: 446, 717
+  size: 63, 56
+  orig: 63, 56
+  offset: 0, 0
+  index: -1
+dragon_azak_e_horn2_lig
+  rotate: true
+  xy: 294, 1404
+  size: 39, 33
+  orig: 41, 35
+  offset: 1, 2
+  index: -1
+dragon_azak_adult_eye1
+  rotate: false
+  xy: 480, 1339
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+dragon_azak_child_l_arm3
+  rotate: false
+  xy: 364, 649
+  size: 84, 30
+  orig: 84, 30
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_l_wing
+  rotate: false
+  xy: 196, 758
+  size: 101, 22
+  orig: 101, 22
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_r_leg1
+  rotate: true
+  xy: 340, 1093
+  size: 37, 59
+  orig: 37, 59
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_r_leg2
+  rotate: true
+  xy: 380, 1446
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_r_leg3
+  rotate: false
+  xy: 478, 970
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+dragon_azak_child_eye1
+  rotate: false
+  xy: 388, 1373
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_r_leg4
+  rotate: false
+  xy: 260, 1373
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+dragon_azak_e_l_arm2_lig
+  rotate: false
+  xy: 320, 1100
+  size: 18, 27
+  orig: 20, 29
+  offset: 1, 2
+  index: -1
+dragon_azak_e_l_wing_lig
+  rotate: true
+  xy: 246, 1332
+  size: 66, 12
+  orig: 68, 14
+  offset: 1, 1
+  index: -1
+dragon_azak_e_horn1_lig
+  rotate: false
+  xy: 279, 882
+  size: 15, 19
+  orig: 17, 21
+  offset: 1, 1
+  index: -1
+dragon_azak_baby_r_leg2
+  rotate: false
+  xy: 426, 1410
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+dragon_azak_baby_r_leg1
+  rotate: false
+  xy: 349, 1446
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+dragon_love_effect_anger
+  rotate: false
+  xy: 480, 1311
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_mist2
+  rotate: true
+  xy: 305, 767
+  size: 72, 53
+  orig: 72, 53
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_horn2
+  rotate: true
+  xy: 286, 1003
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_mist1
+  rotate: false
+  xy: 364, 681
+  size: 80, 43
+  orig: 80, 43
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_horn1
+  rotate: true
+  xy: 305, 841
+  size: 60, 53
+  orig: 60, 53
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_mist4
+  rotate: false
+  xy: 450, 601
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_mist3
+  rotate: true
+  xy: 360, 864
+  size: 54, 63
+  orig: 54, 63
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_mist5
+  rotate: false
+  xy: 403, 1129
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_eff_light4
+  rotate: false
+  xy: 2, 220
+  size: 198, 214
+  orig: 198, 224
+  offset: 0, 8
+  index: -1
+dragon_azak_child_mouth
+  rotate: false
+  xy: 361, 1287
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_eff_light5
+  rotate: false
+  xy: 2, 2
+  size: 198, 216
+  orig: 198, 224
+  offset: 0, 8
+  index: -1
+dragon_azak_baby_eye2
+  rotate: false
+  xy: 342, 1001
+  size: 62, 38
+  orig: 62, 38
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_eff_light2
+  rotate: false
+  xy: 202, 218
+  size: 178, 200
+  orig: 198, 224
+  offset: 8, 14
+  index: -1
+dragon_azak_e_l_arm3_a
+  rotate: true
+  xy: 267, 1445
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_eff_light3
+  rotate: false
+  xy: 2, 436
+  size: 194, 204
+  orig: 198, 224
+  offset: 0, 17
+  index: -1
+dragon_azak_adult_eff_light1
+  rotate: false
+  xy: 2, 642
+  size: 166, 176
+  orig: 198, 224
+  offset: 17, 27
+  index: -1
+dragon_azak_baby_eye1
+  rotate: false
+  xy: 406, 1001
+  size: 62, 38
+  orig: 62, 38
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_r_arm1
+  rotate: true
+  xy: 281, 1037
+  size: 61, 57
+  orig: 61, 57
+  offset: 0, 0
+  index: -1
+dragon_azak_baby_l_arm1
+  rotate: false
+  xy: 405, 1439
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_r_arm2
+  rotate: true
+  xy: 360, 818
+  size: 44, 75
+  orig: 44, 75
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_r_arm3
+  rotate: false
+  xy: 371, 594
+  size: 77, 53
+  orig: 77, 53
+  offset: 0, 0
+  index: -1
+dragon_azak_baby_l_arm2
+  rotate: false
+  xy: 348, 1365
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_eff_light6
+  rotate: false
+  xy: 202, 2
+  size: 196, 214
+  orig: 198, 224
+  offset: 1, 10
+  index: -1
+dragon_azak_adult_eff_light7
+  rotate: false
+  xy: 2, 820
+  size: 126, 210
+  orig: 198, 224
+  offset: 36, 0
+  index: -1
+dragon_azak_adult_mouth
+  rotate: true
+  xy: 329, 1404
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+dragon_azak_e_r_leg3_lig
+  rotate: true
+  xy: 382, 402
+  size: 14, 21
+  orig: 16, 23
+  offset: 1, 1
+  index: -1
+dragon_azak_e_r_leg1_lig
+  rotate: false
+  xy: 400, 204
+  size: 12, 12
+  orig: 14, 14
+  offset: 1, 2
+  index: -1
+dragon_azak_child_l_leg1
+  rotate: false
+  xy: 446, 1235
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+dragon_azak_child_l_leg4
+  rotate: false
+  xy: 403, 1337
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+dragon_azak_child_l_leg2
+  rotate: false
+  xy: 462, 1438
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+dragon_azak_child_body
+  rotate: false
+  xy: 196, 655
+  size: 96, 101
+  orig: 96, 101
+  offset: 0, 0
+  index: -1
+dragon_azak_child_l_leg3
+  rotate: false
+  xy: 363, 1402
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+dragon_azak_baby_tail
+  rotate: true
+  xy: 301, 537
+  size: 86, 68
+  orig: 86, 68
+  offset: 0, 0
+  index: -1
+dragon_azak_e_l_wing3_lig
+  rotate: false
+  xy: 442, 1352
+  size: 29, 19
+  orig: 31, 23
+  offset: 1, 2
+  index: -1
+dragon_azak_e_l_leg4
+  rotate: true
+  xy: 170, 777
+  size: 41, 22
+  orig: 41, 22
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_r_arm22adult
+  rotate: true
+  xy: 360, 772
+  size: 44, 75
+  orig: 44, 75
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_body
+  rotate: false
+  xy: 360, 920
+  size: 62, 48
+  orig: 62, 48
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_r_arm12adult
+  rotate: false
+  xy: 247, 1271
+  size: 61, 57
+  orig: 61, 57
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_body12adult
+  rotate: true
+  xy: 146, 1143
+  size: 98, 101
+  orig: 98, 101
+  offset: 0, 0
+  index: -1
+dragon_azak_baby_horn
+  rotate: false
+  xy: 194, 782
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_l_leg1
+  rotate: false
+  xy: 366, 1132
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_l_leg2
+  rotate: false
+  xy: 446, 1299
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_l_leg3
+  rotate: false
+  xy: 413, 1242
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_l_leg4
+  rotate: false
+  xy: 297, 1445
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+dragon_azak_baby_head
+  rotate: false
+  xy: 249, 1130
+  size: 62, 89
+  orig: 62, 89
+  offset: 0, 0
+  index: -1
+dragon_azak_e_l_arm2
+  rotate: false
+  xy: 316, 715
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+dragon_azak_e_r_wing3_lig
+  rotate: true
+  xy: 486, 1391
+  size: 24, 21
+  orig: 26, 23
+  offset: 1, 2
+  index: -1
+dragon_azak_e_l_arm3
+  rotate: true
+  xy: 316, 625
+  size: 88, 46
+  orig: 88, 46
+  offset: 0, 0
+  index: -1
+dragon_azak_child_body2child
+  rotate: true
+  xy: 198, 557
+  size: 96, 101
+  orig: 96, 101
+  offset: 0, 0
+  index: -1
+dragon_azak_e_r_wing3_a
+  rotate: false
+  xy: 345, 1332
+  size: 56, 18
+  orig: 56, 18
+  offset: 0, 0
+  index: -1
+dragon_azak_baby_r_arm2
+  rotate: false
+  xy: 313, 1243
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+dragon_azak_child_r_wing
+  rotate: false
+  xy: 249, 1221
+  size: 62, 48
+  orig: 62, 48
+  offset: 0, 0
+  index: -1
+dragon_azak_baby_r_arm1
+  rotate: true
+  xy: 281, 1100
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_tail12adult
+  rotate: false
+  xy: 400, 2
+  size: 109, 99
+  orig: 109, 99
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_tail22adult
+  rotate: true
+  xy: 338, 970
+  size: 29, 68
+  orig: 29, 68
+  offset: 0, 0
+  index: -1
+dragon_azak_e_horn2
+  rotate: true
+  xy: 279, 903
+  size: 34, 57
+  orig: 34, 57
+  offset: 0, 0
+  index: -1
+dragon_azak_e_horn1
+  rotate: false
+  xy: 437, 825
+  size: 65, 53
+  orig: 65, 53
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_l_arm1
+  rotate: false
+  xy: 462, 1041
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_l_arm2
+  rotate: false
+  xy: 362, 1194
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_l_arm3
+  rotate: false
+  xy: 306, 420
+  size: 86, 45
+  orig: 86, 45
+  offset: 0, 0
+  index: -1
+dragon_azak_adult_r_wing2
+  rotate: true
+  xy: 248, 1027
+  size: 101, 31
+  orig: 101, 31
+  offset: 0, 0
+  index: -1

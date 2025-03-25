@@ -1,0 +1,1180 @@
+dragon_4154_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+angra_child_closeeye
+  rotate: true
+  xy: 280, 1863
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+angra_child_mouth2
+  rotate: true
+  xy: 192, 1318
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+angra_adult_r_arm2
+  rotate: true
+  xy: 84, 1854
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+angra_adult_head
+  rotate: true
+  xy: 226, 1729
+  size: 50, 68
+  orig: 50, 68
+  offset: 0, 0
+  index: -1
+angra_adult_r_arm3
+  rotate: true
+  xy: 61, 1896
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+angra_adult_r_arm1
+  rotate: false
+  xy: 252, 265
+  size: 52, 45
+  orig: 52, 45
+  offset: 0, 0
+  index: -1
+dragon_angra_critical_glow
+  rotate: false
+  xy: 2, 1318
+  size: 188, 103
+  orig: 230, 135
+  offset: 18, 17
+  index: -1
+angra_child_head
+  rotate: true
+  xy: 323, 1733
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+angra_baby_body
+  rotate: true
+  xy: 188, 1890
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+angra_child_l_ arm_a
+  rotate: false
+  xy: 381, 1135
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+angra_baby_eye
+  rotate: true
+  xy: 368, 1537
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+angra_adult_breath
+  rotate: true
+  xy: 294, 1959
+  size: 30, 28
+  orig: 32, 32
+  offset: 1, 2
+  index: -1
+angra_adult_head_hair1
+  rotate: false
+  xy: 2, 2004
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+angra_child_loveeye
+  rotate: false
+  xy: 207, 1765
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+angra_child_r_leg2
+  rotate: true
+  xy: 368, 1447
+  size: 21, 18
+  orig: 93, 74
+  offset: 0, 1
+  index: -1
+angra_child_r_leg3
+  rotate: false
+  xy: 295, 1818
+  size: 23, 34
+  orig: 23, 34
+  offset: 0, 0
+  index: -1
+angra_adult_neck_light
+  rotate: true
+  xy: 298, 1670
+  size: 27, 24
+  orig: 29, 26
+  offset: 1, 1
+  index: -1
+angra_child_r_leg1
+  rotate: true
+  xy: 84, 1996
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+angra_baby_r_arm1
+  rotate: true
+  xy: 366, 2013
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+angra_baby_closeeye
+  rotate: true
+  xy: 240, 414
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+angra_adult_neck
+  rotate: false
+  xy: 84, 1890
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+angra_adult_l_wing1
+  rotate: false
+  xy: 192, 1412
+  size: 158, 109
+  orig: 158, 109
+  offset: 0, 0
+  index: -1
+angra_baby_r_arm2
+  rotate: true
+  xy: 130, 1574
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+angra_child_bead2
+  rotate: false
+  xy: 190, 1979
+  size: 34, 34
+  orig: 36, 36
+  offset: 1, 1
+  index: -1
+angra_adult_l_wing2
+  rotate: true
+  xy: 324, 1562
+  size: 73, 62
+  orig: 73, 62
+  offset: 0, 0
+  index: -1
+angra_child_bead3
+  rotate: true
+  xy: 380, 1371
+  size: 12, 6
+  orig: 14, 8
+  offset: 1, 1
+  index: -1
+angra_baby_r_arm3
+  rotate: false
+  xy: 189, 1838
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+dragon_angra_critical_circle_a02
+  rotate: false
+  xy: 2, 39
+  size: 276, 31
+  orig: 316, 51
+  offset: 19, 11
+  index: -1
+dragon_angra_critical_circle_a03
+  rotate: false
+  xy: 2, 72
+  size: 264, 29
+  orig: 316, 51
+  offset: 25, 12
+  index: -1
+dragon_angra_critical_circle_a04
+  rotate: false
+  xy: 2, 103
+  size: 254, 29
+  orig: 316, 51
+  offset: 31, 12
+  index: -1
+angra_child_neck
+  rotate: true
+  xy: 83, 1924
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+angra_adult_l_arm2_hair
+  rotate: false
+  xy: 268, 74
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+dragon_angra_critical_circle_a00
+  rotate: false
+  xy: 191, 1626
+  size: 106, 11
+  orig: 316, 51
+  offset: 104, 18
+  index: -1
+dragon_angra_critical_circle_a01
+  rotate: false
+  xy: 2, 2
+  size: 302, 35
+  orig: 316, 51
+  offset: 7, 10
+  index: -1
+angra_adult_bead
+  rotate: false
+  xy: 324, 1982
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+angra_child_tail1_a1
+  rotate: false
+  xy: 192, 1362
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+dragon_angra_critical_beads2
+  rotate: false
+  xy: 227, 1661
+  size: 69, 66
+  orig: 69, 66
+  offset: 0, 0
+  index: -1
+angra_adult_tail1_hair
+  rotate: true
+  xy: 258, 117
+  size: 87, 46
+  orig: 87, 46
+  offset: 0, 0
+  index: -1
+dragon_angra_critical_spark
+  rotate: false
+  xy: 2, 1441
+  size: 146, 131
+  orig: 160, 137
+  offset: 7, 3
+  index: -1
+angra_child_bead
+  rotate: false
+  xy: 324, 1957
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+angra_child_bead _a1
+  rotate: false
+  xy: 324, 1957
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+angra_adult_twinkle2
+  rotate: false
+  xy: 260, 1972
+  size: 32, 32
+  orig: 34, 34
+  offset: 1, 1
+  index: -1
+angra_adult_twinkle1
+  rotate: false
+  xy: 182, 1938
+  size: 39, 39
+  orig: 41, 41
+  offset: 1, 1
+  index: -1
+angra_adult_twinkle4
+  rotate: false
+  xy: 256, 2006
+  size: 32, 32
+  orig: 34, 34
+  offset: 1, 1
+  index: -1
+angra_adult_dameye
+  rotate: true
+  xy: 280, 1880
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+angra_adult_twinkle3
+  rotate: false
+  xy: 290, 2006
+  size: 31, 31
+  orig: 33, 33
+  offset: 1, 1
+  index: -1
+angra_child_tail1
+  rotate: false
+  xy: 96, 1647
+  size: 32, 55
+  orig: 32, 63
+  offset: 0, 8
+  index: -1
+angra_adult_twinkle5
+  rotate: false
+  xy: 226, 1972
+  size: 32, 32
+  orig: 34, 34
+  offset: 1, 1
+  index: -1
+angra_baby_r_leg1
+  rotate: true
+  xy: 349, 1948
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+angra_child_tail2
+  rotate: false
+  xy: 2, 1692
+  size: 83, 34
+  orig: 83, 34
+  offset: 0, 0
+  index: -1
+angra_baby_r_leg2
+  rotate: true
+  xy: 190, 2015
+  size: 23, 33
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+angra_child_tail3
+  rotate: true
+  xy: 298, 1699
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+angra_adult_eye
+  rotate: true
+  xy: 192, 1349
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+angra_child_l_arm2
+  rotate: false
+  xy: 366, 1992
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+angra_adult_neck_hair
+  rotate: true
+  xy: 87, 1704
+  size: 66, 41
+  orig: 66, 41
+  offset: 0, 0
+  index: -1
+angra_adult_mouth
+  rotate: true
+  xy: 62, 1806
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+angra_child_l_arm3
+  rotate: false
+  xy: 368, 1420
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+angra_child_l_arm1
+  rotate: true
+  xy: 218, 1152
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+angra_adult_r_wing2
+  rotate: false
+  xy: 240, 436
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+angra_adult_r_arm2_hair
+  rotate: false
+  xy: 130, 1838
+  size: 57, 35
+  orig: 57, 35
+  offset: 0, 0
+  index: -1
+angra_child_tail1_hair
+  rotate: false
+  xy: 150, 1487
+  size: 39, 62
+  orig: 39, 62
+  offset: 0, 0
+  index: -1
+angra_adult_r_wing1
+  rotate: false
+  xy: 191, 1523
+  size: 131, 101
+  orig: 131, 101
+  offset: 0, 0
+  index: -1
+angra_adult_head_light
+  rotate: true
+  xy: 85, 1817
+  size: 35, 43
+  orig: 37, 45
+  offset: 1, 1
+  index: -1
+angra_adult_l_leg2
+  rotate: false
+  xy: 225, 1781
+  size: 68, 37
+  orig: 68, 37
+  offset: 0, 0
+  index: -1
+angra_adult_l_leg3
+  rotate: true
+  xy: 126, 1951
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+angra_adult_l_leg1
+  rotate: false
+  xy: 2, 1806
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+angra_baby_bead
+  rotate: false
+  xy: 150, 1551
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+dragon_angra_critical_beads
+  rotate: true
+  xy: 320, 1835
+  size: 67, 66
+  orig: 69, 66
+  offset: 1, 0
+  index: -1
+angra_adult_body_hair
+  rotate: true
+  xy: 306, 248
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+angra_baby_l_arm1
+  rotate: false
+  xy: 203, 1825
+  size: 19, 28
+  orig: 33, 44
+  offset: 1, 1
+  index: -1
+angra_child_head_hair1
+  rotate: false
+  xy: 85, 1772
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+angra_child_bead2 _a1
+  rotate: false
+  xy: 190, 1979
+  size: 34, 34
+  orig: 36, 36
+  offset: 1, 1
+  index: -1
+angra_baby_l_arm2
+  rotate: true
+  xy: 368, 1492
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+angra_baby_l_arm3
+  rotate: false
+  xy: 207, 1716
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+angra_child_mouth
+  rotate: true
+  xy: 280, 1152
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+dragon_angra_critical_lightning5_a00
+  rotate: true
+  xy: 2, 862
+  size: 72, 222
+  orig: 104, 248
+  offset: 16, 12
+  index: -1
+dragon_angra_critical_lightning5_a01
+  rotate: false
+  xy: 306, 579
+  size: 76, 222
+  orig: 104, 248
+  offset: 13, 12
+  index: -1
+dragon_angra_critical_lightning3_a00
+  rotate: true
+  xy: 206, 1175
+  size: 74, 180
+  orig: 104, 248
+  offset: 9, 40
+  index: -1
+angra_adult_atteye
+  rotate: true
+  xy: 258, 103
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+angra_adult_bead2
+  rotate: false
+  xy: 189, 1855
+  size: 33, 33
+  orig: 35, 35
+  offset: 1, 1
+  index: -1
+dragon_angra_critical_lightning3_a01
+  rotate: false
+  xy: 226, 724
+  size: 76, 212
+  orig: 104, 248
+  offset: 6, 15
+  index: -1
+angra_adult_bead3
+  rotate: false
+  xy: 224, 1863
+  size: 54, 54
+  orig: 56, 56
+  offset: 1, 1
+  index: -1
+dragon_angra_critical_lightning5_a02
+  rotate: false
+  xy: 306, 2
+  size: 80, 244
+  orig: 104, 248
+  offset: 12, 4
+  index: -1
+angra_adult_closeeye
+  rotate: true
+  xy: 232, 484
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+angra_adult_head2
+  rotate: true
+  xy: 206, 1146
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+dragon_angra_critical_lightning3_a02
+  rotate: false
+  xy: 306, 331
+  size: 78, 246
+  orig: 104, 248
+  offset: 5, 2
+  index: -1
+dragon_angra_critical_dust2
+  rotate: false
+  xy: 130, 1592
+  size: 59, 45
+  orig: 65, 49
+  offset: 3, 2
+  index: -1
+dragon_angra_critical_dust1
+  rotate: true
+  xy: 2, 1917
+  size: 53, 55
+  orig: 65, 59
+  offset: 8, 0
+  index: -1
+dragon_angra_critical_dust4
+  rotate: true
+  xy: 304, 914
+  size: 109, 82
+  orig: 113, 82
+  offset: 3, 0
+  index: -1
+dragon_angra_critical_dust3
+  rotate: false
+  xy: 2, 1728
+  size: 81, 76
+  orig: 89, 80
+  offset: 4, 1
+  index: -1
+dragon_angra_critical_dust5
+  rotate: true
+  xy: 222, 938
+  size: 129, 76
+  orig: 133, 80
+  offset: 0, 3
+  index: -1
+angra_baby_r_wing
+  rotate: true
+  xy: 129, 1903
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+angra_baby_loveeye
+  rotate: false
+  xy: 294, 1991
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+dragon_angra_critical_lightning1_a00
+  rotate: true
+  xy: 2, 1248
+  size: 68, 198
+  orig: 104, 248
+  offset: 9, 9
+  index: -1
+angra_child_r_arm4
+  rotate: false
+  xy: 62, 1830
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+dragon_angra_critical_lightning1_a01
+  rotate: true
+  xy: 2, 414
+  size: 68, 236
+  orig: 104, 248
+  offset: 9, 6
+  index: -1
+dragon_angra_critical_lightning4_a00
+  rotate: true
+  xy: 2, 766
+  size: 94, 222
+  orig: 104, 248
+  offset: 3, 8
+  index: -1
+angra_child_r_arm2
+  rotate: false
+  xy: 349, 1932
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+dragon_angra_critical_lightning4_a01
+  rotate: true
+  xy: 2, 668
+  size: 96, 222
+  orig: 104, 248
+  offset: 4, 8
+  index: -1
+angra_child_r_arm3
+  rotate: true
+  xy: 368, 1470
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+angra_baby_l_leg1
+  rotate: false
+  xy: 324, 1523
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+angra_child_r_arm1
+  rotate: true
+  xy: 320, 1932
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+dragon_angra_critical_lightning1_a02
+  rotate: true
+  xy: 2, 342
+  size: 70, 248
+  orig: 104, 248
+  offset: 8, 0
+  index: -1
+dragon_angra_critical_lightning2_a00
+  rotate: true
+  xy: 202, 1251
+  size: 98, 182
+  orig: 104, 248
+  offset: 2, 36
+  index: -1
+dragon_angra_critical_lightning2_a01
+  rotate: true
+  xy: 2, 1044
+  size: 100, 214
+  orig: 104, 248
+  offset: 3, 11
+  index: -1
+dragon_angra_critical_dust3_glow
+  rotate: true
+  xy: 218, 1069
+  size: 81, 76
+  orig: 89, 80
+  offset: 5, 1
+  index: -1
+dragon_angra_critical_lightning4_a02
+  rotate: true
+  xy: 2, 134
+  size: 104, 248
+  orig: 104, 248
+  offset: 0, 0
+  index: -1
+angra_baby_l_leg2
+  rotate: false
+  xy: 344, 2006
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+angra_baby_l_leg3
+  rotate: false
+  xy: 59, 1970
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+angra_adult_bead_a2
+  rotate: true
+  xy: 280, 39
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+angra_adult_bead_a4
+  rotate: true
+  xy: 126, 1988
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+dragon_angra_critical_lightning2_a02
+  rotate: true
+  xy: 2, 240
+  size: 100, 248
+  orig: 104, 248
+  offset: 4, 0
+  index: -1
+angra_adult_bead_a3
+  rotate: true
+  xy: 349, 1970
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+angra_adult_bead_a5
+  rotate: true
+  xy: 296, 1740
+  size: 38, 23
+  orig: 40, 25
+  offset: 1, 1
+  index: -1
+angra_adult_r_leg2
+  rotate: false
+  xy: 320, 1904
+  size: 59, 26
+  orig: 59, 26
+  offset: 0, 0
+  index: -1
+angra_adult_tail2_hair
+  rotate: false
+  xy: 2, 1865
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+angra_baby_tail
+  rotate: true
+  xy: 130, 1789
+  size: 47, 71
+  orig: 47, 71
+  offset: 0, 0
+  index: -1
+angra_adult_r_leg3
+  rotate: true
+  xy: 252, 349
+  size: 19, 52
+  orig: 19, 52
+  offset: 0, 0
+  index: -1
+angra_adult_l_leg2_hair
+  rotate: true
+  xy: 158, 1423
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+angra_adult_bead_a1
+  rotate: true
+  xy: 296, 1780
+  size: 36, 23
+  orig: 38, 23
+  offset: 1, 0
+  index: -1
+angra_baby_head
+  rotate: false
+  xy: 324, 1668
+  size: 61, 63
+  orig: 61, 63
+  offset: 0, 0
+  index: -1
+angra_adult_circle1
+  rotate: true
+  xy: 352, 1412
+  size: 136, 14
+  orig: 600, 360
+  offset: 224, 308
+  index: -1
+angra_adult_r_leg1
+  rotate: false
+  xy: 291, 1854
+  size: 27, 56
+  orig: 27, 56
+  offset: 0, 0
+  index: -1
+angra_adult_circle2
+  rotate: false
+  xy: 2, 1423
+  size: 154, 16
+  orig: 600, 360
+  offset: 215, 307
+  index: -1
+angra_adult_loveeye
+  rotate: true
+  xy: 192, 1336
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+angra_adult_bead_b2
+  rotate: false
+  xy: 83, 1983
+  size: 41, 11
+  orig: 41, 11
+  offset: 0, 0
+  index: -1
+angra_adult_circle3
+  rotate: false
+  xy: 192, 1392
+  size: 174, 18
+  orig: 600, 360
+  offset: 204, 306
+  index: -1
+angra_adult_circle4
+  rotate: false
+  xy: 202, 1351
+  size: 182, 18
+  orig: 600, 360
+  offset: 200, 306
+  index: -1
+angra_adult_bead_b4
+  rotate: false
+  xy: 83, 1955
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+angra_adult_circle5
+  rotate: false
+  xy: 192, 1372
+  size: 186, 18
+  orig: 600, 360
+  offset: 198, 306
+  index: -1
+angra_adult_bead_b3
+  rotate: false
+  xy: 255, 1152
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+angra_child_body
+  rotate: false
+  xy: 224, 1820
+  size: 65, 41
+  orig: 65, 41
+  offset: 0, 0
+  index: -1
+angra_adult_bead_b5
+  rotate: true
+  xy: 62, 1852
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+angra_adult_bead_b1
+  rotate: true
+  xy: 207, 1787
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+angra_adult_body
+  rotate: true
+  xy: 130, 1639
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+dragon_angra_critical_dust4_glow
+  rotate: true
+  xy: 304, 803
+  size: 109, 82
+  orig: 113, 82
+  offset: 3, 0
+  index: -1
+angra_adult_tail3_a
+  rotate: true
+  xy: 352, 1550
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+angra_adult_l_arm4
+  rotate: false
+  xy: 225, 2015
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+angra_adult_l_arm2
+  rotate: true
+  xy: 51, 2004
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+angra_child_tail2_hair
+  rotate: false
+  xy: 296, 1135
+  size: 83, 38
+  orig: 83, 38
+  offset: 0, 0
+  index: -1
+angra_adult_l_arm3
+  rotate: true
+  xy: 323, 2006
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+angra_child_r_wing2
+  rotate: true
+  xy: 299, 1626
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+angra_child_eye
+  rotate: false
+  xy: 207, 1751
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+angra_adult_l_arm1
+  rotate: true
+  xy: 252, 312
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+dragon_angra_critical_stone_a06
+  rotate: false
+  xy: 2, 484
+  size: 228, 72
+  orig: 230, 122
+  offset: 0, 0
+  index: -1
+angra_child_l_wing2
+  rotate: false
+  xy: 324, 1637
+  size: 62, 29
+  orig: 62, 29
+  offset: 0, 0
+  index: -1
+angra_child_l_wing1
+  rotate: false
+  xy: 2, 1574
+  size: 126, 71
+  orig: 126, 71
+  offset: 0, 0
+  index: -1
+dragon_angra_critical_stone_a02
+  rotate: false
+  xy: 2, 1146
+  size: 202, 100
+  orig: 230, 122
+  offset: 10, 1
+  index: -1
+dragon_angra_critical_stone_a04
+  rotate: false
+  xy: 2, 558
+  size: 222, 108
+  orig: 230, 122
+  offset: 6, 0
+  index: -1
+angra_baby_l_wing
+  rotate: true
+  xy: 252, 370
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1
+dragon_angra_critical_stone_a03
+  rotate: false
+  xy: 2, 936
+  size: 218, 106
+  orig: 230, 122
+  offset: 8, 1
+  index: -1
+angra_child_r_wing1
+  rotate: false
+  xy: 130, 1716
+  size: 75, 71
+  orig: 75, 71
+  offset: 0, 0
+  index: -1
+angra_adult_body_light
+  rotate: false
+  xy: 280, 1912
+  size: 38, 45
+  orig: 40, 47
+  offset: 1, 1
+  index: -1
+dragon_angra_critical_stone_a05
+  rotate: true
+  xy: 232, 496
+  size: 226, 72
+  orig: 230, 122
+  offset: 2, 0
+  index: -1
+dragon_angra_critical_stone_a00
+  rotate: false
+  xy: 227, 1639
+  size: 70, 20
+  orig: 230, 122
+  offset: 107, 24
+  index: -1
+angra_adult_tail1
+  rotate: false
+  xy: 2, 1647
+  size: 92, 43
+  orig: 92, 43
+  offset: 0, 0
+  index: -1
+angra_adult_r_leg2_hair
+  rotate: false
+  xy: 130, 1875
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+angra_baby_mouth
+  rotate: true
+  xy: 368, 1392
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+dragon_angra_critical_stone_a01
+  rotate: true
+  xy: 300, 1025
+  size: 108, 86
+  orig: 230, 122
+  offset: 80, 13
+  index: -1
+angra_child_neck2
+  rotate: false
+  xy: 207, 1735
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+angra_baby_bead2
+  rotate: false
+  xy: 224, 1919
+  size: 51, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1
+angra_adult_tail2
+  rotate: true
+  xy: 252, 206
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+angra_adult_tail3
+  rotate: true
+  xy: 2, 1972
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+angra_child_body_hair
+  rotate: false
+  xy: 321, 1792
+  size: 65, 41
+  orig: 65, 41
+  offset: 0, 0
+  index: -1
+angra_child_l_leg2
+  rotate: true
+  xy: 368, 1511
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+angra_child_l_leg3
+  rotate: false
+  xy: 59, 1930
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+angra_child_l_leg1
+  rotate: false
+  xy: 156, 1988
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+angra_child_dameye
+  rotate: false
+  xy: 207, 1778
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1

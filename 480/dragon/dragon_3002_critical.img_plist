@@ -7,7 +7,7 @@
             <key>dragon/dragon_3002_critical/critical.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,230},{370,212}}</string>
+                <string>{{580,230},{370,212}}</string>
                 <key>offset</key>
                 <string>{7,24}</string>
                 <key>rotated</key>
@@ -20,7 +20,7 @@
             <key>dragon/dragon_3002_critical/cut_in.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,116},{576,112}}</string>
+                <string>{{580,116},{576,112}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -33,11 +33,11 @@
             <key>dragon/dragon_3002_critical/e_critical.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{374,230},{384,260}}</string>
+                <string>{{264,2},{384,260}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{384,260}}</string>
                 <key>sourceSize</key>
@@ -46,7 +46,7 @@
             <key>dragon/dragon_3002_critical/e_cut_in.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{576,112}}</string>
+                <string>{{580,2},{576,112}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -56,6 +56,32 @@
                 <key>sourceSize</key>
                 <string>{576,112}</string>
             </dict>
+            <key>dragon/dragon_3002_critical/s01_cut_in.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,388},{576,112}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{576,112}}</string>
+                <key>sourceSize</key>
+                <string>{576,112}</string>
+            </dict>
+            <key>dragon/dragon_3002_critical/s_critical.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{384,260}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{384,260}}</string>
+                <key>sourceSize</key>
+                <string>{384,260}</string>
+            </dict>
         </dict>
         <key>metadata</key>
         <dict>
@@ -64,9 +90,9 @@
             <key>realTextureFileName</key>
             <string>dragon_3002_critical.pvr.ccz</string>
             <key>size</key>
-            <string>{760,492}</string>
+            <string>{1158,502}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:d14f15e0fc3db845b42ea2d73080d018:6482b8311efe541cb629c8b3b50a7efc:f59683d32cffc761d89865ef36d4bb7d$</string>
+            <string>$TexturePacker:SmartUpdate:0631ba5260c409da6af38a9adf7c88da:7953559291da477afa9167e89fb7bdc3:f59683d32cffc761d89865ef36d4bb7d$</string>
             <key>textureFileName</key>
             <string>dragon_3002_critical.pvr.ccz</string>
         </dict>

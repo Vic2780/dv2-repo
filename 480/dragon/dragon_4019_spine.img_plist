@@ -4,393 +4,680 @@ filter: Linear,Linear
 repeat: none
 dragon_balloon_adult_arm1
   rotate: true
-  xy: 850, 190
+  xy: 860, 66
   size: 26, 40
   orig: 26, 40
   offset: 0, 0
   index: -1
-dragon_balloon_adult_leg1
-  rotate: false
-  xy: 945, 142
-  size: 40, 42
-  orig: 40, 42
-  offset: 0, 0
-  index: -1
-dragon_balloon_child_body
-  rotate: false
-  xy: 520, 149
-  size: 63, 53
-  orig: 63, 53
-  offset: 0, 0
-  index: -1
-dragon_balloon_adult_tail2
-  rotate: false
-  xy: 444, 204
-  size: 53, 50
-  orig: 53, 50
-  offset: 0, 0
-  index: -1
-dragon_balloon_baby_tail
-  rotate: false
-  xy: 631, 149
-  size: 54, 54
-  orig: 54, 54
-  offset: 0, 0
-  index: -1
-dragon_balloon_adult_head3
-  rotate: false
-  xy: 792, 100
-  size: 59, 41
-  orig: 59, 41
-  offset: 0, 0
-  index: -1
-dragon_balloon_child_head2
-  rotate: true
-  xy: 914, 89
-  size: 51, 48
-  orig: 51, 48
-  offset: 0, 0
-  index: -1
-dragon_balloon_baby_head2
-  rotate: true
-  xy: 850, 143
-  size: 45, 52
-  orig: 45, 52
-  offset: 0, 0
-  index: -1
-dragon_balloon_adult_wind1
-  rotate: false
-  xy: 898, 2
-  size: 63, 85
-  orig: 179, 175
-  offset: 106, 81
-  index: -1
-dragon_balloon_adult_neck
-  rotate: true
-  xy: 384, 204
-  size: 50, 58
-  orig: 50, 58
-  offset: 0, 0
-  index: -1
-dragon_balloon_baby_ear
-  rotate: false
-  xy: 826, 186
-  size: 22, 26
-  orig: 22, 26
-  offset: 0, 0
-  index: -1
-dragon_balloon_adult_wing
-  rotate: false
-  xy: 792, 2
-  size: 104, 96
-  orig: 104, 96
-  offset: 0, 0
-  index: -1
-dragon_balloon_adult_head4
-  rotate: true
-  xy: 746, 121
-  size: 59, 41
-  orig: 59, 41
-  offset: 0, 0
-  index: -1
-dragon_balloon_child_neck
-  rotate: true
-  xy: 499, 204
-  size: 50, 53
-  orig: 50, 53
-  offset: 0, 0
-  index: -1
-dragon_balloon_baby_neck
-  rotate: true
-  xy: 554, 204
-  size: 50, 38
-  orig: 50, 38
-  offset: 0, 0
-  index: -1
-dragon_balloon_adult_wind2
-  rotate: false
-  xy: 679, 2
-  size: 111, 117
-  orig: 179, 175
-  offset: 58, 51
-  index: -1
-dragon_balloon_baby_body
-  rotate: false
-  xy: 746, 182
-  size: 38, 36
-  orig: 38, 36
-  offset: 0, 0
-  index: -1
-dragon_balloon_child_ear
-  rotate: false
-  xy: 685, 233
-  size: 26, 21
-  orig: 26, 21
-  offset: 0, 0
-  index: -1
-dragon_balloon_child_tail
-  rotate: false
-  xy: 210, 161
-  size: 39, 93
-  orig: 39, 93
-  offset: 0, 0
-  index: -1
-dragon_balloon_baby_boom
-  rotate: false
-  xy: 251, 161
-  size: 65, 71
-  orig: 65, 71
-  offset: 0, 0
-  index: -1
-dragon_balloon_adult_arm4
-  rotate: false
-  xy: 923, 221
-  size: 26, 27
-  orig: 26, 27
-  offset: 0, 0
-  index: -1
-dragon_balloon_baby_heart
-  rotate: true
-  xy: 904, 143
-  size: 46, 39
-  orig: 46, 39
-  offset: 0, 0
-  index: -1
-dragon_balloon_adult_wind3
-  rotate: false
-  xy: 210, 2
-  size: 153, 157
-  orig: 179, 175
-  offset: 17, 12
-  index: -1
-dragon_balloon_adult_leg4
-  rotate: true
-  xy: 740, 220
-  size: 34, 23
-  orig: 34, 23
-  offset: 0, 0
-  index: -1
-dragon_balloon_baby_rope
-  rotate: true
-  xy: 251, 234
-  size: 20, 71
-  orig: 20, 71
-  offset: 0, 0
-  index: -1
-dragon_balloon_adult_body
-  rotate: true
-  xy: 318, 161
-  size: 67, 64
-  orig: 67, 64
-  offset: 0, 0
-  index: -1
-dragon_balloon_baby_arm1
-  rotate: false
-  xy: 2, 236
-  size: 26, 18
-  orig: 26, 18
-  offset: 0, 0
-  index: -1
-dragon_balloon_adult_wind6
-  rotate: false
-  xy: 2, 2
-  size: 206, 232
-  orig: 208, 232
-  offset: 1, 0
-  index: -1
-dragon_balloon_child_leg1
-  rotate: true
-  xy: 945, 186
-  size: 32, 40
-  orig: 32, 40
-  offset: 0, 0
-  index: -1
-dragon_balloon_adult_note1
-  rotate: true
-  xy: 786, 186
-  size: 30, 38
-  orig: 32, 40
-  offset: 1, 1
-  index: -1
-dragon_balloon_baby_leg
-  rotate: false
-  xy: 963, 39
-  size: 22, 26
-  orig: 22, 26
-  offset: 0, 0
-  index: -1
-dragon_balloon_baby_head3
-  rotate: true
-  xy: 462, 157
-  size: 45, 52
-  orig: 45, 52
-  offset: 0, 0
-  index: -1
-dragon_balloon_adult_wind4
-  rotate: false
-  xy: 365, 2
-  size: 153, 153
-  orig: 179, 175
-  offset: 17, 12
-  index: -1
-dragon_balloon_child_arm1
-  rotate: true
-  xy: 892, 191
-  size: 28, 40
-  orig: 28, 40
-  offset: 0, 0
-  index: -1
-dragon_balloon_adult_ear1
-  rotate: true
-  xy: 713, 233
-  size: 20, 25
-  orig: 20, 25
-  offset: 0, 0
-  index: -1
-dragon_balloon_child_leg2
-  rotate: true
-  xy: 963, 2
-  size: 35, 22
-  orig: 35, 22
-  offset: 0, 0
-  index: -1
-dragon_balloon_adult_note2
-  rotate: false
-  xy: 594, 204
-  size: 35, 41
-  orig: 35, 41
-  offset: 0, 0
-  index: -1
-dragon_balloon_baby_head1
-  rotate: true
-  xy: 631, 205
-  size: 45, 52
-  orig: 45, 52
-  offset: 0, 0
-  index: -1
-dragon_balloon_baby_ball
-  rotate: true
-  xy: 585, 149
-  size: 53, 44
-  orig: 53, 44
-  offset: 0, 0
-  index: -1
-dragon_balloon_adult_eye
-  rotate: false
-  xy: 369, 230
-  size: 12, 11
-  orig: 12, 11
-  offset: 0, 0
-  index: -1
 dragon_balloon_adult_arm2
-  rotate: true
-  xy: 857, 218
+  rotate: false
+  xy: 710, 246
   size: 28, 31
   orig: 28, 31
   offset: 0, 0
   index: -1
-dragon_balloon_adult_wind5
-  rotate: false
-  xy: 520, 2
-  size: 157, 145
-  orig: 179, 175
-  offset: 11, 19
-  index: -1
-dragon_balloon_adult_leg2
-  rotate: false
-  xy: 324, 230
-  size: 43, 23
-  orig: 43, 23
-  offset: 0, 0
-  index: -1
-dragon_balloon_baby_eye
-  rotate: false
-  xy: 964, 89
-  size: 20, 23
-  orig: 20, 23
-  offset: 0, 0
-  index: -1
-dragon_balloon_child_arm2
-  rotate: false
-  xy: 951, 220
-  size: 27, 27
-  orig: 27, 27
-  offset: 0, 0
-  index: -1
-dragon_balloon_adult_head1
-  rotate: false
-  xy: 853, 100
-  size: 59, 41
-  orig: 59, 41
-  offset: 0, 0
-  index: -1
-dragon_balloon_child_leg3
-  rotate: false
-  xy: 793, 218
-  size: 23, 36
-  orig: 23, 36
-  offset: 0, 0
-  index: -1
-dragon_balloon_child_smile
-  rotate: false
-  xy: 687, 121
-  size: 57, 60
-  orig: 57, 60
-  offset: 0, 0
-  index: -1
 dragon_balloon_adult_arm3
-  rotate: false
-  xy: 890, 221
+  rotate: true
+  xy: 740, 246
   size: 31, 26
   orig: 31, 26
   offset: 0, 0
   index: -1
-dragon_balloon_adult_leg3
+dragon_balloon_adult_arm4
   rotate: true
-  xy: 818, 218
-  size: 26, 37
-  orig: 26, 37
+  xy: 994, 92
+  size: 26, 27
+  orig: 26, 27
   offset: 0, 0
   index: -1
-dragon_balloon_adult_tail1
-  rotate: false
-  xy: 384, 157
-  size: 76, 45
-  orig: 76, 45
+dragon_balloon_adult_body
+  rotate: true
+  xy: 767, 1
+  size: 67, 64
+  orig: 67, 64
   offset: 0, 0
   index: -1
-dragon_balloon_child_eye
+dragon_balloon_adult_ear1
   rotate: false
-  xy: 963, 67
-  size: 17, 20
-  orig: 17, 20
+  xy: 950, 246
+  size: 20, 25
+  orig: 20, 25
   offset: 0, 0
   index: -1
-dragon_balloon_adult_head2
+dragon_balloon_adult_eye
   rotate: false
-  xy: 789, 143
+  xy: 340, 208
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+dragon_balloon_adult_head1
+  rotate: false
+  xy: 85, 235
   size: 59, 41
   orig: 59, 41
   offset: 0, 0
   index: -1
-dragon_balloon_child_head1
+dragon_balloon_adult_head2
   rotate: false
-  xy: 687, 183
-  size: 51, 48
-  orig: 51, 48
+  xy: 146, 235
+  size: 59, 41
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+dragon_balloon_adult_head3
+  rotate: false
+  xy: 207, 235
+  size: 59, 41
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+dragon_balloon_adult_head4
+  rotate: false
+  xy: 293, 234
+  size: 59, 41
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+dragon_balloon_adult_leg1
+  rotate: false
+  xy: 1, 235
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+dragon_balloon_adult_leg2
+  rotate: true
+  xy: 268, 234
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+dragon_balloon_adult_leg3
+  rotate: true
+  xy: 883, 205
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+dragon_balloon_adult_leg4
+  rotate: false
+  xy: 985, 221
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+dragon_balloon_adult_neck
+  rotate: false
+  xy: 789, 94
+  size: 50, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: -1
+dragon_balloon_adult_note1
+  rotate: false
+  xy: 805, 234
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+dragon_balloon_adult_note2
+  rotate: false
+  xy: 768, 234
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_balloon_adult_tail1
+  rotate: true
+  xy: 744, 156
+  size: 76, 45
+  orig: 76, 45
+  offset: 0, 0
+  index: -1
+dragon_balloon_adult_tail2
+  rotate: true
+  xy: 843, 150
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+dragon_balloon_adult_wind1
+  rotate: false
+  xy: 678, 157
+  size: 64, 87
+  orig: 179, 175
+  offset: 106, 80
+  index: -1
+dragon_balloon_adult_wind2
+  rotate: true
+  xy: 354, 161
+  size: 113, 119
+  orig: 179, 175
+  offset: 57, 50
+  index: -1
+dragon_balloon_adult_wind3
+  rotate: false
+  xy: 211, 1
+  size: 154, 158
+  orig: 179, 175
+  offset: 17, 11
+  index: -1
+dragon_balloon_adult_wind4
+  rotate: false
+  xy: 515, 1
+  size: 154, 154
+  orig: 179, 175
+  offset: 17, 11
+  index: -1
+dragon_balloon_adult_wind5
+  rotate: true
+  xy: 367, 1
+  size: 158, 146
+  orig: 179, 175
+  offset: 11, 18
+  index: -1
+dragon_balloon_adult_wind6
+  rotate: false
+  xy: 1, 1
+  size: 208, 232
+  orig: 208, 232
+  offset: 0, 0
+  index: -1
+dragon_balloon_adult_wing
+  rotate: true
+  xy: 580, 157
+  size: 104, 96
+  orig: 104, 96
+  offset: 0, 0
+  index: -1
+dragon_balloon_baby_arm1
+  rotate: false
+  xy: 791, 214
+  size: 26, 18
+  orig: 26, 18
   offset: 0, 0
   index: -1
 dragon_balloon_baby_arm2
-  rotate: false
-  xy: 30, 236
+  rotate: true
+  xy: 580, 263
   size: 14, 16
   orig: 14, 16
   offset: 0, 0
   index: -1
+dragon_balloon_baby_ball
+  rotate: false
+  xy: 839, 233
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+dragon_balloon_baby_body
+  rotate: false
+  xy: 902, 56
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+dragon_balloon_baby_boom
+  rotate: false
+  xy: 211, 161
+  size: 65, 71
+  orig: 65, 71
+  offset: 0, 0
+  index: -1
+dragon_balloon_baby_ear
+  rotate: true
+  xy: 804, 70
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+dragon_balloon_baby_eye
+  rotate: true
+  xy: 994, 246
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+dragon_balloon_baby_head1
+  rotate: true
+  xy: 300, 161
+  size: 45, 52
+  orig: 45, 52
+  offset: 0, 0
+  index: -1
+dragon_balloon_baby_head2
+  rotate: false
+  xy: 895, 150
+  size: 45, 52
+  orig: 45, 52
+  offset: 0, 0
+  index: -1
+dragon_balloon_baby_head3
+  rotate: false
+  xy: 897, 94
+  size: 45, 52
+  orig: 45, 52
+  offset: 0, 0
+  index: -1
+dragon_balloon_baby_heart
+  rotate: false
+  xy: 944, 147
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_balloon_baby_leg
+  rotate: true
+  xy: 832, 70
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+dragon_balloon_baby_neck
+  rotate: false
+  xy: 942, 54
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+dragon_balloon_baby_rope
+  rotate: false
+  xy: 278, 161
+  size: 20, 71
+  orig: 20, 71
+  offset: 0, 0
+  index: -1
+dragon_balloon_baby_tail
+  rotate: false
+  xy: 841, 94
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+dragon_balloon_child_arm1
+  rotate: false
+  xy: 992, 154
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+dragon_balloon_child_arm2
+  rotate: false
+  xy: 994, 63
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+dragon_balloon_child_body
+  rotate: true
+  xy: 833, 1
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+dragon_balloon_child_ear
+  rotate: true
+  xy: 922, 204
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+dragon_balloon_child_eye
+  rotate: true
+  xy: 819, 214
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+dragon_balloon_child_head1
+  rotate: true
+  xy: 940, 1
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+dragon_balloon_child_head2
+  rotate: true
+  xy: 944, 94
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+dragon_balloon_child_leg1
+  rotate: false
+  xy: 894, 233
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+dragon_balloon_child_leg2
+  rotate: false
+  xy: 767, 70
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+dragon_balloon_child_leg3
+  rotate: true
+  xy: 985, 196
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
 dragon_balloon_child_leg4
   rotate: true
-  xy: 765, 220
+  xy: 994, 120
   size: 32, 26
   orig: 32, 26
+  offset: 0, 0
+  index: -1
+dragon_balloon_child_neck
+  rotate: false
+  xy: 888, 1
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+dragon_balloon_child_smile
+  rotate: false
+  xy: 730, 94
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_balloon_child_tail
+  rotate: false
+  xy: 671, 1
+  size: 39, 93
+  orig: 39, 93
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_arm1
+  rotate: true
+  xy: 860, 66
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_arm2
+  rotate: false
+  xy: 710, 246
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_arm3
+  rotate: true
+  xy: 740, 246
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_arm4
+  rotate: true
+  xy: 994, 92
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_body
+  rotate: true
+  xy: 767, 1
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_cry_blue1
+  rotate: true
+  xy: 606, 263
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_cry_blue2
+  rotate: true
+  xy: 340, 221
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_cry_blue3
+  rotate: true
+  xy: 613, 263
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_cry_pink1
+  rotate: true
+  xy: 348, 221
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_cry_pink2
+  rotate: true
+  xy: 598, 263
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_cry_pink3
+  rotate: true
+  xy: 620, 263
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_ear1
+  rotate: false
+  xy: 972, 246
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_ear2
+  rotate: false
+  xy: 928, 246
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_earring1
+  rotate: true
+  xy: 300, 208
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_earring2
+  rotate: true
+  xy: 990, 1
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_eye
+  rotate: false
+  xy: 340, 208
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_head1
+  rotate: false
+  xy: 85, 235
+  size: 59, 41
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_head2
+  rotate: false
+  xy: 146, 235
+  size: 59, 41
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_head3
+  rotate: false
+  xy: 207, 235
+  size: 59, 41
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_head4
+  rotate: false
+  xy: 293, 234
+  size: 59, 41
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_leg1
+  rotate: false
+  xy: 43, 235
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_leg2
+  rotate: true
+  xy: 268, 234
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_leg3
+  rotate: true
+  xy: 883, 205
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_leg4
+  rotate: true
+  xy: 994, 23
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_leg5
+  rotate: false
+  xy: 843, 205
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_leg6
+  rotate: false
+  xy: 843, 205
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_neck
+  rotate: false
+  xy: 791, 154
+  size: 50, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_necklace1
+  rotate: false
+  xy: 945, 222
+  size: 23, 22
+  orig: 40, 38
+  offset: 17, 16
+  index: -1
+dragon_balloon_e_necklace2
+  rotate: true
+  xy: 678, 246
+  size: 31, 30
+  orig: 40, 38
+  offset: 1, 4
+  index: -1
+dragon_balloon_e_necklace3
+  rotate: true
+  xy: 945, 188
+  size: 32, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_note1
+  rotate: false
+  xy: 805, 234
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_note2
+  rotate: false
+  xy: 768, 234
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_tail1
+  rotate: true
+  xy: 712, 1
+  size: 91, 53
+  orig: 91, 53
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_tail2
+  rotate: true
+  xy: 671, 96
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_wind1
+  rotate: false
+  xy: 678, 157
+  size: 64, 87
+  orig: 179, 175
+  offset: 106, 80
+  index: -1
+dragon_balloon_e_wind2
+  rotate: true
+  xy: 354, 161
+  size: 113, 119
+  orig: 179, 175
+  offset: 57, 50
+  index: -1
+dragon_balloon_e_wind3
+  rotate: false
+  xy: 211, 1
+  size: 154, 158
+  orig: 179, 175
+  offset: 17, 11
+  index: -1
+dragon_balloon_e_wind4
+  rotate: false
+  xy: 515, 1
+  size: 154, 154
+  orig: 179, 175
+  offset: 17, 11
+  index: -1
+dragon_balloon_e_wind5
+  rotate: true
+  xy: 367, 1
+  size: 158, 146
+  orig: 179, 175
+  offset: 11, 18
+  index: -1
+dragon_balloon_e_wind6
+  rotate: false
+  xy: 1, 1
+  size: 208, 232
+  orig: 208, 232
+  offset: 0, 0
+  index: -1
+dragon_balloon_e_wing
+  rotate: true
+  xy: 475, 161
+  size: 110, 103
+  orig: 110, 103
   offset: 0, 0
   index: -1

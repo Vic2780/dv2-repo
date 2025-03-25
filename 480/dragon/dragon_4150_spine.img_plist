@@ -1,0 +1,1292 @@
+dragon_4150_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_arjuna_critical_fx4_z1
+  rotate: false
+  xy: 619, 1537
+  size: 353, 221
+  orig: 353, 221
+  offset: 0, 0
+  index: -1
+arjuna_child_love
+  rotate: false
+  xy: 977, 1923
+  size: 18, 14
+  orig: 20, 16
+  offset: 1, 1
+  index: -1
+arjuna_child_hair6
+  rotate: false
+  xy: 603, 1752
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+arjuna_child_r_arm4
+  rotate: true
+  xy: 993, 1771
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+dragon_arjuna_critical_fx4_z2
+  rotate: false
+  xy: 2, 269
+  size: 420, 297
+  orig: 420, 297
+  offset: 0, 0
+  index: -1
+arjuna_child_hair8
+  rotate: true
+  xy: 990, 1939
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+dragon_arjuna_critical_fx4_z3
+  rotate: false
+  xy: 2, 2
+  size: 456, 265
+  orig: 456, 267
+  offset: 0, 0
+  index: -1
+arjuna_child_hair7
+  rotate: false
+  xy: 813, 1137
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+arjuna_child_r_arm2
+  rotate: true
+  xy: 996, 1561
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+arjuna_child_hair2
+  rotate: false
+  xy: 409, 613
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+arjuna_child_r_arm3
+  rotate: true
+  xy: 999, 1738
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+arjuna_child_hair4
+  rotate: true
+  xy: 409, 568
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+arjuna_adult_love
+  rotate: false
+  xy: 953, 1939
+  size: 12, 12
+  orig: 14, 14
+  offset: 1, 1
+  index: -1
+arjuna_child_r_arm1
+  rotate: true
+  xy: 851, 1501
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+arjuna_child_hair3
+  rotate: false
+  xy: 980, 1939
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+arjuna_baby_tail
+  rotate: false
+  xy: 938, 1501
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+arjuna_child_hair5
+  rotate: false
+  xy: 979, 151
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+arjuna_child_r_wingamor2
+  rotate: true
+  xy: 531, 1169
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
+arjuna_adult_loveeye
+  rotate: false
+  xy: 804, 1137
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+arjuna_child_hair1
+  rotate: false
+  xy: 409, 703
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+arjuna_child_love2
+  rotate: false
+  xy: 1011, 1049
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+arjuna_child_love3
+  rotate: false
+  xy: 1004, 856
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+arjuna_adult_neck
+  rotate: false
+  xy: 985, 1164
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+arjuna_adult_closeeye
+  rotate: false
+  xy: 444, 1650
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+arjuna_child_l_wingamor2
+  rotate: false
+  xy: 915, 231
+  size: 74, 86
+  orig: 74, 86
+  offset: 0, 0
+  index: -1
+arjuna_child_r_wing
+  rotate: false
+  xy: 905, 159
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+arjuna_adult_atteye
+  rotate: true
+  xy: 527, 1942
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+arjuna_child_neck
+  rotate: false
+  xy: 458, 1900
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+arjuna_baby_l_leg2
+  rotate: false
+  xy: 974, 1707
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+arjuna_adult_head
+  rotate: true
+  xy: 966, 594
+  size: 83, 54
+  orig: 83, 54
+  offset: 0, 0
+  index: -1
+arjuna_baby_l_wing
+  rotate: true
+  xy: 996, 1617
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+arjuna_baby_l_leg1
+  rotate: true
+  xy: 993, 1695
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+arjuna_adult_l_arm2
+  rotate: false
+  xy: 989, 1340
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+arjuna_adult_l_arm4
+  rotate: true
+  xy: 985, 1263
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+arjuna_adult_l_arm3
+  rotate: true
+  xy: 994, 482
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+arjuna_adult_l_arm1
+  rotate: false
+  xy: 770, 1082
+  size: 32, 62
+  orig: 32, 62
+  offset: 0, 0
+  index: -1
+dragon_arjuna_critical_fx6_z1
+  rotate: true
+  xy: 829, 344
+  size: 248, 163
+  orig: 248, 163
+  offset: 0, 0
+  index: -1
+dragon_arjuna_critical_fx6_z4
+  rotate: true
+  xy: 770, 835
+  size: 245, 161
+  orig: 245, 161
+  offset: 0, 0
+  index: -1
+dragon_arjuna_critical_fx6_z5
+  rotate: true
+  xy: 797, 594
+  size: 239, 167
+  orig: 239, 167
+  offset: 0, 0
+  index: -1
+dragon_arjuna_critical_fx6_z2
+  rotate: true
+  xy: 822, 1082
+  size: 245, 161
+  orig: 245, 161
+  offset: 0, 0
+  index: -1
+arjuna_adult_hair6
+  rotate: true
+  xy: 789, 815
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+dragon_arjuna_critical_fx6_z3
+  rotate: true
+  xy: 387, 1659
+  size: 239, 165
+  orig: 239, 165
+  offset: 0, 0
+  index: -1
+arjuna_adult_hair8
+  rotate: true
+  xy: 409, 691
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+arjuna_adult_hair7
+  rotate: false
+  xy: 967, 1939
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+arjuna_adult_neck_fx4
+  rotate: false
+  xy: 867, 1834
+  size: 38, 42
+  orig: 40, 44
+  offset: 1, 1
+  index: -1
+arjuna_adult_hair2
+  rotate: false
+  xy: 1008, 1886
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+arjuna_adult_neck_fx5
+  rotate: false
+  xy: 424, 269
+  size: 34, 41
+  orig: 36, 43
+  offset: 1, 1
+  index: -1
+arjuna_adult_neck_fx2
+  rotate: true
+  xy: 511, 1900
+  size: 40, 41
+  orig: 42, 43
+  offset: 1, 1
+  index: -1
+arjuna_adult_hair9
+  rotate: false
+  xy: 987, 1855
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+arjuna_adult_neck_fx3
+  rotate: true
+  xy: 296, 1659
+  size: 39, 43
+  orig: 41, 45
+  offset: 1, 1
+  index: -1
+arjuna_adult_hair4
+  rotate: false
+  xy: 863, 1927
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+arjuna_adult_hair3
+  rotate: false
+  xy: 989, 1402
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+arjuna_adult_neck_fx1
+  rotate: false
+  xy: 979, 104
+  size: 38, 45
+  orig: 40, 49
+  offset: 1, 1
+  index: -1
+arjuna_adult_hair5
+  rotate: true
+  xy: 801, 1146
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+arjuna_baby_headhair
+  rotate: true
+  xy: 511, 1942
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+arjuna_adult_r_wingarmor
+  rotate: true
+  xy: 905, 2
+  size: 155, 72
+  orig: 155, 72
+  offset: 0, 0
+  index: -1
+arjuna_adult_l_wing
+  rotate: false
+  xy: 554, 1760
+  size: 160, 122
+  orig: 160, 122
+  offset: 0, 0
+  index: -1
+arjuna_adult_neck2
+  rotate: true
+  xy: 718, 1884
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+arjuna_adult_neck3
+  rotate: false
+  xy: 996, 1585
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+arjuna_adult_l_wingarmor
+  rotate: true
+  xy: 822, 1329
+  size: 170, 165
+  orig: 170, 165
+  offset: 0, 0
+  index: -1
+dragon_arjuna_critical_fx5_z1
+  rotate: false
+  xy: 619, 1169
+  size: 201, 366
+  orig: 201, 366
+  offset: 0, 0
+  index: -1
+arjuna_adult_antler
+  rotate: false
+  xy: 198, 1659
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+karna_child_l_arm1
+  rotate: true
+  xy: 896, 1501
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+dragon_arjuna_critical_fx5_z4
+  rotate: true
+  xy: 424, 344
+  size: 215, 403
+  orig: 215, 403
+  offset: 0, 0
+  index: -1
+arjuna_adult_eyeaccessory
+  rotate: false
+  xy: 999, 1899
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_arjuna_critical_fx5_z2
+  rotate: false
+  xy: 416, 1259
+  size: 201, 389
+  orig: 201, 389
+  offset: 0, 0
+  index: -1
+dragon_arjuna_critical_fx5_z3
+  rotate: false
+  xy: 198, 1265
+  size: 216, 392
+  orig: 218, 392
+  offset: 0, 0
+  index: -1
+arjuna_child_haed
+  rotate: true
+  xy: 966, 679
+  size: 66, 54
+  orig: 66, 54
+  offset: 0, 0
+  index: -1
+arjuna_adult_r_arm2
+  rotate: false
+  xy: 991, 271
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+karna_child_l_leg1
+  rotate: false
+  xy: 994, 524
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+arjuna_adult_r_arm4
+  rotate: true
+  xy: 991, 230
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+arjuna_adult_r_arm3
+  rotate: false
+  xy: 999, 1715
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+karna_child_l_leg4
+  rotate: true
+  xy: 994, 457
+  size: 23, 26
+  orig: 25, 28
+  offset: 2, 0
+  index: -1
+karna_child_l_leg2
+  rotate: true
+  xy: 1003, 974
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+arjuna_baby_mouth
+  rotate: true
+  xy: 974, 1646
+  size: 35, 15
+  orig: 35, 15
+  offset: 0, 0
+  index: -1
+karna_child_l_leg3
+  rotate: false
+  xy: 974, 1540
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+arjuna_adult_r_arm1
+  rotate: false
+  xy: 993, 991
+  size: 27, 56
+  orig: 27, 56
+  offset: 0, 0
+  index: -1
+karna_child_tail1
+  rotate: true
+  xy: 989, 1301
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+dragon_arjuna_critical_fx8_z1
+  rotate: false
+  xy: 619, 1537
+  size: 353, 221
+  orig: 353, 221
+  offset: 0, 0
+  index: -1
+arjuna_baby_r_arm_fx2
+  rotate: true
+  xy: 834, 1927
+  size: 24, 27
+  orig: 26, 27
+  offset: 1, 0
+  index: -1
+arjuna_baby_r_arm_fx1
+  rotate: false
+  xy: 977, 1899
+  size: 20, 22
+  orig: 22, 24
+  offset: 1, 1
+  index: -1
+karna_child_tail2
+  rotate: true
+  xy: 993, 1493
+  size: 32, 27
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+arjuna_baby_r_arm_fx4
+  rotate: false
+  xy: 989, 1459
+  size: 27, 32
+  orig: 29, 34
+  offset: 1, 1
+  index: -1
+karna_child_tail3
+  rotate: false
+  xy: 990, 1830
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+arjuna_baby_r_arm_fx3
+  rotate: false
+  xy: 994, 563
+  size: 23, 29
+  orig: 25, 29
+  offset: 1, 0
+  index: -1
+dragon_arjuna_critical_fx8_z2
+  rotate: false
+  xy: 2, 269
+  size: 420, 297
+  orig: 420, 297
+  offset: 0, 0
+  index: -1
+dragon_arjuna_critical_fx8_z3
+  rotate: false
+  xy: 2, 2
+  size: 456, 265
+  orig: 456, 267
+  offset: 0, 0
+  index: -1
+arjuna_baby_r_arm_fx5
+  rotate: false
+  xy: 822, 1501
+  size: 27, 34
+  orig: 29, 36
+  offset: 1, 1
+  index: -1
+arjuna_baby_r_arm2
+  rotate: true
+  xy: 409, 650
+  size: 18, 12
+  orig: 18, 14
+  offset: 0, 2
+  index: -1
+arjuna_adult_l_arm_fx1
+  rotate: true
+  xy: 933, 991
+  size: 69, 58
+  orig: 71, 60
+  offset: 1, 1
+  index: -1
+arjuna_adult_l_arm_fx4
+  rotate: true
+  xy: 659, 1884
+  size: 67, 57
+  orig: 75, 65
+  offset: 7, 7
+  index: -1
+arjuna_baby_r_arm1
+  rotate: false
+  xy: 974, 1608
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+arjuna_adult_l_arm_fx2
+  rotate: true
+  xy: 554, 1650
+  size: 69, 60
+  orig: 71, 62
+  offset: 1, 2
+  index: -1
+arjuna_adult_l_arm_fx5
+  rotate: true
+  xy: 966, 747
+  size: 63, 54
+  orig: 63, 56
+  offset: 0, 2
+  index: -1
+arjuna_child_eyeaccessory
+  rotate: false
+  xy: 952, 1890
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+arjuna_adult_r_arm_fx1
+  rotate: false
+  xy: 987, 192
+  size: 33, 36
+  orig: 35, 38
+  offset: 1, 1
+  index: -1
+arjuna_adult_r_arm_fx4
+  rotate: true
+  xy: 777, 1838
+  size: 43, 49
+  orig: 43, 51
+  offset: 0, 1
+  index: -1
+arjuna_adult_l_arm_fx3
+  rotate: false
+  xy: 387, 1900
+  size: 69, 51
+  orig: 69, 53
+  offset: 0, 1
+  index: -1
+arjuna_adult_r_arm_fx2
+  rotate: false
+  xy: 874, 1878
+  size: 38, 39
+  orig: 38, 41
+  offset: 0, 2
+  index: -1
+arjuna_adult_r_arm_fx5
+  rotate: false
+  xy: 979, 2
+  size: 41, 53
+  orig: 43, 55
+  offset: 1, 1
+  index: -1
+arjuna_adult_r_arm_fx3
+  rotate: true
+  xy: 907, 1834
+  size: 36, 44
+  orig: 38, 46
+  offset: 1, 1
+  index: -1
+arjuna_adult_r_wing
+  rotate: false
+  xy: 716, 1760
+  size: 127, 76
+  orig: 127, 76
+  offset: 0, 0
+  index: -1
+arjuna_child_atteye
+  rotate: true
+  xy: 409, 591
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+arjuna_adult_l_leg2
+  rotate: true
+  xy: 991, 1672
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+arjuna_adult_l_leg4
+  rotate: true
+  xy: 989, 1372
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+arjuna_child_body
+  rotate: false
+  xy: 933, 928
+  size: 68, 61
+  orig: 68, 65
+  offset: 0, 0
+  index: -1
+arjuna_adult_l_leg3
+  rotate: false
+  xy: 1003, 928
+  size: 17, 44
+  orig: 17, 44
+  offset: 0, 0
+  index: -1
+dragon_arjuna_critical_fx7_z6
+  rotate: false
+  xy: 2, 1700
+  size: 383, 251
+  orig: 383, 251
+  offset: 0, 0
+  index: -1
+dragon_arjuna_critical_fx7_z7
+  rotate: true
+  xy: 531, 815
+  size: 352, 237
+  orig: 352, 237
+  offset: 0, 0
+  index: -1
+arjuna_child_closeeye
+  rotate: true
+  xy: 863, 1937
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+arjuna_adult_l_leg1
+  rotate: false
+  xy: 985, 1062
+  size: 35, 58
+  orig: 35, 58
+  offset: 0, 0
+  index: -1
+dragon_arjuna_critical_fx7_z1
+  rotate: true
+  xy: 207, 826
+  size: 431, 185
+  orig: 431, 185
+  offset: 0, 0
+  index: -1
+dragon_arjuna_critical_fx7_z4
+  rotate: false
+  xy: 460, 2
+  size: 443, 228
+  orig: 443, 228
+  offset: 0, 0
+  index: -1
+dragon_arjuna_critical_fx7_z5
+  rotate: false
+  xy: 2, 568
+  size: 405, 256
+  orig: 405, 256
+  offset: 0, 0
+  index: -1
+arjuna_baby_l_arm_fx2
+  rotate: true
+  xy: 974, 1732
+  size: 25, 23
+  orig: 27, 23
+  offset: 1, 0
+  index: -1
+arjuna_baby_eye
+  rotate: true
+  xy: 409, 629
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+arjuna_adult_body
+  rotate: false
+  xy: 845, 1760
+  size: 108, 72
+  orig: 108, 80
+  offset: 0, 0
+  index: -1
+dragon_arjuna_critical_fx7_z2
+  rotate: true
+  xy: 2, 1265
+  size: 433, 194
+  orig: 433, 194
+  offset: 0, 0
+  index: -1
+arjuna_baby_l_arm_fx1
+  rotate: false
+  xy: 953, 1870
+  size: 28, 18
+  orig: 28, 20
+  offset: 0, 1
+  index: -1
+dragon_arjuna_critical_fx7_z3
+  rotate: true
+  xy: 2, 826
+  size: 437, 203
+  orig: 437, 203
+  offset: 0, 0
+  index: -1
+arjuna_baby_l_arm_fx4
+  rotate: true
+  xy: 994, 395
+  size: 30, 26
+  orig: 32, 26
+  offset: 1, 0
+  index: -1
+arjuna_baby_love2
+  rotate: true
+  xy: 1008, 1874
+  size: 10, 12
+  orig: 10, 12
+  offset: 0, 0
+  index: -1
+arjuna_baby_l_arm_fx3
+  rotate: false
+  xy: 991, 1648
+  size: 29, 22
+  orig: 31, 24
+  offset: 1, 1
+  index: -1
+arjuna_baby_love3
+  rotate: false
+  xy: 1004, 856
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+arjuna_baby_l_arm_fx5
+  rotate: true
+  xy: 993, 1527
+  size: 32, 27
+  orig: 32, 29
+  offset: 0, 1
+  index: -1
+arjuna_baby_closeeye
+  rotate: false
+  xy: 416, 1650
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+arjuna_adult_tail2
+  rotate: false
+  xy: 716, 1838
+  size: 59, 44
+  orig: 59, 44
+  offset: 0, 0
+  index: -1
+dragon_arjuna_critical_fx2
+  rotate: true
+  xy: 394, 826
+  size: 431, 135
+  orig: 431, 135
+  offset: 0, 0
+  index: -1
+arjuna_adult_tail4
+  rotate: true
+  xy: 834, 1883
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+arjuna_adult_tail3
+  rotate: false
+  xy: 993, 1049
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+dragon_arjuna_critical_fx3
+  rotate: false
+  xy: 424, 561
+  size: 371, 252
+  orig: 371, 252
+  offset: 0, 0
+  index: -1
+arjuna_baby_headamor
+  rotate: true
+  xy: 978, 319
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+arjuna_baby_love
+  rotate: true
+  xy: 1004, 878
+  size: 20, 16
+  orig: 22, 18
+  offset: 1, 1
+  index: -1
+arjuna_adult_tail1
+  rotate: false
+  xy: 554, 1884
+  size: 103, 67
+  orig: 103, 67
+  offset: 0, 0
+  index: -1
+arjuna_baby_eyeaccessory
+  rotate: true
+  xy: 994, 350
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+arjuna_child_r_leg4
+  rotate: false
+  xy: 983, 1874
+  size: 23, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+dragon_arjuna_critical_fx6
+  rotate: false
+  xy: 460, 232
+  size: 453, 110
+  orig: 455, 118
+  offset: 2, 8
+  index: -1
+arjuna_child_r_leg2
+  rotate: false
+  xy: 974, 1683
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+arjuna_child_r_leg3
+  rotate: false
+  xy: 603, 1721
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+arjuna_child_r_leg1
+  rotate: false
+  xy: 974, 1569
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+arjuna_adult_dameye
+  rotate: false
+  xy: 409, 713
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+arjuna_child_l_arm4
+  rotate: false
+  xy: 933, 1062
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+arjuna_baby_l_arm2
+  rotate: false
+  xy: 1004, 900
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+arjuna_child_l_arm2
+  rotate: true
+  xy: 994, 427
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+arjuna_child_l_arm3
+  rotate: true
+  xy: 770, 815
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+arjuna_baby_l_arm1
+  rotate: true
+  xy: 985, 1238
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+arjuna_child_l_arm_fx1
+  rotate: false
+  xy: 797, 561
+  size: 30, 31
+  orig: 30, 33
+  offset: 0, 1
+  index: -1
+arjuna_adult_love2
+  rotate: true
+  xy: 537, 1942
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+arjuna_child_l_arm_fx4
+  rotate: false
+  xy: 985, 1122
+  size: 35, 40
+  orig: 37, 42
+  offset: 1, 1
+  index: -1
+arjuna_adult_eye
+  rotate: false
+  xy: 434, 1650
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+arjuna_child_l_arm_fx2
+  rotate: false
+  xy: 953, 1835
+  size: 32, 33
+  orig: 34, 35
+  offset: 1, 1
+  index: -1
+arjuna_adult_love3
+  rotate: false
+  xy: 804, 1115
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+arjuna_child_l_arm_fx5
+  rotate: false
+  xy: 828, 1838
+  size: 37, 43
+  orig: 37, 45
+  offset: 0, 1
+  index: -1
+arjuna_adult_r_leg2
+  rotate: false
+  xy: 990, 1801
+  size: 30, 27
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+arjuna_child_l_arm_fx3
+  rotate: true
+  xy: 874, 1919
+  size: 32, 36
+  orig: 34, 38
+  offset: 1, 1
+  index: -1
+arjuna_adult_r_leg4
+  rotate: false
+  xy: 770, 1146
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+arjuna_adult_r_leg3
+  rotate: false
+  xy: 989, 1421
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+arjuna_child_eye
+  rotate: false
+  xy: 999, 1757
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+arjuna_child_neck_fx2
+  rotate: true
+  xy: 955, 1760
+  size: 39, 36
+  orig: 41, 38
+  offset: 1, 1
+  index: -1
+arjuna_adult_mouthamor
+  rotate: false
+  xy: 999, 1918
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+arjuna_child_neck_fx1
+  rotate: true
+  xy: 341, 1659
+  size: 39, 42
+  orig: 39, 44
+  offset: 0, 2
+  index: -1
+arjuna_child_neck_fx4
+  rotate: true
+  xy: 914, 1913
+  size: 38, 37
+  orig: 40, 51
+  offset: 1, 14
+  index: -1
+arjuna_adult_r_leg1
+  rotate: false
+  xy: 994, 299
+  size: 26, 49
+  orig: 26, 49
+  offset: 0, 0
+  index: -1
+arjuna_child_neck_fx3
+  rotate: false
+  xy: 979, 57
+  size: 40, 45
+  orig: 40, 49
+  offset: 0, 3
+  index: -1
+arjuna_adult_hair
+  rotate: false
+  xy: 424, 312
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+arjuna_child_neck_fx5
+  rotate: false
+  xy: 914, 1872
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+arjuna_child_mouthamor
+  rotate: false
+  xy: 963, 1062
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+arjuna_child_l_wing
+  rotate: false
+  xy: 933, 856
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+arjuna_baby_body
+  rotate: false
+  xy: 966, 812
+  size: 54, 42
+  orig: 54, 42
+  offset: 0, 0
+  index: -1
+arjuna_baby_loveeye
+  rotate: true
+  xy: 409, 670
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+arjuna_baby_r_leg2
+  rotate: false
+  xy: 997, 1934
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+arjuna_baby_r_leg1
+  rotate: true
+  xy: 994, 505
+  size: 17, 26
+  orig: 21, 26
+  offset: 4, 0
+  index: -1
+arjuna_baby_r_wing
+  rotate: true
+  xy: 953, 1912
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+arjuna_adult_mouth
+  rotate: false
+  xy: 933, 835
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+arjuna_child_r_arm_fx1
+  rotate: true
+  xy: 955, 1801
+  size: 32, 33
+  orig: 32, 35
+  offset: 0, 1
+  index: -1
+arjuna_baby_head
+  rotate: true
+  xy: 779, 1883
+  size: 64, 53
+  orig: 64, 53
+  offset: 0, 0
+  index: -1
+arjuna_child_mouth
+  rotate: true
+  xy: 804, 1082
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+arjuna_child_r_arm_fx4
+  rotate: true
+  xy: 249, 1659
+  size: 39, 45
+  orig: 39, 47
+  offset: 0, 2
+  index: -1
+arjuna_child_r_arm_fx2
+  rotate: true
+  xy: 985, 1203
+  size: 33, 35
+  orig: 35, 35
+  offset: 1, 0
+  index: -1
+arjuna_child_r_arm_fx5
+  rotate: true
+  xy: 554, 1721
+  size: 37, 47
+  orig: 39, 49
+  offset: 1, 1
+  index: -1
+arjuna_child_loveeye
+  rotate: true
+  xy: 1004, 912
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+arjuna_adult_light2
+  rotate: false
+  xy: 915, 319
+  size: 61, 23
+  orig: 65, 25
+  offset: 2, 1
+  index: -1
+arjuna_child_r_arm_fx3
+  rotate: false
+  xy: 987, 151
+  size: 33, 39
+  orig: 35, 41
+  offset: 1, 1
+  index: -1
+arjuna_adult_light3
+  rotate: true
+  xy: 976, 1501
+  size: 37, 15
+  orig: 39, 17
+  offset: 1, 1
+  index: -1

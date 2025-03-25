@@ -1,508 +1,677 @@
 dragon_3033_spine.pvr.ccz
+size: 1013, 812
 format: RGBA4444
 filter: Linear,Linear
 repeat: none
-dragon_akaah_child_head
-  rotate: false
-  xy: 1100, 387
-  size: 73, 77
-  orig: 77, 79
-  offset: 2, 1
-  index: -1
-dragon_akaah_critical_ef03
+dragon_akaah_adult_arm1
   rotate: true
-  xy: 1097, 109
-  size: 88, 109
-  orig: 96, 119
-  offset: 3, 8
-  index: -1
-dragon_akaah_baby_leg1
-  rotate: false
-  xy: 1221, 470
-  size: 28, 33
-  orig: 32, 35
-  offset: 4, 2
-  index: -1
-dragon_akaah_child_arm5
-  rotate: false
-  xy: 1310, 295
-  size: 30, 33
-  orig: 34, 35
-  offset: 2, 1
-  index: -1
-dragon_akaah_adult_eye2
-  rotate: false
-  xy: 1310, 420
-  size: 17, 12
-  orig: 23, 18
-  offset: 3, 3
-  index: -1
-dragon_akaah_baby_eye1
-  rotate: false
-  xy: 1274, 377
-  size: 25, 20
-  orig: 37, 32
-  offset: 5, 5
-  index: -1
-dragon_akaah_child_tail
-  rotate: true
-  xy: 264, 455
-  size: 49, 82
-  orig: 51, 82
+  xy: 134, 727
+  size: 55, 97
+  orig: 57, 97
   offset: 1, 0
   index: -1
-dragon_akaah_child_leg2
-  rotate: false
-  xy: 1241, 444
-  size: 25, 20
-  orig: 29, 26
-  offset: 1, 3
-  index: -1
-dragon_akaah_adult_ef5
-  rotate: false
-  xy: 904, 109
-  size: 191, 105
-  orig: 211, 127
-  offset: 6, 22
-  index: -1
-dragon_akaah_adult_leg3
+dragon_akaah_adult_arm2
   rotate: true
-  xy: 1228, 384
-  size: 27, 43
-  orig: 29, 45
-  offset: 0, 1
-  index: -1
-dragon_akaah_baby_h
-  rotate: true
-  xy: 1237, 246
-  size: 46, 39
-  orig: 46, 39
+  xy: 642, 782
+  size: 29, 44
+  orig: 30, 44
   offset: 0, 0
   index: -1
-dragon_akaah_child_arm1
+dragon_akaah_adult_arm3
+  rotate: false
+  xy: 578, 786
+  size: 62, 25
+  orig: 62, 26
+  offset: 0, 0
+  index: -1
+dragon_akaah_adult_armor
   rotate: true
-  xy: 384, 455
-  size: 48, 69
-  orig: 50, 71
+  xy: 801, 496
+  size: 72, 87
+  orig: 72, 90
   offset: 0, 1
+  index: -1
+dragon_akaah_adult_armor_e
+  rotate: true
+  xy: 677, 560
+  size: 50, 87
+  orig: 51, 95
+  offset: 0, 5
   index: -1
 dragon_akaah_adult_body
   rotate: false
-  xy: 904, 322
-  size: 118, 62
+  xy: 886, 389
+  size: 120, 62
   orig: 120, 64
-  offset: 1, 2
-  index: -1
-dragon_akaah_adult_tail4
-  rotate: false
-  xy: 1196, 246
-  size: 39, 58
-  orig: 41, 62
-  offset: 1, 4
-  index: -1
-dragon_akaah_child_eye1
-  rotate: true
-  xy: 1040, 489
-  size: 19, 22
-  orig: 25, 26
-  offset: 3, 3
+  offset: 0, 2
   index: -1
 dragon_akaah_adult_ef1
   rotate: false
-  xy: 845, 389
-  size: 193, 119
+  xy: 134, 605
+  size: 194, 120
   orig: 211, 127
-  offset: 7, 8
-  index: -1
-dragon_akaah_critical_ef02
-  rotate: false
-  xy: 1204, 306
-  size: 22, 63
-  orig: 28, 71
-  offset: 2, 5
-  index: -1
-dragon_akaah_baby_arm1
-  rotate: false
-  xy: 1276, 295
-  size: 32, 45
-  orig: 38, 55
-  offset: 3, 5
-  index: -1
-dragon_akaah_child_arm4
-  rotate: true
-  xy: 1273, 399
-  size: 16, 23
-  orig: 20, 25
-  offset: 2, 2
-  index: -1
-dragon_akaah_child_wing
-  rotate: true
-  xy: 168, 455
-  size: 47, 94
-  orig: 53, 98
-  offset: 4, 3
-  index: -1
-dragon_akaah_adult_ef6
-  rotate: false
-  xy: 904, 2
-  size: 191, 105
-  orig: 211, 127
-  offset: 6, 22
-  index: -1
-dragon_akaah_adult_arm1
-  rotate: true
-  xy: 2, 455
-  size: 53, 97
-  orig: 57, 97
-  offset: 2, 0
-  index: -1
-dragon_akaah_adult_leg2
-  rotate: false
-  xy: 1175, 439
-  size: 33, 29
-  orig: 37, 29
-  offset: 1, 0
-  index: -1
-dragon_akaah_adult_eye5
-  rotate: false
-  xy: 1269, 442
-  size: 17, 12
-  orig: 23, 18
-  offset: 3, 3
-  index: -1
-dragon_akaah_child_neck
-  rotate: false
-  xy: 1162, 311
-  size: 40, 61
-  orig: 40, 63
-  offset: 0, 2
+  offset: 7, 7
   index: -1
 dragon_akaah_adult_ef2
   rotate: false
-  xy: 650, 389
-  size: 193, 119
+  xy: 314, 455
+  size: 194, 120
   orig: 211, 127
-  offset: 7, 8
+  offset: 7, 7
   index: -1
-dragon_akaah_baby_leg3
+dragon_akaah_adult_ef3
+  rotate: false
+  xy: 330, 577
+  size: 194, 120
+  orig: 211, 127
+  offset: 7, 7
+  index: -1
+dragon_akaah_adult_ef4
+  rotate: false
+  xy: 510, 389
+  size: 191, 105
+  orig: 211, 127
+  offset: 7, 22
+  index: -1
+dragon_akaah_adult_ef5
   rotate: true
-  xy: 1087, 489
-  size: 12, 8
-  orig: 16, 14
-  offset: 1, 4
+  xy: 906, 1
+  size: 192, 105
+  orig: 211, 127
+  offset: 6, 22
+  index: -1
+dragon_akaah_adult_ef6
+  rotate: true
+  xy: 906, 195
+  size: 192, 105
+  orig: 211, 127
+  offset: 6, 22
+  index: -1
+dragon_akaah_adult_eye1
+  rotate: false
+  xy: 922, 796
+  size: 17, 14
+  orig: 23, 18
+  offset: 3, 2
+  index: -1
+dragon_akaah_adult_eye2
+  rotate: true
+  xy: 314, 577
+  size: 19, 14
+  orig: 23, 18
+  offset: 2, 2
+  index: -1
+dragon_akaah_adult_eye3
+  rotate: true
+  xy: 510, 552
+  size: 19, 14
+  orig: 23, 18
+  offset: 1, 2
+  index: -1
+dragon_akaah_adult_eye4
+  rotate: false
+  xy: 876, 797
+  size: 19, 14
+  orig: 23, 18
+  offset: 2, 2
+  index: -1
+dragon_akaah_adult_eye5
+  rotate: true
+  xy: 673, 687
+  size: 19, 14
+  orig: 23, 18
+  offset: 2, 2
   index: -1
 dragon_akaah_adult_h
   rotate: true
-  xy: 1237, 246
+  xy: 92, 764
   size: 46, 39
   orig: 46, 39
   offset: 0, 0
   index: -1
-dragon_akaah_adult_eye1
-  rotate: true
-  xy: 1298, 399
-  size: 15, 12
-  orig: 23, 18
-  offset: 4, 3
-  index: -1
-dragon_akaah_baby_wing
-  rotate: true
-  xy: 1171, 199
-  size: 40, 35
-  orig: 44, 41
-  offset: 2, 3
-  index: -1
-dragon_akaah_adult_horn
-  rotate: false
-  xy: 1202, 374
-  size: 24, 35
-  orig: 72, 59
-  offset: 23, 22
-  index: -1
-dragon_akaah_baby_neck
-  rotate: true
-  xy: 1228, 413
-  size: 29, 39
-  orig: 37, 45
-  offset: 4, 3
-  index: -1
-dragon_akaah_child_leg5
-  rotate: true
-  xy: 1265, 489
-  size: 14, 18
-  orig: 20, 20
-  offset: 3, 2
-  index: -1
-dragon_akaah_child_s
-  rotate: true
-  xy: 1280, 171
-  size: 57, 60
-  orig: 57, 60
-  offset: 0, 0
-  index: -1
-dragon_akaah_child_arm3
-  rotate: true
-  xy: 1193, 470
-  size: 37, 26
-  orig: 41, 32
-  offset: 2, 2
-  index: -1
-dragon_akaah_critical_ef06
-  rotate: false
-  xy: 455, 2
-  size: 447, 385
-  orig: 521, 445
-  offset: 33, 60
-  index: -1
-dragon_akaah_adult_eye4
-  rotate: false
-  xy: 1312, 392
-  size: 17, 12
-  orig: 23, 18
-  offset: 3, 3
-  index: -1
-dragon_akaah_adult_tail1
-  rotate: false
-  xy: 101, 455
-  size: 65, 53
-  orig: 65, 57
-  offset: 0, 3
-  index: -1
-dragon_akaah_child_leg1
-  rotate: false
-  xy: 348, 455
-  size: 34, 53
-  orig: 38, 59
-  offset: 3, 3
-  index: -1
-dragon_akaah_baby_arm3
-  rotate: true
-  xy: 1086, 216
-  size: 13, 9
-  orig: 17, 15
-  offset: 1, 4
-  index: -1
-dragon_akaah_baby_leg2
-  rotate: true
-  xy: 1171, 241
-  size: 17, 18
-  orig: 19, 22
-  offset: 1, 2
-  index: -1
-dragon_akaah_baby_tail
-  rotate: true
-  xy: 1276, 342
-  size: 33, 32
-  orig: 39, 32
-  offset: 4, 0
-  index: -1
-dragon_akaah_child_arm6
-  rotate: true
-  xy: 1251, 466
-  size: 35, 12
-  orig: 35, 16
-  offset: 0, 2
-  index: -1
-dragon_akaah_critical_ef05
-  rotate: false
-  xy: 2, 2
-  size: 451, 451
-  orig: 533, 483
-  offset: 41, 18
-  index: -1
-dragon_akaah_baby_eye2
-  rotate: false
-  xy: 1210, 444
-  size: 29, 24
-  orig: 37, 32
-  offset: 3, 5
-  index: -1
 dragon_akaah_adult_head
-  rotate: false
-  xy: 1097, 199
+  rotate: true
+  xy: 629, 613
   size: 72, 59
   orig: 72, 59
   offset: 0, 0
   index: -1
-dragon_akaah_adult_armor
-  rotate: false
-  xy: 1208, 109
-  size: 70, 86
-  orig: 72, 90
-  offset: 1, 2
-  index: -1
-dragon_akaah_child_jaw
-  rotate: false
-  xy: 1269, 417
-  size: 21, 23
-  orig: 25, 23
-  offset: 2, 0
-  index: -1
-dragon_akaah_adult_tail2
-  rotate: false
-  xy: 1100, 466
-  size: 71, 41
-  orig: 71, 47
-  offset: 0, 2
-  index: -1
-dragon_akaah_child_leg4
+dragon_akaah_adult_head_e
   rotate: true
-  xy: 1310, 359
-  size: 31, 26
-  orig: 35, 26
-  offset: 3, 0
+  xy: 960, 453
+  size: 67, 52
+  orig: 77, 95
+  offset: 0, 11
   index: -1
-dragon_akaah_adult_wing1
-  rotate: false
-  xy: 904, 216
-  size: 180, 104
-  orig: 182, 106
-  offset: 0, 2
+dragon_akaah_adult_horn
+  rotate: true
+  xy: 133, 784
+  size: 25, 37
+  orig: 72, 59
+  offset: 23, 21
   index: -1
-dragon_akaah_adult_ef3
-  rotate: false
-  xy: 455, 389
-  size: 193, 119
-  orig: 211, 127
-  offset: 7, 8
+dragon_akaah_adult_jaw
+  rotate: true
+  xy: 927, 772
+  size: 22, 17
+  orig: 22, 18
+  offset: 0, 1
   index: -1
 dragon_akaah_adult_leg1
   rotate: true
-  xy: 1208, 197
-  size: 47, 70
+  xy: 526, 680
+  size: 48, 72
   orig: 51, 74
-  offset: 0, 2
+  offset: 0, 1
   index: -1
-dragon_akaah_child_arm2
-  rotate: true
-  xy: 1310, 330
-  size: 27, 30
-  orig: 33, 34
-  offset: 2, 3
-  index: -1
-dragon_akaah_critical_ef01
+dragon_akaah_adult_leg1_e
   rotate: false
-  xy: 1288, 2
-  size: 52, 167
-  orig: 60, 167
-  offset: 4, 0
+  xy: 814, 718
+  size: 36, 55
+  orig: 52, 68
+  offset: 0, 5
   index: -1
-dragon_akaah_child_eye2
+dragon_akaah_adult_leg2
   rotate: true
-  xy: 1202, 411
-  size: 25, 24
-  orig: 25, 26
-  offset: 0, 2
-  index: -1
-dragon_akaah_adult_arm3
-  rotate: false
-  xy: 1278, 269
-  size: 62, 24
-  orig: 62, 26
+  xy: 889, 675
+  size: 35, 29
+  orig: 37, 29
   offset: 0, 0
   index: -1
-dragon_akaah_baby_arm2
+dragon_akaah_adult_leg3
   rotate: true
-  xy: 1064, 489
-  size: 19, 21
-  orig: 19, 31
-  offset: 0, 6
+  xy: 789, 775
+  size: 28, 45
+  orig: 29, 45
+  offset: 0, 0
   index: -1
 dragon_akaah_adult_leg4
-  rotate: true
-  xy: 1175, 374
-  size: 63, 25
+  rotate: false
+  xy: 511, 786
+  size: 65, 25
   orig: 71, 27
-  offset: 3, 2
+  offset: 2, 2
   index: -1
-dragon_akaah_critical_ef04
+dragon_akaah_adult_leg4_e
   rotate: false
-  xy: 1040, 387
-  size: 58, 100
-  orig: 70, 104
-  offset: 9, 2
-  index: -1
-dragon_akaah_child_body
-  rotate: false
-  xy: 1024, 322
-  size: 96, 63
-  orig: 102, 65
-  offset: 2, 1
-  index: -1
-dragon_akaah_adult_ef4
-  rotate: false
-  xy: 1097, 2
-  size: 189, 105
-  orig: 211, 127
-  offset: 8, 22
-  index: -1
-dragon_akaah_adult_eye3
-  rotate: false
-  xy: 1312, 406
-  size: 17, 12
-  orig: 23, 18
-  offset: 2, 3
-  index: -1
-dragon_akaah_baby_head
-  rotate: false
-  xy: 1086, 260
-  size: 67, 54
-  orig: 71, 58
-  offset: 1, 2
-  index: -1
-dragon_akaah_adult_tail3
-  rotate: true
-  xy: 1280, 230
-  size: 37, 60
-  orig: 43, 64
-  offset: 2, 1
-  index: -1
-dragon_akaah_adult_arm2
-  rotate: true
-  xy: 1228, 354
-  size: 28, 44
-  orig: 30, 44
+  xy: 172, 784
+  size: 37, 23
+  orig: 37, 23
   offset: 0, 0
   index: -1
 dragon_akaah_adult_neck1
   rotate: false
-  xy: 1155, 260
+  xy: 638, 731
+  size: 40, 49
+  orig: 43, 49
+  offset: 2, 0
+  index: -1
+dragon_akaah_adult_neck2
+  rotate: false
+  xy: 936, 718
+  size: 47, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+dragon_akaah_adult_tail1
+  rotate: false
+  xy: 680, 717
+  size: 65, 55
+  orig: 65, 57
+  offset: 0, 2
+  index: -1
+dragon_akaah_adult_tail2
+  rotate: false
+  xy: 801, 570
+  size: 71, 43
+  orig: 71, 47
+  offset: 0, 1
+  index: -1
+dragon_akaah_adult_tail3
+  rotate: false
+  xy: 847, 615
+  size: 39, 62
+  orig: 43, 64
+  offset: 1, 0
+  index: -1
+dragon_akaah_adult_tail4
+  rotate: false
+  xy: 852, 712
+  size: 40, 58
+  orig: 41, 62
+  offset: 1, 4
+  index: -1
+dragon_akaah_adult_wing1
+  rotate: false
+  xy: 703, 389
+  size: 181, 105
+  orig: 182, 106
+  offset: 0, 1
+  index: -1
+dragon_akaah_baby_arm1
+  rotate: false
+  xy: 766, 560
+  size: 33, 46
+  orig: 38, 55
+  offset: 3, 4
+  index: -1
+dragon_akaah_baby_arm2
+  rotate: true
+  xy: 946, 787
+  size: 19, 22
+  orig: 19, 31
+  offset: 0, 5
+  index: -1
+dragon_akaah_baby_arm3
+  rotate: true
+  xy: 947, 613
+  size: 14, 10
+  orig: 17, 15
+  offset: 1, 3
+  index: -1
+dragon_akaah_baby_body
+  rotate: true
+  xy: 92, 697
+  size: 65, 40
+  orig: 68, 42
+  offset: 1, 1
+  index: -1
+dragon_akaah_baby_eye1
+  rotate: true
+  xy: 246, 785
+  size: 26, 22
+  orig: 37, 32
+  offset: 5, 4
+  index: -1
+dragon_akaah_baby_eye2
+  rotate: true
+  xy: 985, 718
+  size: 30, 25
+  orig: 37, 32
+  offset: 3, 4
+  index: -1
+dragon_akaah_baby_h
+  rotate: true
+  xy: 92, 764
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_akaah_baby_head
+  rotate: false
+  xy: 890, 556
+  size: 68, 55
+  orig: 71, 58
+  offset: 1, 1
+  index: -1
+dragon_akaah_baby_jaw
+  rotate: false
+  xy: 946, 766
+  size: 23, 19
+  orig: 29, 24
+  offset: 4, 2
+  index: -1
+dragon_akaah_baby_leg1
+  rotate: false
+  xy: 920, 675
+  size: 29, 34
+  orig: 32, 35
+  offset: 3, 1
+  index: -1
+dragon_akaah_baby_leg2
+  rotate: false
+  xy: 312, 785
+  size: 18, 19
+  orig: 19, 22
+  offset: 1, 1
+  index: -1
+dragon_akaah_baby_leg3
+  rotate: true
+  xy: 971, 766
+  size: 14, 9
+  orig: 16, 14
+  offset: 0, 3
+  index: -1
+dragon_akaah_baby_neck
+  rotate: true
+  xy: 846, 679
+  size: 31, 41
+  orig: 37, 45
+  offset: 3, 2
+  index: -1
+dragon_akaah_baby_tail
+  rotate: false
+  xy: 332, 779
+  size: 35, 32
+  orig: 39, 32
+  offset: 3, 0
+  index: -1
+dragon_akaah_baby_wing
+  rotate: false
+  xy: 746, 775
+  size: 41, 36
+  orig: 44, 41
+  offset: 2, 2
+  index: -1
+dragon_akaah_child_arm1
+  rotate: true
+  xy: 774, 615
+  size: 48, 71
+  orig: 50, 71
+  offset: 0, 0
+  index: -1
+dragon_akaah_child_arm2
+  rotate: false
+  xy: 845, 775
+  size: 29, 31
+  orig: 33, 34
+  offset: 1, 2
+  index: -1
+dragon_akaah_child_arm3
+  rotate: true
+  xy: 481, 389
+  size: 39, 27
+  orig: 41, 32
+  offset: 1, 1
+  index: -1
+dragon_akaah_child_arm4
+  rotate: false
+  xy: 506, 699
+  size: 18, 24
+  orig: 20, 25
+  offset: 1, 1
+  index: -1
+dragon_akaah_child_arm5
+  rotate: true
+  xy: 369, 779
+  size: 32, 34
+  orig: 34, 35
+  offset: 1, 0
+  index: -1
+dragon_akaah_child_arm6
+  rotate: true
+  xy: 874, 570
+  size: 35, 14
+  orig: 35, 16
+  offset: 0, 1
+  index: -1
+dragon_akaah_child_body
+  rotate: false
+  xy: 526, 552
+  size: 97, 64
+  orig: 102, 65
+  offset: 2, 0
+  index: -1
+dragon_akaah_child_eye1
+  rotate: true
+  xy: 901, 772
+  size: 21, 24
+  orig: 25, 26
+  offset: 2, 2
+  index: -1
+dragon_akaah_child_eye2
+  rotate: false
+  xy: 985, 750
+  size: 25, 25
+  orig: 25, 26
+  offset: 0, 1
+  index: -1
+dragon_akaah_child_head
+  rotate: false
+  xy: 332, 699
+  size: 74, 78
+  orig: 77, 79
+  offset: 2, 0
+  index: -1
+dragon_akaah_child_jaw
+  rotate: false
+  xy: 876, 772
+  size: 23, 23
+  orig: 25, 23
+  offset: 1, 0
+  index: -1
+dragon_akaah_child_leg1
+  rotate: true
+  xy: 688, 775
+  size: 36, 56
+  orig: 38, 59
+  offset: 2, 2
+  index: -1
+dragon_akaah_child_leg2
+  rotate: false
+  xy: 481, 430
+  size: 27, 22
+  orig: 29, 26
+  offset: 0, 2
+  index: -1
+dragon_akaah_child_leg3
+  rotate: true
+  xy: 270, 785
+  size: 19, 40
+  orig: 24, 42
+  offset: 2, 0
+  index: -1
+dragon_akaah_child_leg4
+  rotate: false
+  xy: 211, 785
+  size: 33, 26
+  orig: 35, 26
+  offset: 2, 0
+  index: -1
+dragon_akaah_child_leg5
+  rotate: true
+  xy: 901, 795
+  size: 16, 19
+  orig: 20, 20
+  offset: 2, 1
+  index: -1
+dragon_akaah_child_neck
+  rotate: false
+  xy: 469, 749
+  size: 40, 62
+  orig: 40, 63
+  offset: 0, 1
+  index: -1
+dragon_akaah_child_s
+  rotate: false
+  xy: 888, 613
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_akaah_child_tail
+  rotate: true
+  xy: 690, 612
+  size: 51, 82
+  orig: 51, 82
+  offset: 0, 0
+  index: -1
+dragon_akaah_child_wing
+  rotate: true
+  xy: 408, 699
+  size: 48, 96
+  orig: 53, 98
+  offset: 4, 2
+  index: -1
+dragon_akaah_critical_ef01
+  rotate: true
+  xy: 510, 496
+  size: 54, 167
+  orig: 60, 167
+  offset: 3, 0
+  index: -1
+dragon_akaah_critical_ef02
+  rotate: false
+  xy: 456, 389
+  size: 23, 64
+  orig: 28, 71
+  offset: 2, 4
+  index: -1
+dragon_akaah_critical_ef03
+  rotate: false
+  xy: 1, 697
+  size: 89, 110
+  orig: 96, 119
+  offset: 3, 7
+  index: -1
+dragon_akaah_critical_ef04
+  rotate: true
+  xy: 526, 618
+  size: 60, 101
+  orig: 70, 104
+  offset: 8, 1
+  index: -1
+dragon_akaah_critical_ef05
+  rotate: false
+  xy: 1, 1
+  size: 453, 452
+  orig: 533, 483
+  offset: 40, 17
+  index: -1
+dragon_akaah_critical_ef06
+  rotate: false
+  xy: 456, 1
+  size: 448, 386
+  orig: 521, 445
+  offset: 33, 59
+  index: -1
+dragon_akaah_e_arm1
+  rotate: true
+  xy: 233, 727
+  size: 56, 97
+  orig: 57, 97
+  offset: 0, 0
+  index: -1
+dragon_akaah_e_arm1_e
+  rotate: true
+  xy: 951, 670
+  size: 46, 55
+  orig: 62, 82
+  offset: 0, 2
+  index: -1
+dragon_akaah_e_body
+  rotate: false
+  xy: 679, 496
+  size: 120, 62
+  orig: 120, 64
+  offset: 0, 2
+  index: -1
+dragon_akaah_e_critical_ef01
+  rotate: false
+  xy: 1, 455
+  size: 131, 240
+  orig: 131, 240
+  offset: 0, 0
+  index: -1
+dragon_akaah_e_critical_ef02
+  rotate: true
+  xy: 775, 665
+  size: 51, 69
+  orig: 51, 69
+  offset: 0, 0
+  index: -1
+dragon_akaah_e_critical_feather1
+  rotate: true
+  xy: 960, 522
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+dragon_akaah_e_critical_feather2
+  rotate: true
+  xy: 408, 749
+  size: 62, 59
+  orig: 62, 59
+  offset: 0, 0
+  index: -1
+dragon_akaah_e_critical_feather3
+  rotate: true
+  xy: 625, 552
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1
+dragon_akaah_e_critical_feather4
+  rotate: false
+  xy: 580, 731
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1
+dragon_akaah_e_critical_feather5
+  rotate: false
+  xy: 890, 496
+  size: 68, 58
+  orig: 68, 58
+  offset: 0, 0
+  index: -1
+dragon_akaah_e_critical_feather6
+  rotate: false
+  xy: 511, 730
+  size: 67, 54
+  orig: 67, 54
+  offset: 0, 0
+  index: -1
+dragon_akaah_e_head
+  rotate: false
+  xy: 886, 453
+  size: 72, 41
+  orig: 72, 59
+  offset: 0, 0
+  index: -1
+dragon_akaah_e_neck1
+  rotate: true
+  xy: 960, 589
   size: 39, 49
   orig: 43, 49
   offset: 2, 0
   index: -1
-dragon_akaah_child_leg3
+dragon_akaah_e_tail1
   rotate: false
-  xy: 1173, 470
-  size: 18, 38
-  orig: 24, 42
-  offset: 2, 1
-  index: -1
-dragon_akaah_baby_body
-  rotate: true
-  xy: 1122, 316
-  size: 64, 38
-  orig: 68, 42
-  offset: 1, 2
-  index: -1
-dragon_akaah_adult_jaw
-  rotate: true
-  xy: 1292, 417
-  size: 22, 16
-  orig: 22, 18
+  xy: 747, 718
+  size: 65, 55
+  orig: 65, 57
   offset: 0, 2
   index: -1
-dragon_akaah_baby_jaw
-  rotate: true
-  xy: 1265, 466
-  size: 21, 18
-  orig: 29, 24
-  offset: 5, 3
-  index: -1
-dragon_akaah_adult_neck2
+dragon_akaah_e_tail2
   rotate: false
-  xy: 1228, 306
-  size: 46, 46
-  orig: 48, 46
+  xy: 600, 687
+  size: 71, 42
+  orig: 71, 47
+  offset: 0, 2
+  index: -1
+dragon_akaah_e_tail3
+  rotate: true
+  xy: 947, 630
+  size: 38, 63
+  orig: 43, 64
+  offset: 2, 1
+  index: -1
+dragon_akaah_e_tail4
+  rotate: false
+  xy: 894, 712
+  size: 40, 58
+  orig: 41, 62
+  offset: 1, 4
+  index: -1
+dragon_akaah_e_tail4_e1
+  rotate: false
+  xy: 690, 665
+  size: 83, 50
+  orig: 83, 50
   offset: 0, 0
+  index: -1
+dragon_akaah_e_tail4_e2
+  rotate: true
+  xy: 836, 775
+  size: 36, 7
+  orig: 36, 7
+  offset: 0, 0
+  index: -1
+dragon_akaah_e_wing1
+  rotate: false
+  xy: 134, 455
+  size: 178, 148
+  orig: 182, 152
+  offset: 0, 3
   index: -1

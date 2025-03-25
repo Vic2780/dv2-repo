@@ -1,0 +1,88 @@
+4015_s01_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_4015_s_critical_dust22
+  rotate: false
+  xy: 2, 1340
+  size: 194, 110
+  orig: 308, 178
+  offset: 5, 13
+  index: -1
+dragon_4015_s_critical_dust12
+  rotate: false
+  xy: 124, 1542
+  size: 76, 74
+  orig: 308, 178
+  offset: 192, 76
+  index: -1
+dragon_4015_s_critical_dust15
+  rotate: false
+  xy: 2, 526
+  size: 234, 176
+  orig: 308, 178
+  offset: 37, 0
+  index: -1
+dragon_4015_s_critical_dust18
+  rotate: false
+  xy: 2, 360
+  size: 238, 164
+  orig: 308, 178
+  offset: 0, 0
+  index: -1
+dragon_4015_s_critical_dust23
+  rotate: true
+  xy: 124, 1452
+  size: 88, 108
+  orig: 308, 178
+  offset: 2, 15
+  index: -1
+dragon_4015_s_critical_dust13
+  rotate: false
+  xy: 2, 1452
+  size: 120, 144
+  orig: 308, 178
+  offset: 148, 7
+  index: -1
+dragon_4015_s_critical_dust16
+  rotate: false
+  xy: 2, 182
+  size: 246, 176
+  orig: 308, 178
+  offset: 25, 0
+  index: -1
+dragon_4015_s_critical_dust19
+  rotate: false
+  xy: 2, 704
+  size: 228, 158
+  orig: 308, 178
+  offset: 0, 10
+  index: -1
+dragon_4015_s_critical_dust17
+  rotate: false
+  xy: 2, 2
+  size: 246, 178
+  orig: 308, 178
+  offset: 0, 0
+  index: -1
+dragon_4015_s_critical_dust20
+  rotate: false
+  xy: 2, 864
+  size: 220, 158
+  orig: 308, 178
+  offset: 0, 10
+  index: -1
+dragon_4015_s_critical_dust21
+  rotate: false
+  xy: 2, 1182
+  size: 208, 156
+  orig: 308, 178
+  offset: 0, 13
+  index: -1
+dragon_4015_s_critical_dust14
+  rotate: false
+  xy: 2, 1024
+  size: 220, 156
+  orig: 308, 178
+  offset: 88, 7
+  index: -1

@@ -1,0 +1,788 @@
+dragon_4136_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_aruruga_child_face
+  rotate: false
+  xy: 1746, 388
+  size: 70, 63
+  orig: 70, 63
+  offset: 0, 0
+  index: -1
+dragon_aruruga_e_critical_water_a04
+  rotate: false
+  xy: 1954, 254
+  size: 82, 132
+  orig: 156, 142
+  offset: 18, 5
+  index: -1
+dragon_aruruga_e_critical_water_c08
+  rotate: false
+  xy: 217, 2
+  size: 221, 327
+  orig: 247, 387
+  offset: 14, 12
+  index: -1
+dragon_aruruga_e_critical_water_b11
+  rotate: false
+  xy: 1443, 495
+  size: 192, 38
+  orig: 202, 56
+  offset: 5, 6
+  index: -1
+dragon_aruruga_child_neck
+  rotate: true
+  xy: 1704, 500
+  size: 77, 40
+  orig: 77, 40
+  offset: 0, 0
+  index: -1
+dragon_aruruga_e_critical_water_b01
+  rotate: false
+  xy: 217, 331
+  size: 34, 12
+  orig: 202, 56
+  offset: 96, 27
+  index: -1
+dragon_aruruga_child_bubble
+  rotate: false
+  xy: 1983, 583
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+dragon_aruruga_child_eye2
+  rotate: true
+  xy: 2023, 65
+  size: 17, 14
+  orig: 17, 16
+  offset: 0, 1
+  index: -1
+dragon_aruruga_critical_bubble5
+  rotate: false
+  xy: 1192, 575
+  size: 71, 71
+  orig: 81, 71
+  offset: 10, 0
+  index: -1
+dragon_aruruga_baby_neck
+  rotate: true
+  xy: 2012, 571
+  size: 53, 25
+  orig: 53, 25
+  offset: 0, 0
+  index: -1
+dragon_aruruga_child_r_arm2
+  rotate: false
+  xy: 758, 297
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+dragon_aruruga_e_critical_water_c11
+  rotate: true
+  xy: 924, 364
+  size: 235, 87
+  orig: 247, 387
+  offset: 6, 4
+  index: -1
+dragon_aruruga_baby_r_hand
+  rotate: true
+  xy: 2023, 26
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+dragon_aruruga_baby_l_arm
+  rotate: false
+  xy: 677, 625
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+dragon_aruruga_e_critical_water_c01
+  rotate: false
+  xy: 767, 364
+  size: 155, 225
+  orig: 247, 387
+  offset: 47, 33
+  index: -1
+dragon_aruruga_baby_l_foot
+  rotate: true
+  xy: 1811, 510
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+dragon_aruruga_critical_bubble
+  rotate: false
+  xy: 654, 625
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+dragon_aruruga_e_critical_water_a00
+  rotate: false
+  xy: 253, 610
+  size: 60, 36
+  orig: 156, 142
+  offset: 96, 4
+  index: -1
+dragon_aruruga_adult_l_arm
+  rotate: false
+  xy: 1574, 535
+  size: 75, 56
+  orig: 75, 56
+  offset: 0, 0
+  index: -1
+dragon_aruruga_e_r_arm3
+  rotate: false
+  xy: 613, 600
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+dragon_aruruga_adult_tail2
+  rotate: false
+  xy: 1826, 254
+  size: 126, 104
+  orig: 126, 104
+  offset: 0, 0
+  index: -1
+dragon_aruruga_baby_r_arm
+  rotate: false
+  xy: 1337, 438
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+dragon_aruruga_child_hip
+  rotate: false
+  xy: 1589, 593
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+dragon_aruruga_e_critical_water_c12
+  rotate: false
+  xy: 1013, 389
+  size: 217, 77
+  orig: 247, 387
+  offset: 25, 17
+  index: -1
+dragon_aruruga_child_r_hand
+  rotate: false
+  xy: 758, 327
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+dragon_aruruga_e_critical_water_c02
+  rotate: true
+  xy: 787, 195
+  size: 167, 263
+  orig: 247, 387
+  offset: 42, 33
+  index: -1
+dragon_aruruga_adult_l_hand
+  rotate: true
+  xy: 1914, 565
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+dragon_aruruga_adult_r_hand
+  rotate: true
+  xy: 979, 601
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+dragon_aruruga_adult_face
+  rotate: false
+  xy: 1232, 389
+  size: 70, 75
+  orig: 70, 81
+  offset: 0, 0
+  index: -1
+dragon_aruruga_adult_eye
+  rotate: true
+  xy: 979, 634
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+dragon_aruruga_e_critical_water_b09
+  rotate: false
+  xy: 1826, 212
+  size: 192, 40
+  orig: 202, 56
+  offset: 5, 5
+  index: -1
+dragon_aruruga_critical_bubble4
+  rotate: false
+  xy: 1813, 565
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+dragon_aruruga_child_eye
+  rotate: false
+  xy: 1779, 625
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+dragon_aruruga_adult_neck_acc
+  rotate: true
+  xy: 1358, 551
+  size: 86, 56
+  orig: 86, 56
+  offset: 0, 0
+  index: -1
+dragon_aruruga_critical_water3
+  rotate: false
+  xy: 635, 397
+  size: 130, 226
+  orig: 136, 226
+  offset: 4, 0
+  index: -1
+dragon_aruruga_e_critical_water_c09
+  rotate: true
+  xy: 1465, 2
+  size: 227, 305
+  orig: 247, 387
+  offset: 11, 8
+  index: -1
+dragon_aruruga_e_critical_water_a08
+  rotate: false
+  xy: 1950, 557
+  size: 60, 24
+  orig: 156, 142
+  offset: 18, 8
+  index: -1
+dragon_aruruga_e_wing_b
+  rotate: true
+  xy: 1416, 597
+  size: 48, 115
+  orig: 48, 115
+  offset: 0, 0
+  index: -1
+dragon_aruruga_child_l_arm2
+  rotate: false
+  xy: 1702, 616
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+dragon_aruruga_baby_l_hand
+  rotate: true
+  xy: 2023, 2
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+dragon_aruruga_e_tail1
+  rotate: false
+  xy: 922, 601
+  size: 55, 45
+  orig: 57, 47
+  offset: 1, 1
+  index: -1
+dragon_aruruga_e_wing_f_light
+  rotate: true
+  xy: 1823, 464
+  size: 99, 125
+  orig: 101, 125
+  offset: 1, 0
+  index: -1
+dragon_aruruga_baby_eye2
+  rotate: false
+  xy: 1890, 602
+  size: 18, 18
+  orig: 20, 20
+  offset: 2, 1
+  index: -1
+dragon_aruruga_e_head
+  rotate: false
+  xy: 1753, 573
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+dragon_aruruga_adult_r_arm
+  rotate: false
+  xy: 1746, 453
+  size: 75, 55
+  orig: 75, 55
+  offset: 0, 0
+  index: -1
+dragon_aruruga_child_mouth
+  rotate: false
+  xy: 1772, 212
+  size: 44, 17
+  orig: 44, 17
+  offset: 0, 0
+  index: -1
+dragon_aruruga_critical_water7
+  rotate: true
+  xy: 1052, 197
+  size: 190, 260
+  orig: 190, 260
+  offset: 0, 0
+  index: -1
+dragon_aruruga_child_l_leg
+  rotate: true
+  xy: 1304, 438
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+dragon_aruruga_e_critical_water_b13
+  rotate: false
+  xy: 2, 638
+  size: 82, 8
+  orig: 202, 56
+  offset: 64, 26
+  index: -1
+dragon_aruruga_e_critical_water_b03
+  rotate: true
+  xy: 758, 205
+  size: 90, 26
+  orig: 202, 56
+  offset: 64, 18
+  index: -1
+dragon_aruruga_e_l_arm3
+  rotate: false
+  xy: 736, 625
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+dragon_aruruga_adult_tail
+  rotate: true
+  xy: 1239, 466
+  size: 104, 114
+  orig: 104, 114
+  offset: 0, 0
+  index: -1
+dragon_aruruga_adult_r_arm2
+  rotate: false
+  xy: 1704, 579
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+dragon_aruruga_child_tail
+  rotate: false
+  xy: 1691, 394
+  size: 53, 104
+  orig: 53, 104
+  offset: 0, 0
+  index: -1
+dragon_aruruga_child_l_hand
+  rotate: true
+  xy: 1013, 364
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+dragon_aruruga_e_wing_f
+  rotate: false
+  xy: 1355, 438
+  size: 86, 111
+  orig: 86, 111
+  offset: 0, 0
+  index: -1
+dragon_aruruga_critical_water2
+  rotate: true
+  xy: 1013, 579
+  size: 67, 177
+  orig: 71, 179
+  offset: 0, 2
+  index: -1
+dragon_aruruga_e_critical_water_c03
+  rotate: false
+  xy: 2, 345
+  size: 185, 291
+  orig: 247, 387
+  offset: 35, 32
+  index: -1
+dragon_aruruga_baby_bubble
+  rotate: false
+  xy: 1983, 583
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+dragon_aruruga_e_critical_water_a02
+  rotate: true
+  xy: 1826, 360
+  size: 102, 126
+  orig: 156, 142
+  offset: 23, 5
+  index: -1
+dragon_aruruga_e_critical_water_c06
+  rotate: true
+  xy: 440, 2
+  size: 201, 345
+  orig: 247, 387
+  offset: 24, 22
+  index: -1
+dragon_aruruga_e_r_arm1
+  rotate: true
+  xy: 315, 610
+  size: 36, 58
+  orig: 36, 58
+  offset: 0, 0
+  index: -1
+dragon_aruruga_adult_l_arm2
+  rotate: false
+  xy: 1865, 565
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+dragon_aruruga_baby_face
+  rotate: false
+  xy: 1746, 510
+  size: 63, 61
+  orig: 63, 61
+  offset: 0, 0
+  index: -1
+dragon_aruruga_critical_water6
+  rotate: false
+  xy: 189, 345
+  size: 192, 263
+  orig: 200, 263
+  offset: 3, 0
+  index: -1
+dragon_aruruga_adult_bubble
+  rotate: false
+  xy: 1983, 583
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+dragon_aruruga_adult_eye3
+  rotate: true
+  xy: 1452, 197
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+dragon_aruruga_critical_water1
+  rotate: true
+  xy: 767, 591
+  size: 47, 153
+  orig: 47, 153
+  offset: 0, 0
+  index: -1
+dragon_aruruga_child_l_arm
+  rotate: false
+  xy: 1865, 602
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+dragon_aruruga_adult_neck
+  rotate: false
+  xy: 1651, 535
+  size: 51, 68
+  orig: 51, 68
+  offset: 0, 0
+  index: -1
+dragon_aruruga_adult_l_leg
+  rotate: true
+  xy: 1813, 617
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+dragon_aruruga_child_r_arm
+  rotate: false
+  xy: 2020, 212
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+dragon_aruruga_e_critical_water_b07
+  rotate: true
+  xy: 706, 205
+  size: 190, 50
+  orig: 202, 56
+  offset: 6, 3
+  index: -1
+dragon_aruruga_baby_body
+  rotate: false
+  xy: 1637, 495
+  size: 51, 38
+  orig: 51, 38
+  offset: 0, 0
+  index: -1
+dragon_aruruga_child_l_foot
+  rotate: false
+  xy: 2019, 492
+  size: 18, 38
+  orig: 18, 38
+  offset: 0, 0
+  index: -1
+dragon_aruruga_critical_circle1
+  rotate: false
+  xy: 1013, 468
+  size: 159, 109
+  orig: 161, 111
+  offset: 1, 1
+  index: -1
+dragon_aruruga_baby_tail
+  rotate: false
+  xy: 189, 610
+  size: 62, 36
+  orig: 62, 36
+  offset: 0, 0
+  index: -1
+dragon_aruruga_critical_water5
+  rotate: true
+  xy: 1452, 231
+  size: 161, 261
+  orig: 165, 265
+  offset: 4, 4
+  index: -1
+dragon_aruruga_e_critical_water_c04
+  rotate: true
+  xy: 1130, 2
+  size: 193, 333
+  orig: 247, 387
+  offset: 28, 28
+  index: -1
+dragon_aruruga_adult_eye2
+  rotate: true
+  xy: 1452, 215
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+dragon_aruruga_e_critical_water_c07
+  rotate: false
+  xy: 2, 2
+  size: 213, 341
+  orig: 247, 387
+  offset: 19, 15
+  index: -1
+dragon_aruruga_e_l_arm1
+  rotate: true
+  xy: 315, 610
+  size: 36, 58
+  orig: 36, 58
+  offset: 0, 0
+  index: -1
+dragon_aruruga_e_critical_water_a06
+  rotate: false
+  xy: 1954, 388
+  size: 78, 102
+  orig: 156, 142
+  offset: 7, 5
+  index: -1
+dragon_aruruga_adult_mouth
+  rotate: true
+  xy: 2019, 532
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+dragon_aruruga_critical_circle2
+  rotate: true
+  xy: 1715, 231
+  size: 155, 109
+  orig: 161, 111
+  offset: 3, 0
+  index: -1
+dragon_aruruga_e_r_leg1
+  rotate: false
+  xy: 1670, 605
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+dragon_aruruga_baby_l_leg
+  rotate: true
+  xy: 1876, 626
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+dragon_aruruga_critical_bubble2
+  rotate: false
+  xy: 1983, 583
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+dragon_aruruga_e_critical_water_c10
+  rotate: false
+  xy: 1452, 394
+  size: 237, 99
+  orig: 247, 387
+  offset: 4, 6
+  index: -1
+dragon_aruruga_adult_r_leg2
+  rotate: false
+  xy: 1753, 625
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+dragon_aruruga_e_wing_m
+  rotate: false
+  xy: 1638, 605
+  size: 30, 41
+  orig: 32, 43
+  offset: 1, 1
+  index: -1
+dragon_aruruga_critical_water10
+  rotate: true
+  xy: 383, 397
+  size: 201, 250
+  orig: 203, 254
+  offset: 0, 4
+  index: -1
+dragon_aruruga_critical_water9
+  rotate: true
+  xy: 1772, 2
+  size: 208, 249
+  orig: 214, 251
+  offset: 4, 2
+  index: -1
+dragon_aruruga_e_critical_water_c00
+  rotate: false
+  xy: 1950, 492
+  size: 67, 63
+  orig: 247, 387
+  offset: 99, 50
+  index: -1
+dragon_aruruga_adult_l_foot
+  rotate: false
+  xy: 1416, 551
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+dragon_aruruga_adult_chest
+  rotate: false
+  xy: 1265, 572
+  size: 91, 68
+  orig: 91, 68
+  offset: 0, 0
+  index: -1
+dragon_aruruga_adult_r_foot
+  rotate: true
+  xy: 613, 625
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+dragon_aruruga_adult_r_leg
+  rotate: true
+  xy: 1950, 583
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+dragon_aruruga_baby_mouth
+  rotate: false
+  xy: 696, 625
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+dragon_aruruga_e_body
+  rotate: true
+  xy: 557, 600
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+dragon_aruruga_critical_water4
+  rotate: false
+  xy: 1314, 197
+  size: 136, 239
+  orig: 136, 241
+  offset: 0, 2
+  index: -1
+dragon_aruruga_adult_hip
+  rotate: true
+  xy: 1533, 597
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+dragon_aruruga_adult_l_leg2
+  rotate: false
+  xy: 1850, 626
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+dragon_aruruga_e_wing_m1
+  rotate: false
+  xy: 1735, 616
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+dragon_aruruga_e_critical_water_b05
+  rotate: false
+  xy: 383, 600
+  size: 172, 46
+  orig: 202, 56
+  offset: 17, 4
+  index: -1
+dragon_aruruga_child_chest
+  rotate: false
+  xy: 383, 331
+  size: 54, 63
+  orig: 54, 63
+  offset: 0, 0
+  index: -1
+dragon_aruruga_e_wing_b_light
+  rotate: true
+  xy: 1443, 535
+  size: 60, 129
+  orig: 62, 129
+  offset: 1, 0
+  index: -1
+dragon_aruruga_child_l_leg2
+  rotate: true
+  xy: 2023, 46
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_aruruga_e_tail2
+  rotate: true
+  xy: 1174, 468
+  size: 105, 63
+  orig: 107, 65
+  offset: 1, 1
+  index: -1
+dragon_aruruga_critical_water8
+  rotate: true
+  xy: 440, 205
+  size: 190, 264
+  orig: 194, 266
+  offset: 2, 2
+  index: -1
+dragon_aruruga_e_critical_water_c05
+  rotate: true
+  xy: 787, 2
+  size: 191, 341
+  orig: 247, 387
+  offset: 29, 26
+  index: -1
+dragon_aruruga_baby_eye
+  rotate: false
+  xy: 1983, 604
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1

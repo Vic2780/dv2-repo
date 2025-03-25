@@ -7,7 +7,7 @@
             <key>dragon/dragon_4018/box_adult.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,171},{67,70}}</string>
+                <string>{{2,242},{67,70}}</string>
                 <key>offset</key>
                 <string>{3,0}</string>
                 <key>rotated</key>
@@ -33,13 +33,26 @@
             <key>dragon/dragon_4018/box_child.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,240},{65,70}}</string>
+                <string>{{2,311},{65,70}}</string>
                 <key>offset</key>
                 <string>{-4,0}</string>
                 <key>rotated</key>
                 <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{65,70}}</string>
+                <key>sourceSize</key>
+                <string>{73,70}</string>
+            </dict>
+            <key>dragon/dragon_4018/box_evolution.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,171},{69,70}}</string>
+                <key>offset</key>
+                <string>{2,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{4,0},{69,70}}</string>
                 <key>sourceSize</key>
                 <string>{73,70}</string>
             </dict>
@@ -59,7 +72,7 @@
             <key>dragon/dragon_4018/egg_small.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,307},{47,59}}</string>
+                <string>{{2,378},{47,59}}</string>
                 <key>offset</key>
                 <string>{-1,-1}</string>
                 <key>rotated</key>
@@ -77,9 +90,9 @@
             <key>realTextureFileName</key>
             <string>dragon_4018.pvr.ccz</string>
             <key>size</key>
-            <string>{83,356}</string>
+            <string>{83,427}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:8e47379353510d0297a937579e8fa542:28a54853cb39a0672d2a27fdf315a8a2:051d7b053e26a1c035e988bc93e7a9f8$</string>
+            <string>$TexturePacker:SmartUpdate:ee41ac8b7c7dc0e94707eabbabe6b7a2:4324a1917536c3962e217cf3c7e730a5:051d7b053e26a1c035e988bc93e7a9f8$</string>
             <key>textureFileName</key>
             <string>dragon_4018.pvr.ccz</string>
         </dict>

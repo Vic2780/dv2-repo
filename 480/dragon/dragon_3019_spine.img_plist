@@ -2,710 +2,1095 @@ dragon_3019_spine.pvr.ccz
 format: RGBA4444
 filter: Linear,Linear
 repeat: none
-dragon_deathripper_child_leg2
-  rotate: false
-  xy: 1406, 90
-  size: 23, 17
-  orig: 23, 17
-  offset: 0, 0
-  index: -1
-dragon_deathripper_child_body2
-  rotate: false
-  xy: 944, 40
-  size: 53, 36
-  orig: 59, 36
-  offset: 6, 0
-  index: -1
-dragon_deathripper_child_arm1
-  rotate: false
-  xy: 1406, 68
-  size: 22, 20
-  orig: 46, 74
-  offset: 9, 37
-  index: -1
-dragon_deathripper_child_mouth2
+dragon_deathripper_adult_head
   rotate: true
-  xy: 527, 101
-  size: 25, 27
-  orig: 67, 53
-  offset: 12, 2
-  index: -1
-dragon_deathripper_baby_fire2
-  rotate: false
-  xy: 1116, 89
-  size: 38, 37
-  orig: 38, 37
-  offset: 0, 0
-  index: -1
-dragon_deathripper_baby_mouth1
-  rotate: true
-  xy: 969, 78
-  size: 13, 18
-  orig: 51, 56
-  offset: 2, 10
-  index: -1
-dragon_deathripper_adult_tail9
-  rotate: false
-  xy: 394, 97
-  size: 29, 29
-  orig: 31, 31
-  offset: 2, 2
-  index: -1
-dragon_deathripper_child_head
-  rotate: false
-  xy: 875, 27
-  size: 67, 51
-  orig: 67, 53
-  offset: 0, 2
-  index: -1
-dragon_deathripper_baby_leg2
-  rotate: false
-  xy: 1070, 93
-  size: 17, 17
-  orig: 17, 17
-  offset: 0, 0
-  index: -1
-dragon_deathripper_adult_leg3
-  rotate: false
-  xy: 1406, 39
-  size: 28, 27
-  orig: 28, 27
-  offset: 0, 0
-  index: -1
-dragon_deathripper_adult_arm2
-  rotate: true
-  xy: 1024, 48
-  size: 35, 44
-  orig: 37, 44
-  offset: 2, 0
-  index: -1
-dragon_deathripper_child_part3
-  rotate: false
-  xy: 98, 112
-  size: 17, 14
-  orig: 25, 26
-  offset: 0, 0
-  index: -1
-dragon_deathripper_adult_tail4
-  rotate: false
-  xy: 1089, 93
-  size: 17, 17
-  orig: 17, 17
-  offset: 0, 0
-  index: -1
-dragon_deathripper_adult_foot1
-  rotate: false
-  xy: 608, 101
-  size: 49, 20
-  orig: 49, 20
-  offset: 0, 0
-  index: -1
-dragon_deathripper_child_leg1
-  rotate: false
-  xy: 999, 40
-  size: 23, 38
-  orig: 23, 38
-  offset: 0, 0
-  index: -1
-dragon_deathripper_child_tail3
-  rotate: false
-  xy: 1402, 109
-  size: 19, 17
-  orig: 19, 17
-  offset: 0, 0
-  index: -1
-dragon_deathripper_adult_hit
-  rotate: true
-  xy: 829, 37
+  xy: 762, 162
   size: 68, 44
   orig: 68, 46
   offset: 0, 2
   index: -1
-dragon_deathripper_adult_neck5
-  rotate: false
-  xy: 1345, 55
-  size: 28, 23
-  orig: 28, 23
-  offset: 0, 0
-  index: -1
-dragon_deathripper_baby_hand
-  rotate: false
-  xy: 1282, 88
-  size: 21, 27
-  orig: 21, 27
-  offset: 0, 0
-  index: -1
-dragon_deathripper_adult_fire3
-  rotate: false
-  xy: 322, 2
-  size: 117, 93
-  orig: 121, 99
-  offset: 4, 0
-  index: -1
-dragon_deathripper_adult_part2
-  rotate: true
-  xy: 1364, 102
-  size: 23, 18
-  orig: 29, 24
-  offset: 0, 0
-  index: -1
-dragon_deathripper_baby_tail
-  rotate: false
-  xy: 659, 101
-  size: 45, 22
-  orig: 45, 22
-  offset: 0, 0
-  index: -1
-dragon_deathripper_adult_tail8
-  rotate: false
-  xy: 1423, 109
-  size: 11, 16
-  orig: 11, 16
-  offset: 0, 0
-  index: -1
-dragon_deathripper_adult_sholder2
-  rotate: false
-  xy: 1233, 55
-  size: 38, 32
-  orig: 38, 36
-  offset: 0, 4
-  index: -1
-dragon_deathripper_adult_love
-  rotate: false
-  xy: 1382, 75
-  size: 22, 22
-  orig: 68, 46
-  offset: 6, 8
-  index: -1
-dragon_deathripper_child_tail7
-  rotate: true
-  xy: 817, 114
-  size: 12, 10
-  orig: 14, 12
-  offset: 0, 2
-  index: -1
-dragon_deathripper_adult_leg2
-  rotate: false
-  xy: 784, 114
-  size: 15, 12
-  orig: 57, 20
-  offset: 0, 5
-  index: -1
-dragon_deathripper_adult_neck1
-  rotate: true
-  xy: 1363, 80
-  size: 20, 17
-  orig: 22, 17
-  offset: 2, 0
-  index: -1
-dragon_deathripper_child_body
-  rotate: true
-  xy: 1349, 2
-  size: 51, 55
-  orig: 53, 55
-  offset: 0, 0
-  index: -1
-dragon_deathripper_child_neck
-  rotate: true
-  xy: 357, 97
-  size: 29, 35
-  orig: 29, 35
-  offset: 0, 0
-  index: -1
-dragon_deathripper_child_part2
-  rotate: false
-  xy: 56, 112
-  size: 21, 14
-  orig: 25, 26
-  offset: 1, 6
-  index: -1
-dragon_deathripper_child_fire3
-  rotate: false
-  xy: 657, 2
-  size: 87, 75
-  orig: 89, 77
-  offset: 2, 2
-  index: -1
-dragon_deathripper_baby_fire1
-  rotate: false
-  xy: 1273, 55
-  size: 34, 31
-  orig: 38, 37
-  offset: 0, 0
-  index: -1
-dragon_deathripper_adult_note1
-  rotate: false
-  xy: 932, 85
-  size: 35, 41
-  orig: 35, 41
-  offset: 0, 0
-  index: -1
-dragon_deathripper_child_tail2
-  rotate: false
-  xy: 1049, 85
-  size: 19, 17
-  orig: 19, 17
-  offset: 0, 0
-  index: -1
-dragon_deathripper_baby_arm11
-  rotate: false
-  xy: 746, 114
-  size: 17, 12
-  orig: 21, 18
-  offset: 2, 0
-  index: -1
-dragon_deathripper_adult_neck2
-  rotate: false
-  xy: 462, 101
-  size: 32, 25
-  orig: 32, 25
-  offset: 0, 0
-  index: -1
-dragon_deathripper_adult_hand
-  rotate: false
-  xy: 746, 2
-  size: 125, 33
-  orig: 125, 33
-  offset: 0, 0
-  index: -1
-dragon_deathripper_baby_arm1
-  rotate: false
-  xy: 1010, 116
-  size: 13, 10
-  orig: 21, 18
-  offset: 2, 5
-  index: -1
-dragon_deathripper_adult_fire2
-  rotate: false
-  xy: 441, 2
-  size: 113, 97
-  orig: 121, 99
-  offset: 0, 1
-  index: -1
-dragon_deathripper_baby_body
-  rotate: true
-  xy: 1406, 2
-  size: 35, 28
-  orig: 35, 28
-  offset: 0, 0
-  index: -1
-dragon_deathripper_adult_arm1
-  rotate: false
-  xy: 1116, 48
-  size: 39, 39
-  orig: 39, 39
-  offset: 0, 0
-  index: -1
-dragon_deathripper_child_anger
-  rotate: false
-  xy: 1230, 89
-  size: 26, 26
-  orig: 26, 26
-  offset: 0, 0
-  index: -1
-dragon_deathripper_adult_part1
-  rotate: false
-  xy: 2, 112
-  size: 27, 14
-  orig: 29, 24
-  offset: 2, 10
-  index: -1
-dragon_deathripper_adult_note2
-  rotate: false
-  xy: 714, 79
-  size: 30, 38
-  orig: 32, 40
-  offset: 1, 1
-  index: -1
-dragon_deathripper_child_tail10
-  rotate: true
-  xy: 829, 107
-  size: 16, 44
-  orig: 20, 44
-  offset: 0, 0
-  index: -1
-dragon_deathripper_child_tail6
-  rotate: false
-  xy: 1091, 112
-  size: 13, 11
-  orig: 13, 11
-  offset: 0, 0
-  index: -1
-dragon_deathripper_baby_foot
-  rotate: false
-  xy: 1045, 112
-  size: 14, 14
-  orig: 14, 14
-  offset: 0, 0
-  index: -1
-dragon_deathripper_child_arm11
-  rotate: false
-  xy: 1157, 57
-  size: 36, 30
-  orig: 46, 74
-  offset: 0, 23
-  index: -1
-dragon_deathripper_adult_mouth1
-  rotate: true
-  xy: 1346, 102
-  size: 24, 16
-  orig: 68, 46
-  offset: 11, 6
-  index: -1
-dragon_deathripper_child_part1
-  rotate: false
-  xy: 31, 112
-  size: 23, 14
-  orig: 25, 26
-  offset: 2, 12
-  index: -1
-dragon_deathripper_baby_eye
-  rotate: false
-  xy: 1327, 102
-  size: 17, 24
-  orig: 51, 56
-  offset: 12, 12
-  index: -1
-dragon_deathripper_adult_fire6
-  rotate: false
-  xy: 2, 2
-  size: 159, 53
-  orig: 163, 53
-  offset: 4, 0
-  index: -1
-dragon_deathripper_child_fire2
-  rotate: false
-  xy: 746, 37
-  size: 81, 75
-  orig: 89, 77
-  offset: 7, 2
-  index: -1
-dragon_deathripper_adult_body3
-  rotate: false
-  xy: 254, 53
-  size: 55, 69
-  orig: 55, 69
-  offset: 0, 0
-  index: -1
-dragon_deathripper_adult_tail3
-  rotate: true
-  xy: 117, 112
-  size: 14, 17
-  orig: 14, 17
-  offset: 0, 0
-  index: -1
-dragon_deathripper_child_tail1
-  rotate: false
-  xy: 1027, 85
-  size: 20, 20
-  orig: 20, 20
-  offset: 0, 0
-  index: -1
-dragon_deathripper_baby_part
-  rotate: false
-  xy: 989, 80
-  size: 15, 11
-  orig: 15, 11
-  offset: 0, 0
-  index: -1
-dragon_deathripper_adult_mouth2
-  rotate: true
-  xy: 1258, 89
-  size: 26, 22
-  orig: 68, 46
-  offset: 6, 0
-  index: -1
-dragon_deathripper_adult_leg1
-  rotate: false
-  xy: 875, 80
-  size: 55, 33
-  orig: 55, 33
-  offset: 0, 0
-  index: -1
-dragon_deathripper_child_love
-  rotate: false
-  xy: 993, 93
-  size: 15, 23
-  orig: 67, 53
-  offset: 9, 19
-  index: -1
-dragon_deathripper_adult_fire1
-  rotate: true
-  xy: 556, 2
-  size: 97, 99
-  orig: 121, 99
-  offset: 12, 0
-  index: -1
-dragon_deathripper_adult_tail7
-  rotate: true
-  xy: 765, 114
-  size: 12, 17
-  orig: 12, 17
-  offset: 0, 0
-  index: -1
-dragon_deathripper_child_tail5
-  rotate: false
-  xy: 1006, 80
-  size: 14, 11
-  orig: 14, 11
-  offset: 0, 0
-  index: -1
-dragon_deathripper_child_hand
-  rotate: true
-  xy: 952, 2
-  size: 36, 74
-  orig: 46, 74
-  offset: 10, 0
-  index: -1
-dragon_deathripper_adult_neck3
-  rotate: false
-  xy: 425, 101
-  size: 35, 25
-  orig: 35, 25
-  offset: 0, 0
-  index: -1
-dragon_deathripper_adult_fire5
-  rotate: false
-  xy: 163, 2
-  size: 157, 49
-  orig: 163, 53
-  offset: 0, 2
-  index: -1
 dragon_deathripper_child_fire1
-  rotate: false
-  xy: 163, 53
+  rotate: true
+  xy: 346, 163
   size: 89, 73
   orig: 89, 77
   offset: 0, 0
   index: -1
-dragon_deathripper_child_koong
-  rotate: false
-  xy: 873, 2
-  size: 77, 23
-  orig: 77, 23
-  offset: 0, 0
-  index: -1
-dragon_deathripper_adult_body2
+dragon_deathripper_child_fire2
   rotate: true
-  xy: 1156, 89
-  size: 37, 38
-  orig: 47, 44
-  offset: 0, 6
+  xy: 498, 163
+  size: 81, 75
+  orig: 89, 77
+  offset: 7, 2
   index: -1
-dragon_deathripper_baby_note2
-  rotate: false
-  xy: 932, 85
-  size: 35, 41
-  orig: 35, 41
-  offset: 0, 0
-  index: -1
-dragon_deathripper_adult_tail2
+dragon_deathripper_baby_body
   rotate: true
-  xy: 1337, 80
-  size: 20, 24
-  orig: 20, 24
+  xy: 316, 203
+  size: 35, 28
+  orig: 35, 28
   offset: 0, 0
   index: -1
-dragon_deathripper_baby_leg1
-  rotate: false
-  xy: 875, 115
-  size: 25, 11
-  orig: 25, 11
+dragon_deathripper_adult_hand
+  rotate: true
+  xy: 453, 2
+  size: 125, 33
+  orig: 125, 33
   offset: 0, 0
   index: -1
-dragon_deathripper_child_tail9
-  rotate: false
-  xy: 1061, 112
-  size: 13, 13
-  orig: 13, 13
-  offset: 0, 0
+dragon_deathripper_child_fire3
+  rotate: true
+  xy: 421, 163
+  size: 87, 75
+  orig: 89, 77
+  offset: 2, 2
   index: -1
 dragon_deathripper_child_eye
-  rotate: false
-  xy: 1010, 93
+  rotate: true
+  xy: 1171, 86
   size: 15, 21
   orig: 67, 53
   offset: 13, 17
   index: -1
-dragon_deathripper_baby_head
+dragon_deathripper_child_leg1
   rotate: true
-  xy: 1291, 2
-  size: 51, 56
-  orig: 51, 56
+  xy: 970, 191
+  size: 23, 38
+  orig: 23, 38
   offset: 0, 0
   index: -1
-dragon_deathripper_baby_arm2
-  rotate: true
-  xy: 1196, 89
-  size: 34, 32
-  orig: 34, 32
-  offset: 0, 0
-  index: -1
-dragon_deathripper_adult_att
+dragon_deathripper_e_foot2
   rotate: false
-  xy: 1098, 2
+  xy: 1132, 89
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+dragon_deathripper_e_att
+  rotate: true
+  xy: 808, 162
   size: 68, 44
   orig: 68, 46
   offset: 0, 2
   index: -1
-dragon_deathripper_child_mouth1
+dragon_deathripper_child_leg2
   rotate: true
-  xy: 496, 101
-  size: 25, 29
-  orig: 67, 53
-  offset: 16, 0
-  index: -1
-dragon_deathripper_adult_eye
-  rotate: true
-  xy: 801, 114
-  size: 12, 14
-  orig: 68, 46
-  offset: 12, 12
-  index: -1
-dragon_deathripper_baby_body2
-  rotate: false
-  xy: 1309, 55
-  size: 34, 21
-  orig: 34, 21
+  xy: 1082, 191
+  size: 23, 17
+  orig: 23, 17
   offset: 0, 0
   index: -1
-dragon_deathripper_adult_tail6
+dragon_deathripper_baby_leg1
   rotate: false
-  xy: 1027, 107
-  size: 16, 16
-  orig: 16, 16
+  xy: 575, 242
+  size: 25, 11
+  orig: 25, 11
   offset: 0, 0
   index: -1
-dragon_deathripper_child_tail4
-  rotate: false
-  xy: 79, 112
-  size: 17, 14
-  orig: 17, 14
-  offset: 0, 0
-  index: -1
-dragon_deathripper_baby_love
+dragon_deathripper_e_note2
   rotate: true
-  xy: 1233, 2
-  size: 51, 56
-  orig: 51, 56
+  xy: 781, 71
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_deathripper_baby_note2
+  rotate: false
+  xy: 948, 59
+  size: 35, 41
+  orig: 35, 41
   offset: 0, 0
   index: -1
 dragon_deathripper_child_leg3
-  rotate: false
-  xy: 1384, 99
+  rotate: true
+  xy: 702, 237
   size: 16, 26
   orig: 16, 26
   offset: 0, 0
   index: -1
-dragon_deathripper_adult_fire4
+dragon_deathripper_baby_note1
+  rotate: true
+  xy: 781, 71
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_deathripper_baby_leg2
   rotate: false
-  xy: 2, 57
+  xy: 1052, 84
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_deathripper_child_body
+  rotate: false
+  xy: 854, 161
+  size: 51, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+dragon_deathripper_e_foot1
+  rotate: true
+  xy: 910, 103
+  size: 49, 23
+  orig: 49, 23
+  offset: 0, 0
+  index: -1
+dragon_deathripper_adult_leg2
+  rotate: false
+  xy: 1214, 32
+  size: 15, 12
+  orig: 57, 20
+  offset: 0, 5
+  index: -1
+dragon_deathripper_adult_leg1
+  rotate: true
+  xy: 875, 103
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+dragon_deathripper_adult_leg3
+  rotate: false
+  xy: 1170, 226
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+dragon_deathripper_e_note1
+  rotate: false
+  xy: 948, 59
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_deathripper_e_fire2
+  rotate: true
+  xy: 583, 2
+  size: 113, 97
+  orig: 121, 99
+  offset: 0, 1
+  index: -1
+dragon_deathripper_e_fire4
+  rotate: true
+  xy: 362, 2
   size: 157, 53
   orig: 163, 53
   offset: 6, 0
   index: -1
-dragon_deathripper_adult_arm22
+dragon_deathripper_e_fire3
   rotate: true
-  xy: 311, 97
-  size: 29, 44
-  orig: 37, 44
+  xy: 488, 2
+  size: 117, 93
+  orig: 121, 99
+  offset: 4, 0
+  index: -1
+dragon_deathripper_e_fire5
+  rotate: false
+  xy: 157, 203
+  size: 157, 49
+  orig: 163, 53
+  offset: 0, 2
+  index: -1
+dragon_deathripper_baby_fire2
+  rotate: false
+  xy: 973, 216
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+dragon_deathripper_baby_fire1
+  rotate: true
+  xy: 1118, 191
+  size: 34, 31
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+dragon_deathripper_e_fire1
+  rotate: false
+  xy: 682, 2
+  size: 97, 99
+  orig: 121, 99
+  offset: 12, 0
+  index: -1
+dragon_deathripper_baby_fire3
+  rotate: false
+  xy: 1071, 39
+  size: 30, 31
+  orig: 38, 37
   offset: 3, 0
   index: -1
-dragon_deathripper_child_arm2
+dragon_deathripper_e_fire6
   rotate: true
-  xy: 556, 101
+  xy: 307, 2
+  size: 159, 53
+  orig: 163, 53
+  offset: 4, 0
+  index: -1
+dragon_deathripper_baby_arm1
+  rotate: false
+  xy: 1178, 74
+  size: 13, 10
+  orig: 21, 18
+  offset: 2, 5
+  index: -1
+dragon_deathripper_e_leg22
+  rotate: true
+  xy: 942, 2
+  size: 55, 20
+  orig: 57, 20
+  offset: 2, 0
+  index: -1
+dragon_deathripper_baby_foot
+  rotate: false
+  xy: 1207, 59
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+dragon_deathripper_baby_hand
+  rotate: true
+  xy: 804, 232
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+dragon_deathripper_baby_arm2
+  rotate: true
+  xy: 859, 67
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+dragon_deathripper_e_sholder
+  rotate: false
+  xy: 755, 103
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+dragon_deathripper_adult_love
+  rotate: false
+  xy: 1154, 62
+  size: 22, 22
+  orig: 68, 46
+  offset: 6, 8
+  index: -1
+dragon_deathripper_adult_fire1
+  rotate: false
+  xy: 682, 2
+  size: 97, 99
+  orig: 121, 99
+  offset: 12, 0
+  index: -1
+dragon_deathripper_adult_fire4
+  rotate: true
+  xy: 362, 2
+  size: 157, 53
+  orig: 163, 53
+  offset: 6, 0
+  index: -1
+dragon_deathripper_adult_fire2
+  rotate: true
+  xy: 583, 2
+  size: 113, 97
+  orig: 121, 99
+  offset: 0, 1
+  index: -1
+dragon_deathripper_e_eye
+  rotate: false
+  xy: 1220, 75
+  size: 12, 14
+  orig: 68, 46
+  offset: 12, 12
+  index: -1
+dragon_deathripper_adult_fire5
+  rotate: false
+  xy: 157, 203
+  size: 157, 49
+  orig: 163, 53
+  offset: 0, 2
+  index: -1
+dragon_deathripper_adult_tail1
+  rotate: false
+  xy: 1132, 62
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+dragon_deathripper_adult_tail4
+  rotate: false
+  xy: 1179, 24
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_deathripper_adult_fire3
+  rotate: true
+  xy: 488, 2
+  size: 117, 93
+  orig: 121, 99
+  offset: 4, 0
+  index: -1
+dragon_deathripper_child_love
+  rotate: false
+  xy: 1101, 191
+  size: 15, 23
+  orig: 67, 53
+  offset: 9, 19
+  index: -1
+dragon_deathripper_adult_fire6
+  rotate: true
+  xy: 307, 2
+  size: 159, 53
+  orig: 163, 53
+  offset: 4, 0
+  index: -1
+dragon_deathripper_child_koong
+  rotate: true
+  xy: 575, 163
+  size: 77, 23
+  orig: 77, 23
+  offset: 0, 0
+  index: -1
+dragon_deathripper_baby_love
+  rotate: false
+  xy: 822, 103
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+dragon_deathripper_adult_tail2
+  rotate: false
+  xy: 929, 191
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+dragon_deathripper_adult_att
+  rotate: true
+  xy: 808, 162
+  size: 68, 44
+  orig: 68, 46
+  offset: 0, 2
+  index: -1
+dragon_deathripper_adult_tail5
+  rotate: false
+  xy: 726, 103
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+dragon_deathripper_child_arm1
+  rotate: true
+  xy: 1157, 30
+  size: 22, 20
+  orig: 46, 74
+  offset: 9, 37
+  index: -1
+dragon_deathripper_adult_tail8
+  rotate: false
+  xy: 742, 103
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+dragon_deathripper_adult_tail3
+  rotate: false
+  xy: 1191, 43
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+dragon_deathripper_adult_tail6
+  rotate: false
+  xy: 708, 103
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+dragon_deathripper_adult_tail9
+  rotate: false
+  xy: 1071, 72
+  size: 29, 29
+  orig: 31, 31
+  offset: 2, 2
+  index: -1
+dragon_deathripper_child_arm2
+  rotate: false
+  xy: 131, 203
   size: 24, 50
   orig: 24, 50
   offset: 0, 0
   index: -1
 dragon_deathripper_child_foot
-  rotate: false
-  xy: 1375, 55
+  rotate: true
+  xy: 1117, 2
   size: 29, 18
   orig: 29, 18
   offset: 0, 0
   index: -1
-dragon_deathripper_adult_body1
+dragon_deathripper_adult_tail7
   rotate: true
-  xy: 1070, 48
-  size: 43, 44
-  orig: 47, 44
-  offset: 4, 0
-  index: -1
-dragon_deathripper_adult_tail1
-  rotate: false
-  xy: 1305, 101
-  size: 20, 25
-  orig: 20, 25
+  xy: 1214, 18
+  size: 12, 17
+  orig: 12, 17
   offset: 0, 0
   index: -1
-dragon_deathripper_baby_fire3
+dragon_deathripper_adult_foot1
   rotate: true
-  xy: 1195, 57
-  size: 30, 31
-  orig: 38, 37
-  offset: 3, 0
+  xy: 964, 2
+  size: 49, 20
+  orig: 49, 20
+  offset: 0, 0
   index: -1
-dragon_deathripper_baby_mouth2
+dragon_deathripper_adult_arm2
   rotate: true
-  xy: 969, 93
-  size: 33, 22
-  orig: 51, 56
-  offset: 6, 0
-  index: -1
-dragon_deathripper_adult_leg22
-  rotate: false
-  xy: 657, 79
-  size: 55, 20
-  orig: 57, 20
+  xy: 1013, 216
+  size: 35, 44
+  orig: 37, 44
   offset: 2, 0
   index: -1
-dragon_deathripper_adult_head
+dragon_deathripper_adult_arm1
   rotate: false
-  xy: 1028, 2
-  size: 68, 44
-  orig: 68, 46
-  offset: 0, 2
-  index: -1
-dragon_deathripper_child_tail8
-  rotate: false
-  xy: 1076, 112
-  size: 13, 11
-  orig: 13, 11
+  xy: 1030, 43
+  size: 39, 39
+  orig: 39, 39
   offset: 0, 0
+  index: -1
+dragon_deathripper_child_part1
+  rotate: false
+  xy: 631, 239
+  size: 23, 14
+  orig: 25, 26
+  offset: 2, 12
+  index: -1
+dragon_deathripper_adult_foot2
+  rotate: true
+  xy: 1178, 54
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+dragon_deathripper_baby_tail
+  rotate: true
+  xy: 37, 207
+  size: 45, 22
+  orig: 45, 22
+  offset: 0, 0
+  index: -1
+dragon_deathripper_child_part2
+  rotate: true
+  xy: 1161, 2
+  size: 21, 14
+  orig: 25, 26
+  offset: 1, 6
+  index: -1
+dragon_deathripper_child_part3
+  rotate: false
+  xy: 1214, 2
+  size: 17, 14
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+dragon_deathripper_baby_head
+  rotate: false
+  xy: 889, 2
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+dragon_deathripper_adult_mouth2
+  rotate: true
+  xy: 1137, 2
+  size: 26, 22
+  orig: 68, 46
+  offset: 6, 0
+  index: -1
+dragon_deathripper_e_light6
+  rotate: true
+  xy: 2, 2
+  size: 203, 101
+  orig: 211, 107
+  offset: 5, 0
+  index: -1
+dragon_deathripper_adult_neck2
+  rotate: false
+  xy: 1200, 218
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+dragon_deathripper_adult_neck3
+  rotate: true
+  xy: 1058, 2
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+dragon_deathripper_adult_mouth1
+  rotate: false
+  xy: 682, 103
+  size: 24, 16
+  orig: 68, 46
+  offset: 11, 6
   index: -1
 dragon_deathripper_adult_neck4
   rotate: false
-  xy: 1309, 78
+  xy: 833, 232
   size: 26, 21
   orig: 26, 21
   offset: 0, 0
   index: -1
-dragon_deathripper_adult_sholder
+dragon_deathripper_adult_neck5
   rotate: false
-  xy: 1168, 2
-  size: 63, 53
-  orig: 63, 53
+  xy: 1010, 191
+  size: 28, 23
+  orig: 28, 23
   offset: 0, 0
   index: -1
-dragon_deathripper_baby_note1
-  rotate: false
-  xy: 714, 79
-  size: 30, 38
-  orig: 32, 40
-  offset: 1, 1
-  index: -1
-dragon_deathripper_adult_tail5
+dragon_deathripper_e_part2
   rotate: true
-  xy: 136, 112
+  xy: 1062, 191
+  size: 23, 18
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+dragon_deathripper_e_light1
+  rotate: false
+  xy: 494, 121
+  size: 254, 40
+  orig: 292, 42
+  offset: 17, 1
+  index: -1
+dragon_deathripper_adult_neck1
+  rotate: false
+  xy: 1030, 84
+  size: 20, 17
+  orig: 22, 17
+  offset: 2, 0
+  index: -1
+dragon_deathripper_e_light4
+  rotate: true
+  xy: 206, 2
+  size: 197, 99
+  orig: 211, 107
+  offset: 5, 2
+  index: -1
+dragon_deathripper_e_head
+  rotate: true
+  xy: 762, 162
+  size: 68, 44
+  orig: 68, 46
+  offset: 0, 2
+  index: -1
+dragon_deathripper_e_light2
+  rotate: false
+  xy: 935, 147
+  size: 292, 42
+  orig: 292, 42
+  offset: 0, 0
+  index: -1
+dragon_deathripper_e_light5
+  rotate: true
+  xy: 105, 2
+  size: 199, 99
+  orig: 211, 107
+  offset: 4, 2
+  index: -1
+dragon_deathripper_baby_part
+  rotate: false
+  xy: 1207, 46
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+dragon_deathripper_e_light3
+  rotate: false
+  xy: 935, 103
+  size: 292, 42
+  orig: 292, 42
+  offset: 0, 0
+  index: -1
+dragon_deathripper_e_part1
+  rotate: false
+  xy: 602, 239
+  size: 27, 14
+  orig: 29, 24
+  offset: 2, 10
+  index: -1
+dragon_deathripper_e_neck2
+  rotate: false
+  xy: 1200, 191
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+dragon_deathripper_e_neck4
+  rotate: true
+  xy: 1146, 227
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+dragon_deathripper_e_tail2
+  rotate: false
+  xy: 929, 191
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+dragon_deathripper_e_neck3
+  rotate: false
+  xy: 417, 135
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+dragon_deathripper_e_tail4
+  rotate: false
+  xy: 1179, 24
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_deathripper_e_neck5
+  rotate: true
+  xy: 1175, 191
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+dragon_deathripper_e_tail3
+  rotate: false
+  xy: 1191, 43
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+dragon_deathripper_e_tail5
+  rotate: false
+  xy: 726, 103
   size: 14, 16
   orig: 14, 16
   offset: 0, 0
   index: -1
-dragon_deathripper_adult_foot2
+dragon_deathripper_e_neck1
   rotate: false
-  xy: 902, 115
-  size: 18, 11
-  orig: 18, 11
+  xy: 1030, 84
+  size: 20, 17
+  orig: 22, 17
+  offset: 2, 0
+  index: -1
+dragon_deathripper_e_tail1
+  rotate: false
+  xy: 1132, 62
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+dragon_deathripper_e_tail6
+  rotate: false
+  xy: 708, 103
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+dragon_deathripper_adult_sholder2
+  rotate: false
+  xy: 454, 129
+  size: 38, 32
+  orig: 38, 36
+  offset: 0, 4
+  index: -1
+dragon_deathripper_e_tail8
+  rotate: false
+  xy: 742, 103
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+dragon_deathripper_adult_eye
+  rotate: false
+  xy: 1220, 75
+  size: 12, 14
+  orig: 68, 46
+  offset: 12, 12
+  index: -1
+dragon_deathripper_e_tail7
+  rotate: true
+  xy: 1214, 18
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+dragon_deathripper_e_tail9
+  rotate: false
+  xy: 1102, 72
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+dragon_deathripper_e_sholder2
+  rotate: false
+  xy: 454, 129
+  size: 38, 32
+  orig: 38, 36
+  offset: 0, 4
+  index: -1
+dragon_deathripper_e_hand
+  rotate: true
+  xy: 417, 2
+  size: 131, 34
+  orig: 131, 34
+  offset: 0, 0
+  index: -1
+dragon_deathripper_child_neck
+  rotate: false
+  xy: 1059, 216
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+dragon_deathripper_e_knee
+  rotate: false
+  xy: 1040, 191
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+dragon_deathripper_e_arm1
+  rotate: false
+  xy: 1017, 2
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+dragon_deathripper_e_arm2
+  rotate: true
+  xy: 893, 60
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+dragon_deathripper_e_arm3
+  rotate: true
+  xy: 1085, 2
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+dragon_deathripper_e_mouth2
+  rotate: false
+  xy: 1090, 216
+  size: 26, 35
+  orig: 68, 59
+  offset: 6, 0
+  index: -1
+dragon_deathripper_e_body2
+  rotate: false
+  xy: 307, 163
+  size: 37, 38
+  orig: 47, 44
+  offset: 0, 6
+  index: -1
+dragon_deathripper_adult_note2
+  rotate: true
+  xy: 781, 71
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_deathripper_e_arm22
+  rotate: false
+  xy: 986, 2
+  size: 29, 44
+  orig: 37, 44
+  offset: 3, 0
+  index: -1
+dragon_deathripper_e_body3
+  rotate: false
+  xy: 638, 163
+  size: 65, 72
+  orig: 65, 72
+  offset: 0, 0
+  index: -1
+dragon_deathripper_e_mouth1
+  rotate: false
+  xy: 682, 103
+  size: 24, 16
+  orig: 68, 46
+  offset: 11, 6
+  index: -1
+dragon_deathripper_e_hit
+  rotate: false
+  xy: 61, 207
+  size: 68, 44
+  orig: 68, 46
+  offset: 0, 2
+  index: -1
+dragon_deathripper_baby_eye
+  rotate: false
+  xy: 951, 191
+  size: 17, 24
+  orig: 51, 56
+  offset: 12, 12
+  index: -1
+dragon_deathripper_e_love
+  rotate: false
+  xy: 1154, 62
+  size: 22, 22
+  orig: 68, 46
+  offset: 6, 8
+  index: -1
+dragon_deathripper_e_body1
+  rotate: false
+  xy: 985, 53
+  size: 43, 44
+  orig: 47, 44
+  offset: 4, 0
+  index: -1
+dragon_deathripper_adult_note1
+  rotate: false
+  xy: 948, 59
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_deathripper_child_anger
+  rotate: false
+  xy: 1118, 227
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_deathripper_adult_leg22
+  rotate: true
+  xy: 907, 160
+  size: 55, 20
+  orig: 57, 20
+  offset: 2, 0
+  index: -1
+dragon_deathripper_e_leg1
+  rotate: false
+  xy: 861, 218
+  size: 55, 35
+  orig: 55, 35
+  offset: 0, 0
+  index: -1
+dragon_deathripper_baby_mouth1
+  rotate: true
+  xy: 316, 240
+  size: 13, 18
+  orig: 51, 56
+  offset: 2, 10
+  index: -1
+dragon_deathripper_adult_hit
+  rotate: false
+  xy: 61, 207
+  size: 68, 44
+  orig: 68, 46
+  offset: 0, 2
+  index: -1
+dragon_deathripper_baby_body2
+  rotate: false
+  xy: 768, 232
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+dragon_deathripper_child_tail10
+  rotate: true
+  xy: 656, 237
+  size: 16, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+dragon_deathripper_baby_mouth2
+  rotate: true
+  xy: 1151, 191
+  size: 33, 22
+  orig: 51, 56
+  offset: 6, 0
+  index: -1
+dragon_deathripper_e_leg2
+  rotate: false
+  xy: 1214, 32
+  size: 15, 12
+  orig: 57, 20
+  offset: 0, 5
+  index: -1
+dragon_deathripper_e_leg3
+  rotate: false
+  xy: 1170, 226
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+dragon_deathripper_adult_part1
+  rotate: false
+  xy: 602, 239
+  size: 27, 14
+  orig: 29, 24
+  offset: 2, 10
+  index: -1
+dragon_deathripper_child_tail1
+  rotate: false
+  xy: 1177, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_deathripper_baby_arm11
+  rotate: false
+  xy: 1152, 89
+  size: 17, 12
+  orig: 21, 18
+  offset: 2, 0
+  index: -1
+dragon_deathripper_child_tail4
+  rotate: true
+  xy: 1198, 24
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_deathripper_adult_part2
+  rotate: true
+  xy: 1062, 191
+  size: 23, 18
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+dragon_deathripper_child_tail2
+  rotate: true
+  xy: 749, 234
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+dragon_deathripper_child_tail5
+  rotate: true
+  xy: 1194, 74
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+dragon_deathripper_child_tail8
+  rotate: false
+  xy: 1194, 90
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+dragon_deathripper_child_tail3
+  rotate: true
+  xy: 730, 234
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+dragon_deathripper_child_tail6
+  rotate: true
+  xy: 1207, 75
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+dragon_deathripper_child_tail9
+  rotate: false
+  xy: 1199, 2
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+dragon_deathripper_child_tail7
+  rotate: false
+  xy: 1191, 62
+  size: 12, 10
+  orig: 14, 12
+  offset: 0, 2
+  index: -1
+dragon_deathripper_child_arm11
+  rotate: false
+  xy: 821, 71
+  size: 36, 30
+  orig: 46, 74
+  offset: 0, 23
+  index: -1
+dragon_deathripper_child_hand
+  rotate: false
+  xy: 600, 163
+  size: 36, 74
+  orig: 46, 74
+  offset: 10, 0
+  index: -1
+dragon_deathripper_adult_arm22
+  rotate: false
+  xy: 986, 2
+  size: 29, 44
+  orig: 37, 44
+  offset: 3, 0
+  index: -1
+dragon_deathripper_child_mouth1
+  rotate: false
+  xy: 1103, 35
+  size: 25, 29
+  orig: 67, 53
+  offset: 16, 0
+  index: -1
+dragon_deathripper_child_mouth2
+  rotate: false
+  xy: 1130, 33
+  size: 25, 27
+  orig: 67, 53
+  offset: 12, 2
+  index: -1
+dragon_deathripper_adult_body1
+  rotate: false
+  xy: 985, 53
+  size: 43, 44
+  orig: 47, 44
+  offset: 4, 0
+  index: -1
+dragon_deathripper_adult_sholder
+  rotate: true
+  xy: 834, 2
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+dragon_deathripper_child_body2
+  rotate: false
+  xy: 918, 217
+  size: 53, 36
+  orig: 59, 36
+  offset: 6, 0
+  index: -1
+dragon_deathripper_adult_body2
+  rotate: false
+  xy: 307, 163
+  size: 37, 38
+  orig: 47, 44
+  offset: 0, 6
+  index: -1
+dragon_deathripper_child_head
+  rotate: true
+  xy: 781, 2
+  size: 67, 51
+  orig: 67, 53
+  offset: 0, 2
+  index: -1
+dragon_deathripper_adult_body3
+  rotate: false
+  xy: 705, 163
+  size: 55, 69
+  orig: 55, 69
+  offset: 0, 0
+  index: -1
+dragon_deathripper_e_head2
+  rotate: false
+  xy: 2, 207
+  size: 33, 45
+  orig: 33, 45
   offset: 0, 0
   index: -1

@@ -1,0 +1,551 @@
+dragon_4044_spine.pvr.ccz
+size: 1110, 256
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_mellow_adult_body
+  rotate: true
+  xy: 698, 124
+  size: 65, 70
+  orig: 65, 70
+  offset: 0, 0
+  index: -1
+dragon_mellow_adult_body2
+  rotate: false
+  xy: 559, 159
+  size: 56, 34
+  orig: 56, 34
+  offset: 0, 0
+  index: -1
+dragon_mellow_adult_chin
+  rotate: false
+  xy: 598, 239
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+dragon_mellow_adult_ear
+  rotate: false
+  xy: 458, 240
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+dragon_mellow_adult_eye
+  rotate: false
+  xy: 688, 242
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+dragon_mellow_adult_eye2
+  rotate: false
+  xy: 701, 242
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+dragon_mellow_adult_eye3
+  rotate: false
+  xy: 714, 242
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+dragon_mellow_adult_eye4
+  rotate: false
+  xy: 920, 228
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+dragon_mellow_adult_eye5
+  rotate: false
+  xy: 1064, 235
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_mellow_adult_head
+  rotate: false
+  xy: 193, 200
+  size: 39, 55
+  orig: 39, 55
+  offset: 0, 0
+  index: -1
+dragon_mellow_adult_l_arma
+  rotate: false
+  xy: 735, 222
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_mellow_adult_l_armb
+  rotate: true
+  xy: 565, 236
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+dragon_mellow_adult_l_armc
+  rotate: true
+  xy: 505, 236
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+dragon_mellow_adult_l_lega
+  rotate: true
+  xy: 835, 195
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+dragon_mellow_adult_l_legb
+  rotate: false
+  xy: 1086, 215
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+dragon_mellow_adult_l_legc
+  rotate: true
+  xy: 688, 222
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+dragon_mellow_adult_l_legd
+  rotate: true
+  xy: 1048, 235
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+dragon_mellow_adult_l_wing1
+  rotate: false
+  xy: 617, 161
+  size: 69, 48
+  orig: 69, 48
+  offset: 0, 0
+  index: -1
+dragon_mellow_adult_l_wing2a
+  rotate: false
+  xy: 296, 98
+  size: 97, 83
+  orig: 97, 83
+  offset: 0, 0
+  index: -1
+dragon_mellow_adult_l_wing2b
+  rotate: false
+  xy: 460, 107
+  size: 97, 84
+  orig: 97, 84
+  offset: 0, 0
+  index: -1
+dragon_mellow_adult_l_wing3a
+  rotate: true
+  xy: 618, 1
+  size: 121, 128
+  orig: 121, 128
+  offset: 0, 0
+  index: -1
+dragon_mellow_adult_l_wing3b
+  rotate: true
+  xy: 748, 1
+  size: 121, 128
+  orig: 121, 128
+  offset: 0, 0
+  index: -1
+dragon_mellow_adult_neck
+  rotate: false
+  xy: 133, 200
+  size: 58, 55
+  orig: 58, 55
+  offset: 0, 0
+  index: -1
+dragon_mellow_adult_r_wing1
+  rotate: true
+  xy: 234, 167
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+dragon_mellow_adult_r_wing2a
+  rotate: true
+  xy: 289, 183
+  size: 33, 68
+  orig: 33, 71
+  offset: 0, 3
+  index: -1
+dragon_mellow_adult_r_wing2b
+  rotate: true
+  xy: 282, 218
+  size: 33, 68
+  orig: 33, 71
+  offset: 0, 3
+  index: -1
+dragon_mellow_adult_r_wing3a
+  rotate: true
+  xy: 1032, 1
+  size: 130, 77
+  orig: 130, 77
+  offset: 0, 0
+  index: -1
+dragon_mellow_adult_r_wing3b
+  rotate: false
+  xy: 1, 176
+  size: 130, 77
+  orig: 130, 77
+  offset: 0, 0
+  index: -1
+dragon_mellow_adult_tail
+  rotate: false
+  xy: 878, 1
+  size: 152, 76
+  orig: 152, 76
+  offset: 0, 0
+  index: -1
+dragon_mellow_baby_arm1
+  rotate: true
+  xy: 602, 195
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+dragon_mellow_baby_arm2
+  rotate: false
+  xy: 621, 239
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+dragon_mellow_baby_body
+  rotate: false
+  xy: 458, 193
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+dragon_mellow_baby_chin
+  rotate: true
+  xy: 756, 191
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+dragon_mellow_baby_ear1
+  rotate: true
+  xy: 200, 167
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+dragon_mellow_baby_ear2
+  rotate: false
+  xy: 980, 226
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+dragon_mellow_baby_eye
+  rotate: false
+  xy: 812, 226
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_mellow_baby_eye2
+  rotate: false
+  xy: 834, 226
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_mellow_baby_eye3
+  rotate: false
+  xy: 788, 226
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+dragon_mellow_baby_head
+  rotate: true
+  xy: 1056, 133
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+dragon_mellow_baby_leg3
+  rotate: true
+  xy: 654, 211
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+dragon_mellow_baby_leg4
+  rotate: false
+  xy: 410, 226
+  size: 46, 29
+  orig: 46, 29
+  offset: 0, 0
+  index: -1
+dragon_mellow_baby_neck
+  rotate: false
+  xy: 763, 226
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_mellow_baby_smile
+  rotate: false
+  xy: 973, 79
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_mellow_baby_tail
+  rotate: false
+  xy: 602, 211
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+dragon_mellow_baby_wing1
+  rotate: false
+  xy: 1056, 184
+  size: 52, 29
+  orig: 52, 29
+  offset: 0, 0
+  index: -1
+dragon_mellow_baby_wing2
+  rotate: true
+  xy: 840, 124
+  size: 69, 36
+  orig: 69, 36
+  offset: 0, 0
+  index: -1
+dragon_mellow_child_arm1
+  rotate: true
+  xy: 878, 200
+  size: 26, 57
+  orig: 26, 57
+  offset: 0, 0
+  index: -1
+dragon_mellow_child_arm2
+  rotate: true
+  xy: 937, 201
+  size: 23, 55
+  orig: 23, 55
+  offset: 0, 0
+  index: -1
+dragon_mellow_child_body
+  rotate: true
+  xy: 878, 140
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+dragon_mellow_child_chin
+  rotate: true
+  xy: 856, 226
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+dragon_mellow_child_ear
+  rotate: true
+  xy: 1020, 226
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+dragon_mellow_child_eye
+  rotate: true
+  xy: 900, 228
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+dragon_mellow_child_eye2
+  rotate: false
+  xy: 1048, 215
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+dragon_mellow_child_eye3
+  rotate: false
+  xy: 1067, 215
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+dragon_mellow_child_head
+  rotate: false
+  xy: 1011, 141
+  size: 43, 59
+  orig: 43, 59
+  offset: 0, 0
+  index: -1
+dragon_mellow_child_heart
+  rotate: false
+  xy: 554, 195
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_mellow_child_leg1
+  rotate: true
+  xy: 352, 222
+  size: 33, 56
+  orig: 33, 56
+  offset: 0, 0
+  index: -1
+dragon_mellow_child_leg2
+  rotate: true
+  xy: 133, 176
+  size: 22, 65
+  orig: 22, 65
+  offset: 0, 0
+  index: -1
+dragon_mellow_child_neck
+  rotate: true
+  xy: 359, 184
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1
+dragon_mellow_child_sample
+  rotate: false
+  xy: 145, 1
+  size: 149, 164
+  orig: 149, 164
+  offset: 0, 0
+  index: -1
+dragon_mellow_child_tail
+  rotate: false
+  xy: 878, 79
+  size: 93, 59
+  orig: 93, 59
+  offset: 0, 0
+  index: -1
+dragon_mellow_child_wing1
+  rotate: false
+  xy: 875, 228
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+dragon_mellow_child_wing1b
+  rotate: false
+  xy: 410, 184
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+dragon_mellow_child_wing2
+  rotate: false
+  xy: 505, 193
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+dragon_mellow_child_wing2b
+  rotate: false
+  xy: 618, 124
+  size: 78, 35
+  orig: 78, 35
+  offset: 0, 0
+  index: -1
+dragon_mellow_e_body1
+  rotate: true
+  xy: 770, 124
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+dragon_mellow_e_body2
+  rotate: true
+  xy: 688, 191
+  size: 29, 66
+  orig: 29, 66
+  offset: 0, 0
+  index: -1
+dragon_mellow_e_head
+  rotate: true
+  xy: 395, 98
+  size: 84, 63
+  orig: 84, 63
+  offset: 0, 0
+  index: -1
+dragon_mellow_e_head2
+  rotate: false
+  xy: 529, 236
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+dragon_mellow_e_l_armb
+  rotate: true
+  xy: 937, 226
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+dragon_mellow_e_l_lega
+  rotate: true
+  xy: 994, 202
+  size: 22, 49
+  orig: 22, 49
+  offset: 0, 0
+  index: -1
+dragon_mellow_e_l_wing1
+  rotate: true
+  xy: 559, 107
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+dragon_mellow_e_l_wing2a
+  rotate: false
+  xy: 479, 1
+  size: 137, 104
+  orig: 137, 104
+  offset: 0, 0
+  index: -1
+dragon_mellow_e_l_wing2a2
+  rotate: false
+  xy: 945, 141
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+dragon_mellow_e_l_wing3a
+  rotate: false
+  xy: 1, 1
+  size: 142, 173
+  orig: 142, 173
+  offset: 0, 0
+  index: -1
+dragon_mellow_e_neck
+  rotate: false
+  xy: 234, 211
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+dragon_mellow_e_r_wing2a
+  rotate: true
+  xy: 770, 189
+  size: 35, 63
+  orig: 35, 63
+  offset: 0, 0
+  index: -1
+dragon_mellow_e_tail
+  rotate: false
+  xy: 296, 1
+  size: 181, 95
+  orig: 181, 95
+  offset: 0, 0
+  index: -1

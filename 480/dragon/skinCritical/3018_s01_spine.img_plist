@@ -1,0 +1,102 @@
+3018_s01_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+bottom_circle02
+  rotate: false
+  xy: 2, 1078
+  size: 195, 192
+  orig: 195, 192
+  offset: 0, 0
+  index: -1
+middle_light
+  rotate: false
+  xy: 195, 1272
+  size: 53, 165
+  orig: 53, 165
+  offset: 0, 0
+  index: -1
+bottom
+  rotate: true
+  xy: 201, 882
+  size: 187, 49
+  orig: 187, 49
+  offset: 0, 0
+  index: -1
+bottom_circle00
+  rotate: false
+  xy: 2, 1464
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+particle_dot
+  rotate: true
+  xy: 201, 1071
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+particle_snow
+  rotate: true
+  xy: 99, 1656
+  size: 138, 131
+  orig: 138, 131
+  offset: 0, 0
+  index: -1
+bottom_circle03
+  rotate: false
+  xy: 2, 882
+  size: 197, 194
+  orig: 197, 194
+  offset: 0, 0
+  index: -1
+bottom_circle01
+  rotate: false
+  xy: 2, 1272
+  size: 191, 190
+  orig: 191, 190
+  offset: 0, 0
+  index: -1
+circle00
+  rotate: false
+  xy: 2, 553
+  size: 244, 131
+  orig: 246, 133
+  offset: 1, 1
+  index: -1
+circle02
+  rotate: false
+  xy: 2, 182
+  size: 247, 184
+  orig: 249, 184
+  offset: 1, 0
+  index: -1
+circle01
+  rotate: false
+  xy: 2, 2
+  size: 249, 178
+  orig: 251, 180
+  offset: 1, 1
+  index: -1
+circle04
+  rotate: false
+  xy: 2, 368
+  size: 247, 183
+  orig: 249, 185
+  offset: 1, 1
+  index: -1
+circle03
+  rotate: false
+  xy: 2, 686
+  size: 234, 194
+  orig: 236, 196
+  offset: 1, 1
+  index: -1
+circle05
+  rotate: true
+  xy: 2, 1656
+  size: 151, 95
+  orig: 153, 97
+  offset: 1, 1
+  index: -1

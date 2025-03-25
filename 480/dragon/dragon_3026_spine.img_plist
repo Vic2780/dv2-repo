@@ -2,12 +2,110 @@ dragon_3026_spine.pvr.ccz
 format: RGBA4444
 filter: Linear,Linear
 repeat: none
-dragon_palagon_child_arm1
+dragon_palagon_adult_critical2
   rotate: false
-  xy: 798, 50
-  size: 38, 65
-  orig: 38, 65
+  xy: 2, 590
+  size: 50, 393
+  orig: 52, 395
+  offset: 0, 2
+  index: -1
+dragon_palagon_baby_body
+  rotate: false
+  xy: 774, 919
+  size: 62, 62
+  orig: 62, 62
   offset: 0, 0
+  index: -1
+dragon_palagon_baby_h
+  rotate: true
+  xy: 102, 988
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_3026_e_critical_light26
+  rotate: true
+  xy: 882, 541
+  size: 131, 135
+  orig: 191, 317
+  offset: 34, 166
+  index: -1
+dragon_palagon_child_love01
+  rotate: false
+  xy: 666, 786
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+dragon_palagon_e_tail1
+  rotate: true
+  xy: 827, 833
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+dragon_3026_e_critical_spark37
+  rotate: true
+  xy: 376, 907
+  size: 127, 139
+  orig: 225, 225
+  offset: 51, 52
+  index: -1
+dragon_palagon_e_eyeatt
+  rotate: true
+  xy: 993, 998
+  size: 22, 21
+  orig: 24, 23
+  offset: 1, 1
+  index: -1
+dragon_3026_e_critical_spark48
+  rotate: true
+  xy: 54, 590
+  size: 219, 179
+  orig: 225, 225
+  offset: 1, 28
+  index: -1
+dragon_palagon_baby_arm2
+  rotate: true
+  xy: 951, 998
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+dragon_palagon_e_l_arm2
+  rotate: true
+  xy: 615, 976
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+dragon_palagon_child_eye
+  rotate: false
+  xy: 593, 976
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+dragon_3026_e_critical_spark43
+  rotate: false
+  xy: 244, 359
+  size: 167, 169
+  orig: 225, 225
+  offset: 14, 33
+  index: -1
+dragon_palagon_adult_head
+  rotate: false
+  xy: 977, 871
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+dragon_3026_e_critical_light24
+  rotate: false
+  xy: 912, 398
+  size: 105, 71
+  orig: 191, 317
+  offset: 30, 236
   index: -1
 dragon_palagon_critical4
   rotate: false
@@ -16,353 +114,549 @@ dragon_palagon_critical4
   orig: 344, 344
   offset: 0, 0
   index: -1
-dragon_palagon_child_neck
+dragon_3026_e_critical_light33
+  rotate: false
+  xy: 235, 780
+  size: 173, 125
+  orig: 191, 317
+  offset: 8, 4
+  index: -1
+dragon_palagon_child_arm2
   rotate: true
-  xy: 161, 454
+  xy: 829, 998
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+dragon_palagon_e_body
+  rotate: true
+  xy: 940, 674
+  size: 50, 77
+  orig: 50, 77
+  offset: 0, 0
+  index: -1
+dragon_palagon_child_neck
+  rotate: false
+  xy: 838, 911
   size: 41, 64
   orig: 41, 64
   offset: 0, 0
   index: -1
-dragon_palagon_baby_wing
-  rotate: false
-  xy: 801, 321
-  size: 36, 50
-  orig: 36, 50
-  offset: 0, 0
-  index: -1
-dragon_palagon_child_tail
+dragon_3026_e_critical_light36
   rotate: true
-  xy: 481, 400
-  size: 61, 72
-  orig: 61, 72
-  offset: 0, 0
-  index: -1
-dragon_palagon_adult_eye
-  rotate: false
-  xy: 607, 462
-  size: 14, 10
-  orig: 14, 10
-  offset: 0, 0
-  index: -1
-dragon_palagon_adult_arm2
-  rotate: false
-  xy: 710, 446
-  size: 46, 46
-  orig: 46, 46
-  offset: 0, 0
-  index: -1
-dragon_palagon_adult_love02
-  rotate: true
-  xy: 802, 222
-  size: 41, 35
-  orig: 41, 35
-  offset: 0, 0
-  index: -1
-dragon_palagon_adult_critical2
-  rotate: true
-  xy: 2, 402
-  size: 50, 393
-  orig: 52, 395
-  offset: 0, 2
-  index: -1
-dragon_palagon_baby_love
-  rotate: false
-  xy: 284, 454
-  size: 53, 49
-  orig: 53, 49
-  offset: 0, 0
-  index: -1
-dragon_palagon_adult_leg3
-  rotate: false
-  xy: 798, 117
-  size: 38, 54
-  orig: 38, 54
-  offset: 0, 0
-  index: -1
-dragon_palagon_child_wing
-  rotate: false
-  xy: 397, 398
-  size: 82, 73
-  orig: 82, 73
-  offset: 0, 0
-  index: -1
-dragon_palagon_child_love
-  rotate: false
-  xy: 710, 394
-  size: 44, 50
-  orig: 44, 50
-  offset: 0, 0
-  index: -1
-dragon_palagon_adult_leg1
-  rotate: true
-  xy: 82, 454
-  size: 41, 77
-  orig: 41, 77
-  offset: 0, 0
-  index: -1
-dragon_palagon_critical2
-  rotate: true
-  xy: 2, 402
-  size: 50, 393
-  orig: 52, 395
-  offset: 0, 2
-  index: -1
-dragon_palagon_child_leg2
-  rotate: false
-  xy: 665, 474
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
-dragon_palagon_baby_tail
-  rotate: false
-  xy: 798, 173
-  size: 37, 47
-  orig: 37, 47
-  offset: 0, 0
-  index: -1
-dragon_palagon_adult_damaged
-  rotate: false
-  xy: 445, 473
-  size: 40, 23
-  orig: 40, 23
-  offset: 0, 0
-  index: -1
-dragon_palagon_baby_arm2
-  rotate: false
-  xy: 804, 456
-  size: 22, 40
-  orig: 22, 40
-  offset: 0, 0
+  xy: 820, 652
+  size: 121, 41
+  orig: 191, 317
+  offset: 26, 15
   index: -1
 dragon_palagon_adult_leg4
-  rotate: false
-  xy: 487, 488
+  rotate: true
+  xy: 997, 133
   size: 41, 18
   orig: 41, 18
   offset: 0, 0
   index: -1
-dragon_palagon_baby_helmet
+dragon_3026_e_critical_spark36
   rotate: false
-  xy: 734, 321
-  size: 65, 67
-  orig: 65, 67
-  offset: 0, 0
-  index: -1
-dragon_palagon_child_leg1
-  rotate: true
-  xy: 607, 474
-  size: 32, 56
-  orig: 32, 56
-  offset: 0, 0
-  index: -1
-dragon_palagon_adult_critical1
-  rotate: true
-  xy: 2, 348
-  size: 52, 389
-  orig: 56, 399
-  offset: 1, 5
-  index: -1
-dragon_palagon_child_love01
-  rotate: false
-  xy: 487, 314
-  size: 84, 84
-  orig: 84, 84
-  offset: 0, 0
-  index: -1
-dragon_palagon_adult_arm3
-  rotate: true
-  xy: 804, 412
-  size: 42, 20
-  orig: 42, 20
-  offset: 0, 0
+  xy: 863, 674
+  size: 75, 99
+  orig: 225, 225
+  offset: 49, 85
   index: -1
 dragon_palagon_baby_leg
-  rotate: true
-  xy: 348, 322
+  rotate: false
+  xy: 997, 88
   size: 18, 43
   orig: 18, 43
   offset: 0, 0
   index: -1
-dragon_palagon_child_helmet
+dragon_3026_e_critical_light27
   rotate: false
-  xy: 649, 404
-  size: 59, 68
-  orig: 59, 68
+  xy: 413, 359
+  size: 141, 173
+  orig: 191, 317
+  offset: 21, 122
+  index: -1
+dragon_palagon_adult_wing1
+  rotate: false
+  xy: 517, 904
+  size: 74, 92
+  orig: 74, 92
   offset: 0, 0
   index: -1
-dragon_palagon_adult_tail
+dragon_palagon_e_neck
   rotate: true
-  xy: 573, 320
-  size: 82, 122
-  orig: 82, 122
+  xy: 664, 872
+  size: 47, 86
+  orig: 47, 86
+  offset: 0, 0
+  index: -1
+dragon_3026_e_critical_spark42
+  rotate: false
+  xy: 840, 56
+  size: 155, 163
+  orig: 225, 225
+  offset: 22, 34
+  index: -1
+dragon_3026_e_critical_light34
+  rotate: false
+  xy: 244, 530
+  size: 165, 117
+  orig: 191, 317
+  offset: 10, 6
+  index: -1
+dragon_palagon_e_r_arm1
+  rotate: false
+  xy: 543, 826
+  size: 61, 76
+  orig: 61, 76
   offset: 0, 0
   index: -1
 dragon_palagon_baby_arm1
   rotate: true
-  xy: 394, 473
+  xy: 921, 962
   size: 22, 49
   orig: 22, 49
   offset: 0, 0
   index: -1
+dragon_palagon_baby_eye
+  rotate: false
+  xy: 838, 977
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+dragon_palagon_e_l_wing1
+  rotate: true
+  xy: 593, 904
+  size: 70, 61
+  orig: 70, 61
+  offset: 0, 0
+  index: -1
+dragon_palagon_e_love
+  rotate: true
+  xy: 569, 998
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+dragon_3026_e_critical_light25
+  rotate: true
+  xy: 555, 669
+  size: 137, 109
+  orig: 191, 317
+  offset: 30, 197
+  index: -1
+dragon_3026_e_critical_spark47
+  rotate: false
+  xy: 569, 211
+  size: 199, 173
+  orig: 225, 225
+  offset: 7, 32
+  index: -1
+dragon_3026_e_critical_light30
+  rotate: true
+  xy: 348, 210
+  size: 147, 219
+  orig: 191, 317
+  offset: 34, 15
+  index: -1
+dragon_palagon_adult_helmet
+  rotate: true
+  xy: 916, 775
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+dragon_palagon_child_arm1
+  rotate: false
+  xy: 881, 911
+  size: 38, 65
+  orig: 38, 65
+  offset: 0, 0
+  index: -1
+dragon_palagon_adult_eye
+  rotate: false
+  xy: 737, 386
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+dragon_3026_e_critical_light28
+  rotate: true
+  xy: 556, 386
+  size: 135, 179
+  orig: 191, 317
+  offset: 20, 100
+  index: -1
+dragon_palagon_child_love
+  rotate: true
+  xy: 2, 985
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+dragon_palagon_child_love2
+  rotate: false
+  xy: 973, 471
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+dragon_palagon_e_head
+  rotate: false
+  xy: 815, 775
+  size: 65, 56
+  orig: 65, 56
+  offset: 0, 0
+  index: -1
+dragon_palagon_baby_wing
+  rotate: true
+  xy: 517, 998
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+dragon_palagon_adult_critical1
+  rotate: true
+  xy: 603, 2
+  size: 52, 389
+  orig: 56, 399
+  offset: 1, 5
+  index: -1
 dragon_palagon_adult_neck
   rotate: true
-  xy: 2, 454
+  xy: 143, 988
   size: 42, 78
   orig: 42, 78
   offset: 0, 0
   index: -1
+dragon_3026_e_critical_spark39
+  rotate: true
+  xy: 411, 534
+  size: 133, 155
+  orig: 225, 225
+  offset: 43, 39
+  index: -1
+dragon_palagon_adult_arm3
+  rotate: true
+  xy: 997, 44
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+dragon_palagon_child_leg2
+  rotate: false
+  xy: 917, 986
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dragon_3026_e_critical_light21
+  rotate: false
+  xy: 955, 369
+  size: 49, 27
+  orig: 191, 317
+  offset: 48, 286
+  index: -1
+dragon_palagon_critical3
+  rotate: false
+  xy: 2, 348
+  size: 240, 240
+  orig: 344, 344
+  offset: 45, 58
+  index: -1
+dragon_palagon_adult_wing2
+  rotate: true
+  xy: 955, 221
+  size: 146, 61
+  orig: 146, 61
+  offset: 0, 0
+  index: -1
+dragon_palagon_adult_leg3
+  rotate: false
+  xy: 977, 815
+  size: 38, 54
+  orig: 38, 54
+  offset: 0, 0
+  index: -1
+dragon_3026_e_critical_spark45
+  rotate: false
+  xy: 54, 811
+  size: 179, 175
+  orig: 225, 225
+  offset: 12, 30
+  index: -1
+dragon_palagon_child_helmet
+  rotate: false
+  xy: 912, 471
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: -1
+dragon_3026_e_critical_light35
+  rotate: false
+  xy: 725, 541
+  size: 155, 109
+  orig: 191, 317
+  offset: 12, 7
+  index: -1
+dragon_3026_e_critical_spark46
+  rotate: false
+  xy: 770, 221
+  size: 183, 175
+  orig: 225, 225
+  offset: 12, 30
+  index: -1
+dragon_palagon_adult_body
+  rotate: false
+  xy: 410, 826
+  size: 131, 76
+  orig: 131, 76
+  offset: 0, 0
+  index: -1
+dragon_palagon_e_r_wing1
+  rotate: true
+  xy: 593, 904
+  size: 70, 61
+  orig: 70, 61
+  offset: 0, 0
+  index: -1
+dragon_palagon_adult_arm2
+  rotate: false
+  xy: 54, 988
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+dragon_3026_e_critical_spark38
+  rotate: true
+  xy: 235, 907
+  size: 127, 139
+  orig: 225, 225
+  offset: 51, 51
+  index: -1
+dragon_palagon_baby_head
+  rotate: false
+  xy: 774, 983
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+dragon_3026_e_critical_spark41
+  rotate: false
+  xy: 410, 669
+  size: 143, 155
+  orig: 225, 225
+  offset: 33, 37
+  index: -1
+dragon_3026_e_critical_light22
+  rotate: true
+  xy: 938, 832
+  size: 61, 37
+  orig: 191, 317
+  offset: 30, 271
+  index: -1
+dragon_palagon_child_head
+  rotate: true
+  xy: 967, 769
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+dragon_palagon_e_eye1
+  rotate: true
+  xy: 556, 359
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+dragon_palagon_critical2
+  rotate: false
+  xy: 2, 590
+  size: 50, 393
+  orig: 52, 395
+  offset: 0, 2
+  index: -1
+dragon_3026_e_critical_light31
+  rotate: false
+  xy: 737, 398
+  size: 173, 141
+  orig: 191, 317
+  offset: 8, 4
+  index: -1
+dragon_3026_e_critical_light29
+  rotate: true
+  xy: 603, 56
+  size: 153, 235
+  orig: 191, 317
+  offset: 27, 37
+  index: -1
+dragon_palagon_baby_love
+  rotate: true
+  xy: 921, 907
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+dragon_palagon_adult_damaged
+  rotate: false
+  xy: 972, 973
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+dragon_palagon_adult_leg2
+  rotate: true
+  xy: 868, 998
+  size: 35, 22
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+dragon_palagon_child_wing
+  rotate: true
+  xy: 752, 835
+  size: 82, 73
+  orig: 82, 73
+  offset: 0, 0
+  index: -1
+dragon_palagon_adult_attack
+  rotate: true
+  xy: 892, 978
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+dragon_palagon_child_leg1
+  rotate: false
+  xy: 882, 775
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
 dragon_palagon_adult_love01
   rotate: false
-  xy: 697, 320
+  xy: 901, 833
   size: 35, 72
   orig: 35, 72
   offset: 0, 0
   index: -1
 dragon_palagon_adult_critical3
-  rotate: true
-  xy: 590, 2
+  rotate: false
+  xy: 348, 2
   size: 253, 206
   orig: 253, 206
   offset: 0, 0
   index: -1
+dragon_palagon_adult_tail
+  rotate: false
+  xy: 666, 662
+  size: 82, 122
+  orig: 82, 122
+  offset: 0, 0
+  index: -1
 dragon_palagon_adult_arm1
-  rotate: true
-  xy: 481, 244
+  rotate: false
+  xy: 750, 652
   size: 68, 107
   orig: 68, 107
   offset: 0, 0
   index: -1
-dragon_palagon_adult_head
-  rotate: false
-  xy: 756, 415
-  size: 40, 23
-  orig: 40, 23
-  offset: 0, 0
-  index: -1
-dragon_palagon_baby_h
-  rotate: true
-  xy: 798, 2
-  size: 46, 39
-  orig: 46, 39
-  offset: 0, 0
-  index: -1
-dragon_palagon_baby_body
-  rotate: false
-  xy: 738, 257
-  size: 62, 62
-  orig: 62, 62
-  offset: 0, 0
-  index: -1
-dragon_palagon_adult_body
-  rotate: false
-  xy: 348, 244
-  size: 131, 76
-  orig: 131, 76
-  offset: 0, 0
-  index: -1
-dragon_palagon_baby_eye
-  rotate: true
-  xy: 529, 463
-  size: 23, 19
-  orig: 23, 19
-  offset: 0, 0
-  index: -1
-dragon_palagon_adult_leg2
-  rotate: false
-  xy: 802, 265
-  size: 35, 22
-  orig: 35, 24
-  offset: 0, 0
-  index: -1
-dragon_palagon_baby_head
-  rotate: false
-  xy: 339, 454
-  size: 53, 49
-  orig: 53, 49
-  offset: 0, 0
-  index: -1
-dragon_palagon_critical3
+dragon_3026_adult_critical3
   rotate: false
   xy: 348, 2
-  size: 240, 240
-  orig: 344, 344
-  offset: 45, 58
+  size: 253, 206
+  orig: 253, 206
+  offset: 0, 0
   index: -1
-dragon_palagon_adult_wing1
+dragon_3026_e_critical_spark40
   rotate: true
-  xy: 393, 322
-  size: 74, 92
-  orig: 74, 92
-  offset: 0, 0
+  xy: 568, 523
+  size: 137, 155
+  orig: 225, 225
+  offset: 39, 38
   index: -1
-dragon_palagon_child_eye
+dragon_palagon_e_r_arm2
   rotate: false
-  xy: 530, 488
-  size: 18, 18
-  orig: 18, 18
-  offset: 0, 0
-  index: -1
-dragon_palagon_adult_love
-  rotate: false
-  xy: 756, 390
-  size: 40, 23
-  orig: 40, 23
-  offset: 0, 0
-  index: -1
-dragon_palagon_adult_attack
-  rotate: false
-  xy: 487, 463
-  size: 40, 23
-  orig: 40, 23
-  offset: 0, 0
-  index: -1
-dragon_palagon_child_love2
-  rotate: true
-  xy: 555, 462
-  size: 44, 50
-  orig: 44, 50
-  offset: 0, 0
-  index: -1
-dragon_palagon_child_arm2
-  rotate: false
-  xy: 801, 373
-  size: 36, 37
-  orig: 36, 37
-  offset: 0, 0
-  index: -1
-dragon_palagon_child_head
-  rotate: false
-  xy: 758, 440
-  size: 44, 50
-  orig: 44, 50
+  xy: 652, 988
+  size: 53, 34
+  orig: 53, 34
   offset: 0, 0
   index: -1
 dragon_palagon_critical1
   rotate: true
-  xy: 2, 348
+  xy: 603, 2
   size: 52, 389
   orig: 56, 399
   offset: 1, 5
   index: -1
-dragon_palagon_adult_helmet
+dragon_3026_e_critical_light32
   rotate: false
-  xy: 227, 454
-  size: 55, 49
-  orig: 55, 49
+  xy: 235, 649
+  size: 173, 129
+  orig: 191, 317
+  offset: 8, 4
+  index: -1
+dragon_palagon_adult_love
+  rotate: true
+  xy: 994, 2
+  size: 40, 23
+  orig: 40, 23
   offset: 0, 0
   index: -1
-dragon_palagon_adult_wing2
-  rotate: false
-  xy: 590, 257
-  size: 146, 61
-  orig: 146, 61
+dragon_palagon_adult_leg1
+  rotate: true
+  xy: 940, 726
+  size: 41, 77
+  orig: 41, 77
+  offset: 0, 0
+  index: -1
+dragon_palagon_baby_helmet
+  rotate: true
+  xy: 656, 921
+  size: 65, 67
+  orig: 65, 67
+  offset: 0, 0
+  index: -1
+dragon_palagon_e_r_leg1
+  rotate: true
+  xy: 972, 896
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+dragon_palagon_baby_tail
+  rotate: true
+  xy: 707, 992
+  size: 37, 47
+  orig: 37, 47
   offset: 0, 0
   index: -1
 dragon_palagon_child_body
-  rotate: false
-  xy: 555, 404
+  rotate: true
+  xy: 606, 808
   size: 92, 56
   orig: 92, 56
+  offset: 0, 0
+  index: -1
+dragon_palagon_adult_love02
+  rotate: false
+  xy: 972, 936
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+dragon_3026_e_critical_light23
+  rotate: true
+  xy: 725, 921
+  size: 69, 47
+  orig: 191, 317
+  offset: 31, 261
+  index: -1
+dragon_palagon_child_tail
+  rotate: false
+  xy: 752, 761
+  size: 61, 72
+  orig: 61, 72
   offset: 0, 0
   index: -1

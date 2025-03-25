@@ -1,0 +1,1502 @@
+dragon_4111_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_glacia_baby_f_r_foot
+  rotate: false
+  xy: 861, 972
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_eye_r_partSkin01
+  rotate: false
+  xy: 972, 1204
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_body
+  rotate: true
+  xy: 881, 668
+  size: 55, 45
+  orig: 55, 45
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_l_leg
+  rotate: true
+  xy: 913, 1404
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_r_foot
+  rotate: false
+  xy: 180, 1436
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_tail_wing2
+  rotate: true
+  xy: 720, 928
+  size: 88, 73
+  orig: 88, 73
+  offset: 0, 0
+  index: -1
+dragon_glacia_child_f_r_leg2
+  rotate: false
+  xy: 955, 1349
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+dragon_glacia_child_l_wing
+  rotate: false
+  xy: 661, 1391
+  size: 101, 61
+  orig: 101, 61
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_body
+  rotate: false
+  xy: 976, 1093
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+dragon_glacia_adult_l_leg
+  rotate: true
+  xy: 795, 972
+  size: 44, 64
+  orig: 44, 64
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_r_leg
+  rotate: false
+  xy: 965, 1375
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_tail_wing1
+  rotate: false
+  xy: 466, 998
+  size: 92, 73
+  orig: 92, 73
+  offset: 0, 0
+  index: -1
+dragon_glacia_adult_f_l_leg
+  rotate: false
+  xy: 868, 1085
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+dragon_glacia_adult_r_leg2
+  rotate: false
+  xy: 924, 1330
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+dragon_glacia_adult_r_leg3
+  rotate: true
+  xy: 885, 889
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_body3
+  rotate: false
+  xy: 976, 1016
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+dragon_4111_e_critical_eff115
+  rotate: true
+  xy: 469, 1073
+  size: 125, 124
+  orig: 125, 126
+  offset: 0, 1
+  index: -1
+dragon_glacia_e_bodyline2
+  rotate: false
+  xy: 1014, 1172
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_bodyline3
+  rotate: false
+  xy: 241, 820
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+dragon_4111_e_critical_eff118
+  rotate: false
+  xy: 574, 815
+  size: 129, 131
+  orig: 131, 133
+  offset: 1, 1
+  index: -1
+dragon_glacia_child_f_r_foot
+  rotate: true
+  xy: 269, 221
+  size: 32, 12
+  orig: 32, 14
+  offset: 0, 2
+  index: -1
+dragon_4111_e_critical_eff119
+  rotate: false
+  xy: 421, 1335
+  size: 119, 117
+  orig: 131, 133
+  offset: 6, 7
+  index: -1
+dragon_glacia_e_bodyline1
+  rotate: false
+  xy: 1001, 1335
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+dragon_4111_e_critical_eff116
+  rotate: true
+  xy: 595, 1027
+  size: 125, 123
+  orig: 131, 133
+  offset: 2, 5
+  index: -1
+dragon_glacia_child_r_leg2
+  rotate: false
+  xy: 738, 1370
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+dragon_4111_e_critical_eff117
+  rotate: true
+  xy: 919, 375
+  size: 105, 103
+  orig: 131, 133
+  offset: 13, 14
+  index: -1
+dragon_glacia_adult_r_foot
+  rotate: false
+  xy: 868, 1146
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_arm_l1_partSkin01
+  rotate: true
+  xy: 92, 1436
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_l_leg1
+  rotate: false
+  xy: 949, 787
+  size: 46, 71
+  orig: 46, 71
+  offset: 0, 0
+  index: -1
+dragon_4111_e_critical_eff120
+  rotate: true
+  xy: 790, 810
+  size: 95, 93
+  orig: 131, 133
+  offset: 17, 19
+  index: -1
+dragon_glacia_e_l_leg4
+  rotate: false
+  xy: 780, 193
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_r_leg4_b
+  rotate: false
+  xy: 1014, 1199
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_tail
+  rotate: true
+  xy: 904, 1016
+  size: 66, 38
+  orig: 66, 38
+  offset: 0, 0
+  index: -1
+dragon_4111_e_critical_eff121
+  rotate: false
+  xy: 431, 684
+  size: 129, 131
+  orig: 131, 133
+  offset: 1, 1
+  index: -1
+dragon_glacia_e_r_arm31
+  rotate: false
+  xy: 889, 1376
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_l_leg2
+  rotate: false
+  xy: 924, 1276
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_eye
+  rotate: false
+  xy: 976, 1142
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_l_leg3
+  rotate: false
+  xy: 764, 1370
+  size: 53, 82
+  orig: 53, 82
+  offset: 0, 0
+  index: -1
+dragon_4111_e_critical_eff124
+  rotate: false
+  xy: 961, 631
+  size: 61, 61
+  orig: 131, 133
+  offset: 34, 36
+  index: -1
+dragon_glacia_e_r_leg4_f
+  rotate: true
+  xy: 884, 1413
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+dragon_4111_e_critical_eff125
+  rotate: false
+  xy: 275, 1001
+  size: 101, 75
+  orig: 131, 133
+  offset: 8, 14
+  index: -1
+dragon_4111_e_critical_eff122
+  rotate: false
+  xy: 542, 1275
+  size: 117, 117
+  orig: 131, 133
+  offset: 6, 8
+  index: -1
+dragon_4111_e_critical_eff123
+  rotate: false
+  xy: 720, 1018
+  size: 85, 85
+  orig: 131, 133
+  offset: 22, 24
+  index: -1
+dragon_4111_e_critical_eff128
+  rotate: true
+  xy: 705, 815
+  size: 111, 83
+  orig: 131, 133
+  offset: 7, 31
+  index: -1
+dragon_4111_e_critical_eff126
+  rotate: false
+  xy: 595, 1154
+  size: 123, 119
+  orig: 131, 133
+  offset: 7, 12
+  index: -1
+dragon_4111_e_critical_eff127
+  rotate: true
+  xy: 421, 1208
+  size: 125, 119
+  orig: 131, 133
+  offset: 5, 12
+  index: -1
+dragon_glacia_e_head
+  rotate: false
+  xy: 542, 1394
+  size: 66, 58
+  orig: 66, 58
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_l_wing
+  rotate: false
+  xy: 241, 679
+  size: 188, 139
+  orig: 188, 139
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_tail3_partSkin01
+  rotate: false
+  xy: 807, 1170
+  size: 23, 62
+  orig: 23, 62
+  offset: 0, 0
+  index: -1
+dragon_glacia_adult_r_wing
+  rotate: true
+  xy: 275, 820
+  size: 179, 107
+  orig: 179, 107
+  offset: 0, 0
+  index: -1
+dragon_glacia_adult_f_l_foot
+  rotate: true
+  xy: 877, 1271
+  size: 50, 20
+  orig: 50, 20
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_f_r_leg
+  rotate: false
+  xy: 860, 1415
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+dragon_glacia_adult_f_l_ieg
+  rotate: false
+  xy: 832, 1170
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_moon_partSkin01
+  rotate: false
+  xy: 2, 1070
+  size: 209, 186
+  orig: 209, 186
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_l_foot
+  rotate: false
+  xy: 899, 1318
+  size: 23, 15
+  orig: 23, 15
+  offset: 0, 0
+  index: -1
+dragon_glacia_adult_f_l_ieg2
+  rotate: false
+  xy: 846, 1271
+  size: 29, 57
+  orig: 29, 57
+  offset: 0, 0
+  index: -1
+dragon_glacia_adult_l_leg2
+  rotate: true
+  xy: 902, 1335
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_ob2
+  rotate: true
+  xy: 961, 694
+  size: 15, 32
+  orig: 17, 34
+  offset: 1, 1
+  index: -1
+dragon_glacia_adult_l_leg3
+  rotate: false
+  xy: 865, 1016
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_ob3
+  rotate: false
+  xy: 876, 1342
+  size: 24, 32
+  orig: 26, 32
+  offset: 1, 0
+  index: -1
+dragon_glacia_baby_arm_r2_partSkin01
+  rotate: false
+  xy: 993, 1410
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_ob5
+  rotate: true
+  xy: 861, 984
+  size: 30, 66
+  orig: 32, 66
+  offset: 1, 0
+  index: -1
+dragon_glacia_baby_mouth
+  rotate: false
+  xy: 359, 1435
+  size: 38, 17
+  orig: 38, 17
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_hoody_partSkin01
+  rotate: true
+  xy: 661, 1275
+  size: 114, 75
+  orig: 114, 75
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_leg_r1_partSkin01
+  rotate: false
+  xy: 847, 1231
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+dragon_glacia_adult_l_foot
+  rotate: true
+  xy: 906, 1172
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_ob1
+  rotate: false
+  xy: 988, 985
+  size: 27, 29
+  orig: 29, 31
+  offset: 1, 2
+  index: -1
+dragon_glacia_e_ob6
+  rotate: true
+  xy: 924, 1304
+  size: 24, 38
+  orig: 26, 38
+  offset: 1, 0
+  index: -1
+dragon_glacia_e_ob7
+  rotate: true
+  xy: 2, 1436
+  size: 16, 30
+  orig: 16, 32
+  offset: 0, 1
+  index: -1
+dragon_glacia_baby_ribbon_r_partSkin01
+  rotate: true
+  xy: 964, 1324
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_mouth_partSkin01
+  rotate: true
+  xy: 560, 1032
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_r_leg2
+  rotate: true
+  xy: 880, 1231
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_r_leg1
+  rotate: false
+  xy: 542, 1200
+  size: 46, 71
+  orig: 46, 71
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_r_leg4
+  rotate: false
+  xy: 965, 1229
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_r_leg3
+  rotate: false
+  xy: 764, 1370
+  size: 53, 82
+  orig: 53, 82
+  offset: 0, 0
+  index: -1
+dragon_glacia_adult_lce
+  rotate: false
+  xy: 944, 1016
+  size: 30, 65
+  orig: 30, 65
+  offset: 0, 0
+  index: -1
+dragon_glacia_adult_tail
+  rotate: true
+  xy: 393, 1078
+  size: 128, 74
+  orig: 128, 74
+  offset: 0, 0
+  index: -1
+dragon_glacia_effect_critical4
+  rotate: true
+  xy: 883, 631
+  size: 35, 76
+  orig: 35, 76
+  offset: 0, 0
+  index: -1
+dragon_glacia_effect_critical5
+  rotate: false
+  xy: 1001, 1295
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+dragon_glacia_adult_r_leg
+  rotate: false
+  xy: 313, 1392
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+dragon_glacia_effect_critical2
+  rotate: false
+  xy: 802, 1105
+  size: 30, 63
+  orig: 30, 63
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_eye2
+  rotate: false
+  xy: 933, 1253
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+dragon_glacia_effect_critical3
+  rotate: false
+  xy: 899, 1271
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_eye3
+  rotate: false
+  xy: 606, 102
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+dragon_glacia_adult_l_wing
+  rotate: true
+  xy: 465, 817
+  size: 179, 107
+  orig: 179, 107
+  offset: 0, 0
+  index: -1
+dragon_glacia_effect_critical1
+  rotate: true
+  xy: 965, 1273
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+dragon_glacia_child_tail
+  rotate: true
+  xy: 885, 807
+  size: 80, 62
+  orig: 80, 62
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_tail_partSkin01
+  rotate: true
+  xy: 954, 860
+  size: 71, 53
+  orig: 71, 55
+  offset: 0, 1
+  index: -1
+dragon_glacia_e_l_leg4_b
+  rotate: false
+  xy: 1014, 1212
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_head_acc1_partSkin01
+  rotate: true
+  xy: 970, 139
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_ribbon_down_partSkin01
+  rotate: true
+  xy: 1002, 694
+  size: 50, 20
+  orig: 50, 20
+  offset: 0, 0
+  index: -1
+dragon_glacia_effect_critical8
+  rotate: false
+  xy: 970, 2
+  size: 48, 135
+  orig: 48, 135
+  offset: 0, 0
+  index: -1
+dragon_glacia_effect_critical9
+  rotate: true
+  xy: 883, 543
+  size: 86, 136
+  orig: 114, 146
+  offset: 13, 5
+  index: -1
+dragon_glacia_effect_critical6
+  rotate: false
+  xy: 819, 1350
+  size: 30, 63
+  orig: 30, 63
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_l_leg4_f
+  rotate: false
+  xy: 908, 1375
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+dragon_glacia_effect_critical7
+  rotate: false
+  xy: 772, 1180
+  size: 33, 89
+  orig: 33, 89
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_l_arm31
+  rotate: true
+  xy: 913, 1434
+  size: 17, 35
+  orig: 17, 35
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_l_arm1
+  rotate: false
+  xy: 738, 1275
+  size: 50, 93
+  orig: 50, 93
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_eye_l_partSkin01
+  rotate: false
+  xy: 974, 1431
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+dragon_glacia_adult_face
+  rotate: true
+  xy: 807, 1018
+  size: 83, 56
+  orig: 83, 56
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_eye_lclose_partSkin01
+  rotate: true
+  xy: 1001, 1352
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_r_wing
+  rotate: false
+  xy: 255, 538
+  size: 188, 139
+  orig: 188, 139
+  offset: 0, 0
+  index: -1
+dragon_glacia_child_f_r_leg
+  rotate: true
+  xy: 933, 1139
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_l_arm3
+  rotate: false
+  xy: 932, 1171
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+dragon_glacia_effect_critical_circle
+  rotate: false
+  xy: 2, 856
+  size: 212, 212
+  orig: 212, 212
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_face
+  rotate: true
+  xy: 864, 725
+  size: 80, 65
+  orig: 80, 65
+  offset: 0, 0
+  index: -1
+dragon_glacia_child_face
+  rotate: true
+  xy: 790, 1271
+  size: 77, 54
+  orig: 77, 54
+  offset: 0, 0
+  index: -1
+dragon_glacia_child_r_leg
+  rotate: false
+  xy: 972, 1172
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_hoody_acc_l1_partSkin01
+  rotate: false
+  xy: 595, 202
+  size: 9, 39
+  orig: 9, 39
+  offset: 0, 0
+  index: -1
+dragon_glacia_child_r_foot
+  rotate: true
+  xy: 565, 440
+  size: 56, 14
+  orig: 56, 14
+  offset: 0, 0
+  index: -1
+dragon_glacia_child_eye2
+  rotate: true
+  xy: 565, 498
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+dragon_glacia_child_neck
+  rotate: false
+  xy: 807, 1234
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+dragon_glacia_child_eye1
+  rotate: true
+  xy: 870, 1379
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+dragon_glacia_child_l_leg
+  rotate: true
+  xy: 933, 1211
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+dragon_glacia_child_f_l_leg
+  rotate: false
+  xy: 928, 668
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+dragon_glacia_child_eye3
+  rotate: true
+  xy: 851, 1379
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_foot_r_partSkin01
+  rotate: true
+  xy: 117, 1436
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+dragon_glacia_adult_eye1
+  rotate: false
+  xy: 979, 1345
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_arm_r1_partSkin01
+  rotate: false
+  xy: 921, 1349
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_neck
+  rotate: false
+  xy: 933, 1084
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+dragon_glacia_adult_eye4
+  rotate: false
+  xy: 950, 1434
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+dragon_glacia_adult_eye2
+  rotate: false
+  xy: 313, 1236
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+dragon_glacia_adult_eye5
+  rotate: false
+  xy: 749, 299
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+dragon_glacia_adult_eye3
+  rotate: false
+  xy: 995, 1391
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_leg_r2_partSkin01
+  rotate: true
+  xy: 997, 830
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+dragon_glacia_adult_neck
+  rotate: true
+  xy: 217, 1392
+  size: 57, 94
+  orig: 57, 94
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_tail2_partSkin01
+  rotate: false
+  xy: 970, 182
+  size: 41, 31
+  orig: 43, 31
+  offset: 1, 0
+  index: -1
+dragon_love_effect_anger
+  rotate: false
+  xy: 393, 1208
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_blink_partSkin01
+  rotate: true
+  xy: 954, 933
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_a12
+  rotate: true
+  xy: 562, 721
+  size: 92, 154
+  orig: 240, 180
+  offset: 57, 0
+  index: -1
+dragon_glacia_e_eye1
+  rotate: false
+  xy: 877, 1323
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_head2
+  rotate: true
+  xy: 964, 1295
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_eye2
+  rotate: true
+  xy: 913, 1144
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_head3
+  rotate: false
+  xy: 610, 1394
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_a14
+  rotate: true
+  xy: 727, 639
+  size: 84, 152
+  orig: 240, 180
+  offset: 59, 0
+  index: -1
+dragon_glacia_e_eye3
+  rotate: true
+  xy: 968, 1403
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_eye_rsmlie_partSkin01
+  rotate: false
+  xy: 965, 1251
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_a13
+  rotate: false
+  xy: 331, 1236
+  size: 88, 154
+  orig: 240, 180
+  offset: 59, 0
+  index: -1
+dragon_glacia_e_eye4
+  rotate: true
+  xy: 1005, 1273
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_eye5
+  rotate: false
+  xy: 399, 1435
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_body_partSkin01
+  rotate: false
+  xy: 881, 928
+  size: 71, 54
+  orig: 71, 54
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_a15
+  rotate: false
+  xy: 313, 1078
+  size: 78, 156
+  orig: 240, 180
+  offset: 65, 0
+  index: -1
+dragon_glacia_e_a10
+  rotate: false
+  xy: 213, 1080
+  size: 98, 172
+  orig: 240, 180
+  offset: 54, 0
+  index: -1
+dragon_glacia_child_mouth
+  rotate: false
+  xy: 976, 1067
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+dragon_glacia_adult_mouth
+  rotate: false
+  xy: 790, 1350
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_head_partSkin01
+  rotate: true
+  xy: 931, 711
+  size: 74, 69
+  orig: 74, 69
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_a11
+  rotate: true
+  xy: 727, 543
+  size: 94, 154
+  orig: 240, 180
+  offset: 56, 0
+  index: -1
+dragon_glacia_baby_lce2
+  rotate: false
+  xy: 987, 1431
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_a16
+  rotate: true
+  xy: 565, 649
+  size: 70, 158
+  orig: 240, 180
+  offset: 65, 0
+  index: -1
+dragon_glacia_baby_lce3
+  rotate: false
+  xy: 1009, 905
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_eye_rclose_partSkin01
+  rotate: true
+  xy: 908, 1217
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_a17
+  rotate: false
+  xy: 954, 215
+  size: 68, 158
+  orig: 240, 180
+  offset: 66, 0
+  index: -1
+dragon_glacia_baby_lce1
+  rotate: false
+  xy: 1009, 851
+  size: 13, 27
+  orig: 13, 27
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_hoody_acc_r2_partSkin01
+  rotate: true
+  xy: 610, 1442
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_head_acc2_partSkin01
+  rotate: false
+  xy: 942, 1404
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_r_arm1
+  rotate: false
+  xy: 720, 1180
+  size: 50, 93
+  orig: 50, 93
+  offset: 0, 0
+  index: -1
+dragon_glacia_effect_critical_d5
+  rotate: true
+  xy: 2, 1405
+  size: 29, 213
+  orig: 29, 215
+  offset: 0, 1
+  index: -1
+dragon_glacia_adult_f_r_foot
+  rotate: true
+  xy: 1002, 746
+  size: 50, 20
+  orig: 50, 20
+  offset: 0, 0
+  index: -1
+dragon_glacia_adult_f_r_leg2
+  rotate: true
+  xy: 929, 985
+  size: 29, 57
+  orig: 29, 57
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_r_arm3
+  rotate: false
+  xy: 866, 1172
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_f_l_leg
+  rotate: false
+  xy: 851, 1330
+  size: 23, 47
+  orig: 23, 47
+  offset: 0, 0
+  index: -1
+dragon_glacia_adult_body
+  rotate: false
+  xy: 795, 907
+  size: 84, 63
+  orig: 84, 63
+  offset: 0, 0
+  index: -1
+dragon_glacia_adult_f_l_leg2
+  rotate: false
+  xy: 902, 1085
+  size: 29, 57
+  orig: 29, 57
+  offset: 0, 0
+  index: -1
+dragon_glacia_adult_body2
+  rotate: false
+  xy: 359, 1392
+  size: 59, 41
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_f_l_foot
+  rotate: false
+  xy: 931, 787
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+dragon_glacia_effect_aura06
+  rotate: false
+  xy: 2, 653
+  size: 237, 201
+  orig: 279, 217
+  offset: 33, 8
+  index: -1
+dragon_glacia_effect_aura08
+  rotate: false
+  xy: 2, 2
+  size: 279, 217
+  orig: 279, 217
+  offset: 0, 0
+  index: -1
+dragon_glacia_effect_aura07
+  rotate: false
+  xy: 2, 221
+  size: 265, 217
+  orig: 279, 217
+  offset: 14, 0
+  index: -1
+dragon_glacia_child_l_foot
+  rotate: false
+  xy: 34, 1436
+  size: 56, 14
+  orig: 56, 14
+  offset: 0, 0
+  index: -1
+dragon_glacia_child_f_l_leg2
+  rotate: false
+  xy: 995, 1365
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+dragon_glacia_adult_f_r_leg
+  rotate: false
+  xy: 834, 1103
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+dragon_glacia_child_body
+  rotate: false
+  xy: 378, 1014
+  size: 86, 62
+  orig: 86, 62
+  offset: 0, 0
+  index: -1
+dragon_glacia_child_r_wing
+  rotate: false
+  xy: 913, 482
+  size: 108, 59
+  orig: 108, 59
+  offset: 0, 0
+  index: -1
+dragon_glacia_child_lce2
+  rotate: true
+  xy: 866, 1212
+  size: 17, 37
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+dragon_glacia_child_lce1
+  rotate: false
+  xy: 1009, 880
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+dragon_glacia_effect_aura04
+  rotate: false
+  xy: 2, 1258
+  size: 211, 145
+  orig: 279, 217
+  offset: 46, 14
+  index: -1
+dragon_glacia_effect_aura05
+  rotate: false
+  xy: 2, 440
+  size: 251, 211
+  orig: 279, 217
+  offset: 22, 0
+  index: -1
+dragon_4111_e_critical_eff250
+  rotate: true
+  xy: 574, 948
+  size: 77, 144
+  orig: 95, 320
+  offset: 5, 176
+  index: -1
+dragon_4111_e_critical_eff251
+  rotate: true
+  xy: 822, 132
+  size: 81, 146
+  orig: 95, 320
+  offset: 4, 171
+  index: -1
+dragon_glacia_adult_lce2
+  rotate: false
+  xy: 720, 1105
+  size: 80, 73
+  orig: 80, 73
+  offset: 0, 0
+  index: -1
+dragon_4111_e_critical_eff254
+  rotate: true
+  xy: 269, 257
+  size: 61, 308
+  orig: 95, 320
+  offset: 26, 4
+  index: -1
+dragon_glacia_baby_eye_lsmile_partSkin01
+  rotate: true
+  xy: 565, 525
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+dragon_4111_e_critical_eff255
+  rotate: true
+  xy: 255, 497
+  size: 39, 308
+  orig: 95, 320
+  offset: 32, 3
+  index: -1
+dragon_glacia_adult_lce3
+  rotate: false
+  xy: 579, 257
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+dragon_4111_e_critical_eff252
+  rotate: true
+  xy: 718, 725
+  size: 83, 144
+  orig: 95, 320
+  offset: 3, 171
+  index: -1
+dragon_glacia_baby_ribbon_l_partSkin01
+  rotate: false
+  xy: 997, 798
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+dragon_4111_e_critical_eff253
+  rotate: false
+  xy: 384, 820
+  size: 79, 192
+  orig: 95, 320
+  offset: 6, 120
+  index: -1
+dragon_4111_e_critical_eff258
+  rotate: false
+  xy: 213, 1070
+  size: 1, 1
+  orig: 95, 320
+  offset: 0, 319
+  index: -1
+dragon_glacia_child_f_l_foot
+  rotate: true
+  xy: 560, 998
+  size: 32, 12
+  orig: 32, 14
+  offset: 0, 2
+  index: -1
+dragon_4111_e_critical_eff259
+  rotate: true
+  xy: 656, 67
+  size: 63, 312
+  orig: 95, 320
+  offset: 17, 1
+  index: -1
+dragon_glacia_e_tail_wingcenter
+  rotate: false
+  xy: 940, 1375
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+dragon_glacia_baby_tail
+  rotate: true
+  xy: 819, 1415
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+dragon_4111_e_critical_eff256
+  rotate: true
+  xy: 283, 202
+  size: 53, 310
+  orig: 95, 320
+  offset: 23, 1
+  index: -1
+dragon_4111_e_critical_eff257
+  rotate: true
+  xy: 269, 381
+  size: 57, 310
+  orig: 95, 320
+  offset: 21, 1
+  index: -1
+dragon_glacia_e_a8
+  rotate: true
+  xy: 606, 193
+  size: 104, 172
+  orig: 240, 180
+  offset: 49, 0
+  index: -1
+dragon_glacia_e_a9
+  rotate: true
+  xy: 780, 215
+  size: 102, 172
+  orig: 240, 180
+  offset: 51, 0
+  index: -1
+dragon_4111_e_critical_eff260
+  rotate: false
+  xy: 213, 1070
+  size: 1, 1
+  orig: 95, 320
+  offset: 0, 319
+  index: -1
+dragon_glacia_e_a6
+  rotate: true
+  xy: 565, 535
+  size: 112, 160
+  orig: 240, 180
+  offset: 47, 0
+  index: -1
+dragon_4111_e_critical_eff261
+  rotate: true
+  xy: 656, 2
+  size: 63, 312
+  orig: 95, 320
+  offset: 17, 1
+  index: -1
+dragon_glacia_e_a7
+  rotate: true
+  xy: 743, 435
+  size: 106, 168
+  orig: 240, 180
+  offset: 49, 0
+  index: -1
+dragon_glacia_baby_arm_l2_partSkin01
+  rotate: false
+  xy: 241, 653
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+dragon_4111_e_critical_eff264
+  rotate: false
+  xy: 216, 856
+  size: 57, 222
+  orig: 95, 320
+  offset: 19, 82
+  index: -1
+dragon_4111_e_critical_eff265
+  rotate: true
+  xy: 606, 132
+  size: 59, 214
+  orig: 95, 320
+  offset: 15, 84
+  index: -1
+dragon_glacia_baby_hoody_acc_r1_partSkin01
+  rotate: true
+  xy: 140, 1436
+  size: 9, 38
+  orig: 9, 38
+  offset: 0, 0
+  index: -1
+dragon_4111_e_critical_eff262
+  rotate: true
+  xy: 269, 320
+  size: 59, 310
+  orig: 95, 320
+  offset: 20, 2
+  index: -1
+dragon_4111_e_critical_eff263
+  rotate: true
+  xy: 255, 440
+  size: 55, 304
+  orig: 95, 320
+  offset: 21, 3
+  index: -1
+dragon_glacia_e_a1
+  rotate: false
+  xy: 215, 1254
+  size: 114, 136
+  orig: 240, 180
+  offset: 54, 0
+  index: -1
+dragon_glacia_effect_critical10
+  rotate: true
+  xy: 283, 2
+  size: 98, 371
+  orig: 128, 375
+  offset: 15, 0
+  index: -1
+dragon_glacia_e_a4
+  rotate: true
+  xy: 581, 299
+  size: 116, 166
+  orig: 240, 180
+  offset: 50, 0
+  index: -1
+dragon_glacia_e_a5
+  rotate: true
+  xy: 749, 319
+  size: 114, 168
+  orig: 240, 180
+  offset: 48, 0
+  index: -1
+dragon_glacia_baby_ribbon_up_partSkin01
+  rotate: false
+  xy: 919, 319
+  size: 28, 53
+  orig: 28, 53
+  offset: 0, 0
+  index: -1
+dragon_glacia_e_a2
+  rotate: false
+  xy: 445, 538
+  size: 118, 144
+  orig: 240, 180
+  offset: 52, 4
+  index: -1
+dragon_glacia_effect_critical11
+  rotate: true
+  xy: 283, 102
+  size: 98, 321
+  orig: 128, 375
+  offset: 15, 50
+  index: -1
+dragon_glacia_e_a3
+  rotate: true
+  xy: 581, 417
+  size: 116, 160
+  orig: 240, 180
+  offset: 51, 0
+  index: -1

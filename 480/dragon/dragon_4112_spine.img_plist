@@ -1,0 +1,774 @@
+dragon_4112_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_asti_adult_neck
+  rotate: false
+  xy: 1444, 330
+  size: 82, 68
+  orig: 82, 68
+  offset: 0, 0
+  index: -1
+dragon_asti_effect_Tornado3
+  rotate: false
+  xy: 526, 2
+  size: 206, 246
+  orig: 270, 270
+  offset: 23, 6
+  index: -1
+dragon_asti_adult_f_l_arm2
+  rotate: false
+  xy: 1669, 345
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+dragon_asti_adult_f_r_arm
+  rotate: true
+  xy: 2, 386
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+dragon_asti_effect_Tornado6
+  rotate: true
+  xy: 274, 250
+  size: 134, 222
+  orig: 270, 270
+  offset: 75, 6
+  index: -1
+dragon_asti_effect_light
+  rotate: false
+  xy: 942, 2
+  size: 234, 200
+  orig: 270, 270
+  offset: 23, 36
+  index: -1
+dragon_asti_adult_eye2
+  rotate: true
+  xy: 1960, 404
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+dragon_littio_baby_heart
+  rotate: false
+  xy: 112, 386
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_asti_child_eye2
+  rotate: false
+  xy: 1767, 396
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+dragon_asti_effect_small_Lightning2
+  rotate: true
+  xy: 1396, 174
+  size: 80, 178
+  orig: 270, 270
+  offset: 128, 24
+  index: -1
+dragon_asti_effect_light_circle5
+  rotate: false
+  xy: 1730, 311
+  size: 60, 60
+  orig: 270, 270
+  offset: 109, 108
+  index: -1
+dragon_asti_child_wing_light
+  rotate: false
+  xy: 1474, 400
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+dragon_asti_child_f_l_leg
+  rotate: true
+  xy: 2007, 366
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+dragon_asti_adult_l_foot
+  rotate: true
+  xy: 839, 392
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+dragon_asti_adult_string
+  rotate: true
+  xy: 1630, 152
+  size: 91, 164
+  orig: 91, 164
+  offset: 0, 0
+  index: -1
+dragon_asti_adult_face
+  rotate: true
+  xy: 972, 336
+  size: 89, 73
+  orig: 89, 73
+  offset: 0, 0
+  index: -1
+dragon_asti_adult_r_leg
+  rotate: true
+  xy: 1576, 225
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+dragon_asti_effect_Lightning
+  rotate: true
+  xy: 2, 268
+  size: 116, 270
+  orig: 270, 270
+  offset: 92, 0
+  index: -1
+dragon_asti_adult_l_eyebrow
+  rotate: false
+  xy: 791, 346
+  size: 129, 44
+  orig: 129, 44
+  offset: 0, 0
+  index: -1
+dragon_asti_effect_light3
+  rotate: true
+  xy: 942, 204
+  size: 20, 248
+  orig: 270, 270
+  offset: 124, 11
+  index: -1
+dragon_asti_effect_light_circle6
+  rotate: false
+  xy: 1730, 245
+  size: 64, 64
+  orig: 270, 270
+  offset: 107, 106
+  index: -1
+dragon_asti_baby_f_r_foot
+  rotate: true
+  xy: 1662, 400
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+dragon_asti_adult_mouth
+  rotate: false
+  xy: 1598, 325
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+dragon_asti_adult_bowl_light2
+  rotate: false
+  xy: 1974, 373
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+dragon_asti_adult_wing_light2
+  rotate: true
+  xy: 1565, 399
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+dragon_asti_effect_light_circle2
+  rotate: false
+  xy: 1862, 2
+  size: 132, 146
+  orig: 270, 270
+  offset: 77, 70
+  index: -1
+dragon_asti_child_l_leg
+  rotate: false
+  xy: 1356, 258
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+dragon_asti_child_f_l_foot
+  rotate: true
+  xy: 1497, 400
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+dragon_asti_child_neck
+  rotate: true
+  xy: 1571, 264
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+dragon_asti_effect_Tornado4
+  rotate: true
+  xy: 1396, 2
+  size: 170, 232
+  orig: 270, 270
+  offset: 40, 6
+  index: -1
+dragon_asti_baby_tail
+  rotate: false
+  xy: 362, 386
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+dragon_asti_baby_l_leg
+  rotate: true
+  xy: 1444, 400
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+dragon_asti_effect_light2
+  rotate: false
+  xy: 2, 2
+  size: 270, 264
+  orig: 270, 270
+  offset: 0, 3
+  index: -1
+dragon_asti_child_r_eyebrow
+  rotate: false
+  xy: 238, 386
+  size: 75, 34
+  orig: 75, 34
+  offset: 0, 0
+  index: -1
+dragon_asti_baby_l_eyeline
+  rotate: false
+  xy: 1370, 392
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+dragon_asti_child_f_r_foot
+  rotate: true
+  xy: 1900, 407
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1
+dragon_asti_effect_small_Lightning3
+  rotate: true
+  xy: 498, 326
+  size: 94, 224
+  orig: 270, 270
+  offset: 67, 15
+  index: -1
+dragon_asti_adult_f_l_arm
+  rotate: true
+  xy: 57, 386
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+dragon_asti_child_r_leg2
+  rotate: true
+  xy: 2018, 222
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+dragon_asti_adult_waist
+  rotate: false
+  xy: 1047, 336
+  size: 99, 69
+  orig: 99, 69
+  offset: 0, 0
+  index: -1
+dragon_asti_child_wing_light2
+  rotate: true
+  xy: 942, 226
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+dragon_asti_adult_breast
+  rotate: false
+  xy: 1796, 152
+  size: 115, 92
+  orig: 115, 92
+  offset: 0, 0
+  index: -1
+dragon_asti_adult_eye
+  rotate: true
+  xy: 1982, 404
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+dragon_asti_effect_light_circle7
+  rotate: true
+  xy: 1896, 277
+  size: 94, 96
+  orig: 270, 270
+  offset: 94, 90
+  index: -1
+dragon_asti_baby_f_r_leg
+  rotate: false
+  xy: 1393, 258
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_asti_adult_l_leg
+  rotate: false
+  xy: 1356, 204
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+dragon_asti_child_breast
+  rotate: false
+  xy: 1528, 325
+  size: 68, 72
+  orig: 68, 72
+  offset: 0, 0
+  index: -1
+dragon_asti_child_love_eye
+  rotate: false
+  xy: 2013, 286
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+dragon_asti_child_tail
+  rotate: false
+  xy: 724, 346
+  size: 65, 79
+  orig: 65, 79
+  offset: 0, 0
+  index: -1
+dragon_asti_adult_r_horn
+  rotate: true
+  xy: 454, 386
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+dragon_asti_adult_f_r_hand
+  rotate: true
+  xy: 1528, 399
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+dragon_asti_adult_bowl_light3
+  rotate: false
+  xy: 1527, 300
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_asti_adult_wing_light3
+  rotate: true
+  xy: 2016, 314
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+dragon_asti_baby_body
+  rotate: true
+  xy: 1136, 226
+  size: 76, 46
+  orig: 76, 46
+  offset: 0, 0
+  index: -1
+dragon_asti_effect_small_Lightning
+  rotate: true
+  xy: 760, 250
+  size: 94, 210
+  orig: 270, 270
+  offset: 60, 28
+  index: -1
+dragon_asti_adult_tail
+  rotate: false
+  xy: 1913, 150
+  size: 103, 125
+  orig: 103, 125
+  offset: 0, 0
+  index: -1
+dragon_asti_effect_small_Lightning4
+  rotate: true
+  xy: 1192, 204
+  size: 100, 162
+  orig: 270, 270
+  offset: 115, 26
+  index: -1
+dragon_asti_effect_light_circle3
+  rotate: true
+  xy: 1792, 346
+  size: 74, 78
+  orig: 270, 270
+  offset: 96, 98
+  index: -1
+dragon_asti_child_love_eye1
+  rotate: false
+  xy: 1745, 396
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+dragon_asti_child_r_foot
+  rotate: true
+  xy: 1896, 246
+  size: 25, 12
+  orig: 25, 12
+  offset: 0, 0
+  index: -1
+dragon_asti_adult_r_leg2
+  rotate: false
+  xy: 1047, 407
+  size: 44, 17
+  orig: 44, 17
+  offset: 0, 0
+  index: -1
+dragon_asti_effect_Tornado5
+  rotate: true
+  xy: 1630, 2
+  size: 148, 230
+  orig: 270, 270
+  offset: 61, 6
+  index: -1
+dragon_asti_baby_face
+  rotate: false
+  xy: 1444, 256
+  size: 81, 72
+  orig: 81, 72
+  offset: 0, 0
+  index: -1
+dragon_asti_effect_light_circle11
+  rotate: false
+  xy: 1264, 306
+  size: 104, 110
+  orig: 270, 270
+  offset: 87, 83
+  index: -1
+dragon_asti_child_r_leg
+  rotate: true
+  xy: 315, 386
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+dragon_asti_adult_f_l_hand
+  rotate: false
+  xy: 1872, 385
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+dragon_asti_child_body
+  rotate: false
+  xy: 1598, 345
+  size: 69, 53
+  orig: 69, 53
+  offset: 0, 0
+  index: -1
+dragon_asti_adult_l_horn
+  rotate: true
+  xy: 408, 386
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+dragon_asti_child_f_l_leg2
+  rotate: false
+  xy: 1872, 346
+  size: 22, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+dragon_asti_child_r_leg3
+  rotate: false
+  xy: 2018, 148
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+dragon_asti_baby_eye2
+  rotate: false
+  xy: 1708, 398
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+dragon_asti_baby_r_eyeline
+  rotate: false
+  xy: 882, 392
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+dragon_asti_baby_l_foot
+  rotate: false
+  xy: 1127, 407
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+dragon_asti_baby_r_foot
+  rotate: false
+  xy: 1996, 133
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+dragon_asti_child_l_leg3
+  rotate: false
+  xy: 2018, 185
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+dragon_asti_adult_l_leg2
+  rotate: true
+  xy: 1994, 277
+  size: 44, 17
+  orig: 44, 17
+  offset: 0, 0
+  index: -1
+dragon_asti_child_f_r_leg2
+  rotate: false
+  xy: 1669, 398
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+dragon_asti_adult_bowl_light
+  rotate: false
+  xy: 791, 392
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+dragon_asti_effect_light_circle8
+  rotate: false
+  xy: 1796, 246
+  size: 98, 98
+  orig: 270, 270
+  offset: 91, 90
+  index: -1
+dragon_asti_effect_light_circle
+  rotate: true
+  xy: 1178, 2
+  size: 200, 216
+  orig: 270, 270
+  offset: 36, 38
+  index: -1
+dragon_asti_effect_Tornado2
+  rotate: false
+  xy: 274, 2
+  size: 250, 246
+  orig: 270, 270
+  offset: 20, 7
+  index: -1
+dragon_asti_effect_light_circle10
+  rotate: false
+  xy: 1148, 306
+  size: 114, 112
+  orig: 270, 270
+  offset: 82, 83
+  index: -1
+dragon_asti_adult_r_eyebrow
+  rotate: true
+  xy: 1996, 2
+  size: 129, 44
+  orig: 129, 44
+  offset: 0, 0
+  index: -1
+dragon_asti_baby_love_eye
+  rotate: false
+  xy: 1900, 373
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+dragon_asti_baby_f_l_leg
+  rotate: false
+  xy: 1393, 280
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_asti_effect_light_circle4
+  rotate: false
+  xy: 1527, 256
+  size: 42, 42
+  orig: 270, 270
+  offset: 118, 116
+  index: -1
+dragon_asti_adult_love_eye
+  rotate: true
+  xy: 2016, 342
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+dragon_asti_baby_eye
+  rotate: false
+  xy: 1937, 373
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+dragon_asti_adult_angry_eye
+  rotate: true
+  xy: 2018, 259
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+dragon_asti_baby_r_leg
+  rotate: true
+  xy: 1632, 400
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+dragon_asti_adult_r_leg3
+  rotate: true
+  xy: 1757, 373
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+dragon_asti_adult_wing_light
+  rotate: true
+  xy: 1595, 400
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+dragon_asti_child_face
+  rotate: true
+  xy: 1370, 306
+  size: 84, 72
+  orig: 84, 72
+  offset: 0, 0
+  index: -1
+dragon_asti_child_l_leg2
+  rotate: false
+  xy: 1720, 373
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+dragon_asti_adult_hip
+  rotate: false
+  xy: 922, 346
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+dragon_asti_adult_eye3
+  rotate: false
+  xy: 1937, 402
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+dragon_asti_adult_r_string
+  rotate: true
+  xy: 972, 226
+  size: 108, 162
+  orig: 108, 162
+  offset: 0, 0
+  index: -1
+dragon_asti_adult_f_r_arm2
+  rotate: true
+  xy: 1576, 174
+  size: 49, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1
+dragon_asti_child_mouth
+  rotate: false
+  xy: 1416, 392
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+dragon_asti_child_f_r_leg
+  rotate: true
+  xy: 1093, 407
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1
+dragon_asti_effect_Lightning2
+  rotate: true
+  xy: 498, 250
+  size: 74, 260
+  orig: 270, 270
+  offset: 108, 2
+  index: -1
+dragon_asti_baby_f_l_foot
+  rotate: true
+  xy: 2036, 286
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+dragon_asti_child_l_foot
+  rotate: false
+  xy: 2017, 133
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+dragon_asti_adult_l_leg3
+  rotate: true
+  xy: 2007, 394
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+dragon_asti_baby_wing_light1
+  rotate: true
+  xy: 724, 326
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+dragon_asti_effect_Tornado
+  rotate: false
+  xy: 734, 2
+  size: 206, 246
+  orig: 270, 270
+  offset: 41, 6
+  index: -1
+dragon_asti_baby_mouth
+  rotate: true
+  xy: 1994, 323
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+dragon_asti_child_l_eyebrow
+  rotate: false
+  xy: 160, 386
+  size: 76, 34
+  orig: 76, 34
+  offset: 0, 0
+  index: -1
+dragon_asti_effect_light_circle9
+  rotate: false
+  xy: 1630, 245
+  size: 98, 98
+  orig: 270, 270
+  offset: 91, 90
+  index: -1
+dragon_asti_adult_r_foot
+  rotate: true
+  xy: 928, 386
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1

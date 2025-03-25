@@ -2,326 +2,305 @@ dragon_3036_spine.pvr.ccz
 format: RGBA4444
 filter: Linear,Linear
 repeat: none
-dragon_furfur_child_leg4
-  rotate: true
-  xy: 2, 1090
-  size: 27, 46
-  orig: 27, 46
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_breast3
+dragon_furfur_adult_ground1
   rotate: false
-  xy: 703, 820
-  size: 61, 68
-  orig: 61, 68
-  offset: 0, 0
-  index: -1
-dragon_furfur_child_horn6
-  rotate: false
-  xy: 903, 788
-  size: 56, 38
-  orig: 56, 44
-  offset: 0, 0
-  index: -1
-dragon_furfur_baby_bodylight1
-  rotate: false
-  xy: 215, 1090
-  size: 28, 27
-  orig: 28, 27
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_taillight2
-  rotate: false
-  xy: 682, 537
-  size: 179, 73
-  orig: 179, 73
-  offset: 0, 0
-  index: -1
-dragon_furfur_baby_tail
-  rotate: false
-  xy: 346, 1091
-  size: 35, 20
-  orig: 35, 20
-  offset: 0, 0
-  index: -1
-dragon_furfur_child_wing1
-  rotate: false
-  xy: 863, 537
-  size: 68, 100
-  orig: 68, 100
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_ground4
-  rotate: true
-  xy: 551, 425
-  size: 199, 129
-  orig: 199, 137
-  offset: 0, 0
-  index: -1
-dragon_furfur_child_anger
-  rotate: false
-  xy: 318, 1091
-  size: 26, 26
-  orig: 26, 26
-  offset: 0, 0
-  index: -1
-dragon_furfur_child_bodylight1
-  rotate: false
-  xy: 978, 781
-  size: 41, 52
-  orig: 41, 58
-  offset: 0, 2
-  index: -1
-dragon_furfur_baby_arm1
-  rotate: false
-  xy: 930, 886
-  size: 20, 42
-  orig: 20, 42
-  offset: 0, 0
-  index: -1
-dragon_furfur_baby_horn3
-  rotate: true
-  xy: 952, 899
-  size: 33, 35
-  orig: 37, 35
-  offset: 4, 0
-  index: -1
-dragon_furfur_adult_mouse
-  rotate: false
-  xy: 989, 938
-  size: 23, 29
-  orig: 23, 29
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_horn4
-  rotate: false
-  xy: 717, 1015
-  size: 37, 63
-  orig: 37, 63
-  offset: 0, 0
-  index: -1
-dragon_furfur_critical_dmg5
-  rotate: false
-  xy: 2, 429
-  size: 346, 364
-  orig: 346, 364
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_leg3
-  rotate: false
-  xy: 980, 346
-  size: 23, 42
-  orig: 23, 42
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_wing3
-  rotate: false
-  xy: 264, 996
-  size: 117, 93
-  orig: 117, 93
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_head
-  rotate: true
-  xy: 383, 1068
-  size: 49, 37
-  orig: 49, 37
-  offset: 0, 0
-  index: -1
-dragon_furfur_child_horn3
-  rotate: false
-  xy: 651, 903
-  size: 51, 45
-  orig: 53, 47
-  offset: 0, 0
-  index: -1
-dragon_furfur_baby_arm2
-  rotate: true
-  xy: 969, 877
-  size: 20, 42
-  orig: 20, 42
-  offset: 0, 0
-  index: -1
-dragon_furfur_child_breast2
-  rotate: true
-  xy: 756, 1016
-  size: 62, 64
-  orig: 62, 64
-  offset: 0, 0
-  index: -1
-dragon_furfur_child_necklight2
-  rotate: false
-  xy: 916, 942
-  size: 36, 51
-  orig: 38, 51
-  offset: 0, 0
-  index: -1
-dragon_furfur_baby_leg4
-  rotate: true
-  xy: 686, 1087
-  size: 24, 29
-  orig: 24, 29
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_breast2
-  rotate: false
-  xy: 766, 820
-  size: 61, 68
-  orig: 61, 68
-  offset: 0, 0
-  index: -1
-dragon_furfur_child_head2
-  rotate: false
-  xy: 422, 1068
-  size: 72, 42
-  orig: 72, 42
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_taillight1
-  rotate: false
-  xy: 752, 466
-  size: 179, 69
-  orig: 179, 69
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_ground6
-  rotate: false
-  xy: 350, 643
-  size: 199, 137
-  orig: 199, 137
-  offset: 0, 0
-  index: -1
-dragon_furfur_child_arm1
-  rotate: true
-  xy: 808, 794
-  size: 24, 47
-  orig: 24, 47
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_necklight3
-  rotate: true
-  xy: 863, 950
-  size: 56, 51
-  orig: 56, 51
-  offset: 0, 0
-  index: -1
-dragon_furfur_child_eye
-  rotate: true
-  xy: 1005, 346
-  size: 24, 14
-  orig: 24, 14
-  offset: 0, 0
-  index: -1
-dragon_furfur_critical_light3
-  rotate: false
-  xy: 752, 390
-  size: 180, 74
-  orig: 212, 82
-  offset: 32, 6
-  index: -1
-dragon_furfur_baby_horn2
-  rotate: false
-  xy: 625, 1087
-  size: 33, 30
-  orig: 37, 30
-  offset: 4, 0
-  index: -1
-dragon_furfur_critical_dmg2
-  rotate: false
-  xy: 779, 2
-  size: 237, 271
-  orig: 237, 271
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_leg4
-  rotate: true
-  xy: 752, 349
-  size: 37, 25
-  orig: 37, 25
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_bodylight3
-  rotate: true
-  xy: 934, 463
-  size: 62, 85
-  orig: 62, 85
-  offset: 0, 0
-  index: -1
-dragon_furfur_child_leg5
-  rotate: false
-  xy: 969, 1066
-  size: 19, 33
-  orig: 19, 33
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_tail
-  rotate: false
-  xy: 483, 349
-  size: 184, 74
-  orig: 184, 74
-  offset: 0, 0
-  index: -1
-dragon_furfur_child_arm2
-  rotate: false
-  xy: 562, 1086
-  size: 21, 31
-  orig: 21, 31
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_wing2
-  rotate: false
-  xy: 518, 827
-  size: 131, 123
-  orig: 131, 123
-  offset: 0, 0
-  index: -1
-dragon_furfur_baby_bodylight2
-  rotate: false
-  xy: 185, 1090
-  size: 28, 27
-  orig: 28, 27
-  offset: 0, 0
-  index: -1
-dragon_furfur_baby_eye
-  rotate: false
-  xy: 990, 1048
-  size: 28, 20
-  orig: 28, 20
-  offset: 0, 0
-  index: -1
-dragon_furfur_baby_head1
-  rotate: true
-  xy: 651, 827
-  size: 74, 50
-  orig: 74, 50
-  offset: 0, 0
-  index: -1
-dragon_furfur_child_horn2
-  rotate: true
-  xy: 978, 726
-  size: 53, 41
-  orig: 53, 47
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_ground3
-  rotate: true
-  xy: 264, 795
+  xy: 675, 1669
   size: 199, 113
   orig: 199, 113
   offset: 0, 0
   index: -1
-dragon_furfur_adult_horn6
+dragon_furfur_e_critical_lightning03
+  rotate: true
+  xy: 876, 1554
+  size: 104, 73
+  orig: 164, 107
+  offset: 35, 24
+  index: -1
+dragon_furfur_e_halo
+  rotate: true
+  xy: 2, 1633
+  size: 89, 105
+  orig: 89, 105
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_ground4
+  rotate: true
+  xy: 349, 848
+  size: 199, 129
+  orig: 199, 137
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_critical_lightning06
   rotate: false
-  xy: 980, 275
+  xy: 291, 1505
+  size: 120, 99
+  orig: 164, 107
+  offset: 6, 0
+  index: -1
+dragon_furfur_e_horn6
+  rotate: true
+  xy: 109, 1633
   size: 39, 69
   orig: 41, 69
   offset: 0, 0
   index: -1
-dragon_furfur_child_leg6
+dragon_furfur_adult_ground3
   rotate: false
-  xy: 954, 969
-  size: 32, 24
-  orig: 32, 24
+  xy: 675, 1554
+  size: 199, 113
+  orig: 199, 113
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_critical_lightning09
+  rotate: false
+  xy: 74, 1847
+  size: 104, 91
+  orig: 164, 107
+  offset: 0, 3
+  index: -1
+dragon_furfur_adult_ground5
+  rotate: false
+  xy: 2, 1494
+  size: 199, 137
+  orig: 199, 137
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_critical_lightning07
+  rotate: false
+  xy: 289, 1701
+  size: 112, 107
+  orig: 164, 107
+  offset: 11, 0
+  index: -1
+dragon_furfur_e_critical_line10
+  rotate: false
+  xy: 580, 1864
+  size: 66, 67
+  orig: 152, 67
+  offset: 3, 0
+  index: -1
+dragon_furfur_e_critical_line12
+  rotate: true
+  xy: 2, 1724
+  size: 58, 67
+  orig: 152, 67
+  offset: 4, 0
+  index: -1
+dragon_furfur_e_critical_line11
+  rotate: false
+  xy: 584, 1933
+  size: 62, 67
+  orig: 152, 67
+  offset: 2, 0
+  index: -1
+dragon_furfur_e_critical_line13
+  rotate: false
+  xy: 648, 1856
+  size: 56, 65
+  orig: 152, 67
+  offset: 3, 2
+  index: -1
+dragon_furfur_e_horn1
+  rotate: true
+  xy: 355, 1810
+  size: 53, 62
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_horn4
+  rotate: false
+  xy: 768, 1854
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1
+dragon_furfur_baby_note1
+  rotate: false
+  xy: 992, 581
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_furfur_baby_note2
+  rotate: true
+  xy: 645, 2002
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_horn2
+  rotate: false
+  xy: 837, 1906
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_horn5
+  rotate: true
+  xy: 766, 1812
+  size: 40, 64
+  orig: 42, 64
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_mouse
+  rotate: false
+  xy: 999, 323
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_horn3
+  rotate: false
+  xy: 774, 1919
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+dragon_furfur_child_breast2
+  rotate: false
+  xy: 648, 1923
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+dragon_furfur_child_breast3
+  rotate: false
+  xy: 706, 1855
+  size: 60, 64
+  orig: 62, 64
+  offset: 1, 0
+  index: -1
+dragon_furfur_adult_arm2
+  rotate: true
+  xy: 754, 1987
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_arm3
+  rotate: true
+  xy: 989, 1918
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+dragon_furfur_child_breast1
+  rotate: false
+  xy: 712, 1921
+  size: 60, 64
+  orig: 62, 64
+  offset: 1, 0
+  index: -1
+dragon_furfur_adult_arm1
+  rotate: false
+  xy: 452, 1809
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+dragon_furfur_child_arm2
+  rotate: true
+  xy: 991, 728
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_l_leg2
+  rotate: false
+  xy: 602, 2002
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+dragon_furfur_child_arm3
+  rotate: true
+  xy: 99, 2019
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+dragon_furfur_baby_mouse
+  rotate: false
+  xy: 674, 1784
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+dragon_furfur_baby_eye
+  rotate: true
+  xy: 807, 1854
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_wing1
+  rotate: true
+  xy: 213, 987
+  size: 64, 82
+  orig: 64, 82
+  offset: 0, 0
+  index: -1
+dragon_furfur_critical_dmg1
+  rotate: true
+  xy: 2, 725
+  size: 260, 293
+  orig: 260, 293
+  offset: 0, 0
+  index: -1
+dragon_furfur_child_arm1
+  rotate: true
+  xy: 403, 1784
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: -1
+dragon_furfur_critical_dmg2
+  rotate: true
+  xy: 480, 948
+  size: 237, 271
+  orig: 237, 271
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_wing4
+  rotate: false
+  xy: 203, 1382
+  size: 88, 104
+  orig: 88, 104
+  offset: 0, 0
+  index: -1
+dragon_furfur_critical_dmg3
+  rotate: true
+  xy: 763, 889
+  size: 199, 212
+  orig: 199, 212
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_wing2
+  rotate: false
+  xy: 349, 429
+  size: 131, 123
+  orig: 131, 123
+  offset: 0, 0
+  index: -1
+dragon_furfur_critical_dmg4
+  rotate: true
+  xy: 2, 429
+  size: 294, 345
+  orig: 294, 345
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_l_leg1
+  rotate: false
+  xy: 991, 869
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+dragon_furfur_critical_dmg5
+  rotate: true
+  xy: 483, 332
+  size: 346, 364
+  orig: 346, 364
   offset: 0, 0
   index: -1
 dragon_furfur_critical_dmg6
@@ -331,472 +310,1095 @@ dragon_furfur_critical_dmg6
   orig: 479, 425
   offset: 0, 0
   index: -1
+dragon_furfur_adult_wing3
+  rotate: false
+  xy: 291, 1606
+  size: 117, 93
+  orig: 117, 93
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_horn6
+  rotate: false
+  xy: 288, 1865
+  size: 39, 69
+  orig: 41, 69
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_light_a4
+  rotate: false
+  xy: 169, 2019
+  size: 14, 14
+  orig: 14, 16
+  offset: 0, 1
+  index: -1
+dragon_furfur_e_light_a5
+  rotate: false
+  xy: 274, 1737
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_light_a2
+  rotate: false
+  xy: 127, 2019
+  size: 14, 15
+  orig: 14, 17
+  offset: 0, 1
+  index: -1
 dragon_furfur_child_head1
-  rotate: true
-  xy: 860, 707
+  rotate: false
+  xy: 876, 1766
   size: 72, 41
   orig: 72, 41
   offset: 0, 0
   index: -1
-dragon_furfur_child_leg1
-  rotate: true
-  xy: 518, 952
-  size: 29, 51
-  orig: 29, 51
+dragon_furfur_e_light_a3
+  rotate: false
+  xy: 127, 2019
+  size: 14, 15
+  orig: 14, 17
+  offset: 0, 1
+  index: -1
+dragon_furfur_e_light_a1
+  rotate: false
+  xy: 156, 1828
+  size: 15, 17
+  orig: 15, 17
   offset: 0, 0
   index: -1
-dragon_furfur_child_arm33
-  rotate: true
-  xy: 992, 1024
-  size: 22, 27
-  orig: 22, 27
+dragon_furfur_child_head2
+  rotate: false
+  xy: 876, 1722
+  size: 72, 42
+  orig: 72, 42
   offset: 0, 0
   index: -1
-dragon_furfur_adult_necklight2
+dragon_furfur_e_bodylight2
   rotate: true
-  xy: 822, 1014
-  size: 57, 51
-  orig: 57, 51
-  offset: 0, 0
-  index: -1
-dragon_furfur_child_breast3
-  rotate: true
-  xy: 756, 954
-  size: 60, 64
-  orig: 62, 64
-  offset: 1, 0
-  index: -1
-dragon_furfur_critical_light2
-  rotate: true
-  xy: 682, 349
-  size: 186, 68
-  orig: 212, 82
-  offset: 26, 6
-  index: -1
-dragon_furfur_adult_bodylight2
-  rotate: true
-  xy: 933, 527
+  xy: 203, 1488
   size: 62, 86
   orig: 62, 86
   offset: 0, 0
   index: -1
-dragon_furfur_baby_note1
-  rotate: true
-  xy: 585, 1086
-  size: 30, 38
-  orig: 32, 40
-  offset: 1, 1
-  index: -1
-dragon_furfur_child_leg2
-  rotate: false
-  xy: 989, 899
-  size: 20, 37
-  orig: 20, 37
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_horn3
-  rotate: false
-  xy: 768, 890
-  size: 61, 62
-  orig: 61, 62
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_breast5
-  rotate: true
-  xy: 571, 952
-  size: 65, 79
-  orig: 69, 81
-  offset: 4, 0
-  index: -1
-dragon_furfur_child_neck
-  rotate: false
-  xy: 876, 1065
-  size: 46, 42
-  orig: 46, 42
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_wing1
-  rotate: true
-  xy: 933, 591
-  size: 64, 82
-  orig: 64, 82
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_breast6
-  rotate: true
-  xy: 910, 657
-  size: 67, 77
-  orig: 69, 81
-  offset: 2, 2
-  index: -1
-dragon_furfur_child_horn1
-  rotate: false
-  xy: 771, 1080
-  size: 51, 37
-  orig: 53, 47
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_neck2
-  rotate: true
-  xy: 87, 1090
-  size: 27, 35
-  orig: 27, 35
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_ground2
-  rotate: false
-  xy: 779, 275
-  size: 199, 113
-  orig: 199, 113
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_arm1
-  rotate: false
-  xy: 894, 886
-  size: 34, 54
-  orig: 34, 54
-  offset: 0, 0
-  index: -1
-dragon_furfur_baby_horn5
-  rotate: false
-  xy: 954, 934
-  size: 33, 33
-  orig: 41, 35
-  offset: 8, 0
-  index: -1
-dragon_furfur_critical_dmg3
-  rotate: false
-  xy: 350, 429
-  size: 199, 212
-  orig: 199, 212
-  offset: 0, 0
-  index: -1
-dragon_furfur_baby_leg1
-  rotate: false
-  xy: 990, 1070
-  size: 20, 32
-  orig: 20, 32
-  offset: 0, 0
-  index: -1
-dragon_furfur_baby_horn6
-  rotate: false
-  xy: 518, 782
-  size: 31, 35
-  orig: 41, 35
-  offset: 10, 0
-  index: -1
-dragon_furfur_child_tail
-  rotate: false
-  xy: 644, 1020
-  size: 71, 65
-  orig: 71, 65
-  offset: 0, 0
-  index: -1
-dragon_furfur_child_mouse
-  rotate: false
-  xy: 924, 1081
-  size: 43, 25
-  orig: 43, 25
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_breast1
-  rotate: false
-  xy: 652, 950
-  size: 60, 68
-  orig: 62, 70
-  offset: 2, 1
-  index: -1
-dragon_furfur_child_arm3
-  rotate: false
-  xy: 961, 788
-  size: 15, 26
-  orig: 15, 26
-  offset: 0, 0
-  index: -1
-dragon_furfur_baby_bodylight3
-  rotate: false
-  xy: 155, 1090
-  size: 28, 27
-  orig: 28, 27
-  offset: 0, 0
-  index: -1
-dragon_furfur_child_horn5
-  rotate: false
-  xy: 824, 1073
-  size: 50, 44
-  orig: 56, 44
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_arm33
-  rotate: false
-  xy: 992, 995
-  size: 27, 27
-  orig: 27, 27
-  offset: 0, 0
-  index: -1
-dragon_furfur_child_bodylight3
-  rotate: false
-  xy: 822, 954
-  size: 39, 58
-  orig: 41, 58
-  offset: 1, 0
-  index: -1
-dragon_furfur_baby_leg2
-  rotate: true
-  xy: 988, 969
-  size: 24, 29
-  orig: 24, 29
-  offset: 0, 0
-  index: -1
-dragon_furfur_baby_horn1
-  rotate: false
-  xy: 283, 1091
-  size: 33, 26
-  orig: 37, 30
-  offset: 4, 0
-  index: -1
-dragon_furfur_child_necklight1
-  rotate: false
-  xy: 927, 995
-  size: 32, 47
-  orig: 38, 51
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_breast4
-  rotate: true
-  xy: 565, 1019
-  size: 65, 77
-  orig: 69, 81
-  offset: 4, 2
-  index: -1
-dragon_furfur_adult_horn2
-  rotate: false
-  xy: 831, 886
-  size: 61, 62
-  orig: 61, 62
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_leg1
-  rotate: false
-  xy: 714, 945
-  size: 40, 68
-  orig: 40, 68
-  offset: 0, 0
-  index: -1
-dragon_furfur_child_body
-  rotate: true
-  xy: 903, 726
-  size: 60, 73
-  orig: 60, 73
-  offset: 0, 0
-  index: -1
-dragon_furfur_baby_body
-  rotate: false
-  xy: 891, 828
-  size: 38, 56
-  orig: 38, 56
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_neck1
-  rotate: false
-  xy: 989, 657
-  size: 30, 59
-  orig: 30, 59
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_necklight1
-  rotate: true
-  xy: 875, 1008
-  size: 55, 50
-  orig: 55, 50
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_arm2
-  rotate: false
-  xy: 927, 1044
-  size: 38, 35
-  orig: 38, 35
-  offset: 0, 0
-  index: -1
-dragon_furfur_critical_light1
-  rotate: true
-  xy: 666, 626
-  size: 186, 70
-  orig: 212, 82
-  offset: 26, 5
-  index: -1
-dragon_furfur_baby_horn4
-  rotate: false
-  xy: 50, 1090
-  size: 35, 27
-  orig: 41, 35
-  offset: 6, 0
-  index: -1
-dragon_furfur_baby_note2
-  rotate: true
-  xy: 860, 781
-  size: 35, 41
-  orig: 35, 41
-  offset: 0, 0
-  index: -1
-dragon_furfur_child_leg3
-  rotate: true
-  xy: 828, 612
-  size: 25, 26
-  orig: 25, 26
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_wing4
-  rotate: false
-  xy: 738, 612
-  size: 88, 104
-  orig: 88, 104
-  offset: 0, 0
-  index: -1
-dragon_furfur_child_horn4
-  rotate: false
-  xy: 969, 835
-  size: 42, 40
-  orig: 56, 44
-  offset: 0, 0
-  index: -1
-dragon_furfur_baby_wing
-  rotate: true
-  xy: 961, 995
-  size: 35, 29
-  orig: 35, 29
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_ground1
-  rotate: true
-  xy: 551, 626
-  size: 199, 113
-  orig: 199, 113
-  offset: 0, 0
-  index: -1
-dragon_furfur_child_bodylight2
-  rotate: true
-  xy: 717, 1080
-  size: 37, 52
-  orig: 41, 58
-  offset: 2, 2
-  index: -1
-dragon_furfur_adult_eye
-  rotate: true
-  xy: 876, 1109
-  size: 8, 9
-  orig: 8, 9
-  offset: 0, 0
-  index: -1
 dragon_furfur_adult_horn1
   rotate: true
-  xy: 704, 890
+  xy: 488, 1809
   size: 53, 62
   orig: 57, 64
   offset: 0, 0
   index: -1
-dragon_furfur_critical_dmg4
-  rotate: false
-  xy: 483, 2
-  size: 294, 345
-  orig: 294, 345
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_leg2
+dragon_furfur_adult_horn4
   rotate: true
-  xy: 660, 1087
-  size: 30, 24
-  orig: 30, 24
+  xy: 875, 1809
+  size: 37, 63
+  orig: 37, 63
   offset: 0, 0
   index: -1
-dragon_furfur_adult_taillight3
+dragon_furfur_child_necklight2
   rotate: false
-  xy: 383, 983
-  size: 180, 83
-  orig: 182, 83
-  offset: 2, 0
-  index: -1
-dragon_furfur_child_wing2
-  rotate: false
-  xy: 738, 718
-  size: 68, 100
-  orig: 68, 100
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_ground5
-  rotate: true
-  xy: 379, 782
-  size: 199, 137
-  orig: 199, 137
-  offset: 0, 0
-  index: -1
-dragon_furfur_baby_leg3
-  rotate: false
-  xy: 967, 1032
-  size: 21, 32
-  orig: 21, 32
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_horn5
-  rotate: true
-  xy: 496, 1068
-  size: 40, 64
-  orig: 42, 64
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_bodylight1
-  rotate: true
-  xy: 828, 639
-  size: 66, 80
-  orig: 66, 80
-  offset: 0, 0
-  index: -1
-dragon_furfur_baby_head2
-  rotate: true
-  xy: 808, 718
-  size: 74, 50
-  orig: 74, 50
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_arm3
-  rotate: true
-  xy: 124, 1090
-  size: 27, 29
-  orig: 27, 29
-  offset: 0, 0
-  index: -1
-dragon_furfur_child_breast1
-  rotate: false
-  xy: 829, 820
-  size: 60, 64
-  orig: 62, 64
-  offset: 1, 0
-  index: -1
-dragon_furfur_baby_mouse
-  rotate: false
-  xy: 245, 1091
-  size: 36, 26
-  orig: 36, 26
-  offset: 0, 0
-  index: -1
-dragon_furfur_adult_body
-  rotate: true
-  xy: 934, 390
-  size: 71, 85
-  orig: 71, 85
-  offset: 0, 0
-  index: -1
-dragon_furfur_child_necklight3
-  rotate: false
-  xy: 931, 828
+  xy: 951, 1847
   size: 36, 51
   orig: 38, 51
   offset: 0, 0
   index: -1
-dragon_furfur_critical_dmg1
+dragon_furfur_e_bodylight3
   rotate: false
-  xy: 2, 795
-  size: 260, 293
-  orig: 260, 293
+  xy: 410, 1637
+  size: 62, 85
+  orig: 62, 85
   offset: 0, 0
+  index: -1
+dragon_furfur_adult_horn2
+  rotate: false
+  xy: 900, 1901
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_horn5
+  rotate: true
+  xy: 688, 1989
+  size: 40, 64
+  orig: 42, 64
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_bodylight1
+  rotate: true
+  xy: 213, 1112
+  size: 66, 80
+  orig: 66, 80
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_tail
+  rotate: false
+  xy: 297, 1049
+  size: 181, 62
+  orig: 181, 62
+  offset: 0, 0
+  index: -1
+dragon_furfur_child_necklight3
+  rotate: false
+  xy: 913, 1848
+  size: 36, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_horn3
+  rotate: false
+  xy: 888, 1970
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+dragon_furfur_child_necklight1
+  rotate: true
+  xy: 490, 2005
+  size: 32, 47
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+dragon_furfur_baby_bodylight1
+  rotate: false
+  xy: 980, 1976
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+dragon_furfur_baby_bodylight2
+  rotate: true
+  xy: 951, 2006
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+dragon_furfur_baby_bodylight3
+  rotate: true
+  xy: 951, 1976
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+dragon_furfur_child_arm33
+  rotate: true
+  xy: 350, 2014
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_r_leg2
+  rotate: false
+  xy: 602, 2002
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+dragon_furfur_child_tail
+  rotate: false
+  xy: 950, 1780
+  size: 71, 65
+  orig: 71, 65
+  offset: 0, 0
+  index: -1
+dragon_furfur_baby_horn4
+  rotate: false
+  xy: 963, 1947
+  size: 35, 27
+  orig: 41, 35
+  offset: 6, 0
+  index: -1
+dragon_furfur_e_neck
+  rotate: true
+  xy: 109, 1680
+  size: 42, 70
+  orig: 42, 70
+  offset: 0, 0
+  index: -1
+dragon_furfur_baby_horn2
+  rotate: true
+  xy: 992, 621
+  size: 33, 30
+  orig: 37, 30
+  offset: 4, 0
+  index: -1
+dragon_furfur_baby_horn5
+  rotate: false
+  xy: 989, 1883
+  size: 33, 33
+  orig: 41, 35
+  offset: 8, 0
+  index: -1
+dragon_furfur_e_critical_dmg6
+  rotate: false
+  xy: 483, 2
+  size: 368, 328
+  orig: 368, 328
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_light2
+  rotate: false
+  xy: 963, 1900
+  size: 24, 24
+  orig: 26, 24
+  offset: 1, 0
+  index: -1
+dragon_furfur_baby_horn3
+  rotate: true
+  xy: 565, 2004
+  size: 33, 35
+  orig: 37, 35
+  offset: 4, 0
+  index: -1
+dragon_furfur_e_light3
+  rotate: false
+  xy: 379, 2014
+  size: 24, 22
+  orig: 26, 24
+  offset: 1, 1
+  index: -1
+dragon_furfur_e_light4
+  rotate: false
+  xy: 156, 1803
+  size: 23, 23
+  orig: 25, 25
+  offset: 1, 1
+  index: -1
+dragon_furfur_e_r_leg1
+  rotate: false
+  xy: 991, 826
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+dragon_furfur_baby_horn1
+  rotate: false
+  xy: 712, 1784
+  size: 33, 26
+  orig: 37, 30
+  offset: 4, 0
+  index: -1
+dragon_furfur_adult_tail
+  rotate: true
+  xy: 676, 1368
+  size: 184, 74
+  orig: 184, 74
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_critical_dmg2
+  rotate: true
+  xy: 2, 987
+  size: 182, 209
+  orig: 182, 209
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_head
+  rotate: true
+  xy: 595, 1812
+  size: 49, 37
+  orig: 49, 37
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_r_wing1
+  rotate: false
+  xy: 2, 1171
+  size: 208, 182
+  orig: 208, 182
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_critical_dmg4
+  rotate: true
+  xy: 753, 1095
+  size: 227, 266
+  orig: 227, 266
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_critical_dmg3
+  rotate: true
+  xy: 853, 124
+  size: 153, 164
+  orig: 153, 164
+  offset: 0, 0
+  index: -1
+dragon_furfur_baby_leg2
+  rotate: true
+  xy: 775, 1784
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_light1
+  rotate: false
+  xy: 999, 354
+  size: 23, 26
+  orig: 25, 28
+  offset: 1, 1
+  index: -1
+dragon_furfur_baby_leg3
+  rotate: true
+  xy: 203, 1737
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_critical_dmg5
+  rotate: true
+  xy: 480, 680
+  size: 266, 281
+  orig: 266, 281
+  offset: 0, 0
+  index: -1
+dragon_furfur_baby_leg4
+  rotate: false
+  xy: 648, 1762
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+dragon_furfur_child_anger
+  rotate: false
+  xy: 747, 1784
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_furfur_baby_horn6
+  rotate: false
+  xy: 991, 656
+  size: 31, 35
+  orig: 41, 35
+  offset: 10, 0
+  index: -1
+dragon_furfur_e_necklight1
+  rotate: true
+  xy: 297, 877
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+dragon_furfur_critical_light2
+  rotate: true
+  xy: 954, 1324
+  size: 186, 68
+  orig: 212, 82
+  offset: 26, 6
+  index: -1
+dragon_furfur_e_critical_dmg1
+  rotate: true
+  xy: 763, 687
+  size: 200, 226
+  orig: 200, 226
+  offset: 0, 0
+  index: -1
+dragon_furfur_critical_light1
+  rotate: true
+  xy: 2, 1847
+  size: 186, 70
+  orig: 212, 82
+  offset: 26, 5
+  index: -1
+dragon_furfur_e_necklight2
+  rotate: true
+  xy: 403, 1724
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+dragon_furfur_baby_leg1
+  rotate: true
+  xy: 405, 2014
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_ground1
+  rotate: false
+  xy: 752, 1439
+  size: 199, 113
+  orig: 199, 113
+  offset: 0, 0
+  index: -1
+dragon_furfur_critical_light3
+  rotate: false
+  xy: 293, 1283
+  size: 180, 74
+  orig: 212, 82
+  offset: 32, 6
+  index: -1
+dragon_furfur_e_necklight3
+  rotate: true
+  xy: 595, 1754
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+dragon_furfur_baby_arm2
+  rotate: false
+  xy: 181, 1633
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_ground4
+  rotate: true
+  xy: 349, 647
+  size: 199, 129
+  orig: 199, 137
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_l_wing1
+  rotate: false
+  xy: 853, 2
+  size: 169, 120
+  orig: 169, 120
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_ground5
+  rotate: false
+  xy: 475, 1326
+  size: 199, 137
+  orig: 199, 137
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_ground2
+  rotate: false
+  xy: 474, 1465
+  size: 199, 113
+  orig: 199, 113
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_ground3
+  rotate: false
+  xy: 753, 1324
+  size: 199, 113
+  orig: 199, 113
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_l_wing2
+  rotate: true
+  xy: 849, 488
+  size: 137, 141
+  orig: 137, 141
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_l_arm2
+  rotate: true
+  xy: 991, 693
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_ground6
+  rotate: false
+  xy: 477, 1187
+  size: 199, 137
+  orig: 199, 137
+  offset: 0, 0
+  index: -1
+dragon_furfur_baby_arm1
+  rotate: false
+  xy: 181, 1677
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_taillight1
+  rotate: true
+  xy: 953, 1512
+  size: 179, 69
+  orig: 179, 69
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_haed
+  rotate: true
+  xy: 832, 1842
+  size: 62, 40
+  orig: 62, 40
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_taillight2
+  rotate: false
+  xy: 293, 1359
+  size: 179, 73
+  orig: 179, 73
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_l_arm1
+  rotate: true
+  xy: 991, 777
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_taillight3
+  rotate: false
+  xy: 294, 1198
+  size: 180, 83
+  orig: 182, 83
+  offset: 2, 0
+  index: -1
+dragon_furfur_child_body
+  rotate: true
+  xy: 876, 1660
+  size: 60, 73
+  orig: 60, 73
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_critical_lightning10
+  rotate: false
+  xy: 977, 1017
+  size: 44, 49
+  orig: 164, 107
+  offset: 0, 22
+  index: -1
+dragon_furfur_baby_wing
+  rotate: true
+  xy: 419, 1810
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_body
+  rotate: false
+  xy: 951, 1693
+  size: 71, 85
+  orig: 71, 85
+  offset: 0, 0
+  index: -1
+dragon_furfur_child_eye
+  rotate: false
+  xy: 143, 2019
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+dragon_furfur_child_mouse
+  rotate: false
+  xy: 977, 1068
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+dragon_furfur_child_bodylight2
+  rotate: false
+  xy: 791, 1983
+  size: 37, 52
+  orig: 41, 58
+  offset: 2, 2
+  index: -1
+dragon_furfur_e_breast6
+  rotate: false
+  xy: 112, 1724
+  size: 67, 77
+  orig: 69, 81
+  offset: 2, 2
+  index: -1
+dragon_furfur_child_bodylight1
+  rotate: true
+  xy: 676, 1812
+  size: 41, 52
+  orig: 41, 58
+  offset: 0, 2
+  index: -1
+dragon_furfur_child_bodylight3
+  rotate: false
+  xy: 71, 1724
+  size: 39, 58
+  orig: 41, 58
+  offset: 1, 0
+  index: -1
+dragon_furfur_e_taillight2
+  rotate: true
+  xy: 678, 1187
+  size: 179, 73
+  orig: 179, 73
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_breast2
+  rotate: false
+  xy: 392, 1865
+  size: 61, 68
+  orig: 61, 68
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_taillight1
+  rotate: false
+  xy: 293, 1434
+  size: 179, 69
+  orig: 179, 69
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_breast3
+  rotate: false
+  xy: 329, 1865
+  size: 61, 68
+  orig: 61, 68
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_breast4
+  rotate: false
+  xy: 143, 1940
+  size: 65, 77
+  orig: 69, 81
+  offset: 4, 2
+  index: -1
+dragon_furfur_e_taillight3
+  rotate: false
+  xy: 295, 1113
+  size: 180, 83
+  orig: 182, 83
+  offset: 2, 0
+  index: -1
+dragon_furfur_e_breast5
+  rotate: true
+  xy: 212, 1248
+  size: 65, 79
+  orig: 69, 81
+  offset: 4, 0
+  index: -1
+dragon_furfur_baby_body
+  rotate: false
+  xy: 297, 991
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+dragon_furfur_baby_head2
+  rotate: true
+  xy: 297, 725
+  size: 74, 50
+  orig: 74, 50
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_breast1
+  rotate: false
+  xy: 480, 1935
+  size: 60, 68
+  orig: 62, 70
+  offset: 2, 1
+  index: -1
+dragon_furfur_baby_head1
+  rotate: true
+  xy: 297, 801
+  size: 74, 50
+  orig: 74, 50
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_leg4
+  rotate: true
+  xy: 648, 1695
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_bodylight2
+  rotate: true
+  xy: 203, 1552
+  size: 62, 86
+  orig: 62, 86
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_leg2
+  rotate: false
+  xy: 991, 751
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_leg3
+  rotate: false
+  xy: 999, 279
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_bodylight3
+  rotate: true
+  xy: 203, 1616
+  size: 62, 85
+  orig: 62, 85
+  offset: 0, 0
+  index: -1
+dragon_furfur_child_leg6
+  rotate: true
+  xy: 539, 2005
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_leg1
+  rotate: false
+  xy: 542, 1934
+  size: 40, 68
+  orig: 40, 68
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_critical_line06
+  rotate: false
+  xy: 213, 1053
+  size: 82, 57
+  orig: 152, 67
+  offset: 60, 8
+  index: -1
+dragon_furfur_e_critical_line08
+  rotate: true
+  xy: 474, 1695
+  size: 112, 63
+  orig: 152, 67
+  offset: 19, 0
+  index: -1
+dragon_furfur_child_leg2
+  rotate: false
+  xy: 181, 1721
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_critical_line07
+  rotate: false
+  xy: 203, 1680
+  size: 84, 55
+  orig: 152, 67
+  offset: 50, 10
+  index: -1
+dragon_furfur_child_leg3
+  rotate: false
+  xy: 648, 1734
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_bodylight1
+  rotate: true
+  xy: 212, 1180
+  size: 66, 80
+  orig: 66, 80
+  offset: 0, 0
+  index: -1
+dragon_furfur_child_leg4
+  rotate: false
+  xy: 995, 382
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_critical_line09
+  rotate: false
+  xy: 2, 1784
+  size: 104, 61
+  orig: 152, 67
+  offset: 9, 0
+  index: -1
+dragon_furfur_child_leg5
+  rotate: false
+  xy: 807, 1884
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+dragon_furfur_baby_tail
+  rotate: false
+  xy: 237, 1737
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+dragon_furfur_child_leg1
+  rotate: false
+  xy: 993, 467
+  size: 29, 51
+  orig: 29, 51
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_critical_line00
+  rotate: false
+  xy: 977, 889
+  size: 12, 19
+  orig: 152, 67
+  offset: 138, 34
+  index: -1
+dragon_furfur_e_r_arm2
+  rotate: false
+  xy: 439, 2005
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_r_arm3
+  rotate: true
+  xy: 989, 1847
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_critical_line02
+  rotate: true
+  xy: 806, 1784
+  size: 24, 27
+  orig: 152, 67
+  offset: 125, 33
+  index: -1
+dragon_furfur_e_critical_line01
+  rotate: true
+  xy: 74, 2019
+  size: 18, 23
+  orig: 152, 67
+  offset: 131, 37
+  index: -1
+dragon_furfur_e_critical_line04
+  rotate: false
+  xy: 539, 1695
+  size: 52, 55
+  orig: 152, 67
+  offset: 95, 6
+  index: -1
+dragon_furfur_e_critical_line03
+  rotate: false
+  xy: 730, 1812
+  size: 34, 41
+  orig: 152, 67
+  offset: 115, 19
+  index: -1
+dragon_furfur_e_critical_line05
+  rotate: false
+  xy: 289, 1810
+  size: 64, 53
+  orig: 152, 67
+  offset: 81, 7
+  index: -1
+dragon_furfur_e_r_arm1
+  rotate: true
+  xy: 413, 1593
+  size: 42, 59
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_breast4
+  rotate: false
+  xy: 350, 1935
+  size: 65, 77
+  orig: 69, 81
+  offset: 4, 2
+  index: -1
+dragon_furfur_e_critical_light2
+  rotate: false
+  xy: 849, 434
+  size: 142, 52
+  orig: 164, 64
+  offset: 22, 5
+  index: -1
+dragon_furfur_adult_breast2
+  rotate: false
+  xy: 455, 1865
+  size: 61, 68
+  orig: 61, 68
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_critical_light1
+  rotate: false
+  xy: 849, 378
+  size: 144, 54
+  orig: 164, 64
+  offset: 20, 4
+  index: -1
+dragon_furfur_adult_breast5
+  rotate: true
+  xy: 212, 1315
+  size: 65, 79
+  orig: 69, 81
+  offset: 4, 0
+  index: -1
+dragon_furfur_e_critical_light3
+  rotate: false
+  xy: 849, 627
+  size: 140, 58
+  orig: 164, 64
+  offset: 24, 4
+  index: -1
+dragon_furfur_adult_breast3
+  rotate: false
+  xy: 417, 1935
+  size: 61, 68
+  orig: 61, 68
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_breast1
+  rotate: false
+  xy: 518, 1864
+  size: 60, 68
+  orig: 62, 70
+  offset: 2, 1
+  index: -1
+dragon_furfur_adult_breast6
+  rotate: false
+  xy: 74, 1940
+  size: 67, 77
+  orig: 69, 81
+  offset: 2, 2
+  index: -1
+dragon_furfur_child_horn6
+  rotate: true
+  xy: 835, 1784
+  size: 56, 38
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+dragon_furfur_child_wing1
+  rotate: false
+  xy: 280, 1936
+  size: 68, 100
+  orig: 68, 100
+  offset: 0, 0
+  index: -1
+dragon_furfur_child_horn1
+  rotate: true
+  xy: 874, 1848
+  size: 51, 37
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+dragon_furfur_child_horn4
+  rotate: true
+  xy: 634, 1812
+  size: 42, 40
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+dragon_furfur_child_wing2
+  rotate: false
+  xy: 210, 1936
+  size: 68, 100
+  orig: 68, 100
+  offset: 0, 0
+  index: -1
+dragon_furfur_child_horn2
+  rotate: true
+  xy: 552, 1809
+  size: 53, 41
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+dragon_furfur_child_horn5
+  rotate: true
+  xy: 977, 965
+  size: 50, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+dragon_furfur_child_horn3
+  rotate: true
+  xy: 977, 912
+  size: 51, 45
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_arm33
+  rotate: false
+  xy: 980, 2005
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_eye
+  rotate: false
+  xy: 753, 948
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_neck1
+  rotate: false
+  xy: 992, 520
+  size: 30, 59
+  orig: 30, 59
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_ground6
+  rotate: false
+  xy: 2, 1355
+  size: 199, 137
+  orig: 199, 137
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_neck2
+  rotate: false
+  xy: 995, 430
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+dragon_furfur_child_neck
+  rotate: false
+  xy: 108, 1803
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_critical_lightning00
+  rotate: false
+  xy: 539, 1752
+  size: 52, 55
+  orig: 164, 107
+  offset: 112, 36
+  index: -1
+dragon_furfur_e_critical_lightning01
+  rotate: true
+  xy: 413, 1505
+  size: 86, 59
+  orig: 164, 107
+  offset: 78, 31
+  index: -1
+dragon_furfur_e_critical_lightning04
+  rotate: false
+  xy: 349, 554
+  size: 130, 91
+  orig: 164, 107
+  offset: 13, 8
+  index: -1
+dragon_furfur_adult_necklight2
+  rotate: true
+  xy: 595, 1695
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_necklight1
+  rotate: true
+  xy: 297, 934
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_critical_lightning02
+  rotate: false
+  xy: 180, 1865
+  size: 106, 69
+  orig: 164, 107
+  offset: 58, 28
+  index: -1
+dragon_furfur_e_critical_lightning05
+  rotate: false
+  xy: 853, 279
+  size: 144, 97
+  orig: 164, 107
+  offset: 7, 0
+  index: -1
+dragon_furfur_adult_necklight3
+  rotate: false
+  xy: 830, 1983
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+dragon_furfur_adult_ground2
+  rotate: false
+  xy: 474, 1580
+  size: 199, 113
+  orig: 199, 113
+  offset: 0, 0
+  index: -1
+dragon_furfur_e_critical_lightning08
+  rotate: false
+  xy: 181, 1760
+  size: 106, 103
+  orig: 164, 107
+  offset: 0, 4
   index: -1

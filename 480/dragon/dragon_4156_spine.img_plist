@@ -1,0 +1,816 @@
+dragon_4156_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_berna_child_ring_a03
+  rotate: false
+  xy: 1222, 277
+  size: 46, 88
+  orig: 96, 96
+  offset: 2, 6
+  index: -1
+dragon_berna_adult_wing_a01
+  rotate: false
+  xy: 2, 2
+  size: 167, 264
+  orig: 167, 264
+  offset: 0, 0
+  index: -1
+dragon_berna_critical_eff_e123
+  rotate: false
+  xy: 1378, 286
+  size: 104, 22
+  orig: 104, 22
+  offset: 0, 0
+  index: -1
+dragon_berna_critical_ring_a02
+  rotate: false
+  xy: 1397, 196
+  size: 88, 88
+  orig: 96, 96
+  offset: 2, 6
+  index: -1
+dragon_berna_child_arm_a04
+  rotate: true
+  xy: 1991, 361
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+dragon_berna_critical_eff_add_a1
+  rotate: false
+  xy: 857, 76
+  size: 225, 42
+  orig: 263, 90
+  offset: 32, 3
+  index: -1
+dragon_berna_child_leg_a04
+  rotate: true
+  xy: 1316, 346
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+dragon_berna_adult_head2
+  rotate: false
+  xy: 1430, 84
+  size: 116, 110
+  orig: 116, 110
+  offset: 0, 0
+  index: -1
+dragon_berna_critical_eff_bg
+  rotate: true
+  xy: 290, 260
+  size: 120, 39
+  orig: 120, 41
+  offset: 0, 1
+  index: -1
+dragon_berna_adult_wing_a02
+  rotate: false
+  xy: 344, 2
+  size: 188, 234
+  orig: 188, 234
+  offset: 0, 0
+  index: -1
+dragon_berna_critical_eff_add_d3
+  rotate: true
+  xy: 344, 238
+  size: 149, 204
+  orig: 203, 312
+  offset: 35, 69
+  index: -1
+dragon_berna_child_hair_a02
+  rotate: true
+  xy: 1978, 165
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+dragon_berna_child_ring_b01
+  rotate: true
+  xy: 1865, 184
+  size: 46, 88
+  orig: 96, 96
+  offset: 2, 6
+  index: -1
+dragon_berna_baby_wing_a01
+  rotate: true
+  xy: 1657, 341
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+dragon_berna_critical_effect_b3
+  rotate: true
+  xy: 1706, 330
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+dragon_berna_adult_tail_a02
+  rotate: false
+  xy: 1093, 208
+  size: 118, 75
+  orig: 118, 75
+  offset: 0, 0
+  index: -1
+dragon_berna_critical_effect_c6
+  rotate: false
+  xy: 171, 260
+  size: 38, 6
+  orig: 52, 20
+  offset: 12, 2
+  index: -1
+dragon_berna_adult_leg_b02
+  rotate: true
+  xy: 1673, 275
+  size: 53, 66
+  orig: 53, 66
+  offset: 0, 0
+  index: -1
+dragon_berna_critical_eff_add_a5
+  rotate: false
+  xy: 1502, 2
+  size: 197, 80
+  orig: 263, 90
+  offset: 9, 7
+  index: -1
+dragon_berna_critical_effect_a05
+  rotate: true
+  xy: 1865, 232
+  size: 44, 84
+  orig: 48, 96
+  offset: 1, 1
+  index: -1
+dragon_berna_critical_effect_c1
+  rotate: true
+  xy: 331, 304
+  size: 36, 8
+  orig: 52, 20
+  offset: 1, 1
+  index: -1
+dragon_berna_baby_leg_b5
+  rotate: true
+  xy: 1893, 309
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+dragon_berna_child_ring_a02
+  rotate: false
+  xy: 1178, 285
+  size: 42, 88
+  orig: 96, 96
+  offset: 48, 6
+  index: -1
+dragon_berna_adult_body_a01
+  rotate: true
+  xy: 1873, 119
+  size: 63, 103
+  orig: 69, 103
+  offset: 6, 0
+  index: -1
+dragon_berna_adult_arm_a01
+  rotate: false
+  xy: 1741, 275
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+dragon_berna_baby_leg_a3
+  rotate: false
+  xy: 1952, 277
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+dragon_berna_critical_eff_b1
+  rotate: true
+  xy: 1666, 84
+  size: 132, 34
+  orig: 132, 34
+  offset: 0, 0
+  index: -1
+dragon_berna_child_body_a02
+  rotate: true
+  xy: 1860, 343
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+dragon_berna_baby_ring_b02
+  rotate: false
+  xy: 1270, 277
+  size: 44, 88
+  orig: 96, 96
+  offset: 47, 6
+  index: -1
+dragon_berna_adult_leg_a04
+  rotate: false
+  xy: 1212, 74
+  size: 85, 104
+  orig: 85, 104
+  offset: 0, 0
+  index: -1
+dragon_berna_child_wing_a01
+  rotate: false
+  xy: 998, 120
+  size: 93, 157
+  orig: 95, 157
+  offset: 2, 0
+  index: -1
+dragon_berna_critical_effect_a01
+  rotate: true
+  xy: 1484, 286
+  size: 42, 76
+  orig: 48, 96
+  offset: 3, 10
+  index: -1
+dragon_berna_critical_effect_c5
+  rotate: true
+  xy: 331, 260
+  size: 42, 8
+  orig: 52, 20
+  offset: 7, 2
+  index: -1
+dragon_berna_critical_eff_add_d4
+  rotate: true
+  xy: 679, 2
+  size: 133, 176
+  orig: 203, 312
+  offset: 59, 113
+  index: -1
+dragon_berna_critical_eff_add_eff5
+  rotate: true
+  xy: 148, 268
+  size: 119, 140
+  orig: 119, 152
+  offset: 0, 10
+  index: -1
+dragon_berna_child_head_a03
+  rotate: false
+  xy: 984, 279
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+dragon_berna_adult_tail_a01
+  rotate: true
+  xy: 638, 307
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+dragon_berna_critical_effect_a04
+  rotate: true
+  xy: 1484, 330
+  size: 44, 76
+  orig: 48, 96
+  offset: 1, 10
+  index: -1
+dragon_berna_critical_eff_add_eff8
+  rotate: false
+  xy: 1577, 196
+  size: 87, 76
+  orig: 119, 152
+  offset: 0, 35
+  index: -1
+dragon_berna_child_ob_a02
+  rotate: true
+  xy: 2011, 323
+  size: 36, 29
+  orig: 44, 35
+  offset: 6, 2
+  index: -1
+dragon_berna_adult_arm_a02
+  rotate: true
+  xy: 1857, 278
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+dragon_berna_baby_reg_a2
+  rotate: false
+  xy: 1977, 324
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+dragon_berna_child_hair_a01
+  rotate: true
+  xy: 1267, 367
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+dragon_berna_baby_wing_a02
+  rotate: true
+  xy: 1608, 341
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+dragon_berna_critical_effect_b4
+  rotate: false
+  xy: 1845, 309
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+dragon_berna_child_arm_a03
+  rotate: true
+  xy: 1982, 297
+  size: 24, 41
+  orig: 26, 47
+  offset: 2, 0
+  index: -1
+dragon_berna_child_tail_a01
+  rotate: false
+  xy: 881, 264
+  size: 101, 103
+  orig: 101, 103
+  offset: 0, 0
+  index: -1
+dragon_berna_critical_effect_c7
+  rotate: false
+  xy: 785, 383
+  size: 32, 4
+  orig: 52, 20
+  offset: 17, 5
+  index: -1
+dragon_berna_adult_leg_a01
+  rotate: true
+  xy: 1364, 354
+  size: 32, 73
+  orig: 32, 73
+  offset: 0, 0
+  index: -1
+dragon_berna_adult_leg_b03
+  rotate: false
+  xy: 1787, 296
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+dragon_berna_critical_eff_add_a2
+  rotate: false
+  xy: 857, 2
+  size: 233, 72
+  orig: 263, 90
+  offset: 24, 6
+  index: -1
+dragon_berna_child_leg_a03
+  rotate: true
+  xy: 1784, 338
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+dragon_berna_critical_effect_c2
+  rotate: true
+  xy: 1873, 78
+  size: 38, 10
+  orig: 52, 20
+  offset: 2, 2
+  index: -1
+dragon_berna_critical_eff_add_d1
+  rotate: false
+  xy: 534, 2
+  size: 143, 166
+  orig: 203, 312
+  offset: 7, 15
+  index: -1
+dragon_berna_critical_eff_add_eff4
+  rotate: true
+  xy: 2, 268
+  size: 119, 144
+  orig: 119, 152
+  offset: 0, 8
+  index: -1
+dragon_berna_adult_leg
+  rotate: false
+  xy: 1212, 74
+  size: 85, 104
+  orig: 85, 104
+  offset: 0, 0
+  index: 4
+dragon_berna_baby_hair_a01
+  rotate: true
+  xy: 923, 369
+  size: 13, 37
+  orig: 13, 39
+  offset: 0, 2
+  index: -1
+dragon_berna_child_head_a02
+  rotate: false
+  xy: 1081, 285
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+dragon_berna_adult_ring_a02
+  rotate: false
+  xy: 1178, 285
+  size: 42, 88
+  orig: 96, 96
+  offset: 48, 6
+  index: -1
+dragon_berna_child_neck_a01
+  rotate: false
+  xy: 1316, 273
+  size: 60, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+dragon_berna_baby_leg_a4
+  rotate: false
+  xy: 1951, 245
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+dragon_berna_child_amr_a02
+  rotate: false
+  xy: 1562, 364
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+dragon_berna_adult_moust
+  rotate: false
+  xy: 1960, 361
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+dragon_berna_critical_eff_add_a6
+  rotate: false
+  xy: 1701, 2
+  size: 183, 74
+  orig: 263, 90
+  offset: 7, 13
+  index: -1
+dragon_berna_baby_head3
+  rotate: true
+  xy: 785, 296
+  size: 85, 94
+  orig: 85, 98
+  offset: 0, 4
+  index: -1
+dragon_berna_critical_effect_b6
+  rotate: false
+  xy: 1898, 320
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+dragon_berna_critical_effect_b1
+  rotate: false
+  xy: 1577, 274
+  size: 19, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+dragon_berna_baby_ring_a02
+  rotate: false
+  xy: 1178, 285
+  size: 42, 88
+  orig: 96, 96
+  offset: 48, 6
+  index: -1
+dragon_berna_child_leg_a02
+  rotate: false
+  xy: 1955, 184
+  size: 21, 59
+  orig: 21, 59
+  offset: 0, 0
+  index: -1
+dragon_berna_critical_eff_add_eff7
+  rotate: true
+  xy: 1789, 78
+  size: 97, 82
+  orig: 119, 152
+  offset: 0, 27
+  index: -1
+dragon_berna_adult_body_a03
+  rotate: false
+  xy: 680, 137
+  size: 104, 156
+  orig: 104, 156
+  offset: 0, 0
+  index: -1
+dragon_berna_adult_arm_a03
+  rotate: false
+  xy: 1909, 278
+  size: 41, 40
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+dragon_berna_baby_reg_a1
+  rotate: false
+  xy: 1831, 343
+  size: 27, 44
+  orig: 27, 44
+  offset: 0, 0
+  index: -1
+dragon_berna_critical_effect_b5
+  rotate: false
+  xy: 1982, 260
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+dragon_berna_critical_eff_add_a3
+  rotate: false
+  xy: 1092, 2
+  size: 205, 70
+  orig: 263, 90
+  offset: 20, 5
+  index: -1
+dragon_berna_baby_head2
+  rotate: false
+  xy: 1310, 177
+  size: 85, 94
+  orig: 85, 98
+  offset: 0, 4
+  index: -1
+dragon_berna_critical_effect_a03
+  rotate: false
+  xy: 1562, 286
+  size: 44, 76
+  orig: 48, 96
+  offset: 2, 10
+  index: -1
+dragon_berna_critical_effect_c3
+  rotate: true
+  xy: 534, 170
+  size: 42, 14
+  orig: 52, 20
+  offset: 3, 2
+  index: -1
+dragon_berna_baby_tail_a01
+  rotate: false
+  xy: 1738, 333
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+dragon_berna_critical_eff_add_eff3
+  rotate: true
+  xy: 1886, 2
+  size: 115, 146
+  orig: 119, 152
+  offset: 4, 3
+  index: -1
+dragon_berna_baby_hair_a02
+  rotate: true
+  xy: 881, 369
+  size: 17, 40
+  orig: 17, 40
+  offset: 0, 0
+  index: -1
+dragon_berna_adult_ring_a03
+  rotate: false
+  xy: 1222, 277
+  size: 46, 88
+  orig: 96, 96
+  offset: 2, 6
+  index: -1
+dragon_berna_adult_ring_b01
+  rotate: true
+  xy: 1865, 184
+  size: 46, 88
+  orig: 96, 96
+  offset: 2, 6
+  index: -1
+dragon_berna_critical_effect_d1
+  rotate: false
+  xy: 1299, 84
+  size: 129, 91
+  orig: 139, 101
+  offset: 6, 4
+  index: -1
+dragon_berna_adult_leg_b01
+  rotate: true
+  xy: 1787, 265
+  size: 29, 68
+  orig: 29, 68
+  offset: 0, 0
+  index: -1
+dragon_berna_baby_body_a1
+  rotate: true
+  xy: 1789, 177
+  size: 86, 74
+  orig: 92, 74
+  offset: 6, 0
+  index: -1
+dragon_berna_child_leg_a01
+  rotate: false
+  xy: 1666, 218
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+dragon_berna_critical_effect_a06
+  rotate: true
+  xy: 1702, 229
+  size: 44, 76
+  orig: 48, 96
+  offset: 2, 10
+  index: -1
+dragon_berna_adult_leg_a02
+  rotate: true
+  xy: 1702, 174
+  size: 53, 85
+  orig: 53, 85
+  offset: 0, 0
+  index: -1
+dragon_berna_critical_eff_add_eff6
+  rotate: false
+  xy: 1093, 74
+  size: 117, 132
+  orig: 119, 152
+  offset: 1, 20
+  index: -1
+dragon_berna_adult_neck_a01
+  rotate: true
+  xy: 1978, 207
+  size: 51, 59
+  orig: 51, 59
+  offset: 0, 0
+  index: -1
+dragon_berna_adult_body_a02
+  rotate: true
+  xy: 700, 295
+  size: 89, 83
+  orig: 101, 83
+  offset: 12, 0
+  index: -1
+dragon_berna_critical_effect_b7
+  rotate: true
+  xy: 1939, 324
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+dragon_berna_critical_eff_add_d2
+  rotate: false
+  xy: 171, 2
+  size: 171, 256
+  orig: 203, 312
+  offset: 2, 0
+  index: -1
+dragon_berna_adult_ring_b02
+  rotate: false
+  xy: 1270, 277
+  size: 44, 88
+  orig: 96, 96
+  offset: 47, 6
+  index: -1
+dragon_berna_child_ring_b02
+  rotate: false
+  xy: 1270, 277
+  size: 44, 88
+  orig: 96, 96
+  offset: 47, 6
+  index: -1
+dragon_berna_critical_effect_b2
+  rotate: false
+  xy: 1222, 367
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+dragon_berna_child_head_a01
+  rotate: false
+  xy: 1213, 180
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+dragon_berna_baby_head
+  rotate: false
+  xy: 1702, 78
+  size: 85, 94
+  orig: 85, 98
+  offset: 0, 4
+  index: -1
+dragon_berna_critical_ring_a01
+  rotate: false
+  xy: 1487, 196
+  size: 88, 88
+  orig: 96, 96
+  offset: 3, 6
+  index: -1
+dragon_berna_child_arm_a05
+  rotate: true
+  xy: 1898, 359
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+dragon_berna_baby_ring_a03
+  rotate: false
+  xy: 1222, 277
+  size: 46, 88
+  orig: 96, 96
+  offset: 2, 6
+  index: -1
+dragon_berna_child_body_a01
+  rotate: true
+  xy: 1608, 274
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+dragon_berna_critical_eff_add_a4
+  rotate: false
+  xy: 1299, 2
+  size: 201, 80
+  orig: 263, 90
+  offset: 16, 5
+  index: -1
+dragon_berna_adult_head
+  rotate: false
+  xy: 1548, 84
+  size: 116, 110
+  orig: 116, 110
+  offset: 0, 0
+  index: -1
+dragon_berna_critical_effect_a02
+  rotate: true
+  xy: 1378, 310
+  size: 42, 76
+  orig: 48, 96
+  offset: 3, 10
+  index: -1
+dragon_berna_baby_leg_b4
+  rotate: false
+  xy: 1456, 310
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+dragon_berna_critical_eff_add_eff2
+  rotate: false
+  xy: 881, 120
+  size: 115, 142
+  orig: 119, 152
+  offset: 3, 0
+  index: -1
+dragon_berna_adult_hair2
+  rotate: true
+  xy: 1439, 354
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+dragon_berna_child_hair_a03
+  rotate: true
+  xy: 1978, 119
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1
+dragon_berna_adult_tail_a03
+  rotate: true
+  xy: 550, 170
+  size: 135, 128
+  orig: 135, 128
+  offset: 0, 0
+  index: -1
+dragon_berna_child_arm_a01
+  rotate: false
+  xy: 1932, 361
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_berna_baby_ring_b01
+  rotate: true
+  xy: 1865, 184
+  size: 46, 88
+  orig: 96, 96
+  offset: 2, 6
+  index: -1
+dragon_berna_child_wing_a02
+  rotate: false
+  xy: 786, 137
+  size: 93, 157
+  orig: 95, 157
+  offset: 0, 0
+  index: -1
+dragon_berna_adult_hair
+  rotate: false
+  xy: 550, 307
+  size: 86, 80
+  orig: 86, 80
+  offset: 0, 0
+  index: -1
+dragon_berna_critical_effect_c4
+  rotate: false
+  xy: 1178, 375
+  size: 40, 12
+  orig: 52, 20
+  offset: 6, 2
+  index: -1

@@ -1,0 +1,515 @@
+dragon_4114_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_jumpdragon_effect_smoke14
+  rotate: false
+  xy: 2, 2
+  size: 251, 266
+  orig: 251, 266
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_baby_r_leg
+  rotate: true
+  xy: 425, 483
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_child_r_foot
+  rotate: true
+  xy: 1239, 416
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_baby_tail
+  rotate: false
+  xy: 492, 483
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_baby_wing
+  rotate: true
+  xy: 1095, 493
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_effect_smoke6
+  rotate: false
+  xy: 1080, 33
+  size: 191, 71
+  orig: 191, 71
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_adult_eye2
+  rotate: true
+  xy: 1120, 489
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_child_l_leg2
+  rotate: false
+  xy: 134, 497
+  size: 33, 12
+  orig: 33, 12
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_effect_smoke10
+  rotate: true
+  xy: 513, 269
+  size: 199, 83
+  orig: 199, 83
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_baby_face
+  rotate: false
+  xy: 1031, 413
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_adult_r_leg3
+  rotate: true
+  xy: 1210, 476
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_adult_l_leg
+  rotate: false
+  xy: 1186, 412
+  size: 51, 62
+  orig: 51, 62
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_baby_eye
+  rotate: true
+  xy: 1181, 386
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_child_eye_love
+  rotate: false
+  xy: 181, 494
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_adult_r_wing
+  rotate: true
+  xy: 1077, 274
+  size: 74, 104
+  orig: 74, 104
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_effect_smoke19
+  rotate: true
+  xy: 883, 2
+  size: 261, 69
+  orig: 261, 69
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_adult_mouth
+  rotate: false
+  xy: 1040, 493
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_child_sample
+  rotate: false
+  xy: 954, 2
+  size: 124, 194
+  orig: 124, 194
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_adult_hip
+  rotate: true
+  xy: 1263, 354
+  size: 60, 44
+  orig: 60, 44
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_effect_smoke3
+  rotate: false
+  xy: 1080, 2
+  size: 192, 29
+  orig: 192, 29
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_effect_smoke15
+  rotate: true
+  xy: 608, 267
+  size: 242, 110
+  orig: 242, 110
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_child_l_foot
+  rotate: true
+  xy: 1183, 335
+  size: 49, 28
+  orig: 49, 28
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_adult_l_wing
+  rotate: true
+  xy: 970, 337
+  size: 74, 104
+  orig: 74, 104
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_child_eye
+  rotate: true
+  xy: 1166, 489
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_child_face
+  rotate: false
+  xy: 1110, 413
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_baby_r_foot
+  rotate: false
+  xy: 970, 495
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_effect_smoke7
+  rotate: true
+  xy: 888, 265
+  size: 199, 80
+  orig: 199, 80
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_child_mouth
+  rotate: false
+  xy: 1134, 489
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_adult_eye3
+  rotate: false
+  xy: 1018, 495
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_effect_smoke11
+  rotate: true
+  xy: 723, 2
+  size: 261, 158
+  orig: 261, 158
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_child_l_leg
+  rotate: false
+  xy: 1270, 112
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_child_Chest
+  rotate: false
+  xy: 1076, 350
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_child_r_leg
+  rotate: true
+  xy: 777, 468
+  size: 41, 52
+  orig: 41, 52
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_effect_smoke16
+  rotate: true
+  xy: 2, 270
+  size: 233, 95
+  orig: 233, 95
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_adult_r_leg
+  rotate: false
+  xy: 954, 198
+  size: 51, 64
+  orig: 51, 64
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_child_tail
+  rotate: false
+  xy: 970, 413
+  size: 59, 80
+  orig: 59, 80
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_effect_smoke20
+  rotate: true
+  xy: 503, 2
+  size: 265, 68
+  orig: 265, 68
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_effect_smoke4
+  rotate: false
+  xy: 831, 466
+  size: 137, 43
+  orig: 137, 43
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_adult_tail
+  rotate: false
+  xy: 1080, 129
+  size: 137, 98
+  orig: 137, 98
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_adult_l_foot
+  rotate: true
+  xy: 970, 264
+  size: 68, 35
+  orig: 68, 35
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_adult_r_foot
+  rotate: true
+  xy: 1273, 42
+  size: 68, 35
+  orig: 68, 35
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_effect_smoke12
+  rotate: true
+  xy: 573, 2
+  size: 263, 148
+  orig: 263, 148
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_child_l_wing
+  rotate: false
+  xy: 1274, 2
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_adult_sample
+  rotate: true
+  xy: 248, 270
+  size: 211, 263
+  orig: 211, 263
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_adult_face
+  rotate: false
+  xy: 1219, 166
+  size: 92, 68
+  orig: 92, 68
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_effect_smoke
+  rotate: false
+  xy: 210, 494
+  size: 183, 13
+  orig: 183, 13
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_effect_smoke8
+  rotate: true
+  xy: 804, 265
+  size: 199, 82
+  orig: 199, 82
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_child_hip
+  rotate: false
+  xy: 1219, 129
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_child_r_leg3
+  rotate: false
+  xy: 454, 483
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_baby_body
+  rotate: true
+  xy: 1139, 350
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_adult_l_leg3
+  rotate: false
+  xy: 1213, 354
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_adult_neck
+  rotate: true
+  xy: 1007, 284
+  size: 51, 68
+  orig: 51, 68
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_adult_eye
+  rotate: true
+  xy: 169, 494
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_child_r_wing
+  rotate: false
+  xy: 570, 470
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_effect_smoke17
+  rotate: true
+  xy: 169, 270
+  size: 222, 77
+  orig: 224, 77
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_adult_eye_love
+  rotate: true
+  xy: 202, 494
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_baby_l_foot
+  rotate: false
+  xy: 994, 495
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_baby_l_leg
+  rotate: true
+  xy: 395, 483
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_baby_eye_love
+  rotate: false
+  xy: 1070, 493
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_effect_smoke5
+  rotate: false
+  xy: 1077, 229
+  size: 134, 43
+  orig: 134, 43
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_effect_smoke13
+  rotate: false
+  xy: 255, 2
+  size: 246, 266
+  orig: 246, 266
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_child_r_leg2
+  rotate: false
+  xy: 99, 497
+  size: 33, 12
+  orig: 33, 12
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_adult_l_leg2
+  rotate: true
+  xy: 1183, 274
+  size: 59, 28
+  orig: 59, 28
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_adult_r_leg2
+  rotate: true
+  xy: 1268, 416
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_adult_Chest
+  rotate: false
+  xy: 1007, 198
+  size: 68, 84
+  orig: 68, 84
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_effect_smoke18
+  rotate: true
+  xy: 99, 270
+  size: 225, 68
+  orig: 225, 68
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_effect_smoke9
+  rotate: true
+  xy: 720, 267
+  size: 199, 82
+  orig: 199, 82
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_baby_sample
+  rotate: false
+  xy: 1213, 236
+  size: 91, 116
+  orig: 91, 116
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_child_l_leg3
+  rotate: false
+  xy: 473, 483
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+dragon_love_effect_heart
+  rotate: false
+  xy: 522, 470
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_baby_mouth
+  rotate: true
+  xy: 1186, 476
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_child_neck
+  rotate: true
+  xy: 720, 468
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+dragon_jumpdragon_effect_smoke2
+  rotate: false
+  xy: 1080, 106
+  size: 188, 21
+  orig: 188, 21
+  offset: 0, 0
+  index: -1

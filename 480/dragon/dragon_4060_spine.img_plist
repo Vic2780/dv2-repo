@@ -1,0 +1,382 @@
+dragon_4060_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_swallowtail_adult_arm1
+  rotate: true
+  xy: 144, 1135
+  size: 43, 65
+  orig: 43, 65
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_child_tail
+  rotate: false
+  xy: 147, 1072
+  size: 77, 61
+  orig: 77, 61
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_baby_body
+  rotate: false
+  xy: 140, 1373
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_critical_s3
+  rotate: true
+  xy: 2, 494
+  size: 156, 166
+  orig: 156, 166
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_baby_neck
+  rotate: false
+  xy: 85, 1408
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_adult_leg2
+  rotate: false
+  xy: 30, 1423
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_baby_leg
+  rotate: true
+  xy: 90, 1380
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_adult_wing3
+  rotate: false
+  xy: 2, 228
+  size: 222, 68
+  orig: 222, 68
+  offset: 0, 0
+  index: -1
+dragon_sw_ad_love_effect_smile
+  rotate: true
+  xy: 165, 659
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_adult_att
+  rotate: false
+  xy: 207, 1210
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_critical_s4
+  rotate: false
+  xy: 2, 298
+  size: 206, 194
+  orig: 206, 194
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_child_arm2
+  rotate: false
+  xy: 201, 1324
+  size: 24, 51
+  orig: 24, 51
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_baby_tail
+  rotate: true
+  xy: 2, 1380
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_adult_leg3
+  rotate: true
+  xy: 2, 1322
+  size: 33, 86
+  orig: 33, 86
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_adult_down
+  rotate: true
+  xy: 210, 422
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_adult_arm4
+  rotate: true
+  xy: 142, 1346
+  size: 25, 57
+  orig: 25, 57
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_child_arm1
+  rotate: false
+  xy: 60, 1382
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_adult_body
+  rotate: true
+  xy: 162, 824
+  size: 112, 62
+  orig: 112, 62
+  offset: 0, 0
+  index: -1
+dragon_swchild_love_effect_twinkling1
+  rotate: false
+  xy: 2, 2
+  size: 223, 224
+  orig: 225, 224
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_baby_love1
+  rotate: true
+  xy: 210, 372
+  size: 48, 12
+  orig: 48, 12
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_child_arm3
+  rotate: true
+  xy: 170, 542
+  size: 33, 54
+  orig: 33, 54
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_adult_eye
+  rotate: true
+  xy: 210, 357
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_baby_ear2
+  rotate: true
+  xy: 90, 1350
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_child_wing
+  rotate: false
+  xy: 2, 1061
+  size: 143, 42
+  orig: 143, 42
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_child_love
+  rotate: true
+  xy: 210, 298
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_child_neck
+  rotate: true
+  xy: 144, 1238
+  size: 45, 57
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_adult_tail
+  rotate: false
+  xy: 2, 797
+  size: 158, 113
+  orig: 158, 113
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_adult_ear2
+  rotate: false
+  xy: 170, 494
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_adult_wing1
+  rotate: true
+  xy: 2, 1105
+  size: 117, 140
+  orig: 117, 140
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_adult_mouth
+  rotate: false
+  xy: 60, 1357
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_child_arm4
+  rotate: false
+  xy: 203, 1238
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_adult_leg1
+  rotate: true
+  xy: 165, 718
+  size: 38, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_adult_arm2
+  rotate: true
+  xy: 142, 1285
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+dragon_love_swbaby_effect_heart
+  rotate: false
+  xy: 96, 1224
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_baby_arm
+  rotate: true
+  xy: 2, 1357
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_baby_love2
+  rotate: true
+  xy: 2, 1423
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_baby_ear1
+  rotate: true
+  xy: 23, 1379
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_child_ear2
+  rotate: false
+  xy: 131, 1408
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_child_eye
+  rotate: true
+  xy: 210, 320
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_adult_arm3
+  rotate: true
+  xy: 144, 1180
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_adult_wing2
+  rotate: true
+  xy: 155, 993
+  size: 77, 67
+  orig: 77, 67
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_child_mouth
+  rotate: true
+  xy: 207, 1180
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_child_ear1
+  rotate: true
+  xy: 195, 1377
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_adult_head
+  rotate: false
+  xy: 96, 1265
+  size: 44, 83
+  orig: 44, 83
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_baby_head
+  rotate: false
+  xy: 165, 758
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_child_leg
+  rotate: true
+  xy: 2, 1282
+  size: 38, 86
+  orig: 38, 86
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_adult_love
+  rotate: false
+  xy: 210, 339
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_adult_ear1
+  rotate: true
+  xy: 142, 1319
+  size: 25, 57
+  orig: 25, 57
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_critical_s2
+  rotate: false
+  xy: 2, 652
+  size: 161, 143
+  orig: 161, 143
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_adult_neck
+  rotate: true
+  xy: 2, 1224
+  size: 56, 92
+  orig: 56, 92
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_baby_eye
+  rotate: true
+  xy: 203, 1278
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_critical_s1
+  rotate: true
+  xy: 2, 912
+  size: 147, 151
+  orig: 147, 151
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_child_body
+  rotate: true
+  xy: 170, 577
+  size: 80, 53
+  orig: 80, 53
+  offset: 0, 0
+  index: -1
+dragon_swallowtail_child_head
+  rotate: true
+  xy: 155, 938
+  size: 53, 68
+  orig: 53, 68
+  offset: 0, 0
+  index: -1

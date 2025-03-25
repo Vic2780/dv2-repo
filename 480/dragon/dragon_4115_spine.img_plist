@@ -1,0 +1,998 @@
+dragon_4115_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_4115_e_crtitcal_line23
+  rotate: true
+  xy: 1088, 847
+  size: 66, 23
+  orig: 104, 241
+  offset: 27, 0
+  index: -1
+dragon_lunus_e_l_foot
+  rotate: false
+  xy: 775, 996
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+dragon_lunus_critical4
+  rotate: false
+  xy: 707, 873
+  size: 55, 83
+  orig: 71, 101
+  offset: 10, 7
+  index: -1
+dragon_lunus_critical5
+  rotate: true
+  xy: 229, 648
+  size: 55, 83
+  orig: 69, 91
+  offset: 5, 8
+  index: -1
+dragon_lunus_e_head2
+  rotate: true
+  xy: 1071, 993
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+dragon_lunus_e_head3
+  rotate: false
+  xy: 1154, 313
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+dragon_lunus_baby_eye
+  rotate: true
+  xy: 1068, 918
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+dragon_4115_e_crtitcal_line14
+  rotate: true
+  xy: 309, 876
+  size: 42, 47
+  orig: 104, 241
+  offset: 9, 182
+  index: -1
+dragon_lunus_e_body
+  rotate: true
+  xy: 810, 788
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+dragon_4115_e_crtitcal_line15
+  rotate: false
+  xy: 373, 961
+  size: 48, 61
+  orig: 104, 241
+  offset: 10, 169
+  index: -1
+dragon_lunus_adult_l_wing
+  rotate: false
+  xy: 233, 920
+  size: 138, 101
+  orig: 138, 101
+  offset: 0, 0
+  index: -1
+dragon_lunus_effect_spear2
+  rotate: true
+  xy: 1097, 993
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+dragon_4115_e_crtitcal_line18
+  rotate: false
+  xy: 309, 705
+  size: 90, 169
+  orig: 104, 241
+  offset: 12, 50
+  index: -1
+dragon_lunus_baby_mouth
+  rotate: false
+  xy: 722, 1001
+  size: 51, 20
+  orig: 51, 20
+  offset: 0, 0
+  index: -1
+dragon_4115_e_crtitcal_line13
+  rotate: true
+  xy: 810, 837
+  size: 34, 33
+  orig: 104, 241
+  offset: 21, 202
+  index: -1
+dragon_lunus_effect_spear4
+  rotate: false
+  xy: 1074, 951
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+dragon_4115_e_crtitcal_line16
+  rotate: false
+  xy: 951, 667
+  size: 72, 89
+  orig: 104, 241
+  offset: 10, 139
+  index: -1
+dragon_lunus_effect_spear3
+  rotate: false
+  xy: 657, 999
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+dragon_4115_e_crtitcal_line19
+  rotate: false
+  xy: 209, 705
+  size: 98, 213
+  orig: 104, 241
+  offset: 3, 0
+  index: -1
+dragon_lunus_child_f_l_leg
+  rotate: false
+  xy: 1020, 952
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+dragon_lunus_child_f_l_leg2
+  rotate: true
+  xy: 1113, 931
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+dragon_lunus_effect_spear5
+  rotate: true
+  xy: 844, 945
+  size: 20, 64
+  orig: 20, 64
+  offset: 0, 0
+  index: -1
+dragon_lunus_adult_mouth
+  rotate: false
+  xy: 666, 649
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+dragon_4115_e_crtitcal_line17
+  rotate: true
+  xy: 751, 456
+  size: 96, 137
+  orig: 104, 241
+  offset: 8, 89
+  index: -1
+dragon_lunus_baby_body
+  rotate: false
+  xy: 657, 958
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+dragon_lunus_adult_l_leg
+  rotate: false
+  xy: 1135, 169
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+dragon_lunus_adult_r_foot
+  rotate: false
+  xy: 953, 994
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+dragon_lunus_e_l_wing
+  rotate: true
+  xy: 558, 649
+  size: 152, 106
+  orig: 152, 106
+  offset: 0, 0
+  index: -1
+dragon_lunus_e_l_leg3
+  rotate: true
+  xy: 893, 967
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+dragon_lunus_child_f_r_foot
+  rotate: true
+  xy: 1088, 915
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+dragon_lunus_e_r_foot
+  rotate: true
+  xy: 373, 916
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+dragon_lunus_adult_f_r_hand
+  rotate: true
+  xy: 1135, 254
+  size: 57, 28
+  orig: 57, 28
+  offset: 0, 0
+  index: -1
+dragon_lunus_effect_moon
+  rotate: false
+  xy: 622, 873
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+dragon_lunus_e_eyeatt
+  rotate: true
+  xy: 1135, 313
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+dragon_lunus_child_horn
+  rotate: false
+  xy: 568, 961
+  size: 47, 57
+  orig: 47, 57
+  offset: 0, 0
+  index: -1
+dragon_lunus_child_l_foot
+  rotate: false
+  xy: 1114, 132
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+dragon_4115_e_crtitcal_circle19
+  rotate: false
+  xy: 784, 2
+  size: 165, 169
+  orig: 165, 169
+  offset: 0, 0
+  index: -1
+dragon_4115_e_crtitcal_circle24
+  rotate: false
+  xy: 666, 685
+  size: 125, 121
+  orig: 165, 169
+  offset: 20, 22
+  index: -1
+dragon_4115_e_crtitcal_circle25
+  rotate: false
+  xy: 592, 550
+  size: 99, 97
+  orig: 165, 169
+  offset: 33, 35
+  index: -1
+dragon_4115_e_crtitcal_circle22
+  rotate: false
+  xy: 951, 2
+  size: 161, 165
+  orig: 165, 169
+  offset: 2, 2
+  index: -1
+dragon_4115_e_crtitcal_circle23
+  rotate: false
+  xy: 401, 806
+  size: 153, 153
+  orig: 165, 169
+  offset: 6, 8
+  index: -1
+dragon_4115_e_crtitcal_circle20
+  rotate: false
+  xy: 401, 649
+  size: 155, 155
+  orig: 165, 169
+  offset: 5, 7
+  index: -1
+dragon_4115_e_crtitcal_circle21
+  rotate: false
+  xy: 693, 554
+  size: 133, 129
+  orig: 165, 169
+  offset: 16, 19
+  index: -1
+dragon_lunus_adult_l_leg2
+  rotate: false
+  xy: 1098, 965
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+dragon_lunus_adult_horn
+  rotate: false
+  xy: 617, 961
+  size: 38, 56
+  orig: 38, 56
+  offset: 0, 0
+  index: -1
+dragon_lunus_adult_l_leg3
+  rotate: true
+  xy: 890, 456
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+dragon_lunus_adult_r_wing
+  rotate: false
+  xy: 890, 478
+  size: 137, 101
+  orig: 137, 101
+  offset: 0, 0
+  index: -1
+dragon_4115_e_crtitcal_circle28
+  rotate: false
+  xy: 860, 667
+  size: 89, 89
+  orig: 165, 169
+  offset: 38, 39
+  index: -1
+dragon_4115_e_crtitcal_circle29
+  rotate: false
+  xy: 745, 808
+  size: 63, 63
+  orig: 165, 169
+  offset: 51, 52
+  index: -1
+dragon_4115_e_crtitcal_circle26
+  rotate: false
+  xy: 597, 283
+  size: 159, 159
+  orig: 165, 169
+  offset: 3, 4
+  index: -1
+dragon_4115_e_crtitcal_circle27
+  rotate: false
+  xy: 1029, 478
+  size: 123, 123
+  orig: 165, 169
+  offset: 21, 22
+  index: -1
+dragon_lunus_baby_l_leg
+  rotate: true
+  xy: 759, 978
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+dragon_lunus_adult_crown
+  rotate: true
+  xy: 694, 1001
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+dragon_lunus_effect_moon2
+  rotate: false
+  xy: 2, 930
+  size: 93, 92
+  orig: 93, 92
+  offset: 0, 0
+  index: -1
+dragon_lunus_e_r_wing
+  rotate: false
+  xy: 597, 444
+  size: 152, 104
+  orig: 152, 106
+  offset: 0, 2
+  index: -1
+dragon_lunus_baby_love
+  rotate: false
+  xy: 1000, 919
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_lunus_adult_love
+  rotate: false
+  xy: 1000, 919
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_lunus_child_r_foot
+  rotate: true
+  xy: 1130, 603
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+dragon_lunus_child_f_l_foot
+  rotate: true
+  xy: 1027, 989
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+dragon_lunus_adult_f_l_hand
+  rotate: false
+  xy: 941, 919
+  size: 57, 28
+  orig: 57, 28
+  offset: 0, 0
+  index: -1
+dragon_lunus_child_eye
+  rotate: false
+  xy: 910, 950
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+dragon_lunus_child_l_leg
+  rotate: false
+  xy: 987, 949
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+dragon_lunus_child_l_wing
+  rotate: true
+  xy: 793, 685
+  size: 101, 65
+  orig: 101, 65
+  offset: 0, 0
+  index: -1
+dragon_lunus_baby_f_r_foot
+  rotate: true
+  xy: 787, 978
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+dragon_lunus_adult_tail
+  rotate: false
+  xy: 860, 825
+  size: 79, 75
+  orig: 79, 75
+  offset: 0, 0
+  index: -1
+dragon_lunus_baby_l_foot
+  rotate: true
+  xy: 777, 283
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+dragon_lunus_light
+  rotate: false
+  xy: 978, 169
+  size: 155, 155
+  orig: 155, 155
+  offset: 0, 0
+  index: -1
+dragon_lunus_e_l_arm2
+  rotate: false
+  xy: 922, 967
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+dragon_lunus_effect_spear
+  rotate: true
+  xy: 380, 649
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+dragon_lunus_child_tail
+  rotate: true
+  xy: 1112, 670
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+dragon_lunus_baby_face
+  rotate: false
+  xy: 423, 961
+  size: 79, 60
+  orig: 79, 60
+  offset: 0, 0
+  index: -1
+dragon_lunus_child_love
+  rotate: false
+  xy: 1000, 919
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+dragon_lunus_adult_r_leg2
+  rotate: false
+  xy: 993, 994
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+dragon_lunus_child_f_r_leg
+  rotate: true
+  xy: 856, 996
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+dragon_lunus_adult_r_leg3
+  rotate: true
+  xy: 926, 304
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+dragon_lunus_baby_r_leg
+  rotate: false
+  xy: 1149, 132
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+dragon_lunus_baby_l_leg2
+  rotate: true
+  xy: 1111, 462
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+dragon_lunus_child_mouth
+  rotate: false
+  xy: 764, 954
+  size: 48, 22
+  orig: 48, 22
+  offset: 0, 0
+  index: -1
+dragon_lunus_e_tail1
+  rotate: true
+  xy: 504, 961
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+dragon_lunus_baby_eye2
+  rotate: true
+  xy: 1048, 952
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+dragon_lunus_adult_r_leg
+  rotate: false
+  xy: 1135, 212
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+dragon_lunus_e_tail2
+  rotate: true
+  xy: 1052, 989
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+dragon_lunus_baby_f_l_leg
+  rotate: false
+  xy: 1132, 965
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+dragon_lunus_child_body
+  rotate: true
+  xy: 165, 930
+  size: 92, 66
+  orig: 92, 66
+  offset: 0, 0
+  index: -1
+dragon_lunus_baby_tail
+  rotate: false
+  xy: 814, 954
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+dragon_lunus_child_r_leg
+  rotate: false
+  xy: 953, 949
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+dragon_lunus_baby_f_r_leg
+  rotate: false
+  xy: 828, 652
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+dragon_lunus_adult_f_r_arm2
+  rotate: true
+  xy: 314, 648
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+dragon_lunus_adult_f_r_arm1
+  rotate: false
+  xy: 1119, 724
+  size: 46, 63
+  orig: 46, 63
+  offset: 0, 0
+  index: -1
+dragon_lunus_e_l_twinkle06
+  rotate: false
+  xy: 652, 808
+  size: 91, 63
+  orig: 93, 65
+  offset: 1, 1
+  index: -1
+dragon_lunus_e_l_twinkle04
+  rotate: true
+  xy: 556, 868
+  size: 91, 64
+  orig: 93, 66
+  offset: 1, 1
+  index: -1
+dragon_lunus_light2
+  rotate: false
+  xy: 2, 476
+  size: 225, 227
+  orig: 225, 227
+  offset: 0, 0
+  index: -1
+dragon_lunus_e_r_arm1
+  rotate: true
+  xy: 1113, 885
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+dragon_lunus_e_l_twinkle02
+  rotate: false
+  xy: 860, 758
+  size: 96, 65
+  orig: 98, 67
+  offset: 1, 2
+  index: -1
+dragon_lunus_e_l_twinkle05
+  rotate: false
+  xy: 558, 803
+  size: 92, 63
+  orig: 92, 65
+  offset: 0, 1
+  index: -1
+dragon_lunus_sparkl6
+  rotate: false
+  xy: 2, 2
+  size: 386, 472
+  orig: 390, 476
+  offset: 1, 2
+  index: -1
+dragon_lunus_baby_r_foot
+  rotate: false
+  xy: 758, 283
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+dragon_lunus_e_l_twinkle03
+  rotate: true
+  xy: 97, 930
+  size: 92, 66
+  orig: 92, 66
+  offset: 0, 0
+  index: -1
+dragon_lunus_e_r_arm2
+  rotate: false
+  xy: 910, 902
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+dragon_lunus_e_r_arm3
+  rotate: false
+  xy: 844, 967
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+dragon_lunus_e_l_twinkle01
+  rotate: true
+  xy: 828, 554
+  size: 96, 60
+  orig: 98, 66
+  offset: 1, 6
+  index: -1
+dragon_lunus_baby_f_l_foot
+  rotate: true
+  xy: 798, 978
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+dragon_lunus_e_eyeclose
+  rotate: true
+  xy: 209, 920
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+dragon_lunus_child_r_wing
+  rotate: false
+  xy: 1027, 603
+  size: 101, 65
+  orig: 101, 65
+  offset: 0, 0
+  index: -1
+dragon_lunus_adult_eye
+  rotate: false
+  xy: 580, 553
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+dragon_4115_e_crtitcal_boom46
+  rotate: false
+  xy: 390, 229
+  size: 205, 223
+  orig: 225, 225
+  offset: 8, 2
+  index: -1
+dragon_4115_e_crtitcal_boom47
+  rotate: false
+  xy: 2, 705
+  size: 205, 223
+  orig: 225, 225
+  offset: 8, 2
+  index: -1
+dragon_lunus_sparkl2
+  rotate: false
+  xy: 926, 326
+  size: 164, 150
+  orig: 172, 158
+  offset: 1, 7
+  index: -1
+dragon_4115_e_crtitcal_boom48
+  rotate: false
+  xy: 390, 2
+  size: 211, 225
+  orig: 225, 225
+  offset: 7, 0
+  index: -1
+dragon_lunus_critical_ball2
+  rotate: false
+  xy: 358, 876
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+dragon_lunus_child_f_r_leg2
+  rotate: true
+  xy: 1028, 918
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+dragon_lunus_critical_ball3
+  rotate: true
+  xy: 788, 173
+  size: 129, 188
+  orig: 179, 270
+  offset: 22, 24
+  index: -1
+dragon_4115_e_crtitcal_boom49
+  rotate: false
+  xy: 390, 2
+  size: 211, 225
+  orig: 225, 225
+  offset: 7, 0
+  index: -1
+dragon_lunus_sparkl4
+  rotate: false
+  xy: 758, 304
+  size: 166, 150
+  orig: 172, 158
+  offset: 2, 8
+  index: -1
+dragon_lunus_critical_ball4
+  rotate: true
+  xy: 390, 454
+  size: 97, 200
+  orig: 179, 270
+  offset: 42, 55
+  index: -1
+dragon_4115_e_crtitcal_boom42
+  rotate: false
+  xy: 958, 758
+  size: 85, 85
+  orig: 225, 225
+  offset: 72, 67
+  index: -1
+dragon_lunus_sparkl3
+  rotate: true
+  xy: 229, 476
+  size: 170, 154
+  orig: 172, 158
+  offset: 2, 4
+  index: -1
+dragon_lunus_critical_ball5
+  rotate: false
+  xy: 1092, 326
+  size: 71, 134
+  orig: 179, 270
+  offset: 44, 123
+  index: -1
+dragon_4115_e_crtitcal_boom43
+  rotate: false
+  xy: 1025, 670
+  size: 85, 85
+  orig: 225, 225
+  offset: 72, 67
+  index: -1
+dragon_4115_e_crtitcal_boom44
+  rotate: false
+  xy: 603, 2
+  size: 179, 191
+  orig: 225, 225
+  offset: 21, 17
+  index: -1
+dragon_lunus_sparkl5
+  rotate: false
+  xy: 2, 2
+  size: 386, 472
+  orig: 390, 476
+  offset: 1, 2
+  index: -1
+dragon_4115_e_crtitcal_boom45
+  rotate: false
+  xy: 603, 2
+  size: 179, 191
+  orig: 225, 225
+  offset: 21, 17
+  index: -1
+dragon_lunus_critical_ball
+  rotate: false
+  xy: 1130, 638
+  size: 32, 30
+  orig: 38, 30
+  offset: 3, 0
+  index: -1
+dragon_lunus_baby_r_leg2
+  rotate: true
+  xy: 1092, 462
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+dragon_lunus_e_head
+  rotate: false
+  xy: 941, 845
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+dragon_lunus_child_neck
+  rotate: true
+  xy: 713, 958
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+dragon_lunus_child_face
+  rotate: true
+  xy: 1045, 757
+  size: 88, 72
+  orig: 88, 72
+  offset: 0, 0
+  index: -1
+dragon_lunus_adult_neck
+  rotate: true
+  xy: 1114, 2
+  size: 62, 51
+  orig: 62, 51
+  offset: 0, 0
+  index: -1
+dragon_lunus_adult_eye2
+  rotate: false
+  xy: 939, 950
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+dragon_lunus_adult_l_foot
+  rotate: false
+  xy: 816, 996
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+dragon_lunus_adult_eye3
+  rotate: false
+  xy: 1154, 948
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+dragon_lunus_child_eye2
+  rotate: false
+  xy: 1131, 997
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+dragon_lunus_e_horn
+  rotate: false
+  xy: 1114, 66
+  size: 45, 64
+  orig: 45, 64
+  offset: 0, 0
+  index: -1
+dragon_lunus_e_eye
+  rotate: false
+  xy: 1154, 931
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+dragon_lunus_adult_face
+  rotate: false
+  xy: 1015, 847
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+dragon_lunus_adult_f_l_arm2
+  rotate: true
+  xy: 844, 902
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+dragon_lunus_adult_f_l_arm1
+  rotate: false
+  xy: 1119, 789
+  size: 46, 63
+  orig: 46, 63
+  offset: 0, 0
+  index: -1
+dragon_4115_e_crtitcal_line20
+  rotate: true
+  xy: 385, 553
+  size: 94, 193
+  orig: 104, 241
+  offset: 2, 0
+  index: -1
+dragon_4115_e_crtitcal_line21
+  rotate: true
+  xy: 603, 195
+  size: 86, 183
+  orig: 104, 241
+  offset: 7, 0
+  index: -1
+dragon_lunus_adult_breast
+  rotate: true
+  xy: 764, 873
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+dragon_lunus_adult_hip
+  rotate: false
+  xy: 1113, 854
+  size: 52, 29
+  orig: 52, 29
+  offset: 0, 0
+  index: -1
+dragon_4115_e_crtitcal_line22
+  rotate: true
+  xy: 890, 581
+  size: 84, 135
+  orig: 104, 241
+  offset: 10, 0
+  index: -1

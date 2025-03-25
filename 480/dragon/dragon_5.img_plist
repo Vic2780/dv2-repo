@@ -7,7 +7,7 @@
             <key>dragon/dragon_5/box_adult.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,77},{73,70}}</string>
+                <string>{{2,152},{73,70}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -20,7 +20,7 @@
             <key>dragon/dragon_5/box_baby.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{73,70}}</string>
+                <string>{{2,77},{73,70}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -33,7 +33,7 @@
             <key>dragon/dragon_5/box_child.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,152},{71,70}}</string>
+                <string>{{2,227},{71,70}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
@@ -43,10 +43,23 @@
                 <key>sourceSize</key>
                 <string>{73,70}</string>
             </dict>
+            <key>dragon/dragon_5/box_evolution.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{73,70}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{73,70}}</string>
+                <key>sourceSize</key>
+                <string>{73,70}</string>
+            </dict>
             <key>dragon/dragon_5/egg.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,225},{67,89}}</string>
+                <string>{{2,300},{67,89}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
@@ -59,7 +72,7 @@
             <key>dragon/dragon_5/egg_small.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,316},{41,55}}</string>
+                <string>{{2,391},{41,55}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -77,9 +90,9 @@
             <key>realTextureFileName</key>
             <string>dragon_5.pvr.ccz</string>
             <key>size</key>
-            <string>{74,359}</string>
+            <string>{74,434}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:de30d45202fb540aef78412e1c4c3100:0ff636cfd5a7a41874e80bbc90662975:8b3d1ce1d7035542861dcfac24a73eea$</string>
+            <string>$TexturePacker:SmartUpdate:247c6bd951655f6f5b895d6fd49ef928:8bc6a89b6798b1d5cf7e098891badac4:8b3d1ce1d7035542861dcfac24a73eea$</string>
             <key>textureFileName</key>
             <string>dragon_5.pvr.ccz</string>
         </dict>

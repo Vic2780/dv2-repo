@@ -1,0 +1,922 @@
+dragon_4210_spine.pvr.ccz
+size: 472, 2727
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_god_adult_arm_l1
+  rotate: false
+  xy: 185, 1954
+  size: 50, 88
+  orig: 50, 88
+  offset: 0, 0
+  index: -1
+dragon_god_adult_arm_l2
+  rotate: true
+  xy: 328, 723
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+dragon_god_adult_arm_r1
+  rotate: false
+  xy: 1, 2524
+  size: 46, 76
+  orig: 46, 76
+  offset: 0, 0
+  index: -1
+dragon_god_adult_arm_r2
+  rotate: true
+  xy: 444, 1672
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+dragon_god_adult_body
+  rotate: false
+  xy: 377, 2515
+  size: 92, 62
+  orig: 92, 62
+  offset: 0, 0
+  index: -1
+dragon_god_adult_body_gold1
+  rotate: false
+  xy: 339, 515
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+dragon_god_adult_eye2
+  rotate: true
+  xy: 462, 1243
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+dragon_god_adult_foot_l
+  rotate: true
+  xy: 339, 657
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+dragon_god_adult_foot_r
+  rotate: false
+  xy: 447, 1442
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+dragon_god_adult_hand_l1
+  rotate: false
+  xy: 414, 732
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+dragon_god_adult_hand_r1
+  rotate: true
+  xy: 428, 2676
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+dragon_god_adult_hand_r2
+  rotate: false
+  xy: 378, 1243
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+dragon_god_adult_head1
+  rotate: true
+  xy: 1, 2469
+  size: 53, 65
+  orig: 53, 65
+  offset: 0, 0
+  index: -1
+dragon_god_adult_head2
+  rotate: true
+  xy: 371, 268
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+dragon_god_adult_head3
+  rotate: false
+  xy: 68, 2469
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+dragon_god_adult_leg_l1
+  rotate: false
+  xy: 235, 2597
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+dragon_god_adult_leg_l2
+  rotate: false
+  xy: 303, 1243
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_god_adult_leg_l3
+  rotate: false
+  xy: 447, 1499
+  size: 22, 44
+  orig: 22, 44
+  offset: 0, 0
+  index: -1
+dragon_god_adult_leg_r1
+  rotate: false
+  xy: 444, 1545
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+dragon_god_adult_leg_r2
+  rotate: true
+  xy: 371, 225
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+dragon_god_adult_leg_r3
+  rotate: false
+  xy: 447, 1411
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+dragon_god_adult_neck
+  rotate: false
+  xy: 433, 1712
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+dragon_god_adult_tail1
+  rotate: false
+  xy: 284, 2652
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+dragon_god_adult_tail2
+  rotate: false
+  xy: 173, 2044
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+dragon_god_adult_wing3
+  rotate: true
+  xy: 235, 2652
+  size: 72, 47
+  orig: 72, 47
+  offset: 0, 0
+  index: -1
+dragon_god_adult_wing_l1
+  rotate: false
+  xy: 238, 2162
+  size: 148, 92
+  orig: 148, 92
+  offset: 0, 0
+  index: -1
+dragon_god_adult_wing_l2
+  rotate: true
+  xy: 268, 2478
+  size: 123, 93
+  orig: 123, 93
+  offset: 0, 0
+  index: -1
+dragon_god_adult_wing_r1
+  rotate: true
+  xy: 164, 2524
+  size: 71, 94
+  orig: 71, 94
+  offset: 0, 0
+  index: -1
+dragon_god_adult_wing_r2
+  rotate: true
+  xy: 164, 2597
+  size: 127, 69
+  orig: 127, 69
+  offset: 0, 0
+  index: -1
+dragon_god_adult_wing_r3
+  rotate: true
+  xy: 193, 1789
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+dragon_god_baby_arm_l
+  rotate: true
+  xy: 429, 1872
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+dragon_god_baby_arm_r
+  rotate: false
+  xy: 342, 2603
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+dragon_god_baby_body
+  rotate: true
+  xy: 185, 1893
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+dragon_god_baby_eye1
+  rotate: true
+  xy: 371, 249
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+dragon_god_baby_eye2
+  rotate: true
+  xy: 462, 1259
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+dragon_god_baby_head
+  rotate: true
+  xy: 413, 1895
+  size: 69, 58
+  orig: 69, 58
+  offset: 0, 0
+  index: -1
+dragon_god_baby_leg_l
+  rotate: false
+  xy: 371, 732
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+dragon_god_baby_leg_r
+  rotate: false
+  xy: 260, 1227
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+dragon_god_baby_tail
+  rotate: false
+  xy: 193, 1842
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+dragon_god_baby_wing
+  rotate: false
+  xy: 347, 1243
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+dragon_god_bg1
+  rotate: true
+  xy: 250, 1537
+  size: 170, 192
+  orig: 173, 192
+  offset: 1, 0
+  index: -1
+dragon_god_bg2
+  rotate: true
+  xy: 250, 1362
+  size: 173, 195
+  orig: 176, 200
+  offset: 0, 5
+  index: -1
+dragon_god_child_arm_l1
+  rotate: false
+  xy: 401, 2676
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+dragon_god_child_arm_l2
+  rotate: false
+  xy: 339, 624
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+dragon_god_child_arm_r1
+  rotate: true
+  xy: 433, 1765
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+dragon_god_child_arm_r2
+  rotate: true
+  xy: 447, 1472
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+dragon_god_child_body
+  rotate: false
+  xy: 149, 2235
+  size: 84, 70
+  orig: 84, 70
+  offset: 0, 0
+  index: -1
+dragon_god_child_eye1
+  rotate: false
+  xy: 303, 906
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+dragon_god_child_eye2
+  rotate: true
+  xy: 462, 1278
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+dragon_god_child_feather_l
+  rotate: true
+  xy: 388, 2166
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+dragon_god_child_feather_r
+  rotate: true
+  xy: 388, 2107
+  size: 57, 83
+  orig: 57, 83
+  offset: 0, 0
+  index: -1
+dragon_god_child_foot_l
+  rotate: true
+  xy: 371, 206
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+dragon_god_child_foot_r
+  rotate: false
+  xy: 371, 186
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+dragon_god_child_hand_l
+  rotate: true
+  xy: 371, 164
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+dragon_god_child_hand_r
+  rotate: false
+  xy: 371, 322
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+dragon_god_child_head
+  rotate: true
+  xy: 193, 1724
+  size: 63, 44
+  orig: 63, 44
+  offset: 0, 0
+  index: -1
+dragon_god_child_leg_l1
+  rotate: false
+  xy: 444, 1629
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+dragon_god_child_leg_l2
+  rotate: false
+  xy: 450, 732
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+dragon_god_child_leg_r1
+  rotate: true
+  xy: 429, 1842
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+dragon_god_child_leg_r2
+  rotate: true
+  xy: 339, 559
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+dragon_god_child_tail
+  rotate: false
+  xy: 282, 2359
+  size: 79, 68
+  orig: 79, 68
+  offset: 0, 0
+  index: -1
+dragon_god_e_arm_l1
+  rotate: true
+  xy: 143, 2307
+  size: 50, 88
+  orig: 50, 88
+  offset: 0, 0
+  index: -1
+dragon_god_e_arm_l2
+  rotate: true
+  xy: 260, 1181
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+dragon_god_e_arm_r1
+  rotate: true
+  xy: 282, 2429
+  size: 47, 78
+  orig: 47, 78
+  offset: 0, 0
+  index: -1
+dragon_god_e_arm_r2
+  rotate: true
+  xy: 444, 1588
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+dragon_god_e_body
+  rotate: false
+  xy: 377, 2579
+  size: 92, 62
+  orig: 92, 62
+  offset: 0, 0
+  index: -1
+dragon_god_e_body_gold1
+  rotate: false
+  xy: 339, 537
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+dragon_god_e_body_gold2
+  rotate: true
+  xy: 447, 1362
+  size: 47, 24
+  orig: 47, 24
+  offset: 0, 0
+  index: -1
+dragon_god_e_eye2
+  rotate: true
+  xy: 462, 1243
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+dragon_god_e_foot_l
+  rotate: true
+  xy: 339, 690
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+dragon_god_e_foot_r
+  rotate: false
+  xy: 447, 1442
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+dragon_god_e_hand_l1
+  rotate: false
+  xy: 414, 732
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+dragon_god_e_hand_r1
+  rotate: true
+  xy: 428, 2676
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+dragon_god_e_hand_r2
+  rotate: false
+  xy: 378, 1243
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+dragon_god_e_head1
+  rotate: true
+  xy: 96, 2673
+  size: 53, 65
+  orig: 53, 65
+  offset: 0, 0
+  index: -1
+dragon_god_e_head2
+  rotate: true
+  xy: 371, 295
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+dragon_god_e_head3
+  rotate: false
+  xy: 96, 2603
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+dragon_god_e_leg_l1
+  rotate: true
+  xy: 401, 2643
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+dragon_god_e_leg_l2
+  rotate: false
+  xy: 325, 1243
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_god_e_leg_l3
+  rotate: false
+  xy: 447, 1499
+  size: 22, 44
+  orig: 22, 44
+  offset: 0, 0
+  index: -1
+dragon_god_e_leg_r1
+  rotate: false
+  xy: 339, 581
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+dragon_god_e_leg_r2
+  rotate: true
+  xy: 371, 225
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+dragon_god_e_leg_r3
+  rotate: false
+  xy: 447, 1411
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+dragon_god_e_neck
+  rotate: false
+  xy: 433, 1712
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+dragon_god_e_tail1
+  rotate: false
+  xy: 343, 2652
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+dragon_god_e_tail2
+  rotate: false
+  xy: 173, 2044
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+dragon_god_e_tail3
+  rotate: false
+  xy: 433, 1792
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+dragon_god_e_wing3
+  rotate: false
+  xy: 268, 2603
+  size: 72, 47
+  orig: 72, 47
+  offset: 0, 0
+  index: -1
+dragon_god_e_wing_l1
+  rotate: false
+  xy: 1, 2092
+  size: 153, 92
+  orig: 153, 92
+  offset: 0, 0
+  index: -1
+dragon_god_e_wing_l2
+  rotate: true
+  xy: 1, 2603
+  size: 123, 93
+  orig: 123, 93
+  offset: 0, 0
+  index: -1
+dragon_god_e_wing_r1
+  rotate: true
+  xy: 164, 2524
+  size: 71, 94
+  orig: 71, 94
+  offset: 0, 0
+  index: -1
+dragon_god_e_wing_r2
+  rotate: false
+  xy: 135, 2452
+  size: 131, 70
+  orig: 131, 70
+  offset: 0, 0
+  index: -1
+dragon_god_e_wing_r3
+  rotate: true
+  xy: 193, 1789
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1
+dragon_god_lightning1
+  rotate: false
+  xy: 1, 1
+  size: 386, 161
+  orig: 386, 161
+  offset: 0, 0
+  index: -1
+dragon_god_lightning2
+  rotate: false
+  xy: 1, 340
+  size: 368, 173
+  orig: 368, 173
+  offset: 0, 0
+  index: -1
+dragon_god_lightning3
+  rotate: false
+  xy: 1, 164
+  size: 368, 174
+  orig: 368, 175
+  offset: 0, 0
+  index: -1
+dragon_god_lightning4
+  rotate: false
+  xy: 1, 515
+  size: 336, 192
+  orig: 336, 192
+  offset: 0, 0
+  index: -1
+dragon_god_lightning5
+  rotate: false
+  xy: 1, 709
+  size: 325, 195
+  orig: 325, 195
+  offset: 0, 0
+  index: -1
+dragon_god_lightning6
+  rotate: false
+  xy: 1, 1181
+  size: 257, 161
+  orig: 257, 161
+  offset: 0, 0
+  index: -1
+dragon_god_love1
+  rotate: false
+  xy: 413, 1966
+  size: 57, 139
+  orig: 58, 142
+  offset: 0, 3
+  index: -1
+dragon_god_love2
+  rotate: true
+  xy: 1, 2300
+  size: 88, 140
+  orig: 92, 143
+  offset: 0, 3
+  index: -1
+dragon_god_love3
+  rotate: false
+  xy: 371, 346
+  size: 100, 68
+  orig: 101, 68
+  offset: 0, 0
+  index: -1
+dragon_god_love4
+  rotate: false
+  xy: 363, 2390
+  size: 108, 123
+  orig: 113, 125
+  offset: 0, 2
+  index: -1
+dragon_god_love5
+  rotate: true
+  xy: 371, 416
+  size: 85, 98
+  orig: 85, 98
+  offset: 0, 0
+  index: -1
+dragon_god_magic_circle
+  rotate: false
+  xy: 1, 1344
+  size: 247, 247
+  orig: 247, 247
+  offset: 0, 0
+  index: -1
+dragon_god_magic_circle1
+  rotate: true
+  xy: 260, 1265
+  size: 49, 200
+  orig: 49, 200
+  offset: 0, 0
+  index: -1
+dragon_god_magic_circle2
+  rotate: true
+  xy: 260, 1340
+  size: 20, 200
+  orig: 20, 200
+  offset: 0, 0
+  index: -1
+dragon_god_magic_circle3
+  rotate: true
+  xy: 260, 1316
+  size: 22, 200
+  orig: 22, 200
+  offset: 0, 0
+  index: -1
+dragon_god_magic_circle4
+  rotate: false
+  xy: 143, 2359
+  size: 137, 91
+  orig: 137, 91
+  offset: 0, 0
+  index: -1
+dragon_god_round
+  rotate: false
+  xy: 239, 1824
+  size: 188, 69
+  orig: 188, 69
+  offset: 0, 0
+  index: -1
+dragon_god_storm01
+  rotate: true
+  xy: 1, 906
+  size: 273, 300
+  orig: 273, 300
+  offset: 0, 0
+  index: -1
+dragon_god_storm02
+  rotate: true
+  xy: 389, 1
+  size: 110, 82
+  orig: 110, 82
+  offset: 0, 0
+  index: -1
+dragon_god_storm03
+  rotate: false
+  xy: 156, 2114
+  size: 80, 119
+  orig: 80, 119
+  offset: 0, 0
+  index: -1
+dragon_god_storm04
+  rotate: true
+  xy: 49, 2539
+  size: 62, 113
+  orig: 62, 113
+  offset: 0, 0
+  index: -1
+dragon_god_storm05
+  rotate: true
+  xy: 1, 2390
+  size: 77, 132
+  orig: 77, 132
+  offset: 0, 0
+  index: -1
+dragon_god_storm06
+  rotate: false
+  xy: 328, 769
+  size: 141, 149
+  orig: 141, 149
+  offset: 0, 0
+  index: -1
+dragon_god_storm07
+  rotate: false
+  xy: 1, 1724
+  size: 190, 127
+  orig: 190, 127
+  offset: 0, 0
+  index: -1
+dragon_god_storm08
+  rotate: false
+  xy: 303, 920
+  size: 168, 93
+  orig: 168, 93
+  offset: 0, 0
+  index: -1
+dragon_god_storm09
+  rotate: false
+  xy: 1, 2186
+  size: 146, 112
+  orig: 146, 112
+  offset: 0, 0
+  index: -1
+dragon_god_storm10
+  rotate: false
+  xy: 238, 2046
+  size: 148, 114
+  orig: 148, 114
+  offset: 0, 0
+  index: -1
+dragon_god_storm11
+  rotate: false
+  xy: 239, 1709
+  size: 192, 113
+  orig: 192, 113
+  offset: 0, 0
+  index: -1
+dragon_god_storm12
+  rotate: true
+  xy: 389, 113
+  size: 226, 80
+  orig: 226, 80
+  offset: 0, 0
+  index: -1
+dragon_god_storm13
+  rotate: false
+  xy: 303, 1015
+  size: 167, 122
+  orig: 167, 122
+  offset: 0, 0
+  index: -1
+dragon_god_storm14
+  rotate: true
+  xy: 303, 1139
+  size: 102, 164
+  orig: 102, 164
+  offset: 0, 0
+  index: -1
+dragon_god_storm15
+  rotate: true
+  xy: 238, 1895
+  size: 149, 173
+  orig: 149, 173
+  offset: 0, 0
+  index: -1
+dragon_god_storm16
+  rotate: false
+  xy: 1, 1853
+  size: 182, 156
+  orig: 182, 156
+  offset: 0, 0
+  index: -1
+dragon_god_storm17
+  rotate: false
+  xy: 1, 1593
+  size: 236, 129
+  orig: 236, 129
+  offset: 0, 0
+  index: -1
+dragon_god_storm18
+  rotate: true
+  xy: 371, 503
+  size: 227, 95
+  orig: 227, 95
+  offset: 0, 0
+  index: -1
+dragon_god_storm19
+  rotate: false
+  xy: 1, 2011
+  size: 170, 79
+  orig: 170, 79
+  offset: 0, 0
+  index: -1
+dragon_god_storm20
+  rotate: true
+  xy: 374, 2258
+  size: 130, 94
+  orig: 130, 94
+  offset: 0, 0
+  index: -1
+dragon_god_storm21
+  rotate: false
+  xy: 235, 2256
+  size: 137, 101
+  orig: 137, 101
+  offset: 0, 0
+  index: -1

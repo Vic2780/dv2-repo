@@ -1,0 +1,683 @@
+dragon_4109_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_valla_adult_eye3
+  rotate: false
+  xy: 867, 370
+  size: 20, 14
+  orig: 78, 70
+  offset: 25, 12
+  index: -1
+dragon_valla_effect_f_circle1
+  rotate: true
+  xy: 2, 2
+  size: 397, 56
+  orig: 397, 56
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_r_leg1_wing1
+  rotate: true
+  xy: 725, 365
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+dragon_valla_baby_eye2
+  rotate: false
+  xy: 1006, 180
+  size: 22, 22
+  orig: 80, 68
+  offset: 27, 9
+  index: -1
+dragon_valla_adult_r_leg2c
+  rotate: false
+  xy: 802, 448
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+dragon_valla_baby_body
+  rotate: false
+  xy: 753, 330
+  size: 65, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1
+dragon_valla_effect_twinkle3
+  rotate: true
+  xy: 416, 314
+  size: 80, 74
+  orig: 80, 74
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_r_leg1c
+  rotate: false
+  xy: 634, 183
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+dragon_valla_baby_mouth
+  rotate: true
+  xy: 438, 280
+  size: 32, 24
+  orig: 80, 68
+  offset: 21, 0
+  index: -1
+dragon_valla_baby_r_leg1b
+  rotate: true
+  xy: 1011, 110
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+dragon_valla_child_r_leg2a
+  rotate: false
+  xy: 841, 171
+  size: 26, 56
+  orig: 26, 56
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_l_leg2b
+  rotate: false
+  xy: 993, 252
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+dragon_valla_baby_ear
+  rotate: false
+  xy: 633, 484
+  size: 20, 24
+  orig: 80, 68
+  offset: 10, 27
+  index: -1
+dragon_valla_adult_l_leg1b
+  rotate: false
+  xy: 855, 387
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+dragon_valla_baby_neck
+  rotate: false
+  xy: 492, 320
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+dragon_valla_child_mouth
+  rotate: true
+  xy: 1011, 30
+  size: 46, 18
+  orig: 86, 68
+  offset: 10, 0
+  index: -1
+dragon_valla_child_l_hair1
+  rotate: false
+  xy: 910, 444
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_eye4
+  rotate: true
+  xy: 655, 484
+  size: 24, 14
+  orig: 78, 70
+  offset: 21, 11
+  index: -1
+dragon_valla_child_body
+  rotate: false
+  xy: 754, 226
+  size: 77, 53
+  orig: 77, 53
+  offset: 0, 0
+  index: -1
+dragon_valla_baby_r_wing
+  rotate: false
+  xy: 464, 279
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_twinkle7
+  rotate: false
+  xy: 869, 249
+  size: 122, 119
+  orig: 122, 119
+  offset: 0, 0
+  index: -1
+dragon_valla_child_tail2
+  rotate: false
+  xy: 985, 479
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_valla_baby_r_leg2a
+  rotate: true
+  xy: 572, 484
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+dragon_valla_child_face
+  rotate: false
+  xy: 666, 207
+  size: 86, 66
+  orig: 86, 68
+  offset: 0, 2
+  index: -1
+dragon_valla_adult_r_leg2b
+  rotate: false
+  xy: 993, 284
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_hair1
+  rotate: false
+  xy: 1006, 228
+  size: 22, 22
+  orig: 78, 70
+  offset: 45, 4
+  index: -1
+dragon_valla_child_l_leg1a
+  rotate: true
+  xy: 680, 183
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+dragon_love_effect_note1
+  rotate: true
+  xy: 778, 416
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_valla_effect_leaf1
+  rotate: true
+  xy: 869, 128
+  size: 119, 135
+  orig: 119, 135
+  offset: 0, 0
+  index: -1
+dragon_valla_effect_twinkle2
+  rotate: false
+  xy: 457, 207
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_r_leg1b
+  rotate: false
+  xy: 820, 329
+  size: 45, 56
+  orig: 45, 56
+  offset: 0, 0
+  index: -1
+dragon_valla_child_l_leg2c
+  rotate: false
+  xy: 944, 370
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_wing1
+  rotate: false
+  xy: 318, 396
+  size: 158, 109
+  orig: 158, 109
+  offset: 0, 0
+  index: -1
+dragon_valla_effect_circle3
+  rotate: true
+  xy: 384, 2
+  size: 203, 202
+  orig: 203, 202
+  offset: 0, 0
+  index: -1
+dragon_valla_effect_f_circle2
+  rotate: true
+  xy: 353, 2
+  size: 278, 29
+  orig: 278, 29
+  offset: 0, 0
+  index: -1
+dragon_valla_child_neck
+  rotate: false
+  xy: 901, 386
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+dragon_valla_child_wing2
+  rotate: false
+  xy: 759, 171
+  size: 80, 53
+  orig: 80, 53
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_hair5
+  rotate: true
+  xy: 993, 315
+  size: 53, 36
+  orig: 53, 36
+  offset: 0, 0
+  index: -1
+dragon_valla_child_r_leg2wing
+  rotate: true
+  xy: 911, 370
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+dragon_valla_effect_leaf2
+  rotate: true
+  xy: 588, 2
+  size: 179, 161
+  orig: 179, 161
+  offset: 0, 0
+  index: -1
+dragon_valla_child_l_leg1wing
+  rotate: true
+  xy: 1011, 16
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+dragon_valla_baby_r_leg1a
+  rotate: true
+  xy: 605, 484
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+dragon_valla_effect_twinkle7
+  rotate: false
+  xy: 869, 249
+  size: 122, 119
+  orig: 122, 119
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_r_leg2a
+  rotate: false
+  xy: 271, 314
+  size: 37, 81
+  orig: 37, 81
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_body
+  rotate: false
+  xy: 310, 314
+  size: 104, 80
+  orig: 104, 80
+  offset: 0, 0
+  index: -1
+dragon_valla_child_r_leg1wing
+  rotate: true
+  xy: 1011, 2
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+dragon_valla_baby_face
+  rotate: false
+  xy: 528, 207
+  size: 80, 68
+  orig: 80, 68
+  offset: 0, 0
+  index: -1
+dragon_valla_child_l_leg2b
+  rotate: true
+  xy: 1011, 78
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_r_leg1a
+  rotate: true
+  xy: 749, 375
+  size: 39, 62
+  orig: 39, 62
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_l_leg2_wing1
+  rotate: false
+  xy: 725, 415
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+dragon_valla_child_tail1
+  rotate: false
+  xy: 947, 441
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_l_leg2a
+  rotate: false
+  xy: 178, 314
+  size: 36, 82
+  orig: 36, 82
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_hair4
+  rotate: false
+  xy: 947, 484
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+dragon_valla_child_eye1
+  rotate: false
+  xy: 725, 347
+  size: 26, 16
+  orig: 86, 68
+  offset: 23, 14
+  index: -1
+dragon_valla_effect_twinkle5
+  rotate: true
+  xy: 869, 2
+  size: 124, 140
+  orig: 124, 140
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_l_leg1a
+  rotate: false
+  xy: 869, 445
+  size: 39, 62
+  orig: 39, 62
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_ear1
+  rotate: false
+  xy: 725, 183
+  size: 32, 22
+  orig: 78, 70
+  offset: 45, 15
+  index: -1
+dragon_valla_effect_twinkle6
+  rotate: true
+  xy: 60, 314
+  size: 83, 58
+  orig: 83, 58
+  offset: 0, 0
+  index: -1
+dragon_valla_baby_tail
+  rotate: false
+  xy: 492, 279
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_l_leg2d
+  rotate: true
+  xy: 492, 350
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_eye1
+  rotate: false
+  xy: 889, 370
+  size: 20, 14
+  orig: 78, 70
+  offset: 25, 12
+  index: -1
+dragon_valla_child_r_leg1b
+  rotate: false
+  xy: 833, 229
+  size: 34, 57
+  orig: 34, 57
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_r_leg2_wing1
+  rotate: false
+  xy: 1006, 146
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+dragon_valla_child_wing1
+  rotate: true
+  xy: 216, 314
+  size: 81, 53
+  orig: 83, 53
+  offset: 2, 0
+  index: -1
+dragon_valla_child_eye2
+  rotate: true
+  xy: 978, 449
+  size: 28, 16
+  orig: 86, 68
+  offset: 24, 14
+  index: -1
+dragon_valla_adult_tail2
+  rotate: true
+  xy: 747, 449
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+dragon_valla_effect_twinkle1
+  rotate: false
+  xy: 384, 207
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+dragon_valla_baby_heart
+  rotate: false
+  xy: 820, 288
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_r_leg2d
+  rotate: false
+  xy: 588, 183
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+dragon_valla_child_bck_hair
+  rotate: true
+  xy: 753, 281
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+dragon_valla_child_r_hair1
+  rotate: true
+  xy: 748, 416
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_mouth
+  rotate: false
+  xy: 478, 485
+  size: 44, 24
+  orig: 78, 70
+  offset: 11, 0
+  index: -1
+dragon_valla_effect_twinkle4
+  rotate: false
+  xy: 751, 2
+  size: 116, 167
+  orig: 116, 167
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_ear2
+  rotate: false
+  xy: 944, 423
+  size: 34, 16
+  orig: 78, 70
+  offset: 44, 6
+  index: -1
+dragon_valla_effect_circle1
+  rotate: false
+  xy: 60, 2
+  size: 291, 310
+  orig: 291, 310
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_neck
+  rotate: false
+  xy: 120, 314
+  size: 56, 83
+  orig: 56, 83
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_eye2
+  rotate: false
+  xy: 725, 399
+  size: 22, 14
+  orig: 78, 70
+  offset: 26, 12
+  index: -1
+dragon_valla_child_r_leg1a
+  rotate: true
+  xy: 353, 282
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+dragon_valla_child_r_leg2c
+  rotate: false
+  xy: 839, 448
+  size: 28, 58
+  orig: 28, 58
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_hair3
+  rotate: false
+  xy: 478, 396
+  size: 41, 87
+  orig: 41, 87
+  offset: 0, 0
+  index: -1
+dragon_valla_baby_l_leg1a
+  rotate: true
+  xy: 725, 449
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+dragon_valla_child_l_leg2a
+  rotate: false
+  xy: 725, 275
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+dragon_valla_child_l_leg1b
+  rotate: true
+  xy: 982, 370
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_tail1
+  rotate: false
+  xy: 2, 401
+  size: 154, 105
+  orig: 154, 105
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_face
+  rotate: false
+  xy: 610, 207
+  size: 54, 68
+  orig: 78, 70
+  offset: 0, 2
+  index: -1
+dragon_valla_adult_l_leg1_wing1
+  rotate: true
+  xy: 725, 382
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+dragon_valla_baby_l_wing
+  rotate: false
+  xy: 725, 312
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+dragon_valla_baby_r_leg2b
+  rotate: false
+  xy: 524, 484
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+dragon_valla_child_r_leg2b
+  rotate: false
+  xy: 717, 484
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_l_leg2c
+  rotate: false
+  xy: 818, 387
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+dragon_valla_baby_eye1
+  rotate: false
+  xy: 1006, 204
+  size: 22, 22
+  orig: 80, 68
+  offset: 27, 9
+  index: -1
+dragon_valla_adult_hair2
+  rotate: false
+  xy: 395, 280
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+dragon_love_effect_note2
+  rotate: true
+  xy: 982, 412
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_l_leg1c
+  rotate: false
+  xy: 671, 484
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+dragon_valla_adult_wing2
+  rotate: false
+  xy: 158, 399
+  size: 158, 109
+  orig: 158, 109
+  offset: 0, 0
+  index: -1
+dragon_valla_effect_circle2
+  rotate: true
+  xy: 521, 279
+  size: 203, 202
+  orig: 203, 202
+  offset: 0, 0
+  index: -1
+dragon_valla_effect_twinkle8
+  rotate: false
+  xy: 869, 249
+  size: 122, 119
+  orig: 122, 119
+  offset: 0, 0
+  index: -1

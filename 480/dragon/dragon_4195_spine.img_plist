@@ -1,0 +1,1411 @@
+dragon_4195_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_astate_critical06
+  rotate: false
+  xy: 706, 1320
+  size: 321, 323
+  orig: 423, 391
+  offset: 56, 63
+  index: -1
+dragon_asthate_e_feather1
+  rotate: true
+  xy: 1181, 1245
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+dragon_astate_critical07
+  rotate: false
+  xy: 1207, 2
+  size: 361, 325
+  orig: 423, 391
+  offset: 38, 60
+  index: -1
+dragon_asthate_baby_horn1
+  rotate: false
+  xy: 1178, 1139
+  size: 51, 59
+  orig: 51, 59
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_hand1
+  rotate: true
+  xy: 1108, 1699
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+dragon_asthate_baby_horn2
+  rotate: false
+  xy: 1200, 1627
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+dragon_asthate_baby_eye1
+  rotate: true
+  xy: 1227, 1200
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+dragon_asthate_baby_eye2
+  rotate: true
+  xy: 1371, 993
+  size: 45, 17
+  orig: 45, 17
+  offset: 0, 0
+  index: -1
+dragon_asthate_child_wing1_feather
+  rotate: true
+  xy: 1310, 1927
+  size: 110, 80
+  orig: 110, 80
+  offset: 0, 0
+  index: -1
+dragon_asthate_child_wing2_feather
+  rotate: true
+  xy: 1588, 1568
+  size: 93, 78
+  orig: 95, 78
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_hair4
+  rotate: false
+  xy: 1573, 1476
+  size: 87, 90
+  orig: 87, 92
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_hair2
+  rotate: false
+  xy: 1247, 1099
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_arm_r1_cloth
+  rotate: true
+  xy: 1517, 1598
+  size: 97, 69
+  orig: 97, 69
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_hair3
+  rotate: false
+  xy: 1568, 1924
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_jewel
+  rotate: false
+  xy: 1013, 1645
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_hair1
+  rotate: false
+  xy: 1650, 1741
+  size: 45, 13
+  orig: 45, 13
+  offset: 0, 0
+  index: -1
+dragon_asthate_child_tail1
+  rotate: false
+  xy: 1517, 1697
+  size: 77, 57
+  orig: 77, 57
+  offset: 0, 0
+  index: -1
+dragon_asthate_baby_arm_r
+  rotate: false
+  xy: 1165, 1661
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+dragon_asthate_child_tail2
+  rotate: true
+  xy: 1557, 1756
+  size: 98, 48
+  orig: 98, 56
+  offset: 0, 0
+  index: -1
+dragon_asthate_child_tail3
+  rotate: true
+  xy: 1178, 1200
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+dragon_asthate_baby_side1
+  rotate: false
+  xy: 706, 1154
+  size: 15, 36
+  orig: 15, 36
+  offset: 0, 0
+  index: -1
+dragon_asthate_baby_side2
+  rotate: false
+  xy: 1628, 1952
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+dragon_asthate_child_tiara
+  rotate: true
+  xy: 1230, 1270
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+dragon_asthate_child_hair
+  rotate: false
+  xy: 1109, 993
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+dragon_asthate_child_foor2
+  rotate: false
+  xy: 1675, 2
+  size: 20, 45
+  orig: 20, 45
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_tail1
+  rotate: true
+  xy: 1570, 134
+  size: 130, 100
+  orig: 130, 100
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_tail4
+  rotate: true
+  xy: 1164, 1694
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_tail2
+  rotate: true
+  xy: 1253, 1050
+  size: 47, 60
+  orig: 47, 60
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_wing_l2
+  rotate: false
+  xy: 956, 1846
+  size: 111, 191
+  orig: 111, 193
+  offset: 0, 2
+  index: -1
+dragon_asthate_adult_tail3
+  rotate: false
+  xy: 1628, 1977
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+e_dragon_astate_critical14
+  rotate: false
+  xy: 736, 672
+  size: 333, 321
+  orig: 423, 391
+  offset: 35, 42
+  index: -1
+e_dragon_astate_critical15
+  rotate: false
+  xy: 379, 658
+  size: 355, 191
+  orig: 423, 391
+  offset: 36, 82
+  index: -1
+dragon_asthate_child_head
+  rotate: true
+  xy: 1560, 1953
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+e_dragon_astate_critical12
+  rotate: false
+  xy: 2, 393
+  size: 375, 367
+  orig: 423, 391
+  offset: 11, 19
+  index: -1
+e_dragon_astate_critical13
+  rotate: false
+  xy: 2, 2
+  size: 405, 389
+  orig: 423, 391
+  offset: 0, 2
+  index: -1
+e_dragon_astate_critical10
+  rotate: false
+  xy: 409, 2
+  size: 405, 325
+  orig: 423, 391
+  offset: 3, 28
+  index: -1
+dragon_asthate_adult_arm_l2
+  rotate: true
+  xy: 1505, 1991
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+e_dragon_astate_critical11
+  rotate: false
+  xy: 2, 1105
+  size: 361, 333
+  orig: 423, 391
+  offset: 7, 36
+  index: -1
+dragon_asthate_adult_wing_l1
+  rotate: true
+  xy: 1392, 1927
+  size: 102, 75
+  orig: 102, 75
+  offset: 0, 0
+  index: -1
+dragon_asthate_child_foot1
+  rotate: false
+  xy: 684, 1796
+  size: 20, 47
+  orig: 20, 47
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_neck
+  rotate: true
+  xy: 1186, 1099
+  size: 38, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_leg_l1
+  rotate: false
+  xy: 1120, 1072
+  size: 64, 55
+  orig: 64, 55
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_body_cioth
+  rotate: true
+  xy: 1197, 1286
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+e_dragon_astate_critical18
+  rotate: false
+  xy: 309, 1796
+  size: 325, 235
+  orig: 423, 391
+  offset: 77, 82
+  index: -1
+dragon_asthate_child_neck
+  rotate: false
+  xy: 1013, 1770
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_arm_l1
+  rotate: true
+  xy: 1056, 1699
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_horn2_cloth2
+  rotate: false
+  xy: 1029, 1627
+  size: 56, 32
+  orig: 56, 32
+  offset: 0, 0
+  index: -1
+e_dragon_astate_critical16
+  rotate: true
+  xy: 1410, 329
+  size: 323, 209
+  orig: 423, 391
+  offset: 80, 82
+  index: -1
+dragon_asthate_e_horn2_cloth1
+  rotate: true
+  xy: 1013, 1825
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+e_dragon_astate_critical17
+  rotate: true
+  xy: 1410, 329
+  size: 323, 209
+  orig: 423, 391
+  offset: 80, 82
+  index: -1
+dragon_asthate_e_leg_l2
+  rotate: true
+  xy: 379, 513
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_leg_l2
+  rotate: true
+  xy: 379, 513
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_leg_l1
+  rotate: false
+  xy: 1053, 1232
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+dragon_asthate_child_feather1
+  rotate: true
+  xy: 1250, 1195
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+dragon_asthate_child_feather2
+  rotate: true
+  xy: 816, 319
+  size: 8, 23
+  orig: 8, 23
+  offset: 0, 0
+  index: -1
+dragon_astate_critical14
+  rotate: false
+  xy: 736, 672
+  size: 333, 321
+  orig: 423, 391
+  offset: 35, 42
+  index: -1
+dragon_astate_critical15
+  rotate: false
+  xy: 379, 658
+  size: 355, 191
+  orig: 423, 391
+  offset: 36, 82
+  index: -1
+dragon_astate_critical12
+  rotate: false
+  xy: 2, 393
+  size: 375, 367
+  orig: 423, 391
+  offset: 11, 19
+  index: -1
+dragon_astate_critical13
+  rotate: false
+  xy: 2, 2
+  size: 405, 389
+  orig: 423, 391
+  offset: 0, 2
+  index: -1
+dragon_asthate_child_arm_r2
+  rotate: true
+  xy: 1624, 2007
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+dragon_astate_critical10
+  rotate: false
+  xy: 377, 851
+  size: 345, 301
+  orig: 423, 391
+  offset: 7, 52
+  index: -1
+dragon_astate_critical11
+  rotate: false
+  xy: 2, 1105
+  size: 361, 333
+  orig: 423, 391
+  offset: 7, 36
+  index: -1
+dragon_asthate_child_arm_r1
+  rotate: false
+  xy: 1538, 1906
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+dragon_asthate_child_leg_r2
+  rotate: true
+  xy: 1049, 1797
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+dragon_asthate_child_leg_r1
+  rotate: true
+  xy: 1273, 1995
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_body_fur1
+  rotate: true
+  xy: 1338, 1154
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+dragon_astate_critical18
+  rotate: false
+  xy: 309, 1796
+  size: 325, 235
+  orig: 423, 391
+  offset: 77, 82
+  index: -1
+dragon_asthate_e_body_fur2
+  rotate: false
+  xy: 1675, 49
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+dragon_astate_critical16
+  rotate: true
+  xy: 1410, 329
+  size: 323, 209
+  orig: 423, 391
+  offset: 80, 82
+  index: -1
+dragon_astate_critical17
+  rotate: true
+  xy: 1410, 329
+  size: 323, 209
+  orig: 423, 391
+  offset: 80, 82
+  index: -1
+dragon_asthate_adult_body_fur1
+  rotate: false
+  xy: 1469, 1943
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_body_fur2
+  rotate: false
+  xy: 1675, 49
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_sidehair1
+  rotate: false
+  xy: 1673, 1335
+  size: 21, 44
+  orig: 21, 44
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_eye1
+  rotate: true
+  xy: 1605, 312
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+dragon_asthate_child_effect1
+  rotate: false
+  xy: 1480, 1906
+  size: 56, 35
+  orig: 58, 35
+  offset: 1, 0
+  index: -1
+dragon_asthate_e_sidehair2
+  rotate: true
+  xy: 1661, 1920
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+dragon_asthate_child_effect2
+  rotate: false
+  xy: 636, 1796
+  size: 46, 48
+  orig: 48, 48
+  offset: 1, 0
+  index: -1
+e_dragon_astate_critical04
+  rotate: false
+  xy: 365, 1477
+  size: 339, 317
+  orig: 423, 391
+  offset: 8, 69
+  index: -1
+dragon_asthate_adult_eye2
+  rotate: false
+  xy: 1285, 1139
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+e_dragon_astate_critical05
+  rotate: false
+  xy: 365, 1154
+  size: 339, 321
+  orig: 423, 391
+  offset: 9, 66
+  index: -1
+e_dragon_astate_critical02
+  rotate: true
+  xy: 2, 1773
+  size: 261, 305
+  orig: 423, 391
+  offset: 75, 81
+  index: -1
+e_dragon_astate_critical03
+  rotate: true
+  xy: 1390, 654
+  size: 279, 305
+  orig: 423, 391
+  offset: 57, 82
+  index: -1
+dragon_asthate_child_eye2
+  rotate: true
+  xy: 1053, 1760
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+e_dragon_astate_critical01
+  rotate: true
+  xy: 706, 1645
+  size: 199, 305
+  orig: 423, 391
+  offset: 80, 81
+  index: -1
+dragon_asthate_e_arm_r2
+  rotate: false
+  xy: 379, 562
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_effect2
+  rotate: true
+  xy: 379, 609
+  size: 40, 28
+  orig: 42, 28
+  offset: 1, 0
+  index: -1
+dragon_asthate_e_arm_r1
+  rotate: true
+  xy: 1469, 1991
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_arm_gold
+  rotate: true
+  xy: 1598, 1996
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_effect1
+  rotate: false
+  xy: 1105, 1995
+  size: 70, 41
+  orig: 70, 41
+  offset: 0, 0
+  index: -1
+dragon_asthate_baby_body_fur
+  rotate: false
+  xy: 1660, 1994
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_effect3
+  rotate: false
+  xy: 1120, 1187
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+dragon_asthate_child_eye1
+  rotate: true
+  xy: 1675, 90
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+e_dragon_astate_critical08
+  rotate: false
+  xy: 2, 762
+  size: 373, 341
+  orig: 423, 391
+  offset: 26, 45
+  index: -1
+e_dragon_astate_critical09
+  rotate: false
+  xy: 816, 2
+  size: 389, 315
+  orig: 423, 391
+  offset: 8, 36
+  index: -1
+e_dragon_astate_critical06
+  rotate: false
+  xy: 724, 995
+  size: 327, 323
+  orig: 423, 391
+  offset: 50, 63
+  index: -1
+e_dragon_astate_critical07
+  rotate: false
+  xy: 2, 1440
+  size: 361, 331
+  orig: 423, 391
+  offset: 38, 54
+  index: -1
+dragon_asthate_baby_tail
+  rotate: false
+  xy: 1056, 1661
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_neck
+  rotate: true
+  xy: 1120, 1245
+  size: 39, 59
+  orig: 39, 59
+  offset: 0, 0
+  index: -1
+dragon_asthate_child_hand1
+  rotate: true
+  xy: 1145, 1723
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_sidehair1
+  rotate: true
+  xy: 309, 1773
+  size: 21, 45
+  orig: 21, 45
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_foot1
+  rotate: true
+  xy: 1131, 1286
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+dragon_asthate_child_hand2
+  rotate: false
+  xy: 1168, 1717
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_horn2
+  rotate: false
+  xy: 1191, 993
+  size: 93, 55
+  orig: 93, 55
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_wing_r1
+  rotate: false
+  xy: 1543, 1399
+  size: 144, 75
+  orig: 144, 75
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_wing_r2
+  rotate: false
+  xy: 636, 1846
+  size: 158, 191
+  orig: 158, 193
+  offset: 0, 2
+  index: -1
+dragon_asthate_adult_sidehair2
+  rotate: true
+  xy: 1523, 1943
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_foot2
+  rotate: false
+  xy: 1013, 1661
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_wing_frame2
+  rotate: false
+  xy: 1286, 993
+  size: 83, 55
+  orig: 83, 55
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_horn1
+  rotate: true
+  xy: 1621, 385
+  size: 113, 66
+  orig: 113, 66
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_ring1
+  rotate: false
+  xy: 1668, 1595
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_wing_frame1
+  rotate: true
+  xy: 1621, 500
+  size: 118, 56
+  orig: 120, 56
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_ring2
+  rotate: false
+  xy: 1605, 266
+  size: 14, 44
+  orig: 14, 44
+  offset: 0, 0
+  index: -1
+dragon_asthate_baby_head
+  rotate: true
+  xy: 1285, 1154
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+dragon_asthate_baby_feather2
+  rotate: false
+  xy: 365, 1105
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_head2
+  rotate: true
+  xy: 1087, 1627
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_body
+  rotate: false
+  xy: 1596, 1663
+  size: 52, 91
+  orig: 52, 91
+  offset: 0, 0
+  index: -1
+dragon_asthate_baby_feather1
+  rotate: false
+  xy: 706, 1192
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_eye2
+  rotate: false
+  xy: 1373, 1085
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_head1
+  rotate: true
+  xy: 1144, 1627
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+dragon_asthate_child_body
+  rotate: true
+  xy: 1607, 1874
+  size: 44, 64
+  orig: 44, 64
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_effect6
+  rotate: false
+  xy: 1120, 1726
+  size: 23, 27
+  orig: 25, 29
+  offset: 1, 1
+  index: -1
+dragon_asthate_e_effect7
+  rotate: true
+  xy: 1650, 1663
+  size: 76, 45
+  orig: 78, 45
+  offset: 1, 0
+  index: -1
+dragon_asthate_e_eye1
+  rotate: true
+  xy: 1573, 1568
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_effect8
+  rotate: false
+  xy: 1211, 1995
+  size: 60, 38
+  orig: 62, 40
+  offset: 1, 1
+  index: -1
+dragon_asthate_child_wing1_frame
+  rotate: false
+  xy: 1053, 1289
+  size: 76, 29
+  orig: 76, 29
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_effect9
+  rotate: false
+  xy: 1120, 1129
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_effect2
+  rotate: false
+  xy: 1544, 1996
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+dragon_asthate_baby_body
+  rotate: false
+  xy: 1662, 1476
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_effect3
+  rotate: false
+  xy: 706, 1217
+  size: 15, 15
+  orig: 17, 15
+  offset: 1, 0
+  index: -1
+dragon_asthate_e_effect4
+  rotate: true
+  xy: 1662, 1519
+  size: 32, 33
+  orig: 34, 35
+  offset: 1, 1
+  index: -1
+dragon_asthate_e_effect5
+  rotate: true
+  xy: 1098, 1726
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_head1
+  rotate: false
+  xy: 1177, 1995
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_effect1
+  rotate: false
+  xy: 1230, 1244
+  size: 18, 24
+  orig: 18, 26
+  offset: 0, 1
+  index: -1
+dragon_asthate_e_tail4
+  rotate: true
+  xy: 1164, 1694
+  size: 21, 33
+  orig: 21, 33
+  offset: 0, 0
+  index: -1
+dragon_asthate_baby_love_effect
+  rotate: false
+  xy: 1310, 1760
+  size: 168, 165
+  orig: 168, 165
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_jewel
+  rotate: false
+  xy: 1013, 1645
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_tail2
+  rotate: true
+  xy: 1191, 1050
+  size: 47, 60
+  orig: 47, 60
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_head2
+  rotate: true
+  xy: 1053, 1726
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_tail3
+  rotate: false
+  xy: 1628, 1977
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_body_gold
+  rotate: false
+  xy: 1661, 1965
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_tail1
+  rotate: true
+  xy: 1570, 2
+  size: 130, 103
+  orig: 130, 103
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_love_effect
+  rotate: false
+  xy: 1250, 1208
+  size: 291, 288
+  orig: 291, 290
+  offset: 0, 1
+  index: -1
+dragon_asthate_e_foot2
+  rotate: true
+  xy: 1303, 1099
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+dragon_asthate_child_body_fur
+  rotate: false
+  xy: 1200, 1670
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_foot1
+  rotate: true
+  xy: 1621, 620
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+dragon_asthate_child_love_effect
+  rotate: false
+  xy: 1069, 1760
+  size: 239, 233
+  orig: 239, 233
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_ring2
+  rotate: false
+  xy: 1373, 1040
+  size: 15, 43
+  orig: 15, 43
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_body
+  rotate: false
+  xy: 1596, 1663
+  size: 52, 91
+  orig: 52, 91
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_ring1
+  rotate: false
+  xy: 1668, 1553
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+dragon_asthate_child_arm_l2
+  rotate: false
+  xy: 1673, 1255
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+dragon_asthate_child_arm_l1
+  rotate: false
+  xy: 1136, 1693
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+dragon_asthate_child_leg_l2
+  rotate: false
+  xy: 1543, 1476
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+dragon_asthate_child_leg_l1
+  rotate: true
+  xy: 1609, 1920
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_hand1
+  rotate: true
+  xy: 1108, 1699
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_hand2
+  rotate: true
+  xy: 1605, 1965
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_feather1
+  rotate: true
+  xy: 1557, 1856
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_arm_l2_gold
+  rotate: true
+  xy: 1673, 1295
+  size: 38, 22
+  orig: 38, 22
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_feather2
+  rotate: false
+  xy: 1672, 134
+  size: 23, 60
+  orig: 23, 60
+  offset: 0, 0
+  index: -1
+dragon_asthate_baby_arm_l2
+  rotate: true
+  xy: 1673, 1381
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_arm_l2
+  rotate: true
+  xy: 1505, 1991
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+dragon_asthate_baby_arm_l1
+  rotate: true
+  xy: 1168, 1739
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_arm_l1
+  rotate: false
+  xy: 379, 460
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+dragon_asthate_baby_leg1
+  rotate: true
+  xy: 1568, 1897
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_arm_l1_cloth
+  rotate: false
+  xy: 1607, 1810
+  size: 87, 62
+  orig: 87, 62
+  offset: 0, 0
+  index: -1
+dragon_asthate_baby_leg2
+  rotate: false
+  xy: 1673, 1208
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_wing_r2
+  rotate: false
+  xy: 796, 1846
+  size: 158, 191
+  orig: 158, 193
+  offset: 0, 2
+  index: -1
+dragon_asthate_adult_horn1
+  rotate: true
+  xy: 1517, 1498
+  size: 98, 54
+  orig: 98, 54
+  offset: 0, 0
+  index: -1
+dragon_asthate_child_sidehair1
+  rotate: false
+  xy: 1570, 1996
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_horn2
+  rotate: false
+  xy: 1607, 1756
+  size: 88, 52
+  orig: 88, 52
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_wing_frame2
+  rotate: true
+  xy: 1053, 995
+  size: 95, 54
+  orig: 95, 54
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_love_effect
+  rotate: false
+  xy: 1250, 1498
+  size: 265, 260
+  orig: 267, 260
+  offset: 1, 0
+  index: -1
+dragon_asthate_child_sidehair2
+  rotate: true
+  xy: 1673, 1874
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_wing_l1
+  rotate: true
+  xy: 1621, 266
+  size: 117, 74
+  orig: 117, 74
+  offset: 0, 0
+  index: -1
+dragon_asthate_baby_hair
+  rotate: false
+  xy: 1315, 1050
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_wing_frame1
+  rotate: true
+  xy: 1621, 500
+  size: 118, 56
+  orig: 120, 56
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_wing_l2
+  rotate: false
+  xy: 1543, 1208
+  size: 128, 189
+  orig: 128, 191
+  offset: 0, 2
+  index: -1
+dragon_asthate_adult_hair1
+  rotate: false
+  xy: 1650, 1741
+  size: 45, 13
+  orig: 45, 13
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_wing_r1
+  rotate: true
+  xy: 1480, 1760
+  size: 144, 75
+  orig: 144, 75
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_arm_r2
+  rotate: false
+  xy: 379, 562
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+dragon_asthate_baby_wing1
+  rotate: false
+  xy: 1110, 1661
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+dragon_astate_critical04
+  rotate: true
+  xy: 1071, 652
+  size: 339, 317
+  orig: 423, 391
+  offset: 8, 69
+  index: -1
+dragon_asthate_adult_hair4
+  rotate: false
+  xy: 1573, 1476
+  size: 87, 90
+  orig: 87, 92
+  offset: 0, 0
+  index: -1
+dragon_astate_critical05
+  rotate: false
+  xy: 1069, 329
+  size: 339, 321
+  orig: 423, 391
+  offset: 8, 66
+  index: -1
+dragon_asthate_baby_wing2
+  rotate: true
+  xy: 1358, 1099
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+dragon_astate_critical02
+  rotate: false
+  xy: 1029, 1320
+  size: 219, 305
+  orig: 423, 391
+  offset: 81, 81
+  index: -1
+dragon_asthate_child_wing2 _frame
+  rotate: true
+  xy: 379, 393
+  size: 65, 28
+  orig: 65, 28
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_hair2
+  rotate: false
+  xy: 1247, 1099
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1
+dragon_astate_critical03
+  rotate: true
+  xy: 1390, 935
+  size: 271, 305
+  orig: 423, 391
+  offset: 57, 82
+  index: -1
+dragon_astate_critical01
+  rotate: true
+  xy: 706, 1645
+  size: 199, 305
+  orig: 423, 391
+  offset: 80, 81
+  index: -1
+dragon_asthate_adult_hair3
+  rotate: false
+  xy: 1568, 1924
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_horn1_cloth2
+  rotate: true
+  xy: 1570, 266
+  size: 61, 33
+  orig: 61, 33
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_leg_r1
+  rotate: true
+  xy: 1053, 1162
+  size: 68, 65
+  orig: 68, 65
+  offset: 0, 0
+  index: -1
+dragon_asthate_child_horn1
+  rotate: false
+  xy: 1231, 1139
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_horn1_cloth1
+  rotate: false
+  xy: 1668, 1637
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+dragon_asthate_adult_arm_r1
+  rotate: true
+  xy: 1069, 1995
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+dragon_asthate_child_horn2
+  rotate: true
+  xy: 1013, 1716
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+dragon_astate_critical08
+  rotate: false
+  xy: 409, 329
+  size: 361, 327
+  orig: 423, 391
+  offset: 38, 58
+  index: -1
+dragon_astate_critical09
+  rotate: true
+  xy: 772, 329
+  size: 341, 295
+  orig: 423, 391
+  offset: 8, 55
+  index: -1
+dragon_asthate_e_feather2
+  rotate: false
+  xy: 1672, 196
+  size: 23, 59
+  orig: 23, 59
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_hand2
+  rotate: true
+  xy: 1605, 1965
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+dragon_asthate_e_leg_r1
+  rotate: true
+  xy: 1053, 1092
+  size: 68, 65
+  orig: 68, 65
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,123 @@
+strawhat_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+summer_a1
+  rotate: false
+  xy: 2, 2
+  size: 174, 156
+  orig: 192, 192
+  offset: 10, 21
+  index: -1
+summer_a2
+  rotate: false
+  xy: 182, 160
+  size: 176, 158
+  orig: 192, 192
+  offset: 10, 20
+  index: -1
+summer_a3
+  rotate: false
+  xy: 2, 160
+  size: 178, 158
+  orig: 192, 192
+  offset: 9, 19
+  index: -1
+summer_a4
+  rotate: false
+  xy: 718, 162
+  size: 180, 158
+  orig: 192, 192
+  offset: 8, 19
+  index: -1
+summer_a5
+  rotate: false
+  xy: 538, 2
+  size: 182, 158
+  orig: 192, 192
+  offset: 7, 19
+  index: -1
+summer_a16
+  rotate: false
+  xy: 358, 2
+  size: 178, 156
+  orig: 192, 192
+  offset: 11, 21
+  index: -1
+summer_a6
+  rotate: false
+  xy: 1270, 162
+  size: 184, 158
+  orig: 192, 192
+  offset: 5, 20
+  index: -1
+summer_a7
+  rotate: false
+  xy: 1084, 162
+  size: 184, 158
+  orig: 192, 192
+  offset: 5, 20
+  index: -1
+summer_a8
+  rotate: false
+  xy: 1244, 2
+  size: 176, 158
+  orig: 192, 192
+  offset: 4, 20
+  index: -1
+summer_a14
+  rotate: false
+  xy: 360, 160
+  size: 176, 158
+  orig: 192, 192
+  offset: 12, 20
+  index: -1
+summer_a17
+  rotate: false
+  xy: 894, 2
+  size: 172, 158
+  orig: 192, 192
+  offset: 11, 20
+  index: -1
+summer_a9
+  rotate: false
+  xy: 178, 2
+  size: 178, 156
+  orig: 192, 192
+  offset: 5, 21
+  index: -1
+summer_a12
+  rotate: false
+  xy: 1422, 2
+  size: 172, 158
+  orig: 192, 192
+  offset: 15, 19
+  index: -1
+summer_a15
+  rotate: false
+  xy: 538, 162
+  size: 178, 158
+  orig: 192, 192
+  offset: 11, 20
+  index: -1
+summer_a10
+  rotate: false
+  xy: 900, 162
+  size: 182, 158
+  orig: 192, 192
+  offset: 4, 20
+  index: -1
+summer_a13
+  rotate: false
+  xy: 1068, 2
+  size: 174, 158
+  orig: 192, 192
+  offset: 13, 19
+  index: -1
+summer_a11
+  rotate: false
+  xy: 722, 2
+  size: 170, 158
+  orig: 192, 192
+  offset: 16, 20
+  index: -1

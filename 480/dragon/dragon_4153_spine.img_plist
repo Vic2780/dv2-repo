@@ -1,0 +1,1978 @@
+dragon_4153_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_4153_critical_marble06
+  rotate: false
+  xy: 750, 1514
+  size: 89, 82
+  orig: 91, 84
+  offset: 1, 1
+  index: -1
+dragon_mithra_child_circle_b4
+  rotate: false
+  xy: 858, 1960
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+dragon_4153_critical22
+  rotate: false
+  xy: 606, 352
+  size: 300, 168
+  orig: 300, 190
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_circle_p3
+  rotate: false
+  xy: 276, 1638
+  size: 90, 82
+  orig: 90, 86
+  offset: 0, 4
+  index: -1
+dragon_mithra_child_r_wing_twinkle_a2
+  rotate: false
+  xy: 652, 1667
+  size: 84, 48
+  orig: 86, 50
+  offset: 1, 1
+  index: -1
+dragon_mithra_baby_neck
+  rotate: false
+  xy: 1044, 1898
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_tail1_hair
+  rotate: false
+  xy: 498, 1260
+  size: 110, 58
+  orig: 110, 58
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_atteye
+  rotate: true
+  xy: 294, 1326
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_circle3_a1
+  rotate: true
+  xy: 2, 1920
+  size: 117, 54
+  orig: 119, 56
+  offset: 1, 1
+  index: -1
+dragon_mithra_child_l_wing_twinkle_b7
+  rotate: false
+  xy: 712, 2000
+  size: 21, 42
+  orig: 21, 44
+  offset: 0, 1
+  index: -1
+dragon_mithra_baby_l_wing_twinkle_b3
+  rotate: true
+  xy: 633, 1896
+  size: 35, 18
+  orig: 37, 20
+  offset: 1, 1
+  index: -1
+dragon_mithra_child_r_leg1
+  rotate: false
+  xy: 792, 1890
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+dragon_4153_critical_marble20
+  rotate: false
+  xy: 498, 1320
+  size: 89, 82
+  orig: 91, 84
+  offset: 1, 1
+  index: -1
+dragon_mithra_baby_r_wing_twinkle_b8
+  rotate: false
+  xy: 989, 1958
+  size: 24, 24
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_r_leg4
+  rotate: false
+  xy: 857, 1262
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_circle_a
+  rotate: false
+  xy: 1003, 1603
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_l_wing1
+  rotate: false
+  xy: 124, 1326
+  size: 71, 145
+  orig: 71, 145
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_l_wing_twinkle_a2
+  rotate: true
+  xy: 689, 2000
+  size: 44, 21
+  orig: 46, 23
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_r_wing_twinkle_b8
+  rotate: true
+  xy: 441, 1753
+  size: 47, 75
+  orig: 49, 77
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_l_leg2
+  rotate: false
+  xy: 700, 1889
+  size: 40, 17
+  orig: 40, 17
+  offset: 0, 0
+  index: -1
+dragon_4153_critical_marble01
+  rotate: false
+  xy: 839, 1598
+  size: 89, 82
+  orig: 91, 84
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_circle_a
+  rotate: false
+  xy: 830, 1890
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_l_leg1
+  rotate: false
+  xy: 451, 1660
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_l_wing_twinkle_b5
+  rotate: false
+  xy: 299, 1978
+  size: 52, 63
+  orig: 54, 65
+  offset: 1, 1
+  index: -1
+dragon_mithra_child_l_wing_twinkle_b8
+  rotate: false
+  xy: 518, 1753
+  size: 16, 40
+  orig: 16, 42
+  offset: 0, 1
+  index: -1
+dragon_mithra_adult_circle_b2
+  rotate: false
+  xy: 1037, 2003
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_4153_critical_marble23
+  rotate: true
+  xy: 237, 1819
+  size: 89, 82
+  orig: 91, 84
+  offset: 1, 1
+  index: -1
+dragon_mithra_child_neck_hair
+  rotate: false
+  xy: 552, 1879
+  size: 35, 58
+  orig: 35, 58
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_r_wing2
+  rotate: true
+  xy: 606, 1140
+  size: 113, 266
+  orig: 113, 266
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_r_wing_twinkle_b1
+  rotate: true
+  xy: 1010, 1482
+  size: 66, 50
+  orig: 68, 52
+  offset: 1, 1
+  index: -1
+dragon_mithra_child_closeeye
+  rotate: true
+  xy: 387, 2032
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_l_leg1
+  rotate: true
+  xy: 887, 1899
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+dragon_4153_critical05
+  rotate: false
+  xy: 304, 192
+  size: 300, 182
+  orig: 300, 190
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_r_leg2
+  rotate: false
+  xy: 760, 1975
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_circle2_a2
+  rotate: true
+  xy: 74, 1665
+  size: 115, 35
+  orig: 117, 37
+  offset: 1, 1
+  index: -1
+dragon_4153_critical_marble04
+  rotate: false
+  xy: 816, 1346
+  size: 89, 82
+  orig: 91, 84
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_l_wing_twinkle_b7
+  rotate: false
+  xy: 405, 1804
+  size: 49, 85
+  orig: 51, 85
+  offset: 1, 0
+  index: -1
+dragon_4153_critical10
+  rotate: false
+  xy: 2, 1042
+  size: 300, 152
+  orig: 300, 190
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_r_wing_twinkle_b1
+  rotate: false
+  xy: 955, 1988
+  size: 33, 15
+  orig: 35, 17
+  offset: 1, 1
+  index: -1
+dragon_mithra_child_l_wing_twinkle_b1
+  rotate: false
+  xy: 1003, 1736
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_l_arm2
+  rotate: false
+  xy: 372, 2032
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_r_wing_twinkle_a3
+  rotate: true
+  xy: 193, 1633
+  size: 93, 81
+  orig: 95, 83
+  offset: 1, 1
+  index: -1
+dragon_mithra_child_head_tail2
+  rotate: false
+  xy: 889, 1957
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_r_wing_twinkle_a2
+  rotate: false
+  xy: 647, 1975
+  size: 44, 21
+  orig: 46, 23
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_r_wing_twinkle_b2
+  rotate: true
+  xy: 299, 1910
+  size: 66, 52
+  orig: 68, 54
+  offset: 1, 1
+  index: -1
+dragon_mithra_baby_mouth
+  rotate: true
+  xy: 930, 1662
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_tail2
+  rotate: true
+  xy: 932, 1595
+  size: 65, 67
+  orig: 65, 67
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_r_wing
+  rotate: true
+  xy: 680, 1388
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+dragon_4153_critical_marble17
+  rotate: false
+  xy: 498, 1404
+  size: 89, 82
+  orig: 91, 84
+  offset: 1, 1
+  index: -1
+dragon_mithra_child_l_arm2
+  rotate: true
+  xy: 1015, 1988
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_l_wing_twinkle_b8
+  rotate: true
+  xy: 728, 1731
+  size: 35, 77
+  orig: 37, 77
+  offset: 1, 0
+  index: -1
+dragon_mithra_adult_circle_p2
+  rotate: false
+  xy: 653, 1824
+  size: 47, 50
+  orig: 47, 52
+  offset: 0, 1
+  index: -1
+dragon_4153_critical13
+  rotate: false
+  xy: 606, 832
+  size: 300, 152
+  orig: 300, 190
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_l_wing_twinkle_a3
+  rotate: true
+  xy: 1003, 1792
+  size: 29, 57
+  orig: 29, 57
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_r_wing
+  rotate: true
+  xy: 111, 1635
+  size: 98, 80
+  orig: 98, 80
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_circlel_light2
+  rotate: false
+  xy: 460, 1878
+  size: 59, 59
+  orig: 61, 61
+  offset: 1, 1
+  index: -1
+dragon_mithra_baby_l_wing_twinkle_b7
+  rotate: false
+  xy: 850, 1861
+  size: 35, 27
+  orig: 37, 29
+  offset: 1, 1
+  index: -1
+dragon_mithra_child_r_wing_twinkle_b3
+  rotate: true
+  xy: 702, 1770
+  size: 64, 29
+  orig: 66, 31
+  offset: 1, 1
+  index: -1
+dragon_mithra_baby_circle_b3
+  rotate: true
+  xy: 826, 1924
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_r_wing_twinkle_b4
+  rotate: false
+  xy: 368, 1638
+  size: 35, 20
+  orig: 37, 22
+  offset: 1, 2
+  index: -1
+dragon_mithra_child_l_wing_twinkle_b2
+  rotate: false
+  xy: 783, 1768
+  size: 22, 33
+  orig: 22, 35
+  offset: 0, 2
+  index: -1
+dragon_mithra_adult_r_wing1
+  rotate: false
+  xy: 2, 1326
+  size: 120, 174
+  orig: 120, 174
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_r_arm3
+  rotate: false
+  xy: 965, 1899
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_l_wing_twinkle_a6
+  rotate: true
+  xy: 536, 1730
+  size: 43, 28
+  orig: 45, 30
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_r_wing_twinkle_a4
+  rotate: false
+  xy: 197, 1415
+  size: 95, 85
+  orig: 95, 87
+  offset: 0, 1
+  index: -1
+dragon_4153_critical06
+  rotate: false
+  xy: 2, 384
+  size: 300, 184
+  orig: 300, 190
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_l_arm1
+  rotate: true
+  xy: 739, 1908
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_body3
+  rotate: true
+  xy: 223, 2026
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+dragon_4153_critical19
+  rotate: true
+  xy: 908, 304
+  size: 300, 152
+  orig: 300, 190
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_circle_p4
+  rotate: true
+  xy: 2, 1502
+  size: 161, 97
+  orig: 175, 113
+  offset: 8, 13
+  index: -1
+dragon_mithra_child_r_wing_twinkle_a5
+  rotate: true
+  xy: 1010, 1396
+  size: 84, 50
+  orig: 86, 52
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_l_wing_twinkle_b1
+  rotate: false
+  xy: 743, 1820
+  size: 48, 50
+  orig: 50, 52
+  offset: 1, 1
+  index: -1
+dragon_mithra_child_circle3_a2
+  rotate: false
+  xy: 725, 1296
+  size: 104, 48
+  orig: 106, 50
+  offset: 1, 1
+  index: -1
+dragon_mithra_child_l_wing_twinkle_a4
+  rotate: true
+  xy: 887, 1839
+  size: 29, 55
+  orig: 29, 57
+  offset: 0, 1
+  index: -1
+dragon_mithra_baby_l_wing_twinkle_b4
+  rotate: true
+  xy: 791, 2009
+  size: 35, 20
+  orig: 37, 22
+  offset: 1, 2
+  index: -1
+dragon_mithra_adult_r_wing_twinkle_a6
+  rotate: false
+  xy: 148, 1819
+  size: 87, 88
+  orig: 89, 90
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_circle
+  rotate: false
+  xy: 792, 1923
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_circle_b4
+  rotate: false
+  xy: 825, 1957
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_body_hair
+  rotate: false
+  xy: 258, 1973
+  size: 39, 67
+  orig: 39, 67
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_l_wing2
+  rotate: true
+  xy: 304, 1260
+  size: 53, 192
+  orig: 53, 192
+  offset: 0, 0
+  index: -1
+dragon_4153_critical01
+  rotate: false
+  xy: 304, 1000
+  size: 300, 150
+  orig: 300, 190
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_r_wing_twinkle_a7
+  rotate: false
+  xy: 566, 1717
+  size: 79, 51
+  orig: 81, 53
+  offset: 1, 1
+  index: -1
+dragon_4153_critical_marble00
+  rotate: false
+  xy: 907, 1346
+  size: 89, 82
+  orig: 91, 84
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_l_wing_twinkle_a3
+  rotate: false
+  xy: 370, 1721
+  size: 69, 81
+  orig: 71, 83
+  offset: 1, 1
+  index: -1
+dragon_mithra_child_l_wing_twinkle_a6
+  rotate: true
+  xy: 793, 1861
+  size: 27, 55
+  orig: 27, 57
+  offset: 0, 2
+  index: -1
+dragon_mithra_adult_dameye
+  rotate: true
+  xy: 101, 1635
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_r_wing_twinkle_b8
+  rotate: false
+  xy: 647, 1934
+  size: 43, 39
+  orig: 45, 41
+  offset: 1, 1
+  index: -1
+dragon_4153_critical_marble15
+  rotate: false
+  xy: 386, 1456
+  size: 89, 82
+  orig: 91, 84
+  offset: 1, 1
+  index: -1
+dragon_mithra_baby_circle
+  rotate: false
+  xy: 236, 1910
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_l_wing_twinkle_b2
+  rotate: false
+  xy: 651, 1770
+  size: 49, 52
+  orig: 51, 54
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_tail2_hair
+  rotate: false
+  xy: 405, 1624
+  size: 68, 34
+  orig: 68, 34
+  offset: 0, 0
+  index: -1
+dragon_4153_critical_marble22
+  rotate: true
+  xy: 286, 1722
+  size: 89, 82
+  orig: 91, 84
+  offset: 1, 1
+  index: -1
+dragon_mithra_baby_circle_p3
+  rotate: true
+  xy: 101, 1538
+  size: 95, 86
+  orig: 95, 88
+  offset: 0, 2
+  index: -1
+dragon_mithra_baby_loveeye
+  rotate: false
+  xy: 725, 1430
+  size: 25, 7
+  orig: 25, 7
+  offset: 0, 0
+  index: -1
+dragon_4153_critical04
+  rotate: false
+  xy: 606, 2
+  size: 300, 174
+  orig: 300, 190
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_r_arm2
+  rotate: true
+  xy: 1047, 1930
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+dragon_4153_critical_marble03
+  rotate: false
+  xy: 845, 1430
+  size: 89, 82
+  orig: 91, 84
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_l_wing_twinkle_a4
+  rotate: false
+  xy: 936, 1430
+  size: 69, 85
+  orig: 71, 87
+  offset: 1, 1
+  index: -1
+dragon_mithra_child_head_tail2_hair
+  rotate: true
+  xy: 892, 1988
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_circle2
+  rotate: false
+  xy: 411, 1953
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_circle_light
+  rotate: false
+  xy: 807, 1736
+  size: 73, 73
+  orig: 75, 75
+  offset: 1, 1
+  index: -1
+dragon_mithra_baby_r_wing_twinkle_a5
+  rotate: true
+  xy: 530, 1999
+  size: 45, 27
+  orig: 47, 29
+  offset: 1, 1
+  index: -1
+dragon_4153_critical_marble09
+  rotate: false
+  xy: 659, 1499
+  size: 89, 82
+  orig: 91, 84
+  offset: 1, 1
+  index: -1
+dragon_mithra_child_circle_b5
+  rotate: false
+  xy: 923, 1957
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_l_wing_twinkle_a6
+  rotate: true
+  xy: 292, 1509
+  size: 65, 90
+  orig: 67, 90
+  offset: 1, 0
+  index: -1
+dragon_4153_critical25
+  rotate: false
+  xy: 2, 1196
+  size: 300, 128
+  orig: 300, 190
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_neck_hair
+  rotate: false
+  xy: 733, 1768
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_r_wing_twinkle_a1
+  rotate: false
+  xy: 831, 1296
+  size: 81, 48
+  orig: 83, 50
+  offset: 1, 1
+  index: -1
+dragon_4153_critical_marble16
+  rotate: false
+  xy: 589, 1415
+  size: 89, 82
+  orig: 91, 84
+  offset: 1, 1
+  index: -1
+dragon_mithra_baby_circle_a1
+  rotate: false
+  xy: 58, 1971
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+dragon_4153_critical12
+  rotate: true
+  xy: 908, 908
+  size: 300, 152
+  orig: 300, 190
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_l_wing_twinkle_b8
+  rotate: false
+  xy: 1031, 1958
+  size: 24, 24
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+dragon_mithra_child_r_wing_twinkle_b2
+  rotate: false
+  xy: 591, 1867
+  size: 60, 27
+  orig: 62, 29
+  offset: 1, 1
+  index: -1
+dragon_mithra_baby_r_wing_twinkle_b7
+  rotate: false
+  xy: 74, 1782
+  size: 35, 27
+  orig: 37, 29
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_r_leg3
+  rotate: false
+  xy: 387, 1345
+  size: 20, 53
+  orig: 20, 53
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_r_arm2
+  rotate: true
+  xy: 864, 1890
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_l_wing_twinkle_a3
+  rotate: false
+  xy: 653, 1876
+  size: 45, 24
+  orig: 47, 26
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_circle3_a2
+  rotate: false
+  xy: 702, 1836
+  size: 39, 51
+  orig: 41, 51
+  offset: 1, 0
+  index: -1
+dragon_mithra_baby_r_wing_twinkle_a8
+  rotate: false
+  xy: 699, 1908
+  size: 38, 29
+  orig: 40, 31
+  offset: 1, 1
+  index: -1
+dragon_mithra_child_l_wing
+  rotate: true
+  xy: 610, 1296
+  size: 33, 113
+  orig: 33, 113
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_neck_hair2
+  rotate: true
+  xy: 831, 1990
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_head
+  rotate: false
+  xy: 353, 1970
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_l_leg1
+  rotate: false
+  xy: 909, 1682
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_circle_b2
+  rotate: false
+  xy: 954, 2005
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_l_leg2
+  rotate: false
+  xy: 919, 1988
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+dragon_4153_critical18
+  rotate: true
+  xy: 908, 606
+  size: 300, 152
+  orig: 300, 190
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_r_wing_twinkle_a4
+  rotate: false
+  xy: 566, 1667
+  size: 84, 48
+  orig: 86, 50
+  offset: 1, 1
+  index: -1
+dragon_4153_critical_marble11
+  rotate: false
+  xy: 475, 1572
+  size: 89, 82
+  orig: 91, 84
+  offset: 1, 1
+  index: -1
+dragon_mithra_baby_circle_a2
+  rotate: false
+  xy: 793, 1811
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_head_hair
+  rotate: true
+  xy: 874, 1216
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_loveeye
+  rotate: true
+  xy: 59, 1801
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_l_wing_twinkle_b1
+  rotate: false
+  xy: 993, 1916
+  size: 33, 15
+  orig: 35, 17
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_circle_b5
+  rotate: false
+  xy: 1037, 1984
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_neck
+  rotate: false
+  xy: 606, 1939
+  size: 39, 56
+  orig: 39, 56
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_circle2
+  rotate: false
+  xy: 122, 1971
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_r_arm1
+  rotate: false
+  xy: 1022, 1933
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+dragon_4153_critical00
+  rotate: false
+  xy: 304, 698
+  size: 300, 146
+  orig: 300, 190
+  offset: 0, 0
+  index: -1
+dragon_4153_critical26
+  rotate: false
+  xy: 304, 1152
+  size: 300, 106
+  orig: 300, 190
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_circle2_a1
+  rotate: false
+  xy: 610, 1255
+  size: 130, 39
+  orig: 132, 41
+  offset: 1, 1
+  index: -1
+dragon_mithra_child_r_wing_twinkle_a6
+  rotate: false
+  xy: 647, 1717
+  size: 79, 51
+  orig: 81, 53
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_l_leg4
+  rotate: false
+  xy: 644, 1998
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+dragon_4153_critical_marble14
+  rotate: false
+  xy: 384, 1540
+  size: 89, 82
+  orig: 91, 84
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_circle3_a1
+  rotate: false
+  xy: 680, 1331
+  size: 43, 55
+  orig: 45, 57
+  offset: 1, 1
+  index: -1
+dragon_mithra_baby_r_wing_twinkle_a1
+  rotate: true
+  xy: 387, 1400
+  size: 37, 20
+  orig: 39, 22
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_r_wing_twinkle_b3
+  rotate: false
+  xy: 59, 1909
+  size: 70, 60
+  orig: 72, 62
+  offset: 1, 2
+  index: -1
+dragon_mithra_child_l_leg3
+  rotate: true
+  xy: 477, 1456
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_circle_b1
+  rotate: false
+  xy: 993, 1885
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+dragon_4153_critical03
+  rotate: false
+  xy: 2, 570
+  size: 300, 162
+  orig: 300, 190
+  offset: 0, 0
+  index: -1
+dragon_4153_critical21
+  rotate: false
+  xy: 606, 178
+  size: 300, 172
+  orig: 300, 190
+  offset: 0, 0
+  index: -1
+dragon_4153_critical_marble02
+  rotate: false
+  xy: 841, 1514
+  size: 89, 82
+  orig: 91, 84
+  offset: 1, 1
+  index: -1
+dragon_mithra_child_l_arm1
+  rotate: true
+  xy: 1035, 1868
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_r_wing_twinkle_b3
+  rotate: false
+  xy: 186, 2026
+  size: 35, 18
+  orig: 37, 20
+  offset: 1, 1
+  index: -1
+dragon_mithra_child_l_wing_twinkle_b3
+  rotate: false
+  xy: 813, 2009
+  size: 23, 34
+  orig: 23, 36
+  offset: 0, 1
+  index: -1
+dragon_mithra_baby_l_wing_twinkle_a7
+  rotate: false
+  xy: 653, 1902
+  size: 44, 30
+  orig: 46, 30
+  offset: 1, 0
+  index: -1
+dragon_mithra_adult_r_wing_twinkle_a5
+  rotate: false
+  xy: 197, 1326
+  size: 95, 87
+  orig: 95, 89
+  offset: 0, 1
+  index: -1
+dragon_mithra_baby_r_wing_twinkle_a4
+  rotate: true
+  xy: 588, 1999
+  size: 45, 26
+  orig: 47, 28
+  offset: 1, 2
+  index: -1
+dragon_mithra_adult_r_wing_twinkle_b4
+  rotate: true
+  xy: 935, 1736
+  size: 72, 66
+  orig: 72, 66
+  offset: 0, 0
+  index: -1
+dragon_4153_critical09
+  rotate: false
+  xy: 2, 2
+  size: 300, 190
+  orig: 300, 190
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_head_tail_hair
+  rotate: true
+  xy: 874, 1140
+  size: 74, 32
+  orig: 76, 32
+  offset: 2, 0
+  index: -1
+dragon_4153_critical_marble08
+  rotate: false
+  xy: 657, 1583
+  size: 89, 82
+  orig: 91, 84
+  offset: 1, 1
+  index: -1
+dragon_mithra_child_head
+  rotate: true
+  xy: 680, 1440
+  size: 57, 72
+  orig: 57, 72
+  offset: 0, 0
+  index: -1
+dragon_4153_critical24
+  rotate: false
+  xy: 304, 542
+  size: 300, 154
+  orig: 300, 190
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_l_wing_twinkle_a5
+  rotate: true
+  xy: 944, 1842
+  size: 29, 54
+  orig: 29, 56
+  offset: 0, 1
+  index: -1
+dragon_mithra_child_head_hair
+  rotate: false
+  xy: 536, 1775
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_l_wing_twinkle_b5
+  rotate: true
+  xy: 910, 2008
+  size: 36, 20
+  orig: 38, 22
+  offset: 1, 2
+  index: -1
+dragon_mithra_child_r_wing_twinkle_b5
+  rotate: false
+  xy: 411, 2014
+  size: 64, 30
+  orig: 66, 32
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_r_wing_twinkle_a7
+  rotate: false
+  xy: 59, 1819
+  size: 87, 88
+  orig: 89, 90
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_circle_b1
+  rotate: false
+  xy: 1029, 2022
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_circle_b5
+  rotate: false
+  xy: 792, 1957
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_r_wing_twinkle_b6
+  rotate: false
+  xy: 693, 1975
+  size: 36, 23
+  orig: 38, 25
+  offset: 1, 1
+  index: -1
+dragon_mithra_child_l_wing_twinkle_b4
+  rotate: true
+  xy: 987, 1933
+  size: 23, 33
+  orig: 23, 37
+  offset: 0, 2
+  index: -1
+dragon_mithra_adult_r_leg2
+  rotate: false
+  xy: 731, 1975
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_body
+  rotate: false
+  xy: 998, 1210
+  size: 62, 80
+  orig: 62, 80
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_l_wing_twinkle_a4
+  rotate: false
+  xy: 743, 1872
+  size: 45, 26
+  orig: 47, 28
+  offset: 1, 2
+  index: -1
+dragon_mithra_adult_r_wing_twinkle_b6
+  rotate: false
+  xy: 955, 1662
+  size: 70, 72
+  orig: 72, 74
+  offset: 1, 1
+  index: -1
+dragon_mithra_baby_r_leg1
+  rotate: false
+  xy: 985, 2008
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_l_arm3
+  rotate: true
+  xy: 990, 1984
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+dragon_4153_critical17
+  rotate: false
+  xy: 606, 678
+  size: 300, 152
+  orig: 300, 190
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_l_wing_twinkle_a7
+  rotate: true
+  xy: 887, 1870
+  size: 27, 54
+  orig: 27, 56
+  offset: 0, 1
+  index: -1
+dragon_mithra_child_circle_p2
+  rotate: false
+  xy: 294, 1345
+  size: 91, 82
+  orig: 91, 86
+  offset: 0, 4
+  index: -1
+dragon_mithra_child_r_wing_twinkle_b7
+  rotate: false
+  xy: 591, 1824
+  size: 60, 41
+  orig: 62, 41
+  offset: 1, 0
+  index: -1
+dragon_4153_critical_marble10
+  rotate: false
+  xy: 566, 1583
+  size: 89, 82
+  orig: 91, 84
+  offset: 1, 1
+  index: -1
+dragon_mithra_baby_eye
+  rotate: true
+  xy: 523, 1795
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_head_neck
+  rotate: false
+  xy: 593, 1770
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_l_wing_twinkle_b6
+  rotate: false
+  xy: 766, 2000
+  size: 23, 36
+  orig: 23, 38
+  offset: 0, 1
+  index: -1
+dragon_mithra_adult_l_wing_twinkle_b3
+  rotate: false
+  xy: 406, 1891
+  size: 52, 60
+  orig: 54, 62
+  offset: 1, 1
+  index: -1
+dragon_mithra_baby_l_wing_twinkle_b2
+  rotate: false
+  xy: 1000, 1868
+  size: 33, 15
+  orig: 35, 17
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_r_wing_twinkle_a8
+  rotate: true
+  xy: 294, 1429
+  size: 78, 90
+  orig: 80, 90
+  offset: 1, 0
+  index: -1
+dragon_mithra_adult_circle_b4
+  rotate: false
+  xy: 1028, 1914
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_4153_critical_marble25
+  rotate: false
+  xy: 111, 1735
+  size: 89, 82
+  orig: 91, 84
+  offset: 1, 1
+  index: -1
+dragon_mithra_baby_head2
+  rotate: false
+  xy: 1000, 1823
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_l_wing_twinkle_a5
+  rotate: true
+  xy: 409, 1385
+  size: 69, 87
+  orig: 71, 89
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_circle_p1
+  rotate: true
+  xy: 532, 1939
+  size: 58, 41
+  orig: 58, 41
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_l_wing_twinkle_a8
+  rotate: false
+  xy: 565, 1823
+  size: 24, 54
+  orig: 24, 56
+  offset: 0, 1
+  index: -1
+dragon_4153_critical_marble13
+  rotate: false
+  xy: 477, 1488
+  size: 89, 82
+  orig: 91, 84
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_l_wing_twinkle_b4
+  rotate: false
+  xy: 353, 1904
+  size: 51, 64
+  orig: 53, 66
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_r_wing_twinkle_a1
+  rotate: false
+  xy: 281, 1576
+  size: 90, 60
+  orig: 92, 62
+  offset: 1, 1
+  index: -1
+dragon_mithra_child_l_leg2
+  rotate: false
+  xy: 101, 1502
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+dragon_4153_critical02
+  rotate: false
+  xy: 606, 522
+  size: 300, 154
+  orig: 300, 190
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_circle_light
+  rotate: true
+  xy: 589, 1896
+  size: 41, 42
+  orig: 43, 42
+  offset: 1, 0
+  index: -1
+dragon_mithra_adult_l_wing_twinkle_a7
+  rotate: true
+  xy: 908, 1210
+  size: 65, 88
+  orig: 67, 90
+  offset: 1, 1
+  index: -1
+dragon_4153_critical20
+  rotate: true
+  xy: 908, 2
+  size: 300, 152
+  orig: 300, 190
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_circle_p1
+  rotate: false
+  xy: 742, 1255
+  size: 113, 39
+  orig: 113, 41
+  offset: 0, 1
+  index: -1
+dragon_mithra_adult_body2
+  rotate: false
+  xy: 860, 1927
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+dragon_4153_critical_marble19
+  rotate: false
+  xy: 589, 1331
+  size: 89, 82
+  orig: 91, 84
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_l_wing_twinkle_b6
+  rotate: false
+  xy: 882, 1736
+  size: 51, 72
+  orig: 53, 74
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_circle_p4
+  rotate: false
+  xy: 368, 1660
+  size: 81, 59
+  orig: 95, 93
+  offset: 5, 20
+  index: -1
+dragon_4153_critical15
+  rotate: false
+  xy: 2, 888
+  size: 300, 152
+  orig: 300, 190
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_l_wing_twinkle_a1
+  rotate: false
+  xy: 521, 1878
+  size: 29, 59
+  orig: 29, 61
+  offset: 0, 1
+  index: -1
+dragon_mithra_child_r_wing_twinkle_b1
+  rotate: false
+  xy: 887, 1810
+  size: 60, 27
+  orig: 62, 29
+  offset: 1, 1
+  index: -1
+dragon_4153_critical_marble26
+  rotate: false
+  xy: 409, 1315
+  size: 87, 68
+  orig: 91, 84
+  offset: 1, 1
+  index: -1
+dragon_mithra_baby_circle_b1
+  rotate: false
+  xy: 922, 1924
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_mouth
+  rotate: false
+  xy: 1003, 1772
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_tail
+  rotate: true
+  xy: 1010, 1550
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_r_wing_twinkle_b2
+  rotate: false
+  xy: 857, 1991
+  size: 33, 15
+  orig: 35, 17
+  offset: 1, 1
+  index: -1
+dragon_mithra_baby_l_arm1
+  rotate: true
+  xy: 644, 2028
+  size: 16, 38
+  orig: 16, 38
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_r_arm1
+  rotate: false
+  xy: 863, 2008
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_l_wing_twinkle_a8
+  rotate: true
+  xy: 735, 2000
+  size: 38, 29
+  orig: 40, 31
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_r_wing_twinkle_a2
+  rotate: false
+  xy: 197, 1502
+  size: 93, 70
+  orig: 93, 72
+  offset: 0, 1
+  index: -1
+dragon_mithra_baby_r_wing_twinkle_a7
+  rotate: false
+  xy: 949, 1810
+  size: 44, 30
+  orig: 46, 30
+  offset: 1, 0
+  index: -1
+dragon_mithra_baby_circlel_light2
+  rotate: false
+  xy: 998, 1332
+  size: 62, 62
+  orig: 64, 64
+  offset: 1, 1
+  index: -1
+dragon_4153_critical08
+  rotate: false
+  xy: 2, 194
+  size: 300, 188
+  orig: 300, 190
+  offset: 0, 0
+  index: -1
+dragon_4153_critical_marble07
+  rotate: false
+  xy: 754, 1430
+  size: 89, 82
+  orig: 91, 84
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_tail1
+  rotate: true
+  xy: 2, 1665
+  size: 134, 70
+  orig: 134, 70
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_circle_b3
+  rotate: false
+  xy: 955, 1930
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_l_wing_twinkle_a8
+  rotate: true
+  xy: 189, 1574
+  size: 57, 90
+  orig: 59, 90
+  offset: 1, 0
+  index: -1
+dragon_4153_critical23
+  rotate: false
+  xy: 304, 376
+  size: 300, 164
+  orig: 300, 190
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_r_wing_twinkle_a3
+  rotate: false
+  xy: 738, 1682
+  size: 84, 47
+  orig: 86, 49
+  offset: 1, 1
+  index: -1
+dragon_mithra_child_l_wing_twinkle_a2
+  rotate: false
+  xy: 575, 1939
+  size: 29, 58
+  orig: 29, 60
+  offset: 0, 1
+  index: -1
+dragon_mithra_child_head_body2
+  rotate: false
+  xy: 523, 1823
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_l_wing_twinkle_b6
+  rotate: false
+  xy: 927, 1899
+  size: 36, 23
+  orig: 38, 25
+  offset: 1, 1
+  index: -1
+dragon_mithra_child_r_wing_twinkle_b4
+  rotate: true
+  xy: 1027, 1727
+  size: 63, 33
+  orig: 65, 35
+  offset: 1, 2
+  index: -1
+dragon_4153_critical_marble21
+  rotate: true
+  xy: 321, 1813
+  size: 89, 82
+  orig: 91, 84
+  offset: 1, 1
+  index: -1
+dragon_mithra_baby_circle_b2
+  rotate: false
+  xy: 889, 1924
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_circle3
+  rotate: false
+  xy: 475, 1656
+  size: 89, 27
+  orig: 91, 27
+  offset: 1, 0
+  index: -1
+dragon_mithra_child_eye
+  rotate: true
+  xy: 1047, 1914
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_l_wing_twinkle_a1
+  rotate: true
+  xy: 932, 2004
+  size: 37, 20
+  orig: 39, 22
+  offset: 1, 1
+  index: -1
+dragon_mithra_baby_r_arm1
+  rotate: false
+  xy: 769, 1900
+  size: 21, 39
+  orig: 23, 41
+  offset: 2, 2
+  index: -1
+dragon_mithra_adult_l_leg3
+  rotate: false
+  xy: 616, 1997
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_l_arm2
+  rotate: false
+  xy: 792, 1990
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_l_wing_twinkle_a1
+  rotate: false
+  xy: 131, 1909
+  size: 66, 60
+  orig: 68, 62
+  offset: 1, 1
+  index: -1
+dragon_mithra_baby_body2
+  rotate: false
+  xy: 955, 1961
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+dragon_4153_critical16
+  rotate: false
+  xy: 2, 734
+  size: 300, 152
+  orig: 300, 190
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_r_wing_twinkle_b6
+  rotate: true
+  xy: 1027, 1662
+  size: 63, 33
+  orig: 65, 35
+  offset: 1, 2
+  index: -1
+dragon_mithra_baby_love
+  rotate: true
+  xy: 1041, 1823
+  size: 35, 19
+  orig: 43, 23
+  offset: 4, 2
+  index: -1
+dragon_mithra_baby_l_wing
+  rotate: true
+  xy: 843, 1811
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_circle_b3
+  rotate: false
+  xy: 1010, 2013
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+dragon_4153_critical_marble24
+  rotate: true
+  xy: 202, 1728
+  size: 89, 82
+  orig: 91, 84
+  offset: 1, 1
+  index: -1
+dragon_mithra_baby_circle_p1
+  rotate: true
+  xy: 2, 1801
+  size: 117, 55
+  orig: 119, 55
+  offset: 1, 0
+  index: -1
+dragon_mithra_baby_circle_light
+  rotate: false
+  xy: 932, 1517
+  size: 76, 76
+  orig: 78, 78
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_mouth
+  rotate: false
+  xy: 353, 2032
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_circlel_light2
+  rotate: false
+  xy: 692, 1939
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_r_wing_twinkle_a8
+  rotate: false
+  xy: 186, 1973
+  size: 70, 51
+  orig: 72, 53
+  offset: 1, 1
+  index: -1
+dragon_4153_critical_marble05
+  rotate: false
+  xy: 748, 1598
+  size: 89, 82
+  orig: 91, 84
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_l_wing_twinkle_a2
+  rotate: true
+  xy: 914, 1277
+  size: 67, 70
+  orig: 69, 72
+  offset: 1, 2
+  index: -1
+dragon_4153_critical11
+  rotate: false
+  xy: 606, 986
+  size: 300, 152
+  orig: 300, 190
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_eye
+  rotate: true
+  xy: 738, 1667
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_body
+  rotate: true
+  xy: 824, 1682
+  size: 52, 83
+  orig: 52, 83
+  offset: 0, 0
+  index: -1
+dragon_4153_critical_marble12
+  rotate: false
+  xy: 568, 1499
+  size: 89, 82
+  orig: 91, 84
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_circle2
+  rotate: false
+  xy: 758, 1941
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_circle3_a1
+  rotate: false
+  xy: 304, 1315
+  size: 103, 28
+  orig: 105, 30
+  offset: 1, 1
+  index: -1
+dragon_mithra_child_r_leg2
+  rotate: true
+  xy: 1015, 1958
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+dragon_mithra_child_head_tail1
+  rotate: false
+  xy: 986, 1292
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_r_wing_twinkle_a3
+  rotate: false
+  xy: 943, 1873
+  size: 45, 24
+  orig: 47, 26
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_closeeye
+  rotate: true
+  xy: 101, 1650
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_circle_p2
+  rotate: true
+  xy: 101, 1538
+  size: 95, 86
+  orig: 95, 88
+  offset: 0, 2
+  index: -1
+dragon_mithra_adult_r_wing_twinkle_b5
+  rotate: false
+  xy: 124, 1473
+  size: 71, 63
+  orig: 73, 65
+  offset: 1, 1
+  index: -1
+dragon_mithra_baby_head
+  rotate: true
+  xy: 456, 1802
+  size: 74, 65
+  orig: 74, 65
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_body1
+  rotate: false
+  xy: 728, 1939
+  size: 28, 34
+  orig: 30, 34
+  offset: 2, 0
+  index: -1
+dragon_4153_critical_marble18
+  rotate: false
+  xy: 725, 1346
+  size: 89, 82
+  orig: 91, 84
+  offset: 1, 1
+  index: -1
+dragon_mithra_child_l_arm3
+  rotate: false
+  xy: 897, 1277
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+dragon_mithra_adult_circle_p3
+  rotate: true
+  xy: 477, 1999
+  size: 45, 51
+  orig: 47, 53
+  offset: 0, 2
+  index: -1
+dragon_4153_critical14
+  rotate: false
+  xy: 304, 846
+  size: 300, 152
+  orig: 300, 190
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_r_wing_twinkle_b5
+  rotate: true
+  xy: 888, 2008
+  size: 36, 20
+  orig: 38, 22
+  offset: 1, 2
+  index: -1
+dragon_mithra_child_l_wing_twinkle_b5
+  rotate: false
+  xy: 838, 2009
+  size: 23, 33
+  orig: 23, 35
+  offset: 0, 1
+  index: -1
+dragon_mithra_adult_r_leg1
+  rotate: false
+  xy: 199, 1909
+  size: 35, 62
+  orig: 35, 62
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_l_wing_twinkle_a5
+  rotate: true
+  xy: 559, 1999
+  size: 45, 27
+  orig: 47, 29
+  offset: 1, 1
+  index: -1
+dragon_mithra_adult_r_wing_twinkle_b7
+  rotate: true
+  xy: 451, 1685
+  size: 66, 83
+  orig: 68, 85
+  offset: 1, 1
+  index: -1
+dragon_mithra_child_circle
+  rotate: false
+  xy: 472, 1939
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+dragon_mithra_baby_r_wing_twinkle_a6
+  rotate: true
+  xy: 536, 1685
+  size: 43, 28
+  orig: 45, 30
+  offset: 1, 1
+  index: -1
+dragon_mithra_baby_closeeye
+  rotate: false
+  xy: 370, 1804
+  size: 26, 7
+  orig: 26, 7
+  offset: 0, 0
+  index: -1
+dragon_4153_critical07
+  rotate: false
+  xy: 304, 2
+  size: 300, 188
+  orig: 300, 190
+  offset: 0, 0
+  index: -1

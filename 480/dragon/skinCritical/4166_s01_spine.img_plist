@@ -1,0 +1,256 @@
+4166_s01_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_4166_s01_critical20
+  rotate: false
+  xy: 2, 2
+  size: 119, 132
+  orig: 121, 132
+  offset: 2, 0
+  index: -1
+dragon_4166_s01_critical24
+  rotate: false
+  xy: 809, 136
+  size: 111, 132
+  orig: 121, 132
+  offset: 3, 0
+  index: -1
+dragon_4166_s01_critical18
+  rotate: false
+  xy: 119, 136
+  size: 115, 132
+  orig: 121, 132
+  offset: 0, 0
+  index: -1
+dragon_4166_s01_critical31
+  rotate: false
+  xy: 583, 2
+  size: 111, 132
+  orig: 121, 132
+  offset: 3, 0
+  index: -1
+dragon_4166_s01_critical35
+  rotate: true
+  xy: 1713, 218
+  size: 45, 56
+  orig: 121, 132
+  offset: 29, 34
+  index: -1
+dragon_4166_s01_critical06
+  rotate: false
+  xy: 1487, 2
+  size: 111, 132
+  orig: 121, 132
+  offset: 3, 0
+  index: -1
+dragon_4166_s01_critical10
+  rotate: false
+  xy: 1261, 2
+  size: 111, 132
+  orig: 121, 132
+  offset: 3, 0
+  index: -1
+dragon_4166_s01_critical14
+  rotate: false
+  xy: 1035, 2
+  size: 111, 132
+  orig: 121, 132
+  offset: 3, 0
+  index: -1
+dragon_4166_s01_critical02
+  rotate: false
+  xy: 1847, 2
+  size: 109, 132
+  orig: 121, 132
+  offset: 4, 0
+  index: -1
+dragon_4166_s01_critical27
+  rotate: false
+  xy: 696, 2
+  size: 111, 132
+  orig: 121, 132
+  offset: 3, 0
+  index: -1
+dragon_4166_s01_critical23
+  rotate: false
+  xy: 922, 2
+  size: 111, 132
+  orig: 121, 132
+  offset: 3, 0
+  index: -1
+dragon_4166_s01_critical17
+  rotate: false
+  xy: 123, 2
+  size: 115, 132
+  orig: 121, 132
+  offset: 0, 0
+  index: -1
+dragon_4166_s01_critical09
+  rotate: false
+  xy: 1261, 136
+  size: 111, 132
+  orig: 121, 132
+  offset: 3, 0
+  index: -1
+dragon_4166_s01_critical30
+  rotate: false
+  xy: 583, 136
+  size: 111, 132
+  orig: 121, 132
+  offset: 3, 0
+  index: -1
+dragon_4166_s01_critical34
+  rotate: true
+  xy: 1713, 113
+  size: 103, 132
+  orig: 121, 132
+  offset: 8, 0
+  index: -1
+dragon_4166_s01_critical01
+  rotate: false
+  xy: 1847, 136
+  size: 103, 132
+  orig: 121, 132
+  offset: 8, 0
+  index: -1
+dragon_4166_s01_critical13
+  rotate: false
+  xy: 1035, 136
+  size: 111, 132
+  orig: 121, 132
+  offset: 3, 0
+  index: -1
+dragon_4166_s01_critical05
+  rotate: false
+  xy: 1487, 136
+  size: 111, 132
+  orig: 121, 132
+  offset: 3, 0
+  index: -1
+dragon_4166_s01_critical26
+  rotate: false
+  xy: 696, 136
+  size: 111, 132
+  orig: 121, 132
+  offset: 3, 0
+  index: -1
+dragon_4166_s01_critical22
+  rotate: false
+  xy: 355, 2
+  size: 113, 132
+  orig: 121, 132
+  offset: 2, 0
+  index: -1
+dragon_4166_s01_critical16
+  rotate: false
+  xy: 236, 136
+  size: 115, 132
+  orig: 121, 132
+  offset: 0, 0
+  index: -1
+dragon_4166_s01_critical08
+  rotate: false
+  xy: 1374, 2
+  size: 111, 132
+  orig: 121, 132
+  offset: 3, 0
+  index: -1
+dragon_4166_s01_critical33
+  rotate: true
+  xy: 1713, 2
+  size: 109, 132
+  orig: 121, 132
+  offset: 4, 0
+  index: -1
+dragon_4166_s01_critical00
+  rotate: true
+  xy: 1771, 218
+  size: 13, 8
+  orig: 121, 132
+  offset: 35, 119
+  index: -1
+dragon_4166_s01_critical12
+  rotate: false
+  xy: 1148, 2
+  size: 111, 132
+  orig: 121, 132
+  offset: 3, 0
+  index: -1
+dragon_4166_s01_critical04
+  rotate: false
+  xy: 1600, 2
+  size: 111, 132
+  orig: 121, 132
+  offset: 3, 0
+  index: -1
+dragon_4166_s01_critical29
+  rotate: false
+  xy: 240, 2
+  size: 113, 132
+  orig: 121, 132
+  offset: 2, 0
+  index: -1
+dragon_4166_s01_critical21
+  rotate: false
+  xy: 468, 136
+  size: 113, 132
+  orig: 121, 132
+  offset: 2, 0
+  index: -1
+dragon_4166_s01_critical25
+  rotate: false
+  xy: 809, 2
+  size: 111, 132
+  orig: 121, 132
+  offset: 3, 0
+  index: -1
+dragon_4166_s01_critical19
+  rotate: false
+  xy: 2, 136
+  size: 115, 132
+  orig: 121, 132
+  offset: 0, 0
+  index: -1
+dragon_4166_s01_critical11
+  rotate: false
+  xy: 1148, 136
+  size: 111, 132
+  orig: 121, 132
+  offset: 3, 0
+  index: -1
+dragon_4166_s01_critical07
+  rotate: false
+  xy: 1374, 136
+  size: 111, 132
+  orig: 121, 132
+  offset: 3, 0
+  index: -1
+dragon_4166_s01_critical15
+  rotate: false
+  xy: 922, 136
+  size: 111, 132
+  orig: 121, 132
+  offset: 3, 0
+  index: -1
+dragon_4166_s01_critical32
+  rotate: false
+  xy: 470, 2
+  size: 111, 132
+  orig: 121, 132
+  offset: 3, 0
+  index: -1
+dragon_4166_s01_critical03
+  rotate: false
+  xy: 1600, 136
+  size: 111, 132
+  orig: 121, 132
+  offset: 3, 0
+  index: -1
+dragon_4166_s01_critical28
+  rotate: false
+  xy: 353, 136
+  size: 113, 132
+  orig: 121, 132
+  offset: 2, 0
+  index: -1

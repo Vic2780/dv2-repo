@@ -1,0 +1,1049 @@
+{
+"skeleton": { "hash": "SAM/UWZ06bvlKJlnKZTJ8dktjsE", "spine": "3.0.09", "width": 157.97, "height": 129.99, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "center", "parent": "root", "y": -95.74 },
+	{ "name": "dragon_goldcoast_baby_r_reg", "parent": "center", "length": 21.42, "x": -21.9, "y": 20.82, "rotation": -65.4 },
+	{
+		"name": "dragon_goldcoast_baby_wing3",
+		"parent": "dragon_goldcoast_baby_r_reg",
+		"length": 12.21,
+		"x": -7.4,
+		"y": 0.8,
+		"rotation": -159.49
+	},
+	{ "name": "dragon_goldcoast_baby_r_arm", "parent": "center", "length": 34.55, "x": -7.55, "y": 37.33, "rotation": -69.97 },
+	{ "name": "dragon_goldcoast_baby_l_reg", "parent": "center", "length": 20.99, "x": 6.2, "y": 21.91, "rotation": -62.92 },
+	{ "name": "dragon_goldcoast_baby_l_arm", "parent": "center", "length": 29.5, "x": 30.22, "y": 29.29, "rotation": -106.44 },
+	{ "name": "dragon_goldcoast_baby_body", "parent": "center", "length": 41.88, "x": -10.27, "y": 14.68, "rotation": 43.67 },
+	{
+		"name": "dragon_goldcoast_baby_wing2",
+		"parent": "dragon_goldcoast_baby_body",
+		"length": 29.68,
+		"x": 21.17,
+		"y": 20.38,
+		"rotation": 88.11
+	},
+	{
+		"name": "dragon_goldcoast_baby_wing1",
+		"parent": "dragon_goldcoast_baby_body",
+		"length": 24.72,
+		"x": 18.65,
+		"y": 19.1,
+		"rotation": 114.49
+	},
+	{
+		"name": "dragon_goldcoast_baby_tail",
+		"parent": "dragon_goldcoast_baby_body",
+		"length": 36.32,
+		"x": -5.27,
+		"y": 7,
+		"rotation": 128.35
+	},
+	{
+		"name": "dragon_goldcoast_baby_head",
+		"parent": "dragon_goldcoast_baby_body",
+		"length": 37.94,
+		"x": 37.2,
+		"y": 9.77,
+		"rotation": -43.95
+	},
+	{
+		"name": "dragon_goldcoast_baby_houn",
+		"parent": "dragon_goldcoast_baby_head",
+		"length": 27.22,
+		"x": -3.47,
+		"y": 3.54,
+		"rotation": 127.91
+	},
+	{
+		"name": "dragon_goldcoast_baby_head_gall",
+		"parent": "dragon_goldcoast_baby_head",
+		"length": 14.73,
+		"x": -9.1,
+		"y": 17.19,
+		"rotation": -136.16
+	},
+	{ "name": "dragon_goldcoast_baby_eye", "parent": "dragon_goldcoast_baby_head", "x": 6.95, "y": 6.53 },
+	{ "name": "bone", "parent": "center", "x": 79.86, "y": 81.62 }
+],
+"slots": [
+	{ "name": "dragon_goldcoast_baby_l_reg", "bone": "dragon_goldcoast_baby_l_reg", "attachment": "dragon_goldcoast_baby_l_reg" },
+	{ "name": "dragon_goldcoast_baby_tail", "bone": "dragon_goldcoast_baby_tail", "attachment": "dragon_goldcoast_baby_tail" },
+	{ "name": "dragon_goldcoast_baby_l_arm", "bone": "dragon_goldcoast_baby_l_arm", "attachment": "dragon_goldcoast_baby_l_arm" },
+	{ "name": "dragon_goldcoast_baby_body", "bone": "dragon_goldcoast_baby_body", "attachment": "dragon_goldcoast_baby_body" },
+	{ "name": "dragon_goldcoast_baby_r_reg", "bone": "dragon_goldcoast_baby_r_reg", "attachment": "dragon_goldcoast_baby_r_reg" },
+	{ "name": "dragon_goldcoast_baby_houn", "bone": "dragon_goldcoast_baby_houn", "attachment": "dragon_goldcoast_baby_houn" },
+	{ "name": "dragon_goldcoast_baby_wing2", "bone": "dragon_goldcoast_baby_wing2", "attachment": "dragon_goldcoast_baby_wing2" },
+	{ "name": "dragon_goldcoast_baby_wing1", "bone": "dragon_goldcoast_baby_wing1", "attachment": "dragon_goldcoast_baby_wing1" },
+	{ "name": "dragon_goldcoast_baby_r_arm", "bone": "dragon_goldcoast_baby_r_arm", "attachment": "dragon_goldcoast_baby_r_arm" },
+	{
+		"name": "dragon_goldcoast_baby_head_gall",
+		"bone": "dragon_goldcoast_baby_head_gall",
+		"attachment": "dragon_goldcoast_baby_head_gall"
+	},
+	{ "name": "dragon_goldcoast_baby_head", "bone": "dragon_goldcoast_baby_head", "attachment": "dragon_goldcoast_baby_head" },
+	{ "name": "dragon_goldcoast_baby_eye", "bone": "dragon_goldcoast_baby_eye", "attachment": "dragon_goldcoast_baby_eye" },
+	{ "name": "dragon_goldcoast_baby_wing3", "bone": "dragon_goldcoast_baby_wing3", "attachment": "dragon_goldcoast_baby_wing3" },
+	{ "name": "dragon_love_effect_heart", "bone": "bone", "attachment": "dragon_love_effect_heart" }
+],
+"skins": {
+	"default": {
+		"dragon_goldcoast_baby_body": {
+			"dragon_goldcoast_baby_body": { "x": 20.46, "y": 1.31, "rotation": -43.67, "width": 57, "height": 54 }
+		},
+		"dragon_goldcoast_baby_eye": {
+			"dragon_goldcoast_baby_eye": { "x": 0.24, "y": 0.32, "rotation": 0.27, "width": 22, "height": 19 },
+			"dragon_goldcoast_baby_eye2": { "x": 0.25, "y": -1.81, "rotation": 0.27, "width": 20, "height": 12 }
+		},
+		"dragon_goldcoast_baby_head": {
+			"dragon_goldcoast_baby_head": { "x": 11.59, "y": 30.38, "rotation": 0.27, "width": 77, "height": 94 }
+		},
+		"dragon_goldcoast_baby_head_gall": {
+			"dragon_goldcoast_baby_head_gall": { "x": 11.37, "y": 2.17, "rotation": 136.4, "width": 28, "height": 35 }
+		},
+		"dragon_goldcoast_baby_houn": {
+			"dragon_goldcoast_baby_houn": { "x": 13.98, "y": -0.29, "rotation": -127.63, "width": 34, "height": 35 }
+		},
+		"dragon_goldcoast_baby_l_arm": {
+			"dragon_goldcoast_baby_l_arm": { "x": 6.51, "y": -0.78, "rotation": 106.43, "width": 29, "height": 55 }
+		},
+		"dragon_goldcoast_baby_l_reg": {
+			"dragon_goldcoast_baby_l_reg": { "x": 9.06, "y": 2.01, "rotation": 62.9, "width": 26, "height": 28 }
+		},
+		"dragon_goldcoast_baby_r_arm": {
+			"dragon_goldcoast_baby_r_arm": { "x": 13.97, "y": 3.08, "rotation": 69.96, "width": 38, "height": 61 }
+		},
+		"dragon_goldcoast_baby_r_reg": {
+			"dragon_goldcoast_baby_r_reg": { "x": 8.5, "y": 1.63, "rotation": 65.39, "width": 28, "height": 36 }
+		},
+		"dragon_goldcoast_baby_tail": {
+			"dragon_goldcoast_baby_tail": { "x": 18.28, "y": -1.13, "rotation": -172.02, "width": 48, "height": 34 }
+		},
+		"dragon_goldcoast_baby_wing1": {
+			"dragon_goldcoast_baby_wing1": { "x": 15.37, "y": 0.36, "rotation": -158.15, "width": 35, "height": 26 }
+		},
+		"dragon_goldcoast_baby_wing2": {
+			"dragon_goldcoast_baby_wing2": { "x": 18.23, "y": -2.42, "rotation": -131.79, "width": 31, "height": 37 }
+		},
+		"dragon_goldcoast_baby_wing3": {
+			"dragon_goldcoast_baby_wing3": { "x": 5.65, "y": -0.55, "rotation": -135.14, "width": 16, "height": 17 }
+		},
+		"dragon_love_effect_heart": {
+			"dragon_love_effect_heart": { "x": -5.79, "y": -7.08, "scaleX": 0.755, "scaleY": 0.774, "width": 61, "height": 52 }
+		}
+	}
+},
+"animations": {
+	"love": {
+		"slots": {
+			"dragon_goldcoast_baby_body": {
+				"attachment": [
+					{ "time": 0, "name": "dragon_goldcoast_baby_body" },
+					{ "time": 0.9659, "name": "dragon_goldcoast_baby_body" },
+					{ "time": 1.3333, "name": "dragon_goldcoast_baby_body" },
+					{ "time": 2.6666, "name": "dragon_goldcoast_baby_body" }
+				]
+			},
+			"dragon_goldcoast_baby_eye": {
+				"attachment": [
+					{ "time": 0, "name": "dragon_goldcoast_baby_eye" },
+					{ "time": 0.9659, "name": "dragon_goldcoast_baby_eye" },
+					{ "time": 1.3333, "name": "dragon_goldcoast_baby_eye2" },
+					{ "time": 2, "name": "dragon_goldcoast_baby_eye" },
+					{ "time": 2.6666, "name": "dragon_goldcoast_baby_eye" }
+				]
+			},
+			"dragon_goldcoast_baby_head": {
+				"attachment": [
+					{ "time": 0, "name": "dragon_goldcoast_baby_head" },
+					{ "time": 0.9659, "name": "dragon_goldcoast_baby_head" },
+					{ "time": 1.3333, "name": "dragon_goldcoast_baby_head" },
+					{ "time": 2.6666, "name": "dragon_goldcoast_baby_head" }
+				]
+			},
+			"dragon_goldcoast_baby_head_gall": {
+				"attachment": [
+					{ "time": 0, "name": "dragon_goldcoast_baby_head_gall" },
+					{ "time": 0.9659, "name": "dragon_goldcoast_baby_head_gall" },
+					{ "time": 1.3333, "name": "dragon_goldcoast_baby_head_gall" },
+					{ "time": 2.6666, "name": "dragon_goldcoast_baby_head_gall" }
+				]
+			},
+			"dragon_goldcoast_baby_houn": {
+				"attachment": [
+					{ "time": 0, "name": "dragon_goldcoast_baby_houn" },
+					{ "time": 0.9659, "name": "dragon_goldcoast_baby_houn" },
+					{ "time": 1.3333, "name": "dragon_goldcoast_baby_houn" },
+					{ "time": 2.6666, "name": "dragon_goldcoast_baby_houn" }
+				]
+			},
+			"dragon_goldcoast_baby_l_arm": {
+				"attachment": [
+					{ "time": 0, "name": "dragon_goldcoast_baby_l_arm" },
+					{ "time": 0.9659, "name": "dragon_goldcoast_baby_l_arm" },
+					{ "time": 1.3333, "name": "dragon_goldcoast_baby_l_arm" },
+					{ "time": 2.6666, "name": "dragon_goldcoast_baby_l_arm" }
+				]
+			},
+			"dragon_goldcoast_baby_l_reg": {
+				"attachment": [
+					{ "time": 0, "name": "dragon_goldcoast_baby_l_reg" },
+					{ "time": 0.9659, "name": "dragon_goldcoast_baby_l_reg" },
+					{ "time": 1.3333, "name": "dragon_goldcoast_baby_l_reg" },
+					{ "time": 2.6666, "name": "dragon_goldcoast_baby_l_reg" }
+				]
+			},
+			"dragon_goldcoast_baby_r_arm": {
+				"attachment": [
+					{ "time": 0, "name": "dragon_goldcoast_baby_r_arm" },
+					{ "time": 0.6666, "name": "dragon_goldcoast_baby_r_arm" },
+					{ "time": 0.9659, "name": "dragon_goldcoast_baby_r_arm" },
+					{ "time": 1.3333, "name": "dragon_goldcoast_baby_r_arm" },
+					{ "time": 2.6666, "name": "dragon_goldcoast_baby_r_arm" }
+				]
+			},
+			"dragon_goldcoast_baby_r_reg": {
+				"attachment": [
+					{ "time": 0, "name": "dragon_goldcoast_baby_r_reg" },
+					{ "time": 0.9659, "name": "dragon_goldcoast_baby_r_reg" },
+					{ "time": 1.3333, "name": "dragon_goldcoast_baby_r_reg" },
+					{ "time": 2.6666, "name": "dragon_goldcoast_baby_r_reg" }
+				]
+			},
+			"dragon_goldcoast_baby_tail": {
+				"attachment": [
+					{ "time": 0, "name": "dragon_goldcoast_baby_tail" },
+					{ "time": 0.9659, "name": "dragon_goldcoast_baby_tail" },
+					{ "time": 1.3333, "name": "dragon_goldcoast_baby_tail" },
+					{ "time": 2.6666, "name": "dragon_goldcoast_baby_tail" }
+				]
+			},
+			"dragon_goldcoast_baby_wing1": {
+				"attachment": [
+					{ "time": 0, "name": "dragon_goldcoast_baby_wing1" },
+					{ "time": 0.9659, "name": "dragon_goldcoast_baby_wing1" },
+					{ "time": 1.3333, "name": "dragon_goldcoast_baby_wing1" },
+					{ "time": 2.6666, "name": "dragon_goldcoast_baby_wing1" }
+				]
+			},
+			"dragon_goldcoast_baby_wing2": {
+				"attachment": [
+					{ "time": 0, "name": "dragon_goldcoast_baby_wing2" },
+					{ "time": 0.9659, "name": "dragon_goldcoast_baby_wing2" },
+					{ "time": 1.3333, "name": "dragon_goldcoast_baby_wing2" },
+					{ "time": 2.6666, "name": "dragon_goldcoast_baby_wing2" }
+				]
+			},
+			"dragon_goldcoast_baby_wing3": {
+				"attachment": [
+					{ "time": 0, "name": "dragon_goldcoast_baby_wing3" },
+					{ "time": 0.9659, "name": "dragon_goldcoast_baby_wing3" },
+					{ "time": 1.3333, "name": "dragon_goldcoast_baby_wing3" },
+					{ "time": 2.6666, "name": "dragon_goldcoast_baby_wing3" }
+				]
+			},
+			"dragon_love_effect_heart": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1, "name": null },
+					{ "time": 1.1666, "name": "dragon_love_effect_heart" },
+					{ "time": 2.6666, "name": null }
+				],
+				"color": [
+					{ "time": 1.3666, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.8, "color": "ffffffff" },
+					{ "time": 2.1333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"dragon_goldcoast_baby_head": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.6666, "angle": 20.1 },
+					{ "time": 0.9659, "angle": 0, "curve": "stepped" },
+					{ "time": 1.3333, "angle": 0 },
+					{ "time": 1.5, "angle": 15.72 },
+					{ "time": 1.6666, "angle": -2.13 },
+					{ "time": 2, "angle": 5.33 },
+					{ "time": 2.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.6666, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.9659, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.9659, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.6666, "x": 1, "y": 1 }
+				]
+			},
+			"dragon_goldcoast_baby_eye": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.9659, "angle": 0, "curve": "stepped" },
+					{ "time": 1.3333, "angle": 0, "curve": "stepped" },
+					{ "time": 2.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.9659, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.9659, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.6666, "x": 1, "y": 1 }
+				]
+			},
+			"dragon_goldcoast_baby_wing2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.6666, "angle": 6.94 },
+					{ "time": 0.9659, "angle": 0, "curve": "stepped" },
+					{ "time": 1.3333, "angle": 0 },
+					{ "time": 2, "angle": 6.94 },
+					{ "time": 2.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.9659, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.9659, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.3333, "x": 1, "y": 1 },
+					{ "time": 1.4, "x": 0.634, "y": 1 },
+					{ "time": 1.5666, "x": 1, "y": 1 },
+					{ "time": 1.7, "x": 0.634, "y": 1 },
+					{ "time": 1.8666, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.6666, "x": 1, "y": 1 }
+				]
+			},
+			"dragon_goldcoast_baby_houn": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.6666, "angle": 6.79 },
+					{ "time": 0.9659, "angle": 0, "curve": "stepped" },
+					{ "time": 1.3333, "angle": 0 },
+					{ "time": 2, "angle": 6.79 },
+					{ "time": 2.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.9659, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.9659, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.6666, "x": 1, "y": 1 }
+				]
+			},
+			"dragon_goldcoast_baby_head_gall": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.9659, "angle": 0, "curve": "stepped" },
+					{ "time": 1.3333, "angle": 0, "curve": "stepped" },
+					{ "time": 2.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.9659, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.9659, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.6666, "x": 1, "y": 1 }
+				]
+			},
+			"dragon_goldcoast_baby_r_reg": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.9659, "angle": 0 },
+					{ "time": 1.3333, "angle": 9.02 },
+					{ "time": 2.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.9659, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.9659, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.6666, "x": 1, "y": 1 }
+				]
+			},
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.9659, "angle": 0, "curve": "stepped" },
+					{ "time": 1.3333, "angle": 0, "curve": "stepped" },
+					{ "time": 2.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.9659, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.9659, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.6666, "x": 1, "y": 1 }
+				]
+			},
+			"dragon_goldcoast_baby_wing1": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.6666, "angle": 5.75 },
+					{ "time": 0.9659, "angle": 0, "curve": "stepped" },
+					{ "time": 1.3333, "angle": 0 },
+					{ "time": 2, "angle": 5.75 },
+					{ "time": 2.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.9659, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.9659, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.3333, "x": 1, "y": 1 },
+					{ "time": 1.4, "x": 0.681, "y": 1 },
+					{ "time": 1.5666, "x": 1, "y": 1 },
+					{ "time": 1.7, "x": 0.681, "y": 1 },
+					{ "time": 1.8666, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.6666, "x": 1, "y": 1 }
+				]
+			},
+			"dragon_goldcoast_baby_l_arm": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.6666, "angle": 27.19 },
+					{ "time": 0.9659, "angle": 0 },
+					{ "time": 1.3333, "angle": 36.87 },
+					{ "time": 2.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.6666, "x": -3.25, "y": 5.73 },
+					{ "time": 0.9659, "x": 0, "y": 0 },
+					{ "time": 1.3333, "x": 5.08, "y": 0 },
+					{ "time": 2.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.9659, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.6666, "x": 1, "y": 1 }
+				]
+			},
+			"dragon_goldcoast_baby_r_arm": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.6666, "angle": 14.88 },
+					{ "time": 0.9659, "angle": 0 },
+					{ "time": 1.3333, "angle": 26.93 },
+					{ "time": 2.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.6666, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.9659, "x": 0, "y": 0 },
+					{ "time": 1.3333, "x": 15.26, "y": -11.02 },
+					{ "time": 2.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.6666, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.9659, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.6666, "x": 1, "y": 1 }
+				]
+			},
+			"center": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.9659, "angle": 0, "curve": "stepped" },
+					{ "time": 1.3333, "angle": 0, "curve": "stepped" },
+					{ "time": 2.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.9659, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.9659, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.6666, "x": 1, "y": 1 }
+				]
+			},
+			"dragon_goldcoast_baby_tail": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.6666, "angle": 4.37 },
+					{ "time": 0.9659, "angle": 0 },
+					{ "time": 1.3333, "angle": -24.31 },
+					{ "time": 2, "angle": -10.71 },
+					{ "time": 2.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.6666, "x": 2.61, "y": -0.17 },
+					{ "time": 0.9659, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.3333, "x": 0, "y": 0 },
+					{ "time": 2, "x": 2.61, "y": -0.17 },
+					{ "time": 2.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.6666, "x": 0.913, "y": 1 },
+					{ "time": 0.9659, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.3333, "x": 1, "y": 1 },
+					{ "time": 2, "x": 0.913, "y": 1 },
+					{ "time": 2.6666, "x": 1, "y": 1 }
+				]
+			},
+			"dragon_goldcoast_baby_wing3": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.6666, "angle": 15.98 },
+					{ "time": 0.9659, "angle": 0, "curve": "stepped" },
+					{ "time": 1.3333, "angle": 0 },
+					{ "time": 1.4666, "angle": 20.18 },
+					{ "time": 1.5666, "angle": -19.92 },
+					{ "time": 1.6666, "angle": 7.3 },
+					{ "time": 2, "angle": -2.88 },
+					{ "time": 2.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.9659, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.9659, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.6666, "x": 1, "y": 1 }
+				]
+			},
+			"dragon_goldcoast_baby_l_reg": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.9659, "angle": 0, "curve": "stepped" },
+					{ "time": 1.3333, "angle": 0, "curve": "stepped" },
+					{ "time": 2.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.9659, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.9659, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.6666, "x": 1, "y": 1 }
+				]
+			},
+			"dragon_goldcoast_baby_body": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.6666, "angle": 0.45 },
+					{ "time": 0.9659, "angle": 0 },
+					{ "time": 1.3333, "angle": -20.72 },
+					{ "time": 2.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.6666, "x": 0, "y": -3.32 },
+					{ "time": 0.9659, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.3333, "x": 0, "y": 0 },
+					{ "time": 2, "x": 0, "y": -3.32 },
+					{ "time": 2.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.9659, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.6666, "x": 1, "y": 1 }
+				]
+			},
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 1, "angle": 0 },
+					{ "time": 1.3666, "angle": -36.46 },
+					{ "time": 1.7333, "angle": 16.46 },
+					{ "time": 2.3, "angle": -26.82 },
+					{ "time": 2.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1, "x": 0, "y": 0 },
+					{ "time": 1.3666, "x": 30.53, "y": 10.96 },
+					{ "time": 1.7333, "x": -18, "y": 48.54 },
+					{ "time": 2.3, "x": 88.46, "y": 137.27 },
+					{ "time": 2.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1, "x": 1, "y": 1 },
+					{ "time": 1.5666, "x": 0.48, "y": 0.466 },
+					{ "time": 1.8666, "x": 0.935, "y": 0.968 },
+					{ "time": 2.3, "x": 1.3, "y": 1.575 },
+					{ "time": 2.6666, "x": 1, "y": 1 }
+				]
+			}
+		},
+		"drawOrder": [
+			{ "time": 0 },
+			{ "time": 0.6666 },
+			{ "time": 1 },
+			{ "time": 2.6666 }
+		]
+	},
+	"wait": {
+		"slots": {
+			"dragon_goldcoast_baby_body": {
+				"attachment": [
+					{ "time": 0, "name": "dragon_goldcoast_baby_body" },
+					{ "time": 2.3333, "name": "dragon_goldcoast_baby_body" },
+					{ "time": 4.6666, "name": "dragon_goldcoast_baby_body" }
+				]
+			},
+			"dragon_goldcoast_baby_eye": {
+				"attachment": [
+					{ "time": 0, "name": "dragon_goldcoast_baby_eye" },
+					{ "time": 2.3333, "name": "dragon_goldcoast_baby_eye" },
+					{ "time": 4.2, "name": null },
+					{ "time": 4.3333, "name": "dragon_goldcoast_baby_eye" },
+					{ "time": 4.6666, "name": "dragon_goldcoast_baby_eye" }
+				]
+			},
+			"dragon_goldcoast_baby_head": {
+				"attachment": [
+					{ "time": 0, "name": "dragon_goldcoast_baby_head" },
+					{ "time": 2.3333, "name": "dragon_goldcoast_baby_head" },
+					{ "time": 4.6666, "name": "dragon_goldcoast_baby_head" }
+				]
+			},
+			"dragon_goldcoast_baby_head_gall": {
+				"attachment": [
+					{ "time": 0, "name": "dragon_goldcoast_baby_head_gall" },
+					{ "time": 2.3333, "name": "dragon_goldcoast_baby_head_gall" },
+					{ "time": 4.6666, "name": "dragon_goldcoast_baby_head_gall" }
+				]
+			},
+			"dragon_goldcoast_baby_houn": {
+				"attachment": [
+					{ "time": 0, "name": "dragon_goldcoast_baby_houn" },
+					{ "time": 2.3333, "name": "dragon_goldcoast_baby_houn" },
+					{ "time": 4.6666, "name": "dragon_goldcoast_baby_houn" }
+				]
+			},
+			"dragon_goldcoast_baby_l_arm": {
+				"attachment": [
+					{ "time": 0, "name": "dragon_goldcoast_baby_l_arm" },
+					{ "time": 2.3333, "name": "dragon_goldcoast_baby_l_arm" },
+					{ "time": 4.6666, "name": "dragon_goldcoast_baby_l_arm" }
+				]
+			},
+			"dragon_goldcoast_baby_l_reg": {
+				"attachment": [
+					{ "time": 0, "name": "dragon_goldcoast_baby_l_reg" },
+					{ "time": 2.3333, "name": "dragon_goldcoast_baby_l_reg" },
+					{ "time": 4.6666, "name": "dragon_goldcoast_baby_l_reg" }
+				]
+			},
+			"dragon_goldcoast_baby_r_arm": {
+				"attachment": [
+					{ "time": 0, "name": "dragon_goldcoast_baby_r_arm" },
+					{ "time": 2.3333, "name": "dragon_goldcoast_baby_r_arm" },
+					{ "time": 4.6666, "name": "dragon_goldcoast_baby_r_arm" }
+				]
+			},
+			"dragon_goldcoast_baby_r_reg": {
+				"attachment": [
+					{ "time": 0, "name": "dragon_goldcoast_baby_r_reg" },
+					{ "time": 2.3333, "name": "dragon_goldcoast_baby_r_reg" },
+					{ "time": 4.6666, "name": "dragon_goldcoast_baby_r_reg" }
+				]
+			},
+			"dragon_goldcoast_baby_tail": {
+				"attachment": [
+					{ "time": 0, "name": "dragon_goldcoast_baby_tail" },
+					{ "time": 2.3333, "name": "dragon_goldcoast_baby_tail" },
+					{ "time": 4.6666, "name": "dragon_goldcoast_baby_tail" }
+				]
+			},
+			"dragon_goldcoast_baby_wing1": {
+				"attachment": [
+					{ "time": 0, "name": "dragon_goldcoast_baby_wing1" },
+					{ "time": 2.3333, "name": "dragon_goldcoast_baby_wing1" },
+					{ "time": 4.6666, "name": "dragon_goldcoast_baby_wing1" }
+				]
+			},
+			"dragon_goldcoast_baby_wing2": {
+				"attachment": [
+					{ "time": 0, "name": "dragon_goldcoast_baby_wing2" },
+					{ "time": 2.3333, "name": "dragon_goldcoast_baby_wing2" },
+					{ "time": 4.6666, "name": "dragon_goldcoast_baby_wing2" }
+				]
+			},
+			"dragon_goldcoast_baby_wing3": {
+				"attachment": [
+					{ "time": 0, "name": "dragon_goldcoast_baby_wing3" },
+					{ "time": 2.3333, "name": "dragon_goldcoast_baby_wing3" },
+					{ "time": 4.6666, "name": "dragon_goldcoast_baby_wing3" }
+				]
+			},
+			"dragon_love_effect_heart": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 2.3333, "name": null },
+					{ "time": 4.6666, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"dragon_goldcoast_baby_body": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 1.1666, "angle": 0.45 },
+					{ "time": 2.3333, "angle": 0, "curve": "stepped" },
+					{ "time": 4.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 1.1666, "x": 0, "y": -3.32 },
+					{ "time": 2.3333, "x": 0, "y": 0 },
+					{ "time": 3.5, "x": 0, "y": -3.32 },
+					{ "time": 4.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 4.6666, "x": 1, "y": 1 }
+				]
+			},
+			"dragon_goldcoast_baby_houn": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 1.1666, "angle": 6.79 },
+					{ "time": 2.3333, "angle": 0 },
+					{ "time": 3.5, "angle": 6.79 },
+					{ "time": 4.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 4.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 4.6666, "x": 1, "y": 1 }
+				]
+			},
+			"dragon_goldcoast_baby_r_reg": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 2.3333, "angle": 0, "curve": "stepped" },
+					{ "time": 4.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 4.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 4.6666, "x": 1, "y": 1 }
+				]
+			},
+			"dragon_goldcoast_baby_wing2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 1.1666, "angle": -11.5 },
+					{ "time": 2.3333, "angle": 0 },
+					{ "time": 3.5, "angle": -11.5 },
+					{ "time": 4.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 4.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 1.3333, "x": 0.727, "y": 1 },
+					{ "time": 2.3333, "x": 1, "y": 1 },
+					{ "time": 3.5666, "x": 0.634, "y": 1 },
+					{ "time": 3.7333, "x": 1, "y": 1 },
+					{ "time": 3.8666, "x": 0.634, "y": 1 },
+					{ "time": 4.0333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 4.6666, "x": 1, "y": 1 }
+				]
+			},
+			"dragon_goldcoast_baby_head": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 1.1666, "angle": -5.26 },
+					{ "time": 2.3333, "angle": 0 },
+					{ "time": 3.5, "angle": 5.33 },
+					{ "time": 4.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.1666, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 3.5, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 4.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 4.6666, "x": 1, "y": 1 }
+				]
+			},
+			"dragon_goldcoast_baby_wing1": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 1.1666, "angle": 5.75 },
+					{ "time": 2.3333, "angle": 0 },
+					{ "time": 3.5, "angle": 5.75 },
+					{ "time": 4.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 4.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 1.1666, "x": 0.684, "y": 1 },
+					{ "time": 2.3333, "x": 1, "y": 1 },
+					{ "time": 3.5666, "x": 0.681, "y": 1 },
+					{ "time": 3.7333, "x": 1, "y": 1 },
+					{ "time": 3.8666, "x": 0.681, "y": 1 },
+					{ "time": 4.0333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 4.6666, "x": 1, "y": 1 }
+				]
+			},
+			"dragon_goldcoast_baby_l_arm": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 2.3333, "angle": 0, "curve": "stepped" },
+					{ "time": 4.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 4.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 4.6666, "x": 1, "y": 1 }
+				]
+			},
+			"dragon_goldcoast_baby_r_arm": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 2.3333, "angle": 0, "curve": "stepped" },
+					{ "time": 4.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 4.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 4.6666, "x": 1, "y": 1 }
+				]
+			},
+			"dragon_goldcoast_baby_l_reg": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 2.3333, "angle": 0, "curve": "stepped" },
+					{ "time": 4.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 4.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 4.6666, "x": 1, "y": 1 }
+				]
+			},
+			"dragon_goldcoast_baby_wing3": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 1.1666, "angle": 15.98 },
+					{ "time": 2.3333, "angle": 0 },
+					{ "time": 3.5, "angle": -2.88 },
+					{ "time": 4.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 4.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 4.6666, "x": 1, "y": 1 }
+				]
+			},
+			"dragon_goldcoast_baby_tail": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 1.1666, "angle": -37.57 },
+					{ "time": 2.3333, "angle": 0 },
+					{ "time": 3.5, "angle": -10.71 },
+					{ "time": 4.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 1.1666, "x": 2.61, "y": -0.17 },
+					{ "time": 2.3333, "x": 0, "y": 0 },
+					{ "time": 3.5, "x": 2.61, "y": -0.17 },
+					{ "time": 4.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 1.1666, "x": 0.913, "y": 1 },
+					{ "time": 2.3333, "x": 1, "y": 1 },
+					{ "time": 3.5, "x": 0.913, "y": 1 },
+					{ "time": 4.6666, "x": 1, "y": 1 }
+				]
+			},
+			"dragon_goldcoast_baby_head_gall": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 2.3333, "angle": 0, "curve": "stepped" },
+					{ "time": 4.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 4.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 4.6666, "x": 1, "y": 1 }
+				]
+			},
+			"dragon_goldcoast_baby_eye": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 2.3333, "angle": 0, "curve": "stepped" },
+					{ "time": 4.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 4.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 4.6666, "x": 1, "y": 1 }
+				]
+			},
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 2.3333, "angle": 0, "curve": "stepped" },
+					{ "time": 4.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 4.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 4.6666, "x": 1, "y": 1 }
+				]
+			},
+			"center": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 2.3333, "angle": 0, "curve": "stepped" },
+					{ "time": 4.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 4.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 4.6666, "x": 1, "y": 1 }
+				]
+			},
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 2.3333, "angle": 0, "curve": "stepped" },
+					{ "time": 4.6666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.3333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 4.6666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 2.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 4.6666, "x": 1, "y": 1 }
+				]
+			}
+		},
+		"drawOrder": [
+			{ "time": 0 },
+			{ "time": 2.3333 },
+			{ "time": 4.6666 }
+		]
+	}
+}
+}

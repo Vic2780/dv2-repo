@@ -1,0 +1,823 @@
+dragon_4147_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_razikas_child_eye0
+  rotate: false
+  xy: 1084, 555
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_r_ear
+  rotate: true
+  xy: 2016, 437
+  size: 33, 13
+  orig: 33, 13
+  offset: 0, 0
+  index: -1
+dragon_razikas_child_mouth1
+  rotate: false
+  xy: 1247, 580
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+dragon_razikas_baby_mouth0
+  rotate: false
+  xy: 1750, 589
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_l_leg2
+  rotate: true
+  xy: 2004, 314
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_neck
+  rotate: false
+  xy: 972, 538
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_tail3
+  rotate: false
+  xy: 1578, 579
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_mouth1
+  rotate: false
+  xy: 1036, 471
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+dragon_razikas_critical_wave7
+  rotate: false
+  xy: 2, 2
+  size: 426, 197
+  orig: 436, 203
+  offset: 4, 2
+  index: -1
+dragon_razikas_baby_body0
+  rotate: false
+  xy: 2004, 179
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+dragon_razikas_child_tail3
+  rotate: false
+  xy: 932, 538
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+dragon_razikas_critical_wave4
+  rotate: false
+  xy: 1614, 2
+  size: 325, 176
+  orig: 341, 188
+  offset: 6, 5
+  index: -1
+dragon_razikas_child_r_arm3
+  rotate: false
+  xy: 1063, 584
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_eye3
+  rotate: false
+  xy: 176, 590
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+dragon_razikas_child_neck
+  rotate: true
+  xy: 1183, 580
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_r_arm2
+  rotate: false
+  xy: 316, 561
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+dragon_razikas_child_r_leg3
+  rotate: false
+  xy: 1143, 580
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+dragon_razikas_child_l_arm3
+  rotate: false
+  xy: 1334, 584
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+dragon_razikas_critical_wave32
+  rotate: true
+  xy: 1941, 2
+  size: 175, 79
+  orig: 177, 81
+  offset: 1, 1
+  index: -1
+dragon_razikas_adult_l_ear
+  rotate: false
+  xy: 2016, 417
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+dragon_razikas_child_l_ear
+  rotate: false
+  xy: 666, 595
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+dragon_razikas_child_l_leg3
+  rotate: false
+  xy: 1545, 568
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_l_arm2
+  rotate: false
+  xy: 358, 561
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+dragon_razikas_child_body1
+  rotate: true
+  xy: 1350, 567
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_tail4
+  rotate: false
+  xy: 1818, 544
+  size: 80, 62
+  orig: 80, 62
+  offset: 0, 0
+  index: -1
+dragon_razikas_critical_lancedown_b2
+  rotate: true
+  xy: 637, 198
+  size: 143, 167
+  orig: 145, 169
+  offset: 1, 1
+  index: -1
+dragon_razikas_adult_mouth0
+  rotate: false
+  xy: 1290, 584
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dragon_razikas_critical_wave6
+  rotate: false
+  xy: 430, 2
+  size: 379, 194
+  orig: 383, 204
+  offset: 3, 2
+  index: -1
+dragon_razikas_child_lance
+  rotate: true
+  xy: 2, 551
+  size: 37, 187
+  orig: 37, 187
+  offset: 0, 0
+  index: -1
+dragon_razikas_baby_mouth1
+  rotate: false
+  xy: 1978, 582
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_eye2
+  rotate: true
+  xy: 2022, 19
+  size: 11, 12
+  orig: 11, 14
+  offset: 0, 1
+  index: -1
+dragon_razikas_critical_wind_a5
+  rotate: false
+  xy: 497, 322
+  size: 128, 179
+  orig: 130, 187
+  offset: 1, 1
+  index: -1
+dragon_razikas_baby_r_arm2
+  rotate: false
+  xy: 1312, 584
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_l_leg3
+  rotate: false
+  xy: 2004, 269
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_r_leg1
+  rotate: true
+  xy: 666, 561
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: -1
+dragon_razikas_baby_l_arm1
+  rotate: true
+  xy: 1067, 555
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+dragon_razikas_baby_body1
+  rotate: false
+  xy: 972, 587
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+dragon_razikas_critical_wind_a1
+  rotate: true
+  xy: 1100, 436
+  size: 142, 165
+  orig: 146, 179
+  offset: 0, 8
+  index: -1
+dragon_razikas_adult_r_leg4
+  rotate: false
+  xy: 1005, 538
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_tail1
+  rotate: false
+  xy: 1504, 498
+  size: 77, 68
+  orig: 77, 68
+  offset: 0, 0
+  index: -1
+dragon_razikas_baby_lance
+  rotate: false
+  xy: 2, 590
+  size: 148, 16
+  orig: 148, 16
+  offset: 0, 0
+  index: -1
+dragon_razikas_child_tail1
+  rotate: false
+  xy: 932, 472
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+dragon_razikas_baby_eye0
+  rotate: false
+  xy: 2016, 511
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+dragon_razikas_critical_wind_a4
+  rotate: true
+  xy: 1818, 387
+  size: 155, 196
+  orig: 157, 204
+  offset: 1, 1
+  index: -1
+dragon_razikas_critical_lanceup_a1
+  rotate: true
+  xy: 1356, 130
+  size: 294, 253
+  orig: 296, 255
+  offset: 1, 1
+  index: -1
+dragon_razikas_baby_r_arm1
+  rotate: true
+  xy: 720, 595
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_l_arm3
+  rotate: false
+  xy: 444, 561
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+dragon_razikas_baby_r_leg2
+  rotate: true
+  xy: 2003, 582
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_r_arm1
+  rotate: false
+  xy: 1750, 551
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_l_wing
+  rotate: true
+  xy: 497, 503
+  size: 98, 131
+  orig: 98, 131
+  offset: 0, 0
+  index: -1
+dragon_razikas_critical_ring_a2
+  rotate: false
+  xy: 1834, 180
+  size: 168, 205
+  orig: 170, 207
+  offset: 1, 1
+  index: -1
+dragon_razikas_baby_l_leg1
+  rotate: false
+  xy: 1067, 530
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_body1
+  rotate: true
+  xy: 191, 551
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_eye1
+  rotate: false
+  xy: 1286, 130
+  size: 11, 12
+  orig: 11, 14
+  offset: 0, 1
+  index: -1
+dragon_razikas_baby_tail1
+  rotate: true
+  xy: 2016, 360
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_l_leg4
+  rotate: false
+  xy: 1405, 567
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_r_arm4
+  rotate: false
+  xy: 1439, 567
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+dragon_razikas_child_body2
+  rotate: false
+  xy: 1062, 499
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+dragon_razikas_critical_wave21
+  rotate: false
+  xy: 630, 492
+  size: 131, 67
+  orig: 135, 69
+  offset: 1, 1
+  index: -1
+dragon_razikas_adult_l_arm4_a1
+  rotate: false
+  xy: 1611, 551
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+dragon_razikas_critical_wave9
+  rotate: false
+  xy: 811, 2
+  size: 433, 140
+  orig: 441, 146
+  offset: 4, 1
+  index: -1
+dragon_razikas_baby_r_wing
+  rotate: false
+  xy: 1025, 580
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+dragon_razikas_child_eye2
+  rotate: true
+  xy: 1063, 571
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+dragon_razikas_critical_wind_a7
+  rotate: false
+  xy: 1267, 436
+  size: 81, 146
+  orig: 87, 158
+  offset: 0, 8
+  index: -1
+dragon_razikas_baby_mouth2
+  rotate: true
+  xy: 152, 590
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+dragon_razikas_baby_r_leg1
+  rotate: true
+  xy: 1265, 584
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_l_arm4_a2
+  rotate: false
+  xy: 1270, 130
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+dragon_razikas_baby_l_arm2
+  rotate: true
+  xy: 742, 595
+  size: 11, 17
+  orig: 11, 17
+  offset: 0, 0
+  index: -1
+dragon_razikas_child_mouth0
+  rotate: true
+  xy: 2016, 394
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_eye0
+  rotate: false
+  xy: 2004, 360
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+dragon_razikas_critical_wind_a3
+  rotate: false
+  xy: 1611, 180
+  size: 221, 199
+  orig: 225, 209
+  offset: 3, 3
+  index: -1
+dragon_razikas_baby_r_ear
+  rotate: false
+  xy: 697, 595
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+dragon_razikas_child_r_arm1
+  rotate: false
+  xy: 1797, 589
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_l_leg1
+  rotate: false
+  xy: 1696, 551
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+dragon_razikas_baby_head0
+  rotate: false
+  xy: 249, 551
+  size: 65, 54
+  orig: 65, 54
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_r_leg3
+  rotate: false
+  xy: 763, 547
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_lance
+  rotate: false
+  xy: 337, 374
+  size: 158, 185
+  orig: 158, 185
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_tail2
+  rotate: true
+  xy: 1583, 498
+  size: 79, 26
+  orig: 79, 26
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_r_wing
+  rotate: true
+  xy: 794, 472
+  size: 126, 136
+  orig: 126, 136
+  offset: 0, 0
+  index: -1
+dragon_razikas_baby_l_ear
+  rotate: true
+  xy: 2016, 472
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+dragon_razikas_child_head0
+  rotate: false
+  xy: 427, 322
+  size: 63, 50
+  orig: 63, 50
+  offset: 0, 0
+  index: -1
+dragon_razikas_child_l_wing1
+  rotate: true
+  xy: 1628, 551
+  size: 53, 66
+  orig: 53, 66
+  offset: 0, 0
+  index: -1
+dragon_razikas_child_r_leg1
+  rotate: true
+  xy: 2004, 219
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+dragon_razikas_critical_wave31
+  rotate: false
+  xy: 1350, 498
+  size: 152, 67
+  orig: 154, 69
+  offset: 0, 1
+  index: -1
+dragon_razikas_critical_wave8
+  rotate: false
+  xy: 2, 201
+  size: 423, 171
+  orig: 425, 179
+  offset: 1, 4
+  index: -1
+dragon_razikas_baby_eye2
+  rotate: true
+  xy: 2022, 2
+  size: 15, 12
+  orig: 15, 14
+  offset: 0, 1
+  index: -1
+dragon_razikas_child_eye1
+  rotate: true
+  xy: 1079, 571
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+dragon_razikas_critical_wind_a6
+  rotate: true
+  xy: 430, 198
+  size: 122, 205
+  orig: 132, 219
+  offset: 4, 12
+  index: -1
+dragon_razikas_child_l_arm1
+  rotate: true
+  xy: 992, 504
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+dragon_razikas_child_r_tail4
+  rotate: true
+  xy: 1776, 589
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+dragon_razikas_child_tail2
+  rotate: false
+  xy: 1027, 504
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+dragon_razikas_critical_wave1
+  rotate: false
+  xy: 794, 386
+  size: 197, 84
+  orig: 201, 94
+  offset: 3, 1
+  index: -1
+dragon_razikas_child_r_arm2
+  rotate: false
+  xy: 794, 343
+  size: 15, 41
+  orig: 15, 41
+  offset: 0, 0
+  index: -1
+dragon_razikas_critical_lancedown_a2
+  rotate: false
+  xy: 1110, 144
+  size: 244, 290
+  orig: 246, 292
+  offset: 1, 1
+  index: -1
+dragon_razikas_baby_tail2
+  rotate: true
+  xy: 1000, 587
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+dragon_razikas_child_l_leg1
+  rotate: true
+  xy: 398, 561
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+dragon_razikas_critical_lanceup_b1
+  rotate: false
+  xy: 627, 343
+  size: 165, 147
+  orig: 167, 149
+  offset: 1, 1
+  index: -1
+dragon_razikas_child_r_leg2
+  rotate: true
+  xy: 993, 471
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+dragon_razikas_baby_l_wing
+  rotate: true
+  xy: 1038, 537
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+dragon_razikas_child_r_wing
+  rotate: false
+  xy: 763, 492
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+dragon_razikas_child_l_arm2
+  rotate: true
+  xy: 1063, 471
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+dragon_razikas_critical_circle_a1
+  rotate: false
+  xy: 1356, 426
+  size: 243, 70
+  orig: 245, 72
+  offset: 1, 1
+  index: -1
+dragon_razikas_baby_eye1
+  rotate: false
+  xy: 2016, 493
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+dragon_razikas_critical_ring_a1
+  rotate: true
+  xy: 1611, 381
+  size: 168, 205
+  orig: 170, 207
+  offset: 1, 1
+  index: -1
+dragon_razikas_baby_l_leg2
+  rotate: true
+  xy: 1216, 580
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+dragon_razikas_critical_wind_a2
+  rotate: true
+  xy: 811, 144
+  size: 240, 297
+  orig: 242, 309
+  offset: 1, 1
+  index: -1
+dragon_razikas_adult_body2
+  rotate: true
+  xy: 1499, 568
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+dragon_razikas_child_l_tail4
+  rotate: true
+  xy: 1246, 130
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
+dragon_razikas_critical_wave5
+  rotate: false
+  xy: 2, 374
+  size: 333, 175
+  orig: 335, 185
+  offset: 1, 4
+  index: -1
+dragon_razikas_adult_r_leg2
+  rotate: true
+  xy: 1469, 567
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_head0
+  rotate: false
+  xy: 1900, 544
+  size: 76, 58
+  orig: 76, 58
+  offset: 0, 0
+  index: -1
+dragon_razikas_child_l_leg2
+  rotate: true
+  xy: 1097, 580
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_l_arm1
+  rotate: true
+  xy: 630, 561
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_r_arm3
+  rotate: false
+  xy: 1978, 544
+  size: 56, 36
+  orig: 56, 36
+  offset: 0, 0
+  index: -1
+dragon_razikas_adult_l_arm4_a3
+  rotate: false
+  xy: 731, 561
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+dragon_razikas_critical_circle_a2
+  rotate: false
+  xy: 1246, 2
+  size: 366, 126
+  orig: 368, 128
+  offset: 1, 1
+  index: -1
+dragon_razikas_critical_wave22
+  rotate: false
+  xy: 993, 386
+  size: 105, 83
+  orig: 107, 87
+  offset: 1, 1
+  index: -1

@@ -6,41 +6,75 @@
         <dict>
             <key>dragon/dragon_3033_critical/critical.png</key>
             <dict>
-                <key>frame</key>
-                <string>{{2,116},{384,260}}</string>
-                <key>offset</key>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
                 <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{384,260}}</string>
-                <key>sourceSize</key>
+                <key>spriteSize</key>
                 <string>{384,260}</string>
+                <key>spriteSourceSize</key>
+                <string>{384,260}</string>
+                <key>textureRect</key>
+                <string>{{451,1},{384,260}}</string>
+                <key>textureRotated</key>
+                <false/>
             </dict>
             <key>dragon/dragon_3033_critical/cut_in.png</key>
             <dict>
-                <key>frame</key>
-                <string>{{2,2},{448,112}}</string>
-                <key>offset</key>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
                 <string>{64,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{128,0},{448,112}}</string>
-                <key>sourceSize</key>
+                <key>spriteSize</key>
+                <string>{448,112}</string>
+                <key>spriteSourceSize</key>
                 <string>{576,112}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{448,112}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>dragon/dragon_3033_critical/e_critical.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{384,260}</string>
+                <key>spriteSourceSize</key>
+                <string>{384,260}</string>
+                <key>textureRect</key>
+                <string>{{1,115},{384,260}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+            <key>dragon/dragon_3033_critical/e_cut_in.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{64,0}</string>
+                <key>spriteSize</key>
+                <string>{448,112}</string>
+                <key>spriteSourceSize</key>
+                <string>{576,112}</string>
+                <key>textureRect</key>
+                <string>{{387,263},{448,112}}</string>
+                <key>textureRotated</key>
+                <false/>
             </dict>
         </dict>
         <key>metadata</key>
         <dict>
             <key>format</key>
-            <integer>2</integer>
+            <integer>3</integer>
             <key>realTextureFileName</key>
             <string>dragon_3033_critical.pvr.ccz</string>
             <key>size</key>
-            <string>{452,378}</string>
+            <string>{836,376}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:9a7b9395dc0733d6c827381399f8876a:ca16e38e7710ce8f35813bc2ed38ffd6:0acdefb3097ac3c9da1ed1ed054c1429$</string>
+            <string>$TexturePacker:SmartUpdate:71e64abde69c10b2701ed6d924adc210:c5f987584f7bff87887c44cb169d5259:0acdefb3097ac3c9da1ed1ed054c1429$</string>
             <key>textureFileName</key>
             <string>dragon_3033_critical.pvr.ccz</string>
         </dict>

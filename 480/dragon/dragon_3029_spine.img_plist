@@ -3,8 +3,8 @@ format: RGBA4444
 filter: Linear,Linear
 repeat: none
 dragon_darkknight_adult_leg1
-  rotate: false
-  xy: 630, 416
+  rotate: true
+  xy: 225, 1350
   size: 36, 59
   orig: 36, 59
   offset: 0, 0
@@ -17,303 +17,450 @@ dragon_darkknight_critical04
   offset: 0, 0
   index: -1
 dragon_darkknight_adult_eye
-  rotate: true
-  xy: 788, 397
+  rotate: false
+  xy: 448, 717
   size: 13, 8
   orig: 13, 8
   offset: 0, 0
   index: -1
-dragon_darkknight_child_leg2
-  rotate: false
-  xy: 676, 466
-  size: 35, 41
-  orig: 35, 41
+dragon_darkknight_adult_e_neck
+  rotate: true
+  xy: 2, 1328
+  size: 55, 89
+  orig: 55, 89
+  offset: 0, 0
+  index: -1
+dragon_darkknight_e_light2
+  rotate: true
+  xy: 204, 853
+  size: 292, 42
+  orig: 292, 42
+  offset: 0, 0
+  index: -1
+dragon_darkknight_e_round
+  rotate: true
+  xy: 298, 2
+  size: 312, 180
+  orig: 312, 180
   offset: 0, 0
   index: -1
 dragon_darkknight_adult_arm2
-  rotate: true
-  xy: 668, 426
+  rotate: false
+  xy: 456, 1071
   size: 38, 56
   orig: 38, 56
   offset: 0, 0
   index: -1
+dragon_darkknight_child_leg2
+  rotate: false
+  xy: 437, 1335
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
 dragon_darkknight_baby_eye
   rotate: false
-  xy: 801, 117
+  xy: 486, 808
   size: 17, 21
   orig: 17, 21
   offset: 0, 0
   index: -1
-dragon_darkknight_child_love
+dragon_darkknight_adult_e_leg1
   rotate: false
-  xy: 731, 397
+  xy: 469, 717
+  size: 37, 64
+  orig: 37, 64
+  offset: 0, 0
+  index: -1
+dragon_darkknight_child_love
+  rotate: true
+  xy: 412, 1259
   size: 55, 38
   orig: 55, 38
   offset: 0, 0
   index: -1
 dragon_darkknight_adult_body
   rotate: true
-  xy: 734, 2
+  xy: 248, 1168
   size: 113, 78
   orig: 113, 78
   offset: 0, 0
   index: -1
 dragon_darkknight_baby_helmet
   rotate: false
-  xy: 513, 418
+  xy: 448, 640
   size: 56, 75
   orig: 56, 75
   offset: 0, 0
   index: -1
-dragon_darkknight_child_head
-  rotate: false
-  xy: 726, 437
-  size: 55, 38
-  orig: 55, 38
-  offset: 0, 0
-  index: -1
 dragon_darkknight_adult_neck
   rotate: true
-  xy: 576, 251
+  xy: 158, 1286
   size: 53, 89
   orig: 53, 89
   offset: 0, 0
   index: -1
-dragon_darkknight_child_leg1
+dragon_darkknight_child_head
   rotate: true
-  xy: 713, 477
+  xy: 452, 1251
+  size: 55, 38
+  orig: 55, 38
+  offset: 0, 0
+  index: -1
+dragon_darkknight_child_leg1
+  rotate: false
+  xy: 479, 968
   size: 29, 46
   orig: 29, 46
   offset: 0, 0
   index: -1
 dragon_darkknight_baby_love
-  rotate: true
-  xy: 531, 366
+  rotate: false
+  xy: 456, 1129
   size: 47, 34
   orig: 47, 34
   offset: 0, 0
   index: -1
+dragon_darkknight_e_light3
+  rotate: true
+  xy: 160, 853
+  size: 292, 42
+  orig: 292, 42
+  offset: 0, 0
+  index: -1
 dragon_darkknight_adult_damaged
-  rotate: false
-  xy: 44, 482
+  rotate: true
+  xy: 480, 44
   size: 40, 28
   orig: 40, 28
   offset: 0, 0
   index: -1
 dragon_darkknight_adult_arm1
-  rotate: true
-  xy: 651, 323
+  rotate: false
+  xy: 419, 727
   size: 48, 79
   orig: 48, 79
   offset: 0, 0
   index: -1
 dragon_darkknight_baby_body
   rotate: false
-  xy: 667, 251
+  xy: 381, 655
   size: 65, 70
   orig: 65, 70
   offset: 0, 0
   index: -1
 dragon_darkknight_critical02
-  rotate: false
-  xy: 298, 298
+  rotate: true
+  xy: 160, 620
   size: 231, 118
   orig: 311, 158
   offset: 45, 0
   index: -1
-dragon_darkknight_child_arm2
+dragon_darkknight_e_light6
   rotate: true
-  xy: 630, 477
+  xy: 280, 324
+  size: 203, 101
+  orig: 211, 107
+  offset: 5, 0
+  index: -1
+dragon_darkknight_child_arm2
+  rotate: false
+  xy: 352, 1342
   size: 33, 44
   orig: 33, 44
   offset: 0, 0
   index: -1
 dragon_darkknight_baby_head
-  rotate: true
-  xy: 672, 373
+  rotate: false
+  xy: 442, 909
   size: 51, 57
   orig: 51, 57
   offset: 0, 0
   index: -1
 dragon_darkknight_child_eye
-  rotate: false
-  xy: 513, 495
+  rotate: true
+  xy: 328, 1259
   size: 22, 15
   orig: 22, 15
   offset: 0, 0
   index: -1
+dragon_darkknight_e_light4
+  rotate: true
+  xy: 383, 316
+  size: 197, 99
+  orig: 211, 107
+  offset: 5, 2
+  index: -1
+dragon_darkknight_adult_e_leg4
+  rotate: true
+  xy: 480, 224
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+dragon_darkknight_adult_e_body
+  rotate: true
+  xy: 442, 579
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
 dragon_darkknight_baby_effect
   rotate: false
-  xy: 571, 416
+  xy: 383, 515
   size: 57, 60
   orig: 57, 60
   offset: 0, 0
   index: -1
 dragon_darkknight_baby_arm
   rotate: true
-  xy: 217, 482
+  xy: 452, 1308
   size: 25, 38
   orig: 25, 38
   offset: 0, 0
   index: -1
 dragon_darkknight_adult_leg4
   rotate: true
-  xy: 798, 360
+  xy: 480, 269
   size: 42, 20
   orig: 42, 20
   offset: 0, 0
   index: -1
 dragon_darkknight_critical05
   rotate: false
-  xy: 298, 2
+  xy: 2, 324
   size: 276, 294
   orig: 294, 320
   offset: 9, 13
   index: -1
-dragon_darkknight_adult_love
+dragon_darkknight_adult_e_arm2
   rotate: false
-  xy: 801, 140
+  xy: 248, 1109
+  size: 40, 57
+  orig: 40, 57
+  offset: 0, 0
+  index: -1
+dragon_darkknight_adult_love
+  rotate: true
+  xy: 492, 1247
   size: 17, 16
   orig: 17, 18
   offset: 0, 1
   index: -1
 dragon_darkknight_baby_leg
   rotate: false
-  xy: 761, 482
+  xy: 474, 1221
   size: 34, 24
   orig: 34, 24
   offset: 0, 0
   index: -1
+dragon_darkknight_e_light5
+  rotate: true
+  xy: 280, 529
+  size: 199, 99
+  orig: 211, 107
+  offset: 4, 2
+  index: -1
 dragon_darkknight_adult_attack
-  rotate: false
-  xy: 86, 482
+  rotate: true
+  xy: 480, 86
   size: 40, 28
   orig: 40, 28
   offset: 0, 0
   index: -1
+dragon_darkknight_adult_e_wing
+  rotate: false
+  xy: 280, 730
+  size: 137, 113
+  orig: 137, 113
+  offset: 0, 0
+  index: -1
 dragon_darkknight_adult_helmet
-  rotate: true
-  xy: 567, 367
+  rotate: false
+  xy: 456, 1016
   size: 47, 53
   orig: 47, 53
   offset: 0, 0
   index: -1
 dragon_darkknight_adult_head
-  rotate: false
-  xy: 2, 482
+  rotate: true
+  xy: 480, 2
   size: 40, 28
   orig: 40, 28
   offset: 0, 0
   index: -1
 dragon_darkknight_adult_arm3
-  rotate: false
-  xy: 128, 482
+  rotate: true
+  xy: 480, 176
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+dragon_darkknight_adult_e_arm3
+  rotate: true
+  xy: 480, 128
   size: 46, 22
   orig: 46, 22
   offset: 0, 0
   index: -1
 dragon_darkknight_child_body
-  rotate: true
-  xy: 734, 117
+  rotate: false
+  xy: 249, 1283
   size: 94, 65
   orig: 94, 65
   offset: 0, 0
   index: -1
 dragon_darkknight_adult_wing
-  rotate: false
-  xy: 383, 418
+  rotate: true
+  xy: 158, 1156
   size: 128, 88
   orig: 128, 88
   offset: 0, 0
   index: -1
 dragon_darkknight_baby_wing
   rotate: true
-  xy: 783, 437
+  xy: 442, 968
   size: 43, 35
   orig: 43, 35
   offset: 0, 0
   index: -1
 dragon_darkknight_baby_love2
-  rotate: false
-  xy: 801, 140
+  rotate: true
+  xy: 492, 1247
   size: 17, 16
   orig: 17, 18
   offset: 0, 1
   index: -1
 dragon_darkknight_child_wing
-  rotate: false
-  xy: 573, 306
+  rotate: true
+  xy: 381, 577
   size: 76, 59
   orig: 76, 59
   offset: 0, 0
   index: -1
+dragon_darkknight_e_critical2
+  rotate: true
+  xy: 2, 1156
+  size: 170, 154
+  orig: 172, 158
+  offset: 2, 3
+  index: -1
 dragon_darkknight_adult_leg2
   rotate: false
-  xy: 176, 482
+  xy: 469, 783
   size: 39, 23
   orig: 39, 23
   offset: 0, 0
   index: -1
 dragon_darkknight_child_neck
-  rotate: false
-  xy: 531, 298
+  rotate: true
+  xy: 157, 1341
   size: 40, 66
   orig: 40, 66
   offset: 0, 0
   index: -1
 dragon_darkknight_critical03
-  rotate: false
-  xy: 2, 324
+  rotate: true
+  xy: 2, 620
   size: 285, 156
   orig: 311, 158
   offset: 25, 0
   index: -1
+dragon_darkknight_adult_e_tail
+  rotate: true
+  xy: 93, 1328
+  size: 53, 62
+  orig: 53, 62
+  offset: 0, 0
+  index: -1
 dragon_darkknight_child_helmet
   rotate: true
-  xy: 734, 296
+  xy: 442, 515
   size: 62, 66
   orig: 62, 66
   offset: 0, 0
   index: -1
 dragon_darkknight_adult_tail
   rotate: false
-  xy: 289, 418
+  xy: 328, 1165
   size: 92, 92
   orig: 92, 92
   offset: 0, 0
   index: -1
+dragon_darkknight_adult_e_helmet
+  rotate: false
+  xy: 442, 845
+  size: 49, 62
+  orig: 49, 62
+  offset: 0, 0
+  index: -1
 dragon_darkknight_child_tail
   rotate: false
-  xy: 734, 213
+  xy: 345, 1259
   size: 65, 81
   orig: 65, 81
   offset: 0, 0
   index: -1
+dragon_darkknight_adult_e_leg3
+  rotate: true
+  xy: 419, 808
+  size: 35, 65
+  orig: 35, 65
+  offset: 0, 0
+  index: -1
 dragon_darkknight_critical01
   rotate: true
-  xy: 576, 2
+  xy: 2, 907
   size: 247, 156
   orig: 311, 158
   offset: 41, 0
   index: -1
 dragon_darkknight_child_arm1
-  rotate: true
-  xy: 571, 478
+  rotate: false
+  xy: 474, 1165
   size: 32, 54
   orig: 32, 54
   offset: 0, 0
   index: -1
+dragon_darkknight_e_critical3
+  rotate: true
+  xy: 290, 845
+  size: 166, 150
+  orig: 172, 158
+  offset: 2, 8
+  index: -1
+dragon_darkknight_adult_leg3
+  rotate: true
+  xy: 286, 1350
+  size: 35, 64
+  orig: 35, 64
+  offset: 0, 0
+  index: -1
 dragon_darkknight_baby_tail
   rotate: false
-  xy: 622, 373
+  xy: 387, 1342
   size: 48, 41
   orig: 48, 41
   offset: 0, 0
   index: -1
-dragon_darkknight_adult_leg3
-  rotate: true
-  xy: 732, 360
-  size: 35, 64
-  orig: 35, 64
+dragon_darkknight_adult_e_arm1
+  rotate: false
+  xy: 422, 1165
+  size: 50, 84
+  orig: 50, 84
   offset: 0, 0
+  index: -1
+dragon_darkknight_e_light1
+  rotate: true
+  xy: 248, 853
+  size: 254, 40
+  orig: 292, 42
+  offset: 17, 1
+  index: -1
+dragon_darkknight_e_critical1
+  rotate: false
+  xy: 290, 1013
+  size: 164, 150
+  orig: 172, 158
+  offset: 1, 7
   index: -1

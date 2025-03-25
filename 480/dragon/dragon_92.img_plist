@@ -7,7 +7,7 @@
             <key>dragon/dragon_92/box_adult.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,227},{69,70}}</string>
+                <string>{{2,299},{69,70}}</string>
                 <key>offset</key>
                 <string>{2,0}</string>
                 <key>rotated</key>
@@ -20,7 +20,7 @@
             <key>dragon/dragon_92/box_baby.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,163},{71,62}}</string>
+                <string>{{2,235},{71,62}}</string>
                 <key>offset</key>
                 <string>{1,-4}</string>
                 <key>rotated</key>
@@ -43,6 +43,19 @@
                 <key>sourceSize</key>
                 <string>{73,70}</string>
             </dict>
+            <key>dragon/dragon_92/box_evolution.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,163},{71,70}}</string>
+                <key>offset</key>
+                <string>{1,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{2,0},{71,70}}</string>
+                <key>sourceSize</key>
+                <string>{73,70}</string>
+            </dict>
             <key>dragon/dragon_92/egg.png</key>
             <dict>
                 <key>frame</key>
@@ -59,7 +72,7 @@
             <key>dragon/dragon_92/egg_small.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,298},{45,55}}</string>
+                <string>{{2,370},{45,55}}</string>
                 <key>offset</key>
                 <string>{-1,-1}</string>
                 <key>rotated</key>
@@ -77,9 +90,9 @@
             <key>realTextureFileName</key>
             <string>dragon_92.pvr.ccz</string>
             <key>size</key>
-            <string>{77,345}</string>
+            <string>{77,417}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:6e2c7e49a5ea5270d7d4bae469d2eb50:5e78bf057dce3b1470238ab09103f36d:e7958bf3b4bc8d32d67732260f8c57f9$</string>
+            <string>$TexturePacker:SmartUpdate:ca383bdc84080aa69dea926a80f2ad74:c0de7598a35e53d67440184d47b955ec:e7958bf3b4bc8d32d67732260f8c57f9$</string>
             <key>textureFileName</key>
             <string>dragon_92.pvr.ccz</string>
         </dict>

@@ -2,165 +2,102 @@ dragon_3030_spine.pvr.ccz
 format: RGBA4444
 filter: Linear,Linear
 repeat: none
-dragon_blackhole_child_heart
-  rotate: false
-  xy: 1223, 342
-  size: 46, 39
-  orig: 46, 39
-  offset: 0, 0
-  index: -1
-dragon_blackhole_adult_wing1
-  rotate: false
-  xy: 1276, 216
-  size: 197, 105
-  orig: 197, 105
-  offset: 0, 0
-  index: -1
-dragon_blackhole_adult_mouth
-  rotate: false
-  xy: 982, 384
-  size: 35, 17
-  orig: 35, 17
-  offset: 0, 0
-  index: -1
-dragon_blackhole_adult_arm2
-  rotate: true
-  xy: 557, 482
-  size: 28, 41
-  orig: 28, 41
-  offset: 0, 0
-  index: -1
-dragon_blackhole_adult_critical03
-  rotate: false
-  xy: 1026, 384
-  size: 201, 99
-  orig: 211, 107
-  offset: 6, 1
-  index: -1
-dragon_blackhole_child_wing1
-  rotate: true
-  xy: 1229, 383
-  size: 67, 42
-  orig: 67, 42
-  offset: 0, 0
-  index: -1
-dragon_blackhole_child_arm1
-  rotate: true
-  xy: 1026, 485
-  size: 25, 47
-  orig: 25, 47
-  offset: 0, 0
-  index: -1
-dragon_blackhole_baby_mouth
-  rotate: false
-  xy: 1139, 485
-  size: 36, 21
-  orig: 36, 21
-  offset: 0, 0
-  index: -1
-dragon_blackhole_adult_body
-  rotate: false
-  xy: 369, 445
-  size: 115, 56
-  orig: 115, 56
-  offset: 0, 0
-  index: -1
-dragon_blackhole_critical_c01
-  rotate: false
-  xy: 307, 409
-  size: 248, 34
-  orig: 292, 42
-  offset: 21, 3
-  index: -1
-dragon_blackhole_adult_arm3
-  rotate: false
-  xy: 929, 384
-  size: 51, 19
-  orig: 51, 19
-  offset: 0, 0
-  index: -1
-dragon_blackhole_critical_a02
-  rotate: false
-  xy: 1276, 2
-  size: 197, 212
-  orig: 349, 342
-  offset: 68, 66
-  index: -1
-dragon_blackhole_adult_smile
-  rotate: false
-  xy: 1343, 420
-  size: 57, 60
-  orig: 57, 60
-  offset: 0, 0
-  index: -1
-dragon_blackhole_adult_leg1
-  rotate: true
-  xy: 1471, 435
-  size: 32, 65
-  orig: 32, 65
-  offset: 0, 0
-  index: -1
-dragon_blackhole_child_mouth
-  rotate: false
-  xy: 1538, 435
-  size: 29, 29
-  orig: 29, 29
-  offset: 0, 0
-  index: -1
-dragon_blackhole_critical_c03
-  rotate: false
-  xy: 2, 435
-  size: 292, 42
-  orig: 292, 42
-  offset: 0, 0
-  index: -1
-dragon_blackhole_child_leg2
-  rotate: true
-  xy: 2, 479
-  size: 26, 53
-  orig: 26, 53
-  offset: 0, 0
-  index: -1
-dragon_blackhole_baby_note2
-  rotate: false
-  xy: 1442, 469
-  size: 35, 41
-  orig: 35, 41
-  offset: 0, 0
-  index: -1
-dragon_blackhole_adult_critical05
-  rotate: false
-  xy: 624, 405
-  size: 201, 105
-  orig: 211, 107
-  offset: 5, 2
-  index: -1
-dragon_blackhole_child_head
-  rotate: true
-  xy: 296, 445
-  size: 65, 71
-  orig: 65, 71
-  offset: 0, 0
-  index: -1
 dragon_blackhole_adult_leg2
   rotate: false
-  xy: 1688, 71
+  xy: 2, 991
   size: 48, 27
   orig: 48, 27
   offset: 0, 0
   index: -1
-dragon_blackhole_child_eye
+dragon_blackhole_e_head
   rotate: false
-  xy: 1120, 485
+  xy: 369, 964
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+dragon_blackhole_critical_b03
+  rotate: false
+  xy: 2, 435
+  size: 303, 401
+  orig: 317, 431
+  offset: 2, 3
+  index: -1
+dragon_blackhole_adult_critical01
+  rotate: true
+  xy: 848, 544
+  size: 197, 95
+  orig: 211, 107
+  offset: 5, 5
+  index: -1
+dragon_blackhole_baby_love
+  rotate: false
+  xy: 440, 857
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+dragon_blackhole_child_eye
+  rotate: true
+  xy: 274, 838
   size: 17, 25
   orig: 17, 25
   offset: 0, 0
   index: -1
 dragon_blackhole_adult_damaged
   rotate: false
-  xy: 1632, 444
+  xy: 930, 926
   size: 59, 32
   orig: 59, 32
+  offset: 0, 0
+  index: -1
+dragon_blackhole_adult_critical04
+  rotate: false
+  xy: 528, 623
+  size: 211, 107
+  orig: 211, 107
+  offset: 0, 0
+  index: -1
+dragon_blackhole_baby_arm
+  rotate: false
+  xy: 1000, 954
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+dragon_blackhole_adult_mouth
+  rotate: false
+  xy: 237, 838
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+dragon_blackhole_adult_neck
+  rotate: false
+  xy: 945, 660
+  size: 74, 96
+  orig: 74, 96
+  offset: 0, 0
+  index: -1
+dragon_blackhole_critical_c02
+  rotate: true
+  xy: 971, 2
+  size: 292, 40
+  orig: 292, 42
+  offset: 0, 2
+  index: -1
+dragon_blackhole_e_tail1
+  rotate: false
+  xy: 237, 964
+  size: 68, 41
+  orig: 68, 41
+  offset: 0, 0
+  index: -1
+dragon_blackhole_child_wing1
+  rotate: true
+  xy: 1003, 536
+  size: 67, 42
+  orig: 67, 42
   offset: 0, 0
   index: -1
 dragon_blackhole_critical_b02
@@ -170,131 +107,264 @@ dragon_blackhole_critical_b02
   orig: 317, 431
   offset: 2, 8
   index: -1
-dragon_blackhole_baby_tail
-  rotate: false
-  xy: 57, 479
-  size: 47, 26
-  orig: 47, 26
-  offset: 0, 0
-  index: -1
 dragon_blackhole_baby_note1
   rotate: false
-  xy: 1706, 388
+  xy: 472, 983
   size: 30, 38
   orig: 32, 40
   offset: 1, 1
   index: -1
-dragon_blackhole_child_tail
-  rotate: true
-  xy: 1475, 377
-  size: 56, 92
-  orig: 56, 92
-  offset: 0, 0
-  index: -1
-dragon_blackhole_baby_eye
+dragon_blackhole_e_ef3
   rotate: false
-  xy: 1540, 466
-  size: 24, 26
-  orig: 24, 26
-  offset: 0, 0
-  index: -1
-dragon_blackhole_adult_leg3
-  rotate: false
-  xy: 1442, 420
-  size: 27, 47
-  orig: 27, 47
+  xy: 2, 838
+  size: 233, 151
+  orig: 233, 151
   offset: 0, 0
   index: -1
 dragon_blackhole_child_leg1
   rotate: true
-  xy: 1075, 485
+  xy: 101, 991
   size: 25, 43
   orig: 25, 43
   offset: 0, 0
   index: -1
+dragon_blackhole_e_wing1
+  rotate: true
+  xy: 994, 434
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+dragon_blackhole_child_mouth
+  rotate: false
+  xy: 986, 895
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+dragon_blackhole_child_arm1
+  rotate: true
+  xy: 52, 991
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+dragon_blackhole_adult_leg3
+  rotate: true
+  xy: 683, 989
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+dragon_blackhole_adult_arm1
+  rotate: true
+  xy: 987, 342
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
 dragon_blackhole_critical_a01
   rotate: false
-  xy: 929, 2
+  xy: 624, 2
   size: 345, 338
   orig: 349, 342
   offset: 2, 1
   index: -1
-dragon_blackhole_baby_leg
+dragon_blackhole_adult_head
   rotate: true
-  xy: 1229, 452
-  size: 20, 40
-  orig: 20, 40
+  xy: 1013, 252
+  size: 59, 32
+  orig: 59, 32
   offset: 0, 0
   index: -1
-dragon_blackhole_child_love
+dragon_blackhole_baby_mouth
   rotate: false
-  xy: 557, 409
-  size: 65, 71
-  orig: 65, 71
+  xy: 624, 386
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+dragon_blackhole_baby_eye
+  rotate: false
+  xy: 1023, 850
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+dragon_blackhole_baby_tail
+  rotate: true
+  xy: 1021, 691
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+dragon_blackhole_e_neck
+  rotate: false
+  xy: 994, 382
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+dragon_blackhole_adult_critical03
+  rotate: false
+  xy: 307, 756
+  size: 201, 99
+  orig: 211, 107
+  offset: 6, 1
+  index: -1
+dragon_blackhole_adult_wing1
+  rotate: false
+  xy: 734, 743
+  size: 197, 105
+  orig: 197, 105
+  offset: 0, 0
+  index: -1
+dragon_blackhole_e_leg
+  rotate: false
+  xy: 189, 991
+  size: 41, 27
+  orig: 41, 27
   offset: 0, 0
   index: -1
 dragon_blackhole_adult_eye
-  rotate: false
-  xy: 1688, 100
+  rotate: true
+  xy: 232, 1007
   size: 15, 9
   orig: 15, 9
   offset: 0, 0
   index: -1
-dragon_blackhole_adult_critical02
+dragon_blackhole_adult_body
   rotate: true
-  xy: 1634, 111
+  xy: 945, 543
+  size: 115, 56
+  orig: 115, 56
+  offset: 0, 0
+  index: -1
+dragon_blackhole_e_tail2
+  rotate: false
+  xy: 1013, 313
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+dragon_blackhole_child_love
+  rotate: true
+  xy: 734, 957
+  size: 65, 71
+  orig: 65, 71
+  offset: 0, 0
+  index: -1
+dragon_blackhole_e_headdam
+  rotate: false
+  xy: 994, 486
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+dragon_blackhole_child_body
+  rotate: true
+  xy: 930, 852
+  size: 72, 54
+  orig: 72, 54
+  offset: 0, 0
+  index: -1
+dragon_blackhole_baby_head
+  rotate: false
+  xy: 440, 920
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+dragon_blackhole_adult_attack
+  rotate: true
+  xy: 966, 960
+  size: 59, 32
+  orig: 59, 32
+  offset: 0, 0
+  index: -1
+dragon_blackhole_e_wing2
+  rotate: true
+  xy: 510, 829
+  size: 193, 110
+  orig: 193, 110
+  offset: 0, 0
+  index: -1
+dragon_blackhole_adult_critical02
+  rotate: false
+  xy: 528, 732
   size: 199, 95
   orig: 211, 107
   offset: 4, 5
   index: -1
 dragon_blackhole_adult_love
   rotate: false
-  xy: 1479, 469
+  xy: 622, 989
   size: 59, 32
   orig: 59, 32
   offset: 0, 0
   index: -1
-dragon_blackhole_baby_body
+dragon_blackhole_adult_arm2
   rotate: true
-  xy: 1693, 444
-  size: 50, 43
-  orig: 50, 43
+  xy: 146, 991
+  size: 28, 41
+  orig: 28, 41
   offset: 0, 0
+  index: -1
+dragon_blackhole_child_leg2
+  rotate: false
+  xy: 1021, 636
+  size: 26, 53
+  orig: 26, 53
+  offset: 0, 0
+  index: -1
+dragon_blackhole_critical_c01
+  rotate: true
+  xy: 1013, 2
+  size: 248, 34
+  orig: 292, 42
+  offset: 21, 3
+  index: -1
+dragon_blackhole_child_tail
+  rotate: false
+  xy: 933, 758
+  size: 56, 92
+  orig: 56, 92
+  offset: 0, 0
+  index: -1
+dragon_blackhole_e_mari
+  rotate: false
+  xy: 991, 926
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+dragon_blackhole_baby_leg
+  rotate: true
+  xy: 662, 386
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+dragon_blackhole_child_arm2
+  rotate: true
+  xy: 1003, 605
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+dragon_blackhole_e_ef1
+  rotate: true
+  xy: 307, 409
+  size: 345, 219
+  orig: 349, 221
+  offset: 2, 0
   index: -1
 dragon_blackhole_critical_a03
   rotate: false
-  xy: 1475, 111
+  xy: 727, 386
   size: 157, 156
   orig: 349, 342
   offset: 95, 96
-  index: -1
-dragon_blackhole_adult_wing2
-  rotate: false
-  xy: 827, 405
-  size: 197, 105
-  orig: 197, 105
-  offset: 0, 0
-  index: -1
-dragon_blackhole_child_wing2
-  rotate: true
-  xy: 1688, 2
-  size: 67, 42
-  orig: 67, 42
-  offset: 0, 0
-  index: -1
-dragon_blackhole_adult_head
-  rotate: false
-  xy: 1569, 447
-  size: 59, 32
-  orig: 59, 32
-  offset: 0, 0
-  index: -1
-dragon_blackhole_adult_neck
-  rotate: true
-  xy: 1632, 312
-  size: 74, 96
-  orig: 74, 96
-  offset: 0, 0
   index: -1
 dragon_blackhole_critical_b01
   rotate: false
@@ -303,94 +373,122 @@ dragon_blackhole_critical_b01
   orig: 317, 431
   offset: 1, 0
   index: -1
-dragon_blackhole_baby_love
-  rotate: true
-  xy: 1569, 377
-  size: 68, 61
-  orig: 68, 61
+dragon_blackhole_child_wing2
+  rotate: false
+  xy: 918, 342
+  size: 67, 42
+  orig: 67, 42
   offset: 0, 0
   index: -1
-dragon_blackhole_critical_c02
+dragon_blackhole_adult_leg1
   rotate: false
-  xy: 929, 342
-  size: 292, 40
-  orig: 292, 42
-  offset: 0, 2
+  xy: 880, 957
+  size: 32, 65
+  orig: 32, 65
+  offset: 0, 0
   index: -1
-dragon_blackhole_baby_arm
-  rotate: true
-  xy: 152, 479
-  size: 20, 37
-  orig: 20, 37
+dragon_blackhole_baby_body
+  rotate: false
+  xy: 914, 960
+  size: 50, 43
+  orig: 50, 43
   offset: 0, 0
   index: -1
 dragon_blackhole_child_neck
-  rotate: true
-  xy: 486, 445
+  rotate: false
+  xy: 991, 758
   size: 51, 69
   orig: 51, 69
   offset: 0, 0
   index: -1
-dragon_blackhole_baby_head
-  rotate: false
-  xy: 1273, 420
-  size: 68, 61
-  orig: 68, 61
-  offset: 0, 0
-  index: -1
-dragon_blackhole_child_body
-  rotate: false
-  xy: 1632, 388
-  size: 72, 54
-  orig: 72, 54
-  offset: 0, 0
-  index: -1
-dragon_blackhole_adult_arm1
-  rotate: false
-  xy: 1402, 420
-  size: 38, 60
-  orig: 38, 60
-  offset: 0, 0
-  index: -1
-dragon_blackhole_critical_b03
-  rotate: false
-  xy: 624, 2
-  size: 303, 401
-  orig: 317, 431
-  offset: 2, 3
-  index: -1
-dragon_blackhole_child_arm2
+dragon_blackhole_e_ga
   rotate: true
-  xy: 106, 479
-  size: 29, 44
-  orig: 29, 44
+  xy: 971, 296
+  size: 44, 40
+  orig: 44, 40
   offset: 0, 0
+  index: -1
+dragon_blackhole_adult_arm3
+  rotate: false
+  xy: 991, 829
+  size: 51, 19
+  orig: 51, 19
+  offset: 0, 0
+  index: -1
+dragon_blackhole_critical_a02
+  rotate: false
+  xy: 528, 409
+  size: 197, 212
+  orig: 349, 342
+  offset: 68, 66
   index: -1
 dragon_blackhole_adult_tail
-  rotate: false
-  xy: 1475, 269
+  rotate: true
+  xy: 886, 386
   size: 155, 106
   orig: 155, 106
   offset: 0, 0
   index: -1
-dragon_blackhole_adult_critical04
+dragon_blackhole_e_wing
   rotate: false
-  xy: 1475, 2
-  size: 211, 107
-  orig: 211, 107
+  xy: 734, 850
+  size: 194, 105
+  orig: 194, 105
   offset: 0, 0
   index: -1
-dragon_blackhole_adult_critical01
-  rotate: false
-  xy: 1276, 323
-  size: 197, 95
-  orig: 211, 107
-  offset: 5, 5
+dragon_blackhole_adult_smile
+  rotate: true
+  xy: 307, 964
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
   index: -1
-dragon_blackhole_adult_attack
+dragon_blackhole_adult_critical05
   rotate: false
-  xy: 1630, 478
-  size: 59, 32
-  orig: 59, 32
+  xy: 237, 857
+  size: 201, 105
+  orig: 211, 107
+  offset: 5, 2
+  index: -1
+dragon_blackhole_child_heart
+  rotate: false
+  xy: 424, 983
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+dragon_blackhole_baby_note2
+  rotate: false
+  xy: 986, 852
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_blackhole_e_ef2
+  rotate: true
+  xy: 622, 829
+  size: 158, 110
+  orig: 158, 110
+  offset: 0, 0
+  index: -1
+dragon_blackhole_child_head
+  rotate: true
+  xy: 807, 957
+  size: 65, 71
+  orig: 65, 71
+  offset: 0, 0
+  index: -1
+dragon_blackhole_adult_wing2
+  rotate: true
+  xy: 741, 544
+  size: 197, 105
+  orig: 197, 105
+  offset: 0, 0
+  index: -1
+dragon_blackhole_critical_c03
+  rotate: false
+  xy: 624, 342
+  size: 292, 42
+  orig: 292, 42
   offset: 0, 0
   index: -1

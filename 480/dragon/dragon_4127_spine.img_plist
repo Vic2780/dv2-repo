@@ -1,0 +1,613 @@
+dragon_4127_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_mysticArts_adult_leg6
+  rotate: false
+  xy: 1669, 102
+  size: 51, 80
+  orig: 71, 88
+  offset: 20, 8
+  index: -1
+dragon_mysticArts_critical_a5
+  rotate: true
+  xy: 957, 2
+  size: 140, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_adult_arm4
+  rotate: true
+  xy: 1282, 127
+  size: 78, 44
+  orig: 80, 44
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_critical_g5
+  rotate: true
+  xy: 1434, 119
+  size: 86, 104
+  orig: 86, 104
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_adult_eir2
+  rotate: true
+  xy: 1124, 139
+  size: 65, 30
+  orig: 65, 30
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_child_arm2
+  rotate: true
+  xy: 479, 169
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_adult_eye2
+  rotate: false
+  xy: 891, 144
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_child_leg3
+  rotate: true
+  xy: 384, 171
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_adult_mouth
+  rotate: true
+  xy: 2006, 30
+  size: 35, 11
+  orig: 35, 11
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_critical_a1
+  rotate: true
+  xy: 1230, 2
+  size: 123, 79
+  orig: 123, 79
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_critical_g6
+  rotate: false
+  xy: 1406, 2
+  size: 93, 115
+  orig: 93, 115
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_adult_leg3
+  rotate: true
+  xy: 913, 154
+  size: 51, 82
+  orig: 71, 90
+  offset: 20, 8
+  index: -1
+dragon_mysticArts_adult_eff3
+  rotate: true
+  xy: 2, 2
+  size: 198, 143
+  orig: 254, 161
+  offset: 0, 15
+  index: -1
+dragon_mysticArts_critical_g1
+  rotate: true
+  xy: 1694, 184
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_child_eye
+  rotate: false
+  xy: 1759, 79
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_critical_a2
+  rotate: true
+  xy: 558, 2
+  size: 161, 93
+  orig: 161, 93
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_baby_eiar2
+  rotate: true
+  xy: 247, 189
+  size: 15, 36
+  orig: 15, 36
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_critical_t3
+  rotate: false
+  xy: 1740, 2
+  size: 68, 75
+  orig: 68, 75
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_critical_g2
+  rotate: false
+  xy: 1939, 164
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_adult_eir1
+  rotate: true
+  xy: 1810, 2
+  size: 72, 25
+  orig: 72, 25
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_adult_neck
+  rotate: false
+  xy: 637, 165
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_baby_eye
+  rotate: false
+  xy: 1962, 144
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_child_boby
+  rotate: true
+  xy: 680, 155
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_child_leg2
+  rotate: true
+  xy: 1738, 183
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_child_tail
+  rotate: false
+  xy: 1884, 144
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_adult_eye
+  rotate: false
+  xy: 911, 144
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_adult_leg2
+  rotate: true
+  xy: 1722, 102
+  size: 79, 32
+  orig: 79, 32
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_adult_eff2
+  rotate: false
+  xy: 653, 2
+  size: 236, 151
+  orig: 254, 161
+  offset: 18, 10
+  index: -1
+dragon_mysticArts_baby_eiar
+  rotate: false
+  xy: 1841, 75
+  size: 38, 23
+  orig: 38, 23
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_adult_body1
+  rotate: true
+  xy: 1156, 139
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_child_arm1
+  rotate: false
+  xy: 1972, 81
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_child_eye2
+  rotate: false
+  xy: 1740, 79
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_baby_headtail1
+  rotate: true
+  xy: 2006, 2
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_adult_arm3
+  rotate: false
+  xy: 1022, 139
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_baby_eyelove2
+  rotate: true
+  xy: 1778, 79
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_critical_a3
+  rotate: true
+  xy: 409, 2
+  size: 165, 88
+  orig: 165, 92
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_adult_headtail1
+  rotate: false
+  xy: 575, 165
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_critical_t4
+  rotate: false
+  xy: 1579, 2
+  size: 80, 98
+  orig: 80, 98
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_critical_g3
+  rotate: false
+  xy: 1756, 102
+  size: 68, 75
+  orig: 68, 75
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_baby_body
+  rotate: false
+  xy: 1935, 81
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_adult_headtail2
+  rotate: true
+  xy: 997, 144
+  size: 58, 23
+  orig: 58, 23
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_child_leg1
+  rotate: true
+  xy: 1766, 179
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_critical_arm2
+  rotate: false
+  xy: 217, 2
+  size: 87, 185
+  orig: 87, 185
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_adult_eff5
+  rotate: false
+  xy: 1906, 73
+  size: 27, 55
+  orig: 27, 55
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_adult_arm2
+  rotate: true
+  xy: 1078, 139
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_child_eair2
+  rotate: false
+  xy: 811, 155
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_adult_leg5
+  rotate: false
+  xy: 1936, 48
+  size: 68, 31
+  orig: 68, 31
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_baby_eye2
+  rotate: false
+  xy: 1939, 144
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_adult_reg3
+  rotate: true
+  xy: 2001, 81
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_adult_arm2mo
+  rotate: false
+  xy: 739, 155
+  size: 70, 47
+  orig: 70, 47
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_adult_head
+  rotate: false
+  xy: 323, 171
+  size: 59, 34
+  orig: 59, 34
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_child_arm4
+  rotate: true
+  xy: 1990, 124
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_child_head
+  rotate: true
+  xy: 1227, 139
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_adult_eye_de
+  rotate: false
+  xy: 653, 155
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_child_leg5
+  rotate: true
+  xy: 1816, 76
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_baby_eyelove
+  rotate: true
+  xy: 1797, 79
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_critical_b1
+  rotate: true
+  xy: 499, 2
+  size: 162, 57
+  orig: 170, 57
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_adult_tail
+  rotate: true
+  xy: 306, 2
+  size: 167, 101
+  orig: 167, 101
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_critical_a4
+  rotate: true
+  xy: 891, 2
+  size: 140, 64
+  orig: 140, 64
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_critical_arm
+  rotate: false
+  xy: 1501, 2
+  size: 76, 109
+  orig: 76, 109
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_adult_leg4
+  rotate: false
+  xy: 1936, 2
+  size: 68, 44
+  orig: 68, 44
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_adult_eff4
+  rotate: false
+  xy: 1016, 2
+  size: 212, 135
+  orig: 254, 161
+  offset: 15, 0
+  index: -1
+dragon_mysticArts_adult_arm1
+  rotate: false
+  xy: 1837, 2
+  size: 51, 71
+  orig: 51, 71
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_critical_t5
+  rotate: true
+  xy: 1328, 119
+  size: 86, 104
+  orig: 86, 104
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_critical_g4
+  rotate: false
+  xy: 1587, 102
+  size: 80, 98
+  orig: 80, 98
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_baby_headtail2
+  rotate: false
+  xy: 1906, 130
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_critical_b2
+  rotate: true
+  xy: 147, 2
+  size: 196, 68
+  orig: 196, 68
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_child_leg4
+  rotate: false
+  xy: 507, 166
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_adult_leg7
+  rotate: true
+  xy: 1884, 100
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_baby_leg1
+  rotate: true
+  xy: 1973, 164
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_critical_t6
+  rotate: false
+  xy: 1311, 2
+  size: 93, 115
+  orig: 93, 115
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_critical_t1
+  rotate: true
+  xy: 1669, 184
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_baby_eff
+  rotate: true
+  xy: 1661, 2
+  size: 98, 77
+  orig: 98, 77
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_child_arm3
+  rotate: true
+  xy: 1810, 179
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_adult_arm4mo
+  rotate: true
+  xy: 1540, 113
+  size: 85, 45
+  orig: 85, 45
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_child_eyelove
+  rotate: false
+  xy: 1719, 184
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_baby_arm1
+  rotate: false
+  xy: 1881, 75
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_child_headtail1
+  rotate: false
+  xy: 285, 189
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_critical_t2
+  rotate: true
+  xy: 1847, 173
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_adult_reg1
+  rotate: false
+  xy: 845, 155
+  size: 66, 46
+  orig: 66, 46
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_child_eair1
+  rotate: true
+  xy: 1937, 124
+  size: 18, 51
+  orig: 18, 51
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_adult_body2
+  rotate: false
+  xy: 1890, 2
+  size: 44, 69
+  orig: 48, 69
+  offset: 4, 0
+  index: -1
+dragon_mysticArts_baby_head
+  rotate: true
+  xy: 1826, 102
+  size: 69, 56
+  orig: 69, 56
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_baby_tail
+  rotate: false
+  xy: 429, 169
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_child_leg6
+  rotate: false
+  xy: 541, 166
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_child_headtail2
+  rotate: false
+  xy: 217, 189
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+dragon_mysticArts_adult_eyeat
+  rotate: false
+  xy: 1230, 127
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1

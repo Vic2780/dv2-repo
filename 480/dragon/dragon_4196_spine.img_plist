@@ -1,0 +1,760 @@
+dragon_4196_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_siris_child_foot2
+  rotate: false
+  xy: 1930, 709
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+dragon_siris_critical14
+  rotate: false
+  xy: 2, 2
+  size: 264, 282
+  orig: 280, 320
+  offset: 11, 3
+  index: -1
+dragon_siris_adult_arm_l2
+  rotate: true
+  xy: 699, 680
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+dragon_siris_child_tail2
+  rotate: false
+  xy: 795, 562
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+dragon_siris_adult_love_feather3
+  rotate: false
+  xy: 932, 704
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+dragon_siris_critical05
+  rotate: false
+  xy: 1814, 2
+  size: 228, 286
+  orig: 280, 320
+  offset: 26, 31
+  index: -1
+dragon_siris_adult_foot2
+  rotate: true
+  xy: 822, 628
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+dragon_siris_adult_attack_feather7
+  rotate: false
+  xy: 1560, 708
+  size: 47, 30
+  orig: 49, 32
+  offset: 1, 1
+  index: -1
+dragon_siris_child_body_fur
+  rotate: false
+  xy: 865, 681
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+dragon_siris_critical08
+  rotate: false
+  xy: 1310, 2
+  size: 250, 270
+  orig: 280, 320
+  offset: 11, 20
+  index: -1
+dragon_siris_critical10
+  rotate: false
+  xy: 532, 2
+  size: 256, 282
+  orig: 280, 320
+  offset: 9, 7
+  index: -1
+dragon_siris_child_arm_r2
+  rotate: true
+  xy: 1074, 604
+  size: 26, 40
+  orig: 26, 40
+  offset: 0, 0
+  index: -1
+dragon_siris_adult_attack_feather2
+  rotate: false
+  xy: 710, 562
+  size: 83, 52
+  orig: 85, 54
+  offset: 2, 1
+  index: -1
+dragon_siris_critical01
+  rotate: true
+  xy: 1180, 534
+  size: 206, 222
+  orig: 280, 320
+  offset: 46, 68
+  index: -1
+dragon_siris_baby_wing1
+  rotate: true
+  xy: 967, 666
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+dragon_siris_child_love_feather2
+  rotate: false
+  xy: 1526, 708
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+dragon_siris_adult_eye2
+  rotate: false
+  xy: 1770, 274
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+dragon_siris_adult_tail4
+  rotate: false
+  xy: 524, 629
+  size: 76, 85
+  orig: 76, 85
+  offset: 0, 0
+  index: -1
+dragon_siris_adult_arm_r1
+  rotate: false
+  xy: 1124, 577
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+dragon_siris_adult_arm_l1
+  rotate: true
+  xy: 932, 622
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+dragon_siris_adult_head1
+  rotate: false
+  xy: 1973, 689
+  size: 63, 51
+  orig: 63, 51
+  offset: 0, 0
+  index: -1
+dragon_siris_baby_love_feather1
+  rotate: true
+  xy: 1128, 672
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+dragon_siris_critical04
+  rotate: false
+  xy: 1180, 276
+  size: 228, 256
+  orig: 280, 320
+  offset: 27, 37
+  index: -1
+dragon_siris_adult_body_fur
+  rotate: false
+  xy: 932, 562
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+dragon_siris_adult_attack_feather6
+  rotate: true
+  xy: 2008, 391
+  size: 52, 33
+  orig: 54, 35
+  offset: 1, 1
+  index: -1
+dragon_siris_child_hand1
+  rotate: false
+  xy: 1147, 690
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+dragon_siris_baby_wing2
+  rotate: true
+  xy: 997, 704
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+dragon_siris_adult_hand2
+  rotate: false
+  xy: 932, 666
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+dragon_siris_baby_leg1
+  rotate: true
+  xy: 1653, 720
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+dragon_siris_child_foot1
+  rotate: true
+  xy: 602, 697
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+dragon_siris_baby_love_feather2
+  rotate: false
+  xy: 836, 720
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+dragon_siris_critical17
+  rotate: false
+  xy: 2, 568
+  size: 260, 158
+  orig: 280, 320
+  offset: 15, 1
+  index: -1
+dragon_siris_child_leg_r1
+  rotate: true
+  xy: 1447, 708
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+dragon_siris_child_tail1
+  rotate: true
+  xy: 2008, 290
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+dragon_siris_adult_love_feather4
+  rotate: true
+  xy: 1025, 702
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+dragon_siris_adult_foot1
+  rotate: false
+  xy: 1998, 500
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+dragon_siris_adult_body
+  rotate: true
+  xy: 526, 562
+  size: 65, 95
+  orig: 65, 95
+  offset: 0, 0
+  index: -1
+dragon_siris_critical21
+  rotate: false
+  xy: 1770, 500
+  size: 226, 130
+  orig: 280, 320
+  offset: 25, 8
+  index: -1
+dragon_siris_baby_leg2
+  rotate: true
+  xy: 967, 707
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+dragon_siris_critical13
+  rotate: false
+  xy: 268, 2
+  size: 262, 282
+  orig: 280, 320
+  offset: 12, 3
+  index: -1
+dragon_siris_baby_body_fur
+  rotate: true
+  xy: 1108, 635
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+dragon_siris_adult_attack_feather1
+  rotate: false
+  xy: 1026, 542
+  size: 96, 60
+  orig: 98, 62
+  offset: 1, 1
+  index: -1
+dragon_siris_child_love_feather3
+  rotate: false
+  xy: 1067, 669
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+dragon_siris_adult_tail3
+  rotate: false
+  xy: 1654, 520
+  size: 114, 89
+  orig: 114, 89
+  offset: 0, 0
+  index: -1
+dragon_siris_baby_head1
+  rotate: true
+  xy: 700, 616
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+dragon_siris_adult_love_feather6
+  rotate: false
+  xy: 1609, 708
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+dragon_siris_child_eye1
+  rotate: false
+  xy: 886, 721
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+dragon_siris_child_arm_l1
+  rotate: false
+  xy: 1147, 635
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+dragon_siris_critical16
+  rotate: false
+  xy: 1050, 2
+  size: 258, 272
+  orig: 280, 320
+  offset: 17, 1
+  index: -1
+dragon_siris_adult_love_feather1
+  rotate: true
+  xy: 836, 679
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+dragon_siris_critical07
+  rotate: false
+  xy: 1562, 2
+  size: 250, 270
+  orig: 280, 320
+  offset: 11, 24
+  index: -1
+dragon_siris_adult_neck
+  rotate: true
+  xy: 765, 628
+  size: 49, 55
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+dragon_siris_adult_teeth
+  rotate: false
+  xy: 1116, 604
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+dragon_siris_adult_attack_feather5
+  rotate: false
+  xy: 1124, 542
+  size: 54, 33
+  orig: 54, 35
+  offset: 0, 1
+  index: -1
+dragon_siris_adult_ear1
+  rotate: false
+  xy: 649, 679
+  size: 48, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+dragon_siris_critical20
+  rotate: true
+  xy: 1630, 274
+  size: 244, 138
+  orig: 280, 320
+  offset: 21, 6
+  index: -1
+dragon_siris_child_neck
+  rotate: true
+  xy: 1878, 709
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+dragon_siris_adult_hand1
+  rotate: false
+  xy: 1404, 708
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+dragon_siris_adult_wing2
+  rotate: false
+  xy: 1553, 584
+  size: 99, 122
+  orig: 99, 122
+  offset: 0, 0
+  index: -1
+dragon_siris_baby_love_feather3
+  rotate: false
+  xy: 1718, 720
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+dragon_siris_child_wing2
+  rotate: true
+  xy: 1766, 632
+  size: 102, 110
+  orig: 102, 110
+  offset: 0, 0
+  index: -1
+dragon_siris_critical12
+  rotate: false
+  xy: 2, 286
+  size: 264, 280
+  orig: 280, 320
+  offset: 9, 5
+  index: -1
+dragon_siris_adult_love_feather5
+  rotate: false
+  xy: 524, 716
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+dragon_siris_critical03
+  rotate: false
+  xy: 1410, 274
+  size: 218, 248
+  orig: 280, 320
+  offset: 36, 45
+  index: -1
+dragon_siris_baby_eye1
+  rotate: false
+  xy: 1050, 722
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+dragon_siris_child_body
+  rotate: false
+  xy: 602, 629
+  size: 45, 66
+  orig: 45, 66
+  offset: 0, 0
+  index: -1
+dragon_siris_child_love_feather4
+  rotate: false
+  xy: 1690, 720
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+dragon_siris_adult_tail2
+  rotate: false
+  xy: 1878, 632
+  size: 93, 75
+  orig: 93, 75
+  offset: 0, 0
+  index: -1
+dragon_siris_baby_tail1
+  rotate: false
+  xy: 1066, 693
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+dragon_siris_baby_body
+  rotate: false
+  xy: 788, 679
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+dragon_siris_critical06
+  rotate: false
+  xy: 786, 286
+  size: 238, 274
+  orig: 280, 320
+  offset: 17, 27
+  index: -1
+dragon_siris_baby_eye2
+  rotate: false
+  xy: 1095, 702
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+dragon_siris_adult_attack_feather4
+  rotate: true
+  xy: 2008, 445
+  size: 52, 33
+  orig: 54, 35
+  offset: 1, 1
+  index: -1
+dragon_siris_adult_ear2
+  rotate: false
+  xy: 2008, 330
+  size: 30, 59
+  orig: 30, 59
+  offset: 0, 0
+  index: -1
+dragon_siris_baby_arm1
+  rotate: false
+  xy: 1001, 562
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+dragon_siris_baby_tail2
+  rotate: true
+  xy: 751, 680
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+dragon_siris_child_eye2
+  rotate: false
+  xy: 1001, 605
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+dragon_siris_child_arm_l2
+  rotate: true
+  xy: 1489, 708
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+dragon_siris_critical19
+  rotate: true
+  xy: 1026, 282
+  size: 258, 152
+  orig: 280, 320
+  offset: 16, 4
+  index: -1
+dragon_siris_adult_love_feather2
+  rotate: false
+  xy: 1069, 632
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+dragon_siris_critical02
+  rotate: true
+  xy: 1770, 290
+  size: 208, 236
+  orig: 280, 320
+  offset: 45, 57
+  index: -1
+dragon_siris_baby_arm2
+  rotate: false
+  xy: 908, 681
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+dragon_siris_child_love_feather1
+  rotate: true
+  xy: 1023, 665
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+dragon_siris_critical23
+  rotate: false
+  xy: 1410, 524
+  size: 176, 58
+  orig: 280, 320
+  offset: 46, 18
+  index: -1
+dragon_siris_adult_wing1
+  rotate: false
+  xy: 1404, 584
+  size: 147, 122
+  orig: 147, 122
+  offset: 0, 0
+  index: -1
+dragon_siris_baby_love_feather4
+  rotate: true
+  xy: 1048, 664
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+dragon_siris_child_wing1
+  rotate: true
+  xy: 1654, 611
+  size: 107, 110
+  orig: 107, 110
+  offset: 0, 0
+  index: -1
+dragon_siris_critical15
+  rotate: false
+  xy: 790, 2
+  size: 258, 278
+  orig: 280, 320
+  offset: 17, 1
+  index: -1
+dragon_siris_child_arm_r1
+  rotate: false
+  xy: 1098, 672
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+dragon_siris_child_tail3
+  rotate: false
+  xy: 865, 562
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+dragon_siris_child_love_feather6
+  rotate: true
+  xy: 995, 665
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+dragon_siris_adult_leg_r1
+  rotate: false
+  xy: 1998, 557
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+dragon_siris_child_love_feather5
+  rotate: false
+  xy: 1027, 632
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+dragon_siris_adult_tail1
+  rotate: true
+  xy: 649, 615
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1
+dragon_siris_adult_leg_l1
+  rotate: true
+  xy: 1588, 524
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+dragon_siris_child_leg_l1
+  rotate: false
+  xy: 989, 622
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+dragon_siris_critical18
+  rotate: false
+  xy: 264, 568
+  size: 258, 154
+  orig: 280, 320
+  offset: 16, 2
+  index: -1
+dragon_siris_adult_head2
+  rotate: false
+  xy: 864, 721
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+dragon_siris_critical09
+  rotate: false
+  xy: 526, 286
+  size: 258, 274
+  orig: 280, 320
+  offset: 10, 15
+  index: -1
+dragon_siris_critical11
+  rotate: false
+  xy: 268, 286
+  size: 256, 280
+  orig: 280, 320
+  offset: 9, 7
+  index: -1
+dragon_siris_adult_attack_feather3
+  rotate: false
+  xy: 623, 562
+  size: 85, 51
+  orig: 85, 53
+  offset: 0, 1
+  index: -1
+dragon_siris_adult_leg_r2
+  rotate: false
+  xy: 1147, 660
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+dragon_siris_child_hand2
+  rotate: false
+  xy: 576, 716
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+dragon_siris_critical22
+  rotate: false
+  xy: 1770, 500
+  size: 226, 130
+  orig: 280, 320
+  offset: 25, 8
+  index: -1
+dragon_siris_adult_leg_l2
+  rotate: false
+  xy: 1032, 604
+  size: 40, 26
+  orig: 40, 26
+  offset: 0, 0
+  index: -1
+dragon_siris_adult_eye1
+  rotate: true
+  xy: 1050, 691
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+dragon_siris_adult_arm_r2
+  rotate: false
+  xy: 865, 629
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+dragon_siris_child_head
+  rotate: false
+  xy: 1973, 632
+  size: 69, 55
+  orig: 71, 55
+  offset: 0, 0
+  index: -1

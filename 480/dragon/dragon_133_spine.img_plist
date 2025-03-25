@@ -2,68 +2,474 @@ dragon_133_spine.pvr.ccz
 format: RGBA4444
 filter: Linear,Linear
 repeat: none
-dragon_paprion_adult_arm4
+dragon_paprion__e_critical_beam
+  rotate: true
+  xy: 2, 503
+  size: 240, 203
+  orig: 240, 203
+  offset: 0, 0
+  index: -1
+dragon_paprion_baby_body
   rotate: false
-  xy: 223, 930
-  size: 28, 16
-  orig: 32, 18
-  offset: 2, 2
+  xy: 152, 1255
+  size: 72, 63
+  orig: 74, 63
+  offset: 0, 0
+  index: -1
+dragon_paprion_baby_note1
+  rotate: true
+  xy: 180, 1784
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_paprion_adult_fin3
+  rotate: true
+  xy: 2, 1418
+  size: 81, 88
+  orig: 85, 92
+  offset: 1, 3
+  index: -1
+dragon_paprion_adult_e_ante2
+  rotate: false
+  xy: 138, 1733
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+dragon_paprion_adult_neck4
+  rotate: true
+  xy: 93, 1744
+  size: 40, 43
+  orig: 44, 45
+  offset: 1, 2
+  index: -1
+dragon_paprion_child_ante
+  rotate: true
+  xy: 207, 724
+  size: 38, 17
+  orig: 42, 23
+  offset: 1, 4
+  index: -1
+dragon_paprion_adult_e_ante
+  rotate: false
+  xy: 2, 1553
+  size: 82, 29
+  orig: 82, 29
+  offset: 0, 0
+  index: -1
+dragon_paprion_baby_leg1
+  rotate: false
+  xy: 200, 858
+  size: 25, 31
+  orig: 29, 35
+  offset: 1, 2
+  index: -1
+dragon_paprion_adult_e_hip_acc
+  rotate: true
+  xy: 164, 1074
+  size: 41, 60
+  orig: 41, 60
+  offset: 0, 0
+  index: -1
+dragon_paprion_adult_e_l_arm_acc
+  rotate: true
+  xy: 88, 1504
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+dragon_paprion_child_arm1
+  rotate: false
+  xy: 68, 1784
+  size: 22, 37
+  orig: 28, 41
+  offset: 3, 2
+  index: -1
+dragon_paprion_adult_e_tail3
+  rotate: true
+  xy: 92, 1786
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+dragon_paprion_adult_leg2
+  rotate: true
+  xy: 128, 1242
+  size: 41, 22
+  orig: 41, 26
+  offset: 0, 2
+  index: -1
+dragon_paprion_adult_eye1
+  rotate: false
+  xy: 214, 397
+  size: 10, 13
+  orig: 14, 17
+  offset: 1, 4
+  index: -1
+dragon_paprion_adult_e_r_arm2_acc
+  rotate: true
+  xy: 146, 1581
+  size: 35, 78
+  orig: 35, 78
+  offset: 0, 0
+  index: -1
+dragon_paprion_adult_e_chest_acc
+  rotate: true
+  xy: 2, 1501
+  size: 50, 84
+  orig: 50, 86
+  offset: 0, 0
+  index: -1
+dragon_paprion_child_wing
+  rotate: false
+  xy: 67, 1657
+  size: 52, 49
+  orig: 56, 55
+  offset: 2, 3
+  index: -1
+dragon_paprion_adult_e_head
+  rotate: false
+  xy: 2, 1263
+  size: 94, 77
+  orig: 94, 77
+  offset: 0, 0
   index: -1
 dragon_paprion_baby_eye1
   rotate: true
-  xy: 129, 900
+  xy: 35, 1784
   size: 48, 31
   orig: 56, 35
   offset: 3, 2
   index: -1
-dragon_paprion_adult_body
+dragon_paprion_critical_e1
+  rotate: false
+  xy: 152, 1170
+  size: 72, 83
+  orig: 224, 131
+  offset: 134, 2
+  index: -1
+dragon_paprion_child_arm5
+  rotate: false
+  xy: 207, 647
+  size: 18, 34
+  orig: 20, 38
+  offset: 0, 4
+  index: -1
+dragon_paprion_adult_fin2
   rotate: true
-  xy: 2, 786
+  xy: 146, 1618
+  size: 33, 65
+  orig: 43, 65
+  offset: 2, 0
+  index: -1
+dragon_paprion_child_note1
+  rotate: true
+  xy: 180, 1784
+  size: 30, 38
+  orig: 32, 40
+  offset: 1, 1
+  index: -1
+dragon_paprion_child_leg1
+  rotate: true
+  xy: 2, 1755
+  size: 26, 46
+  orig: 30, 50
+  offset: 2, 2
+  index: -1
+dragon_paprion_adult_e_l_leg_acc
+  rotate: false
+  xy: 170, 891
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+dragon_paprion_critical_e4
+  rotate: false
+  xy: 2, 962
+  size: 160, 117
+  orig: 224, 131
+  offset: 11, 8
+  index: -1
+dragon_paprion_adult_e_tail2
+  rotate: false
+  xy: 85, 1623
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+dragon_paprion_adult_leg1
+  rotate: true
+  xy: 140, 1653
+  size: 33, 63
+  orig: 41, 65
+  offset: 5, 2
+  index: -1
+dragon_paprion_adult_body
+  rotate: false
+  xy: 2, 1194
   size: 124, 67
   orig: 128, 69
   offset: 0, 1
   index: -1
+dragon_paprion_adult_head
+  rotate: true
+  xy: 86, 1553
+  size: 68, 58
+  orig: 72, 58
+  offset: 1, 0
+  index: -1
+dragon_paprion_adult_arm3
+  rotate: true
+  xy: 67, 1626
+  size: 29, 16
+  orig: 31, 20
+  offset: 0, 2
+  index: -1
 dragon_paprion_child_arm4
   rotate: false
-  xy: 193, 989
+  xy: 207, 609
   size: 18, 36
   orig: 26, 40
   offset: 3, 3
   index: -1
-dragon_paprion_child_note2
-  rotate: true
-  xy: 162, 912
+dragon_paprion_baby_note2
+  rotate: false
+  xy: 190, 1741
   size: 35, 41
   orig: 35, 41
   offset: 0, 0
   index: -1
-dragon_paprion_adult_neck3
-  rotate: true
-  xy: 188, 588
-  size: 45, 60
-  orig: 53, 62
-  offset: 3, 2
+dragon_paprion_child_head
+  rotate: false
+  xy: 164, 967
+  size: 61, 58
+  orig: 63, 64
+  offset: 0, 5
   index: -1
 dragon_paprion_baby_arm2
-  rotate: false
-  xy: 132, 950
+  rotate: true
+  xy: 138, 1783
   size: 32, 40
   orig: 36, 44
   offset: 1, 3
   index: -1
-dragon_paprion_child_leg3
+dragon_paprion_adult_fin1
+  rotate: true
+  xy: 150, 1494
+  size: 85, 75
+  orig: 93, 81
+  offset: 6, 4
+  index: -1
+dragon_paprion_child_note2
   rotate: false
-  xy: 213, 1011
-  size: 21, 15
-  orig: 23, 17
-  offset: 1, 0
+  xy: 190, 1741
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+dragon_paprion_adult_e_l_leg3_acc
+  rotate: true
+  xy: 56, 1708
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+dragon_paprion_baby_tail
+  rotate: true
+  xy: 2, 1680
+  size: 35, 52
+  orig: 39, 56
+  offset: 1, 3
+  index: -1
+dragon_paprion_child_tail
+  rotate: false
+  xy: 95, 1353
+  size: 54, 78
+  orig: 56, 80
+  offset: 0, 1
+  index: -1
+dragon_paprion_adult_neck1
+  rotate: false
+  xy: 2, 1717
+  size: 48, 36
+  orig: 48, 38
+  offset: 0, 1
+  index: -1
+dragon_paprion_adult_e_tail1
+  rotate: false
+  xy: 152, 1320
+  size: 72, 63
+  orig: 74, 65
+  offset: 0, 2
+  index: -1
+dragon_paprion_child_fin2
+  rotate: false
+  xy: 98, 1285
+  size: 52, 66
+  orig: 60, 68
+  offset: 5, 2
+  index: -1
+dragon_paprion_adult_ante
+  rotate: true
+  xy: 207, 503
+  size: 104, 18
+  orig: 110, 26
+  offset: 3, 6
+  index: -1
+dragon_paprion_adult_arm2
+  rotate: false
+  xy: 128, 1194
+  size: 22, 46
+  orig: 28, 50
+  offset: 2, 3
+  index: -1
+dragon_paprion_adult_e_l_arm2_acc2
+  rotate: false
+  xy: 192, 1692
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+dragon_paprion_critical_e3
+  rotate: false
+  xy: 2, 382
+  size: 210, 119
+  orig: 224, 131
+  offset: 5, 3
+  index: -1
+dragon_paprion_e_critical_beam2
+  rotate: false
+  xy: 2, 228
+  size: 212, 152
+  orig: 214, 152
+  offset: 2, 0
+  index: -1
+dragon_paprion_child_eye2
+  rotate: false
+  xy: 121, 1679
+  size: 16, 16
+  orig: 20, 20
+  offset: 3, 2
+  index: -1
+dragon_paprion_adult_leg4
+  rotate: false
+  xy: 149, 1817
+  size: 29, 19
+  orig: 31, 23
+  offset: 1, 2
+  index: -1
+dragon_paprion_adult_jaw
+  rotate: false
+  xy: 180, 1816
+  size: 22, 22
+  orig: 22, 26
+  offset: 0, 2
+  index: -1
+dragon_paprion_adult_neck2
+  rotate: true
+  xy: 52, 1744
+  size: 38, 39
+  orig: 42, 41
+  offset: 1, 2
+  index: -1
+dragon_paprion_baby_fin
+  rotate: true
+  xy: 151, 1427
+  size: 65, 70
+  orig: 71, 72
+  offset: 3, 2
+  index: -1
+dragon_paprion_baby_leg3
+  rotate: false
+  xy: 170, 863
+  size: 25, 26
+  orig: 29, 34
+  offset: 1, 4
+  index: -1
+dragon_paprion_adult_e_l_wing
+  rotate: false
+  xy: 2, 745
+  size: 196, 116
+  orig: 196, 116
+  offset: 0, 0
+  index: -1
+dragon_paprion_child_arm3
+  rotate: true
+  xy: 121, 1657
+  size: 20, 16
+  orig: 26, 20
+  offset: 3, 3
+  index: -1
+dragon_paprion_baby_arm1
+  rotate: false
+  xy: 200, 816
+  size: 25, 40
+  orig: 29, 44
+  offset: 1, 2
+  index: -1
+dragon_paprion_adult_arm1
+  rotate: true
+  xy: 170, 932
+  size: 33, 55
+  orig: 41, 59
+  offset: 4, 2
+  index: -1
+dragon_paprion_adult_wing
+  rotate: false
+  xy: 2, 863
+  size: 166, 97
+  orig: 170, 101
+  offset: 2, 1
+  index: -1
+dragon_paprion_adult_e_r_arm_acc
+  rotate: true
+  xy: 139, 1688
+  size: 43, 51
+  orig: 43, 51
+  offset: 0, 0
   index: -1
 dragon_paprion_critical_e2
-  rotate: true
-  xy: 2, 636
+  rotate: false
+  xy: 2, 1081
   size: 148, 111
   orig: 224, 131
   offset: 65, 7
+  index: -1
+dragon_paprion_child_neck
+  rotate: true
+  xy: 2, 1584
+  size: 40, 81
+  orig: 44, 87
+  offset: 1, 2
+  index: -1
+dragon_paprion_adult_tail1
+  rotate: true
+  xy: 2, 1342
+  size: 74, 91
+  orig: 80, 95
+  offset: 3, 2
+  index: -1
+dragon_paprion_child_body
+  rotate: false
+  xy: 152, 1117
+  size: 73, 51
+  orig: 75, 55
+  offset: 1, 2
+  index: -1
+dragon_paprion_child_fin1
+  rotate: true
+  xy: 2, 1626
+  size: 52, 63
+  orig: 54, 69
+  offset: 0, 5
+  index: -1
+dragon_paprion_adult_eye3
+  rotate: false
+  xy: 213, 1618
+  size: 12, 13
+  orig: 14, 17
+  offset: 1, 3
   index: -1
 dragon_paprion_adult_twinkling1
   rotate: false
@@ -72,388 +478,101 @@ dragon_paprion_adult_twinkling1
   orig: 225, 224
   offset: 0, 0
   index: -1
-dragon_paprion_adult_leg2
-  rotate: false
-  xy: 170, 888
-  size: 41, 22
-  orig: 41, 26
-  offset: 0, 2
-  index: -1
-dragon_paprion_child_fin2
-  rotate: true
-  xy: 188, 534
-  size: 52, 66
-  orig: 60, 68
-  offset: 5, 2
-  index: -1
-dragon_paprion_child_arm3
-  rotate: false
-  xy: 98, 1020
-  size: 20, 16
-  orig: 26, 20
-  offset: 3, 3
-  index: -1
-dragon_paprion_adult_fin3
-  rotate: false
-  xy: 101, 468
-  size: 81, 88
-  orig: 85, 92
-  offset: 1, 3
-  index: -1
-dragon_paprion_baby_arm1
-  rotate: false
-  xy: 166, 989
-  size: 25, 40
-  orig: 29, 44
-  offset: 1, 2
-  index: -1
-dragon_paprion_adult_arm2
-  rotate: false
-  xy: 231, 387
-  size: 22, 46
-  orig: 28, 50
-  offset: 2, 3
-  index: -1
-dragon_paprion_adult_tail1
-  rotate: false
-  xy: 2, 912
-  size: 74, 91
-  orig: 80, 95
-  offset: 3, 2
-  index: -1
-dragon_paprion_baby_tail
-  rotate: true
-  xy: 78, 955
-  size: 35, 52
-  orig: 39, 56
-  offset: 1, 3
-  index: -1
-dragon_paprion_adult_eye3
-  rotate: true
-  xy: 193, 1027
-  size: 12, 13
-  orig: 14, 17
-  offset: 1, 3
-  index: -1
-dragon_paprion_adult_ante
-  rotate: true
-  xy: 227, 2
-  size: 104, 18
-  orig: 110, 26
-  offset: 3, 6
-  index: -1
-dragon_paprion_adult_fin1
-  rotate: false
-  xy: 101, 558
-  size: 85, 75
-  orig: 93, 81
-  offset: 6, 4
-  index: -1
-dragon_paprion_child_fin1
-  rotate: true
-  xy: 189, 741
-  size: 52, 63
-  orig: 54, 69
-  offset: 0, 5
-  index: -1
-dragon_paprion_baby_leg2
-  rotate: false
-  xy: 213, 988
-  size: 21, 21
-  orig: 23, 23
-  offset: 1, 2
-  index: -1
-dragon_paprion_child_arm6
-  rotate: false
-  xy: 220, 972
-  size: 22, 14
-  orig: 22, 16
-  offset: 0, 2
-  index: -1
-dragon_paprion_child_ante
-  rotate: true
-  xy: 237, 476
-  size: 38, 17
-  orig: 42, 23
-  offset: 1, 4
-  index: -1
-dragon_paprion_adult_neck1
-  rotate: false
-  xy: 164, 349
-  size: 48, 36
-  orig: 48, 38
-  offset: 0, 1
-  index: -1
-dragon_paprion_child_tail
-  rotate: false
-  xy: 71, 786
-  size: 54, 78
-  orig: 56, 80
-  offset: 0, 1
-  index: -1
-dragon_paprion_critical_e4
-  rotate: false
-  xy: 2, 349
-  size: 160, 117
-  orig: 224, 131
-  offset: 11, 8
-  index: -1
-dragon_paprion_adult_head
-  rotate: true
-  xy: 127, 785
-  size: 68, 58
-  orig: 72, 58
-  offset: 1, 0
-  index: -1
-dragon_paprion_adult_eye1
-  rotate: false
-  xy: 244, 963
-  size: 10, 13
-  orig: 14, 17
-  offset: 1, 4
-  index: -1
-dragon_paprion_critical_e1
-  rotate: false
-  xy: 115, 635
-  size: 72, 83
-  orig: 224, 131
-  offset: 134, 2
-  index: -1
-dragon_paprion_child_eye2
-  rotate: false
-  xy: 237, 516
-  size: 16, 16
-  orig: 20, 20
-  offset: 3, 2
-  index: -1
-dragon_paprion_baby_leg1
-  rotate: true
-  xy: 220, 875
-  size: 25, 31
-  orig: 29, 35
-  offset: 1, 2
-  index: -1
-dragon_paprion_child_arm5
-  rotate: true
-  xy: 220, 855
-  size: 18, 34
-  orig: 20, 38
-  offset: 0, 4
-  index: -1
-dragon_paprion_baby_note2
-  rotate: true
-  xy: 162, 912
-  size: 35, 41
-  orig: 35, 41
-  offset: 0, 0
-  index: -1
-dragon_paprion_child_note1
-  rotate: false
-  xy: 166, 949
-  size: 30, 38
-  orig: 32, 40
-  offset: 1, 1
-  index: -1
-dragon_paprion_critical_e3
-  rotate: false
-  xy: 2, 228
-  size: 210, 119
-  orig: 224, 131
-  offset: 5, 3
-  index: -1
 dragon_paprion_baby_head
   rotate: false
-  xy: 189, 670
+  xy: 92, 1433
   size: 56, 69
   orig: 62, 71
   offset: 2, 2
   index: -1
-dragon_paprion_child_body
-  rotate: true
-  xy: 184, 459
-  size: 73, 51
-  orig: 75, 55
-  offset: 1, 2
-  index: -1
-dragon_paprion_adult_leg3
+dragon_paprion_child_leg3
   rotate: false
-  xy: 227, 137
-  size: 25, 50
-  orig: 33, 56
-  offset: 5, 4
-  index: -1
-dragon_paprion_child_neck
-  rotate: false
-  xy: 214, 228
-  size: 40, 81
-  orig: 44, 87
-  offset: 1, 2
-  index: -1
-dragon_paprion_child_eye1
-  rotate: false
-  xy: 236, 988
-  size: 16, 16
-  orig: 20, 22
-  offset: 2, 3
-  index: -1
-dragon_paprion_adult_neck4
-  rotate: false
-  xy: 128, 855
-  size: 40, 43
-  orig: 44, 45
-  offset: 1, 2
-  index: -1
-dragon_paprion_child_leg2
-  rotate: false
-  xy: 237, 435
-  size: 17, 39
-  orig: 21, 39
+  xy: 68, 1823
+  size: 21, 15
+  orig: 23, 17
   offset: 1, 0
   index: -1
-dragon_paprion_baby_body
+dragon_paprion_baby_leg2
   rotate: false
-  xy: 115, 720
-  size: 72, 63
-  orig: 74, 63
-  offset: 0, 0
-  index: -1
-dragon_paprion_adult_leg1
-  rotate: true
-  xy: 2, 1005
-  size: 33, 63
-  orig: 41, 65
-  offset: 5, 2
-  index: -1
-dragon_paprion_adult_arm3
-  rotate: true
-  xy: 205, 912
-  size: 29, 16
-  orig: 31, 20
-  offset: 0, 2
+  xy: 126, 1817
+  size: 21, 21
+  orig: 23, 23
+  offset: 1, 2
   index: -1
 dragon_paprion_child_arm2
   rotate: false
-  xy: 198, 949
+  xy: 205, 1653
   size: 20, 37
   orig: 24, 43
   offset: 1, 3
   index: -1
-dragon_paprion_baby_note1
+dragon_paprion_child_eye1
   rotate: false
-  xy: 166, 949
-  size: 30, 38
-  orig: 32, 40
-  offset: 1, 1
-  index: -1
-dragon_paprion_adult_fin2
-  rotate: true
-  xy: 189, 635
-  size: 33, 65
-  orig: 43, 65
-  offset: 2, 0
-  index: -1
-dragon_paprion_baby_leg3
-  rotate: false
-  xy: 223, 902
-  size: 25, 26
-  orig: 29, 34
-  offset: 1, 4
-  index: -1
-dragon_paprion_baby_fin
-  rotate: false
-  xy: 164, 387
-  size: 65, 70
-  orig: 71, 72
-  offset: 3, 2
-  index: -1
-dragon_paprion_child_leg1
-  rotate: true
-  xy: 78, 992
-  size: 26, 46
-  orig: 30, 50
-  offset: 2, 2
-  index: -1
-dragon_paprion_adult_wing
-  rotate: true
-  xy: 2, 468
-  size: 166, 97
-  orig: 170, 101
-  offset: 2, 1
-  index: -1
-dragon_paprion_adult_arm1
-  rotate: true
-  xy: 71, 866
-  size: 33, 55
-  orig: 41, 59
-  offset: 4, 2
-  index: -1
-dragon_paprion_adult_tail2
-  rotate: false
-  xy: 214, 311
-  size: 40, 74
-  orig: 44, 76
-  offset: 0, 2
-  index: -1
-dragon_paprion_child_head
-  rotate: false
-  xy: 187, 795
-  size: 61, 58
-  orig: 63, 64
-  offset: 0, 5
-  index: -1
-dragon_paprion_adult_jaw
-  rotate: false
-  xy: 220, 948
-  size: 22, 22
-  orig: 22, 26
-  offset: 0, 2
-  index: -1
-dragon_paprion_adult_leg4
-  rotate: false
-  xy: 67, 1020
-  size: 29, 19
-  orig: 31, 23
-  offset: 1, 2
-  index: -1
-dragon_paprion_adult_eye2
-  rotate: false
-  xy: 244, 948
-  size: 10, 13
-  orig: 14, 17
-  offset: 1, 3
+  xy: 121, 1697
+  size: 16, 16
+  orig: 20, 22
+  offset: 2, 3
   index: -1
 dragon_paprion_child_jaw
   rotate: false
-  xy: 227, 108
+  xy: 109, 1715
   size: 27, 27
   orig: 29, 31
   offset: 0, 3
   index: -1
+dragon_paprion_adult_neck3
+  rotate: true
+  xy: 164, 1027
+  size: 45, 60
+  orig: 53, 62
+  offset: 3, 2
+  index: -1
 dragon_paprion_baby_eye2
-  rotate: false
-  xy: 170, 855
+  rotate: true
+  xy: 2, 1784
   size: 48, 31
   orig: 56, 35
   offset: 3, 2
   index: -1
-dragon_paprion_child_arm1
-  rotate: false
-  xy: 227, 189
-  size: 22, 37
-  orig: 28, 41
-  offset: 3, 2
-  index: -1
-dragon_paprion_adult_neck2
-  rotate: false
-  xy: 126, 992
-  size: 38, 39
-  orig: 42, 41
-  offset: 1, 2
-  index: -1
-dragon_paprion_child_wing
+dragon_paprion_adult_tail2
   rotate: true
-  xy: 78, 901
-  size: 52, 49
-  orig: 56, 55
-  offset: 2, 3
+  xy: 151, 1385
+  size: 40, 74
+  orig: 44, 76
+  offset: 0, 2
+  index: -1
+dragon_paprion_child_arm6
+  rotate: false
+  xy: 91, 1823
+  size: 22, 14
+  orig: 22, 16
+  offset: 0, 2
+  index: -1
+dragon_paprion_adult_leg3
+  rotate: false
+  xy: 200, 764
+  size: 25, 50
+  orig: 33, 56
+  offset: 5, 4
+  index: -1
+dragon_paprion_adult_arm4
+  rotate: false
+  xy: 98, 1263
+  size: 28, 16
+  orig: 32, 18
+  offset: 2, 2
+  index: -1
+dragon_paprion_adult_eye2
+  rotate: false
+  xy: 214, 382
+  size: 10, 13
+  orig: 14, 17
+  offset: 1, 3
+  index: -1
+dragon_paprion_child_leg2
+  rotate: false
+  xy: 207, 683
+  size: 17, 39
+  orig: 21, 39
+  offset: 1, 0
   index: -1

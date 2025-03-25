@@ -1,0 +1,620 @@
+dragon_4191_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_jimon_critical12
+  rotate: true
+  xy: 2, 1806
+  size: 230, 224
+  orig: 232, 226
+  offset: 1, 1
+  index: -1
+successive_jimon_body1
+  rotate: false
+  xy: 977, 1321
+  size: 123, 139
+  orig: 123, 139
+  offset: 0, 0
+  index: -1
+dragon_jimon_critical02
+  rotate: false
+  xy: 830, 1855
+  size: 171, 171
+  orig: 171, 171
+  offset: 0, 0
+  index: -1
+successive_jimon_bandaid
+  rotate: false
+  xy: 981, 645
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+dragon_jimon_critical_aura03
+  rotate: true
+  xy: 232, 902
+  size: 238, 194
+  orig: 248, 206
+  offset: 9, 1
+  index: -1
+successive_jimon_e_wing
+  rotate: true
+  xy: 606, 1733
+  size: 70, 53
+  orig: 70, 53
+  offset: 0, 0
+  index: -1
+dragon_jimon_e_critical18
+  rotate: false
+  xy: 232, 1373
+  size: 225, 225
+  orig: 227, 227
+  offset: 1, 1
+  index: -1
+successive_jimon_e_l_leg
+  rotate: false
+  xy: 1036, 1593
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+dragon_jimon_critical17
+  rotate: false
+  xy: 2, 1348
+  size: 228, 227
+  orig: 230, 229
+  offset: 1, 1
+  index: -1
+dragon_jimon_e_critical_aura05
+  rotate: false
+  xy: 2, 2
+  size: 269, 218
+  orig: 269, 218
+  offset: 0, 0
+  index: -1
+dragon_jimon_e_critical11
+  rotate: false
+  xy: 793, 2
+  size: 229, 224
+  orig: 231, 226
+  offset: 1, 1
+  index: -1
+dragon_jimon_critical07
+  rotate: true
+  xy: 270, 447
+  size: 213, 215
+  orig: 215, 215
+  offset: 1, 0
+  index: -1
+dragon_jimon_e_critical01
+  rotate: false
+  xy: 648, 1320
+  size: 162, 163
+  orig: 162, 163
+  offset: 0, 0
+  index: -1
+successive_jimon_downeye
+  rotate: false
+  xy: 1003, 1878
+  size: 73, 43
+  orig: 73, 43
+  offset: 0, 0
+  index: -1
+dragon_jimon_child_eye3
+  rotate: true
+  xy: 1087, 372
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+dragon_jimon_e_critical15
+  rotate: false
+  xy: 656, 679
+  size: 210, 215
+  orig: 212, 217
+  offset: 1, 1
+  index: -1
+successive_jimon_e_head
+  rotate: false
+  xy: 459, 1696
+  size: 145, 121
+  orig: 145, 121
+  offset: 0, 0
+  index: -1
+successive_jimon_happyeye
+  rotate: true
+  xy: 1041, 336
+  size: 75, 44
+  orig: 75, 44
+  offset: 0, 0
+  index: -1
+dragon_jimon_e_critical05
+  rotate: true
+  xy: 459, 900
+  size: 197, 195
+  orig: 197, 197
+  offset: 0, 1
+  index: -1
+dragon_jimon_baby_mouth1
+  rotate: false
+  xy: 428, 961
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+successive_jimon_e_l_ear
+  rotate: false
+  xy: 428, 902
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+dragon_jimon_critical_aura02
+  rotate: false
+  xy: 541, 2
+  size: 250, 216
+  orig: 254, 218
+  offset: 3, 0
+  index: -1
+successive_jimon_angereye
+  rotate: false
+  xy: 1003, 1980
+  size: 70, 40
+  orig: 70, 40
+  offset: 0, 0
+  index: -1
+dragon_jimon_e_critical10
+  rotate: true
+  xy: 232, 1600
+  size: 223, 225
+  orig: 225, 225
+  offset: 1, 0
+  index: -1
+dragon_jimon_critical16
+  rotate: false
+  xy: 2, 1577
+  size: 228, 227
+  orig: 230, 229
+  offset: 1, 1
+  index: -1
+dragon_jimon_critical06
+  rotate: false
+  xy: 459, 1488
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+successive_jimon_crieye
+  rotate: true
+  xy: 1036, 1475
+  size: 68, 35
+  orig: 68, 35
+  offset: 0, 0
+  index: -1
+dragon_jimon_child_eye2
+  rotate: true
+  xy: 1087, 336
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+successive_jimon_tail
+  rotate: false
+  xy: 976, 413
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
+dragon_jimon_critical15
+  rotate: true
+  xy: 656, 896
+  size: 210, 215
+  orig: 212, 217
+  offset: 1, 1
+  index: -1
+dragon_jimon_critical05
+  rotate: true
+  xy: 458, 1099
+  size: 197, 195
+  orig: 197, 197
+  offset: 0, 1
+  index: -1
+dragon_jimon_e_critical_aura02
+  rotate: false
+  xy: 273, 222
+  size: 250, 216
+  orig: 254, 218
+  offset: 3, 0
+  index: -1
+dragon_jimon_e_critical14
+  rotate: false
+  xy: 868, 679
+  size: 210, 215
+  orig: 212, 217
+  offset: 1, 1
+  index: -1
+dragon_jimon_e_critical04
+  rotate: false
+  xy: 459, 1298
+  size: 187, 188
+  orig: 189, 188
+  offset: 1, 0
+  index: -1
+dragon_jimon_child_leg1
+  rotate: true
+  xy: 428, 945
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+successive_jimon_loveeye
+  rotate: false
+  xy: 894, 1803
+  size: 77, 44
+  orig: 77, 44
+  offset: 0, 0
+  index: -1
+dragon_jimon_baby_z
+  rotate: false
+  xy: 848, 1803
+  size: 44, 50
+  orig: 44, 50
+  offset: 0, 0
+  index: -1
+dragon_jimon_critical11
+  rotate: true
+  xy: 232, 1142
+  size: 229, 224
+  orig: 231, 226
+  offset: 1, 1
+  index: -1
+dragon_jimon_e_critical17
+  rotate: false
+  xy: 2, 890
+  size: 228, 227
+  orig: 230, 229
+  offset: 1, 1
+  index: -1
+dragon_jimon_critical01
+  rotate: true
+  xy: 812, 1321
+  size: 162, 163
+  orig: 162, 163
+  offset: 0, 0
+  index: -1
+dragon_jimon_e_critical07
+  rotate: true
+  xy: 228, 1825
+  size: 213, 215
+  orig: 215, 215
+  offset: 1, 0
+  index: -1
+successive_jimon_blood
+  rotate: true
+  xy: 1024, 180
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+successive_jimon_e_r_ear
+  rotate: true
+  xy: 940, 645
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+dragon_jimon_critical_aura05
+  rotate: false
+  xy: 2, 222
+  size: 269, 218
+  orig: 269, 218
+  offset: 0, 0
+  index: -1
+dragon_jimon_critical14
+  rotate: false
+  xy: 873, 896
+  size: 210, 215
+  orig: 212, 217
+  offset: 1, 1
+  index: -1
+successive_jimon_eye1
+  rotate: false
+  xy: 606, 1696
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+dragon_jimon_critical04
+  rotate: false
+  xy: 667, 1485
+  size: 187, 188
+  orig: 189, 188
+  offset: 1, 0
+  index: -1
+dragon_jimon_child_body
+  rotate: false
+  xy: 1041, 180
+  size: 67, 78
+  orig: 67, 78
+  offset: 0, 0
+  index: -1
+dragon_jimon_e_cri2
+  rotate: false
+  xy: 1003, 1775
+  size: 101, 101
+  orig: 103, 103
+  offset: 1, 1
+  index: -1
+successive_jimon_e_r_leg
+  rotate: false
+  xy: 1080, 667
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+dragon_jimon_adult_cri
+  rotate: false
+  xy: 856, 1666
+  size: 136, 135
+  orig: 136, 135
+  offset: 0, 0
+  index: -1
+dragon_jimon_e_critical16
+  rotate: false
+  xy: 2, 1119
+  size: 228, 227
+  orig: 230, 229
+  offset: 1, 1
+  index: -1
+dragon_jimon_critical10
+  rotate: true
+  xy: 749, 228
+  size: 223, 225
+  orig: 225, 225
+  offset: 1, 0
+  index: -1
+successive_jimon_body3
+  rotate: false
+  xy: 1080, 696
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+dragon_jimon_e_critical06
+  rotate: false
+  xy: 872, 1113
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+dragon_jimon_critical19
+  rotate: true
+  xy: 976, 228
+  size: 176, 63
+  orig: 178, 65
+  offset: 1, 1
+  index: -1
+dragon_jimon_e_critical_aura03
+  rotate: true
+  xy: 234, 662
+  size: 238, 194
+  orig: 248, 206
+  offset: 9, 1
+  index: -1
+dragon_jimon_critical09
+  rotate: false
+  xy: 430, 674
+  size: 224, 224
+  orig: 224, 224
+  offset: 0, 0
+  index: -1
+dragon_jimon_child_tail
+  rotate: false
+  xy: 1077, 645
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+dragon_jimon_baby_eye1
+  rotate: false
+  xy: 657, 2028
+  size: 41, 11
+  orig: 41, 11
+  offset: 0, 0
+  index: -1
+successive_jimon_horn
+  rotate: true
+  xy: 1073, 1507
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+dragon_jimon_critical_aura04
+  rotate: false
+  xy: 2, 442
+  size: 266, 218
+  orig: 268, 218
+  offset: 2, 0
+  index: -1
+successive_jimon_dmgeye
+  rotate: true
+  xy: 1078, 1878
+  size: 65, 30
+  orig: 65, 30
+  offset: 0, 0
+  index: -1
+successive_jimon_e_tail
+  rotate: false
+  xy: 1073, 1462
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+successive_jimon_heart2
+  rotate: true
+  xy: 1036, 1545
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+successive_jimon_heart
+  rotate: false
+  xy: 977, 1462
+  size: 85, 11
+  orig: 85, 11
+  offset: 0, 0
+  index: -1
+dragon_jimon_e_critical13
+  rotate: false
+  xy: 445, 1825
+  size: 210, 215
+  orig: 212, 217
+  offset: 1, 1
+  index: -1
+dragon_jimon_e_critical03
+  rotate: false
+  xy: 856, 1485
+  size: 178, 179
+  orig: 180, 179
+  offset: 1, 0
+  index: -1
+dragon_jimon_child_eye1
+  rotate: true
+  xy: 973, 1803
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+dragon_jimon_critical13
+  rotate: true
+  xy: 655, 1108
+  size: 210, 215
+  orig: 212, 217
+  offset: 1, 1
+  index: -1
+successive_jimon_body2
+  rotate: false
+  xy: 994, 1666
+  size: 96, 107
+  orig: 96, 107
+  offset: 0, 0
+  index: -1
+dragon_jimon_critical03
+  rotate: true
+  xy: 667, 1675
+  size: 178, 179
+  orig: 180, 179
+  offset: 1, 0
+  index: -1
+dragon_jimon_critical18
+  rotate: false
+  xy: 487, 447
+  size: 225, 225
+  orig: 227, 227
+  offset: 1, 1
+  index: -1
+dragon_jimon_e_critical_aura04
+  rotate: false
+  xy: 273, 2
+  size: 266, 218
+  orig: 268, 218
+  offset: 2, 0
+  index: -1
+dragon_jimon_baby_mouth2
+  rotate: false
+  xy: 1061, 1923
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+dragon_jimon_critical08
+  rotate: false
+  xy: 525, 222
+  size: 222, 223
+  orig: 224, 223
+  offset: 1, 0
+  index: -1
+dragon_jimon_child_heart
+  rotate: true
+  xy: 1036, 1545
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+successive_jimon_anger
+  rotate: false
+  xy: 1003, 1923
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1
+dragon_jimon_e_critical19
+  rotate: true
+  xy: 1024, 2
+  size: 176, 63
+  orig: 178, 65
+  offset: 1, 1
+  index: -1
+successive_jimon_eye2
+  rotate: true
+  xy: 1089, 2
+  size: 58, 17
+  orig: 58, 17
+  offset: 0, 0
+  index: -1
+successive_jimon_sweat
+  rotate: false
+  xy: 606, 1805
+  size: 16, 18
+  orig: 16, 20
+  offset: 0, 1
+  index: -1
+dragon_jimon_baby_body
+  rotate: false
+  xy: 1041, 260
+  size: 62, 74
+  orig: 62, 74
+  offset: 0, 0
+  index: -1
+dragon_jimon_e_critical09
+  rotate: false
+  xy: 714, 453
+  size: 224, 224
+  orig: 224, 224
+  offset: 0, 0
+  index: -1
+dragon_jimon_child_leg2
+  rotate: false
+  xy: 1089, 62
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+dragon_jimon_e_critical12
+  rotate: false
+  xy: 2, 662
+  size: 230, 226
+  orig: 232, 226
+  offset: 1, 0
+  index: -1
+successive_jimon_foot
+  rotate: false
+  xy: 1020, 645
+  size: 55, 17
+  orig: 55, 17
+  offset: 0, 0
+  index: -1
+dragon_jimon_e_critical02
+  rotate: false
+  xy: 657, 1855
+  size: 171, 171
+  orig: 171, 171
+  offset: 0, 0
+  index: -1
+dragon_jimon_e_cri1
+  rotate: false
+  xy: 940, 453
+  size: 168, 190
+  orig: 168, 192
+  offset: 0, 1
+  index: -1

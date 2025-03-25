@@ -1,0 +1,606 @@
+dragon_4116_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_luda_child_r_leg
+  rotate: false
+  xy: 210, 452
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+dragon_luda_effect_light3
+  rotate: false
+  xy: 642, 2
+  size: 226, 227
+  orig: 226, 227
+  offset: 0, 0
+  index: -1
+dragon_luda_effect_l_beam5
+  rotate: true
+  xy: 1001, 417
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: -1
+dragon_luda_effect_l_beam
+  rotate: true
+  xy: 812, 483
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+dragon_luda_child_f_r_leg
+  rotate: false
+  xy: 1003, 473
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+dragon_luda_effect_light_smoke5
+  rotate: true
+  xy: 575, 296
+  size: 119, 36
+  orig: 119, 36
+  offset: 0, 0
+  index: -1
+dragon_luda_effect_beam2
+  rotate: true
+  xy: 958, 158
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+dragon_luda_baby_f_r_leg
+  rotate: true
+  xy: 881, 482
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+dragon_luda_child_f_l_leg2
+  rotate: false
+  xy: 870, 2
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+dragon_luda_adult_neck
+  rotate: true
+  xy: 931, 399
+  size: 76, 68
+  orig: 76, 68
+  offset: 0, 0
+  index: -1
+dragon_luda_child_l_foot
+  rotate: true
+  xy: 953, 373
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+dragon_luda_child_smile
+  rotate: false
+  xy: 919, 231
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_luda_child_r_foot
+  rotate: true
+  xy: 958, 202
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+dragon_luda_child_f_l_hand
+  rotate: true
+  xy: 1003, 371
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+dragon_luda_baby_smile
+  rotate: false
+  xy: 919, 231
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_luda_adult_r_leg3
+  rotate: false
+  xy: 911, 482
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+dragon_luda_effect_l_beam4
+  rotate: false
+  xy: 761, 382
+  size: 40, 15
+  orig: 40, 15
+  offset: 0, 0
+  index: -1
+dragon_luda_child_eye
+  rotate: false
+  xy: 972, 79
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+dragon_luda_effect_light_smoke2
+  rotate: true
+  xy: 823, 294
+  size: 85, 31
+  orig: 85, 31
+  offset: 0, 0
+  index: -1
+dragon_luda_baby_l_leg
+  rotate: false
+  xy: 85, 487
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+dragon_luda_circle2
+  rotate: false
+  xy: 434, 2
+  size: 206, 292
+  orig: 386, 400
+  offset: 80, 27
+  index: -1
+dragon_luda_adult_mouth
+  rotate: false
+  xy: 923, 293
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+dragon_luda_child_tail
+  rotate: false
+  xy: 1003, 171
+  size: 59, 52
+  orig: 59, 52
+  offset: 0, 0
+  index: -1
+dragon_luda_effect_beam3
+  rotate: false
+  xy: 753, 231
+  size: 82, 61
+  orig: 82, 61
+  offset: 0, 0
+  index: -1
+dragon_luda_effect_l_beam7
+  rotate: false
+  xy: 1027, 282
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+dragon_luda_adult_l_leg3
+  rotate: false
+  xy: 870, 128
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+dragon_luda_child_mouth
+  rotate: false
+  xy: 975, 330
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+dragon_luda_adult_f_r_leg2
+  rotate: false
+  xy: 870, 158
+  size: 50, 71
+  orig: 50, 71
+  offset: 0, 0
+  index: -1
+dragon_luda_adult_f_r_foot
+  rotate: false
+  xy: 936, 477
+  size: 65, 32
+  orig: 65, 32
+  offset: 0, 0
+  index: -1
+dragon_luda_adult_face
+  rotate: true
+  xy: 1003, 2
+  size: 71, 60
+  orig: 71, 60
+  offset: 0, 0
+  index: -1
+dragon_luda_adult_love_eye
+  rotate: false
+  xy: 724, 399
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+dragon_luda_effect_l_beam3
+  rotate: false
+  xy: 171, 487
+  size: 77, 20
+  orig: 77, 20
+  offset: 0, 0
+  index: -1
+dragon_luda_adult_eye3
+  rotate: true
+  xy: 235, 452
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+dragon_luda_child_f_l_leg
+  rotate: true
+  xy: 1027, 323
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+dragon_luda_effect_light_smoke3
+  rotate: true
+  xy: 575, 417
+  size: 87, 41
+  orig: 87, 41
+  offset: 0, 0
+  index: -1
+dragon_luda_child_body
+  rotate: true
+  xy: 742, 399
+  size: 94, 68
+  orig: 94, 68
+  offset: 0, 0
+  index: -1
+dragon_luda_baby_r_leg
+  rotate: false
+  xy: 66, 487
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+dragon_luda_adult_r_leg
+  rotate: false
+  xy: 210, 296
+  size: 38, 76
+  orig: 38, 76
+  offset: 0, 0
+  index: -1
+dragon_luda_baby_mouth
+  rotate: false
+  xy: 870, 90
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: -1
+dragon_luda_effect_l_beam6
+  rotate: false
+  xy: 870, 50
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+dragon_luda_adult_l_leg2
+  rotate: true
+  xy: 1000, 282
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+dragon_luda_critical
+  rotate: false
+  xy: 250, 296
+  size: 29, 213
+  orig: 29, 215
+  offset: 0, 1
+  index: -1
+dragon_luda_circle3
+  rotate: true
+  xy: 281, 296
+  size: 208, 292
+  orig: 386, 400
+  offset: 79, 27
+  index: -1
+dragon_luda_effect_light_cristal
+  rotate: false
+  xy: 618, 408
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+dragon_luda_adult_f_r_leg
+  rotate: false
+  xy: 761, 294
+  size: 60, 86
+  orig: 60, 86
+  offset: 0, 0
+  index: -1
+dragon_luda_effect_beam4
+  rotate: true
+  xy: 812, 399
+  size: 82, 56
+  orig: 82, 56
+  offset: 0, 0
+  index: -1
+dragon_luda_adult_f_l_foot
+  rotate: true
+  xy: 922, 158
+  size: 68, 34
+  orig: 68, 34
+  offset: 0, 0
+  index: -1
+dragon_luda_adult_tail2
+  rotate: false
+  xy: 953, 2
+  size: 47, 75
+  orig: 47, 75
+  offset: 0, 0
+  index: -1
+dragon_luda_adult_body
+  rotate: true
+  xy: 613, 296
+  size: 110, 109
+  orig: 110, 109
+  offset: 0, 0
+  index: -1
+dragon_luda_effect_cristal
+  rotate: true
+  xy: 877, 374
+  size: 23, 74
+  orig: 23, 74
+  offset: 0, 0
+  index: -1
+dragon_luda_adult_eye
+  rotate: false
+  xy: 742, 495
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+dragon_luda_baby_eye2
+  rotate: false
+  xy: 923, 78
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+dragon_luda_effect_l_beam2
+  rotate: true
+  xy: 919, 2
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+dragon_luda_adult_eye2
+  rotate: true
+  xy: 159, 487
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+dragon_luda_adult_r_foot
+  rotate: false
+  xy: 840, 381
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+dragon_luda_adult_mouth2
+  rotate: true
+  xy: 1034, 417
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+dragon_luda_circle
+  rotate: false
+  xy: 210, 2
+  size: 222, 292
+  orig: 386, 400
+  offset: 68, 27
+  index: -1
+dragon_luda_child_l_leg
+  rotate: false
+  xy: 978, 229
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+dragon_luda_baby_eye
+  rotate: false
+  xy: 919, 58
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+dragon_luda_adult_f_l_leg
+  rotate: false
+  xy: 674, 408
+  size: 66, 95
+  orig: 66, 95
+  offset: 0, 0
+  index: -1
+dragon_luda_child_eye2
+  rotate: false
+  xy: 1025, 398
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+dragon_luda_effect_light2
+  rotate: true
+  xy: 923, 100
+  size: 56, 76
+  orig: 56, 76
+  offset: 0, 0
+  index: -1
+dragon_luda_baby_l_foot
+  rotate: false
+  xy: 952, 79
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+dragon_luda_baby_body
+  rotate: true
+  xy: 642, 231
+  size: 62, 56
+  orig: 62, 56
+  offset: 0, 0
+  index: -1
+dragon_luda_effect_light_smoke4
+  rotate: true
+  xy: 724, 295
+  size: 102, 35
+  orig: 102, 35
+  offset: 0, 0
+  index: -1
+dragon_luda_child_face
+  rotate: false
+  xy: 837, 231
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+dragon_luda_baby_r_foot
+  rotate: false
+  xy: 978, 310
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+dragon_luda_effect_beam1
+  rotate: true
+  xy: 1027, 361
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+dragon_luda_effect_light_smoke
+  rotate: false
+  xy: 2, 487
+  size: 62, 22
+  orig: 62, 22
+  offset: 0, 0
+  index: -1
+dragon_luda_baby_f_r_foot
+  rotate: true
+  xy: 104, 487
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+dragon_luda_critical2
+  rotate: false
+  xy: 2, 2
+  size: 206, 483
+  orig: 206, 497
+  offset: 0, 6
+  index: -1
+dragon_luda_adult_l_leg
+  rotate: false
+  xy: 210, 374
+  size: 38, 76
+  orig: 38, 76
+  offset: 0, 0
+  index: -1
+dragon_luda_effect_light
+  rotate: false
+  xy: 700, 231
+  size: 51, 62
+  orig: 51, 62
+  offset: 0, 0
+  index: -1
+dragon_luda_child_neck
+  rotate: false
+  xy: 1003, 225
+  size: 58, 55
+  orig: 58, 55
+  offset: 0, 0
+  index: -1
+dragon_luda_baby_tail
+  rotate: false
+  xy: 116, 487
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+dragon_luda_adult_smile
+  rotate: false
+  xy: 919, 231
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+dragon_luda_baby_f_l_foot
+  rotate: true
+  xy: 147, 487
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+dragon_luda_child_f_r_leg2
+  rotate: true
+  xy: 923, 330
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+dragon_luda_baby_f_l_leg
+  rotate: true
+  xy: 851, 483
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+dragon_luda_effect_beam5
+  rotate: false
+  xy: 1003, 145
+  size: 60, 24
+  orig: 102, 56
+  offset: 0, 32
+  index: -1
+dragon_luda_adult_tail1
+  rotate: true
+  xy: 1003, 75
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+dragon_luda_adult_r_leg2
+  rotate: true
+  xy: 895, 128
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+dragon_luda_adult_l_foot
+  rotate: false
+  xy: 803, 382
+  size: 35, 15
+  orig: 35, 15
+  offset: 0, 0
+  index: -1
+dragon_luda_child_f_r_hand
+  rotate: true
+  xy: 978, 264
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+dragon_luda_baby_face
+  rotate: true
+  xy: 870, 399
+  size: 81, 59
+  orig: 81, 59
+  offset: 0, 0
+  index: -1
+dragon_luda_adult_f_l_leg2
+  rotate: false
+  xy: 856, 293
+  size: 65, 79
+  orig: 65, 79
+  offset: 0, 0
+  index: -1

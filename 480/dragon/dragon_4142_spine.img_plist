@@ -1,0 +1,1166 @@
+dragon_4142_spine.pvr.ccz
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+dragon_enturath_adult_body
+  rotate: false
+  xy: 186, 723
+  size: 68, 83
+  orig: 68, 83
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_f_fire2
+  rotate: false
+  xy: 720, 1010
+  size: 53, 81
+  orig: 55, 83
+  offset: 1, 1
+  index: -1
+dragon_enturath_child_body
+  rotate: true
+  xy: 447, 379
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_e_tail3
+  rotate: true
+  xy: 174, 930
+  size: 56, 80
+  orig: 56, 80
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_f_fire3
+  rotate: true
+  xy: 930, 791
+  size: 52, 92
+  orig: 54, 94
+  offset: 1, 1
+  index: -1
+dragon_enturath_adult_l_fire2
+  rotate: true
+  xy: 971, 391
+  size: 73, 51
+  orig: 75, 53
+  offset: 1, 1
+  index: -1
+dragon_enturath_adult_e_r_hand
+  rotate: true
+  xy: 533, 1155
+  size: 67, 76
+  orig: 67, 76
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_chest
+  rotate: true
+  xy: 196, 483
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+dragon_enturath_child_h_l_fire
+  rotate: false
+  xy: 743, 1155
+  size: 58, 64
+  orig: 60, 66
+  offset: 1, 1
+  index: -1
+dragon_enturath_adult_l_fire3
+  rotate: true
+  xy: 880, 1152
+  size: 71, 56
+  orig: 73, 58
+  offset: 1, 1
+  index: -1
+dragon_enturath_adult_e_h_r_fire
+  rotate: true
+  xy: 677, 1155
+  size: 65, 64
+  orig: 67, 66
+  offset: 1, 1
+  index: -1
+dragon_enturath_child_r_foot
+  rotate: false
+  xy: 2, 895
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+dragon_4142_s_cape_l2
+  rotate: false
+  xy: 933, 648
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+dragon_enturath_baby_r_hand
+  rotate: false
+  xy: 729, 261
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+dragon_4142_s_cape_l3
+  rotate: false
+  xy: 801, 981
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_e_eye4
+  rotate: false
+  xy: 150, 957
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+dragon_enturath_critical_smoke4
+  rotate: false
+  xy: 2, 386
+  size: 192, 165
+  orig: 196, 173
+  offset: 3, 3
+  index: -1
+dragon_enturath_adult_e_face_acc
+  rotate: true
+  xy: 295, 1114
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+dragon_enturath_critical_smoke5
+  rotate: false
+  xy: 2, 1099
+  size: 126, 119
+  orig: 128, 121
+  offset: 1, 0
+  index: -1
+dragon_enturath_baby_body
+  rotate: false
+  xy: 729, 168
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+dragon_4142_s_helmet_feather
+  rotate: true
+  xy: 149, 1001
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+dragon_enturath_critical_smoke2
+  rotate: true
+  xy: 766, 813
+  size: 128, 131
+  orig: 138, 139
+  offset: 4, 4
+  index: -1
+dragon_enturath_critical_smoke3
+  rotate: true
+  xy: 2, 553
+  size: 174, 182
+  orig: 178, 188
+  offset: 4, 2
+  index: -1
+dragon_4142_s_cape_l1
+  rotate: false
+  xy: 416, 840
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_e_f_fire
+  rotate: true
+  xy: 368, 1157
+  size: 65, 78
+  orig: 67, 80
+  offset: 1, 1
+  index: -1
+dragon_enturath_adult_r_wing
+  rotate: false
+  xy: 648, 784
+  size: 116, 120
+  orig: 116, 122
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_l_fire
+  rotate: false
+  xy: 2, 932
+  size: 72, 54
+  orig: 74, 56
+  offset: 1, 1
+  index: -1
+dragon_enturath_child_r_hand
+  rotate: false
+  xy: 447, 445
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_l_leg2
+  rotate: false
+  xy: 48, 1080
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_l_hand
+  rotate: true
+  xy: 299, 983
+  size: 83, 84
+  orig: 83, 84
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_e_l_wing
+  rotate: false
+  xy: 391, 913
+  size: 117, 133
+  orig: 117, 133
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_tail2
+  rotate: false
+  xy: 297, 1068
+  size: 84, 44
+  orig: 84, 44
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_tail3
+  rotate: true
+  xy: 174, 872
+  size: 56, 80
+  orig: 56, 80
+  offset: 0, 0
+  index: -1
+dragon_enturath_baby_tail
+  rotate: false
+  xy: 902, 1053
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_l_foot
+  rotate: true
+  xy: 411, 1115
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_e_l_hand_light
+  rotate: false
+  xy: 930, 699
+  size: 92, 90
+  orig: 94, 92
+  offset: 1, 1
+  index: -1
+dragon_enturath_adult_h_r_fire
+  rotate: true
+  xy: 611, 1155
+  size: 65, 64
+  orig: 67, 66
+  offset: 1, 1
+  index: -1
+dragon_enturath_adult_e_l_hand
+  rotate: false
+  xy: 676, 698
+  size: 85, 84
+  orig: 85, 84
+  offset: 0, 0
+  index: -1
+dragon_enturath_child_h_l_fire2
+  rotate: true
+  xy: 497, 1099
+  size: 54, 72
+  orig: 56, 74
+  offset: 1, 1
+  index: -1
+dragon_enturath_child_h_l_fire3
+  rotate: true
+  xy: 2, 988
+  size: 58, 75
+  orig: 60, 77
+  offset: 1, 1
+  index: -1
+dragon_enturath_adult_neck_acc
+  rotate: false
+  xy: 716, 413
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+dragon_enturath_child_r_fire
+  rotate: false
+  xy: 447, 570
+  size: 63, 59
+  orig: 65, 61
+  offset: 1, 1
+  index: -1
+dragon_enturath_adult_l_leg
+  rotate: false
+  xy: 987, 66
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
+dragon_enturath_baby_h_r_fire
+  rotate: false
+  xy: 948, 1053
+  size: 37, 37
+  orig: 39, 39
+  offset: 1, 1
+  index: -1
+dragon_enturath_baby_l_foot
+  rotate: true
+  xy: 221, 1030
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_l_wing
+  rotate: true
+  xy: 256, 864
+  size: 117, 133
+  orig: 117, 133
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_l_foot_acc
+  rotate: false
+  xy: 758, 981
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+dragon_enturath_child_l_foot
+  rotate: true
+  xy: 69, 895
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+dragon_enturath_baby_mouth
+  rotate: true
+  xy: 382, 1115
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+dragon_enturath_baby_h_r_fire2
+  rotate: false
+  xy: 221, 1048
+  size: 39, 47
+  orig: 41, 49
+  offset: 1, 1
+  index: -1
+dragon_enturath_baby_h_r_fire3
+  rotate: false
+  xy: 341, 1114
+  size: 39, 41
+  orig: 41, 43
+  offset: 1, 1
+  index: -1
+dragon_enturath_e_critical_dust
+  rotate: false
+  xy: 259, 106
+  size: 252, 81
+  orig: 258, 87
+  offset: 3, 3
+  index: -1
+dragon_enturath_e_critical_beam2
+  rotate: false
+  xy: 513, 115
+  size: 214, 155
+  orig: 218, 211
+  offset: 3, 1
+  index: -1
+dragon_enturath_child_face_acc
+  rotate: true
+  xy: 930, 676
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+dragon_enturath_baby_eye
+  rotate: true
+  xy: 987, 1053
+  size: 37, 15
+  orig: 37, 17
+  offset: 0, 2
+  index: -1
+dragon_enturath_adult_f_fire
+  rotate: false
+  xy: 79, 1018
+  size: 65, 78
+  orig: 67, 80
+  offset: 1, 1
+  index: -1
+dragon_enturath_critical_b_smoke4
+  rotate: false
+  xy: 512, 466
+  size: 178, 155
+  orig: 186, 165
+  offset: 4, 6
+  index: -1
+dragon_enturath_child_mouth
+  rotate: false
+  xy: 79, 988
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+dragon_enturath_critical_b_smoke5
+  rotate: true
+  xy: 2, 729
+  size: 164, 170
+  orig: 172, 178
+  offset: 4, 4
+  index: -1
+dragon_enturath_adult_mouth
+  rotate: true
+  xy: 39, 895
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+dragon_enturath_critical_b_smoke2
+  rotate: false
+  xy: 2, 215
+  size: 193, 169
+  orig: 203, 175
+  offset: 5, 4
+  index: -1
+dragon_enturath_critical_b_smoke3
+  rotate: false
+  xy: 768, 2
+  size: 217, 181
+  orig: 223, 187
+  offset: 3, 2
+  index: -1
+dragon_enturath_child_l_hand
+  rotate: true
+  xy: 197, 358
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_e_h_r_fire2
+  rotate: true
+  xy: 301, 1157
+  size: 66, 65
+  orig: 68, 67
+  offset: 1, 1
+  index: -1
+dragon_enturath_critical_b_smoke
+  rotate: false
+  xy: 257, 605
+  size: 178, 151
+  orig: 184, 155
+  offset: 3, 4
+  index: -1
+dragon_enturath_adult_e_h_r_fire3
+  rotate: true
+  xy: 803, 1154
+  size: 58, 75
+  orig: 60, 77
+  offset: 1, 1
+  index: -1
+dragon_enturath_child_neck
+  rotate: true
+  xy: 465, 189
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+dragon_enturath_critical_fire4
+  rotate: false
+  xy: 767, 359
+  size: 202, 192
+  orig: 204, 196
+  offset: 1, 3
+  index: -1
+dragon_enturath_adult_neck
+  rotate: true
+  xy: 971, 541
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+dragon_enturath_critical_fire5
+  rotate: false
+  xy: 259, 189
+  size: 204, 172
+  orig: 206, 174
+  offset: 1, 1
+  index: -1
+dragon_enturath_child_eye2
+  rotate: true
+  xy: 899, 981
+  size: 23, 17
+  orig: 25, 17
+  offset: 1, 0
+  index: -1
+dragon_enturath_critical_fire2
+  rotate: false
+  xy: 510, 890
+  size: 134, 105
+  orig: 140, 109
+  offset: 5, 4
+  index: -1
+dragon_enturath_critical_fire3
+  rotate: false
+  xy: 512, 623
+  size: 162, 158
+  orig: 170, 162
+  offset: 2, 3
+  index: -1
+dragon_enturath_baby_l_fire
+  rotate: false
+  xy: 729, 115
+  size: 37, 51
+  orig: 39, 53
+  offset: 1, 2
+  index: -1
+dragon_4142_s_cape_r2
+  rotate: true
+  xy: 676, 668
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+dragon_4142_s_cape_r3
+  rotate: true
+  xy: 987, 2
+  size: 62, 35
+  orig: 62, 35
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_eye2
+  rotate: false
+  xy: 974, 211
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+dragon_enturath_critical_smoke
+  rotate: false
+  xy: 510, 997
+  size: 131, 100
+  orig: 153, 104
+  offset: 7, 0
+  index: -1
+dragon_enturath_adult_eye3
+  rotate: true
+  xy: 974, 196
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+dragon_4142_s_cape_tail
+  rotate: false
+  xy: 385, 1048
+  size: 110, 65
+  orig: 110, 65
+  offset: 0, 0
+  index: -1
+dragon_4142_s_cape_r1
+  rotate: true
+  xy: 785, 943
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_h_l_fire
+  rotate: true
+  xy: 692, 622
+  size: 74, 72
+  orig: 76, 74
+  offset: 1, 1
+  index: -1
+dragon_enturath_critical_fire6
+  rotate: false
+  xy: 259, 484
+  size: 186, 119
+  orig: 188, 121
+  offset: 1, 1
+  index: -1
+dragon_enturath_adult_e_h_l_fire2
+  rotate: false
+  xy: 938, 1151
+  size: 75, 70
+  orig: 77, 72
+  offset: 1, 1
+  index: -1
+dragon_4142_s_helmet1
+  rotate: true
+  xy: 196, 412
+  size: 69, 61
+  orig: 69, 61
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_e_h_l_fire3
+  rotate: false
+  xy: 692, 545
+  size: 73, 75
+  orig: 75, 77
+  offset: 1, 1
+  index: -1
+dragon_enturath_adult_eye
+  rotate: false
+  xy: 974, 185
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+dragon_4142_s_helmet2
+  rotate: true
+  xy: 465, 300
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_r_fire2
+  rotate: false
+  xy: 197, 289
+  size: 60, 67
+  orig: 62, 69
+  offset: 1, 1
+  index: -1
+dragon_enturath_adult_e_tail_acc
+  rotate: false
+  xy: 437, 707
+  size: 72, 67
+  orig: 72, 67
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_face
+  rotate: true
+  xy: 2, 1048
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+dragon_4142_s_helmet3
+  rotate: false
+  xy: 758, 943
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_r_fire3
+  rotate: false
+  xy: 197, 215
+  size: 60, 72
+  orig: 62, 74
+  offset: 1, 1
+  index: -1
+dragon_enturath_baby_eye2
+  rotate: true
+  xy: 416, 758
+  size: 40, 18
+  orig: 40, 20
+  offset: 0, 1
+  index: -1
+dragon_4142_s_cape3_b
+  rotate: true
+  xy: 256, 983
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_h_l_fire2
+  rotate: true
+  xy: 830, 1016
+  size: 75, 70
+  orig: 77, 72
+  offset: 1, 1
+  index: -1
+dragon_enturath_baby_eye3
+  rotate: true
+  xy: 416, 800
+  size: 38, 18
+  orig: 40, 20
+  offset: 1, 2
+  index: -1
+dragon_enturath_child_face
+  rotate: true
+  xy: 974, 270
+  size: 66, 47
+  orig: 66, 47
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_h_l_fire3
+  rotate: false
+  xy: 692, 468
+  size: 73, 75
+  orig: 75, 77
+  offset: 1, 1
+  index: -1
+dragon_enturath_adult_h_r_fire2
+  rotate: true
+  xy: 234, 1157
+  size: 66, 65
+  orig: 68, 67
+  offset: 1, 1
+  index: -1
+dragon_enturath_adult_e_f_fire2
+  rotate: false
+  xy: 775, 1010
+  size: 53, 81
+  orig: 55, 83
+  offset: 1, 1
+  index: -1
+dragon_enturath_adult_h_r_fire3
+  rotate: true
+  xy: 686, 1095
+  size: 58, 75
+  orig: 60, 77
+  offset: 1, 1
+  index: -1
+dragon_enturath_baby_face
+  rotate: false
+  xy: 174, 808
+  size: 80, 62
+  orig: 80, 62
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_chest_acc
+  rotate: false
+  xy: 729, 216
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+dragon_enturath_child_r_wing
+  rotate: true
+  xy: 902, 1006
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_e_f_fire3
+  rotate: true
+  xy: 416, 859
+  size: 52, 92
+  orig: 54, 94
+  offset: 1, 1
+  index: -1
+dragon_enturath_adult_e_l_fire2
+  rotate: true
+  xy: 971, 466
+  size: 73, 51
+  orig: 75, 53
+  offset: 1, 1
+  index: -1
+dragon_enturath_baby_r_foot
+  rotate: false
+  xy: 676, 623
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+dragon_enturath_baby_h_l_fire
+  rotate: false
+  xy: 933, 610
+  size: 36, 36
+  orig: 38, 38
+  offset: 1, 1
+  index: -1
+dragon_enturath_adult_e_l_fire3
+  rotate: false
+  xy: 882, 1093
+  size: 71, 56
+  orig: 73, 58
+  offset: 1, 1
+  index: -1
+dragon_enturath_adult_tail
+  rotate: false
+  xy: 448, 1155
+  size: 83, 67
+  orig: 83, 67
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_e_r_fire2
+  rotate: false
+  xy: 197, 289
+  size: 60, 67
+  orig: 62, 69
+  offset: 1, 1
+  index: -1
+dragon_enturath_critical_fire
+  rotate: true
+  xy: 130, 1099
+  size: 110, 102
+  orig: 118, 106
+  offset: 4, 1
+  index: -1
+dragon_enturath_adult_e_r_fire3
+  rotate: false
+  xy: 197, 215
+  size: 60, 72
+  orig: 62, 74
+  offset: 1, 1
+  index: -1
+dragon_enturath_adult_e_r_fire
+  rotate: true
+  xy: 809, 1093
+  size: 57, 71
+  orig: 59, 73
+  offset: 1, 1
+  index: -1
+dragon_enturath_child_tail
+  rotate: false
+  xy: 196, 538
+  size: 59, 98
+  orig: 59, 98
+  offset: 0, 0
+  index: -1
+dragon_enturath_child_r_leg
+  rotate: false
+  xy: 262, 1048
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+dragon_enturath_child_r_fire2
+  rotate: false
+  xy: 447, 509
+  size: 63, 59
+  orig: 65, 61
+  offset: 1, 1
+  index: -1
+dragon_enturath_child_r_fire3
+  rotate: false
+  xy: 971, 599
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+dragon_enturath_child_eye
+  rotate: true
+  xy: 676, 647
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_e_body
+  rotate: false
+  xy: 186, 638
+  size: 68, 83
+  orig: 68, 83
+  offset: 0, 0
+  index: -1
+dragon_enturath_e_critical_fire6
+  rotate: false
+  xy: 259, 363
+  size: 186, 119
+  orig: 188, 121
+  offset: 1, 1
+  index: -1
+dragon_enturath_baby_r_fire
+  rotate: false
+  xy: 571, 1099
+  size: 58, 54
+  orig: 60, 56
+  offset: 1, 1
+  index: -1
+dragon_enturath_e_critical_fire2
+  rotate: false
+  xy: 512, 783
+  size: 134, 105
+  orig: 140, 109
+  offset: 5, 4
+  index: -1
+dragon_enturath_child_f_fire2
+  rotate: false
+  xy: 716, 345
+  size: 49, 66
+  orig: 51, 68
+  offset: 1, 1
+  index: -1
+dragon_enturath_child_f_fire3
+  rotate: false
+  xy: 465, 235
+  size: 45, 63
+  orig: 47, 65
+  offset: 1, 1
+  index: -1
+dragon_enturath_e_critical_fire4
+  rotate: false
+  xy: 512, 272
+  size: 202, 192
+  orig: 204, 196
+  offset: 1, 3
+  index: -1
+dragon_enturath_e_critical_fire3
+  rotate: false
+  xy: 766, 653
+  size: 162, 158
+  orig: 170, 162
+  offset: 2, 3
+  index: -1
+dragon_enturath_e_critical_beam
+  rotate: false
+  xy: 2, 2
+  size: 255, 211
+  orig: 257, 213
+  offset: 1, 1
+  index: -1
+dragon_enturath_e_critical_fire5
+  rotate: false
+  xy: 768, 185
+  size: 204, 172
+  orig: 206, 174
+  offset: 1, 1
+  index: -1
+dragon_enturath_child_h_r_fire
+  rotate: false
+  xy: 631, 1099
+  size: 53, 54
+  orig: 55, 56
+  offset: 1, 1
+  index: -1
+dragon_enturath_adult_e_r_hand_light
+  rotate: false
+  xy: 643, 1010
+  size: 75, 83
+  orig: 77, 85
+  offset: 1, 1
+  index: -1
+dragon_4142_s_helmet_ear
+  rotate: false
+  xy: 987, 180
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+dragon_enturath_baby_r_leg
+  rotate: true
+  xy: 810, 943
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+dragon_enturath_child_h_r_fire2
+  rotate: true
+  xy: 234, 1097
+  size: 58, 59
+  orig: 60, 61
+  offset: 1, 1
+  index: -1
+dragon_enturath_e_critical_fire
+  rotate: false
+  xy: 646, 906
+  size: 110, 102
+  orig: 118, 106
+  offset: 4, 1
+  index: -1
+dragon_4142_s_cape_circle_r
+  rotate: true
+  xy: 150, 979
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+dragon_enturath_child_l_wing
+  rotate: false
+  xy: 716, 304
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_r_leg
+  rotate: true
+  xy: 130, 895
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+dragon_enturath_child_h_r_fire3
+  rotate: false
+  xy: 955, 981
+  size: 56, 70
+  orig: 58, 72
+  offset: 1, 1
+  index: -1
+dragon_enturath_child_f_fire
+  rotate: false
+  xy: 763, 1093
+  size: 44, 59
+  orig: 46, 61
+  offset: 1, 1
+  index: -1
+dragon_4142_s_sword_r
+  rotate: true
+  xy: 256, 758
+  size: 104, 158
+  orig: 104, 158
+  offset: 0, 0
+  index: -1
+dragon_4142_s_cape_circle_l
+  rotate: true
+  xy: 447, 363
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+dragon_enturath_e_critical_dust2
+  rotate: false
+  xy: 259, 2
+  size: 253, 102
+  orig: 261, 112
+  offset: 4, 6
+  index: -1
+dragon_enturath_e_critical_dust3
+  rotate: false
+  xy: 514, 2
+  size: 252, 111
+  orig: 256, 127
+  offset: 3, 10
+  index: -1
+dragon_4142_s_cape_marvel
+  rotate: true
+  xy: 716, 272
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+dragon_4142_s_sword_l
+  rotate: true
+  xy: 767, 553
+  size: 98, 164
+  orig: 98, 164
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_e_h_l_fire
+  rotate: true
+  xy: 437, 631
+  size: 74, 72
+  orig: 76, 74
+  offset: 1, 1
+  index: -1
+dragon_enturath_adult_face_acc
+  rotate: true
+  xy: 150, 932
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+dragon_enturath_baby_r_fire2
+  rotate: false
+  xy: 955, 1092
+  size: 43, 54
+  orig: 45, 56
+  offset: 1, 1
+  index: -1
+dragon_enturath_baby_l_hand
+  rotate: false
+  xy: 899, 813
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+dragon_enturath_baby_h_l_fire2
+  rotate: false
+  xy: 221, 988
+  size: 33, 40
+  orig: 35, 42
+  offset: 1, 1
+  index: -1
+dragon_enturath_baby_r_fire3
+  rotate: true
+  xy: 971, 654
+  size: 43, 51
+  orig: 45, 53
+  offset: 1, 1
+  index: -1
+dragon_enturath_baby_h_l_fire3
+  rotate: true
+  xy: 465, 345
+  size: 32, 45
+  orig: 34, 47
+  offset: 1, 1
+  index: -1
+dragon_enturath_child_l_leg
+  rotate: false
+  xy: 987, 128
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_r_fire
+  rotate: false
+  xy: 840, 943
+  size: 57, 71
+  orig: 59, 73
+  offset: 1, 1
+  index: -1
+dragon_enturath_baby_face_acc
+  rotate: true
+  xy: 391, 864
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_e_l_fire
+  rotate: false
+  xy: 76, 932
+  size: 72, 54
+  orig: 74, 56
+  offset: 1, 1
+  index: -1
+dragon_enturath_adult_r_leg2
+  rotate: true
+  xy: 130, 988
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+dragon_enturath_baby_l_leg
+  rotate: false
+  xy: 471, 1115
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_r_hand
+  rotate: true
+  xy: 436, 776
+  size: 66, 74
+  orig: 66, 74
+  offset: 0, 0
+  index: -1
+dragon_enturath_adult_r_foot_acc
+  rotate: false
+  xy: 48, 1048
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+dragon_enturath_baby_l_fire2
+  rotate: false
+  xy: 933, 553
+  size: 36, 55
+  orig: 38, 57
+  offset: 1, 1
+  index: -1
+dragon_enturath_adult_e_r_wing
+  rotate: true
+  xy: 899, 852
+  size: 127, 120
+  orig: 127, 122
+  offset: 0, 0
+  index: -1
+dragon_enturath_baby_l_fire3
+  rotate: true
+  xy: 974, 230
+  size: 38, 48
+  orig: 40, 50
+  offset: 1, 1
+  index: -1
+dragon_enturath_adult_r_foot
+  rotate: false
+  xy: 974, 338
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
